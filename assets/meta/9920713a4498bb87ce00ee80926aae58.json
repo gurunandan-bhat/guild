@@ -1,0 +1,515 @@
+{
+	"id": 1014214,
+	"title": "Singham Again",
+	"fcg_title": "Singham Again",
+	"original_title": "सिंघम अगेन",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		}
+	],
+	"overview": "The cop universe expands with newer additions while the old ones return led by Bajirao Singham. Singham Again interweaves the mythological epic Ramayana's good vs evil narrative when his wife Avni Kamath gets abducted by Danger Lanka setting Bajirao and his gang of Sangram Bhalerao and Veer Sooryavanshi along with Satya and Shakti Shetty on a mission to rescue her.",
+	"backdrop_path": "/yLKkuYMcibmNEvb97I4t6eDSSwk.jpg",
+	"poster_path": "/2JbNkHg8m7LaBy61LyrnnlenaxY.jpg",
+	"release_date": "2024-11-01",
+	"credits": {
+		"cast": [
+			{
+				"id": 42803,
+				"order": 0,
+				"name": "Ajay Devgn",
+				"profile_path": "/83jDgHAPf4hPCFoF1OTF08xkhd6.jpg",
+				"character": "Bajirao Singham",
+				"gender": 2
+			},
+			{
+				"id": 37233,
+				"order": 1,
+				"name": "Kareena Kapoor Khan",
+				"profile_path": "/pJZJJ93NwJq3kb3RWtaZBYVga1x.jpg",
+				"character": "Avni Kamat",
+				"gender": 1
+			},
+			{
+				"id": 1034470,
+				"order": 2,
+				"name": "Arjun Kapoor",
+				"profile_path": "/24NE9QaKp66sM6C3eCsGUuleXXf.jpg",
+				"character": "Danger Lanka/Zubair Hafeez",
+				"gender": 2
+			},
+			{
+				"id": 224223,
+				"order": 3,
+				"name": "Ranveer Singh",
+				"profile_path": "/sRiwLmhduFghJo8U2coUafnDD4C.jpg",
+				"character": "Sangram 'Simmba' Bhalerao",
+				"gender": 2
+			},
+			{
+				"id": 1338512,
+				"order": 4,
+				"name": "Tiger Shroff",
+				"profile_path": "/kgvll1RBCcDTs6KJZFDb291AuZb.jpg",
+				"character": "Satya Bali",
+				"gender": 2
+			},
+			{
+				"id": 53975,
+				"order": 5,
+				"name": "Deepika Padukone",
+				"profile_path": "/sXgEh0z6NzyvmEeBeLPK1ON7NBY.jpg",
+				"character": "Shakti Shetty",
+				"gender": 1
+			},
+			{
+				"id": 35070,
+				"order": 6,
+				"name": "Akshay Kumar",
+				"profile_path": "/1d77rFiN8h2JXE6vS8VCuc2k20J.jpg",
+				"character": "Veer Sooryavanshi",
+				"gender": 2
+			},
+			{
+				"id": 86014,
+				"order": 7,
+				"name": "Jackie Shroff",
+				"profile_path": "/1UNJypgEyuihUW2avLLVYj76jie.jpg",
+				"character": "Omar Hafeez",
+				"gender": 2
+			},
+			{
+				"id": 1240790,
+				"order": 8,
+				"name": "Shweta Tiwari",
+				"profile_path": "/va9vSbIXmVTLW8mLEpivyLOR13n.jpg",
+				"character": "Devika Singh",
+				"gender": 1
+			},
+			{
+				"id": 85658,
+				"order": 9,
+				"name": "Dayanand Shetty",
+				"profile_path": "/3ycLKD84ueT5qCRkmkVWbVzNuVc.jpg",
+				"character": "Daya"
+			},
+			{
+				"id": 85882,
+				"order": 10,
+				"name": "Ravi Kishan",
+				"profile_path": "/rkUTRk0tuA98RepP9jhgcCbhHqy.jpg",
+				"character": "Raj Jaishankar",
+				"gender": 2
+			},
+			{
+				"id": 42802,
+				"order": 11,
+				"name": "Salman Khan",
+				"profile_path": "/n7pKtccmf2jVOz8Qn90q2ThqLge.jpg",
+				"character": "Chulbul Pandey (Cameo)",
+				"gender": 2
+			},
+			{
+				"id": 2683572,
+				"order": 12,
+				"name": "Viren Vazirani",
+				"profile_path": "/iIm4SQccjb2A8TMYVoeJDlLk2Q9.jpg",
+				"character": "Shaurya Singham"
+			},
+			{
+				"id": 2664747,
+				"order": 13,
+				"name": "Mehroos Mir",
+				"character": "Kashmiri Boy"
+			},
+			{
+				"id": 3539040,
+				"order": 14,
+				"name": "Prerna Gandhi",
+				"character": "Revti Amma"
+			},
+			{
+				"id": 5128746,
+				"order": 15,
+				"name": "Ranbir Vijan",
+				"character": "Melvin"
+			},
+			{
+				"id": 4984355,
+				"order": 16,
+				"name": "Sara Arfeen Khan",
+				"character": "Mrigya/Iqra Hafeez"
+			},
+			{
+				"id": 2258854,
+				"order": 17,
+				"name": "Ankit Mohan",
+				"profile_path": "/z1GXtEGrW5olCKDeNNju4RM1lyh.jpg",
+				"character": "Sarath"
+			},
+			{
+				"id": 5128750,
+				"order": 18,
+				"name": "Hemant Rathi",
+				"character": "Subbu"
+			},
+			{
+				"id": 4558144,
+				"order": 19,
+				"name": "Bhagya Nair",
+				"character": "Subbu's Wife"
+			},
+			{
+				"id": 585388,
+				"order": 20,
+				"name": "Rajshri Nair",
+				"profile_path": "/pYqirSBEogl3hMvnAkXFKmOhPoT.jpg",
+				"character": "Satya's Mother",
+				"gender": 1
+			},
+			{
+				"id": 3717770,
+				"order": 21,
+				"name": "Anushka Merchande",
+				"character": "Trisha"
+			},
+			{
+				"id": 2715217,
+				"order": 22,
+				"name": "Chetan Chitnis",
+				"character": "Ranga"
+			},
+			{
+				"id": 1783704,
+				"order": 23,
+				"name": "R.Siddharth",
+				"profile_path": "/4CffA4qZ5Lh6W8BkVBkgXgHbyIR.jpg",
+				"character": "Birju",
+				"gender": 2
+			},
+			{
+				"id": 5128759,
+				"order": 24,
+				"name": "Shubham Sharma",
+				"character": "Ram"
+			},
+			{
+				"id": 5128760,
+				"order": 25,
+				"name": "Vansh Pannu",
+				"character": "Lakshman"
+			},
+			{
+				"id": 4559406,
+				"order": 26,
+				"name": "Varinder Singh",
+				"character": "Hanuman"
+			},
+			{
+				"id": 5128762,
+				"order": 27,
+				"name": "Hardeep Singh",
+				"character": "Raavan"
+			},
+			{
+				"id": 5128763,
+				"order": 28,
+				"name": "Saloni Misra",
+				"character": "Sita"
+			},
+			{
+				"id": 5128764,
+				"order": 29,
+				"name": "Rajesh Dubey",
+				"character": "Dashrath"
+			},
+			{
+				"id": 5128765,
+				"order": 30,
+				"name": "Priya Nimishakavi",
+				"character": "Kaikai"
+			},
+			{
+				"id": 5128767,
+				"order": 31,
+				"name": "Sharad Shetty",
+				"character": "INS Kumar"
+			},
+			{
+				"id": 5128768,
+				"order": 32,
+				"name": "Krishna Saajnani",
+				"character": "Home Minister Secretary"
+			},
+			{
+				"id": 5128769,
+				"order": 33,
+				"name": "Raju Kamle",
+				"character": "Constable Baskar"
+			},
+			{
+				"id": 5128770,
+				"order": 34,
+				"name": "Abhishek Jaigovind",
+				"character": "Sri Lanka Doctor"
+			}
+		],
+		"crew": [
+			{
+				"id": 86783,
+				"name": "Rohit Shetty",
+				"profile_path": "/9ZRyKwijT7OAMjIEEPATeTZ2ZQn.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2771218,
+				"name": "Abhijeet Khuman",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 1658334,
+				"name": "Jyoti Deshpande",
+				"profile_path": "/fpbj5f3Uny0xdyPU8Qt5dMbi1PT.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 227367,
+				"name": "Milap Zaveri",
+				"profile_path": "/uzFADUA9jDZ6kYyd1s03O7KApgp.jpg",
+				"job": "Dialogue",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 86783,
+				"name": "Rohit Shetty",
+				"profile_path": "/9ZRyKwijT7OAMjIEEPATeTZ2ZQn.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2255753,
+				"name": "Shantanu Srivastava",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 3531607,
+				"name": "Anusha Nandakumar",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 2131012,
+				"name": "Swapnil Bhalerao",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 131860,
+				"name": "Yunus Sajawal",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 2131001,
+				"name": "Madhur Madhavan",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 86783,
+				"name": "Rohit Shetty",
+				"profile_path": "/9ZRyKwijT7OAMjIEEPATeTZ2ZQn.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 42803,
+				"name": "Ajay Devgn",
+				"profile_path": "/83jDgHAPf4hPCFoF1OTF08xkhd6.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1333714,
+				"name": "Kshitij Patwardhan",
+				"profile_path": "/bEN10sQLwLZ9UlgAqkptFHlMXLa.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 3531605,
+				"name": "Sandeep Saket",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 85385,
+				"name": "Bunty Nagi",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 4488701,
+				"name": "Girish Kant",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 4488702,
+				"name": "Raza Hussain Mehta",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 585344,
+				"name": "S. Thaman",
+				"profile_path": "/y2VYUPTSWr580Fx8hxUNcUTViUa.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2006306,
+				"name": "Ravi Basrur",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 959445,
+				"name": "Ganesh Acharya",
+				"profile_path": "/xmonkmVHlfmyz7pR0LuGgFvyvNj.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2027103,
+				"name": "Rakesh Ranjan",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1785033,
+				"name": "Sunil Rodrigues",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 1418328,
+				"name": "Grant Hulley",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1363304,
+				"name": "Swanand Kirkire",
+				"profile_path": "/uigsx0yTtSUTfsXffiqhPY1Y7ke.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 233065,
+				"name": "Kumaar",
+				"profile_path": "/9sHLGuvqvmfbeh9RiaYROVQ2VUy.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4488716,
+				"name": "Himani Rawat Patel",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2203798,
+				"name": "Sadashiv Athule",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1705316,
+				"name": "Kumar Mangat Pathak",
+				"profile_path": "/TQokIwYhZesbeMrSTfXZJ8BlM1.jpg",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3298830,
+				"name": "Vidhi Ghodgaonkar",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 86783,
+				"name": "Rohit Shetty",
+				"profile_path": "/9ZRyKwijT7OAMjIEEPATeTZ2ZQn.jpg",
+				"job": "Dialogue",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1333714,
+				"name": "Kshitij Patwardhan",
+				"profile_path": "/bEN10sQLwLZ9UlgAqkptFHlMXLa.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 115236,
+				"name": "Inderjit Chadha",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2506607,
+				"name": "Ramesh Bokade",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4985368,
+				"name": "Deepak Mogare",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4488713,
+				"name": "Anuva Gupta",
+				"job": "Executive Producer",
+				"department": "Production"
+			}
+		]
+	}
+}

@@ -1,0 +1,334 @@
+{
+	"id": 1158874,
+	"title": "Sugarcane",
+	"fcg_title": "Sugarcane",
+	"original_title": "Sugarcane",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 99,
+			"name": "Documentary"
+		}
+	],
+	"overview": "An investigation into abuse and missing children at an Indian residential school in Canada ignites a reckoning on the nearby Sugarcane Reserve.",
+	"backdrop_path": "/vOZVZ42bSYYOfGJGTkXGrxDFP4g.jpg",
+	"poster_path": "/9Xx4o4MVSDv0pojOzoHMH5y85hB.jpg",
+	"release_date": "2024-08-09",
+	"credits": {
+		"cast": [
+			{
+				"id": 4191273,
+				"order": 0,
+				"name": "Julian Brave NoiseCat",
+				"profile_path": "/2gdUAEGlMQTiOHAuBKIxfhv62Gg.jpg",
+				"character": "Self",
+				"gender": 2
+			},
+			{
+				"id": 4501890,
+				"order": 1,
+				"name": "Willie Sellars",
+				"character": "Self"
+			},
+			{
+				"id": 4501891,
+				"order": 2,
+				"name": "Charlene Belleau",
+				"character": "Self"
+			},
+			{
+				"id": 4676826,
+				"order": 3,
+				"name": "Ed Archie Noisecat",
+				"character": "Self"
+			},
+			{
+				"id": 4676827,
+				"order": 4,
+				"name": "Chief Willie Sellars",
+				"character": "Self"
+			}
+		],
+		"crew": [
+			{
+				"id": 2896150,
+				"name": "Bill Way",
+				"profile_path": "/jeVVGhF0Uam087yjZrEVoBiQDLY.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2841128,
+				"name": "Elliott Whitton",
+				"profile_path": "/3mVuh1JO07pHA2HpuNB9xSZw0JB.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1341533,
+				"name": "Linda A. Cornfield",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1341532,
+				"name": "David J. Cornfield",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2731673,
+				"name": "Adam Lewis",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2624382,
+				"name": "Robina Riccitiello",
+				"profile_path": "/An32PgJXJPjnyR4HrFHBkqbOlCl.jpg",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4416532,
+				"name": "Jana Lee Cherneski",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3062531,
+				"name": "Jennifer Pelling",
+				"profile_path": "/6HGhlTo9wEfaT7k2aDJFZ6wtpRo.jpg",
+				"job": "Co-Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1587322,
+				"name": "Christopher LaMarca",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 2219523,
+				"name": "Meryl Metni",
+				"job": "Co-Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3133726,
+				"name": "Tegan Acton",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1122263,
+				"name": "Nathan Punwar",
+				"profile_path": "/h1pBDq6tOjd4NR1K6YXsYVGlG7B.jpg",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 3133185,
+				"name": "Grace Lay",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2730686,
+				"name": "Melony Lewis",
+				"profile_path": "/6LEM82WTucVky0SshfuOZawcatY.jpg",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4416538,
+				"name": "Sabrina Merage Naim",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2981665,
+				"name": "Douglas Choi",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3623897,
+				"name": "Emma Pompetti",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4416536,
+				"name": "Ian Desai",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1126877,
+				"name": "Geralyn White Dreyfous",
+				"profile_path": "/t25RCx0fyLkUJFOsc3uoPsPiIlM.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 3286120,
+				"name": "Kelsey Koenig",
+				"job": "Co-Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1161763,
+				"name": "Jenny Raskin",
+				"profile_path": "/o3EMS1cNq7dHpQSpp9o5fj2tggA.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1732136,
+				"name": "Lauren Haber",
+				"profile_path": "/6j8Qg2v2WVVFuNPPGLKKlhvCuLL.jpg",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 88934,
+				"name": "Emily Kassie",
+				"profile_path": "/7iO7GppWHD0HfhgYvc0eaGlLaUG.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 88934,
+				"name": "Emily Kassie",
+				"profile_path": "/7iO7GppWHD0HfhgYvc0eaGlLaUG.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1498686,
+				"name": "Maya Daisy Hawke",
+				"profile_path": "/mKZ8eJhaJwgqFSdRXwuqqeGId5S.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 4128053,
+				"name": "Maida Lynn",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1231251,
+				"name": "Nina Sing Fialkow",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1636429,
+				"name": "Carolyn Bernstein",
+				"profile_path": "/nq3ZiuDdX19AtT8NuSRPl0KnKnT.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1731971,
+				"name": "David Fialkow",
+				"profile_path": "/rXRS4vRTXJv9LB2lD78jtdPd5Ct.jpg",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1587322,
+				"name": "Christopher LaMarca",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1193309,
+				"name": "David Teague",
+				"job": "Consulting Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1621763,
+				"name": "Katrina Taylor",
+				"job": "Consulting Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1899607,
+				"name": "Todd Chandler",
+				"job": "Consulting Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 57874,
+				"name": "Andrew Gross",
+				"profile_path": "/AvGY2z7ecsmnLHPEKNLNzmpFVh2.jpg",
+				"job": "Music Supervisor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2077351,
+				"name": "Kellen Quinn",
+				"profile_path": "/3TQARJGlgjRkEF1kJqdPw8yRSAo.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4191273,
+				"name": "Julian Brave NoiseCat",
+				"profile_path": "/2gdUAEGlMQTiOHAuBKIxfhv62Gg.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1183917,
+				"name": "Lily Gladstone",
+				"profile_path": "/zYAN84WqZv2sbVE2JDkcWoXGoF7.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 88934,
+				"name": "Emily Kassie",
+				"profile_path": "/7iO7GppWHD0HfhgYvc0eaGlLaUG.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 1
+			},
+			{
+				"id": 88934,
+				"name": "Emily Kassie",
+				"profile_path": "/7iO7GppWHD0HfhgYvc0eaGlLaUG.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 5070738,
+				"name": "Mali Obomsawin",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			}
+		]
+	}
+}

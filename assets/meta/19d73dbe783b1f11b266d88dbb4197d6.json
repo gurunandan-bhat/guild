@@ -1,0 +1,595 @@
+{
+	"id": 1184918,
+	"title": "The Wild Robot",
+	"fcg_title": "The Wild Robot",
+	"original_title": "The Wild Robot",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 16,
+			"name": "Animation"
+		},
+		{
+			"id": 878,
+			"name": "Science Fiction"
+		},
+		{
+			"id": 10751,
+			"name": "Family"
+		}
+	],
+	"overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+	"backdrop_path": "/mQZJoIhTEkNhCYAqcHrQqhENLdu.jpg",
+	"poster_path": "/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+	"release_date": "2024-09-12",
+	"credits": {
+		"cast": [
+			{
+				"id": 1267329,
+				"order": 0,
+				"name": "Lupita Nyong'o",
+				"profile_path": "/y40Wu1T742kynOqtwXASc5Qgm49.jpg",
+				"character": "Roz / Rummage (voice)",
+				"gender": 1
+			},
+			{
+				"id": 1253360,
+				"order": 1,
+				"name": "Pedro Pascal",
+				"profile_path": "/9VYK7oxcqhjd5LAH6ZFJ3XzOlID.jpg",
+				"character": "Fink (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1538851,
+				"order": 2,
+				"name": "Kit Connor",
+				"profile_path": "/6BDubD35VfSa0uyPr0UuYznuiM4.jpg",
+				"character": "Brightbill (voice)",
+				"gender": 2
+			},
+			{
+				"id": 2440,
+				"order": 3,
+				"name": "Bill Nighy",
+				"profile_path": "/acbigDOU1L1vMWAL3Wf0r8h8qLA.jpg",
+				"character": "Longneck (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1381186,
+				"order": 4,
+				"name": "Stephanie Hsu",
+				"profile_path": "/8gb3lfIHKQAGOQyeC4ynQPsCiHr.jpg",
+				"character": "Vontra (voice)",
+				"gender": 1
+			},
+			{
+				"id": 1488236,
+				"order": 5,
+				"name": "Matt Berry",
+				"profile_path": "/7a1sWg1W7ZmNF8bLSnyAlJgQQGD.jpg",
+				"character": "Paddler (voice)",
+				"gender": 2
+			},
+			{
+				"id": 10182,
+				"order": 6,
+				"name": "Ving Rhames",
+				"profile_path": "/4gpLVNKPZlVucc4fT2fSZ7DksTK.jpg",
+				"character": "Thunderbolt (voice)",
+				"gender": 2
+			},
+			{
+				"id": 2,
+				"order": 7,
+				"name": "Mark Hamill",
+				"profile_path": "/2ZulC2Ccq1yv3pemusks6Zlfy2s.jpg",
+				"character": "Thorn (voice)",
+				"gender": 2
+			},
+			{
+				"id": 11514,
+				"order": 8,
+				"name": "Catherine O'Hara",
+				"profile_path": "/gI2RyymLJ9ZrhEyJSD5EqSvFpCX.jpg",
+				"character": "Pinktail (voice)",
+				"gender": 1
+			},
+			{
+				"id": 4967567,
+				"order": 9,
+				"name": "Boone Storm",
+				"profile_path": "/kn5JY9C0oHq09MFLB5vFpoqgop7.jpg",
+				"character": "Baby Brightbill (voice)",
+				"gender": 2
+			},
+			{
+				"id": 3745698,
+				"order": 10,
+				"name": "Alexandra Novelle",
+				"profile_path": "/bMO0vFS6HpDG7J1PTbAEJ8jRKub.jpg",
+				"character": "Snowdown (voice)",
+				"gender": 1
+			},
+			{
+				"id": 1368512,
+				"order": 11,
+				"name": "Raphael Alejandro",
+				"profile_path": "/cBS5Sin0fATnHWS4ofYIYQG8suH.jpg",
+				"character": "Peck (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1975196,
+				"order": 12,
+				"name": "Paul-Mikél Williams",
+				"profile_path": "/5f6YOmEZkAzt95Hm2oihuvRCdRK.jpg",
+				"character": "Feather (voice)",
+				"gender": 2
+			},
+			{
+				"id": 3745667,
+				"order": 13,
+				"name": "Eddie Park",
+				"profile_path": "/r96gdQnmER5O4RfdBdMOT2sVT5I.jpg",
+				"character": "Honkington (voice)",
+				"gender": 2
+			},
+			{
+				"id": 23680,
+				"order": 14,
+				"name": "Dee Bradley Baker",
+				"profile_path": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg",
+				"character": "Raccoons / Squirrels / Badgers (voice)",
+				"gender": 2
+			},
+			{
+				"id": 42267,
+				"order": 15,
+				"name": "Randy Thom",
+				"profile_path": "/oWv5U4r7NcIlQjs0IxMWE3dsx2l.jpg",
+				"character": "RECOs (voice)",
+				"gender": 2
+			},
+			{
+				"id": 112330,
+				"order": 16,
+				"name": "Avrielle Corti",
+				"profile_path": "/rgzPmGIVWyufBgMqApTxtHjYZmv.jpg",
+				"character": "Automated Alarms (voice)",
+				"gender": 1
+			},
+			{
+				"id": 1152021,
+				"order": 17,
+				"name": "Keston John",
+				"profile_path": "/zEqkvuCDDgiErHg3XNyoG5TulUg.jpg",
+				"character": "Weasel 1 (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1379386,
+				"order": 18,
+				"name": "Max Mittelman",
+				"profile_path": "/zQqiIgestpxssPrUXQXkY2Sq0y8.jpg",
+				"character": "Weasel 2 (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1449707,
+				"order": 19,
+				"name": "Piotr Michael",
+				"profile_path": "/r9ddS7WpHoLLb0KMEeRE3QSECnW.jpg",
+				"character": "Broadfoot / Weasel 3 (voice)",
+				"gender": 2
+			},
+			{
+				"id": 4967576,
+				"order": 20,
+				"name": "Alessandro Beghi",
+				"character": "Baby Opossum 1 (voice)",
+				"gender": 2
+			},
+			{
+				"id": 3516191,
+				"order": 21,
+				"name": "Tiago Martinez",
+				"character": "Baby Opossum 2 (voice)",
+				"gender": 2
+			},
+			{
+				"id": 4967579,
+				"order": 22,
+				"name": "Becca Last",
+				"character": "Baby Opossum 3 (voice)",
+				"gender": 1
+			},
+			{
+				"id": 4967581,
+				"order": 23,
+				"name": "Madelyn Turpin",
+				"character": "Baby Opossum 3, 4, 5, 6 (voice)",
+				"gender": 1
+			},
+			{
+				"id": 4663825,
+				"order": 24,
+				"name": "Kayleigh Rayne",
+				"character": "Baby Opossum 4, 7 / Baby Bunny 2 / Baby Skunk (voice)",
+				"gender": 1
+			},
+			{
+				"id": 4967583,
+				"order": 25,
+				"name": "Isabelle Tupin",
+				"character": "Baby Opossum 8, 9 / Baby Bunny 1 (voice)",
+				"gender": 1
+			},
+			{
+				"id": 4967584,
+				"order": 26,
+				"name": "Beckett Blomberg",
+				"character": "Baby Opossum 10 / Chipmunk / Baby Lynx (voice)",
+				"gender": 2
+			},
+			{
+				"id": 4967585,
+				"order": 27,
+				"name": "Damon Fung",
+				"character": "Baby Opossum 11 / Baby Otter (voice)",
+				"gender": 2
+			},
+			{
+				"id": 4871610,
+				"order": 28,
+				"name": "King Moore",
+				"character": "Baby Opossum 12 (voice)",
+				"gender": 2
+			},
+			{
+				"id": 3200942,
+				"order": 29,
+				"name": "Collin Erker",
+				"character": "Skunk (voice)",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1681250,
+				"name": "Raymond Zibach",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 2001828,
+				"name": "Mary Blee",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 66193,
+				"name": "Chris Sanders",
+				"profile_path": "/6CtrIOCxggJ5eIAWeFQqd4Hs9FP.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 66193,
+				"name": "Chris Sanders",
+				"profile_path": "/6CtrIOCxggJ5eIAWeFQqd4Hs9FP.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 69797,
+				"name": "Dean DeBlois",
+				"profile_path": "/miMZ0l4rY81NiyMviWz1BeTGtuE.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1847451,
+				"name": "Jeff Hermann",
+				"profile_path": "/jnmKGFp8tHpaVogXgSRV91w4LXK.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1806628,
+				"name": "Heidi Jo Gilbert",
+				"job": "Head of Story",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 4296354,
+				"name": "Peter Brown",
+				"profile_path": "/9utvGyOHFGVEmTo6VT7846bK8WJ.jpg",
+				"job": "Novel",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1802871,
+				"name": "Kris Bowers",
+				"profile_path": "/qL0TnImRmCRIcoQy1d3GjTPKCLn.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 42267,
+				"name": "Randy Thom",
+				"profile_path": "/oWv5U4r7NcIlQjs0IxMWE3dsx2l.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3504,
+				"name": "David Farmer",
+				"profile_path": "/oYNchEjc32GucUPvXAHMXajk3xJ.jpg",
+				"job": "Sound Effects Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1722927,
+				"name": "Maren Morris",
+				"profile_path": "/zg3gnfGLWY9yL2yRuTurdmU98rG.jpg",
+				"job": "Songs",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 2717127,
+				"name": "Steven A. MacLeod",
+				"job": "Storyboard Artist",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 3157179,
+				"name": "Genevieve Tsai",
+				"job": "Storyboard Artist",
+				"department": "Art"
+			},
+			{
+				"id": 1454722,
+				"name": "Catherine Yuh Rader",
+				"job": "Storyboard Artist",
+				"department": "Art"
+			},
+			{
+				"id": 1776007,
+				"name": "Benjamin Balistreri",
+				"job": "Storyboard Artist",
+				"department": "Art"
+			},
+			{
+				"id": 2331836,
+				"name": "Andrew Erekson",
+				"job": "Storyboard Artist",
+				"department": "Art"
+			},
+			{
+				"id": 2017050,
+				"name": "Taylor Meacham",
+				"job": "Storyboard Artist",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 139686,
+				"name": "John Puglisi",
+				"job": "Storyboard Artist",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 4979736,
+				"name": "Sarah Gold Amburgey",
+				"job": "Additional Storyboarding",
+				"department": "Art"
+			},
+			{
+				"id": 1450351,
+				"name": "Matt Flynn",
+				"job": "Additional Storyboarding",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 3643675,
+				"name": "Daniel Tal",
+				"job": "Additional Storyboarding",
+				"department": "Art"
+			},
+			{
+				"id": 56660,
+				"name": "Lorna Cook",
+				"profile_path": "/fyIFFkzzgbKg5jYFPunIUfCxeLv.jpg",
+				"job": "Additional Storyboarding",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 4979739,
+				"name": "Joanne Matte",
+				"job": "Additional Storyboarding",
+				"department": "Art"
+			},
+			{
+				"id": 1769896,
+				"name": "Nelson Yokota",
+				"job": "Additional Storyboarding",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 2872262,
+				"name": "Adam Rosette",
+				"job": "Additional Storyboarding",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1272637,
+				"name": "Chris Stover",
+				"job": "Cinematography",
+				"department": "Crew"
+			},
+			{
+				"id": 2012542,
+				"name": "Heather Lanza",
+				"profile_path": "/8MzWABIZKDEAYSbsvLngqVFNdec.jpg",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2008370,
+				"name": "Ritchie Sacilioc",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 3600202,
+				"name": "Jeff Levy",
+				"job": "ADR Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 4996697,
+				"name": "Erik Tillmans",
+				"job": "Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1561360,
+				"name": "Brian Chumney",
+				"profile_path": "/hioKZVbtglGhL0rdI9mjqf2AwEe.jpg",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1445838,
+				"name": "Leff Lefferts",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1445838,
+				"name": "Leff Lefferts",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 138618,
+				"name": "Gary Rizzo",
+				"profile_path": "/m8vT9fYRLwM8WPpJiq8QIMBSueQ.jpg",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1118400,
+				"name": "Jamey Scott",
+				"job": "Sound Effects Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1399117,
+				"name": "David C. Hughes",
+				"job": "Sound Effects Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 8165,
+				"name": "Dee Selby",
+				"job": "Foley Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1415464,
+				"name": "Malcolm Fife",
+				"job": "Foley Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 8163,
+				"name": "Jana Vance",
+				"job": "Foley Artist",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1572873,
+				"name": "Ronni Brown",
+				"profile_path": "/ivUg96HtBHsyIMJ5dLq64KNxsrM.jpg",
+				"job": "Foley Artist",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1967858,
+				"name": "Richard Duarte",
+				"job": "Foley Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1389534,
+				"name": "Richard Quinn",
+				"job": "Dialogue Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1407681,
+				"name": "Rick Hromadka",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2002540,
+				"name": "John Geller",
+				"job": "Post Production Supervisor",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1302795,
+				"name": "Derek McGinley",
+				"job": "Sound Mix Technician",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 4686173,
+				"name": "Kristina Morss",
+				"job": "Sound Mix Technician",
+				"department": "Sound",
+				"gender": 1
+			}
+		]
+	}
+}

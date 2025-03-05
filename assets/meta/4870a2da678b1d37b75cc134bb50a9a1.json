@@ -1,0 +1,194 @@
+{
+	"id": 1371763,
+	"title": "The Miranda Brothers",
+	"fcg_title": "The Miranda Brothers",
+	"original_title": "The Miranda Brothers",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "An orphan rescued from trash becomes devoted to his elder brother in a Goan suburb run by a drug gang, both growing to be star footballers - till suspicious death of their mother threatens to tear them apart.",
+	"backdrop_path": "/jqzPCLfHkBQEGTMvlKhV5yBNAP1.jpg",
+	"poster_path": "/47X5YCibNfNj6puDJZwmEHZyMZV.jpg",
+	"release_date": "2024-10-25",
+	"credits": {
+		"cast": [
+			{
+				"id": 1180740,
+				"order": 0,
+				"name": "Harshvardhan Rane",
+				"profile_path": "/pDDgE0YXp1eFJplDcjpN8Vh55Rg.jpg",
+				"character": "Julio Miranda",
+				"gender": 2
+			},
+			{
+				"id": 2348821,
+				"order": 1,
+				"name": "Meezaan Jafri",
+				"profile_path": "/o0dhZNSvFHwWRs8wTJOjbqMSye4.jpg",
+				"character": "Regalo Miranda",
+				"gender": 2
+			},
+			{
+				"id": 1245677,
+				"order": 2,
+				"name": "Manasi Joshi Roy",
+				"profile_path": "/7MKutO7btevSFrBMmAzvBKtag68.jpg",
+				"character": "Susan Miranda",
+				"gender": 1
+			},
+			{
+				"id": 86074,
+				"order": 3,
+				"name": "Sanjay Suri",
+				"profile_path": "/8TYltbXF7cKRnH719rSek6YznJQ.jpg",
+				"character": "Coach Carter",
+				"gender": 2
+			},
+			{
+				"id": 37234,
+				"order": 4,
+				"name": "Rahul Dev",
+				"profile_path": "/wjADAt1yCyQML0qQIQiGLP9xNUm.jpg",
+				"character": "Marroko",
+				"gender": 2
+			},
+			{
+				"id": 2707474,
+				"order": 5,
+				"name": "Surya Sharma",
+				"profile_path": "/qDrADVYJBGAZXvZBh5ZVRO23FAX.jpg",
+				"character": "Max Marroko"
+			},
+			{
+				"id": 2242182,
+				"order": 6,
+				"name": "Sahher Bambba",
+				"profile_path": "/aZ9lsCku1wNGKSn4x9rBg44xDpv.jpg",
+				"character": "Sol Desouza",
+				"gender": 1
+			},
+			{
+				"id": 3216200,
+				"order": 7,
+				"name": "Jeniffer Piccinato",
+				"profile_path": "/fOEKy6hoVRpTAvqrTQf8qzr9ByA.jpg",
+				"character": "Isabella",
+				"gender": 1
+			},
+			{
+				"id": 2391265,
+				"order": 8,
+				"name": "Nikhil Chinappa",
+				"profile_path": "/36pAXgBVgDVGS1XQtO4tFo82aD2.jpg",
+				"character": "Edgar Quintana",
+				"gender": 2
+			},
+			{
+				"id": 2269955,
+				"order": 9,
+				"name": "Naved Jaffrey",
+				"character": "Coach Guerrera"
+			}
+		],
+		"crew": [
+			{
+				"id": 1770592,
+				"name": "Sanjay Gupta",
+				"profile_path": "/dzsC6TD3v0pHFzqfeAr6mNDp0AA.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2480058,
+				"name": "Anuradha Gupta",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 227367,
+				"name": "Milap Zaveri",
+				"profile_path": "/uzFADUA9jDZ6kYyd1s03O7KApgp.jpg",
+				"job": "Dialogue",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1770592,
+				"name": "Sanjay Gupta",
+				"profile_path": "/dzsC6TD3v0pHFzqfeAr6mNDp0AA.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5002439,
+				"name": "Sameer Hafiz",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 1770592,
+				"name": "Sanjay Gupta",
+				"profile_path": "/dzsC6TD3v0pHFzqfeAr6mNDp0AA.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4927458,
+				"name": "Ritu Chadha",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1735437,
+				"name": "Gary Van Shipley",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2226620,
+				"name": "Amit Anshu",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5064396,
+				"name": "Sumit Irani",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2061237,
+				"name": "Shikhar Bhatnagar",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 2000107,
+				"name": "Manish More",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 5064398,
+				"name": "Abbas Ali Moughal",
+				"job": "Action Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1108802,
+				"name": "Mukesh Chhabra",
+				"profile_path": "/f5XI2wJs2JPcd5FSECsdcnkyOMW.jpg",
+				"job": "Casting Director",
+				"department": "Production",
+				"gender": 2
+			}
+		]
+	}
+}

@@ -1,0 +1,476 @@
+{
+	"id": 1195430,
+	"title": "Deva",
+	"fcg_title": "Deva",
+	"original_title": "देवा",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		},
+		{
+			"id": 9648,
+			"name": "Mystery"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		}
+	],
+	"overview": "Dev Ambre, a ruthless cop, loses his memory in an accident just after he has finished solving a murder case and now has to reinvestigate it while keeping his memory loss a secret from everyone except DCP Farhan Khan.",
+	"backdrop_path": "/lqHt4icP1GTaNBeVTxTrwTZdoAW.jpg",
+	"poster_path": "/8KGVSYfwLQMdAUgtuiXMl7ohg1a.jpg",
+	"release_date": "2025-01-31",
+	"credits": {
+		"cast": [
+			{
+				"id": 78245,
+				"order": 0,
+				"name": "Shahid Kapoor",
+				"profile_path": "/q5jqLRioZgIVjXpKS8XHx27ScDQ.jpg",
+				"character": "Dev Ambre",
+				"gender": 2
+			},
+			{
+				"id": 587753,
+				"order": 1,
+				"name": "Pooja Hegde",
+				"profile_path": "/t09lf8vem5MRk3KaALcdgehreXg.jpg",
+				"character": "Diya Sathaye",
+				"gender": 1
+			},
+			{
+				"id": 2032942,
+				"order": 2,
+				"name": "Pavail Gulati",
+				"profile_path": "/xXvbAiEJoshH6SX8AycDpangjrX.jpg",
+				"character": "ACP Rohan D'Silva",
+				"gender": 2
+			},
+			{
+				"id": 1690969,
+				"order": 3,
+				"name": "Pravessh Rana",
+				"profile_path": "/3Ob2Fz0643Yir4tSC2t0B7Sf46r.jpg",
+				"character": "DCP Farhan Khan"
+			},
+			{
+				"id": 587090,
+				"order": 4,
+				"name": "Girish Kulkarni",
+				"profile_path": "/mMqLm0Y42cVDvTvGZzSgYW1aYA7.jpg",
+				"character": "Jairaj Apte",
+				"gender": 2
+			},
+			{
+				"id": 2353405,
+				"order": 5,
+				"name": "Kubbra Sait",
+				"profile_path": "/r10S8LU2HB2zTQx9KHeo8isufs6.jpg",
+				"character": "Dipti Singh",
+				"gender": 1
+			},
+			{
+				"id": 2358518,
+				"order": 6,
+				"name": "Sahidur Rahaman",
+				"character": "Sumer"
+			},
+			{
+				"id": 2936154,
+				"order": 7,
+				"name": "Meenal Sahu",
+				"profile_path": "/twKE7uMLMWOv3KR4bRZgv7WsNKc.jpg",
+				"character": "Rebecca",
+				"gender": 1
+			},
+			{
+				"id": 2281323,
+				"order": 8,
+				"name": "Shivraj Walvekar",
+				"profile_path": "/195lmpaaGeX38ZuFqpr5s30nfRE.jpg",
+				"character": "Rohan's Father"
+			},
+			{
+				"id": 142335,
+				"order": 9,
+				"name": "Upendra Limaye",
+				"profile_path": "/vFELR5TiBfc6LkLvI5kC5lpEnHv.jpg",
+				"character": "Sharp-shooter",
+				"gender": 2
+			},
+			{
+				"id": 1671081,
+				"order": 10,
+				"name": "Chandan Anand",
+				"profile_path": "/fyPk0OQAxPbqid2MZEOCtaFoa9Z.jpg",
+				"character": "Mandar Soorti",
+				"gender": 2
+			},
+			{
+				"id": 1730661,
+				"order": 11,
+				"name": "Manish Wadhwa",
+				"character": "Prabhat Jadhav"
+			},
+			{
+				"id": 5219471,
+				"order": 12,
+				"name": "Bhawana Aneja",
+				"character": "Alka Ambre"
+			},
+			{
+				"id": 4499350,
+				"order": 13,
+				"name": "Aditi Sandhya Sharma",
+				"character": "Bhawna"
+			},
+			{
+				"id": 2812713,
+				"order": 14,
+				"name": "Siddharth Bodke",
+				"profile_path": "/x0ZpIhhkSx6WrvhG1Hc3MrJuNMs.jpg",
+				"character": "Bunty",
+				"gender": 2
+			},
+			{
+				"id": 1185943,
+				"order": 15,
+				"name": "Rishi Deshpande",
+				"character": "Ashok Sathaye"
+			},
+			{
+				"id": 5219472,
+				"order": 16,
+				"name": "Milinnd Ukke",
+				"character": "Adagale"
+			},
+			{
+				"id": 2340243,
+				"order": 17,
+				"name": "Charu Shankar",
+				"character": "Neurosurgeon",
+				"gender": 1
+			},
+			{
+				"id": 5219480,
+				"order": 18,
+				"name": "Nimish Surte",
+				"character": "Rajesh"
+			},
+			{
+				"id": 2340294,
+				"order": 19,
+				"name": "Amit Sharma",
+				"profile_path": "/t95WMj1xrRb7hlOASHgNRXxuwAG.jpg",
+				"character": "Special Correspondent Journalist",
+				"gender": 2
+			},
+			{
+				"id": 5219481,
+				"order": 20,
+				"name": "Pravin Patil",
+				"character": "Abhay Rana"
+			},
+			{
+				"id": 5219482,
+				"order": 21,
+				"name": "Pritam Pyare",
+				"character": "Fareed"
+			},
+			{
+				"id": 3255489,
+				"order": 22,
+				"name": "Nazneen Madan",
+				"character": "Judge"
+			},
+			{
+				"id": 2714134,
+				"order": 23,
+				"name": "Saadhika Syal",
+				"profile_path": "/t3jWXcWKuJbLCzXWUjwVhlkhDxP.jpg",
+				"character": "Bunty's Wife",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 237704,
+				"name": "Rosshan Andrrews",
+				"profile_path": "/qwrfzBIklJ48E7aMgF49E4iqVXO.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 233068,
+				"name": "Siddharth Roy Kapur",
+				"profile_path": "/jZbPkiiSPRF9JEsq63eg7YESAlc.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1640345,
+				"name": "Amit Roy",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2226631,
+				"name": "Sandeep Sharad Ravade",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 4666240,
+				"name": "Malavika Kashikar",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2255720,
+				"name": "Niharika Jolly",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4666241,
+				"name": "Chandani Mehta",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4940792,
+				"name": "Umesh Kr. Bansal",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1110885,
+				"name": "Bobby",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1099989,
+				"name": "Sanjay",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1110885,
+				"name": "Bobby",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1099989,
+				"name": "Sanjay",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2156687,
+				"name": "Vishal Mishra",
+				"profile_path": "/rgTiKOQ016nV05FxiWpvjqurWAC.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1504453,
+				"name": "Jakes Bejoy",
+				"profile_path": "/173WUCFwv0vcQySIoj6hASPOkI6.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 37242,
+				"name": "Sreekar Prasad",
+				"profile_path": "/cHpDtVlleMlplodhKmjPCGqaAFS.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1544564,
+				"name": "Sumit Arora",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 1666879,
+				"name": "Arshad Syed",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 1673370,
+				"name": "Hussain Dalal",
+				"profile_path": "/6V4sNgeLJQ1u8k9MPjVqytKBQWo.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1678468,
+				"name": "Abbas Dalal",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 3411109,
+				"name": "Malvika Khatri",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1756118,
+				"name": "Subash Sahoo",
+				"profile_path": "/34jLCM7r5N0vYo53OfqE7pJI5xA.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1556333,
+				"name": "Bosco Martis",
+				"profile_path": "/yjh5SIwXLh8j4dQgPoE67fIQ8NA.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2483313,
+				"name": "Raj Shekhar",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 1108802,
+				"name": "Mukesh Chhabra",
+				"profile_path": "/f5XI2wJs2JPcd5FSECsdcnkyOMW.jpg",
+				"job": "Casting Director",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2926885,
+				"name": "Pranati Nagarsheth",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5160268,
+				"name": "Insiya Burmawala",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4269709,
+				"name": "Niraj Nagarsheth",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5160272,
+				"name": "Aayush Phadnis",
+				"job": "Supervising Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2120183,
+				"name": "Gladwin James",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2057550,
+				"name": "Aalim Hakim",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1306564,
+				"name": "Supreme Sundar",
+				"profile_path": "/blmGRngQdCHkT9U2DzIAwUSraCv.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 85399,
+				"name": "Abbas Ali Moghul",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 1663251,
+				"name": "ANL Arasu",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1755493,
+				"name": "Parvez Shaikh",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 5160278,
+				"name": "Yash Bukalsaria",
+				"job": "Associate Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 4596480,
+				"name": "Baby Jean",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 2156687,
+				"name": "Vishal Mishra",
+				"profile_path": "/rgTiKOQ016nV05FxiWpvjqurWAC.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2049794,
+				"name": "Mika Singh",
+				"profile_path": "/aX2ychnZ5FJivylGQCINEfbbDk7.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2355705,
+				"name": "Jyotica Tangri",
+				"profile_path": "/vB3K4XIWjz9x7RWgA9jCfrL4px3.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 5187157,
+				"name": "Shreyas Sagvekar",
+				"job": "Playback Singer",
+				"department": "Sound"
+			}
+		]
+	}
+}

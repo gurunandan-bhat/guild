@@ -1,0 +1,387 @@
+{
+	"id": 1136418,
+	"title": "Raayan",
+	"fcg_title": "Raayan",
+	"original_title": "ராயன்",
+	"original_language": "ta",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "Raayan, a simpleton patriarch has to protect his family when they inadvertently get muddled in a violent world with whirlpool of murder, debauchery, feud, politics and power, a quagmire that he has repeatedly warned them not to get pulled into.",
+	"backdrop_path": "/1Us0a54s7aFDwDtIfRjlwvnLJQg.jpg",
+	"poster_path": "/dHMbqpG7vZk1iEJaEkCCyixFbos.jpg",
+	"release_date": "2024-07-26",
+	"credits": {
+		"cast": [
+			{
+				"id": 550165,
+				"order": 0,
+				"name": "Dhanush",
+				"profile_path": "/xnGKntkTDURY5mJ0sOVRI3VIDsY.jpg",
+				"character": "Kathavaraayan 'Raayan'",
+				"gender": 2
+			},
+			{
+				"id": 1974753,
+				"order": 1,
+				"name": "Dushara Vijayan",
+				"profile_path": "/1D07gJWshg58uBIS03gXgYmbSSB.jpg",
+				"character": "Durga",
+				"gender": 1
+			},
+			{
+				"id": 1011802,
+				"order": 2,
+				"name": "Sundeep Kishan",
+				"profile_path": "/qUGN6rvwu9Qef3DGenha2pIEpNY.jpg",
+				"character": "Muthuvelraayan 'Muthu'",
+				"gender": 2
+			},
+			{
+				"id": 1509206,
+				"order": 3,
+				"name": "Kalidas Jayaram",
+				"profile_path": "/hwGNxY71w6MWmULoHvhPBWtgmVw.jpg",
+				"character": "Manickavelraayan 'Manickam'",
+				"gender": 2
+			},
+			{
+				"id": 292250,
+				"order": 4,
+				"name": "S. J. Suryah",
+				"profile_path": "/7Q8510XwxPU1193cteaFQsiq2rv.jpg",
+				"character": "Sethuraman 'Sethu'",
+				"gender": 2
+			},
+			{
+				"id": 91628,
+				"order": 5,
+				"name": "Selvaraghavan",
+				"profile_path": "/iTEdyvN5XoB0fl6kMg0tChBY4Ml.jpg",
+				"character": "Sekhar",
+				"gender": 2
+			},
+			{
+				"id": 1620957,
+				"order": 6,
+				"name": "Aparna Balamurali",
+				"profile_path": "/8IdA0YxPHttgDQCi09pE28LWw0E.jpg",
+				"character": "Mekhala",
+				"gender": 1
+			},
+			{
+				"id": 89153,
+				"order": 7,
+				"name": "Prakash Raj",
+				"profile_path": "/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg",
+				"character": "R. Sargunam",
+				"gender": 2
+			},
+			{
+				"id": 586636,
+				"order": 8,
+				"name": "Saravanan",
+				"profile_path": "/mrLYzEZr0w0dq7LS3CXfYdLVlpK.jpg",
+				"character": "Durai",
+				"gender": 2
+			},
+			{
+				"id": 1118770,
+				"order": 9,
+				"name": "Varalaxmi Sarathkumar",
+				"profile_path": "/vudH16iDpzft1uWIMMgcCRxBTXa.jpg",
+				"character": "Sethu's first wife",
+				"gender": 1
+			},
+			{
+				"id": 580626,
+				"order": 10,
+				"name": "Ilavarasu",
+				"profile_path": "/gWCREhajMvlOE49g79zyvwdpf5E.jpg",
+				"character": "Meghalai's Father",
+				"gender": 2
+			},
+			{
+				"id": 1517172,
+				"order": 11,
+				"name": "Divya Pillai",
+				"profile_path": "/n0BfTrgMiF0pAHvwl4Q3xvjHWlL.jpg",
+				"character": "Annam Sethuraman, Sethu's second wife",
+				"gender": 1
+			},
+			{
+				"id": 237689,
+				"order": 12,
+				"name": "Devadarshini",
+				"profile_path": "/gSq4nM6z82LfI4yjL116P1RDkb0.jpg",
+				"character": "Doctor",
+				"gender": 1
+			},
+			{
+				"id": 1342479,
+				"order": 13,
+				"name": "Aranthangi Nisha",
+				"profile_path": "/jHq8lLSEFEasPcSA4Igw8BNcl08.jpg",
+				"character": "Police officer",
+				"gender": 1
+			},
+			{
+				"id": 4888661,
+				"order": 14,
+				"name": "Karthick Anjaneyan",
+				"character": "Anjaneyan"
+			},
+			{
+				"id": 1127375,
+				"order": 15,
+				"name": "Dhileban",
+				"profile_path": "/fTpaXP17R845EYZqVU41hd9EXea.jpg",
+				"character": "Guru",
+				"gender": 2
+			},
+			{
+				"id": 583960,
+				"order": 16,
+				"name": "Namo Narayanan",
+				"profile_path": "/jE3oslL16GYDBjmER7zkdeTVyK8.jpg",
+				"character": "Jagannathan",
+				"gender": 2
+			},
+			{
+				"id": 1329460,
+				"order": 17,
+				"name": "Cell Murugan",
+				"character": "Bartender"
+			},
+			{
+				"id": 2034303,
+				"order": 18,
+				"name": "Shah Ra",
+				"profile_path": "/ByWszUbMQCeHym9ova9b4q21BL.jpg",
+				"character": "Kothandam",
+				"gender": 2
+			},
+			{
+				"id": 3188093,
+				"order": 19,
+				"name": "Geetha Kailasam",
+				"profile_path": "/8hOXtSmjgIVEq2LhSJAxNirTN95.jpg",
+				"character": "Durai's wife",
+				"gender": 1
+			},
+			{
+				"id": 3006040,
+				"order": 20,
+				"name": "Anbu Mayilsamy",
+				"character": "Sethu's Henchman",
+				"gender": 2
+			},
+			{
+				"id": 3960216,
+				"order": 21,
+				"name": "Kichcha Ravi",
+				"character": "Kathavaraayan's Father",
+				"gender": 2
+			},
+			{
+				"id": 4899992,
+				"order": 22,
+				"name": "M. Soundarya Saravanan",
+				"profile_path": "/cOa5w5K1wHaxqkpanAllPX54BLq.jpg",
+				"character": "Kathavaraayan's mother",
+				"gender": 1
+			},
+			{
+				"id": 4905111,
+				"order": 23,
+				"name": "Rahul R.",
+				"character": "Young Kathavaraayan",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 89154,
+				"name": "Prabhu Deva",
+				"profile_path": "/lfVxoyweEPkIu6zFa44ajPuSJA1.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 587735,
+				"name": "Peter Hein",
+				"profile_path": "/881LTUkVppdwtFaBDLgd70SEEBe.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1116433,
+				"name": "Om Prakash",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1641720,
+				"name": "Prasanna GK",
+				"profile_path": "/mRUvjFUV0v04KN1v9xs128gq22S.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 3275012,
+				"name": "B. Raja",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1643581,
+				"name": "Kabilan Chellaiah",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2531431,
+				"name": "Jacki",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 3081243,
+				"name": "Kavya Sriram",
+				"profile_path": "/kKjZ5TdXBkdfoeugwERiiwK6yTs.jpg",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 550165,
+				"name": "Dhanush",
+				"profile_path": "/xnGKntkTDURY5mJ0sOVRI3VIDsY.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5288,
+				"name": "A.R. Rahman",
+				"profile_path": "/3po8IwdtONY72BuXr7ZhZZ0ugxQ.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1666862,
+				"name": "Kalanithi Maran",
+				"profile_path": "/7zMuusP8W6lEL94C0rqwOGCnd5.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 550165,
+				"name": "Dhanush",
+				"profile_path": "/xnGKntkTDURY5mJ0sOVRI3VIDsY.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2273453,
+				"name": "Arivu",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 550165,
+				"name": "Dhanush",
+				"profile_path": "/xnGKntkTDURY5mJ0sOVRI3VIDsY.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1672741,
+				"name": "Dinesh Kanagaratnam",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 550165,
+				"name": "Dhanush",
+				"profile_path": "/xnGKntkTDURY5mJ0sOVRI3VIDsY.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4853437,
+				"name": "Gaana Kadhar",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 1123764,
+				"name": "Santhosh Narayanan",
+				"profile_path": "/z8A2tjQFOLjUg17uWroc2TcEviN.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2079072,
+				"name": "Shweta Mohan",
+				"profile_path": "/5H0BjWHYK4aQA5YtH1Hm9q8NZ6Y.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1672741,
+				"name": "Dinesh Kanagaratnam",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2273453,
+				"name": "Arivu",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5288,
+				"name": "A.R. Rahman",
+				"profile_path": "/3po8IwdtONY72BuXr7ZhZZ0ugxQ.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 4446229,
+				"name": "Venkatesh Menon",
+				"job": "Assistant Director",
+				"department": "Directing"
+			}
+		]
+	}
+}

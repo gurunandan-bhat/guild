@@ -1,0 +1,255 @@
+{
+	"id": 1421128,
+	"title": "Shadowbox",
+	"fcg_title": "Baksho Bondi",
+	"original_title": "বাক্স বন্দি",
+	"original_language": "bn",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Maya discovers that her husband – an ex-soldier who is suffering from PTSD - is the prime suspect in a murder investigation. She and her teenage son are forced to go to extremes to keep the family together.",
+	"backdrop_path": "/qhMW4Gn8ruXAGdYbBgOYK6SzfE4.jpg",
+	"poster_path": "/elqonzOlUSBIfWAsYNOtTSMYDAv.jpg",
+	"release_date": "2025-02-16",
+	"credits": {
+		"cast": [
+			{
+				"id": 6501,
+				"order": 0,
+				"name": "Tillotama Shome",
+				"profile_path": "/53kVIXddZaPy6mnKdZZFuOXLUII.jpg",
+				"character": "Maya",
+				"gender": 1
+			},
+			{
+				"id": 2404157,
+				"order": 1,
+				"name": "Chandan Bisht",
+				"character": "Sundar"
+			},
+			{
+				"id": 5193977,
+				"order": 2,
+				"name": "Sayan Karmakar",
+				"character": "Debu"
+			},
+			{
+				"id": 4657227,
+				"order": 3,
+				"name": "Suman Saha",
+				"character": "Ripon"
+			}
+		],
+		"crew": [
+			{
+				"id": 2049615,
+				"name": "Tanushre Das",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1549642,
+				"name": "Saumyananda Sahi",
+				"profile_path": "/jgo0RK5riRLjahySS9y879bY5mN.jpg",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1549669,
+				"name": "Shaunak Sen",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1314293,
+				"name": "Naren Chandavarkar",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4870687,
+				"name": "Aman Mann",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1549642,
+				"name": "Saumyananda Sahi",
+				"profile_path": "/jgo0RK5riRLjahySS9y879bY5mN.jpg",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1744502,
+				"name": "Jim Sarbh",
+				"profile_path": "/lJPX2ehRqqtrJOqx5PS9dkSAw7.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 223853,
+				"name": "Vikramaditya Motwane",
+				"profile_path": "/kG5sfFXKOsUMtWUiAOaQhI9xlHX.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 35735,
+				"name": "Nikkhil Advani",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 6501,
+				"name": "Tillotama Shome",
+				"profile_path": "/53kVIXddZaPy6mnKdZZFuOXLUII.jpg",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1948921,
+				"name": "Dheer Momaya",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1770022,
+				"name": "Sidharth Meer",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2198882,
+				"name": "Dominique Welinski",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1016314,
+				"name": "Isabelle Glachant",
+				"profile_path": "/6EWHIIvymsGsbOjfezjq3oIi4hg.jpg",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1398226,
+				"name": "Prashant Nair",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1334300,
+				"name": "Anjali Patil",
+				"profile_path": "/tK8kdrWhm9hhTigWupWV7n6OmKG.jpg",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2677462,
+				"name": "Anu Rangachar",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5194005,
+				"name": "Ishaan Chandhok",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1179836,
+				"name": "Shruti Ganguly",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 3164245,
+				"name": "Tanushree Das",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1549642,
+				"name": "Saumyananda Sahi",
+				"profile_path": "/jgo0RK5riRLjahySS9y879bY5mN.jpg",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 3164245,
+				"name": "Tanushree Das",
+				"job": "Story",
+				"department": "Writing"
+			},
+			{
+				"id": 1549642,
+				"name": "Saumyananda Sahi",
+				"profile_path": "/jgo0RK5riRLjahySS9y879bY5mN.jpg",
+				"job": "Script",
+				"department": "Crew"
+			},
+			{
+				"id": 2668196,
+				"name": "Mausam Aggarwal",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2668196,
+				"name": "Mausam Aggarwal",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1985232,
+				"name": "Gautam Nair",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 2692172,
+				"name": "Jean-Guy Verran",
+				"job": "Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1750082,
+				"name": "Benedict Taylor",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1314293,
+				"name": "Naren Chandavarkar",
+				"job": "Music",
+				"department": "Sound"
+			},
+			{
+				"id": 4880929,
+				"name": "Himanshu Kamble",
+				"profile_path": "/r3PF0YxF3o4wvEhmmqlOomnZGSZ.jpg",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 4657227,
+				"name": "Suman Saha",
+				"job": "Casting Director",
+				"department": "Production"
+			}
+		]
+	}
+}

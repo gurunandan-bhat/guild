@@ -1,0 +1,271 @@
+{
+	"id": 1126365,
+	"title": "Tekka",
+	"fcg_title": "Tekka",
+	"original_title": "টেক্কা",
+	"original_language": "bn",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "Tekka is the story of Iqlakh, a janitor who has lost his job and is out to get it back by holding a schoolgirl hostage in a building. ACP Maya comes in, a woman who is trying to conceive. Add to the mix a young journalist pair, Brishti and Tintin, and we have a sentimental thriller in an office building spanning 48 hours, full of melodrama.",
+	"backdrop_path": "/f1HuhYpDhO7SkhCyXIREF1giapE.jpg",
+	"poster_path": "/4ds4KBjx6AREHoNoE3NxroFUZWX.jpg",
+	"release_date": "2024-10-08",
+	"credits": {
+		"cast": [
+			{
+				"id": 1020621,
+				"order": 0,
+				"name": "Dev",
+				"profile_path": "/5mBOEEyenbcHgxwAV0NCGNRHaxY.jpg",
+				"character": "Iqlakh Alam, nightshift janitor",
+				"gender": 2
+			},
+			{
+				"id": 1144344,
+				"order": 1,
+				"name": "Swastika Mukherjee",
+				"profile_path": "/rpTIxQxwwqpsi66clMIjyiTCClb.jpg",
+				"character": "Pooja",
+				"gender": 1
+			},
+			{
+				"id": 1964300,
+				"order": 2,
+				"name": "Rukmini Maitra",
+				"profile_path": "/dO6IC1tyOMzIHKyZY2vvv9SJzsP.jpg",
+				"character": "ACP Maya Khastagir Sanyal",
+				"gender": 1
+			},
+			{
+				"id": 5002077,
+				"order": 3,
+				"name": "Aameya Bose",
+				"character": "Mishti",
+				"gender": 2
+			},
+			{
+				"id": 1280400,
+				"order": 4,
+				"name": "Tota Roy Chowdhury",
+				"profile_path": "/bwLeiID8R8awnedpDUUSj8DWq9Y.jpg",
+				"character": "Rajiv Sanyal",
+				"gender": 2
+			},
+			{
+				"id": 1279823,
+				"order": 5,
+				"name": "Aryann Bhowmick",
+				"profile_path": "/u2p8Shsd6nqt1VxjcojjsImwDXK.jpg",
+				"character": "Tintin",
+				"gender": 2
+			},
+			{
+				"id": 3880907,
+				"order": 6,
+				"name": "Sreeja Dutta",
+				"profile_path": "/qWq6ycwuweNjwDPzSSs57sGC9VA.jpg",
+				"character": "Brishti"
+			},
+			{
+				"id": 1144347,
+				"order": 7,
+				"name": "Paran Banerjee",
+				"profile_path": "/6uTLTB7cUMeCjYC1eWFownDOBKW.jpg",
+				"character": "Anubrata Adhikary",
+				"gender": 2
+			},
+			{
+				"id": 1296196,
+				"order": 8,
+				"name": "Sujan Mukherjee",
+				"profile_path": "/bTiwVRydXmoliQYmpjdPKuo6rka.jpg",
+				"character": "Brishti's Boss",
+				"gender": 2
+			},
+			{
+				"id": 3772601,
+				"order": 9,
+				"name": "Anirban Bhattacharyya",
+				"profile_path": "/txfYSAy3JxF3pCXK2MazEXbWoUx.jpg",
+				"character": "Iqlakh's Boss",
+				"gender": 2
+			},
+			{
+				"id": 1284229,
+				"order": 10,
+				"name": "Kamaleswar Mukherjee",
+				"profile_path": "/dIjtjax4v73M2icNDmK2WJO6oeL.jpg",
+				"character": "Police Commissioner",
+				"gender": 2
+			},
+			{
+				"id": 3319291,
+				"order": 11,
+				"name": "Loknath Dey",
+				"profile_path": "/zBWgA6GGRLt843epxW4KSO1Vyay.jpg",
+				"character": "Mr. Guha, Police Officer",
+				"gender": 2
+			},
+			{
+				"id": 1021526,
+				"order": 12,
+				"name": "Srijit Mukherji",
+				"profile_path": "/4oxSosrg70VRxKxuy3VeVaFCCZf.jpg",
+				"character": "Arjun Puri",
+				"gender": 2
+			},
+			{
+				"id": 1294705,
+				"order": 13,
+				"name": "Sudeshna Roy",
+				"profile_path": "/rUegVtZTyT00wrU8cAYzm4HGhJX.jpg",
+				"character": "Mitali Sharma",
+				"gender": 1
+			},
+			{
+				"id": 1151426,
+				"order": 14,
+				"name": "Kaushik Sen",
+				"profile_path": "/vf3jNiqYZlWte3siw3vlQMzn5rD.jpg",
+				"character": "Altaf Alam",
+				"gender": 2
+			},
+			{
+				"id": 3479098,
+				"order": 15,
+				"name": "Anujoy Chattopadhyay",
+				"profile_path": "/i9rheQJmJb8ibGMA52sEDIR98qP.jpg",
+				"character": "Anubrata's PA",
+				"gender": 2
+			},
+			{
+				"id": 2610145,
+				"order": 16,
+				"name": "Chhandak Chowdhury",
+				"profile_path": "/8MdPPNJRJ78DNDMVCQQABO3ZlOw.jpg",
+				"character": "Mr. Ghorui",
+				"gender": 2
+			},
+			{
+				"id": 5002075,
+				"order": 17,
+				"name": "Aranyak Das",
+				"character": "Guddu"
+			},
+			{
+				"id": 5176171,
+				"order": 18,
+				"name": "Samiya Afreen",
+				"character": "Riti"
+			},
+			{
+				"id": 5176172,
+				"order": 19,
+				"name": "Sheikh Mahim Edward",
+				"character": "Edward"
+			},
+			{
+				"id": 5176174,
+				"order": 20,
+				"name": "Biswajit Ghosh",
+				"character": "Average Joe"
+			}
+		],
+		"crew": [
+			{
+				"id": 1021526,
+				"name": "Srijit Mukherji",
+				"profile_path": "/4oxSosrg70VRxKxuy3VeVaFCCZf.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 3325277,
+				"name": "Ranajoy Bhattacharjee",
+				"profile_path": "/rA0eDlWdhwZYc92mdyD8e8M76zo.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1020621,
+				"name": "Dev",
+				"profile_path": "/5mBOEEyenbcHgxwAV0NCGNRHaxY.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2688991,
+				"name": "Gurupada Adhikari",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3640120,
+				"name": "Bhaskar Chatterjee",
+				"job": "Story",
+				"department": "Writing"
+			},
+			{
+				"id": 3640120,
+				"name": "Bhaskar Chatterjee",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 1021526,
+				"name": "Srijit Mukherji",
+				"profile_path": "/4oxSosrg70VRxKxuy3VeVaFCCZf.jpg",
+				"job": "Dialogue",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1021526,
+				"name": "Srijit Mukherji",
+				"profile_path": "/4oxSosrg70VRxKxuy3VeVaFCCZf.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2683015,
+				"name": "Modhura Palit",
+				"profile_path": "/2L5hiYNYtwpyxnqZUvvL38bbTaF.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 1
+			},
+			{
+				"id": 2222290,
+				"name": "Pronoy Dasgupta",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 2712163,
+				"name": "Nafisa Khatun",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 5002761,
+				"name": "Atanu Guha",
+				"job": "Assistant Director of Photography",
+				"department": "Art"
+			}
+		]
+	}
+}

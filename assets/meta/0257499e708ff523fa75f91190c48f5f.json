@@ -1,0 +1,309 @@
+{
+	"id": 1143407,
+	"title": "Sky Force",
+	"fcg_title": "Sky Force",
+	"original_title": "Sky Force",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "Skyforce unravels a gripping tale inspired by true events from one of the deadliest air strikes between India and Pakistan. A hero lost, a comrade's quest for truth-an epic tribute to bravery, sacrifice, and unbreakable courage.",
+	"backdrop_path": "/pwfXx2O3eFXi5dtWCV5XJPQJgqN.jpg",
+	"poster_path": "/f1KLUpaW7rbXhUm5SxG1lpPFFCJ.jpg",
+	"release_date": "2025-01-24",
+	"credits": {
+		"cast": [
+			{
+				"id": 35070,
+				"order": 0,
+				"name": "Akshay Kumar",
+				"profile_path": "/1d77rFiN8h2JXE6vS8VCuc2k20J.jpg",
+				"character": "Kumar Om Ahuja",
+				"gender": 2
+			},
+			{
+				"id": 4301687,
+				"order": 1,
+				"name": "Veer Pahariya",
+				"profile_path": "/5BwjdO0sPVapoR2S2zkL3jUPdOX.jpg",
+				"character": "T. Krishna Vijaya"
+			},
+			{
+				"id": 1077932,
+				"order": 2,
+				"name": "Nimrat Kaur",
+				"profile_path": "/4cEWXSY4v4ItRQaFmPZStEyxa9D.jpg",
+				"character": "Preeti Ahuja",
+				"gender": 1
+			},
+			{
+				"id": 1848952,
+				"order": 3,
+				"name": "Sara Ali Khan",
+				"profile_path": "/nRtF9kNgIt9q52jy89cyZBimUPs.jpg",
+				"character": "Geeta Vijaya",
+				"gender": 1
+			},
+			{
+				"id": 1139872,
+				"order": 4,
+				"name": "Sharad Kelkar",
+				"profile_path": "/9UWI0fQUW5JRCS4tOb2w4ugmgJ2.jpg",
+				"character": "Ahmed Hussain",
+				"gender": 2
+			},
+			{
+				"id": 4248619,
+				"order": 5,
+				"name": "Mohit Chauhan"
+			},
+			{
+				"id": 1040951,
+				"order": 6,
+				"name": "Manish Chaudhary",
+				"profile_path": "/1l4vmA0IJQLieebZWOOCAFu4ra6.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1769812,
+				"order": 7,
+				"name": "Naisha Khanna",
+				"profile_path": "/mOpB0aMLdJRXbHUV87wcE361NUZ.jpg",
+				"gender": 1
+			},
+			{
+				"id": 2340292,
+				"order": 8,
+				"name": "Soham Majumdar",
+				"profile_path": "/r6rlp1GMwumCVD4f5QEDAfs666o.jpg",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 2031840,
+				"name": "Santhana Krishnan Ravichandran",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 2156673,
+				"name": "Sriram Iyengar",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 2156672,
+				"name": "Sujeet Sawant",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 2441802,
+				"name": "Latta Pathak",
+				"job": "Makeup Department Head",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1831911,
+				"name": "Shivank Kapoor",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1658334,
+				"name": "Jyoti Deshpande",
+				"profile_path": "/fpbj5f3Uny0xdyPU8Qt5dMbi1PT.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 3462463,
+				"name": "Sandeep Kewlani",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 102246,
+				"name": "Dinesh Vijan",
+				"profile_path": "/mYKpPjxkGvyCXMhId8HXZKAyePb.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2826434,
+				"name": "Abhishek Kapur",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1825234,
+				"name": "Amar Kaushik",
+				"profile_path": "/mFFFMV4uH36RxcBqAlgIoeF8ZgU.jpg",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3462463,
+				"name": "Sandeep Kewlani",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 2001273,
+				"name": "Sahil Baber Khan",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2255860,
+				"name": "Sharada Karki",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2384413,
+				"name": "Poonam Shivdasani",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5160227,
+				"name": "Komal Kewlani",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 143055,
+				"name": "Carl Austin",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 1544565,
+				"name": "Niren Bhatt",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 37242,
+				"name": "Sreekar Prasad",
+				"profile_path": "/cHpDtVlleMlplodhKmjPCGqaAFS.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1775462,
+				"name": "Tanishk Bagchi",
+				"profile_path": "/lTNruwralNeUIDHBx3SC22yQOqv.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1790607,
+				"name": "Irshad Kamil",
+				"profile_path": "/20XNdVA9lA3NmyU1oUFVo39FokA.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 3154956,
+				"name": "Shloke Lal",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 1790604,
+				"name": "Manoj Muntashir",
+				"profile_path": "/qhEdZegMLIkHvAYu1CaRiCvVShz.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2329568,
+				"name": "Justin Varghese",
+				"profile_path": "/dBJWRPIQvfThp5SRVClY46XEB6b.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1911375,
+				"name": "Vijay Ganguly",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 5160236,
+				"name": "Keval Shah",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3466278,
+				"name": "Aamil Keyan Khan",
+				"profile_path": "/z093pEEqi1zYiTK57Dyz7BvH807.jpg",
+				"job": "Additional Writing",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3477047,
+				"name": "Ashish Chauhan",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1423195,
+				"name": "Ashish Nikam",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1708062,
+				"name": "Anmol Ahuja",
+				"job": "Casting Director",
+				"department": "Production"
+			},
+			{
+				"id": 1496036,
+				"name": "Craig Macrae",
+				"profile_path": "/xv4rdbhpi1IUKkHEQb2ktcEdZP4.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 1755493,
+				"name": "Parvez Shaikh",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 2149909,
+				"name": "Ashirwad Hadkar",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 1958544,
+				"name": "Andrew Simmonds",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			}
+		]
+	}
+}

@@ -1,0 +1,540 @@
+{
+	"id": 1013850,
+	"title": "A Real Pain",
+	"fcg_title": "A Real Pain",
+	"original_title": "A Real Pain",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the pair's old tensions resurface against the backdrop of their family history.",
+	"backdrop_path": "/nGC3ZkXEcjGbqAAonS1xn6gaNpb.jpg",
+	"poster_path": "/yaTFjMNh8D78dDHrglivOTv5YOx.jpg",
+	"release_date": "2024-11-01",
+	"credits": {
+		"cast": [
+			{
+				"id": 44735,
+				"order": 0,
+				"name": "Jesse Eisenberg",
+				"profile_path": "/yYhwWRcxDHTn63gSEF1vnDAD7cD.jpg",
+				"character": "David Kaplan",
+				"gender": 2
+			},
+			{
+				"id": 18793,
+				"order": 1,
+				"name": "Kieran Culkin",
+				"profile_path": "/b5EC4nziLhBRX4GOcYx2BdS3FTt.jpg",
+				"character": "Benji Kaplan",
+				"gender": 2
+			},
+			{
+				"id": 939337,
+				"order": 2,
+				"name": "Will Sharpe",
+				"profile_path": "/1pzdCm3m1kWn7YLTMbVvwT5O4jZ.jpg",
+				"character": "James",
+				"gender": 2
+			},
+			{
+				"id": 722,
+				"order": 3,
+				"name": "Jennifer Grey",
+				"profile_path": "/wxEmUKB5gQSrKyrOosIvZ7sh5VU.jpg",
+				"character": "Marcia",
+				"gender": 1
+			},
+			{
+				"id": 1526130,
+				"order": 4,
+				"name": "Kurt Egyiawan",
+				"profile_path": "/bLzmxAmUxRj8wwxzlpaKKdg2Ccf.jpg",
+				"character": "Eloge",
+				"gender": 2
+			},
+			{
+				"id": 1320744,
+				"order": 5,
+				"name": "Liza Sadovy",
+				"profile_path": "/s6Jn75RJIZpjH1pdJzrLuO0tvSG.jpg",
+				"character": "Diane",
+				"gender": 1
+			},
+			{
+				"id": 164463,
+				"order": 6,
+				"name": "Daniel Oreskes",
+				"profile_path": "/eRmq5tVPqwj8vZNCmoWAvz1St4Y.jpg",
+				"character": "Mark",
+				"gender": 2
+			},
+			{
+				"id": 1457454,
+				"order": 7,
+				"name": "Ellora Torchia",
+				"profile_path": "/nxeriYCpM1pkTaU0dif8yxCa1zx.jpg",
+				"character": "Priya",
+				"gender": 1
+			},
+			{
+				"id": 5060357,
+				"order": 8,
+				"name": "Banner Eisenberg",
+				"character": "Abe"
+			},
+			{
+				"id": 3452065,
+				"order": 9,
+				"name": "Olha Bosova",
+				"profile_path": "/noZaC88NYvgygwRDSd6UbR8bvb2.jpg",
+				"character": "Flight Attendant",
+				"gender": 1
+			},
+			{
+				"id": 2070761,
+				"order": 10,
+				"name": "Jakub Gąsowski",
+				"character": "Receptionist"
+			},
+			{
+				"id": 2309385,
+				"order": 11,
+				"name": "Piotr Czarniecki",
+				"profile_path": "/B7dGokldokyEsnsWhiQPD6y1ry.jpg",
+				"character": "Conductor",
+				"gender": 2
+			},
+			{
+				"id": 4525253,
+				"order": 12,
+				"name": "Krzysztof Jaszczak",
+				"character": "Pianist"
+			},
+			{
+				"id": 937309,
+				"order": 13,
+				"name": "Marek Kasprzyk",
+				"profile_path": "/ilxGSlmeeqvhxsV61NNDQ1CkTu9.jpg",
+				"character": "Older Man",
+				"gender": 2
+			},
+			{
+				"id": 3435737,
+				"order": 14,
+				"name": "Jakub Pruski",
+				"profile_path": "/oEjUcBWm4tey48p8AOwCbzvW6oY.jpg",
+				"character": "Son",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 44735,
+				"name": "Jesse Eisenberg",
+				"profile_path": "/yYhwWRcxDHTn63gSEF1vnDAD7cD.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 3381089,
+				"name": "Ali Herting",
+				"profile_path": "/z9ajPBkgW3WgE5ksvjjvl37CKp0.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 54693,
+				"name": "Emma Stone",
+				"profile_path": "/8NwSfyYWIIUE1cI9Xhz92b0w7WD.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1640646,
+				"name": "Dave McCary",
+				"profile_path": "/6zFQsAZCcAwKmh4BzJwLFmbTAIe.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 44735,
+				"name": "Jesse Eisenberg",
+				"profile_path": "/yYhwWRcxDHTn63gSEF1vnDAD7cD.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5875,
+				"name": "Becky Glupczynski",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1777439,
+				"name": "Jennifer Semler",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2456710,
+				"name": "Ryan Heller",
+				"profile_path": "/piGFcSxNsVZQzanG7c6nnnbfCjn.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2037379,
+				"name": "Michael Bloom",
+				"profile_path": "/5RaBFD18TqSjZhOEPi2yX1c1If8.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1059034,
+				"name": "Jennifer Westin",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 44735,
+				"name": "Jesse Eisenberg",
+				"profile_path": "/yYhwWRcxDHTn63gSEF1vnDAD7cD.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2822196,
+				"name": "Erick Eiser",
+				"job": "Music Supervisor",
+				"department": "Sound"
+			},
+			{
+				"id": 979225,
+				"name": "Ewa Puszczyńska",
+				"profile_path": "/4WSFh0zOBUHpr7DZUN9NU4XGmkj.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1423980,
+				"name": "Robert Nassau",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 4481957,
+				"name": "Remy Love",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2021956,
+				"name": "Jasmine Daghighian",
+				"job": "Co-Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2590697,
+				"name": "Renata Gałuszka",
+				"job": "Script Supervisor",
+				"department": "Directing"
+			},
+			{
+				"id": 1046729,
+				"name": "Jessica Kelly",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 4489682,
+				"name": "Kevin Kelly",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2152225,
+				"name": "Mela Melak",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1460695,
+				"name": "Michał Dymek",
+				"profile_path": "/aWwNlIEzjCdVBBsPGhXfX4dgfNi.jpg",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1122298,
+				"name": "Tim Korn",
+				"job": "Supervising Sound Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 1281409,
+				"name": "Tarn Willers",
+				"job": "Production Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1990729,
+				"name": "Yuval Levy",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 4304866,
+				"name": "Roisin King",
+				"job": "ADR Recordist",
+				"department": "Sound"
+			},
+			{
+				"id": 2174000,
+				"name": "Jonathan Fuhrer",
+				"job": "Sound Effects Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1496409,
+				"name": "Daniel Timmons",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2173949,
+				"name": "Jennifer Ruffalo",
+				"job": "Dialogue Editor",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 3028254,
+				"name": "Małgorzata Fudala",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3250075,
+				"name": "Olga Nejbauer",
+				"job": "Makeup Department Head",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5058742,
+				"name": "Rafał Trzaskowski",
+				"job": "Thanks",
+				"department": "Crew"
+			},
+			{
+				"id": 5058743,
+				"name": "Tomasz Kranz",
+				"job": "Thanks",
+				"department": "Crew"
+			},
+			{
+				"id": 5058745,
+				"name": "Tomasz Kranz",
+				"job": "Thanks",
+				"department": "Crew"
+			},
+			{
+				"id": 4323530,
+				"name": "Krzysztof Stanek",
+				"job": "Thanks",
+				"department": "Crew"
+			},
+			{
+				"id": 1936588,
+				"name": "Emi Buchwald",
+				"profile_path": "/8YfccplhyKgzNCzejAzlrb2l2oj.jpg",
+				"job": "Thanks",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 2789243,
+				"name": "Maciej Buchwald",
+				"job": "Thanks",
+				"department": "Crew"
+			},
+			{
+				"id": 2031424,
+				"name": "Klaudiusz Chrostowski",
+				"job": "Thanks",
+				"department": "Crew"
+			},
+			{
+				"id": 4557507,
+				"name": "Mieszko Falana",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2552589,
+				"name": "Sebastian Korwin-Kulesza",
+				"job": "Assistant Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1079598,
+				"name": "Jim Beggarly",
+				"job": "Script Consultant",
+				"department": "Writing"
+			},
+			{
+				"id": 3147283,
+				"name": "Laura Feldman",
+				"job": "Casting Associate",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2520069,
+				"name": "Jarosław Golec",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 4096423,
+				"name": "Filip Bucki",
+				"job": "Stunts",
+				"department": "Crew"
+			},
+			{
+				"id": 4327873,
+				"name": "Joanna Różańska",
+				"job": "Stunts",
+				"department": "Crew"
+			},
+			{
+				"id": 4166910,
+				"name": "Marcin Malisz",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 2226848,
+				"name": "Fredrik Olsson",
+				"job": "\"B\" Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 1403378,
+				"name": "Tomasz Karnowski",
+				"job": "Steadicam Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 1497636,
+				"name": "Adam Mendry",
+				"job": "Steadicam Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 2558648,
+				"name": "Honorata Grześkiewicz-Godlewska",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4368392,
+				"name": "Przemysław Sosnowski",
+				"job": "Gaffer",
+				"department": "Lighting"
+			},
+			{
+				"id": 3903618,
+				"name": "Gniewko Falana",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4156919,
+				"name": "Maciej Amilkiewicz",
+				"job": "Foley Artist",
+				"department": "Sound"
+			},
+			{
+				"id": 2544654,
+				"name": "Grzegorz Sieradzki",
+				"job": "Foley Artist",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3276699,
+				"name": "Grzegorz Koniarz",
+				"job": "Foley Recordist",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3274188,
+				"name": "Krzysztof Owczarek",
+				"job": "Foley Recordist",
+				"department": "Sound"
+			},
+			{
+				"id": 4156919,
+				"name": "Maciej Amilkiewicz",
+				"job": "Foley Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 4179780,
+				"name": "Michał Bielecki",
+				"job": "Foley Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 5031226,
+				"name": "Jakub Oleś",
+				"job": "Foley Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 3274188,
+				"name": "Krzysztof Owczarek",
+				"job": "Foley Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 2182219,
+				"name": "Seth Brau",
+				"job": "Main Title Designer",
+				"department": "Art"
+			},
+			{
+				"id": 4820429,
+				"name": "Billy McMillen",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			}
+		]
+	}
+}

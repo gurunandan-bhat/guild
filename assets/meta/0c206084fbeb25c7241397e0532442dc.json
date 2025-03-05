@@ -1,0 +1,498 @@
+{
+	"id": 1083241,
+	"title": "Baby John",
+	"fcg_title": "Baby John",
+	"original_title": "बेबी जॉन",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		}
+	],
+	"overview": "John's peaceful life with daughter Khushi is disrupted by a sex-trafficking gang. Revealing his past as DCP Satya, he seeks revenge for his family's murder, saving minor girls and punishing the criminals, before starting anew.",
+	"backdrop_path": "/7jFpkdhPn1s7tc7S71wR64qpVWE.jpg",
+	"poster_path": "/5Oqsh17dq0cIRFPynPNy5elmyxW.jpg",
+	"release_date": "2024-12-25",
+	"credits": {
+		"cast": [
+			{
+				"id": 1108119,
+				"order": 0,
+				"name": "Varun Dhawan",
+				"profile_path": "/gvvXYTpvO0Tu7naCDLL3tInyN2R.jpg",
+				"character": "IPS Satya Verma/John",
+				"gender": 2
+			},
+			{
+				"id": 1295762,
+				"order": 1,
+				"name": "Keerthy Suresh",
+				"profile_path": "/fTdgSinsAitdujBBEUEA72GY0pv.jpg",
+				"character": "Meera Verma",
+				"gender": 1
+			},
+			{
+				"id": 1267400,
+				"order": 2,
+				"name": "Wamiqa Gabbi",
+				"profile_path": "/e1CNXkH2scGeoabOTowFJJxX2YF.jpg",
+				"character": "Tara",
+				"gender": 1
+			},
+			{
+				"id": 35756,
+				"order": 3,
+				"name": "Rajpal Yadav",
+				"profile_path": "/zhzfI91YuODuC3ZY2ABytw68C37.jpg",
+				"character": "Jackky/Ramsevak",
+				"gender": 2
+			},
+			{
+				"id": 1246564,
+				"order": 4,
+				"name": "Sheeba Chaddha",
+				"profile_path": "/yWBQeR47GmnGJn33w4c8QzakkSh.jpg",
+				"character": "Madhvi Verma",
+				"gender": 1
+			},
+			{
+				"id": 86014,
+				"order": 5,
+				"name": "Jackie Shroff",
+				"profile_path": "/1UNJypgEyuihUW2avLLVYj76jie.jpg",
+				"character": "Nanaji",
+				"gender": 2
+			},
+			{
+				"id": 42802,
+				"order": 6,
+				"name": "Salman Khan",
+				"profile_path": "/n7pKtccmf2jVOz8Qn90q2ThqLge.jpg",
+				"character": "Agent Bhai Jaan",
+				"gender": 2
+			},
+			{
+				"id": 1756851,
+				"order": 7,
+				"name": "Sanya Malhotra",
+				"profile_path": "/sQ0VIqGLecfpwYayO05Z7NC32yN.jpg",
+				"character": "Special appearance",
+				"gender": 1
+			},
+			{
+				"id": 4566107,
+				"order": 8,
+				"name": "Khushi Bhardwaj",
+				"profile_path": "/lbbWFJTXijhkbljWIB6sgMJNZZu.jpg",
+				"character": "Devi",
+				"gender": 1
+			},
+			{
+				"id": 3278538,
+				"order": 9,
+				"name": "Resh Lamba",
+				"character": "Vishnu",
+				"gender": 2
+			},
+			{
+				"id": 928221,
+				"order": 10,
+				"name": "Diljit Dosanjh",
+				"profile_path": "/xB57LAMYa1q3CaS0TZjgf4d2OaS.jpg",
+				"character": "Cameo",
+				"gender": 2
+			},
+			{
+				"id": 1306567,
+				"order": 11,
+				"name": "Kaali Venkat",
+				"profile_path": "/w36lwArVQb0lDIJEenBECHqSdpG.jpg",
+				"character": "Amba's father",
+				"gender": 2
+			},
+			{
+				"id": 85656,
+				"order": 12,
+				"name": "Zakir Hussain",
+				"profile_path": "/etiL0ANjzBhTiyvUblZl6vwIog9.jpg",
+				"character": "Baldev Patil",
+				"gender": 2
+			},
+			{
+				"id": 5226910,
+				"order": 13,
+				"name": "Zara Zyanna",
+				"character": "Khushi"
+			},
+			{
+				"id": 1543146,
+				"order": 14,
+				"name": "Prakash Belawadi",
+				"profile_path": "/bECb7W5XUSFVOgN0z9Ob1ludIha.jpg",
+				"character": "Yashraj Mukherjee",
+				"gender": 2
+			},
+			{
+				"id": 2902858,
+				"order": 15,
+				"name": "Jaffer Sadiq",
+				"character": "Boss"
+			},
+			{
+				"id": 1586796,
+				"order": 16,
+				"name": "Shrikant Yadav",
+				"profile_path": "/6tnPShHr9SosqeFHY917RNMjUna.jpg",
+				"character": "Bhima Rane",
+				"gender": 2
+			},
+			{
+				"id": 130962,
+				"order": 17,
+				"name": "Omkar Das Manikpuri",
+				"profile_path": "/pwCotpUP3vraVl0A7Kaf5lvAu0o.jpg",
+				"character": "Badrinath",
+				"gender": 2
+			},
+			{
+				"id": 2358518,
+				"order": 18,
+				"name": "Sahidur Rahaman",
+				"character": "Amanpreet Singh"
+			},
+			{
+				"id": 2825878,
+				"order": 19,
+				"name": "Armaan Khera",
+				"character": "Ashwin"
+			},
+			{
+				"id": 3030223,
+				"order": 20,
+				"name": "Sadanand Patil",
+				"character": "Kaali Prasad"
+			},
+			{
+				"id": 32335,
+				"order": 21,
+				"name": "Mushtaq Khan",
+				"profile_path": "/xj2fPOfGRiQCFp7V9MUAlshNGZH.jpg",
+				"character": "Principal",
+				"gender": 2
+			},
+			{
+				"id": 3724611,
+				"order": 22,
+				"name": "Vijay Sanap",
+				"character": "Goon Leader"
+			},
+			{
+				"id": 1642285,
+				"order": 23,
+				"name": "Anoop Puri",
+				"character": "Meera Father",
+				"gender": 2
+			},
+			{
+				"id": 2029029,
+				"order": 24,
+				"name": "Geeta Tyagi",
+				"character": "Meera's Aunt"
+			},
+			{
+				"id": 3462330,
+				"order": 25,
+				"name": "Ajay Madhok",
+				"character": "Potential bride father"
+			},
+			{
+				"id": 1001205,
+				"order": 26,
+				"name": "Mona Ambegaonkar",
+				"profile_path": "/9gF4oeRMgeECk1jAGim18PnCRrn.jpg",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 1668648,
+				"name": "Kalees",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 3544489,
+				"name": "Kiran Koushik",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1472819,
+				"name": "Stunt Silva",
+				"profile_path": "/p6vwbFjAOIAfy6uYKsasZWTItDk.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1667230,
+				"name": "Tapas Nayak",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 1587628,
+				"name": "Shobi Paulraj",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1666865,
+				"name": "T. Muthuraj",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1785033,
+				"name": "Sunil Rodrigues",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 112345,
+				"name": "Kaloian Vodenicharov",
+				"profile_path": "/7fg4oOwenSnpvK0TqaPvj0MDUDN.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1209905,
+				"name": "Antony L. Ruben",
+				"profile_path": "/wiGD0WjOhkzqoeSaPxdgni15D5V.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1544564,
+				"name": "Sumit Arora",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 1736902,
+				"name": "Sheetal Sharma",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 585344,
+				"name": "S. Thaman",
+				"profile_path": "/y2VYUPTSWr580Fx8hxUNcUTViUa.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1663251,
+				"name": "ANL Arasu",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1790607,
+				"name": "Irshad Kamil",
+				"profile_path": "/20XNdVA9lA3NmyU1oUFVo39FokA.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1671522,
+				"name": "Gopi Prasannaa",
+				"profile_path": "/39FBMhYFkWCyz5akFJoOTWgDQi9.jpg",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1681237,
+				"name": "Manohar Verma",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 1658334,
+				"name": "Jyoti Deshpande",
+				"profile_path": "/fpbj5f3Uny0xdyPU8Qt5dMbi1PT.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1690843,
+				"name": "Yannick Ben",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1640326,
+				"name": "Preetisheel Singh",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1108802,
+				"name": "Mukesh Chhabra",
+				"profile_path": "/f5XI2wJs2JPcd5FSECsdcnkyOMW.jpg",
+				"job": "Casting Director",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4519627,
+				"name": "Amit Tomar",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3693663,
+				"name": "Sohel K. Shaikh",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 3539859,
+				"name": "E. Saravanan",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4519629,
+				"name": "Chackochen Pallattu",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 2036330,
+				"name": "Vishal Mundra",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1936185,
+				"name": "Manas Choudhary",
+				"job": "Sound Recordist",
+				"department": "Sound"
+			},
+			{
+				"id": 1941526,
+				"name": "Andreas Brückl",
+				"job": "Senior Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 1831899,
+				"name": "Amul Vikas Mohan",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4519617,
+				"name": "S. Santosh Raju",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 4519631,
+				"name": "J. A. Mathivathanan",
+				"job": "Associate Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 4519632,
+				"name": "Darling Richardson",
+				"job": "Associate Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1561056,
+				"name": "Sudhanshu Kumar",
+				"job": "Supervising Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2224678,
+				"name": "Murad Khetani",
+				"profile_path": "/zGuwHJCpviauewhit8W1eq7EbeL.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1209903,
+				"name": "Atlee",
+				"profile_path": "/rySt5J2RBOqQutRFXc2kmqQ1i0K.jpg",
+				"job": "Original Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2850587,
+				"name": "Priya Atlee",
+				"profile_path": "/3wAU4UQF5PkGy6k47nKn8YhhBha.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1668648,
+				"name": "Kalees",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2246289,
+				"name": "Dhee",
+				"profile_path": "/w3Ohax22xgc2gfqEBnOcLOcEzyR.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 928221,
+				"name": "Diljit Dosanjh",
+				"profile_path": "/xB57LAMYa1q3CaS0TZjgf4d2OaS.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5278761,
+				"name": "Atlee",
+				"job": "Producer",
+				"department": "Production"
+			}
+		]
+	}
+}

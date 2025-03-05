@@ -1,0 +1,59 @@
+{
+	"id": 1410010,
+	"title": "Superman",
+	"fcg_title": "Superman",
+	"original_title": "Superman",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 16,
+			"name": "Animation"
+		},
+		{
+			"id": 12,
+			"name": "Adventure"
+		},
+		{
+			"id": 878,
+			"name": "Science Fiction"
+		}
+	],
+	"overview": "A LEGO stop motion Superman film in which the titular character saves minifigures, cats, and fights Lex Luthor",
+	"release_date": "2024-12-09",
+	"credits": {
+		"crew": [
+			{
+				"id": 4789927,
+				"name": "Kalen Norris",
+				"profile_path": "/i7pwkEu6toSRD3dTECDVGRLZUnz.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 4789927,
+				"name": "Kalen Norris",
+				"profile_path": "/i7pwkEu6toSRD3dTECDVGRLZUnz.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4789927,
+				"name": "Kalen Norris",
+				"profile_path": "/i7pwkEu6toSRD3dTECDVGRLZUnz.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 4789927,
+				"name": "Kalen Norris",
+				"profile_path": "/i7pwkEu6toSRD3dTECDVGRLZUnz.jpg",
+				"job": "Animation",
+				"department": "Visual Effects",
+				"gender": 2
+			}
+		]
+	}
+}

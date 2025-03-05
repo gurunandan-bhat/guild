@@ -1,0 +1,16 @@
+{{ $critic := .critic }}
+{{ $review := .review }}
+{{ $critPage := index site.Taxonomies.critics (lower $critic) }}
+{{ $memberPage := index (where site.RegularPages "Title" $critPage.Page.Title) 0 }}
+{{ $organization := partial "organization" $memberPage.Params.organizations }}
+{{ $intLinkIcon := index site.Data.svgicons.icons "internalLink" | safeHTML }}
+<span class="small">
+    <a href="{{ $critPage.Page.RelPermalink }}"
+        >{{ $critic }}
+        {{ with $review.Params.publication }}
+            (for {{ . }})&nbsp;
+        {{ end }}
+        {{ $intLinkIcon }}</a
+    ><br />
+    <span class="small">{{ $organization }}</span>
+</span>

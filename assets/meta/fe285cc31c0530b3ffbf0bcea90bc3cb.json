@@ -1,0 +1,400 @@
+{
+	"id": 1201012,
+	"title": "Dhoom Dhaam",
+	"fcg_title": "Dhoom Dhaam",
+	"original_title": "धूम धाम",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 10749,
+			"name": "Romance"
+		},
+		{
+			"id": 28,
+			"name": "Action"
+		}
+	],
+	"overview": "On their wedding night, an oddball couple is thrust into a chaotic chase, dodging goons and cops in a frenzied hunt for the mysterious \"Charlie.\"",
+	"backdrop_path": "/l2QSVFR5aLcW1Vl4cGKrQkEp6fY.jpg",
+	"poster_path": "/2E7me3rPi8HqaeheuD86YlpNX6k.jpg",
+	"release_date": "2025-02-13",
+	"credits": {
+		"cast": [
+			{
+				"id": 1115720,
+				"order": 0,
+				"name": "Yami Gautam",
+				"profile_path": "/qcbOTAdGGwmodTSIh8HTtq4QWDv.jpg",
+				"character": "Koyal Chadda",
+				"gender": 1
+			},
+			{
+				"id": 1779934,
+				"order": 1,
+				"name": "Pratik Gandhi",
+				"profile_path": "/2sTvUaMSyfJbfexFZtZvac7BK7w.jpg",
+				"character": "Veer Poddar",
+				"gender": 2
+			},
+			{
+				"id": 225523,
+				"order": 2,
+				"name": "Eijaz Khan",
+				"profile_path": "/qCcZ1X4TnOSugw5vcJ4lnbHgAmX.jpg",
+				"character": "Harshwardhan Sathe",
+				"gender": 2
+			},
+			{
+				"id": 2350858,
+				"order": 3,
+				"name": "Mukul Chadda",
+				"profile_path": "/veGkWux7P6xfXbn5vVmemqDNM9E.jpg",
+				"character": "Sanjay Riberio",
+				"gender": 2
+			},
+			{
+				"id": 4260750,
+				"order": 4,
+				"name": "Pavitra Sarkar",
+				"character": "Bhide"
+			},
+			{
+				"id": 3919633,
+				"order": 5,
+				"name": "Anand Vikas Potdukhe",
+				"character": "Pradeep Kadam"
+			},
+			{
+				"id": 4358507,
+				"order": 6,
+				"name": "Sahil Gangurde",
+				"character": "Mukesh"
+			},
+			{
+				"id": 969597,
+				"order": 7,
+				"name": "Kavin Dave",
+				"profile_path": "/ktPIGYlclbFUuwLDmtQqXLd0UD.jpg",
+				"character": "Khushwant Kapoor",
+				"gender": 2
+			},
+			{
+				"id": 126500,
+				"order": 8,
+				"name": "Prateik Babbar",
+				"profile_path": "/yDUhU9C4C7fBAse1KmzQxVkSwjn.jpg",
+				"character": "Arya",
+				"gender": 2
+			},
+			{
+				"id": 4450053,
+				"order": 9,
+				"name": "Garima Yajnik",
+				"character": "Kanika"
+			},
+			{
+				"id": 32335,
+				"order": 10,
+				"name": "Mushtaq Khan",
+				"profile_path": "/xj2fPOfGRiQCFp7V9MUAlshNGZH.jpg",
+				"character": "Watchman",
+				"gender": 2
+			},
+			{
+				"id": 3272073,
+				"order": 11,
+				"name": "Babla Kochar",
+				"character": "Gulshan Chadha"
+			},
+			{
+				"id": 141329,
+				"order": 12,
+				"name": "Neelu Kohli",
+				"profile_path": "/dJgzQa8JSwx1HFbwHXwH0pkyqo8.jpg",
+				"character": "Nandini Chadha"
+			},
+			{
+				"id": 1513931,
+				"order": 13,
+				"name": "Dharmesh Vyas",
+				"character": "Vedant Poddar"
+			},
+			{
+				"id": 1252561,
+				"order": 14,
+				"name": "Nimisha Vakharia",
+				"profile_path": "/XjNYfTmIMoURyTWiSRmYaOTkqZ.jpg",
+				"character": "Suhasini Poddar"
+			},
+			{
+				"id": 2031871,
+				"order": 15,
+				"name": "Veena Mehta",
+				"character": "Watchman's Wife"
+			},
+			{
+				"id": 1928824,
+				"order": 16,
+				"name": "Veronika Arora",
+				"character": "Peehu",
+				"gender": 1
+			},
+			{
+				"id": 5249832,
+				"order": 17,
+				"name": "Mustafa Ahmed",
+				"character": "Sunny"
+			},
+			{
+				"id": 2391373,
+				"order": 18,
+				"name": "Sanaya Pithawalla",
+				"profile_path": "/A6dvwrrchjoWILQBmGoUaFRcSrs.jpg",
+				"character": "Suhana",
+				"gender": 1
+			},
+			{
+				"id": 5265431,
+				"order": 19,
+				"name": "Ismail Khan",
+				"character": "Sikka"
+			},
+			{
+				"id": 5265432,
+				"order": 20,
+				"name": "Saeed Baloch",
+				"character": "Money Car Driver"
+			},
+			{
+				"id": 2639521,
+				"order": 21,
+				"name": "Ghanshyam Tilawat",
+				"character": "Panditji"
+			},
+			{
+				"id": 5265434,
+				"order": 22,
+				"name": "Swapnil Dhongde",
+				"character": "Police Constable 1"
+			},
+			{
+				"id": 2510663,
+				"order": 23,
+				"name": "Kuldeep Sharma",
+				"character": "Police Constable 2"
+			},
+			{
+				"id": 5265436,
+				"order": 24,
+				"name": "Kapil Shah",
+				"character": "Police Constable 3"
+			},
+			{
+				"id": 5265437,
+				"order": 25,
+				"name": "Ashok Kumar",
+				"character": "Police Constable 4"
+			},
+			{
+				"id": 5265438,
+				"order": 26,
+				"name": "Udit Saini",
+				"character": "Police Constable 5"
+			},
+			{
+				"id": 2819872,
+				"order": 27,
+				"name": "Tushar Rungta",
+				"character": "Buggy Driver"
+			},
+			{
+				"id": 4786589,
+				"order": 28,
+				"name": "Hardik Soni",
+				"character": "Chai Wala",
+				"gender": 2
+			},
+			{
+				"id": 5265440,
+				"order": 29,
+				"name": "Karan Mishra",
+				"character": "Vinod"
+			},
+			{
+				"id": 5265442,
+				"order": 30,
+				"name": "Bajrang Sahani",
+				"character": "Goon 1"
+			},
+			{
+				"id": 5265443,
+				"order": 31,
+				"name": "Arafat Chippa",
+				"character": "Goon 2"
+			},
+			{
+				"id": 5265444,
+				"order": 32,
+				"name": "Yakub Nagpurwala",
+				"character": "Goon 3"
+			},
+			{
+				"id": 5265445,
+				"order": 33,
+				"name": "Ashraf Shaikh",
+				"character": "Goon 4"
+			}
+		],
+		"crew": [
+			{
+				"id": 2152816,
+				"name": "Aditya Dhar",
+				"profile_path": "/2QpJoDkQDY6fykspjHc5m5Ws7ud.jpg",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 1658334,
+				"name": "Jyoti Deshpande",
+				"profile_path": "/fpbj5f3Uny0xdyPU8Qt5dMbi1PT.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2714436,
+				"name": "Rishab Seth",
+				"job": "Additional Dialogue",
+				"department": "Crew"
+			},
+			{
+				"id": 2810082,
+				"name": "Shipra Acharya",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1461570,
+				"name": "Lokesh Dhar",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2714436,
+				"name": "Rishab Seth",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 3136357,
+				"name": "Aarsh Vora",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 3136357,
+				"name": "Aarsh Vora",
+				"job": "Creative Producer",
+				"department": "Writing"
+			},
+			{
+				"id": 2141423,
+				"name": "Mrityunjay Singh",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2303257,
+				"name": "Radhika Loya",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1414646,
+				"name": "Sanjeevkumar Nair",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2152816,
+				"name": "Aditya Dhar",
+				"profile_path": "/2QpJoDkQDY6fykspjHc5m5Ws7ud.jpg",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2472240,
+				"name": "Monica Balsara",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 2115532,
+				"name": "Richard Viagulam",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1523231,
+				"name": "Divvya Gambhir",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1523232,
+				"name": "Nidhi Gambhir",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 2214303,
+				"name": "Shivkumar V Panicker",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 4358512,
+				"name": "Manisha Mulani",
+				"job": "Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 2152816,
+				"name": "Aditya Dhar",
+				"profile_path": "/2QpJoDkQDY6fykspjHc5m5Ws7ud.jpg",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 1831593,
+				"name": "Siddharth Vasani",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1562506,
+				"name": "Clinton Cerejo",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 2391096,
+				"name": "Bianca Gomes",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 2783444,
+				"name": "Siddhant Kaushal",
+				"job": "Lyricist",
+				"department": "Writing"
+			}
+		]
+	}
+}

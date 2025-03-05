@@ -1,0 +1,196 @@
+{
+	"id": 1114668,
+	"title": "Soodhu Kavvum 2: Nadum Naatu Makkalum...",
+	"fcg_title": "Soodhu Kavvum 2",
+	"original_title": "சூது கவ்வும் 2: நாடும் நாட்டு மக்களும்...",
+	"original_language": "ta",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "A gang of kidnappers find they have bitten off more than they can chew.",
+	"backdrop_path": "/7v0o4NcYDovpecRp7VA9OKiYiEQ.jpg",
+	"poster_path": "/bGf8gAI99KDm53Buwb9hf3ygf4o.jpg",
+	"release_date": "2024-12-13",
+	"credits": {
+		"cast": [
+			{
+				"id": 275257,
+				"order": 0,
+				"name": "Shiva",
+				"profile_path": "/pYDlGj5f0WYU2NLPUauq5JSQ4ir.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1187406,
+				"order": 1,
+				"name": "Karunakaran",
+				"profile_path": "/3unnOmeQ0r4GhAY1EDbZaCdt1N.jpg",
+				"character": "G Arumai Pragasam",
+				"gender": 2
+			},
+			{
+				"id": 1124964,
+				"order": 2,
+				"name": "Aruldoss",
+				"profile_path": "/gDMVbi6reJPolJm9qtqYwTWyh4p.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1187402,
+				"order": 3,
+				"name": "Ramesh Thilak",
+				"profile_path": "/cZ5RxGzGA5swW0rZwPhPU0yVNTb.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1187400,
+				"order": 4,
+				"name": "Yog Jappie",
+				"profile_path": "/ptXD7Ze5ZWqXml1Kju1W73mo2Ey.jpg",
+				"character": "Inspector K. Bramma",
+				"gender": 2
+			},
+			{
+				"id": 4868004,
+				"order": 5,
+				"name": "Harisha Jestin",
+				"profile_path": "/h8jsfIHXyzxzIfqhILQvx8XPfCa.jpg",
+				"character": "Ammu",
+				"gender": 1
+			},
+			{
+				"id": 130114,
+				"order": 6,
+				"name": "M. S. Bhaskar",
+				"profile_path": "/jyamX33xAwz2ZWCgh29qkg9exb8.jpg",
+				"character": "Gnanodayam",
+				"gender": 2
+			},
+			{
+				"id": 237627,
+				"order": 7,
+				"name": "Radha Ravi",
+				"profile_path": "/tyL3XTRkbJVqyVDIE6dHFmv7R4d.jpg",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 4015888,
+				"name": "S. J. Arjun",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4015888,
+				"name": "S. J. Arjun",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 1114577,
+				"name": "C. V. Kumar",
+				"profile_path": "/mS73R140IrLQf0H1b7uYM9tuLN5.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2431250,
+				"name": "Ignaitious Ashwin",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 2247698,
+				"name": "Karthik Kumar Thillai",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2971258,
+				"name": "Edwin Louis Viswanath",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 1672290,
+				"name": "Nikhil Murugan",
+				"profile_path": "/ggvy39VckDKdpO2PwNt4QOq5UvF.jpg",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1306570,
+				"name": "S. Sivakumar",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2173942,
+				"name": "R Rakesh",
+				"job": "Production Executive",
+				"department": "Production"
+			},
+			{
+				"id": 1864597,
+				"name": "K Selvam",
+				"job": "Costumer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4045532,
+				"name": "La. Varadhan",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 4045533,
+				"name": "T. Yogaraja",
+				"job": "Story",
+				"department": "Writing"
+			},
+			{
+				"id": 4015888,
+				"name": "S. J. Arjun",
+				"job": "Story",
+				"department": "Writing"
+			},
+			{
+				"id": 4045535,
+				"name": "K.K. Surendaran",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 3582386,
+				"name": "Knife Naren",
+				"job": "Fight Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 2149823,
+				"name": "Vinoth Sugumaran",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			}
+		]
+	}
+}

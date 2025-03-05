@@ -1,0 +1,468 @@
+{
+	"id": 762509,
+	"title": "Mufasa: The Lion King",
+	"fcg_title": "Mufasa: The Lion King",
+	"original_title": "Mufasa: The Lion King",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 12,
+			"name": "Adventure"
+		},
+		{
+			"id": 10751,
+			"name": "Family"
+		},
+		{
+			"id": 16,
+			"name": "Animation"
+		}
+	],
+	"overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+	"backdrop_path": "/oHPoF0Gzu8xwK4CtdXDaWdcuZxZ.jpg",
+	"poster_path": "/lurEK87kukWNaHd0zYnsi3yzJrs.jpg",
+	"release_date": "2024-12-18",
+	"credits": {
+		"cast": [
+			{
+				"id": 1763709,
+				"order": 0,
+				"name": "Aaron Pierre",
+				"profile_path": "/z2cMMZyWzv5ztT6pFdAAjB3u7CQ.jpg",
+				"character": "Mufasa (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1344361,
+				"order": 1,
+				"name": "Kelvin Harrison, Jr.",
+				"profile_path": "/6kpDyaZzmSbqCNYuXZUfeMwS1bq.jpg",
+				"character": "Taka (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1074676,
+				"order": 2,
+				"name": "Tiffany Boone",
+				"profile_path": "/9LwqRFdSzxVtnutDUg98YLq0bSz.jpg",
+				"character": "Sarabi (voice)",
+				"gender": 1
+			},
+			{
+				"id": 107529,
+				"order": 3,
+				"name": "Kagiso Lediga",
+				"profile_path": "/nfqx3CqFVsAMelk6ry560SuN7Y0.jpg",
+				"character": "Young Rafiki (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1251835,
+				"order": 4,
+				"name": "Preston Nyman",
+				"profile_path": "/eidKvLDCRw68tG3CN6fGhvHUnW.jpg",
+				"character": "Zazu (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1680929,
+				"order": 5,
+				"name": "Blue Ivy Carter",
+				"profile_path": "/mnaFedkdW9TFCkky7fiiT5dfXye.jpg",
+				"character": "Kiara (voice)",
+				"gender": 1
+			},
+			{
+				"id": 51878,
+				"order": 6,
+				"name": "John Kani",
+				"profile_path": "/g7tqg3q128a5O2qXMCwVnXsow9I.jpg",
+				"character": "Rafiki (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1019,
+				"order": 7,
+				"name": "Mads Mikkelsen",
+				"profile_path": "/ntwPvV4GKGGHO3I7LcHMwhXfsw9.jpg",
+				"character": "Kiros (voice)",
+				"gender": 2
+			},
+			{
+				"id": 19274,
+				"order": 8,
+				"name": "Seth Rogen",
+				"profile_path": "/2dPFskUtoiG0xafsSEGl9Oz4teA.jpg",
+				"character": "Pumbaa (voice)",
+				"gender": 2
+			},
+			{
+				"id": 973651,
+				"order": 9,
+				"name": "Billy Eichner",
+				"profile_path": "/kScO4moqNlDbyCTZuIoBqyaml4l.jpg",
+				"character": "Timon (voice)",
+				"gender": 2
+			},
+			{
+				"id": 9030,
+				"order": 10,
+				"name": "Thandiwe Newton",
+				"profile_path": "/hZQLvxj7nV7pBrRyWTvWVz1CDi8.jpg",
+				"character": "Eshe (voice)",
+				"gender": 1
+			},
+			{
+				"id": 1120,
+				"order": 11,
+				"name": "Lennie James",
+				"profile_path": "/hfZrdEkBHxYYbMoGHAaVomlgMi.jpg",
+				"character": "Obasi (voice)",
+				"gender": 2
+			},
+			{
+				"id": 15563,
+				"order": 12,
+				"name": "Anika Noni Rose",
+				"profile_path": "/d7aLtuNXBqVtqNnZl8wXsFV4ML5.jpg",
+				"character": "Afia (voice)",
+				"gender": 1
+			},
+			{
+				"id": 65827,
+				"order": 13,
+				"name": "Keith David",
+				"profile_path": "/jJLJuR7FNHYL1fB5igjj7IXzOel.jpg",
+				"character": "Masego (voice)",
+				"gender": 2
+			},
+			{
+				"id": 3023201,
+				"order": 14,
+				"name": "Braelyn Rankins",
+				"profile_path": "/iiu6HOfpieGzk2gXd5JfUtKnNrH.jpg",
+				"character": "Mufasa Cub (voice)",
+				"gender": 2
+			},
+			{
+				"id": 4683002,
+				"order": 15,
+				"name": "Theo Somolu",
+				"profile_path": "/gKAER6rgRfm2qmr6Rj7DDWDAEtn.jpg",
+				"character": "Taka Cub (voice)",
+				"gender": 2
+			},
+			{
+				"id": 14386,
+				"order": 16,
+				"name": "Beyoncé",
+				"profile_path": "/9MgDCYBBVBl4lM1DuxNIIbCHlKy.jpg",
+				"character": "Nala (voice)",
+				"gender": 1
+			},
+			{
+				"id": 119589,
+				"order": 17,
+				"name": "Donald Glover",
+				"profile_path": "/9uS8bu5Jwnc5R3CKDNZ14EzIUs2.jpg",
+				"character": "Simba (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1454313,
+				"order": 18,
+				"name": "Folake Olowofoyeku",
+				"profile_path": "/9wKHnDBZuzRbZ6O5is2C1DfBHQG.jpg",
+				"character": "Amara (voice)",
+				"gender": 1
+			},
+			{
+				"id": 3071892,
+				"order": 19,
+				"name": "Joanna Jones",
+				"profile_path": "/cUACIEiutsjUL1ztAP0zqxmEB1B.jpg",
+				"character": "Akua (voice)",
+				"gender": 1
+			},
+			{
+				"id": 2286339,
+				"order": 20,
+				"name": "Thuso Mbedu",
+				"profile_path": "/pAStLwNMw8Seb0BM4uqrdOvtjK1.jpg",
+				"character": "Junia (voice)",
+				"gender": 1
+			},
+			{
+				"id": 1851642,
+				"order": 21,
+				"name": "Sheila Atim",
+				"profile_path": "/esAjvG2IXvzQODNEHVCVsc4WALI.jpg",
+				"character": "Ajarry (voice)",
+				"gender": 1
+			},
+			{
+				"id": 58431,
+				"order": 22,
+				"name": "Abdul Salis",
+				"profile_path": "/2gDH3kNzUr4IUZLbCiYR9OCTjGa.jpg",
+				"character": "Chigaru (voice)",
+				"gender": 2
+			},
+			{
+				"id": 95200,
+				"order": 23,
+				"name": "Dominique Jennings",
+				"profile_path": "/gQvFevYR8dyH0TTOnOAV8tOMSEO.jpg",
+				"character": "Sarafi (voice)",
+				"gender": 1
+			},
+			{
+				"id": 1862430,
+				"order": 24,
+				"name": "Derrick L. McMillon",
+				"profile_path": "/xYp02xs3ynwg86NkDQebXN3npSG.jpg",
+				"character": "Mosi (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1224603,
+				"order": 25,
+				"name": "Maestro Harrell",
+				"profile_path": "/7cD4uixyLp8vq5MD0SB7dqLHtAs.jpg",
+				"character": "Inaki (voice)",
+				"gender": 2
+			},
+			{
+				"id": 4209979,
+				"order": 26,
+				"name": "AJ Beckles",
+				"profile_path": "/gSFgVJnm71MffjyAOk4MyYVc8Yy.jpg",
+				"character": "Azibo (voice)",
+				"gender": 2
+			},
+			{
+				"id": 71078,
+				"order": 27,
+				"name": "David S. Lee",
+				"profile_path": "/Je5btH3d4hREmOH7sHusD0J7ky.jpg",
+				"character": "Mobo (voice)",
+				"gender": 2
+			},
+			{
+				"id": 3661561,
+				"order": 28,
+				"name": "Brielle Rankins",
+				"profile_path": "/hcsmnAnnKJkVKETEQdkV52d30HY.jpg",
+				"character": "Mufasa Cub additional lines (voice)",
+				"gender": 1
+			},
+			{
+				"id": 15152,
+				"order": 29,
+				"name": "James Earl Jones",
+				"profile_path": "/oqMPIsXrl9SZkRfIKN08eFROmH6.jpg",
+				"character": "Mufasa (Archive Voice)",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 42265,
+				"name": "Peter M. Tobyansen",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1681304,
+				"name": "Joi McMillon",
+				"profile_path": "/wdg9gRjHUQlBoyXILnQvfEOjl7b.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 5670,
+				"name": "Mark Friedberg",
+				"profile_path": "/3vs2xBKrXlXmkZEHBdhb0R5eeSJ.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1179651,
+				"name": "Lin-Manuel Miranda",
+				"profile_path": "/r0wFwPa041pZ1QM66yJWuQXCkqx.jpg",
+				"job": "Songs",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2689,
+				"name": "Jeff Nathanson",
+				"profile_path": "/38g0OMsqGcGppAGM6BIep7ZbdPc.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 3247563,
+				"name": "Lebo M.",
+				"profile_path": "/iqsXzHBbu2fsxgkk4VR0DGaiDAR.jpg",
+				"job": "Additional Music",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 85960,
+				"name": "Paula Fairfield",
+				"profile_path": "/rKXrhz7Pg21YPNhzng241FTtb6e.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 92784,
+				"name": "Barry Jenkins",
+				"profile_path": "/6nld5eQwiJmuLmyesk4EUeCaoo3.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2411897,
+				"name": "Mark Ceryak",
+				"profile_path": "/3XuRWog48q0e9mcXlOzq0HgxIDs.jpg",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 969845,
+				"name": "Adele Romanski",
+				"profile_path": "/7albgSdV3st5kof9W1gbDtP2xBn.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 960350,
+				"name": "James Laxton",
+				"profile_path": "/wD83C5pD7eHdfULlS6pFlWnRs4O.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 15152,
+				"name": "James Earl Jones",
+				"profile_path": "/oqMPIsXrl9SZkRfIKN08eFROmH6.jpg",
+				"job": "In Memory Of",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 61974,
+				"name": "Dave Metzger",
+				"profile_path": "/gfjnhloiQUilQNElVc39F9dCnmB.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 931976,
+				"name": "Onnalee Blank",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 56041,
+				"name": "Irene Mecchi",
+				"profile_path": "/qvr0TCXL8XxC2ivChfq7DssuDGs.jpg",
+				"job": "Thanks",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 7933,
+				"name": "Jonathan Roberts",
+				"job": "Thanks",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 38792,
+				"name": "Linda Woolverton",
+				"profile_path": "/AagHXmW37oiLSCsUYIifAaFfkz.jpg",
+				"job": "Thanks",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 3247563,
+				"name": "Lebo M.",
+				"profile_path": "/iqsXzHBbu2fsxgkk4VR0DGaiDAR.jpg",
+				"job": "Vocals",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 6410,
+				"name": "Francine Maisler",
+				"profile_path": "/5pOiu0SLr3XCB3a8SDwQ70KHINq.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1729089,
+				"name": "Jared Patrick Gerbig",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 11508,
+				"name": "Dan Webster",
+				"job": "Supervising Art Director",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 3687,
+				"name": "Harry Cohen",
+				"profile_path": "/pXDkgsdiMfmChkHpSvVIqYYAdFj.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 9419,
+				"name": "Benjamin L. Cook",
+				"job": "Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1049272,
+				"name": "Adam Valdez",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1715141,
+				"name": "Audrey Ferrara",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 11370,
+				"name": "Elton John",
+				"profile_path": "/9G3k29OWPyZtScEDZEAsFJpqiM7.jpg",
+				"job": "Songs",
+				"department": "Sound",
+				"gender": 2
+			}
+		]
+	}
+}

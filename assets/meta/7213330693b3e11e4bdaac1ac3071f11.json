@@ -1,0 +1,296 @@
+{
+	"id": 154084,
+	"title": "Citadel Honey Bunny",
+	"name": "Citadel Honey Bunny",
+	"fcg_title": "Citadel: Honey Bunny",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 10759,
+			"name": "Action \u0026 Adventure"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 10765,
+			"name": "Sci-Fi \u0026 Fantasy"
+		}
+	],
+	"overview": "When stuntman Bunny recruits struggling actress Honey for a side gig, they are hurled into a high-stakes world of action, espionage and betrayal. Years later, as their dangerous past catches up, the estranged Honey and Bunny must reunite and fight to protect their young daughter Nadia.",
+	"backdrop_path": "/c1zX0L9X2UXeOemCg8FSDReMO6G.jpg",
+	"poster_path": "/lzZ9J2FOsaq1DCuD7k2f4ogbXdD.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 225312,
+				"order": 0,
+				"name": "Samantha Ruth Prabhu",
+				"profile_path": "/2tQHkYrMZrED9Bp7p5dyDs4toDS.jpg",
+				"character": "Honey",
+				"gender": 1
+			},
+			{
+				"id": 1108119,
+				"order": 1,
+				"name": "Varun Dhawan",
+				"profile_path": "/gvvXYTpvO0Tu7naCDLL3tInyN2R.jpg",
+				"character": "Bunny / Rahi",
+				"gender": 2
+			},
+			{
+				"id": 86020,
+				"order": 2,
+				"name": "Kay Kay Menon",
+				"profile_path": "/lcCMzGpxHXTStLMN7G9SQovxSQo.jpg",
+				"character": "Guru",
+				"gender": 2
+			},
+			{
+				"id": 5044598,
+				"order": 3,
+				"name": "Kashvi Majmundar",
+				"character": "Nadia"
+			},
+			{
+				"id": 141705,
+				"order": 4,
+				"name": "Simran",
+				"profile_path": "/BRsVC78sFbFy0NQhaUkGkuUUOL.jpg",
+				"character": "Zooni",
+				"gender": 1
+			},
+			{
+				"id": 1147461,
+				"order": 5,
+				"name": "Saqib Saleem",
+				"profile_path": "/x3ymFgBKWyT8BunvfzzMTm0w78j.jpg",
+				"character": "KD",
+				"gender": 2
+			},
+			{
+				"id": 229123,
+				"order": 6,
+				"name": "Sikandar Kher",
+				"profile_path": "/sULXachczStfQLegNVmxcvuUTWZ.jpg",
+				"character": "Shaan",
+				"gender": 2
+			},
+			{
+				"id": 1963342,
+				"order": 7,
+				"name": "Shivankit Singh Parihar",
+				"profile_path": "/2trIa00z7dWn1FSUIzVAXVH5wXE.jpg",
+				"character": "Chacko",
+				"gender": 2
+			},
+			{
+				"id": 2340292,
+				"order": 8,
+				"name": "Soham Majumdar",
+				"profile_path": "/r6rlp1GMwumCVD4f5QEDAfs666o.jpg",
+				"character": "Ludo",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 19272,
+				"name": "Joe Russo",
+				"profile_path": "/o0OXjFzL10jCy89iAs7UzzSbyoK.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1405917,
+				"name": "Mike Larocca",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1242165,
+				"name": "Scott Nemes",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1424719,
+				"name": "David Weil",
+				"profile_path": "/tsx2DRIAg3pAzi6rzh6sgaFXdLj.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 19271,
+				"name": "Anthony Russo",
+				"profile_path": "/xbINBnWn28YygYWUJ1aSAw0xPRv.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1751775,
+				"name": "Angela Russo-Otstot",
+				"profile_path": "/outhE6HJdAv8V4hMRdeWwQotxEA.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 81676,
+				"name": "Raj Nidimoru",
+				"profile_path": "/8Pu6AWiB6BC0LZgL8KrtgtlmHy8.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 81675,
+				"name": "Krishna D.K.",
+				"profile_path": "/qAkiwfih6jI0rTeikhTwdZq8JQR.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1424719,
+				"name": "David Weil",
+				"profile_path": "/tsx2DRIAg3pAzi6rzh6sgaFXdLj.jpg",
+				"job": "Original Series Creator",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 120015,
+				"name": "Josh Appelbaum",
+				"profile_path": "/edCP3fGS25qdednDxSQkGiCimwK.jpg",
+				"job": "Original Series Creator",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1246852,
+				"name": "Bryan Oh",
+				"job": "Original Series Creator",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2023237,
+				"name": "Johan Heurlin Aidt",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1434492,
+				"name": "Ejaz Gulab",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2051076,
+				"name": "Allwin Rego",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 1690843,
+				"name": "Yannick Ben",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2259689,
+				"name": "Sanjay Maurya",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 1287335,
+				"name": "Sumeet Kotian",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1858325,
+				"name": "Aman Pant",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 1785030,
+				"name": "Meenal Agarwal",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 4449382,
+				"name": "Neda Krkeljić",
+				"profile_path": "/7ca1VC2aReIPYsPH08v27JrTztC.jpg",
+				"job": "Production Coordinator",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 4095015,
+				"name": "Pankaj Vashisht",
+				"job": "VFX Artist",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 120015,
+				"name": "Josh Appelbaum",
+				"profile_path": "/edCP3fGS25qdednDxSQkGiCimwK.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1018751,
+				"name": "André Nemec",
+				"profile_path": "/kuuEycNLQDeAhaH9QNd3lpnLM62.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 168309,
+				"name": "Jeff Pinkner",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3228,
+				"name": "Scott Rosenberg",
+				"profile_path": "/uHqU0H8MSFieo1RTS3Erl6CYaH2.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1685488,
+				"name": "Ameira Punvani",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1108802,
+				"name": "Mukesh Chhabra",
+				"profile_path": "/f5XI2wJs2JPcd5FSECsdcnkyOMW.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 2
+			}
+		]
+	}
+}

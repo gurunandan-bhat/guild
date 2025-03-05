@@ -1,0 +1,100 @@
+{{ $metadata := . }}
+{{ $imgLink := "" }}
+{{ with $metadata.poster_path }}
+    {{ with resources.Get (printf "meta/posters%s" .) }}
+        {{ $imgLink = .RelPermalink }}
+    {{ else }}
+        {{ warnf "image not found for %s" $metadata.title }}
+    {{ end }}
+{{ end }}
+
+{{ $genreList := slice }}
+{{ with $metadata.genres }}
+    {{ range $metadata.genres }}
+        {{ $genreList = append .name $genreList }}
+    {{ end }}
+{{ end }}
+
+{{ $castList := slice }}
+{{ with $metadata.credits.cast }}
+    {{ $cast := . }}
+    {{ $castLen := len $cast }}
+    {{ $min := math.Min 5 $castLen }}
+    {{ $cS := slice }}
+    {{ range seq 0 $min }}
+        {{ $cS = append (index $cast .).name $cS }}
+    {{ end }}
+    {{ $castList = delimit $cS ", " }}
+{{ end }}
+
+{{ $crew := $metadata.credits.crew }}
+{{ $director := "" }}
+{{ $camera := "" }}
+{{ $editor := "" }}
+{{ range $crew }}
+    {{ if eq .job "Director" }}
+        {{ $director = .name }}
+    {{ else if eq .job "Director of Photography" }}
+        {{ $camera = .name }}
+    {{ else if eq .job "Editor" }}
+        {{ $editor = .name }}
+    {{ end }}
+{{ end }}
+<div class="container">
+    <div class="row mb-5">
+        <div class="col-lg-4 offset-lg-1">
+            <img src="{{ $imgLink }}" class="img-fluid w-100" />
+        </div>
+        <div class="col-lg-6">
+            <p>
+                {{ range $genreList }}
+                    <span class="genre">{{ . }}</span>
+                {{ end }}
+            </p>
+            <table class="table small">
+                <tbody>
+                    {{ with $metadata.title }}
+                        <tr>
+                            <th scope="row">Title:</th>
+                            <td class="attribute">{{ . }}</td>
+                        </tr>
+                    {{ end }}
+                    {{ with $metadata.original_title }}
+                        <tr>
+                            <th scope="row">Original Title:</th>
+                            <td>{{ . }}</td>
+                        </tr>
+                    {{ end }}
+                    {{ with $metadata.overview }}
+                        <tr>
+                            <th scope="row">Plot:</th>
+                            <td class="attribute">{{ . }}</td>
+                        </tr>
+                    {{ end }}
+                    <tr>
+                        <th scope="row">Cast:</th>
+                        <td class="attribute">{{ $castList }}</td>
+                    </tr>
+                    {{ with $director }}
+                        <tr>
+                            <th scope="row">Director:</th>
+                            <td class="attribute">{{ . }}</td>
+                        </tr>
+                    {{ end }}
+                    {{ with $camera }}
+                        <tr>
+                            <th scope="row">Cinematography:</th>
+                            <td class="attribute">{{ . }}</td>
+                        </tr>
+                    {{ end }}
+                    {{ with $editor }}
+                        <tr>
+                            <th scope="row">Editor:</th>
+                            <td class="attribute">{{ . }}</td>
+                        </tr>
+                    {{ end }}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

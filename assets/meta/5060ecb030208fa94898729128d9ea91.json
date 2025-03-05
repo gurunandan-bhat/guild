@@ -1,0 +1,392 @@
+{
+	"id": 1245700,
+	"title": "Sector 36",
+	"fcg_title": "Sector 36",
+	"original_title": "सेक्टर 36",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "When several children disappear at the hands of a serial killer in Sector 36, a corrupt cop is forced to pursue the chilling case at all costs.",
+	"backdrop_path": "/as8fZuf0c8V2iMO43kw13hc6a9V.jpg",
+	"poster_path": "/pbVcZmmcfqk35Q9hNxRoR7JPiVp.jpg",
+	"release_date": "2024-08-18",
+	"credits": {
+		"cast": [
+			{
+				"id": 1208682,
+				"order": 0,
+				"name": "Vikrant Massey",
+				"profile_path": "/zvpP52P7CtVXYONmvWrH1aOcRTx.jpg",
+				"character": "Prem Singh",
+				"gender": 2
+			},
+			{
+				"id": 85594,
+				"order": 1,
+				"name": "Deepak Dobriyal",
+				"profile_path": "/cImSPlrxucfiGS3ICvpFD5XSs64.jpg",
+				"character": "Inspector Ramcharan Pandey",
+				"gender": 2
+			},
+			{
+				"id": 284463,
+				"order": 2,
+				"name": "Akash Khurana",
+				"profile_path": "/8UMeDzFU4l207MXCCKnguyy30LU.jpg",
+				"character": "Balbir Singh Bassi",
+				"gender": 2
+			},
+			{
+				"id": 92686,
+				"order": 3,
+				"name": "Darshan Jariwala",
+				"profile_path": "/wUjcLcLzM2E7kEde5aq33AyYcDf.jpg",
+				"character": "DYSP Jawahar Rastogi",
+				"gender": 2
+			},
+			{
+				"id": 2142135,
+				"order": 4,
+				"name": "Baharul Islam",
+				"profile_path": "/1VRm8IrBUT8G5FjxexFvfYf4mHJ.jpg",
+				"character": "Bhupen Saikia"
+			},
+			{
+				"id": 2710586,
+				"order": 5,
+				"name": "Ivana Kaur",
+				"profile_path": "/wOmpeBHjDBt3TN5z9SGSNb4BJKW.jpg",
+				"character": "Vaidehi"
+			},
+			{
+				"id": 4270324,
+				"order": 6,
+				"name": "Mahadev Singh Lakhawat",
+				"profile_path": "/jvoIGFJ90s8lh9oOzLINxvbTJI2.jpg",
+				"character": "Constable Bishnoi",
+				"gender": 2
+			},
+			{
+				"id": 4924665,
+				"order": 7,
+				"name": "Ajeet Singh Palawat",
+				"character": "Constable Pathak"
+			},
+			{
+				"id": 4924666,
+				"order": 8,
+				"name": "Kacho Ahmad",
+				"character": "Compounder"
+			},
+			{
+				"id": 4924667,
+				"order": 9,
+				"name": "Fareed Ahmad",
+				"character": "Prem's Uncle"
+			},
+			{
+				"id": 4945025,
+				"order": 10,
+				"name": "Subir Bisawas",
+				"character": "Harisadan Ghosh"
+			},
+			{
+				"id": 2634948,
+				"order": 11,
+				"name": "Arindol Bagchi",
+				"profile_path": "/bjR7eRfgujnHd7yGFsGxQi2V03d.jpg",
+				"character": "Sabyasachi Mandal"
+			},
+			{
+				"id": 4945026,
+				"order": 12,
+				"name": "Varun Bhiletia",
+				"character": "Ali"
+			},
+			{
+				"id": 4523471,
+				"order": 13,
+				"name": "Raj Singh Rawat",
+				"character": "Ali's Father"
+			},
+			{
+				"id": 2491666,
+				"order": 14,
+				"name": "Anushree Das",
+				"character": "Chumki"
+			},
+			{
+				"id": 1521923,
+				"order": 15,
+				"name": "Trimala Adhikari",
+				"profile_path": "/38zT3aHkbOyeT35lKkrlUBAke97.jpg",
+				"character": "Jyoti",
+				"gender": 1
+			},
+			{
+				"id": 4945027,
+				"order": 16,
+				"name": "Vijay Wanchoo",
+				"character": "Mithilesh"
+			},
+			{
+				"id": 4945028,
+				"order": 17,
+				"name": "Ipshita Palawat",
+				"character": "Sangeeta"
+			},
+			{
+				"id": 4945029,
+				"order": 18,
+				"name": "Monu Khatri",
+				"character": "Rajbir"
+			},
+			{
+				"id": 4945030,
+				"order": 19,
+				"name": "Prisha Srivastava",
+				"character": "Samreen"
+			},
+			{
+				"id": 4945031,
+				"order": 20,
+				"name": "Krishiv Nanda",
+				"character": "Vivaan Trehan"
+			},
+			{
+				"id": 4945033,
+				"order": 21,
+				"name": "Deepti Kumar",
+				"character": "Mrs. Trehan"
+			}
+		],
+		"crew": [
+			{
+				"id": 37242,
+				"name": "Sreekar Prasad",
+				"profile_path": "/cHpDtVlleMlplodhKmjPCGqaAFS.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 2061198,
+				"name": "Aditya Nimbalkar",
+				"profile_path": "/73KDj9WBHoPL7YqSbDQE1GzvVR5.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1922463,
+				"name": "Saurabh Goswami",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 4539827,
+				"name": "Bodhayan Roychaudhury",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 4539835,
+				"name": "Nimish Shah",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 102246,
+				"name": "Dinesh Vijan",
+				"profile_path": "/mYKpPjxkGvyCXMhId8HXZKAyePb.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1658334,
+				"name": "Jyoti Deshpande",
+				"profile_path": "/fpbj5f3Uny0xdyPU8Qt5dMbi1PT.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 4924641,
+				"name": "Sharada Jalota",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3951921,
+				"name": "Ashni Parekh",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2384413,
+				"name": "Poonam Shivdasani",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1640321,
+				"name": "Subrata Chakraborty",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1640319,
+				"name": "Amit Ray",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 3353217,
+				"name": "Kabeer Kathpalia",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2051487,
+				"name": "Savera Mehta",
+				"job": "Music",
+				"department": "Sound"
+			},
+			{
+				"id": 85378,
+				"name": "Gourov Dasgupta",
+				"job": "Music",
+				"department": "Sound"
+			},
+			{
+				"id": 2372918,
+				"name": "Kanishk Seth",
+				"job": "Music",
+				"department": "Sound"
+			},
+			{
+				"id": 3547413,
+				"name": "Sameer Rahat",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 4924654,
+				"name": "Dhunkey",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 4924657,
+				"name": "Farhan Memon",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 4924658,
+				"name": "Yashwardhan Goswami",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 1991819,
+				"name": "Ketan Sodha",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 4924659,
+				"name": "Vineeta Talwar",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1549730,
+				"name": "Mandar Kulkarni",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 1549731,
+				"name": "Pranit Purao",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 4526500,
+				"name": "Haider Naqvi",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2416514,
+				"name": "Siddharth Motwani",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4924660,
+				"name": "Rohit Kaul",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1831911,
+				"name": "Shivank Kapoor",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4924661,
+				"name": "Sandeep Mohanta",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 4924662,
+				"name": "Vishwas Savandur",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2118234,
+				"name": "Tushar Jadhav",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 4306665,
+				"name": "Harpal Singh",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 1708062,
+				"name": "Anmol Ahuja",
+				"job": "Casting",
+				"department": "Production"
+			},
+			{
+				"id": 3371333,
+				"name": "Abhishek Banerjee",
+				"job": "Casting",
+				"department": "Production"
+			}
+		]
+	}
+}

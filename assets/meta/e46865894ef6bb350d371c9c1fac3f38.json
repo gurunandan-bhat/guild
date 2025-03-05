@@ -1,0 +1,50 @@
+{
+	"id": 932029,
+	"title": "Angry Young Men",
+	"fcg_title": "Angry Young Men",
+	"original_title": "Angry Young Men",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "A surreal coming of age tale set in the barren gangland town of Mauchton, Scotland.",
+	"poster_path": "/1jiXfFeSS99FkyTBtK0pp5iTOpN.jpg",
+	"release_date": "2022-03-09",
+	"credits": {
+		"cast": [
+			{
+				"id": 3402601,
+				"order": 0,
+				"name": "Paul Morris",
+				"character": "Jimmy MacDonald"
+			},
+			{
+				"id": 3718337,
+				"order": 1,
+				"name": "Adam Robb",
+				"character": "Young Edmund"
+			}
+		],
+		"crew": [
+			{
+				"id": 3402601,
+				"name": "Paul Morris",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 3402601,
+				"name": "Paul Morris",
+				"job": "Writer",
+				"department": "Writing"
+			}
+		]
+	}
+}

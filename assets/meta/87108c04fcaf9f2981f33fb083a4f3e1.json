@@ -1,0 +1,389 @@
+{
+	"id": 1069200,
+	"title": "The Teacher",
+	"fcg_title": "The Teacher",
+	"original_title": "المعلم",
+	"original_language": "ar",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "A Palestinian school teacher struggles to reconcile his life-threatening commitment to political resistance with his emotional support for one of his students and the chance of a new romantic relationship with a British volunteer worker.",
+	"backdrop_path": "/cNLzolOIZfqlx4XclQg94DPSjEj.jpg",
+	"poster_path": "/2ircKZbRAhXqZuhlEC3jXZSjYri.jpg",
+	"release_date": "2024-05-16",
+	"credits": {
+		"cast": [
+			{
+				"id": 42442,
+				"order": 0,
+				"name": "Saleh Bakri",
+				"profile_path": "/nx5owXvKk9QPOXbluDZhtAaUlRB.jpg",
+				"character": "Basem El-Saleh",
+				"gender": 2
+			},
+			{
+				"id": 17606,
+				"order": 1,
+				"name": "Imogen Poots",
+				"profile_path": "/7uMFX0ecPZT2tc8L5DFFNbUckc9.jpg",
+				"character": "Lisa",
+				"gender": 1
+			},
+			{
+				"id": 3702754,
+				"order": 2,
+				"name": "Muhammad Abed Elrahman",
+				"profile_path": "/rwj9Q5VqeXGdUT4sZCBUMpZzH9a.jpg",
+				"character": "Adam"
+			},
+			{
+				"id": 25074,
+				"order": 3,
+				"name": "Stanley Townsend",
+				"profile_path": "/ry1kek817WYHOh1npa3ojxmGJcI.jpg",
+				"character": "Simon Cohen",
+				"gender": 2
+			},
+			{
+				"id": 186197,
+				"order": 4,
+				"name": "Paul Herzberg",
+				"profile_path": "/sNbN9BqAWvRa8qLsc4493VFEEJe.jpg",
+				"character": "Director Lieberman",
+				"gender": 2
+			},
+			{
+				"id": 3752540,
+				"order": 5,
+				"name": "Mahmood Bakri",
+				"profile_path": "/tN3wye497H3jeBNeZ1Dt6ln71TB.jpg",
+				"character": "Yacoub"
+			},
+			{
+				"id": 1428993,
+				"order": 6,
+				"name": "Andrea Irvine",
+				"profile_path": "/dzwAHjcKHpyqn2dPhi2b9e4pEOJ.jpg",
+				"character": "Rachel Cohen",
+				"gender": 1
+			},
+			{
+				"id": 5107564,
+				"order": 7,
+				"name": "Asmaa Azaizeh",
+				"profile_path": "/fiGgCzv6xUrLgFu29ltnLudwNwe.jpg",
+				"character": "Salwa"
+			},
+			{
+				"id": 996262,
+				"order": 8,
+				"name": "Ruba Blal",
+				"profile_path": "/jkCJlJKrNCTRfht4soCU1kBs9D0.jpg",
+				"character": "Huda",
+				"gender": 1
+			},
+			{
+				"id": 5107555,
+				"order": 9,
+				"name": "Muayyad Abd Elsamad",
+				"character": "Abu Tarek"
+			},
+			{
+				"id": 5107563,
+				"order": 10,
+				"name": "Abd Al Naser Al Sadi",
+				"profile_path": "/zt0UVkpn8jbjIosduPudwtOMDED.jpg",
+				"character": "Yusef"
+			},
+			{
+				"id": 3120515,
+				"order": 11,
+				"name": "Nabil Al Raee",
+				"profile_path": "/jyYKBCG9Mp7ugb2p74bvPCQcixu.jpg",
+				"character": "Man at Night"
+			},
+			{
+				"id": 5107558,
+				"order": 12,
+				"name": "Shams Azzam",
+				"character": "Secret Service #1"
+			},
+			{
+				"id": 5107559,
+				"order": 13,
+				"name": "Julia Hamdan",
+				"character": "Hana"
+			},
+			{
+				"id": 5107560,
+				"order": 14,
+				"name": "Hanna Ayoub",
+				"character": "House Demolition Soldier"
+			},
+			{
+				"id": 1728941,
+				"order": 15,
+				"name": "Nael Kanj",
+				"character": "The Settler"
+			},
+			{
+				"id": 86362,
+				"order": 16,
+				"name": "Einat Weitzman",
+				"character": "Orit"
+			},
+			{
+				"id": 5107569,
+				"order": 17,
+				"name": "Jareer Qanadeelo",
+				"character": "Abu Sameer"
+			},
+			{
+				"id": 131687,
+				"order": 18,
+				"name": "Doraid Liddawi",
+				"profile_path": "/lPgFtk3gwIXk2XTQdQ5WkcbU7Ey.jpg",
+				"character": "Military Judge",
+				"gender": 2
+			},
+			{
+				"id": 5107572,
+				"order": 19,
+				"name": "Ous Khader",
+				"character": "Nader"
+			},
+			{
+				"id": 5107575,
+				"order": 20,
+				"name": "Asmahan Abed Elhadi",
+				"character": "Military Lawyer"
+			},
+			{
+				"id": 4448366,
+				"order": 21,
+				"name": "Donna Hawa",
+				"character": "Female Soldier"
+			},
+			{
+				"id": 5107577,
+				"order": 22,
+				"name": "Khitam Idlbi",
+				"character": "Court Judge"
+			},
+			{
+				"id": 3923324,
+				"order": 23,
+				"name": "Diaa Mograby",
+				"character": "Nathaniel"
+			},
+			{
+				"id": 5107580,
+				"order": 24,
+				"name": "Ameer Klawe",
+				"character": "Commando Soldier #1"
+			},
+			{
+				"id": 5107582,
+				"order": 25,
+				"name": "Mhamd Balawni",
+				"character": "Commando Soldier #2"
+			},
+			{
+				"id": 5107583,
+				"order": 26,
+				"name": "Yasmin Hisham Suleiman",
+				"character": "Bike Girl"
+			},
+			{
+				"id": 5107584,
+				"order": 27,
+				"name": "Taher Kosa",
+				"character": "Ibraheem"
+			},
+			{
+				"id": 5107585,
+				"order": 28,
+				"name": "Firas Farrah",
+				"character": "Cellmate #1"
+			},
+			{
+				"id": 5107586,
+				"order": 29,
+				"name": "Rita Taha",
+				"character": "Staff Member"
+			},
+			{
+				"id": 3719558,
+				"order": 30,
+				"name": "Nicola Zreineh",
+				"character": "Head Teacher"
+			},
+			{
+				"id": 3841216,
+				"order": 31,
+				"name": "Waseem Khair",
+				"character": "Football Commentator Audio"
+			}
+		],
+		"crew": [
+			{
+				"id": 226581,
+				"name": "Luke Healy",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2552403,
+				"name": "Farah Nabulsi",
+				"profile_path": "/xN7K1WeCzOiq2kKCuuDcQ6gHRPM.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2104855,
+				"name": "Gareth Bishop",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 2695857,
+				"name": "Sameer Qumsiyeh",
+				"job": "Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1728950,
+				"name": "May Jabareen",
+				"job": "Producer's Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 4311912,
+				"name": "Mike Pike",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 2766161,
+				"name": "Sami Zarour",
+				"job": "Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 1143389,
+				"name": "Ben Baird",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 2442883,
+				"name": "Ruslan Shebystyi",
+				"job": "Foley Artist",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3318177,
+				"name": "Pam Thompson",
+				"job": "Audio Post Coordinator",
+				"department": "Sound"
+			},
+			{
+				"id": 4311916,
+				"name": "Wafa Azzeh",
+				"job": "Assistant Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4311917,
+				"name": "Agathe Boulous",
+				"job": "Digital Intermediate Producer",
+				"department": "Editing"
+			},
+			{
+				"id": 2443157,
+				"name": "Andrii Starykovskyi",
+				"job": "Foley Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1622192,
+				"name": "Ossama Bawardi",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2715169,
+				"name": "Abu Alul Montaser",
+				"job": "Boom Operator",
+				"department": "Sound"
+			},
+			{
+				"id": 226063,
+				"name": "Gilles Porte",
+				"profile_path": "/7i13fiCX56TPh7tzJHy6uxjtea3.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1728941,
+				"name": "Nael Kanj",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1143389,
+				"name": "Ben Baird",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 4027055,
+				"name": "Naomi Graham",
+				"job": "Dialogue Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 4311913,
+				"name": "Matthew Kabby Kabakoff",
+				"job": "ADR Recording Engineer",
+				"department": "Sound"
+			},
+			{
+				"id": 1728377,
+				"name": "Sawsan Asfari",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2552403,
+				"name": "Farah Nabulsi",
+				"profile_path": "/xN7K1WeCzOiq2kKCuuDcQ6gHRPM.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 2552403,
+				"name": "Farah Nabulsi",
+				"profile_path": "/xN7K1WeCzOiq2kKCuuDcQ6gHRPM.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 1483327,
+				"name": "Alex Baranowski",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			}
+		]
+	}
+}

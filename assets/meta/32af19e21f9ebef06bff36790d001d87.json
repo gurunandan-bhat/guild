@@ -1,0 +1,300 @@
+{
+	"id": 1196943,
+	"title": "Chhaava",
+	"fcg_title": "Chhaava",
+	"original_title": "छावा",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 36,
+			"name": "History"
+		},
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Shivaji's death sparks the Maratha-Mughal conflict. His son Sambhaji leads resistance against Aurangzeb's forces. Amid battles and intrigue, both sides face challenges in a struggle for power.",
+	"backdrop_path": "/s37s21YPqS7txyB0x0TRel24vgi.jpg",
+	"poster_path": "/9F4lPRLjfBjsu0zjWNOZQMa8a4V.jpg",
+	"release_date": "2025-02-14",
+	"credits": {
+		"cast": [
+			{
+				"id": 1469935,
+				"order": 0,
+				"name": "Vicky Kaushal",
+				"profile_path": "/hKSa4DWEAD7DYhABYGwjPmxdpAY.jpg",
+				"character": "Chhatrapati Sambhaji Maharaj",
+				"gender": 2
+			},
+			{
+				"id": 1752056,
+				"order": 1,
+				"name": "Rashmika Mandanna",
+				"profile_path": "/fMotpuQYUfyPPWeRJk8C8ADBZrY.jpg",
+				"character": "Yesubai Bhonsale",
+				"gender": 1
+			},
+			{
+				"id": 87328,
+				"order": 2,
+				"name": "Akshaye Khanna",
+				"profile_path": "/3CA3FFeeL8owpihTEn1BCvDHdSo.jpg",
+				"character": "Aurangzeb",
+				"gender": 2
+			},
+			{
+				"id": 86508,
+				"order": 3,
+				"name": "Ashutosh Rana",
+				"profile_path": "/jFlhAoEP3KGEXO3SXCA4YLM2Goc.jpg",
+				"character": "Sarlashkar Hambirrao Mohite",
+				"gender": 2
+			},
+			{
+				"id": 35778,
+				"order": 4,
+				"name": "Divya Dutta",
+				"profile_path": "/mQVyM3NTnpCc8lHb0JnalJnYUqu.jpg",
+				"character": "Rajmata Soyarabai Bhosale",
+				"gender": 1
+			},
+			{
+				"id": 584887,
+				"order": 5,
+				"name": "Pradeep Ram Singh Rawat",
+				"profile_path": "/6lsSDOU7Iz9OrmUWZbwvcyCdOB0.jpg",
+				"character": "Yesaji Kank",
+				"gender": 2
+			},
+			{
+				"id": 1427894,
+				"order": 6,
+				"name": "Vineet Kumar Singh",
+				"profile_path": "/8mDoHcQQ82f7FYK8B22VK9DLkLA.jpg",
+				"character": "Chandogamatya Kavi Kalash",
+				"gender": 2
+			},
+			{
+				"id": 557212,
+				"order": 7,
+				"name": "Neil Bhoopalam",
+				"profile_path": "/zBSBeppHSFjuO5EmsUq5G2MdvMQ.jpg",
+				"character": "Shehzada Akbar",
+				"gender": 2
+			},
+			{
+				"id": 582489,
+				"order": 8,
+				"name": "Santosh Juvekar",
+				"profile_path": "/py8kcmyFLWnzS9GB5nigtgAc0GS.jpg",
+				"character": "Rayaji",
+				"gender": 2
+			},
+			{
+				"id": 2224417,
+				"order": 9,
+				"name": "Rajiv Kachroo",
+				"profile_path": "/fK69ZqC8SRCx5j3zRb8WXvzXVdR.jpg",
+				"character": "Mujtaba",
+				"gender": 2
+			},
+			{
+				"id": 2829786,
+				"order": 10,
+				"name": "Ashish Pathode",
+				"profile_path": "/9dIIek5yM6CjRhi6XQ8ZV62pEF7.jpg",
+				"character": "Antaji"
+			},
+			{
+				"id": 1066566,
+				"order": 11,
+				"name": "Diana Penty",
+				"profile_path": "/oBJLnErVlq5nbm5MiSr9Xhv78Al.jpg",
+				"character": "Shehzadi Zinat-un-Nissa",
+				"gender": 1
+			},
+			{
+				"id": 42803,
+				"order": 12,
+				"name": "Ajay Devgn",
+				"profile_path": "/83jDgHAPf4hPCFoF1OTF08xkhd6.jpg",
+				"character": "Narrator",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1118108,
+				"name": "Laxman Utekar",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 102246,
+				"name": "Dinesh Vijan",
+				"profile_path": "/mYKpPjxkGvyCXMhId8HXZKAyePb.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1640321,
+				"name": "Subrata Chakraborty",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1640319,
+				"name": "Amit Ray",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1736902,
+				"name": "Sheetal Sharma",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 2048190,
+				"name": "Vaibhav Vishant",
+				"job": "Casting Director",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1705311,
+				"name": "Rishi Virmani",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 5288,
+				"name": "A.R. Rahman",
+				"profile_path": "/3po8IwdtONY72BuXr7ZhZZ0ugxQ.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1922463,
+				"name": "Saurabh Goswami",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1790607,
+				"name": "Irshad Kamil",
+				"profile_path": "/20XNdVA9lA3NmyU1oUFVo39FokA.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1790607,
+				"name": "Irshad Kamil",
+				"profile_path": "/20XNdVA9lA3NmyU1oUFVo39FokA.jpg",
+				"job": "Additional Dialogue",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2255944,
+				"name": "Manish Pradhan",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1118108,
+				"name": "Laxman Utekar",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4161624,
+				"name": "Kaustubh J. Savarkar",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 1755493,
+				"name": "Parvez Shaikh",
+				"job": "Stunts",
+				"department": "Crew"
+			},
+			{
+				"id": 1701653,
+				"name": "Todor Lazarov",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1911375,
+				"name": "Vijay Ganguly",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1556253,
+				"name": "Bishwadeep Dipak Chatterjee",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 2728909,
+				"name": "Avijit Ghosh",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 4285142,
+				"name": "Rajat Pathare",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 2266284,
+				"name": "Anand Mishra",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2149909,
+				"name": "Ashirwad Hadkar",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 2041617,
+				"name": "Shrikant Desai",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1765179,
+				"name": "Himanshu Nanda",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 110193,
+				"name": "Rahul Nanda",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 2
+			}
+		]
+	}
+}

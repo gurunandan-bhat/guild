@@ -1,0 +1,21 @@
+{{ $extLinkIcon := index site.Data.svgicons.icons "externalLink" }}
+{{ $intLinkIcon := index site.Data.svgicons.icons "internalLink" }}
+{{ $critic := index .Params.critics 0 }}
+{{ $revCount := .Site.Taxonomies.mreviews.Count .Title }}
+{{ $revPage := index .Site.Taxonomies.mreviews (lower .Title) }}
+<div class="row mb-3">
+    <div class="col-lg-8 offset-lg-2">
+        <h6 class="fw-bold pb-3">
+            <span class="d-inline-block pb-2"
+                >{{ .Title }}
+                {{ with .Params.translatedTitle }}( {{- . -}} ){{ end }}</span
+            >
+            <br />
+            {{ partialCached "taxonomy/critics/reviewLink" (dict "critic" $critic "review" .) .Title $critic }}
+        </h6>
+        {{ .Content }}
+        <h6 class="fw-bold pt-3">{{ .Params.subtitle }}</h6>
+        {{ partialCached "taxonomy/mreviews/reviewLink" .Title .Title }}
+        <hr class="my-3" />
+    </div>
+</div>

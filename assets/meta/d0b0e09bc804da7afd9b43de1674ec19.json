@@ -1,0 +1,690 @@
+{
+	"id": 1118031,
+	"title": "Apocalypse Z: The Beginning of the End",
+	"fcg_title": "Apocalypse Z - The Beginning of the End",
+	"original_title": "Apocalipsis Z: el principio del fin",
+	"original_language": "es",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 27,
+			"name": "Horror"
+		}
+	],
+	"overview": "When a kind of rabies that transforms people into aggressive creatures spreads across the planet, Manel isolates himself at home with his cat, relying on his wits to survive; but soon they must go out in search of food, by land and by sea, dodging many dangers.",
+	"backdrop_path": "/lTYGtgDRygku7iiFLWyiEc4wLzz.jpg",
+	"poster_path": "/wIGJnIFQlESkC2rLpfA8EDHqk4g.jpg",
+	"release_date": "2024-10-04",
+	"credits": {
+		"cast": [
+			{
+				"id": 2422766,
+				"order": 0,
+				"name": "Francisco Ortiz",
+				"profile_path": "/iIwGt05vG5smGDiLJ7f6bMRQOOY.jpg",
+				"character": "Manel",
+				"gender": 2
+			},
+			{
+				"id": 72128,
+				"order": 1,
+				"name": "José María Yázpik",
+				"profile_path": "/uqZE7oXEADJ1NTg7g7xRELw59Hy.jpg",
+				"character": "Pritchenko",
+				"gender": 2
+			},
+			{
+				"id": 1457340,
+				"order": 2,
+				"name": "Berta Vázquez",
+				"profile_path": "/2QNOI5L03XomONmCR42GPyVYryy.jpg",
+				"character": "Lucía",
+				"gender": 1
+			},
+			{
+				"id": 2264694,
+				"order": 3,
+				"name": "Iria del Río",
+				"profile_path": "/z7Dqvpnb8R13P6B5pmUCDxb2Jvv.jpg",
+				"character": "Julia",
+				"gender": 1
+			},
+			{
+				"id": 1460406,
+				"order": 4,
+				"name": "Marta Poveda",
+				"profile_path": "/gsQvVa5uipx5YAQ8esJevlmPjsv.jpg",
+				"character": "Belén",
+				"gender": 1
+			},
+			{
+				"id": 5043607,
+				"order": 5,
+				"name": "Amalia Gómez",
+				"character": "Gabriela"
+			},
+			{
+				"id": 1468897,
+				"order": 6,
+				"name": "María Salgueiro",
+				"profile_path": "/qpJq1ci0IDmew1zl6oEXCx6HGW.jpg",
+				"character": "Sister Cecilia",
+				"gender": 1
+			},
+			{
+				"id": 1808448,
+				"order": 7,
+				"name": "Yuri Mykhaylychenko",
+				"profile_path": "/5sju9FQLapCyxhXA5VsSJFzeo5Q.jpg",
+				"character": "Ushakov",
+				"gender": 2
+			},
+			{
+				"id": 5043610,
+				"order": 8,
+				"name": "Ian Monclús",
+				"character": "Max"
+			},
+			{
+				"id": 5043611,
+				"order": 9,
+				"name": "Yaiza Macías",
+				"character": "Laila"
+			},
+			{
+				"id": 5043615,
+				"order": 10,
+				"name": "Ana García Molero",
+				"character": "Iria"
+			},
+			{
+				"id": 5043620,
+				"order": 11,
+				"name": "Iago Andrade",
+				"character": "Carlos"
+			},
+			{
+				"id": 5043622,
+				"order": 12,
+				"name": "Mohamed-Ali Boulabiar",
+				"character": "Kamil"
+			},
+			{
+				"id": 2778058,
+				"order": 13,
+				"name": "Sergey Grab",
+				"profile_path": "/2733irSVqzflHSLXnWuO3NvIhwY.jpg",
+				"character": "Sergey",
+				"gender": 2
+			},
+			{
+				"id": 4115104,
+				"order": 14,
+				"name": "Beka Lemonjava",
+				"character": "Cheslav",
+				"gender": 2
+			},
+			{
+				"id": 1679850,
+				"order": 15,
+				"name": "Niko Verona",
+				"character": "Nikolai"
+			},
+			{
+				"id": 3063106,
+				"order": 16,
+				"name": "Oriol Ruiz",
+				"character": "Mario"
+			},
+			{
+				"id": 2484859,
+				"order": 17,
+				"name": "Elena Seijo",
+				"profile_path": "/4ElzTmFnXUHD6MWcKVWLlZuKxIi.jpg",
+				"character": "Van Wife",
+				"gender": 1
+			},
+			{
+				"id": 2371426,
+				"order": 18,
+				"name": "Ferran Herrera",
+				"character": "Van Husband"
+			},
+			{
+				"id": 3567877,
+				"order": 19,
+				"name": "Joana Oliveira",
+				"profile_path": "/tRaYYPEYdcxw9YKhTiFK6UH7jpo.jpg",
+				"character": "Portuguese Buyer #1",
+				"gender": 1
+			},
+			{
+				"id": 3770583,
+				"order": 20,
+				"name": "Thais Kauffmann",
+				"character": "Portuguese Buyer #2"
+			},
+			{
+				"id": 2929691,
+				"order": 21,
+				"name": "Iván Ros",
+				"profile_path": "/eRTuUiw7kthoifDzplFmLWabCVr.jpg",
+				"character": "Supermarket Man",
+				"gender": 2
+			},
+			{
+				"id": 2020242,
+				"order": 22,
+				"name": "Vanessa Buchaca",
+				"profile_path": "/hieD7H9ityRUhQ1jIa3dQxOevFA.jpg",
+				"character": "Supermarket Woman",
+				"gender": 1
+			},
+			{
+				"id": 4970463,
+				"order": 23,
+				"name": "Manuel Lourido",
+				"character": "Nervous Passenger"
+			},
+			{
+				"id": 5043642,
+				"order": 24,
+				"name": "Sergio Crespo",
+				"character": "Airport Guardia Civil Agent"
+			},
+			{
+				"id": 4680337,
+				"order": 25,
+				"name": "Paloma Otero",
+				"profile_path": "/fiBCYWPthuBMjHYzZsOmOw8yKAn.jpg",
+				"character": "Airport Stewardess"
+			},
+			{
+				"id": 1790487,
+				"order": 26,
+				"name": "Arántzazu Ruiz",
+				"profile_path": "/csveRrPjBO3hjfsaxmHVNw2P6We.jpg",
+				"character": "Mrs. Tebar",
+				"gender": 1
+			},
+			{
+				"id": 5043646,
+				"order": 27,
+				"name": "Benjamín Montes",
+				"character": "Housing State MP"
+			},
+			{
+				"id": 5043648,
+				"order": 28,
+				"name": "Alberto Ladrón",
+				"character": "Post Accident Medical Doctor"
+			},
+			{
+				"id": 5043650,
+				"order": 29,
+				"name": "Monica McCollin",
+				"character": "US Girl"
+			},
+			{
+				"id": 3038953,
+				"order": 30,
+				"name": "Malcolm McCarthy",
+				"character": "Cuban McGyver"
+			},
+			{
+				"id": 4942785,
+				"order": 31,
+				"name": "Javier Oliveras",
+				"character": "Manel Home Policeman"
+			},
+			{
+				"id": 5043653,
+				"order": 32,
+				"name": "Enric Fonteta",
+				"character": "Housing State Burglar"
+			},
+			{
+				"id": 2371175,
+				"order": 33,
+				"name": "Hicham Malayo",
+				"profile_path": "/k4ZiUldRIOjvi0huluHA7h5jMu7.jpg",
+				"character": "Prisoner #1",
+				"gender": 2
+			},
+			{
+				"id": 5043657,
+				"order": 34,
+				"name": "Mou Ghazouan",
+				"character": "Prisoner #2"
+			},
+			{
+				"id": 4028695,
+				"order": 35,
+				"name": "Manel Loureiro",
+				"character": "TV Talk Show Host"
+			},
+			{
+				"id": 5043661,
+				"order": 36,
+				"name": "Albert Lesan",
+				"character": "TV Talk Show Expert"
+			},
+			{
+				"id": 5043665,
+				"order": 37,
+				"name": "Laura González",
+				"character": "TV Talk Show Panel Member"
+			},
+			{
+				"id": 4791178,
+				"order": 38,
+				"name": "Miquel Murga",
+				"character": "TV Talk Show Panel Member"
+			},
+			{
+				"id": 1188090,
+				"order": 39,
+				"name": "Francesc Galceran",
+				"profile_path": "/43WooYCrUTlpeStMWJGwAZE6HLE.jpg",
+				"character": "Health Department Spokesman"
+			},
+			{
+				"id": 1485149,
+				"order": 40,
+				"name": "Jesús Lloveras",
+				"profile_path": "/c4qASKR8pxBxSYwLWd937VzkdRw.jpg",
+				"character": "Government President",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1054301,
+				"name": "Adrián Guerra",
+				"profile_path": "/4ZfybKJ722RJh8lnEY24TKgsCtt.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1017209,
+				"name": "Carles Torrens",
+				"profile_path": "/jBGDX4BwsytGhPehgrrPKFFlIgn.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 4028695,
+				"name": "Manel Loureiro",
+				"job": "Novel",
+				"department": "Writing"
+			},
+			{
+				"id": 1152373,
+				"name": "Ángel Agudo",
+				"profile_path": "/3kj0cpNYzonA54NgSKZFZVOMCmq.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1334525,
+				"name": "Núria Valls",
+				"profile_path": "/1Km7HpTOjHekU56pprHcYKxp6GX.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2087580,
+				"name": "Elías M. Félix",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 2024659,
+				"name": "Edu Canet",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1011682,
+				"name": "Balter Gallart",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 17089,
+				"name": "Luis de la Madrid",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 45546,
+				"name": "Federico Jusid",
+				"profile_path": "/gK4EkeVqDvxuIMlNZB1SZSaGIFS.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2837217,
+				"name": "Carlos Zaera",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1376634,
+				"name": "Isaac Bonfill",
+				"job": "Sound Recordist",
+				"department": "Sound"
+			},
+			{
+				"id": 1405361,
+				"name": "Marc Bech",
+				"job": "Sound Supervisor",
+				"department": "Sound"
+			},
+			{
+				"id": 1288021,
+				"name": "Brendan Golden",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 1400474,
+				"name": "Marc Orts",
+				"job": "Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1143015,
+				"name": "Marian Coromina",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5043588,
+				"name": "Anna Álvarez de Sardi",
+				"job": "Makeup Department Head",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2858234,
+				"name": "Maribel Bernales",
+				"job": "Hair Department Head",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3861468,
+				"name": "Israel Mendoza",
+				"job": "Production Director",
+				"department": "Production"
+			},
+			{
+				"id": 1452368,
+				"name": "Àlex Vilà",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2561986,
+				"name": "Alejandro Gil",
+				"job": "Casting",
+				"department": "Production"
+			},
+			{
+				"id": 4852260,
+				"name": "Judith López",
+				"job": "Casting",
+				"department": "Production"
+			},
+			{
+				"id": 1635036,
+				"name": "Ricardo Rocca",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 1422826,
+				"name": "Oscar Valsecchi",
+				"job": "Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 5043676,
+				"name": "Irene Reig Iglesias",
+				"job": "Third Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1457162,
+				"name": "Marieta Torrent",
+				"job": "Script Supervisor",
+				"department": "Directing"
+			},
+			{
+				"id": 5043678,
+				"name": "Ignasi Moreno",
+				"job": "Storyboard",
+				"department": "Writing"
+			},
+			{
+				"id": 2874891,
+				"name": "Víctor Cuadrado",
+				"job": "Second Unit Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1335891,
+				"name": "Rubén Gómez",
+				"job": "Production Director",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5043686,
+				"name": "Ana Domínguez",
+				"job": "Production Coordinator",
+				"department": "Production"
+			},
+			{
+				"id": 1405367,
+				"name": "Quim Vives",
+				"job": "Still Photographer",
+				"department": "Camera"
+			},
+			{
+				"id": 5043691,
+				"name": "Manolo Fernández Valdés",
+				"job": "Still Photographer",
+				"department": "Camera"
+			},
+			{
+				"id": 5043693,
+				"name": "Xavi Izquierdo",
+				"job": "Location Manager",
+				"department": "Production"
+			},
+			{
+				"id": 3770583,
+				"name": "Thais Kauffmann",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 5043695,
+				"name": "Macarena Palomo",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 3104886,
+				"name": "Montse Soler",
+				"job": "Property Master",
+				"department": "Art"
+			},
+			{
+				"id": 3409263,
+				"name": "Txarly Gómez",
+				"job": "Props",
+				"department": "Art"
+			},
+			{
+				"id": 4475650,
+				"name": "Mireia Cusó",
+				"job": "Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 5043700,
+				"name": "Arnau Gassó Coll",
+				"job": "Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 3701009,
+				"name": "Berta Llargués",
+				"job": "Graphic Designer",
+				"department": "Art"
+			},
+			{
+				"id": 3673812,
+				"name": "Dani García",
+				"profile_path": "/ZA0rZGalHuQtAASxE4shkyVlvD.jpg",
+				"job": "Boom Operator",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2845879,
+				"name": "Xavi Carrera",
+				"job": "Boom Operator",
+				"department": "Sound"
+			},
+			{
+				"id": 1857883,
+				"name": "Martí Maluquer",
+				"job": "Gaffer",
+				"department": "Lighting"
+			},
+			{
+				"id": 1436797,
+				"name": "Salva Castellarnau",
+				"job": "Key Grip",
+				"department": "Camera"
+			},
+			{
+				"id": 1538763,
+				"name": "Pau Costa",
+				"job": "Special Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1707025,
+				"name": "Pablo Perona",
+				"job": "Special Effects Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1657623,
+				"name": "Lucía Solana",
+				"job": "Special Effects Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2592888,
+				"name": "Guillermo Lorenzana Torns",
+				"job": "Assistant Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 2592894,
+				"name": "Carlos de Visa",
+				"job": "Assistant Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 2610453,
+				"name": "Iosu Martínez",
+				"job": "Sound Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 3820670,
+				"name": "Joan Castan",
+				"job": "Assistant Sound Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 1876055,
+				"name": "Jorge Alarcón",
+				"job": "Dialogue Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1726269,
+				"name": "Marc Gonell",
+				"job": "Foley Artist",
+				"department": "Sound"
+			},
+			{
+				"id": 3695829,
+				"name": "Daniel Miranda",
+				"job": "Foley Artist",
+				"department": "Sound"
+			},
+			{
+				"id": 1637497,
+				"name": "Quique Cañadas",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 45546,
+				"name": "Federico Jusid",
+				"profile_path": "/gK4EkeVqDvxuIMlNZB1SZSaGIFS.jpg",
+				"job": "Orchestrator",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 45546,
+				"name": "Federico Jusid",
+				"profile_path": "/gK4EkeVqDvxuIMlNZB1SZSaGIFS.jpg",
+				"job": "Music Director",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1852598,
+				"name": "Gustavo Gini",
+				"profile_path": "/5mwQng26UwWn3cC0jf2dSnLDIvP.jpg",
+				"job": "Orchestrator",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5043727,
+				"name": "María Beltrán",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			}
+		]
+	}
+}

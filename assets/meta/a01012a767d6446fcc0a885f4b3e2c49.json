@@ -1,0 +1,284 @@
+{
+	"id": 1262530,
+	"title": "The Mehta Boys",
+	"fcg_title": "The Mehta Boys",
+	"original_title": "द मेहता बॉयज",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 10751,
+			"name": "Family"
+		}
+	],
+	"overview": "After the loss of his mother, Amay, a struggling young architect is forced to live for 48 hours with the one person he cannot stand, his father. It seems like a recipe for disaster. Wrong! It's much worse. Will the young architect crumble or will this bumpy ride help him rebuild his relationship with his crabby old man?",
+	"backdrop_path": "/nmQAWG0F3pmRPnHjkVAEdSuV9eI.jpg",
+	"poster_path": "/ezZWkcI8FOQmJj6aPAADV7dg12.jpg",
+	"release_date": "2024-09-20",
+	"credits": {
+		"cast": [
+			{
+				"id": 1059474,
+				"order": 0,
+				"name": "Avinash Tiwary",
+				"profile_path": "/wjHKqn6A1S5aGsGrBVVpqDrEkrV.jpg",
+				"character": "Amay Mehta",
+				"gender": 2
+			},
+			{
+				"id": 35779,
+				"order": 1,
+				"name": "Boman Irani",
+				"profile_path": "/5J7GiiNar9bg9rGYeA2L30JXE2W.jpg",
+				"character": "Shiv Mehta",
+				"gender": 2
+			},
+			{
+				"id": 1812516,
+				"order": 2,
+				"name": "Shreya Chaudhary",
+				"profile_path": "/svQy36WHiptfGHdvjmHp1e4gKyq.jpg",
+				"character": "Zara Gonsalves",
+				"gender": 1
+			},
+			{
+				"id": 2713510,
+				"order": 3,
+				"name": "Puja Sarup",
+				"profile_path": "/vBMfKF3AAkPy16GvygiYrsCWcg7.jpg",
+				"character": "Anu Mehta Patel",
+				"gender": 1
+			},
+			{
+				"id": 1699684,
+				"order": 4,
+				"name": "Harssh A. Singh",
+				"profile_path": "/j8XStMDbDAL8rZDNZIsTICOWclp.jpg",
+				"character": "Sam Makhija"
+			},
+			{
+				"id": 1240793,
+				"order": 5,
+				"name": "Siddhartha Basu",
+				"profile_path": "/eCE3cYsRLyjbu3UsVgpH9HCwRUu.jpg",
+				"character": "Saumik Sen"
+			},
+			{
+				"id": 3520103,
+				"order": 6,
+				"name": "Flora Jacob",
+				"character": "Receptionist Flora"
+			},
+			{
+				"id": 2708162,
+				"order": 7,
+				"name": "Shreyash Jadhav",
+				"character": "Omkar"
+			},
+			{
+				"id": 5267944,
+				"order": 8,
+				"name": "Jignesh Bhatt",
+				"character": "Ramnik Bhai Taxi Driver 1"
+			},
+			{
+				"id": 1775500,
+				"order": 9,
+				"name": "Morli Patel",
+				"character": "Shivani Mehta"
+			},
+			{
+				"id": 5267945,
+				"order": 10,
+				"name": "Dilip Tekwani",
+				"character": "Mukesh"
+			},
+			{
+				"id": 3335015,
+				"order": 11,
+				"name": "Archana Patel",
+				"character": "Veni Lady Restaurant"
+			},
+			{
+				"id": 1924950,
+				"order": 12,
+				"name": "Kapil Dev",
+				"profile_path": "/afIn7hq3ZBj9OKxoVsTyqaeaYG7.jpg",
+				"character": "Gomaji",
+				"gender": 2
+			},
+			{
+				"id": 5267946,
+				"order": 13,
+				"name": "Manjushree Kulkarni",
+				"character": "Devanshi Pro Passport Office"
+			},
+			{
+				"id": 3630935,
+				"order": 14,
+				"name": "Ajay Mehra",
+				"character": "Ashok Patil"
+			},
+			{
+				"id": 5267947,
+				"order": 15,
+				"name": "Noor Ali",
+				"character": "Dhondu"
+			}
+		],
+		"crew": [
+			{
+				"id": 231570,
+				"name": "Vikesh Bhutani",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1672773,
+				"name": "Shujaat Saudagar",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3083436,
+				"name": "Danesh Irani",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 35779,
+				"name": "Boman Irani",
+				"profile_path": "/5J7GiiNar9bg9rGYeA2L30JXE2W.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 35779,
+				"name": "Boman Irani",
+				"profile_path": "/5J7GiiNar9bg9rGYeA2L30JXE2W.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 35779,
+				"name": "Boman Irani",
+				"profile_path": "/5J7GiiNar9bg9rGYeA2L30JXE2W.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1708062,
+				"name": "Anmol Ahuja",
+				"job": "Casting Director",
+				"department": "Production"
+			},
+			{
+				"id": 3746745,
+				"name": "Daena Sethana",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5229960,
+				"name": "Amrita Kalyanpur",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5229962,
+				"name": "Aditya Shah",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1668226,
+				"name": "Vivek Sachidanand",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2776383,
+				"name": "Sarath Mohan",
+				"job": "Recording Supervision",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1947406,
+				"name": "Gulraj Singh",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 1718141,
+				"name": "Navin Shetty",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 3596423,
+				"name": "Varun Panjwani",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 85464,
+				"name": "Cheragh Todiwala",
+				"job": "Post Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1790781,
+				"name": "Charu Shree Roy",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 1890501,
+				"name": "Payal Ghose",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 2289834,
+				"name": "Krish Makhija",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 2431323,
+				"name": "Ankita Batra",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1281196,
+				"name": "Alexander Dinelaris",
+				"profile_path": "/xHg7y0WiyOmuMv3WwoNN4GTJdmM.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1281196,
+				"name": "Alexander Dinelaris",
+				"profile_path": "/xHg7y0WiyOmuMv3WwoNN4GTJdmM.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			}
+		]
+	}
+}

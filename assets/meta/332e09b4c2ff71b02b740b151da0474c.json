@@ -1,0 +1,829 @@
+{
+	"id": 801688,
+	"title": "Kalki 2898-AD",
+	"fcg_title": "Kalki 2898 AD",
+	"original_title": "కల్కి 2898-ఎ.డి",
+	"original_language": "te",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 14,
+			"name": "Fantasy"
+		},
+		{
+			"id": 878,
+			"name": "Science Fiction"
+		}
+	],
+	"overview": "In the year 2898 AD, around 6000 years after Kurukshetra war, Ashwatthama gears up for his final battle of redemption at the sign of hope in a dystopian world and Bhairava, a wisecracking and self-interested bounty hunter, tired of the perilous life becomes the hurdle in the process.",
+	"backdrop_path": "/o8XSR1SONnjcsv84NRu6Mwsl5io.jpg",
+	"poster_path": "/rstcAnBeCkxNQjNp3YXrF6IP1tW.jpg",
+	"release_date": "2024-06-26",
+	"credits": {
+		"cast": [
+			{
+				"id": 35780,
+				"order": 0,
+				"name": "Amitabh Bachchan",
+				"profile_path": "/u69PvpWqGkywSm0YjFiw77j9eqS.jpg",
+				"character": "Ashwatthama",
+				"gender": 2
+			},
+			{
+				"id": 237045,
+				"order": 1,
+				"name": "Prabhas",
+				"profile_path": "/6naZ3oybdCtfggc5pTrcBDxOXrP.jpg",
+				"character": "Bhairava",
+				"gender": 2
+			},
+			{
+				"id": 53975,
+				"order": 2,
+				"name": "Deepika Padukone",
+				"profile_path": "/sXgEh0z6NzyvmEeBeLPK1ON7NBY.jpg",
+				"character": "SUM-80 \"Sumathi\"",
+				"gender": 1
+			},
+			{
+				"id": 93193,
+				"order": 3,
+				"name": "Kamal Haasan",
+				"profile_path": "/17zscZgz4wOlGDd3Gziw4YbI3G.jpg",
+				"character": "Supreme Yaskin",
+				"gender": 2
+			},
+			{
+				"id": 1093644,
+				"order": 4,
+				"name": "Saswata Chatterjee",
+				"profile_path": "/cVJVLDy7BNzIbFMcJBPOWeN0Kb.jpg",
+				"character": "Manas",
+				"gender": 2
+			},
+			{
+				"id": 110298,
+				"order": 5,
+				"name": "Shobana",
+				"profile_path": "/t6niRFC3xCV6hJSuyC9ACWLSVXu.jpg",
+				"character": "Mariam",
+				"gender": 1
+			},
+			{
+				"id": 545595,
+				"order": 6,
+				"name": "Rajendra Prasad",
+				"profile_path": "/7gULhpyEXjh5D8D8FMkgo30H6vj.jpg",
+				"character": "Rumi",
+				"gender": 2
+			},
+			{
+				"id": 150197,
+				"order": 7,
+				"name": "Pasupathy",
+				"profile_path": "/5acprpMj9trXNd8QOoKwssjkXkb.jpg",
+				"character": "Veeran",
+				"gender": 2
+			},
+			{
+				"id": 2236873,
+				"order": 8,
+				"name": "Anna Ben",
+				"profile_path": "/d0vvDEO6MWeRnc6lj1d11TnIt5i.jpg",
+				"character": "Kyra",
+				"gender": 1
+			},
+			{
+				"id": 4802436,
+				"order": 9,
+				"name": "Keya Nair",
+				"character": "Raia"
+			},
+			{
+				"id": 2934343,
+				"order": 10,
+				"name": "Harshith Malgireddy",
+				"character": "Luke"
+			},
+			{
+				"id": 4802440,
+				"order": 11,
+				"name": "Ayaz Pasha",
+				"character": "Ajju"
+			},
+			{
+				"id": 4822753,
+				"order": 12,
+				"name": "Humhu",
+				"character": "Krane"
+			},
+			{
+				"id": 4802438,
+				"order": 13,
+				"name": "Kavya Ramachandran",
+				"character": "Lilly"
+			},
+			{
+				"id": 1083280,
+				"order": 14,
+				"name": "Anil George",
+				"profile_path": "/2eSMoiNtzoJtQJuHyZIADojag4M.jpg",
+				"character": "Bani",
+				"gender": 2
+			},
+			{
+				"id": 1546398,
+				"order": 15,
+				"name": "Disha Patani",
+				"profile_path": "/oWfHKrvbk3Ak6UnrzDlAoZu7nlh.jpg",
+				"character": "Roxie",
+				"gender": 1
+			},
+			{
+				"id": 113810,
+				"order": 16,
+				"name": "Brahmanandam",
+				"profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
+				"character": "Rajan",
+				"gender": 2
+			},
+			{
+				"id": 1295762,
+				"order": 17,
+				"name": "Keerthy Suresh",
+				"profile_path": "/fTdgSinsAitdujBBEUEA72GY0pv.jpg",
+				"character": "BU-JZ-1 'Bujji' (voice)",
+				"gender": 1
+			},
+			{
+				"id": 4822759,
+				"order": 18,
+				"name": "Vinay Kumar",
+				"character": "Sirius"
+			},
+			{
+				"id": 3296892,
+				"order": 19,
+				"name": "Sanjay Ratha",
+				"profile_path": "/e4vINTNJKdcFTNs7PlDujxjb9T6.jpg",
+				"character": "Shatru"
+			},
+			{
+				"id": 4902551,
+				"order": 20,
+				"name": "Dhruv Sincro",
+				"character": "Raider No. 1"
+			},
+			{
+				"id": 4802448,
+				"order": 21,
+				"name": "Venkata Ramana",
+				"character": "Ronnie"
+			},
+			{
+				"id": 1729549,
+				"order": 22,
+				"name": "Hamish Boyd",
+				"character": "Yuri",
+				"gender": 2
+			},
+			{
+				"id": 4902295,
+				"order": 23,
+				"name": "Advait Chauhan",
+				"character": "Issac"
+			},
+			{
+				"id": 4802452,
+				"order": 24,
+				"name": "Sanghwa Shin",
+				"character": "Leon"
+			},
+			{
+				"id": 4524905,
+				"order": 25,
+				"name": "Prashant Yarramilli",
+				"character": "Saanu's Father"
+			},
+			{
+				"id": 3418018,
+				"order": 26,
+				"name": "Baby Sanvitha",
+				"character": "Saanu"
+			},
+			{
+				"id": 4902545,
+				"order": 27,
+				"name": "Rasool",
+				"character": "Naiko"
+			},
+			{
+				"id": 4425033,
+				"order": 28,
+				"name": "Chandra Mohan",
+				"character": "Goku",
+				"gender": 2
+			},
+			{
+				"id": 4902548,
+				"order": 29,
+				"name": "Sai Krishna",
+				"character": "Krane's Slave"
+			},
+			{
+				"id": 4836111,
+				"order": 30,
+				"name": "Joher",
+				"character": "Bounty Hunter"
+			},
+			{
+				"id": 4902549,
+				"order": 31,
+				"name": "Bhaskar",
+				"character": "Bounty Hunter"
+			},
+			{
+				"id": 4902550,
+				"order": 32,
+				"name": "Asif",
+				"character": "Bounty Hunter"
+			},
+			{
+				"id": 4902297,
+				"order": 33,
+				"name": "Anoushka Maskey",
+				"character": "GS-Q43"
+			},
+			{
+				"id": 2817016,
+				"order": 34,
+				"name": "Krishnakumar Balasubramanian",
+				"character": "Lord Krishna",
+				"gender": 2
+			},
+			{
+				"id": 2483439,
+				"order": 35,
+				"name": "Arjun Das",
+				"profile_path": "/20RDzfTjpfRHxLYBfnIYXs7vcri.jpg",
+				"character": "Lord Krishna (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1508809,
+				"order": 36,
+				"name": "Vijay Deverakonda",
+				"profile_path": "/8oVIWyIoFUal8SJFnmCUtkkm1HP.jpg",
+				"character": "Arjuna",
+				"gender": 2
+			},
+			{
+				"id": 1303647,
+				"order": 37,
+				"name": "Malavika Nair",
+				"profile_path": "/cc4SDmyEmQPq2L8LHNm3sGHIkDr.jpg",
+				"character": "Uttara",
+				"gender": 1
+			},
+			{
+				"id": 4902543,
+				"order": 38,
+				"name": "Padmaja",
+				"character": "Uttara's Friend"
+			},
+			{
+				"id": 1766034,
+				"order": 39,
+				"name": "Mrunal Thakur",
+				"profile_path": "/mf26zfjmQ0JlckLIOLvRxKB309L.jpg",
+				"character": "Divya",
+				"gender": 1
+			},
+			{
+				"id": 1115225,
+				"order": 40,
+				"name": "Dulquer Salmaan",
+				"profile_path": "/8AT3qDRakZQSZ6HVj7sQFUzN07N.jpg",
+				"character": "Captain",
+				"gender": 2
+			},
+			{
+				"id": 4017785,
+				"order": 41,
+				"name": "Aakash Srinivas",
+				"character": "Teenage Bhairava",
+				"gender": 2
+			},
+			{
+				"id": 2053770,
+				"order": 42,
+				"name": "Hearty Singh",
+				"character": "10 y/o Old Bhairava",
+				"gender": 2
+			},
+			{
+				"id": 4902553,
+				"order": 43,
+				"name": "Oziel Jivani",
+				"character": "3 y/o Old Bhairava"
+			},
+			{
+				"id": 4902552,
+				"order": 44,
+				"name": "Arjun Varma",
+				"character": "1 m/o Old Bhairava"
+			},
+			{
+				"id": 1298494,
+				"order": 45,
+				"name": "Srinivas Avasarala",
+				"profile_path": "/y7gdtDJqvwPrWKLVmDbE9BtPdOY.jpg",
+				"character": "Bhairava's Prospective Buyer",
+				"gender": 2
+			},
+			{
+				"id": 147021,
+				"order": 46,
+				"name": "S. S. Rajamouli",
+				"profile_path": "/g7jXGAVT8T5vq81fO5JWDleDc75.jpg",
+				"character": "Bounty Hunter",
+				"gender": 2
+			},
+			{
+				"id": 76813,
+				"order": 47,
+				"name": "Ram Gopal Varma",
+				"profile_path": "/sDUxXdz3RPeKISyfkMfR9iiphNH.jpg",
+				"character": "Chintu",
+				"gender": 2
+			},
+			{
+				"id": 1975896,
+				"order": 48,
+				"name": "Anudeep",
+				"profile_path": "/5JUcvDyerQBoGXtSmBo9wuJA5et.jpg",
+				"character": "Complex Club Member",
+				"gender": 2
+			},
+			{
+				"id": 2997847,
+				"order": 49,
+				"name": "Faria Abdullah",
+				"profile_path": "/yxXarDVGglj3wuZvwIpblZ1MhcQ.jpg",
+				"character": "Dancer in the Club",
+				"gender": 1
+			},
+			{
+				"id": 2601977,
+				"order": 50,
+				"name": "Đorđe Stojiljković",
+				"character": "Garuda Pilot",
+				"gender": 2
+			},
+			{
+				"id": 2214294,
+				"order": 51,
+				"name": "Zoran Pecenkovic",
+				"character": "Garuda Pilot"
+			},
+			{
+				"id": 1123764,
+				"order": 52,
+				"name": "Santhosh Narayanan",
+				"profile_path": "/z8A2tjQFOLjUg17uWroc2TcEviN.jpg",
+				"character": "Complex Club Member",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 2035061,
+				"name": "Priyanka Dutt",
+				"profile_path": "/g1ywPat0gvNXDKcWGKUDKcQMhgT.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2035068,
+				"name": "Archana Rao",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2152406,
+				"name": "Nitin Zihani Choudhary",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1488793,
+				"name": "Kotagiri Venkateswara Rao",
+				"profile_path": "/3oTREXmvPlgnEO9vvMxRLIItSbn.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 2035062,
+				"name": "Swapna Dutt",
+				"profile_path": "/7L8M2G11CjIS7DC9hBuoDepcdh9.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1574268,
+				"name": "Sai Madhav Burra",
+				"profile_path": "/fcfz3yN5fqZqS96gGSgKm3Gq7hm.jpg",
+				"job": "Dialogue",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1508808,
+				"name": "Nag Ashwin",
+				"profile_path": "/497odnRihLzESOdShcXZkNg3UaX.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4675716,
+				"name": "Patrini Zhoranae",
+				"job": "Gaffer",
+				"department": "Lighting"
+			},
+			{
+				"id": 1508808,
+				"name": "Nag Ashwin",
+				"profile_path": "/497odnRihLzESOdShcXZkNg3UaX.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 215910,
+				"name": "Rana Daggubati",
+				"profile_path": "/dCQE1CoWWc6RoXUTxOKjAXO8KDr.jpg",
+				"job": "Presenter",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 4675729,
+				"name": "Venugopal",
+				"job": "Storyboard Artist",
+				"department": "Art"
+			},
+			{
+				"id": 4675722,
+				"name": "Vishnu",
+				"job": "Technical Advisor",
+				"department": "Crew"
+			},
+			{
+				"id": 4675725,
+				"name": "Harsha",
+				"job": "Technical Advisor",
+				"department": "Crew"
+			},
+			{
+				"id": 4675732,
+				"name": "Vinod",
+				"job": "Visual Effects Coordinator",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 4675724,
+				"name": "Sahad",
+				"job": "Technical Advisor",
+				"department": "Crew"
+			},
+			{
+				"id": 1634806,
+				"name": "Andy Long Nguyen",
+				"profile_path": "/iUKE2kZ53bwkER0kW6JWZ2Kn6w3.jpg",
+				"job": "Fight Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2399153,
+				"name": "Phani Vihari Gantala",
+				"job": "Visual Effects Coordinator",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1643581,
+				"name": "Kabilan Chellaiah",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1903929,
+				"name": "Praveen Kilaru",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1508808,
+				"name": "Nag Ashwin",
+				"profile_path": "/497odnRihLzESOdShcXZkNg3UaX.jpg",
+				"job": "Dialogue",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2041626,
+				"name": "Real Satheesh",
+				"job": "Fight Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2143263,
+				"name": "Nick Powell",
+				"job": "Fight Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 587735,
+				"name": "Peter Hein",
+				"profile_path": "/881LTUkVppdwtFaBDLgd70SEEBe.jpg",
+				"job": "Fight Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2990233,
+				"name": "Anbumani",
+				"job": "Fight Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3923489,
+				"name": "Anil Jadhav",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 2285350,
+				"name": "Prashant Sharma",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 1688058,
+				"name": "R C Velu",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 2041624,
+				"name": "Raghunath Kamisetty",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1300592,
+				"name": "Rembon Balraj",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 4776726,
+				"name": "Venu Gopal",
+				"job": "Concept Artist",
+				"department": "Art"
+			},
+			{
+				"id": 4776723,
+				"name": "Andres Delgado",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 1643495,
+				"name": "M. R. Rajakrishnan",
+				"job": "Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1432759,
+				"name": "Anirban Sengupta",
+				"job": "Additional Sound Re-Recording Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 2990234,
+				"name": "Arivumani",
+				"job": "Fight Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 4776715,
+				"name": "Santosh Shetty",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 3088160,
+				"name": "Kingshuk Moran",
+				"job": "Additional Sound Re-Recording Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 928221,
+				"name": "Diljit Dosanjh",
+				"profile_path": "/xB57LAMYa1q3CaS0TZjgf4d2OaS.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2518961,
+				"name": "Ram Pedditi",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2200190,
+				"name": "Vamsi Shekar",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2280137,
+				"name": "Mandvi Sharma",
+				"job": "Public Relations",
+				"department": "Crew"
+			},
+			{
+				"id": 2187140,
+				"name": "Yuvraaj",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2601977,
+				"name": "Đorđe Stojiljković",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1123764,
+				"name": "Santhosh Narayanan",
+				"profile_path": "/z8A2tjQFOLjUg17uWroc2TcEviN.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 4785112,
+				"name": "Kumar Vamsi",
+				"job": "Co-Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4745645,
+				"name": "Srinivas Eetha",
+				"job": "Co-Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4785111,
+				"name": "Prakeerthi Uppalapaati",
+				"job": "Co-Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4785108,
+				"name": "Akhil Reddy",
+				"job": "Co-Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4785109,
+				"name": "Laxman Vihari",
+				"job": "Co-Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4745634,
+				"name": "Nayanatara Manchala",
+				"job": "Co-Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4745713,
+				"name": "Sahen Upadhyay",
+				"job": "Co-Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4785110,
+				"name": "YJ Sai Charan",
+				"job": "Co-Director",
+				"department": "Directing"
+			},
+			{
+				"id": 35780,
+				"name": "Amitabh Bachchan",
+				"profile_path": "/u69PvpWqGkywSm0YjFiw77j9eqS.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 4807028,
+				"name": "Sathvik Pingali",
+				"job": "Digital Imaging Technician",
+				"department": "Camera"
+			},
+			{
+				"id": 2162375,
+				"name": "King Solomon",
+				"job": "Fight Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 2214294,
+				"name": "Zoran Pecenkovic",
+				"job": "Gaffer",
+				"department": "Lighting"
+			},
+			{
+				"id": 3495803,
+				"name": "Deepak Blue",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 1123764,
+				"name": "Santhosh Narayanan",
+				"profile_path": "/z8A2tjQFOLjUg17uWroc2TcEviN.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2450182,
+				"name": "Chandrabose",
+				"profile_path": "/oYwzbTQGJXLcdHsUbkweoDiUw6A.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2246289,
+				"name": "Dhee",
+				"profile_path": "/w3Ohax22xgc2gfqEBnOcLOcEzyR.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 2091064,
+				"name": "Sanjith Hegde",
+				"profile_path": "/kK9HH6Usw6s5RRYkmZ2L9JmNiOf.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1508808,
+				"name": "Nag Ashwin",
+				"profile_path": "/497odnRihLzESOdShcXZkNg3UaX.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 585264,
+				"name": "C. Ashwini Dutt",
+				"profile_path": "/9WAIxfz9hvFWYD7VZeUdQ800e7X.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			}
+		]
+	}
+}

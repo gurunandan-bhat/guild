@@ -1,0 +1,245 @@
+{
+	"id": 1213906,
+	"title": "The Sabarmati Report",
+	"fcg_title": "The Sabarmati Report",
+	"original_title": "द साबरमती रिपोर्ट",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		}
+	],
+	"overview": "A Hindi reporter struggles with a deadly fact when a train full of Karsewaks is set ablaze in Godhra. Years later, he is asked to help expose the Sabarmati Incident backed by a buried report.",
+	"backdrop_path": "/s6WQSGAuZsYZ354VpA7HbQDmesA.jpg",
+	"poster_path": "/ahOWjoqGkpxpmJVPmEBkSyvLPfi.jpg",
+	"release_date": "2024-11-14",
+	"credits": {
+		"cast": [
+			{
+				"id": 1208682,
+				"order": 0,
+				"name": "Vikrant Massey",
+				"profile_path": "/zvpP52P7CtVXYONmvWrH1aOcRTx.jpg",
+				"character": "Samar Kumar",
+				"gender": 2
+			},
+			{
+				"id": 1210037,
+				"order": 1,
+				"name": "Raashii Khanna",
+				"profile_path": "/bssDqTa9dgDqwA5NDsErg0Yt6vm.jpg",
+				"character": "Amrita Gill",
+				"gender": 1
+			},
+			{
+				"id": 1252084,
+				"order": 2,
+				"name": "Ridhi Dogra",
+				"profile_path": "/7uSK4fvDDPtpKcTBfR0ogKhl3DN.jpg",
+				"character": "Manika Rajpurohit",
+				"gender": 1
+			},
+			{
+				"id": 2452194,
+				"order": 3,
+				"name": "Nazneen Patni",
+				"character": "Mehrunisa"
+			},
+			{
+				"id": 1696240,
+				"order": 4,
+				"name": "Barkha Singh",
+				"profile_path": "/uVgXb8jVrlqZrUzQbRKgnzgw54M.jpg",
+				"character": "Shloka",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 1831899,
+				"name": "Amul Vikas Mohan",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1831901,
+				"name": "Anshul Mohan",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1940152,
+				"name": "Ranjan Chandel",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 87347,
+				"name": "Shobha Kapoor",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 85893,
+				"name": "Ekta Kapoor",
+				"profile_path": "/vsga2Sbj4OWTBKCdgT2reQG75cv.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1662182,
+				"name": "Amalendu Chaudhary",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1657710,
+				"name": "Nitesh Sharma",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 4621553,
+				"name": "Avinash Singh Tomar",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 1187446,
+				"name": "Aseem Arora",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4621555,
+				"name": "Pooja Raheja",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4195085,
+				"name": "Janvi Gill",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1108802,
+				"name": "Mukesh Chhabra",
+				"profile_path": "/f5XI2wJs2JPcd5FSECsdcnkyOMW.jpg",
+				"job": "Casting Director",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2637654,
+				"name": "Manohar Pandya",
+				"job": "Post Production Supervisor",
+				"department": "Crew"
+			},
+			{
+				"id": 1771960,
+				"name": "Dheeraj Sarna",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 1586801,
+				"name": "Parikshit Lalwani",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 85400,
+				"name": "Rajat Poddar",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1947399,
+				"name": "Ellawadi Leepakshi",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4621556,
+				"name": "Ruchira Dalmia",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4621554,
+				"name": "Awal Ahmed Khan",
+				"job": "Supervising Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1586803,
+				"name": "Kunal Uday Mehta",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1513938,
+				"name": "Tushar Parekh",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1434492,
+				"name": "Ejaz Gulab",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 4621550,
+				"name": "Vivek Koka",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2797840,
+				"name": "Arjun Bhandegaonkar",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 4239317,
+				"name": "Salim Shah",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 4621577,
+				"name": "Richa Sharma",
+				"job": "Public Relations",
+				"department": "Crew"
+			},
+			{
+				"id": 1556268,
+				"name": "Makarand Surte",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 1771960,
+				"name": "Dheeraj Sarna",
+				"job": "Director",
+				"department": "Directing"
+			}
+		]
+	}
+}

@@ -1,0 +1,322 @@
+{
+	"id": 95396,
+	"title": "Severance",
+	"name": "Severance",
+	"fcg_title": "Severance S02",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 9648,
+			"name": "Mystery"
+		},
+		{
+			"id": 10765,
+			"name": "Sci-Fi \u0026 Fantasy"
+		}
+	],
+	"overview": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+	"backdrop_path": "/8MtMFngDWvIdRo34rz3ao0BGBAe.jpg",
+	"poster_path": "/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 36801,
+				"order": 0,
+				"name": "Adam Scott",
+				"profile_path": "/b82C29R6fGiPoqIglQ4lzS6q2YX.jpg",
+				"character": "Mark Scout",
+				"gender": 2
+			},
+			{
+				"id": 973497,
+				"order": 1,
+				"name": "Britt Lower",
+				"profile_path": "/5fao2JxLELM72dMexZ9d0LptLIF.jpg",
+				"character": "Helly Riggs",
+				"gender": 1
+			},
+			{
+				"id": 2028037,
+				"order": 2,
+				"name": "Tramell Tillman",
+				"profile_path": "/ynvIVKFoUmHitMp6kd6NegZ5lw1.jpg",
+				"character": "Seth Milchick",
+				"gender": 2
+			},
+			{
+				"id": 1838225,
+				"order": 3,
+				"name": "Zach Cherry",
+				"profile_path": "/fT3Wv8ef0Vn0daHWAObCp2Bd4Y.jpg",
+				"character": "Dylan George",
+				"gender": 2
+			},
+			{
+				"id": 1569165,
+				"order": 4,
+				"name": "Jen Tullock",
+				"profile_path": "/1ol2UKDIJMLrzfZHUEt9u95uxym.jpg",
+				"character": "Devon Scout-Hale",
+				"gender": 1
+			},
+			{
+				"id": 87070,
+				"order": 5,
+				"name": "Michael Chernus",
+				"profile_path": "/Df2ZE3P9BiXawPtewinxLPNAu2.jpg",
+				"character": "Ricken Hale",
+				"gender": 2
+			},
+			{
+				"id": 94797,
+				"order": 6,
+				"name": "Dichen Lachman",
+				"profile_path": "/ySRHqthzU1gcEhV5rt7awZCzcwd.jpg",
+				"character": "Ms. Casey",
+				"gender": 1
+			},
+			{
+				"id": 3905451,
+				"order": 7,
+				"name": "Sarah Bock",
+				"profile_path": "/LasHm2Geh7htM53btbYty29ddo.jpg",
+				"character": "Miss Huang",
+				"gender": 1
+			},
+			{
+				"id": 1241,
+				"order": 8,
+				"name": "John Turturro",
+				"profile_path": "/6O9W9cJW0kCqMzYeLupV9oH0ftn.jpg",
+				"character": "Irving Bailiff",
+				"gender": 2
+			},
+			{
+				"id": 4690,
+				"order": 9,
+				"name": "Christopher Walken",
+				"profile_path": "/ApgDL7nudR9T2GpjCG4vESgymO2.jpg",
+				"character": "Burt Goodman",
+				"gender": 2
+			},
+			{
+				"id": 4687,
+				"order": 10,
+				"name": "Patricia Arquette",
+				"profile_path": "/jYF68PFZORelRFQ8ivVLxR3jXLv.jpg",
+				"character": "Harmony Cobel",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 2024509,
+				"name": "K.C. Perry",
+				"job": "Consulting Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2204374,
+				"name": "Erin Wagoner",
+				"job": "Consulting Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2591542,
+				"name": "Wei-Ning Yu",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3442438,
+				"name": "Anna Ouyang Moench",
+				"job": "Supervising Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1531428,
+				"name": "Adam Countee",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1974205,
+				"name": "Mohamad El Masri",
+				"profile_path": "/c2mfR9ORX1LtLC3A3RInx7wM8tG.jpg",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 37267,
+				"name": "Geoffrey Richman",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1732848,
+				"name": "Diana Dekajlo",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1729459,
+				"name": "Sean Fogel",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1550276,
+				"name": "Jessica Lee Gagné",
+				"profile_path": "/aMuGTRfcis7HiBz3fp3JSv30ToX.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2614516,
+				"name": "Brian Holligan",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 6690,
+				"name": "Jill Brooks",
+				"job": "Executive Visual Effects Producer",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1435588,
+				"name": "Eric Leven",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 4687,
+				"name": "Patricia Arquette",
+				"profile_path": "/jYF68PFZORelRFQ8ivVLxR3jXLv.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 5356,
+				"name": "Caroline Baron",
+				"profile_path": "/eO6L2DhKiNKhlh7hV2JCxg6rHG5.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1507631,
+				"name": "Jordan Tappis",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1095253,
+				"name": "John Lesher",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2338503,
+				"name": "Richard Schwartz",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 64817,
+				"name": "Beau Willimon",
+				"profile_path": "/8BTQK12ibYIWPAPSkQktsTnrX99.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 229028,
+				"name": "Sam Donovan",
+				"profile_path": "/vnctC8Elp15a1N1U5IfsCYVv4Gb.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 36801,
+				"name": "Adam Scott",
+				"profile_path": "/b82C29R6fGiPoqIglQ4lzS6q2YX.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2318068,
+				"name": "Katie Pruitt",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 87364,
+				"name": "Mark Friedman",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3442409,
+				"name": "Dan Erickson",
+				"profile_path": "/qzQ30V43kbVoMjJXRw6ydkicXEP.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 10572,
+				"name": "Theodore Shapiro",
+				"profile_path": "/6tKiHkv6Mlc6yhh8gRN1koovdoI.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 84418,
+				"name": "Nicholas Weinstock",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 7399,
+				"name": "Ben Stiller",
+				"profile_path": "/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2216572,
+				"name": "Jackie Cohn",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			}
+		]
+	}
+}

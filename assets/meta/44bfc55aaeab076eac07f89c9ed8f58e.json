@@ -1,0 +1,911 @@
+{
+	"id": 945961,
+	"title": "Alien: Romulus",
+	"fcg_title": "Alien: Romulus",
+	"original_title": "Alien: Romulus",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 27,
+			"name": "Horror"
+		},
+		{
+			"id": 878,
+			"name": "Science Fiction"
+		}
+	],
+	"overview": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.",
+	"backdrop_path": "/iJaSpQNZ8GsqVDWfbCXmyZQXZ5l.jpg",
+	"poster_path": "/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
+	"release_date": "2024-08-13",
+	"credits": {
+		"cast": [
+			{
+				"id": 1683343,
+				"order": 0,
+				"name": "Cailee Spaeny",
+				"profile_path": "/oEkEzgRwVy2UAFtbvs1umiCQl7f.jpg",
+				"character": "Rain",
+				"gender": 1
+			},
+			{
+				"id": 2761308,
+				"order": 1,
+				"name": "David Jonsson",
+				"profile_path": "/nIT9PmgMHHwSYG39hjqL6vv3TWU.jpg",
+				"character": "Andy",
+				"gender": 2
+			},
+			{
+				"id": 2164506,
+				"order": 2,
+				"name": "Archie Renaux",
+				"profile_path": "/uTd18t2VJovN2jSJyhuG8Yy3PV6.jpg",
+				"character": "Tyler",
+				"gender": 2
+			},
+			{
+				"id": 1428070,
+				"order": 3,
+				"name": "Isabela Merced",
+				"profile_path": "/cQlaWpBzyPx4p6PDz0cr1Y0DrWY.jpg",
+				"character": "Kay",
+				"gender": 1
+			},
+			{
+				"id": 2304140,
+				"order": 4,
+				"name": "Spike Fearn",
+				"profile_path": "/o1WcXkDdlN5wdL5WIuGXNpNouZ9.jpg",
+				"character": "Bjorn",
+				"gender": 2
+			},
+			{
+				"id": 3948018,
+				"order": 5,
+				"name": "Aileen Wu",
+				"profile_path": "/gjW0BFkxowjzOVFyVMfgpCTkyl0.jpg",
+				"character": "Navarro",
+				"gender": 1
+			},
+			{
+				"id": 1737976,
+				"order": 6,
+				"name": "Rosie Ede",
+				"profile_path": "/h6HTwvixLAq9HMGVyoAlWwahuA0.jpg",
+				"character": "WY Officer",
+				"gender": 1
+			},
+			{
+				"id": 4848544,
+				"order": 7,
+				"name": "Soma Simon",
+				"character": "10-Year-Old Punk #1"
+			},
+			{
+				"id": 4848546,
+				"order": 8,
+				"name": "Bence Okeke",
+				"character": "10-Year-Old Punk #2"
+			},
+			{
+				"id": 4848547,
+				"order": 9,
+				"name": "Viktor Orizu",
+				"character": "10-Year-Old Punk #3"
+			},
+			{
+				"id": 4848549,
+				"order": 10,
+				"name": "Robert Bobroczkyi",
+				"profile_path": "/3SK7NuuBKR5PSJwsQ7HO4qHIM9C.jpg",
+				"character": "Offspring",
+				"gender": 2
+			},
+			{
+				"id": 3958162,
+				"order": 11,
+				"name": "Trevor Newlin",
+				"profile_path": "/quLkv08KxRXlAdApnpgmmtP73eQ.jpg",
+				"character": "Xenomorph",
+				"gender": 2
+			},
+			{
+				"id": 1432613,
+				"order": 12,
+				"name": "Annemarie Griggs",
+				"character": "MU/TH/UR (voice)"
+			},
+			{
+				"id": 107733,
+				"order": 13,
+				"name": "Daniel Betts",
+				"profile_path": "/wKtPsR1At1EmJeYenSjRm4BeIiQ.jpg",
+				"character": "Rook (Facial and Vocal Performance)",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 932248,
+				"name": "Fede Álvarez",
+				"profile_path": "/f8KjBkmqAyNGTUkZh1oYIURP4id.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 932248,
+				"name": "Fede Álvarez",
+				"profile_path": "/f8KjBkmqAyNGTUkZh1oYIURP4id.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 932248,
+				"name": "Fede Álvarez",
+				"profile_path": "/f8KjBkmqAyNGTUkZh1oYIURP4id.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1415487,
+				"name": "Eric Barba",
+				"profile_path": "/bLtMpoaZURDF43lFVonIlJAcDnn.jpg",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1723,
+				"name": "Walter Hill",
+				"profile_path": "/3CiICrmhaYnirmOMHEaFXYTbsnT.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 40825,
+				"name": "Benjamin Wallfisch",
+				"profile_path": "/dWcshjk0OUi3stGFFrwZIsYKZfQ.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1353255,
+				"name": "Jake Roberts",
+				"profile_path": "/iNGewf7QCO1x8VjwIWudDq08bYL.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1550772,
+				"name": "Umar Hussain",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1453948,
+				"name": "Jhon Alvarado",
+				"job": "Animation Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2423273,
+				"name": "Igor Staritsin",
+				"job": "Visual Effects Art Director",
+				"department": "Crew"
+			},
+			{
+				"id": 2284166,
+				"name": "Fred Palacio",
+				"job": "Visual Effects Art Director",
+				"department": "Crew"
+			},
+			{
+				"id": 1737811,
+				"name": "Nelson Sepulveda-Fauser",
+				"profile_path": "/8bHKxjiERPma1Ur6pPVlwJZIoER.jpg",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 2066722,
+				"name": "Ale Melendez",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 5045,
+				"name": "Dan O'Bannon",
+				"profile_path": "/k52NrI4p37oboVIMqxLA05Qr4rl.jpg",
+				"job": "Characters",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5046,
+				"name": "Ronald Shusett",
+				"profile_path": "/fNfdVzGnrp1PKfdhCdUWOvp36J9.jpg",
+				"job": "Characters",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2449252,
+				"name": "Tom Moran",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1527474,
+				"name": "Michael A. Pruss",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 60711,
+				"name": "Brent O'Connor",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1046225,
+				"name": "Rodo Sayagues",
+				"profile_path": "/dssAvxmXOkBqziAy7U0k1qzDjXN.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 56760,
+				"name": "Elizabeth Cantillon",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 578,
+				"name": "Ridley Scott",
+				"profile_path": "/97SO7H0UlS3racqjeW5JTy8c6GM.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 17677,
+				"name": "Naaman Marshall",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1486148,
+				"name": "Galo Olivares",
+				"profile_path": "/ze4dJymc1fnx2Mc4CZW1YZJJeKG.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 3352001,
+				"name": "Balázs Bácskai",
+				"job": "Assistant Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 5914,
+				"name": "Mary Vernieu",
+				"profile_path": "/z37Cmn0MJdWCSC8ydkyoseiYUYk.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2541804,
+				"name": "Zsuzsanna Sipos",
+				"job": "Set Decoration",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1766257,
+				"name": "Sydney Shircliff",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2506053,
+				"name": "Paul Chadeisson",
+				"job": "Concept Artist",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1708223,
+				"name": "Mark W. McCoy",
+				"job": "Post Production Supervisor",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 4176777,
+				"name": "Franciska Hutter",
+				"job": "Set Designer",
+				"department": "Art"
+			},
+			{
+				"id": 2146409,
+				"name": "Enci Bognar",
+				"job": "Graphic Designer",
+				"department": "Art"
+			},
+			{
+				"id": 3664897,
+				"name": "Roland Folkmayer",
+				"job": "Set Production Assistant",
+				"department": "Crew"
+			},
+			{
+				"id": 2143483,
+				"name": "Vera Janisch",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4742886,
+				"name": "Kinga Bácsi",
+				"job": "Set Designer",
+				"department": "Art"
+			},
+			{
+				"id": 2143601,
+				"name": "Tamás Péter Chipie",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1397971,
+				"name": "Stephanie Clerkin",
+				"job": "Assistant Art Director",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 3525506,
+				"name": "Horvát Miklós",
+				"job": "Art Department Coordinator",
+				"department": "Art"
+			},
+			{
+				"id": 4742894,
+				"name": "Levente Kocsa",
+				"job": "Propmaker",
+				"department": "Crew"
+			},
+			{
+				"id": 1477146,
+				"name": "Lee Cleary",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1730853,
+				"name": "Annamária Dunai",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1730853,
+				"name": "Annamária Dunai",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2721959,
+				"name": "Andrea Kozma",
+				"job": "Other",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1337130,
+				"name": "Peter Nightingale",
+				"job": "Unit Production Manager",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1279912,
+				"name": "Carlos Rosario",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1634558,
+				"name": "Dane Hallett",
+				"job": "Concept Artist",
+				"department": "Art"
+			},
+			{
+				"id": 1399624,
+				"name": "Miklós Tóth",
+				"job": "Unit Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 3525506,
+				"name": "Horvát Miklós",
+				"job": "Construction Coordinator",
+				"department": "Art"
+			},
+			{
+				"id": 486330,
+				"name": "Pedro Luque",
+				"profile_path": "/wGTUWK6NfxfdImLAdQySB5AimD9.jpg",
+				"job": "Additional Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1432613,
+				"name": "Annemarie Griggs",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2041319,
+				"name": "Mitch Paulson",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 5040683,
+				"name": "Nathan Burns",
+				"job": "ADR Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1357059,
+				"name": "David V. Butler",
+				"job": "Dialogue Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5040684,
+				"name": "Spencer Carson",
+				"job": "ADR Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 113042,
+				"name": "Smokey Cloud",
+				"job": "Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1599171,
+				"name": "Tamás Csaba",
+				"job": "Production Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 5040687,
+				"name": "Albu-Bay Dorka",
+				"job": "Second Assistant Sound",
+				"department": "Sound"
+			},
+			{
+				"id": 1389133,
+				"name": "Will Files",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1389133,
+				"name": "Will Files",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1360098,
+				"name": "Luis Galdames",
+				"job": "Sound Effects Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1360099,
+				"name": "Lee Gilmore",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1360099,
+				"name": "Lee Gilmore",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2601674,
+				"name": "James Gregory",
+				"job": "ADR Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1576849,
+				"name": "Dan Kenyon",
+				"profile_path": "/vPdBYJQ3IIGdvvM6pAQgonJ9DEU.jpg",
+				"job": "Sound Effects Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 1669138,
+				"name": "Ken McGill",
+				"job": "Sound Effects Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 1495179,
+				"name": "James Miller",
+				"job": "Sound Effects Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3168560,
+				"name": "Gábor Máté",
+				"job": "First Assistant Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1395709,
+				"name": "Mark Paterson",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 5040689,
+				"name": "John Raffaele III",
+				"job": "ADR Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1815945,
+				"name": "Jacob Riehle",
+				"job": "Dialogue Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 2615396,
+				"name": "Ailene Roberts",
+				"job": "Dialogue Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 2257128,
+				"name": "Lyndsey Schenk",
+				"job": "Sound Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 1338484,
+				"name": "Chris Terhune",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 1191813,
+				"name": "Noel Vought",
+				"job": "Foley Artist",
+				"department": "Sound"
+			},
+			{
+				"id": 5040690,
+				"name": "Akos Badenszky",
+				"job": "Prosthetic Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5040691,
+				"name": "Laura Breckner",
+				"job": "Prosthetic Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2721959,
+				"name": "Andrea Kozma",
+				"job": "Prosthetic Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3609693,
+				"name": "Viktoria Stieber",
+				"job": "Prosthetic Supervisor",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2019888,
+				"name": "Melanie Young",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4888375,
+				"name": "Israfeel Ahamed",
+				"job": "Casting Assistant",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1444033,
+				"name": "Ranjani Brow",
+				"profile_path": "/zvhcwnrvDpa4iZGgdKgQ8GWdYJI.jpg",
+				"job": "ADR Voice Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2423296,
+				"name": "Marton Dancz",
+				"job": "Extras Casting",
+				"department": "Production"
+			},
+			{
+				"id": 2128500,
+				"name": "Mark Droter",
+				"job": "Casting Associate",
+				"department": "Production"
+			},
+			{
+				"id": 4844403,
+				"name": "Sara Holms",
+				"job": "ADR Voice Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1561797,
+				"name": "Ashley Lambert",
+				"profile_path": "/ucsdNz1pdVWwRFwf4dtjfaXE8nR.jpg",
+				"job": "ADR Voice Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1985884,
+				"name": "Zsolt Ferenc Maier",
+				"job": "Extras Casting",
+				"department": "Production"
+			},
+			{
+				"id": 5040695,
+				"name": "Tatiana Melendez",
+				"job": "Casting Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 42469,
+				"name": "Veronika Varjasi",
+				"job": "Extras Casting",
+				"department": "Production"
+			},
+			{
+				"id": 3049976,
+				"name": "Pablo Domínguez",
+				"job": "Concept Artist",
+				"department": "Art"
+			},
+			{
+				"id": 5046563,
+				"name": "Berkan Halil",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 5046564,
+				"name": "Jessica Herbert-Smith",
+				"job": "Art Department Assistant",
+				"department": "Art"
+			},
+			{
+				"id": 5046565,
+				"name": "Gillian Jonker",
+				"job": "Set Designer",
+				"department": "Art"
+			},
+			{
+				"id": 2251530,
+				"name": "Lizzie Osborne",
+				"job": "Set Designer",
+				"department": "Art"
+			},
+			{
+				"id": 3618135,
+				"name": "Helga Petro",
+				"job": "Set Designer",
+				"department": "Art"
+			},
+			{
+				"id": 1423816,
+				"name": "Mary Pike",
+				"job": "Set Designer",
+				"department": "Art"
+			},
+			{
+				"id": 5046569,
+				"name": "Kaitlyn Sandeman",
+				"job": "Set Designer",
+				"department": "Art"
+			},
+			{
+				"id": 2395160,
+				"name": "Silvia Stroppa",
+				"job": "Set Designer",
+				"department": "Art"
+			},
+			{
+				"id": 2000775,
+				"name": "Levente Sulyok",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 5046570,
+				"name": "Aurel Somlyody",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 2556888,
+				"name": "Monica Alberte",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1329411,
+				"name": "Bence Erdélyi",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1622806,
+				"name": "Tobias Frank",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1635517,
+				"name": "Greg Hajdu",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1518764,
+				"name": "Shira Hockman",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1915705,
+				"name": "Jane Harwood",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1276709,
+				"name": "Biljana Jovanovic",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 3051406,
+				"name": "Hazel Keane",
+				"job": "Standby Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 1580861,
+				"name": "Dave Kellom",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 34513,
+				"name": "John King",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1013552,
+				"name": "Tibor Lázár",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 9822,
+				"name": "Adam O'Neill",
+				"job": "Supervising Art Director",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1392589,
+				"name": "Annamária Orosz",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1423816,
+				"name": "Mary Pike",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1388860,
+				"name": "Matt Sims",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1328823,
+				"name": "Justin Warburton-Brown",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1924449,
+				"name": "Richie Adams",
+				"job": "Title Designer",
+				"department": "Art"
+			},
+			{
+				"id": 3322754,
+				"name": "Josh Viers",
+				"job": "Concept Artist",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 2747281,
+				"name": "Matt Connors",
+				"job": "Scenic Artist",
+				"department": "Crew"
+			},
+			{
+				"id": 1418382,
+				"name": "Daniel Macarin",
+				"profile_path": "/udhgyQcSbIjqtUtgRRLzqW8qyqm.jpg",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1600624,
+				"name": "Shane Mahan",
+				"job": "Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			}
+		]
+	}
+}

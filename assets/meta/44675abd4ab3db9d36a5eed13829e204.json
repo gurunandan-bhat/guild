@@ -1,0 +1,242 @@
+{
+	"id": 1046183,
+	"title": "I Am Kathalan",
+	"fcg_title": "I Am Kathalan",
+	"original_title": "I Am കാതലൻ",
+	"original_language": "ml",
+	"genres": [
+		{
+			"id": 53,
+			"name": "Thriller"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "How many servers would you hack for love? What started as a silly attempt to win back his girlfriend turns into a dangerous game of revenge for Vishnu, risking everything he cherishes.",
+	"backdrop_path": "/rcfNM62zCY2ggsIeSp8H85wjeMx.jpg",
+	"poster_path": "/1vcYDqGpP4zRYREYtCXTrAmv2TD.jpg",
+	"release_date": "2024-11-07",
+	"credits": {
+		"cast": [
+			{
+				"id": 3037048,
+				"order": 0,
+				"name": "Naslen",
+				"profile_path": "/1wjm9NVRpmK2oE094NuBqgFjChQ.jpg",
+				"character": "Vishnu",
+				"gender": 2
+			},
+			{
+				"id": 3719124,
+				"order": 1,
+				"name": "Anishma Anilkumar",
+				"profile_path": "/7brEiYDdZxd982ncEkK3D6tQVRK.jpg",
+				"character": "Shilpa",
+				"gender": 1
+			},
+			{
+				"id": 1574334,
+				"order": 2,
+				"name": "Dileesh Pothan",
+				"profile_path": "/mXCnvBbRynOYOE3aqGostSvCZ0N.jpg",
+				"character": "Chacko Periyadan",
+				"gender": 2
+			},
+			{
+				"id": 1620961,
+				"order": 3,
+				"name": "Lijomol Jose",
+				"profile_path": "/vXFBgF6NMON7L4RzZ6B35lOVYOu.jpg",
+				"character": "Simi",
+				"gender": 1
+			},
+			{
+				"id": 3373735,
+				"order": 4,
+				"name": "Vineeth Vasudevan",
+				"profile_path": "/mgCBBEs2DUDG0870JJQZdiB0kZR.jpg",
+				"character": "Mathew",
+				"gender": 2
+			},
+			{
+				"id": 2111511,
+				"order": 5,
+				"name": "Sajin Cherukayil",
+				"profile_path": "/fuwZ6g0GMgfKJnaZ6kJljwM277x.jpg",
+				"character": "Praveen Kumar",
+				"gender": 2
+			},
+			{
+				"id": 1825233,
+				"order": 6,
+				"name": "Vineeth Vishwam",
+				"profile_path": "/yRcEew2uXur0nv9BmMxnYiRmCZl.jpg",
+				"character": "Aneesh"
+			},
+			{
+				"id": 4871565,
+				"order": 7,
+				"name": "Arshad Ali",
+				"character": "Udayan",
+				"gender": 2
+			},
+			{
+				"id": 4153670,
+				"order": 8,
+				"name": "Kiran Josey",
+				"character": "Jils"
+			},
+			{
+				"id": 2270804,
+				"order": 9,
+				"name": "Zhinz Shan",
+				"profile_path": "/e2qrMKWAS01rpA2kl89UUz4VyBt.jpg",
+				"gender": 2
+			},
+			{
+				"id": 584912,
+				"order": 10,
+				"name": "T G Ravi",
+				"profile_path": "/dSQUom5BIsjjzVfZ9eF8u15N7eB.jpg",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 2375329,
+				"name": "Sharan Velayudhan Nair",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1999296,
+				"name": "Dr Paul Varghese",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2111511,
+				"name": "Sajin Cherukayil",
+				"profile_path": "/fuwZ6g0GMgfKJnaZ6kJljwM277x.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2235943,
+				"name": "Girish A. D.",
+				"profile_path": "/pjRaOmlTs2J7fDqWgHcZWwah0zF.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 3800797,
+				"name": "Vivek Kalathil",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1993286,
+				"name": "Sidhartha Pradeep",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 1756171,
+				"name": "Manoj Poonkunnam",
+				"job": "Production Controller",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2235945,
+				"name": "Akash Joseph Varghese",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 3800799,
+				"name": "Arun Wailer",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 3525881,
+				"name": "Sinoop Raj",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1785099,
+				"name": "Dhanya Balakrishnan",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 3230155,
+				"name": "Suhail Koya",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 4609578,
+				"name": "Arjun K",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4609579,
+				"name": "Reese Thomas",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2235942,
+				"name": "Sanath Sivaraj",
+				"job": "Associate Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 4609553,
+				"name": "Anwyn Wayne",
+				"profile_path": "/aRoEFvbpXPvIApa0aSIjAP3vDyC.jpg",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1167753,
+				"name": "Gokulam Gopalan",
+				"profile_path": "/d2ZmCrzouBldcsBlC9f51giRSeG.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2146625,
+				"name": "Tinu Thomas",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5263509,
+				"name": "Rohith Chandrasekhar",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 5263439,
+				"name": "Shibin Murukesh",
+				"job": "Second Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			}
+		]
+	}
+}

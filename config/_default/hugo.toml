@@ -1,0 +1,17 @@
+baseURL       = 'https://example.com/'
+languageCode  = 'en-us'
+title         = 'Film Critics Guild Reviews'
+theme         = 'guild'
+summaryLength = 30
+
+[pagination]
+pagerSize = 6
+
+[module]
+[module.hugoVersion]
+extended = true
+min      = "0.145.0"
+
+[taxonomies]
+critic  = 'critics'
+mreview = 'mreviews'

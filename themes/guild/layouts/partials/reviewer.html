@@ -1,0 +1,14 @@
+{{ $name := index . "reviewer" }}
+{{ $date := index . "date" }}
+{{ $reviewer := index (where site.RegularPages "LinkTitle" $name) 0 }}
+{{ with $reviewer }}
+    {{ $img := resources.Get .Params.img }}
+    {{ $img = $img.Resize "60x" }}
+    <div>
+        <img
+            src="{{ $img.RelPermalink }}"
+            class="px-3 rounded-circle float-start" />
+        <h5>{{ .Params.title }}</h5>
+        <h6>{{ $date }} | {{ delimit .Params.organizations ", " }}</h6>
+    </div>
+{{ end }}

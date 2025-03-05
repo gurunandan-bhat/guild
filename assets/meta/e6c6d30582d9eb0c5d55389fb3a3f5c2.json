@@ -1,0 +1,84 @@
+{
+	"id": 199318,
+	"title": "Bad Sisters",
+	"name": "Bad Sisters",
+	"fcg_title": "Bad Sisters S02",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "The tight-knit Garvey sisters have always looked out for one another. But when the toxic brother-in-law they all wanted dead actually dies, it turns their lives upside down and tests their bond like nothing before.",
+	"backdrop_path": "/eIbg8TTvaNakZHlDFmaJF3aVf3b.jpg",
+	"poster_path": "/2koAJYgO1AT73a0xA8Zg30Brw98.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 21676,
+				"order": 0,
+				"name": "Sharon Horgan",
+				"profile_path": "/mNTtNGqdL8CzOBjCYCjOLRosOTM.jpg",
+				"character": "Eva Garvey",
+				"gender": 1
+			},
+			{
+				"id": 16901,
+				"order": 2,
+				"name": "Eva Birthistle",
+				"profile_path": "/sGprPTt1JDeDIyNKggElYlHCPxc.jpg",
+				"character": "Ursula Flynn",
+				"gender": 1
+			},
+			{
+				"id": 1048644,
+				"order": 3,
+				"name": "Sarah Greene",
+				"profile_path": "/hql67slgh3xYfs1efMd3Wz58X2F.jpg",
+				"character": "Bibi Garvey",
+				"gender": 1
+			},
+			{
+				"id": 933271,
+				"order": 4,
+				"name": "Eve Hewson",
+				"profile_path": "/Dj3osDr5zSP7uMtBBbbUeIgRMu.jpg",
+				"character": "Becka Garvey",
+				"gender": 1
+			},
+			{
+				"id": 365333,
+				"order": 9,
+				"name": "Owen McDonnell",
+				"profile_path": "/766kgsmbiG5hnpTkm8OjNXI89WV.jpg",
+				"character": "Ian Reilly",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1274224,
+				"name": "Bert Van Dael",
+				"job": "Characters",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1556295,
+				"name": "Malin-Sarah Gozin",
+				"job": "Characters",
+				"department": "Writing",
+				"gender": 1
+			}
+		]
+	}
+}

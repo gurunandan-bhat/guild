@@ -1,0 +1,19 @@
+[[main]]
+name    = 'Home'
+pageRef = '/'
+weight  = 10
+
+[[main]]
+name    = 'Reviews'
+pageRef = '/reviews'
+weight  = 20
+
+[[main]]
+name    = 'Reviews By Film'
+pageRef = '/mreviews'
+weight  = 20
+
+[[main]]
+name    = 'Critics'
+pageRef = '/critics'
+weight  = 40

@@ -1,0 +1,214 @@
+{
+	"id": 258427,
+	"title": "Freedom at Midnight",
+	"name": "Freedom at Midnight",
+	"fcg_title": "Freedom at Midnight",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Freedom at Midnight is the electrifying story of India's struggle for independence. Based on the bestselling book of the same name, it recounts the partition of India and Pakistan, and the religious and socio-political dynamics of the era.",
+	"backdrop_path": "/tRiE07p2RbK88Fua4Zx6WOkaxRm.jpg",
+	"poster_path": "/gCId3CjVHGePMYtu1pYzhZDXtEc.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 1892992,
+				"order": 0,
+				"name": "Sidhant Gupta",
+				"profile_path": "/yZhQVBwIQChwwa7SUyqYl76KEGC.jpg",
+				"character": "Jawaharlal Nehru"
+			},
+			{
+				"id": 1256530,
+				"order": 1,
+				"name": "Chirag Vohra",
+				"profile_path": "/AoOQWaYS45dIWLpGrlxn4CTGcNh.jpg",
+				"character": "Mahatma Gandhi"
+			},
+			{
+				"id": 1252843,
+				"order": 2,
+				"name": "Rajendra Chawla",
+				"profile_path": "/rwldmP0tneEflAVgOaQsYmvTZju.jpg",
+				"character": "Sardar Vallabhbhai Patel"
+			},
+			{
+				"id": 53375,
+				"order": 3,
+				"name": "Arif Zakaria",
+				"profile_path": "/fQx14DwQV2Z2p25t4bogVn9A2c.jpg",
+				"character": "Muhammad Ali Jinnah",
+				"gender": 2
+			},
+			{
+				"id": 86880,
+				"order": 4,
+				"name": "Ira Dubey",
+				"profile_path": "/wWhx6gaN6SyogwcAR1LsuT69lOo.jpg",
+				"character": "Fatima Jinnah",
+				"gender": 1
+			},
+			{
+				"id": 1336965,
+				"order": 5,
+				"name": "Rajesh Kumar",
+				"profile_path": "/vat8qbqIeumutuToGX0VrtA06M6.jpg",
+				"character": "Liaquat Ali Khan",
+				"gender": 2
+			},
+			{
+				"id": 2122736,
+				"order": 6,
+				"name": "Luke McGibney",
+				"character": "Lord Louis Mountbatten"
+			},
+			{
+				"id": 176217,
+				"order": 7,
+				"name": "Cordelia Bugeja",
+				"profile_path": "/ahQtEMjbvA7VYPCU0g9bSup0zsd.jpg",
+				"character": "Lady Edwina Mountbatten",
+				"gender": 1
+			},
+			{
+				"id": 2753360,
+				"order": 8,
+				"name": "Malishka Mendonsa",
+				"character": "Sarojini Naidu"
+			},
+			{
+				"id": 2365591,
+				"order": 9,
+				"name": "K.C. Shankar",
+				"profile_path": "/fbxJMM6YZGl3OLHhnqISzPjbSpB.jpg",
+				"character": "V. P. Menon",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 35735,
+				"name": "Nikkhil Advani",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1557508,
+				"name": "Monisha Advani",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2118187,
+				"name": "Madhu Bhojwani",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1376941,
+				"name": "Siddharth Atha",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2124688,
+				"name": "Kavish Sinha",
+				"job": "Casting Director",
+				"department": "Production"
+			},
+			{
+				"id": 2136007,
+				"name": "Magda Sobolewska",
+				"job": "Casting Director",
+				"department": "Production"
+			},
+			{
+				"id": 2303482,
+				"name": "Vijay Ghodke",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1314294,
+				"name": "Shweta Venkat Mathew",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 2041611,
+				"name": "Malay Prakash",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 2061369,
+				"name": "Abhinandan Gupta",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 4571584,
+				"name": "Adwitiya Kareng",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 3437746,
+				"name": "Gundeep Kaur",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 4363835,
+				"name": "Divy Nidhi Sharma",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 2167192,
+				"name": "Revanta Sarabhai",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 2207459,
+				"name": "Ethan Taylor",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 118241,
+				"name": "Larry Collins",
+				"profile_path": "/crVnKeQx32n2yaTg1XIbXXDGk6S.jpg",
+				"job": "Adaptation",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 118242,
+				"name": "Dominique LaPierre",
+				"profile_path": "/iT3F6fMo9gSB52WaVgq3yfeVzSN.jpg",
+				"job": "Adaptation",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5006113,
+				"name": "Saugata Mukherjee",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5064314,
+				"name": "Priyanka Kuriakose",
+				"job": "Executive Producer",
+				"department": "Production"
+			}
+		]
+	}
+}

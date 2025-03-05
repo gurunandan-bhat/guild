@@ -1,0 +1,732 @@
+{
+	"id": 1160018,
+	"title": "Kill",
+	"fcg_title": "Kill",
+	"original_title": "किल",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "When an army commando finds out his true love is engaged against her will, he boards a New Dehli-bound train in a daring quest to derail the arranged marriage. But when a gang of knife-wielding thieves begin to terrorize innocent passengers on his train, the commando takes them on, one by one.",
+	"backdrop_path": "/okVLmXL5y18dfN2R4ufMZEGaeCd.jpg",
+	"poster_path": "/m2zXTuNPkywdYLyWlVyJZW2QOJH.jpg",
+	"release_date": "2024-07-03",
+	"credits": {
+		"cast": [
+			{
+				"id": 2011444,
+				"order": 0,
+				"name": "Lakshya Lalwani",
+				"profile_path": "/iabAj9GCIkGnAMvzyIvdUXeCPTo.jpg",
+				"character": "Amrit Rathod",
+				"gender": 2
+			},
+			{
+				"id": 1374676,
+				"order": 1,
+				"name": "Raghav Juyal",
+				"profile_path": "/dX1hoTwnZnT8qnFIsXxoDTRgoDt.jpg",
+				"character": "Fani",
+				"gender": 2
+			},
+			{
+				"id": 2368989,
+				"order": 2,
+				"name": "Tanya Maniktala",
+				"profile_path": "/hW0q6MjqGzPEZKx6OftGcvxeheo.jpg",
+				"character": "Tulika Singh",
+				"gender": 1
+			},
+			{
+				"id": 85684,
+				"order": 3,
+				"name": "Ashish Vidhyarthi",
+				"profile_path": "/iBUUpfHZIfpC5afHrHwcyGTHKQF.jpg",
+				"character": "Beni",
+				"gender": 2
+			},
+			{
+				"id": 2489738,
+				"order": 4,
+				"name": "Abhishek Chauhan",
+				"profile_path": "/4AlRwGSxWfcJdG0T65NuMh43zs3.jpg",
+				"character": "Viresh Chatwal / Bhukhan",
+				"gender": 2
+			},
+			{
+				"id": 1046623,
+				"order": 5,
+				"name": "Harsh Chhaya",
+				"profile_path": "/ayZ78nVdSTRHcfnBMKSzAIdclvZ.jpg",
+				"character": "Baldeo Singh Thakur",
+				"gender": 2
+			},
+			{
+				"id": 4051795,
+				"order": 6,
+				"name": "Adrija Sinha",
+				"profile_path": "/hhqBho0Nr3mkDlIWkmhaXFmkEzr.jpg",
+				"character": "Aahaana",
+				"gender": 1
+			},
+			{
+				"id": 2639556,
+				"order": 7,
+				"name": "Meenal Kapoor",
+				"profile_path": "/4PYLFNnhZ8CRnJk1BUbnSXVPqtL.jpg",
+				"character": "Tulika's Mother"
+			},
+			{
+				"id": 4406662,
+				"order": 8,
+				"name": "Madhu Raja",
+				"character": "Tulika's Dadi"
+			},
+			{
+				"id": 4521168,
+				"order": 9,
+				"name": "Arun Thakur",
+				"character": "Jass Pratap Singh (Groom)",
+				"gender": 2
+			},
+			{
+				"id": 3351010,
+				"order": 10,
+				"name": "Mukesh Chandelia",
+				"character": "Jass's Father",
+				"gender": 2
+			},
+			{
+				"id": 3573714,
+				"order": 11,
+				"name": "Aman Ball",
+				"profile_path": "/mUlNuamDzdFa0DDlm8NkFcSnTB6.jpg",
+				"character": "Jass's Mother",
+				"gender": 1
+			},
+			{
+				"id": 2323772,
+				"order": 12,
+				"name": "Kashyap Kapoor",
+				"profile_path": "/9JBrRS9ddbeBJfXvdMGDDpWcUBt.jpg",
+				"character": "Dhannu",
+				"gender": 2
+			},
+			{
+				"id": 4815438,
+				"order": 13,
+				"name": "Calib Logan",
+				"profile_path": "/ZHFkzvtCTRx8CYpyJuoouJvYcB.jpg",
+				"character": "Brahmeshwar",
+				"gender": 2
+			},
+			{
+				"id": 4558786,
+				"order": 14,
+				"name": "Akash Pramanik",
+				"character": "Arif"
+			},
+			{
+				"id": 4981902,
+				"order": 15,
+				"name": "Pratap Verma",
+				"character": "Virat"
+			},
+			{
+				"id": 4815444,
+				"order": 16,
+				"name": "Shivam Parmar",
+				"character": "Sohail",
+				"gender": 2
+			},
+			{
+				"id": 2031856,
+				"order": 17,
+				"name": "Komal Chhabria",
+				"profile_path": "/9FCc38cbodL2FvVO0IAMBNFrVLR.jpg",
+				"character": "Arif's Mother"
+			},
+			{
+				"id": 3255489,
+				"order": 18,
+				"name": "Nazneen Madan",
+				"character": "Sohail's Mother"
+			},
+			{
+				"id": 4981916,
+				"order": 19,
+				"name": "Jatinder",
+				"character": "Jass's Uncle 1",
+				"gender": 2
+			},
+			{
+				"id": 4981913,
+				"order": 20,
+				"name": "Vipan Dhavan",
+				"character": "Jass's Uncle 2",
+				"gender": 2
+			},
+			{
+				"id": 4981918,
+				"order": 21,
+				"name": "Tajinder",
+				"character": "Jass's Aunt 1",
+				"gender": 1
+			},
+			{
+				"id": 4981919,
+				"order": 22,
+				"name": "Janvi Bansal",
+				"character": "Jass's Aunt 2",
+				"gender": 1
+			},
+			{
+				"id": 4282549,
+				"order": 23,
+				"name": "Nandini",
+				"character": "Jass's Sister"
+			},
+			{
+				"id": 1282957,
+				"order": 24,
+				"name": "Ashok Pandey",
+				"character": "Badri",
+				"gender": 2
+			},
+			{
+				"id": 4555786,
+				"order": 25,
+				"name": "Parth Tiwari",
+				"character": "Siddhi",
+				"gender": 2
+			},
+			{
+				"id": 5090797,
+				"order": 26,
+				"name": "Saurabh Singh Chauhan",
+				"character": "Biru"
+			},
+			{
+				"id": 5090798,
+				"order": 27,
+				"name": "Bhupinder",
+				"character": "Satya"
+			},
+			{
+				"id": 5090799,
+				"order": 28,
+				"name": "Shubhranjan",
+				"character": "Bhupen"
+			},
+			{
+				"id": 5090800,
+				"order": 29,
+				"name": "Prashant Sitansh",
+				"character": "Nandi"
+			},
+			{
+				"id": 2472269,
+				"order": 30,
+				"name": "Belal Shanu",
+				"character": "Prakas"
+			},
+			{
+				"id": 4815441,
+				"order": 31,
+				"name": "Moses Marton",
+				"character": "Murari"
+			},
+			{
+				"id": 4638931,
+				"order": 32,
+				"name": "Anil Sansare",
+				"character": "Bholu"
+			},
+			{
+				"id": 4815435,
+				"order": 33,
+				"name": "Vivek Kashyap",
+				"character": "Mukund"
+			},
+			{
+				"id": 5090818,
+				"order": 34,
+				"name": "Ashish Shirke",
+				"character": "Mangal"
+			},
+			{
+				"id": 5090819,
+				"order": 35,
+				"name": "Akshay Vichare",
+				"character": "Ujala"
+			},
+			{
+				"id": 5090820,
+				"order": 36,
+				"name": "Devang Bagga",
+				"character": "Ravi"
+			},
+			{
+				"id": 5090825,
+				"order": 37,
+				"name": "Mohit Tripathi",
+				"character": "Babban"
+			},
+			{
+				"id": 5090829,
+				"order": 38,
+				"name": "Subhan",
+				"character": "Chandan"
+			},
+			{
+				"id": 5090830,
+				"order": 39,
+				"name": "Sameer",
+				"character": "Bechan"
+			},
+			{
+				"id": 5090835,
+				"order": 40,
+				"name": "Riyaz Khan",
+				"character": "Surajbhan"
+			},
+			{
+				"id": 4358507,
+				"order": 41,
+				"name": "Sahil Gangurde",
+				"character": "Badlu"
+			},
+			{
+				"id": 5090836,
+				"order": 42,
+				"name": "Aman Waleski",
+				"character": "Sarju"
+			},
+			{
+				"id": 5090840,
+				"order": 43,
+				"name": "Awdhesh Mishra",
+				"character": "Gajju"
+			},
+			{
+				"id": 5090842,
+				"order": 44,
+				"name": "Sharuq",
+				"character": "Bedu"
+			},
+			{
+				"id": 5090844,
+				"order": 45,
+				"name": "Shakti Singh",
+				"character": "Laddan"
+			},
+			{
+				"id": 5090848,
+				"order": 46,
+				"name": "Manoj Diwakar",
+				"character": "Sarwan"
+			},
+			{
+				"id": 5090854,
+				"order": 47,
+				"name": "Rupesh Kumar",
+				"character": "Bisnu",
+				"gender": 2
+			},
+			{
+				"id": 5090855,
+				"order": 48,
+				"name": "Manish Pandey",
+				"character": "Lallan"
+			},
+			{
+				"id": 5090856,
+				"order": 49,
+				"name": "Nikhil Kumar",
+				"character": "Makharu"
+			},
+			{
+				"id": 5090870,
+				"order": 50,
+				"name": "Yakub",
+				"character": "Khesari"
+			},
+			{
+				"id": 5090871,
+				"order": 51,
+				"name": "Sajid",
+				"character": "Babua"
+			},
+			{
+				"id": 5090872,
+				"order": 52,
+				"name": "Bilal",
+				"character": "Mahua"
+			},
+			{
+				"id": 5090873,
+				"order": 53,
+				"name": "Amaan",
+				"character": "Makkhan"
+			},
+			{
+				"id": 5090875,
+				"order": 54,
+				"name": "Ashraf",
+				"character": "Bilas"
+			},
+			{
+				"id": 5090876,
+				"order": 55,
+				"name": "Faizal Sheikh",
+				"character": "Ranjan",
+				"gender": 2
+			},
+			{
+				"id": 5090878,
+				"order": 56,
+				"name": "Jaswant Singh Jassi",
+				"character": "Ramsujan"
+			},
+			{
+				"id": 5090884,
+				"order": 57,
+				"name": "Pramod Kumar",
+				"character": "Natthu"
+			},
+			{
+				"id": 5090885,
+				"order": 58,
+				"name": "Mohammed Javed",
+				"character": "Daddan"
+			},
+			{
+				"id": 4602192,
+				"order": 59,
+				"name": "Sandeep Shridhar Dhabale",
+				"character": "Rishikesh",
+				"gender": 2
+			},
+			{
+				"id": 5011131,
+				"order": 60,
+				"name": "Avanish Pandey",
+				"character": "TTE",
+				"gender": 2
+			},
+			{
+				"id": 5011136,
+				"order": 61,
+				"name": "Jitendra Sharma",
+				"character": "RPF1",
+				"gender": 2
+			},
+			{
+				"id": 5090894,
+				"order": 62,
+				"name": "Dip Boval",
+				"character": "RPF2"
+			},
+			{
+				"id": 4447452,
+				"order": 63,
+				"name": "Ajitabh Sengupta",
+				"character": "Railway Policeman",
+				"gender": 2
+			},
+			{
+				"id": 5090888,
+				"order": 64,
+				"name": "Ravi Bhushan",
+				"character": "Station Master"
+			},
+			{
+				"id": 4977161,
+				"order": 65,
+				"name": "Sahil Takhi",
+				"character": "Assitant Station Master",
+				"gender": 2
+			},
+			{
+				"id": 4039121,
+				"order": 66,
+				"name": "Priyam Gupta",
+				"character": "Kullu / Petrol Pump Attendent",
+				"gender": 2
+			},
+			{
+				"id": 4981921,
+				"order": 67,
+				"name": "Reyansh Goswami",
+				"character": "Little Kid"
+			},
+			{
+				"id": 5090859,
+				"order": 68,
+				"name": "Monica",
+				"character": "Lady Passenger"
+			},
+			{
+				"id": 5090815,
+				"order": 69,
+				"name": "Harinder Singh",
+				"character": "Passenger 1"
+			},
+			{
+				"id": 5090816,
+				"order": 70,
+				"name": "Mahinder Chauhan",
+				"character": "Passenger 2"
+			},
+			{
+				"id": 5090817,
+				"order": 71,
+				"name": "Jake Kashyap",
+				"character": "Passenger 3"
+			},
+			{
+				"id": 5090839,
+				"order": 72,
+				"name": "Bhupendra Malhotra",
+				"character": "Passenger 4"
+			},
+			{
+				"id": 5090887,
+				"order": 73,
+				"name": "Ashok Singh",
+				"character": "Passenger 5"
+			},
+			{
+				"id": 5090852,
+				"order": 74,
+				"name": "Sajid Anwar",
+				"character": "Hostage Passenger 1"
+			},
+			{
+				"id": 5090863,
+				"order": 75,
+				"name": "Manoj Modi",
+				"character": "Hostage Passenger 2"
+			},
+			{
+				"id": 5090864,
+				"order": 76,
+				"name": "Ravi Sanghavi",
+				"character": "Hostage Passenger 3"
+			},
+			{
+				"id": 5090865,
+				"order": 77,
+				"name": "Vishrut Kalra",
+				"character": "Hostage Passenger 4"
+			},
+			{
+				"id": 5090879,
+				"order": 78,
+				"name": "Bela Fernandes",
+				"character": "Hostage Passenger 5"
+			},
+			{
+				"id": 5090880,
+				"order": 79,
+				"name": "Komal Sharma",
+				"character": "Hostage Passenger 6"
+			},
+			{
+				"id": 5090882,
+				"order": 80,
+				"name": "Yakub Ansari",
+				"character": "Hostage Passenger 7"
+			}
+		],
+		"crew": [
+			{
+				"id": 2111566,
+				"name": "Oh Se-yeong",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2119237,
+				"name": "Nikhil Nagesh Bhat",
+				"profile_path": "/rY4WDYSWktZ7QlBr2o9NT0GiInr.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 3893949,
+				"name": "Raunaq Bajaj",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 35736,
+				"name": "Karan Johar",
+				"profile_path": "/zip1x7OXOBxXxcdYvKOgw6MnAWm.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 3
+			},
+			{
+				"id": 2119237,
+				"name": "Nikhil Nagesh Bhat",
+				"profile_path": "/rY4WDYSWktZ7QlBr2o9NT0GiInr.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 85699,
+				"name": "Hiroo Johar",
+				"profile_path": "/sUiSreZyXRj9raYlISB1eGVQ5LR.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2082741,
+				"name": "Rafey Mehmood",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2214303,
+				"name": "Shivkumar V Panicker",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 2539100,
+				"name": "Rajiv Subba",
+				"job": "Prosthetic Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4195783,
+				"name": "Mahima W Salvi",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1745008,
+				"name": "Achin Jain",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2119237,
+				"name": "Nikhil Nagesh Bhat",
+				"profile_path": "/rY4WDYSWktZ7QlBr2o9NT0GiInr.jpg",
+				"job": "Dialogue",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2649269,
+				"name": "Aliya Curmally",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1755493,
+				"name": "Parvez Shaikh",
+				"job": "Fight Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 1756118,
+				"name": "Subash Sahoo",
+				"profile_path": "/34jLCM7r5N0vYo53OfqE7pJI5xA.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 131836,
+				"name": "Apoorva Mehta",
+				"profile_path": "/1AJ9HUiwkA7zuIX57YNZ0yvw9sj.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2119237,
+				"name": "Nikhil Nagesh Bhat",
+				"profile_path": "/rY4WDYSWktZ7QlBr2o9NT0GiInr.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2748743,
+				"name": "Ayesha Syed",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 2539101,
+				"name": "Zuby Johal",
+				"job": "Prosthetic Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1745013,
+				"name": "Mayur Sharma",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1991819,
+				"name": "Ketan Sodha",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1124934,
+				"name": "Guneet Monga",
+				"profile_path": "/AkYxwPiaOOD6GvKTMEAyKfpjkUU.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1936181,
+				"name": "Prasanna R Coondapur",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1744509,
+				"name": "Rohit Chaturvedi",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4095015,
+				"name": "Pankaj Vashisht",
+				"job": "3D Artist",
+				"department": "Visual Effects",
+				"gender": 2
+			}
+		]
+	}
+}

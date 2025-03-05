@@ -1,0 +1,680 @@
+{
+	"id": 1121914,
+	"title": "Broken Rage",
+	"fcg_title": "Broken Rage",
+	"original_title": "Broken Rage",
+	"original_language": "ja",
+	"genres": [
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 28,
+			"name": "Action"
+		}
+	],
+	"overview": "A seemingly unremarkable man called “Mouse” is caught by the police. In exchange for his freedom, he goes undercover, infiltrates a drug ring, and arranges a fake deal, but an unexpected turn of events occurs... Director Takeshi Kitano presents a two-part film: a serious yakuza action and a self-parodying comedy of the same story. What is the fate of \"Mouse\"?",
+	"backdrop_path": "/vaJFSMNHdwBc8xA8R26MOOuHREG.jpg",
+	"poster_path": "/zz5w71AcWoDuKbLfN89noaGUKKs.jpg",
+	"release_date": "2024-09-06",
+	"credits": {
+		"cast": [
+			{
+				"id": 3317,
+				"order": 0,
+				"name": "Takeshi Kitano",
+				"profile_path": "/9fyYreFJT8CPe8Ok2y1LE0btNYS.jpg",
+				"character": "Nezumi",
+				"gender": 2
+			},
+			{
+				"id": 13275,
+				"order": 1,
+				"name": "Tadanobu Asano",
+				"profile_path": "/wDw1z9Pk9dEzopzlZQ4X8wTbj1t.jpg",
+				"character": "Detective Inoue",
+				"gender": 2
+			},
+			{
+				"id": 58604,
+				"order": 2,
+				"name": "Nao Ômori",
+				"profile_path": "/ynDvMNODtMvzyF0xf9ufeJqfEJK.jpg",
+				"character": "Detective Fukuda",
+				"gender": 2
+			},
+			{
+				"id": 72202,
+				"order": 3,
+				"name": "Shido Nakamura",
+				"profile_path": "/5cKT5ZDLyfEuZycVu7kLRDuMRPE.jpg",
+				"character": "Kaneshiro",
+				"gender": 2
+			},
+			{
+				"id": 46582,
+				"order": 4,
+				"name": "Hakuryu",
+				"profile_path": "/YJbMuqt9BEnSOyyYMwjLuSP91R.jpg",
+				"character": "Tomita",
+				"gender": 2
+			},
+			{
+				"id": 646797,
+				"order": 5,
+				"name": "Takashi Nishina",
+				"profile_path": "/x1vR1K0ro7yGlt5g8oXaxOEhtZ5.jpg",
+				"character": "Coffee Shop Manager",
+				"gender": 2
+			},
+			{
+				"id": 2606634,
+				"order": 6,
+				"name": "So Kaku",
+				"profile_path": "/7Q1oWPVroivb5nMLtTaLMFgDiIE.jpg",
+				"character": "Fitness Trainer",
+				"gender": 2
+			},
+			{
+				"id": 226827,
+				"order": 7,
+				"name": "Gekidan Hitori",
+				"profile_path": "/lPlygOQkJEkV0WCfPyRKkbP8nro.jpg",
+				"character": "Game Presenter",
+				"gender": 2
+			},
+			{
+				"id": 3479142,
+				"order": 8,
+				"name": "Masanori Hasegawa",
+				"profile_path": "/3uS2mbeiy0eNGmlk1iax0aBeSDk.jpg",
+				"character": "Yasuo Mogi",
+				"gender": 2
+			},
+			{
+				"id": 1709946,
+				"order": 9,
+				"name": "Azusa Babazono",
+				"profile_path": "/ec40He8idkOXqexwvGpxt1bFnxl.jpg",
+				"character": "Bar Hostess",
+				"gender": 1
+			},
+			{
+				"id": 3232442,
+				"order": 10,
+				"name": "Suzuki Mogura",
+				"profile_path": "/6xlWhWLNts6Kkj3nwjdEkQVIP6n.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1249193,
+				"order": 11,
+				"name": "Jun Akiyama",
+				"profile_path": "/jBe9c9RcD9lBJjbtlMD7fs5sU88.jpg",
+				"character": "Undercover Investigator",
+				"gender": 2
+			},
+			{
+				"id": 1483497,
+				"order": 12,
+				"name": "Takayuki Asai",
+				"profile_path": "/lSEZJVLKKuR5RRhYOdQFm55yEI2.jpg",
+				"gender": 2
+			},
+			{
+				"id": 5245850,
+				"order": 13,
+				"name": "Goro Fukaya"
+			},
+			{
+				"id": 3801879,
+				"order": 14,
+				"name": "Hayato"
+			},
+			{
+				"id": 5245855,
+				"order": 15,
+				"name": "Kouzou Ishikawa"
+			},
+			{
+				"id": 4244763,
+				"order": 16,
+				"name": "Norio Kanamori"
+			},
+			{
+				"id": 4098051,
+				"order": 17,
+				"name": "Tomohiko Kitamura"
+			},
+			{
+				"id": 1084975,
+				"order": 18,
+				"name": "Shiro Maeda",
+				"profile_path": "/gVcWskb49KYUhep3ubvQfLvEW2Z.jpg",
+				"character": "Man in Bag/Police Captain",
+				"gender": 2
+			},
+			{
+				"id": 3232442,
+				"order": 19,
+				"name": "Suzuki Mogura",
+				"profile_path": "/6xlWhWLNts6Kkj3nwjdEkQVIP6n.jpg",
+				"character": "Optometrist",
+				"gender": 2
+			},
+			{
+				"id": 1398752,
+				"order": 20,
+				"name": "Shohei Uno",
+				"profile_path": "/qEBRZaLkIperJtpQ6XaSdf13ExJ.jpg",
+				"character": "Tamura",
+				"gender": 2
+			},
+			{
+				"id": 1369117,
+				"order": 21,
+				"name": "Masato Yano",
+				"profile_path": "/nMkqO0kp5Kc3Vc8UnITzGnhKJoc.jpg",
+				"character": "Takaaki Oguro",
+				"gender": 2
+			},
+			{
+				"id": 2094493,
+				"order": 22,
+				"name": "Shoken Kunimoto",
+				"profile_path": "/vdqq36mwwAMLpMUemrsKu7OJ5PD.jpg",
+				"character": "Drug Dealer",
+				"gender": 2
+			},
+			{
+				"id": 4950786,
+				"order": 23,
+				"name": "Amawres Ani"
+			},
+			{
+				"id": 5245911,
+				"order": 24,
+				"name": "Amawres Taro"
+			},
+			{
+				"id": 4546260,
+				"order": 25,
+				"name": "Makoto Shiraga"
+			},
+			{
+				"id": 554062,
+				"order": 26,
+				"name": "Masanobu Yada",
+				"profile_path": "/5ImxOwamfZ7X6s6pVkUrdSRHsv8.jpg",
+				"gender": 2
+			},
+			{
+				"id": 5245912,
+				"order": 27,
+				"name": "Yuji Suzuki"
+			},
+			{
+				"id": 2031939,
+				"order": 28,
+				"name": "Shoji Shibuya"
+			},
+			{
+				"id": 1461421,
+				"order": 29,
+				"name": "Wakato Kanematsu",
+				"gender": 2
+			},
+			{
+				"id": 1501759,
+				"order": 30,
+				"name": "Riku Ichikawa",
+				"profile_path": "/8iXuH7mgA6Gjc4Dxt4SS3jdt19l.jpg",
+				"gender": 2
+			},
+			{
+				"id": 2548979,
+				"order": 31,
+				"name": "Mitsuhiro Samejima",
+				"gender": 2
+			},
+			{
+				"id": 2122683,
+				"order": 32,
+				"name": "Kei Kagaya",
+				"profile_path": "/6ja9pUIHg7QqHVdmH9EjcFkSCcv.jpg",
+				"gender": 2
+			},
+			{
+				"id": 2211324,
+				"order": 33,
+				"name": "Takeshi Arai"
+			},
+			{
+				"id": 2441792,
+				"order": 34,
+				"name": "Ken Sugawara",
+				"profile_path": "/n4dSY3rXhPRn1qwE04lAHlEwnA9.jpg",
+				"gender": 2
+			},
+			{
+				"id": 5245919,
+				"order": 35,
+				"name": "Shoki Matsui"
+			},
+			{
+				"id": 4689818,
+				"order": 36,
+				"name": "Atomu Ito",
+				"gender": 2
+			},
+			{
+				"id": 2634708,
+				"order": 37,
+				"name": "Kizuki",
+				"profile_path": "/nKPkBFD38MGF3Jve1ijaXirZqUV.jpg",
+				"gender": 2
+			},
+			{
+				"id": 2891147,
+				"order": 38,
+				"name": "Hiroyuki Endō",
+				"profile_path": "/mlWYeCbgTbh0yo3pVqc5dEdOnxn.jpg",
+				"gender": 2
+			},
+			{
+				"id": 5245924,
+				"order": 39,
+				"name": "Muroran Terada"
+			},
+			{
+				"id": 1978297,
+				"order": 40,
+				"name": "Toshio Uotani"
+			},
+			{
+				"id": 1968964,
+				"order": 41,
+				"name": "Kazuya Suma",
+				"gender": 2
+			},
+			{
+				"id": 5245929,
+				"order": 42,
+				"name": "Hiromasa Suzuki"
+			},
+			{
+				"id": 5245931,
+				"order": 43,
+				"name": "Osahiko Saitou"
+			},
+			{
+				"id": 1999004,
+				"order": 44,
+				"name": "Isao Matsui"
+			},
+			{
+				"id": 4249052,
+				"order": 45,
+				"name": "Kazuya Yoshie",
+				"profile_path": "/awvLtv0tHHcf4uMwBoPqFWQyuWV.jpg",
+				"gender": 2
+			},
+			{
+				"id": 4141852,
+				"order": 46,
+				"name": "Koushin Maeda",
+				"gender": 2
+			},
+			{
+				"id": 5245939,
+				"order": 47,
+				"name": "Musasi Mochiduki"
+			},
+			{
+				"id": 4939737,
+				"order": 48,
+				"name": "Coco Masui",
+				"gender": 1
+			},
+			{
+				"id": 5245941,
+				"order": 49,
+				"name": "Toa Kurihara"
+			},
+			{
+				"id": 2431664,
+				"order": 50,
+				"name": "Chiho Fujii"
+			},
+			{
+				"id": 5245946,
+				"order": 51,
+				"name": "Eri Misuto"
+			},
+			{
+				"id": 5245948,
+				"order": 52,
+				"name": "Genki Nakamura"
+			},
+			{
+				"id": 2331724,
+				"order": 53,
+				"name": "Takuro Kamikawa"
+			},
+			{
+				"id": 3885752,
+				"order": 54,
+				"name": "Kyo Sato",
+				"profile_path": "/fM4kuYZusEUCScAmZmWF1lxhspm.jpg",
+				"gender": 1
+			},
+			{
+				"id": 3763167,
+				"order": 55,
+				"name": "Nagisa Takano",
+				"profile_path": "/3rUZmQEifEHFrxWmACeWjHmb7Bj.jpg",
+				"gender": 1
+			},
+			{
+				"id": 3025926,
+				"order": 56,
+				"name": "Kanami Takasaki",
+				"profile_path": "/u8oVMs46JtCOPSPtZm6kGnASLEY.jpg",
+				"gender": 1
+			},
+			{
+				"id": 5245953,
+				"order": 57,
+				"name": "Midori Takasago"
+			}
+		],
+		"crew": [
+			{
+				"id": 3317,
+				"name": "Takeshi Kitano",
+				"profile_path": "/9fyYreFJT8CPe8Ok2y1LE0btNYS.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 3317,
+				"name": "Takeshi Kitano",
+				"profile_path": "/9fyYreFJT8CPe8Ok2y1LE0btNYS.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 3317,
+				"name": "Takeshi Kitano",
+				"profile_path": "/9fyYreFJT8CPe8Ok2y1LE0btNYS.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 4901903,
+				"name": "So Kurosawa",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2201625,
+				"name": "Yasuo Takano",
+				"job": "Sound",
+				"department": "Sound"
+			},
+			{
+				"id": 4901902,
+				"name": "Hideyuki Kurosawa",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4999,
+				"name": "Yoshinori Ota",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 3171407,
+				"name": "Kazuyori Kosaka",
+				"job": "Visual Effects",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1342048,
+				"name": "Shinya Kiyozuka",
+				"profile_path": "/kEOPHsAZSXhP5HTqTes62Mh3O4e.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 545765,
+				"name": "Takeshi Hamada",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 553232,
+				"name": "Atsuo Hirai",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 68112,
+				"name": "Satoshi Fukushima",
+				"profile_path": "/eC7bqSmi8SlEyrtjdocml5YJzE6.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1548731,
+				"name": "Kimiyoshi Adachi",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1575274,
+				"name": "Kenji Shibasaki",
+				"profile_path": "/hPy2bah7M8jtlfS8MwMrmPOxepv.jpg",
+				"job": "Sound Effects",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5245862,
+				"name": "Setsuko Kabasawa",
+				"job": "Casting",
+				"department": "Production"
+			},
+			{
+				"id": 5245958,
+				"name": "Emiko Kitano",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 146663,
+				"name": "Hitoshi Takaya",
+				"job": "Lighting Director",
+				"department": "Lighting",
+				"gender": 2
+			},
+			{
+				"id": 2663426,
+				"name": "Naoki Yamamoto",
+				"job": "Set Designer",
+				"department": "Art"
+			},
+			{
+				"id": 1603985,
+				"name": "Tatsumi Nikamoto",
+				"job": "Action Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 4921060,
+				"name": "Kazuhide Hatsuno",
+				"job": "Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 5245962,
+				"name": "Risa Terashima",
+				"job": "Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 2570724,
+				"name": "Kazuhiro Kurihara",
+				"job": "Sound Recordist",
+				"department": "Sound"
+			},
+			{
+				"id": 5245964,
+				"name": "Risa Matsumoto",
+				"job": "Sound Recordist",
+				"department": "Sound"
+			},
+			{
+				"id": 5245965,
+				"name": "Airi Hizen",
+				"job": "Sound Recordist",
+				"department": "Sound"
+			},
+			{
+				"id": 1401920,
+				"name": "Hiroyuki Hatori",
+				"job": "Special Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2617430,
+				"name": "Michio Miyauchi",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2617430,
+				"name": "Michio Miyauchi",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2548994,
+				"name": "Takayuki Akaike",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3868059,
+				"name": "Shinichi Yoda",
+				"job": "Stunts",
+				"department": "Crew"
+			},
+			{
+				"id": 5245968,
+				"name": "Tomoharu Nshizawa",
+				"job": "Stunts",
+				"department": "Crew"
+			},
+			{
+				"id": 2513841,
+				"name": "Daisuke Hamada",
+				"profile_path": "/uKQeDr9Ozq7HKNf9T2ltrcBMEK3.jpg",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2145147,
+				"name": "Shôji Kurata",
+				"job": "Stunts",
+				"department": "Crew"
+			},
+			{
+				"id": 1448548,
+				"name": "Masashi Shirai",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1976767,
+				"name": "Keisuke Hara",
+				"job": "Stunts",
+				"department": "Crew"
+			},
+			{
+				"id": 1071546,
+				"name": "Yuki Chiba",
+				"job": "Stunts",
+				"department": "Crew"
+			},
+			{
+				"id": 3868062,
+				"name": "Shuji Sekita",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3736250,
+				"name": "Koushi Hoshina",
+				"profile_path": "/hdQK84tgdIhmxyI9rT6xRQeS98O.jpg",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 5245972,
+				"name": "Harukino Shimura",
+				"job": "Stunts",
+				"department": "Crew"
+			},
+			{
+				"id": 5245974,
+				"name": "Yumemi Kawai",
+				"job": "Title Designer",
+				"department": "Art"
+			},
+			{
+				"id": 5245978,
+				"name": "Shinjiro Takeuchi",
+				"job": "Title Designer",
+				"department": "Art"
+			},
+			{
+				"id": 2211170,
+				"name": "Teruo Tsuda",
+				"job": "Title Designer",
+				"department": "Art"
+			},
+			{
+				"id": 3153623,
+				"name": "Saori Sekiguchi",
+				"job": "Title Designer",
+				"department": "Art",
+				"gender": 1
+			}
+		]
+	}
+}

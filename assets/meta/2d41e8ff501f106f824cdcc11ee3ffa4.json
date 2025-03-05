@@ -1,0 +1,262 @@
+{
+	"id": 259546,
+	"title": "Brinda",
+	"name": "Brinda",
+	"fcg_title": "Brinda",
+	"original_language": "te",
+	"genres": [
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 9648,
+			"name": "Mystery"
+		}
+	],
+	"overview": "Young, socially awkward yet morally grounded SI cadet Brinda stumbles upon a brutal murder with a chilling modus operandi. As the killer slips through her grasp, she faces personal and bureaucratic turmoil, but the hardest challenge is the moral reckoning that could define her career and conscience. Will Brinda uphold justice, or lose herself in the chaos closer to home?",
+	"backdrop_path": "/zWEwStQoDBS2H7oGkbKwpEUpQqk.jpg",
+	"poster_path": "/d0bn8tRAOcfV8kqXu4lzQzTjAvs.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 116925,
+				"order": 0,
+				"name": "Trisha Krishnan",
+				"profile_path": "/jfeAV0VeAQhKONzIv1UEYbklJGn.jpg",
+				"character": "Brinda",
+				"gender": 1
+			},
+			{
+				"id": 448468,
+				"order": 1,
+				"name": "Indrajith Sukumaran",
+				"profile_path": "/32YxjXVmgkPCVKUQAkNqWUGbBIl.jpg",
+				"character": "Kabir Anand",
+				"gender": 2
+			},
+			{
+				"id": 2109334,
+				"order": 2,
+				"name": "Ravindra Vijay",
+				"profile_path": "/2mw4VbANE3QtI9dzQXdrG74RizL.jpg",
+				"character": "Sarathi",
+				"gender": 2
+			},
+			{
+				"id": 560038,
+				"order": 3,
+				"name": "Jayaprakash",
+				"profile_path": "/11g55pqwavrHBP09EQpUuJrllDU.jpg",
+				"character": "Raghu",
+				"gender": 2
+			},
+			{
+				"id": 581097,
+				"order": 4,
+				"name": "Aamani",
+				"profile_path": "/pitQe6OOFey0uzv2rmwljb4lJmr.jpg",
+				"character": "Vasundhara",
+				"gender": 1
+			},
+			{
+				"id": 1815450,
+				"order": 5,
+				"name": "Anand Sami",
+				"profile_path": "/vrCa6236QADnv7QlxvFfxU0lNaM.jpg",
+				"character": "Thakur",
+				"gender": 2
+			},
+			{
+				"id": 1712856,
+				"order": 6,
+				"name": "Rakendu Mouli",
+				"profile_path": "/bTPcmRTCTjiASiEp4Nu5SQArTaM.jpg",
+				"character": "Satya",
+				"gender": 2
+			},
+			{
+				"id": 1060294,
+				"order": 7,
+				"name": "Anish Kuruvilla",
+				"profile_path": "/egs7BnJeBw7txSjoETg2XoqHO8e.jpg",
+				"character": "DIG",
+				"gender": 2
+			},
+			{
+				"id": 3987408,
+				"order": 8,
+				"name": "Yashna Chowdary",
+				"profile_path": "/xPjVWO82ONgRpRxV7w1S5jZvUQy.jpg",
+				"character": "Chutki",
+				"gender": 1
+			},
+			{
+				"id": 585273,
+				"order": 9,
+				"name": "Allu Ramesh",
+				"character": "Head Constable"
+			},
+			{
+				"id": 3562982,
+				"order": 10,
+				"name": "Jwala Koti",
+				"character": "Juvenile Warden"
+			},
+			{
+				"id": 1999839,
+				"order": 11,
+				"name": "Muralidhar Goud",
+				"character": "Mortician",
+				"gender": 2
+			},
+			{
+				"id": 1998594,
+				"order": 12,
+				"name": "Manava Koteswara Rao",
+				"profile_path": "/ecCtEZvA1gOqqFqE0olnoXNsp3N.jpg",
+				"character": "ACP Ramachandra Rao",
+				"gender": 2
+			},
+			{
+				"id": 4195114,
+				"order": 13,
+				"name": "Goparaju Vijay",
+				"character": "CI"
+			},
+			{
+				"id": 4352508,
+				"order": 14,
+				"name": "Baby Chaitra",
+				"character": "Chinni"
+			},
+			{
+				"id": 4862619,
+				"order": 15,
+				"name": "Anjana",
+				"character": "Lekha"
+			}
+		],
+		"crew": [
+			{
+				"id": 4841675,
+				"name": "Ashish Kolla",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3527584,
+				"name": "Padmavathi Malladi",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 4841670,
+				"name": "Surya Manoj Vangala",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 4841670,
+				"name": "Surya Manoj Vangala",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4841681,
+				"name": "A Ramesh Chand",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4841670,
+				"name": "Surya Manoj Vangala",
+				"job": "Story",
+				"department": "Writing"
+			},
+			{
+				"id": 2111277,
+				"name": "Chetan D'Souza",
+				"job": "Fight Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 3458550,
+				"name": "Mama Singh",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 1032596,
+				"name": "Anwar Ali",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 3865804,
+				"name": "Sai Maneendhar Reddy",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 1789209,
+				"name": "Dinesh K Babu",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1664935,
+				"name": "Shashank Vennelakanti",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 2652633,
+				"name": "P. Rajini",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 2443699,
+				"name": "Jeevan Kumar",
+				"job": "Fight Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 1667230,
+				"name": "Tapas Nayak",
+				"job": "Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1712856,
+				"name": "Rakendu Mouli",
+				"profile_path": "/bTPcmRTCTjiASiEp4Nu5SQArTaM.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 3407694,
+				"name": "Jay Krishna",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 2035066,
+				"name": "Kolla Avinash",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1674840,
+				"name": "Shakthi Kanth Karthick",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			}
+		]
+	}
+}

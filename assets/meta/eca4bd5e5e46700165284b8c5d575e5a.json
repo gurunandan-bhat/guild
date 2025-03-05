@@ -1,0 +1,521 @@
+{
+	"id": 1241982,
+	"title": "Moana 2",
+	"fcg_title": "Moana 2",
+	"original_title": "Moana 2",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 16,
+			"name": "Animation"
+		},
+		{
+			"id": 12,
+			"name": "Adventure"
+		},
+		{
+			"id": 10751,
+			"name": "Family"
+		},
+		{
+			"id": 35,
+			"name": "Comedy"
+		}
+	],
+	"overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+	"backdrop_path": "/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
+	"poster_path": "/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+	"release_date": "2024-11-21",
+	"credits": {
+		"cast": [
+			{
+				"id": 1564846,
+				"order": 0,
+				"name": "Auliʻi Cravalho",
+				"profile_path": "/vEroqcnM2g6yY7qXDAie7hx2Cyp.jpg",
+				"character": "Moana (voice)",
+				"gender": 1
+			},
+			{
+				"id": 18918,
+				"order": 1,
+				"name": "Dwayne Johnson",
+				"profile_path": "/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg",
+				"character": "Maui (voice)",
+				"gender": 2
+			},
+			{
+				"id": 4775908,
+				"order": 2,
+				"name": "Hualālai Chung",
+				"profile_path": "/x2g5fdHqETY9dZgL4aB0QDP0boR.jpg",
+				"character": "Moni (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1868823,
+				"order": 3,
+				"name": "Rose Matafeo",
+				"profile_path": "/zQa39fMjbOTIsovbh1TBTJVlToz.jpg",
+				"character": "Loto (voice)",
+				"gender": 1
+			},
+			{
+				"id": 55937,
+				"order": 4,
+				"name": "David Fane",
+				"profile_path": "/tcozyaTgAa8rRmzc5qeht0loni6.jpg",
+				"character": "Kele (voice)",
+				"gender": 2
+			},
+			{
+				"id": 3819173,
+				"order": 5,
+				"name": "Awhimai Fraser",
+				"profile_path": "/276OUDPl2iIsz772HQw3tiz2JN2.jpg",
+				"character": "Matangi (voice)",
+				"gender": 1
+			},
+			{
+				"id": 4775906,
+				"order": 6,
+				"name": "Khaleesi Lambert-Tsuda",
+				"profile_path": "/3LHXDjy9UijbtR7X2EReX5H57kk.jpg",
+				"character": "Simea (voice)",
+				"gender": 1
+			},
+			{
+				"id": 7242,
+				"order": 7,
+				"name": "Temuera Morrison",
+				"profile_path": "/1ckHDFgKXJ8pazmvLCW7DeOKqA0.jpg",
+				"character": "Chief Tui (voice)",
+				"gender": 2
+			},
+			{
+				"id": 151246,
+				"order": 8,
+				"name": "Nicole Scherzinger",
+				"profile_path": "/pOu2al9UBvBYCHaMQFcmGbPNXeF.jpg",
+				"character": "Sina (voice)",
+				"gender": 1
+			},
+			{
+				"id": 15298,
+				"order": 9,
+				"name": "Rachel House",
+				"profile_path": "/m8D9XlTGfI0ZmauMKtYp5tw8eNi.jpg",
+				"character": "Gramma Tala (voice)",
+				"gender": 1
+			},
+			{
+				"id": 4877023,
+				"order": 10,
+				"name": "Gerald Ramsey",
+				"character": "Tautai Vasa (voice)",
+				"gender": 2
+			},
+			{
+				"id": 21088,
+				"order": 11,
+				"name": "Alan Tudyk",
+				"profile_path": "/a9ZMieYNVy5vCPldEJfkY2puEmK.jpg",
+				"character": "Heihei (voice)",
+				"gender": 2
+			},
+			{
+				"id": 55936,
+				"order": 12,
+				"name": "Jemaine Clement",
+				"profile_path": "/6eiNbeurpHb2fxIeT0RrJ0wRI25.jpg",
+				"character": "Tamatoa (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1189815,
+				"order": 13,
+				"name": "Tofiga Fepulea'i",
+				"profile_path": "/laI8wRUzcf5Dw6eqJsgxIiFZsrV.jpg",
+				"character": "Nalo (voice)"
+			},
+			{
+				"id": 5077784,
+				"order": 14,
+				"name": "Jasmine Johnson",
+				"character": "Moanabe (voice)"
+			},
+			{
+				"id": 5076337,
+				"order": 15,
+				"name": "Tiana Johnson",
+				"character": "Moanabe (voice)"
+			},
+			{
+				"id": 5076338,
+				"order": 16,
+				"name": "Ata Maivia Johnson",
+				"profile_path": "/oOQdVapN0Egi9Mc2DOro2K1ZURX.jpg",
+				"character": "Villager (voice)",
+				"gender": 1
+			},
+			{
+				"id": 2088964,
+				"order": 17,
+				"name": "Bryson Chun",
+				"profile_path": "/vemeEsqY9kYhm35RSkl6wahqHVh.jpg",
+				"character": "Additional Voices (voice)",
+				"gender": 2
+			},
+			{
+				"id": 3988596,
+				"order": 18,
+				"name": "Noemi Josefina Flores",
+				"character": "Additional Voices (voice)",
+				"gender": 1
+			},
+			{
+				"id": 5076340,
+				"order": 19,
+				"name": "Setarosa Tuitasi-Ledoux",
+				"character": "Additional Voices (voice)"
+			},
+			{
+				"id": 5076341,
+				"order": 20,
+				"name": "Bentley Pupuhi-Fernandez",
+				"character": "Additional Voices (voice)"
+			}
+		],
+		"crew": [
+			{
+				"id": 4524084,
+				"name": "David G. Derrick Jr.",
+				"profile_path": "/j5JOtRua5KduoPsQVix0rwY3jOo.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 3889426,
+				"name": "Abigail Barlow",
+				"job": "Songs",
+				"department": "Sound"
+			},
+			{
+				"id": 3877305,
+				"name": "Emily Bear",
+				"job": "Songs",
+				"department": "Sound"
+			},
+			{
+				"id": 1716551,
+				"name": "Opetaia Foa'i",
+				"profile_path": "/uRitkic8TnMsyCjAwJvjlzc2aeK.jpg",
+				"job": "Songs",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 9989,
+				"name": "Mark Mancina",
+				"profile_path": "/zTFHjOH3D5TTJiMxEro1MPDy7m7.jpg",
+				"job": "Songs",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1999218,
+				"name": "Yvett Merino Flores",
+				"profile_path": "/lWDGq9RsYDayXIqdyXz1yHzo2tU.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 4496979,
+				"name": "Christina Chen",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1461394,
+				"name": "Jason Hand",
+				"profile_path": "/gepbkgavGdDXdNbQzdFaxayTpoH.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1513971,
+				"name": "Dana Ledoux Miller",
+				"profile_path": "/1I3PoFUABjxIxuPQKI9zAaoyMj3.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 1120694,
+				"name": "Jennifer Lee",
+				"profile_path": "/cRxBIe0sa2JcBtczzysV4aFUaEy.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 112609,
+				"name": "David E. Fluhr",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1397844,
+				"name": "Gabriel Guy",
+				"job": "Production Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1397844,
+				"name": "Gabriel Guy",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 2005798,
+				"name": "Paul McGrath",
+				"job": "Production Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1927481,
+				"name": "Bob Bennett",
+				"job": "VFX Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 4741240,
+				"name": "Nicholas Ralabate",
+				"job": "VFX Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2016600,
+				"name": "Martin Campos Amoros",
+				"job": "Senior Animator",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 4036656,
+				"name": "Joe Darko",
+				"job": "Animation",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 2127467,
+				"name": "Naïti Escot",
+				"job": "VFX Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1462000,
+				"name": "Dave Hardin",
+				"job": "Animation",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2011064,
+				"name": "Maritza Louis",
+				"job": "Modeling",
+				"department": "Visual Effects",
+				"gender": 1
+			},
+			{
+				"id": 1453626,
+				"name": "Kevin MacLean",
+				"job": "Animation",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 3148022,
+				"name": "Kristin Pratt",
+				"job": "Layout Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 4741262,
+				"name": "Ere Santos",
+				"job": "Animation Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 4741263,
+				"name": "Carly Senora",
+				"job": "Lighting Artist",
+				"department": "Lighting"
+			},
+			{
+				"id": 186605,
+				"name": "Terri Douglas",
+				"profile_path": "/6yRCc5oKalchZuRvVJJbEDNmLEd.jpg",
+				"job": "ADR Voice Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1437538,
+				"name": "Kurt Crowley",
+				"job": "Vocals",
+				"department": "Sound"
+			},
+			{
+				"id": 4741292,
+				"name": "Opie Gruves",
+				"job": "Music Coordinator",
+				"department": "Sound"
+			},
+			{
+				"id": 4741293,
+				"name": "Eoin Mallon",
+				"job": "Vocal Coach",
+				"department": "Sound"
+			},
+			{
+				"id": 4741309,
+				"name": "Carrie Tretteen",
+				"job": "Clearances Coordinator",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1645150,
+				"name": "Matt Walker",
+				"job": "Executive Music Producer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 9989,
+				"name": "Mark Mancina",
+				"profile_path": "/zTFHjOH3D5TTJiMxEro1MPDy7m7.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 8159,
+				"name": "Shannon Mills",
+				"profile_path": "/tq1cbZWf6DhUYAA3dNkeFEtgmQx.jpg",
+				"job": "Supervising Sound Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 1406872,
+				"name": "Nia Hansen",
+				"profile_path": "/uBXQCbOt5iUl8EmAhR1J9ersvz8.jpg",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 15811,
+				"name": "John Musker",
+				"profile_path": "/vSn1d9JpEpECu9cQbRGTFWZdLhA.jpg",
+				"job": "Characters",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 15810,
+				"name": "Ron Clements",
+				"profile_path": "/u9k9yg2EGlDsxYo3ehf35yRUfcD.jpg",
+				"job": "Characters",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1318201,
+				"name": "Jared Bush",
+				"profile_path": "/4jMTtrvJFUGmzdLCLvhHUJ6JyyG.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3470748,
+				"name": "India Barnardo",
+				"profile_path": "/yezo5QtduP3hm43nE6QhbWOEGz1.jpg",
+				"job": "Animation",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1716551,
+				"name": "Opetaia Foa'i",
+				"profile_path": "/uRitkic8TnMsyCjAwJvjlzc2aeK.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 18918,
+				"name": "Dwayne Johnson",
+				"profile_path": "/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2088964,
+				"name": "Bryson Chun",
+				"profile_path": "/vemeEsqY9kYhm35RSkl6wahqHVh.jpg",
+				"job": "Writers' Production",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5142579,
+				"name": "Ryan Green(VI)",
+				"job": "Head of Story",
+				"department": "Writing"
+			},
+			{
+				"id": 2197774,
+				"name": "Bek Smith",
+				"job": "Story",
+				"department": "Writing"
+			},
+			{
+				"id": 1513971,
+				"name": "Dana Ledoux Miller",
+				"profile_path": "/1I3PoFUABjxIxuPQKI9zAaoyMj3.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 1318201,
+				"name": "Jared Bush",
+				"profile_path": "/4jMTtrvJFUGmzdLCLvhHUJ6JyyG.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1318201,
+				"name": "Jared Bush",
+				"profile_path": "/4jMTtrvJFUGmzdLCLvhHUJ6JyyG.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1513971,
+				"name": "Dana Ledoux Miller",
+				"profile_path": "/1I3PoFUABjxIxuPQKI9zAaoyMj3.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 1
+			}
+		]
+	}
+}

@@ -1,0 +1,377 @@
+{
+	"id": 622792,
+	"title": "Kanguva",
+	"fcg_title": "Kanguva",
+	"original_title": "கங்குவா",
+	"original_language": "ta",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		},
+		{
+			"id": 14,
+			"name": "Fantasy"
+		}
+	],
+	"overview": "A bounty hunter in present day, learns about his previous life as a legendary warrior, when fate unites him with a mutant kid.",
+	"backdrop_path": "/cpK4ZqGZVJAIIKo8EgpSHif8yNL.jpg",
+	"poster_path": "/lycbTFBXqFN1kMdPEsnAFutKEEy.jpg",
+	"release_date": "2024-11-14",
+	"credits": {
+		"cast": [
+			{
+				"id": 85720,
+				"order": 0,
+				"name": "Suriya",
+				"profile_path": "/hIFXv3gIjlNS78gJmaguEOxvfPH.jpg",
+				"character": "Kanguva/Kangaa, Francis Theodore",
+				"gender": 2
+			},
+			{
+				"id": 77235,
+				"order": 1,
+				"name": "Bobby Deol",
+				"profile_path": "/2npVa3PduichY8e7qBiE54m9VVP.jpg",
+				"character": "Udhiran",
+				"gender": 2
+			},
+			{
+				"id": 1546398,
+				"order": 2,
+				"name": "Disha Patani",
+				"profile_path": "/oWfHKrvbk3Ak6UnrzDlAoZu7nlh.jpg",
+				"character": "Angelina",
+				"gender": 1
+			},
+			{
+				"id": 2262427,
+				"order": 3,
+				"name": "B. S. Avinash",
+				"profile_path": "/dhAScRQuHfOuUCEBM38NFUoyP4C.jpg",
+				"character": "Senthee",
+				"gender": 2
+			},
+			{
+				"id": 435722,
+				"order": 4,
+				"name": "Kovai Sarala",
+				"profile_path": "/rujbfPg6rp9DOphQZYUjll7KNPz.jpg",
+				"character": "Francis's Mother",
+				"gender": 1
+			},
+			{
+				"id": 1540764,
+				"order": 5,
+				"name": "Yogi Babu",
+				"profile_path": "/lTNb5POaftGHXzgN9aIegcehh89.jpg",
+				"character": "Colt 95",
+				"gender": 2
+			},
+			{
+				"id": 465273,
+				"order": 6,
+				"name": "Jagapati Babu",
+				"profile_path": "/bm72k6FmDxhxtZsl1xvxoz88Hkm.jpg",
+				"gender": 2
+			},
+			{
+				"id": 223148,
+				"order": 7,
+				"name": "Natarajan Subramaniam",
+				"profile_path": "/1sKmgVKSw8qJUzBTJGvL45wlDss.jpg",
+				"gender": 2
+			},
+			{
+				"id": 2860067,
+				"order": 8,
+				"name": "Redin Kingsley",
+				"profile_path": "/JX9ukTnXCNBlsbQeHGY85qf3du.jpg",
+				"character": "Accelerator",
+				"gender": 2
+			},
+			{
+				"id": 581072,
+				"order": 9,
+				"name": "Anandaraj",
+				"profile_path": "/gZxzckfurzV0oQOME8b1ATNoMHD.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1292322,
+				"order": 10,
+				"name": "G. Marimuthu",
+				"profile_path": "/gDBqLLiwYqYtKdhHowX7ppCmko8.jpg",
+				"gender": 2
+			},
+			{
+				"id": 584120,
+				"order": 11,
+				"name": "Deepa Venkat"
+			},
+			{
+				"id": 1031113,
+				"order": 12,
+				"name": "Ravi Raghavendra",
+				"profile_path": "/xVlk1yd5YYp1N1ysCxRo7347aWk.jpg"
+			},
+			{
+				"id": 93194,
+				"order": 13,
+				"name": "K. S. Ravikumar",
+				"profile_path": "/8dUdM3sFvL4aXnDtLJJCkDMNEbo.jpg",
+				"gender": 2
+			},
+			{
+				"id": 123066,
+				"order": 14,
+				"name": "Karthi",
+				"profile_path": "/zDedofqLD0OQtRVbxr04KPytr2R.jpg",
+				"character": "Rathaangasan/ Commander Ryan",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1543646,
+				"name": "Pramod Uppalapati",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 581908,
+				"name": "Madhan Karky",
+				"profile_path": "/6zwJAtDi6ScjmsL8qwnTwJto70I.jpg",
+				"job": "Dialogue",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1543647,
+				"name": "Vamsi Krishna Reddy",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 237681,
+				"name": "Devi Sri Prasad",
+				"profile_path": "/4Be4HLS7qqbVPfKyA3yHvtpObFc.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1136780,
+				"name": "K. E. Gnanavelraja",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1172533,
+				"name": "Nishad Yousef",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1709656,
+				"name": "Suresh Chandra",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1642540,
+				"name": "C H Balu",
+				"job": "Still Photographer",
+				"department": "Camera"
+			},
+			{
+				"id": 3410830,
+				"name": "EV Dinesh Kumar",
+				"job": "Production Coordinator",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1516716,
+				"name": "R. Rajasekar",
+				"job": "Co-Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1306564,
+				"name": "Supreme Sundar",
+				"profile_path": "/blmGRngQdCHkT9U2DzIAwUSraCv.jpg",
+				"job": "Fight Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3697325,
+				"name": "Vignesh Guru",
+				"job": "ADR Supervisor",
+				"department": "Sound"
+			},
+			{
+				"id": 3697395,
+				"name": "Thilipan",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2642323,
+				"name": "Thirumalai",
+				"job": "Co-Director",
+				"department": "Directing"
+			},
+			{
+				"id": 3697333,
+				"name": "Swetha Raju",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1643581,
+				"name": "Kabilan Chellaiah",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3697324,
+				"name": "Hemachandraprabhu",
+				"job": "Co-Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1652643,
+				"name": "Anu Vardhan",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 581908,
+				"name": "Madhan Karky",
+				"profile_path": "/6zwJAtDi6ScjmsL8qwnTwJto70I.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1203140,
+				"name": "T. Udayakumar",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1587628,
+				"name": "Shobi Paulraj",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1709655,
+				"name": "P Kuppusamy",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2091090,
+				"name": "Viveka",
+				"profile_path": "/wB1yDf3o3Xxi0zL2IsT7jVCSbxX.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1737324,
+				"name": "Harihara Suthan",
+				"job": "Visual Effects",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 2214176,
+				"name": "R S Suresh Maniyan",
+				"job": "Production Controller",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2149824,
+				"name": "Rekha D'One",
+				"profile_path": "/5ZnsLmGLcDZ6IveIXHlEDnHA3DU.jpg",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 3697320,
+				"name": "Rama Doss",
+				"job": "Production Executive",
+				"department": "Production"
+			},
+			{
+				"id": 2100034,
+				"name": "Dhatsha Pillai",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 580790,
+				"name": "Vettri",
+				"profile_path": "/A5l3PgkHr0OGMf7iq89s3p4zCvF.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1133446,
+				"name": "Siva",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1684193,
+				"name": "Milan",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1838644,
+				"name": "Vijay Velukutty",
+				"job": "Additional Editing",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1815080,
+				"name": "Adhi Narayana",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1133446,
+				"name": "Siva",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			}
+		]
+	}
+}

@@ -1,0 +1,66 @@
+{
+	"id": 271406,
+	"title": "The Roshans",
+	"name": "The Roshans",
+	"fcg_title": "The Roshans",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 99,
+			"name": "Documentary"
+		}
+	],
+	"overview": "This documentary series chronicles the trials and triumphs of Bollywood's iconic Roshan family — musician Roshan Lal Nagrath, Rajesh, Rakesh and Hrithik.",
+	"backdrop_path": "/hfyvWgU2iardHDonART95CGTgDp.jpg",
+	"poster_path": "/qfanotr54XJwX1wSdnyo9mlclLt.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 78749,
+				"order": 0,
+				"name": "Hrithik Roshan",
+				"profile_path": "/upKrdABAMK7jZevWAoPYI24iKlR.jpg",
+				"character": "Self",
+				"gender": 2
+			},
+			{
+				"id": 1032103,
+				"order": 1,
+				"name": "Rakesh Roshan",
+				"profile_path": "/x9PsR3B00EIppvK1Kb0MdbNZyzi.jpg",
+				"character": "Self",
+				"gender": 2
+			},
+			{
+				"id": 53616,
+				"order": 2,
+				"name": "Rajesh Roshan",
+				"profile_path": "/A1574M9n4Fk3DNaDGkRp7tiAo4z.jpg",
+				"character": "Self",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1638388,
+				"name": "Shashi Ranjan",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1638388,
+				"name": "Shashi Ranjan",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1032103,
+				"name": "Rakesh Roshan",
+				"profile_path": "/x9PsR3B00EIppvK1Kb0MdbNZyzi.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			}
+		]
+	}
+}

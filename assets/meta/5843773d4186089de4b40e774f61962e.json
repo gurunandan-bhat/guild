@@ -1,0 +1,255 @@
+{
+	"id": 1228693,
+	"title": "Mura",
+	"fcg_title": "Mura",
+	"original_title": "മുറ",
+	"original_language": "ml",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "In Trivandrum, four inseperable friends, from raw, rustic background Anandhu, Saji, Manu, and Manaf plan the ultimate heist, their one shot at turning dreams into reality. But as they dive deeper, shadows from the past surface, unraveling hidden motives and testing loyalties in ways they never saw coming. When friendship clashes with ambition, how far will they go for revenge?",
+	"backdrop_path": "/dCXyK3ZjUZPwvZejV4vjzhzv8Dp.jpg",
+	"poster_path": "/7UOVrVNUK1fYqOVcapM0cJz1l8A.jpg",
+	"release_date": "2024-11-08",
+	"credits": {
+		"cast": [
+			{
+				"id": 930731,
+				"order": 0,
+				"name": "Suraj Venjaramoodu",
+				"profile_path": "/2FUs0wmR3eHBd8g4GVbCmhkUzeI.jpg",
+				"character": "Aniyannan",
+				"gender": 2
+			},
+			{
+				"id": 2918872,
+				"order": 1,
+				"name": "Hridhu Haroon",
+				"profile_path": "/9Dz4Liv3a4EcQkNk3fCfIGheZCB.jpg",
+				"character": "Anandhu",
+				"gender": 2
+			},
+			{
+				"id": 1696318,
+				"order": 2,
+				"name": "Maala Parvathi",
+				"profile_path": "/l0iW1LfapmsXcvJaLPuwb68L5Ll.jpg",
+				"character": "Ramadevi",
+				"gender": 1
+			},
+			{
+				"id": 1399177,
+				"order": 3,
+				"name": "Kani Kusruti",
+				"profile_path": "/8WCuR3HcPYBeS2tQusFTEl596hM.jpg",
+				"character": "Asha",
+				"gender": 1
+			},
+			{
+				"id": 2070607,
+				"order": 4,
+				"name": "Kannan Nayar",
+				"profile_path": "/8xOoUwreZ15H9cwXV8OLtQ1bH3q.jpg",
+				"character": "Suni"
+			},
+			{
+				"id": 4472376,
+				"order": 5,
+				"name": "Jobin Das",
+				"character": "Saji"
+			},
+			{
+				"id": 4472377,
+				"order": 6,
+				"name": "Anujith Kannan",
+				"character": "Manaf"
+			},
+			{
+				"id": 3721861,
+				"order": 7,
+				"name": "Sibi Joseph",
+				"character": "Chokli Kumar"
+			},
+			{
+				"id": 5027732,
+				"order": 8,
+				"name": "Alfred Jose",
+				"character": "DSP Deva"
+			},
+			{
+				"id": 4890640,
+				"order": 9,
+				"name": "Krish Hassan",
+				"character": "Malar"
+			},
+			{
+				"id": 3927064,
+				"order": 10,
+				"name": "Vigneshwar Suresh",
+				"character": "Sitru"
+			},
+			{
+				"id": 585330,
+				"order": 11,
+				"name": "P.L. Thenappan",
+				"profile_path": "/o8rgqmXKku1Vu8n2T5FePNsHUbB.jpg",
+				"character": "Ratnam",
+				"gender": 2
+			},
+			{
+				"id": 5036610,
+				"order": 12,
+				"name": "Suresh Babu",
+				"character": "Vedan Binu"
+			},
+			{
+				"id": 5049119,
+				"order": 13,
+				"name": "Yedhu Krishna",
+				"character": "Manu"
+			},
+			{
+				"id": 3292748,
+				"order": 14,
+				"name": "Aswin Krishna",
+				"profile_path": "/rpqRQS9wWSajLYFbbPGMyH9jxpj.jpg",
+				"character": "Vinod"
+			}
+		],
+		"crew": [
+			{
+				"id": 1620968,
+				"name": "Ronex Xavier",
+				"profile_path": "/dG5IaUswrZu99o3xBuhQ57rOlEk.jpg",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 2261655,
+				"name": "PC Master",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1857799,
+				"name": "Jith Pirappancode",
+				"job": "Production Controller",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1797959,
+				"name": "Hari Thirumala",
+				"job": "Still Photographer",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 4472384,
+				"name": "Sreenu Kallelil",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1798403,
+				"name": "Nisar Rahmath",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1640751,
+				"name": "Muhammad Musthafa",
+				"profile_path": "/cE3BY7Cq6Tzkn9WKgLmeqXaNGvs.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 4472379,
+				"name": "Fazil Nazer",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 3024792,
+				"name": "Chaman Chakko",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 3490213,
+				"name": "Christy Joby",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 2180491,
+				"name": "Anwar Ali",
+				"profile_path": "/1DywQvSJWExb8yREcW0DpOwiUYv.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1135717,
+				"name": "Sreenath Bhasi",
+				"profile_path": "/oPsXUtaE0ZslhaGRdtww0ZpMRe7.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2279688,
+				"name": "Vinayak Sasikumar",
+				"profile_path": "/dtpCz8iwP1H0wf0ITc2VSxp2qZZ.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1669114,
+				"name": "Sankaran",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1864551,
+				"name": "K C Sidharthan",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2270868,
+				"name": "Liju Prabhakar",
+				"job": "Colorist",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 5036610,
+				"name": "Suresh Babu",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 3073181,
+				"name": "Riya Shibu",
+				"profile_path": "/lxh8m6GkbXZowcX7ebaiJr78tHT.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			}
+		]
+	}
+}

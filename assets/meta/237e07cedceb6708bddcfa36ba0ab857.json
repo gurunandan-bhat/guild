@@ -1,0 +1,217 @@
+{
+	"id": 156903,
+	"title": "Mithya",
+	"name": "Mithya",
+	"fcg_title": "Mithya: The Darker Chapter",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 9648,
+			"name": "Mystery"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "A tale of two women who are at odds with each other over allegations of plagiarism, which sparks a series of hostilities and shocking revelations spun around a murder for which they both are suspects.",
+	"backdrop_path": "/f3BFhOPLUp6r7wGaBmIt8C8kDAb.jpg",
+	"poster_path": "/36aeKw3ZzzHZJlXDJ4JIJzEPPfJ.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 1108805,
+				"order": 0,
+				"name": "Huma Qureshi",
+				"profile_path": "/j4RI7eoSqbWTK6hkCNO9wN78dMM.jpg",
+				"character": "Juhi Adhikari",
+				"gender": 1
+			},
+			{
+				"id": 3410699,
+				"order": 1,
+				"name": "Avantika Dassani",
+				"profile_path": "/e1Re75WfDCIXUEh74Pn669343L0.jpg",
+				"character": "Rhea Rajguru",
+				"gender": 1
+			},
+			{
+				"id": 86033,
+				"order": 2,
+				"name": "Indraneil Sengupta",
+				"profile_path": "/vjigFQVRuIHMd6ztGsR0jeDAT92.jpg",
+				"character": "Vishal Mehra",
+				"gender": 2
+			},
+			{
+				"id": 226769,
+				"order": 6,
+				"name": "Rajit Kapoor",
+				"profile_path": "/mATIzHiXTeW6xB8IoJVLTD5NDMn.jpg",
+				"character": "Anand Tyagi",
+				"gender": 2
+			},
+			{
+				"id": 113695,
+				"order": 7,
+				"name": "Avantika Akerkar",
+				"profile_path": "/8QkDlO4n8CZ7XkcwbMXCwvXXJuv.jpg",
+				"character": "Sudha Tyagi",
+				"gender": 1
+			},
+			{
+				"id": 1309099,
+				"order": 8,
+				"name": "Krishna Singh Bisht",
+				"profile_path": "/bBRg81u31Rct1YnK3KXe0cTfm6m.jpg",
+				"character": "Arun Kumar"
+			},
+			{
+				"id": 1240819,
+				"order": 9,
+				"name": "Rushad Rana",
+				"profile_path": "/kNu15vNIii3kmpdoc232NUt4C4e.jpg",
+				"character": "Vikas Bakshi",
+				"gender": 2
+			},
+			{
+				"id": 1309096,
+				"order": 11,
+				"name": "Naveen Kasturia",
+				"profile_path": "/arV1swe5vg4e4webYl61h6Zwx4e.jpg",
+				"character": "Amit Chaudhary",
+				"gender": 2
+			},
+			{
+				"id": 1261145,
+				"order": 12,
+				"name": "Anindita Bose",
+				"profile_path": "/6RhJc5wTzmYKTq9DMTRIvraJ7Kg.jpg",
+				"character": "Mansi Mehra"
+			}
+		],
+		"crew": [
+			{
+				"id": 2238959,
+				"name": "Aparna Nadig",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 2773839,
+				"name": "Nisarg Mehta",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 2454803,
+				"name": "Nishank Verma",
+				"job": "Story",
+				"department": "Writing"
+			},
+			{
+				"id": 1936198,
+				"name": "Purva Naresh",
+				"job": "Story",
+				"department": "Writing"
+			},
+			{
+				"id": 5041972,
+				"name": "Rohit Hippalgaonkar",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5041971,
+				"name": "Amit Sukumaran",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5041968,
+				"name": "Mitesh Patel",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3469186,
+				"name": "Prasoon Garg",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3659354,
+				"name": "Priya Jhavar",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4584046,
+				"name": "Sharda Singh",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1731198,
+				"name": "Goldie Behl",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2331600,
+				"name": "Deepak Segal",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5041956,
+				"name": "Nandita Anand",
+				"job": "Creative Director",
+				"department": "Art"
+			},
+			{
+				"id": 5041955,
+				"name": "Nirmal Pandya",
+				"job": "Music",
+				"department": "Sound"
+			},
+			{
+				"id": 2261563,
+				"name": "Priyata Dixit",
+				"job": "Casting Director",
+				"department": "Production"
+			},
+			{
+				"id": 4301979,
+				"name": "Raghav Ramadoss",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 4708643,
+				"name": "Kapil Sharma",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1797388,
+				"name": "Gaby Hull",
+				"job": "Original Story",
+				"department": "Writing"
+			},
+			{
+				"id": 2462867,
+				"name": "Abhijit Deshpande",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1823139,
+				"name": "Sameer Nair",
+				"job": "Producer",
+				"department": "Production"
+			}
+		]
+	}
+}

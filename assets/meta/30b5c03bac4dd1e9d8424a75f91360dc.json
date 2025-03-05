@@ -1,0 +1,346 @@
+{
+	"id": 974250,
+	"title": "Greedy People",
+	"fcg_title": "Greedy People",
+	"original_title": "Greedy People",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 9648,
+			"name": "Mystery"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		}
+	],
+	"overview": "The eclectic residents of a small, picturesque island town must navigate a sensational murder and the discovery of a million dollars, leading to a series of increasingly bad decisions which upend the once-peaceful community.",
+	"backdrop_path": "/5s2VqyV8AlFMZJrUIYKlzg7TNQN.jpg",
+	"poster_path": "/aIUZiciO0nMh8MrhmsTaMWZvEWK.jpg",
+	"release_date": "2024-08-23",
+	"credits": {
+		"cast": [
+			{
+				"id": 1227717,
+				"order": 0,
+				"name": "Himesh Patel",
+				"profile_path": "/qCjfMjUxiAHdVpIMI9YN5MUdn24.jpg",
+				"character": "Will",
+				"gender": 2
+			},
+			{
+				"id": 24045,
+				"order": 1,
+				"name": "Joseph Gordon-Levitt",
+				"profile_path": "/4U9G4YwTlIEbAymBaseltS38eH4.jpg",
+				"character": "Terry",
+				"gender": 2
+			},
+			{
+				"id": 1016168,
+				"order": 2,
+				"name": "Lily James",
+				"profile_path": "/7UN8GVsDzccK9UVYzMx3hooLyzZ.jpg",
+				"character": "Paige",
+				"gender": 1
+			},
+			{
+				"id": 1332680,
+				"order": 3,
+				"name": "Uzo Aduba",
+				"profile_path": "/fbx20O4wyOHNYONFbFv2usaT3yO.jpg",
+				"character": "Murphy",
+				"gender": 1
+			},
+			{
+				"id": 1462,
+				"order": 4,
+				"name": "Tim Blake Nelson",
+				"profile_path": "/rWuTGiAMaaHIJ30eRkQS23LbRSW.jpg",
+				"character": "Wallace",
+				"gender": 2
+			},
+			{
+				"id": 35548,
+				"order": 5,
+				"name": "Simon Rex",
+				"profile_path": "/hpFwRpxrJt7k4ccWEwc37xRZ8pT.jpg",
+				"character": "Keith",
+				"gender": 2
+			},
+			{
+				"id": 971329,
+				"order": 6,
+				"name": "Nina Arianda",
+				"profile_path": "/5vGdet2Gg7XPRgs0OvCrSwAk8QX.jpg",
+				"character": "Deborah",
+				"gender": 1
+			},
+			{
+				"id": 84407,
+				"order": 7,
+				"name": "Jim Gaffigan",
+				"profile_path": "/dhguhHxIrb26jvPznBt8y25Fb2U.jpg",
+				"character": "The Irishman",
+				"gender": 2
+			},
+			{
+				"id": 72128,
+				"order": 8,
+				"name": "José María Yázpik",
+				"profile_path": "/uqZE7oXEADJ1NTg7g7xRELw59Hy.jpg",
+				"character": "The Colombian",
+				"gender": 2
+			},
+			{
+				"id": 16484,
+				"order": 9,
+				"name": "Joey Lauren Adams",
+				"profile_path": "/A7p7Rrda5tmYQvlcCY5UXCpT5tq.jpg",
+				"character": "Bobette",
+				"gender": 1
+			},
+			{
+				"id": 1717236,
+				"order": 10,
+				"name": "Neva Howell",
+				"profile_path": "/vNbRhSaDtuQ5AMhWa3s3R2Mihgs.jpg",
+				"character": "Ms. Crawford",
+				"gender": 1
+			},
+			{
+				"id": 174093,
+				"order": 11,
+				"name": "Thunderbird Dinwiddie",
+				"profile_path": "/sliBigUSroHV2Y44I2x3QarHuwb.jpg",
+				"character": "Gail",
+				"gender": 1
+			},
+			{
+				"id": 4901637,
+				"order": 12,
+				"name": "Yingling Zhu",
+				"profile_path": "/1WG2H8xaIsC2AZaxlwaB5i71vRX.jpg",
+				"character": "Yu Yan",
+				"gender": 1
+			},
+			{
+				"id": 10826,
+				"order": 13,
+				"name": "Traci Lords",
+				"profile_path": "/ng21JbBsX8IEQi1QcGv1jFh72zY.jpg",
+				"character": "Virginia",
+				"gender": 1
+			},
+			{
+				"id": 168679,
+				"order": 14,
+				"name": "Michael Harding",
+				"profile_path": "/nC93hMQj4hp0BbKoSbAvF9vxM8o.jpg",
+				"character": "Caro"
+			},
+			{
+				"id": 3711598,
+				"order": 15,
+				"name": "Khetphet Phagnasay",
+				"profile_path": "/jrSbXrsRyP8MEwfno34kCXU8426.jpg",
+				"character": "Lin",
+				"gender": 2
+			},
+			{
+				"id": 3313755,
+				"order": 16,
+				"name": "Fracaswell Hyman",
+				"profile_path": "/jPC9bsOFzFwSGR8eHQ3DR0G3kvb.jpg",
+				"character": "Al",
+				"gender": 2
+			},
+			{
+				"id": 1288335,
+				"order": 17,
+				"name": "Kevin M. Brennan",
+				"profile_path": "/sa5YpRx93XJuF62Nw80EiQ1dVCU.jpg",
+				"character": "Officer Speight",
+				"gender": 2
+			},
+			{
+				"id": 2830698,
+				"order": 18,
+				"name": "Tamara Hopkins",
+				"profile_path": "/q1jduWAjYSgP9yIeJJQ5GobP8Yd.jpg",
+				"character": "Tilly",
+				"gender": 1
+			},
+			{
+				"id": 2711278,
+				"order": 19,
+				"name": "Travis Przybylski",
+				"profile_path": "/rjlcsfXpMBKgzU0bUst3jimUgZA.jpg",
+				"character": "Lloyd"
+			},
+			{
+				"id": 2087501,
+				"order": 20,
+				"name": "Kermit Rolison",
+				"profile_path": "/wm0vZ075tT54xikZoUnheJqLLbB.jpg",
+				"character": "Roger",
+				"gender": 2
+			},
+			{
+				"id": 3259484,
+				"order": 21,
+				"name": "Beth Corvino",
+				"profile_path": "/x2EGazpgboAlJSq2F1Gu6qqsu6E.jpg",
+				"character": "Waitress",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 1191094,
+				"name": "Potsy Ponciroli",
+				"profile_path": "/gTYJEZcoTzlFd212hswf3jQIOSk.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 65559,
+				"name": "Dylan Sellers",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1285823,
+				"name": "Zack Schiller",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2012916,
+				"name": "Brianna Quick",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 865656,
+				"name": "Eric Koretz",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 4235,
+				"name": "Jamie Kirkpatrick",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1614498,
+				"name": "Mike Vukadinovich",
+				"profile_path": "/3thgqyA9XmP3CsbqMVaMycuOjC2.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2761976,
+				"name": "Chris Parker",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1614498,
+				"name": "Mike Vukadinovich",
+				"profile_path": "/3thgqyA9XmP3CsbqMVaMycuOjC2.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1273859,
+				"name": "Sam Slater",
+				"profile_path": "/6FMfzy2MPJCANsi2SJUtIGl9XcN.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1118159,
+				"name": "David Boies III",
+				"profile_path": "/n7DQXug59uzTgl8sfUnaD1JhO0D.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1288335,
+				"name": "Kevin M. Brennan",
+				"profile_path": "/sa5YpRx93XJuF62Nw80EiQ1dVCU.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2057112,
+				"name": "Shannon Houchins",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2762070,
+				"name": "C.J. Barbato",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1463683,
+				"name": "Meredith Richardson",
+				"profile_path": "/hm8dfSZG6NL485GsYmcei6C9NCz.jpg",
+				"job": "Acting Double",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1191094,
+				"name": "Potsy Ponciroli",
+				"profile_path": "/gTYJEZcoTzlFd212hswf3jQIOSk.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1635001,
+				"name": "Tyler Zacharia",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1377042,
+				"name": "Rocky Abou-Sakher",
+				"profile_path": "/uMfM8wjNawyrHSfQ1gsNaUjj95.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3243151,
+				"name": "Phil Keefe",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3243147,
+				"name": "Dane Eckerle",
+				"job": "Executive Producer",
+				"department": "Production"
+			}
+		]
+	}
+}

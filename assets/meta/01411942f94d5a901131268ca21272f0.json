@@ -1,0 +1,449 @@
+{
+	"id": 811941,
+	"title": "Devara: Part 1",
+	"fcg_title": "Devara Part 1",
+	"original_title": "దేవర: Part 1",
+	"original_language": "te",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Devara, a fearless man from a coastal region, embarks on a perilous journey into the treacherous world of the sea to safeguard the lives of his people. Unbeknownst to him, his brother Bhaira is plotting a conspiracy against him. As events unfold, Devara passes on his legacy to his mild-mannered and timid son, Varada.",
+	"backdrop_path": "/hAQnXxOwCjgYcKRgTdYPRC8neqL.jpg",
+	"poster_path": "/ystWz0wW4vwgcWzmkhPXavms9jz.jpg",
+	"release_date": "2024-09-26",
+	"credits": {
+		"cast": [
+			{
+				"id": 148037,
+				"order": 0,
+				"name": "N.T. Rama Rao Jr.",
+				"profile_path": "/5fFpyv9CoSezaWSBneO5YoKb5tu.jpg",
+				"character": "Devara / Vara",
+				"gender": 2
+			},
+			{
+				"id": 35747,
+				"order": 1,
+				"name": "Saif Ali Khan",
+				"profile_path": "/kzOy1DoCeLoKJ07nbYnQDObU3yY.jpg",
+				"character": "Bhaira",
+				"gender": 2
+			},
+			{
+				"id": 89153,
+				"order": 2,
+				"name": "Prakash Raj",
+				"profile_path": "/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg",
+				"character": "Singappa",
+				"gender": 2
+			},
+			{
+				"id": 1003981,
+				"order": 3,
+				"name": "Srikanth",
+				"profile_path": "/o10UQ9zvh9cOAUENybde25yrueV.jpg",
+				"character": "Rayappa",
+				"gender": 2
+			},
+			{
+				"id": 1413865,
+				"order": 4,
+				"name": "Kalaiyarasan",
+				"profile_path": "/4xaAqc7EFfcJXIS23yVJb6vZhLt.jpg",
+				"character": "Kunjara",
+				"gender": 2
+			},
+			{
+				"id": 3012621,
+				"order": 5,
+				"name": "Shruti Marathe",
+				"profile_path": "/zv7Fs6VMzckhHlcF27x9Z3WpG7k.jpg",
+				"character": "Devara's Wife",
+				"gender": 1
+			},
+			{
+				"id": 1974970,
+				"order": 6,
+				"name": "Janhvi Kapoor",
+				"profile_path": "/rOluBJFuw1wlloBZz4T2kxuydru.jpg",
+				"character": "Thangam",
+				"gender": 1
+			},
+			{
+				"id": 1296632,
+				"order": 7,
+				"name": "Shine Tom Chacko",
+				"profile_path": "/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg",
+				"character": "Kora",
+				"gender": 2
+			},
+			{
+				"id": 586625,
+				"order": 8,
+				"name": "Ajay",
+				"profile_path": "/uByCHJa3eaCL0SgFGDYYLlsVggC.jpg",
+				"character": "Officer Shiva",
+				"gender": 2
+			},
+			{
+				"id": 94567,
+				"order": 9,
+				"name": "Zarina Wahab",
+				"profile_path": "/nY28L0JFjTlpIWdwt9qxO1p2HNn.jpg",
+				"character": "Devara's Mother",
+				"gender": 1
+			},
+			{
+				"id": 587752,
+				"order": 10,
+				"name": "Narain",
+				"profile_path": "/d0ApUGeFuGXpBkODIc6eLbBkb7B.jpg",
+				"character": "Irfan",
+				"gender": 2
+			},
+			{
+				"id": 85588,
+				"order": 11,
+				"name": "Murali Sharma",
+				"profile_path": "/8m4L7L9lK4Z2YK4Jg97pMbA0Le5.jpg",
+				"character": "Muruga",
+				"gender": 2
+			},
+			{
+				"id": 109743,
+				"order": 12,
+				"name": "Abhimanyu Singh",
+				"profile_path": "/ucGZIeHvG9SsW9B94InteMyOlpD.jpg",
+				"character": "DSP Tulasi",
+				"gender": 2
+			},
+			{
+				"id": 1256460,
+				"order": 13,
+				"name": "Rameshwari Talluri",
+				"profile_path": "/bY54tAbjEJQaLVFyTnUfaBoObZt.jpg",
+				"character": "Jogula",
+				"gender": 1
+			},
+			{
+				"id": 1544619,
+				"order": 14,
+				"name": "Sudev Nair",
+				"profile_path": "/6x111KVuthpPOGJYTvdXLmh3J3p.jpg",
+				"character": "Samara",
+				"gender": 2
+			},
+			{
+				"id": 3152506,
+				"order": 15,
+				"name": "Tarak Ponnappa",
+				"profile_path": "/aDIglGyZgmTbrLbva0vtgy96K3X.jpg",
+				"character": "Bhasara"
+			},
+			{
+				"id": 1137651,
+				"order": 16,
+				"name": "Sana",
+				"profile_path": "/pcCtKwE1GK9eNeFprC5BBqg87rN.jpg",
+				"character": "Kunjara's Wife",
+				"gender": 1
+			},
+			{
+				"id": 2120686,
+				"order": 17,
+				"name": "Getup Srinu",
+				"profile_path": "/xb2lJ213oU3DS6kMkDuqlf7EFeG.jpg",
+				"character": "Metta Seenu",
+				"gender": 2
+			},
+			{
+				"id": 1430792,
+				"order": 18,
+				"name": "Hari Teja",
+				"profile_path": "/1E3Lm7qECo78u18Wh2O82o6NOWF.jpg",
+				"character": "Thangam's Friend",
+				"gender": 1
+			},
+			{
+				"id": 3701570,
+				"order": 19,
+				"name": "Sonakshi Verma",
+				"profile_path": "/i6QWZIAWVkWXEMAIk84dDvmIWev.jpg",
+				"character": "Prostitute",
+				"gender": 1
+			},
+			{
+				"id": 5213526,
+				"order": 20,
+				"name": "Manasi Verma",
+				"character": "Uma"
+			},
+			{
+				"id": 5213529,
+				"order": 21,
+				"name": "Younus Howlader",
+				"profile_path": "/p5CLzaRMOOKXPjDu42jLAkMiIrm.jpg",
+				"character": "Younus"
+			},
+			{
+				"id": 5213534,
+				"order": 22,
+				"name": "Latha Reddy",
+				"character": "Chandrakala"
+			},
+			{
+				"id": 2025618,
+				"order": 23,
+				"name": "Kamal Krishna",
+				"character": "Devara Anucharudu"
+			},
+			{
+				"id": 2310871,
+				"order": 24,
+				"name": "Nihal Kodhaty",
+				"profile_path": "/dYZBXmL9qLiZ1K9bZrMC0WbbVZC.jpg",
+				"character": "Bhaira Gang Member",
+				"gender": 2
+			},
+			{
+				"id": 5213537,
+				"order": 25,
+				"name": "Rohan Surya Kanuma Reddy",
+				"character": "Vara Friend"
+			},
+			{
+				"id": 1350824,
+				"order": 26,
+				"name": "Himaja",
+				"profile_path": "/9aowz0YD4c2tWs0FC1VxF4RqbES.jpg",
+				"character": "Valli",
+				"gender": 1
+			},
+			{
+				"id": 1137651,
+				"order": 27,
+				"name": "Sana",
+				"profile_path": "/pcCtKwE1GK9eNeFprC5BBqg87rN.jpg",
+				"character": "Kunjara Wife",
+				"gender": 1
+			},
+			{
+				"id": 5213538,
+				"order": 28,
+				"name": "Princy George",
+				"character": "Padma"
+			},
+			{
+				"id": 5213539,
+				"order": 29,
+				"name": "Chaitra Roy",
+				"character": "Bhaira's Wife"
+			},
+			{
+				"id": 5213540,
+				"order": 30,
+				"name": "Nareshraj Narasimha",
+				"character": "Bhaira Gang Member"
+			}
+		],
+		"crew": [
+			{
+				"id": 1663251,
+				"name": "ANL Arasu",
+				"job": "Fight Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 504509,
+				"name": "R. Ratnavelu",
+				"profile_path": "/TqS0XM5iTbHwULFFB4OcpEbTdE.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 37242,
+				"name": "Sreekar Prasad",
+				"profile_path": "/cHpDtVlleMlplodhKmjPCGqaAFS.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1065421,
+				"name": "Kalyan Ram",
+				"profile_path": "/awI6PFXlXu59xHEYKONSr0v0SHZ.jpg",
+				"job": "Presenter",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3289006,
+				"name": "Kosaraju Harikrishna",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3556327,
+				"name": "Sudhakar Mikkilineni",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 961268,
+				"name": "Sabu Cyril",
+				"profile_path": "/4FzYjsNuVLPju10WDcVTlZf0EVn.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 237968,
+				"name": "Raju Sundaram",
+				"profile_path": "/zNnOzgKlosRdmO4bG8aDMAYEWWs.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1643581,
+				"name": "Kabilan Chellaiah",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1081464,
+				"name": "Anirudh Ravichander",
+				"profile_path": "/4RqfmPhND0cKe83kCohjCW06Q02.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1168111,
+				"name": "Koratala Siva",
+				"profile_path": "/uSvFpc0b6jbpFRrkAnXmVgKOzdA.jpg",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1168111,
+				"name": "Koratala Siva",
+				"profile_path": "/uSvFpc0b6jbpFRrkAnXmVgKOzdA.jpg",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 3904065,
+				"name": "Heisenberg",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 131836,
+				"name": "Apoorva Mehta",
+				"profile_path": "/1AJ9HUiwkA7zuIX57YNZ0yvw9sj.jpg",
+				"job": "Presenter",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 35736,
+				"name": "Karan Johar",
+				"profile_path": "/zip1x7OXOBxXxcdYvKOgw6MnAWm.jpg",
+				"job": "Presenter",
+				"department": "Crew",
+				"gender": 3
+			},
+			{
+				"id": 10118,
+				"name": "Kenny Bates",
+				"job": "Action Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2173939,
+				"name": "Yugandhar Tammareddy",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1394766,
+				"name": "Brad Minnich",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 587735,
+				"name": "Peter Hein",
+				"profile_path": "/881LTUkVppdwtFaBDLgd70SEEBe.jpg",
+				"job": "Fight Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 10118,
+				"name": "Kenny Bates",
+				"job": "Fight Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1556333,
+				"name": "Bosco Martis",
+				"profile_path": "/yjh5SIwXLh8j4dQgPoE67fIQ8NA.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1660778,
+				"name": "V J Shekar",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2162375,
+				"name": "King Solomon",
+				"job": "Fight Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 2035076,
+				"name": "Ramajogayya Sastry",
+				"profile_path": "/y9sxtSdukV0GS4JyJQMq67BnHDr.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 959445,
+				"name": "Ganesh Acharya",
+				"profile_path": "/xmonkmVHlfmyz7pR0LuGgFvyvNj.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1065421,
+				"name": "Kalyan Ram",
+				"profile_path": "/awI6PFXlXu59xHEYKONSr0v0SHZ.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			}
+		]
+	}
+}

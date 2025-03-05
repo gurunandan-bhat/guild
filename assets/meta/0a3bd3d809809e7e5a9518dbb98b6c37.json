@@ -1,0 +1,528 @@
+{
+	"id": 811944,
+	"title": "Game Changer",
+	"fcg_title": "Game Changer",
+	"original_title": "గేమ్‌ ఛేంజర్‌",
+	"original_language": "te",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Ram, a newly appointed district collector, takes charge in a city in Andhra Pradesh and immediately confronts the deeply entrenched corruption and inefficiency plaguing the government. Determined to bring reforms, he initiates sweeping changes, sparking a fierce conflict with a powerful state Minister.",
+	"backdrop_path": "/aBw406SvghTKV6CTK9t84Bo9Xik.jpg",
+	"poster_path": "/qtOGsZoLW7QceqKmsOy5nSM6Aik.jpg",
+	"release_date": "2025-01-09",
+	"credits": {
+		"cast": [
+			{
+				"id": 147023,
+				"order": 0,
+				"name": "Ram Charan",
+				"profile_path": "/twGqYUCR0Yh33j3TcgRTZRBRhTd.jpg",
+				"character": "H. Ram Nandan / Appanna",
+				"gender": 2
+			},
+			{
+				"id": 123068,
+				"order": 1,
+				"name": "Anjali",
+				"profile_path": "/aTLJCkl6mBXnb5ekKQytd7zTfne.jpg",
+				"character": "Parvathy",
+				"gender": 1
+			},
+			{
+				"id": 1340978,
+				"order": 2,
+				"name": "Kiara Advani",
+				"profile_path": "/7lgVrovUEiKdNckEUKwJNbJnabM.jpg",
+				"character": "Deepika Nandan",
+				"gender": 1
+			},
+			{
+				"id": 292250,
+				"order": 3,
+				"name": "S. J. Suryah",
+				"profile_path": "/7Q8510XwxPU1193cteaFQsiq2rv.jpg",
+				"character": "Bobbili Mopidevi",
+				"gender": 2
+			},
+			{
+				"id": 1003981,
+				"order": 4,
+				"name": "Srikanth",
+				"profile_path": "/o10UQ9zvh9cOAUENybde25yrueV.jpg",
+				"character": "Bobbili Sathyamurthy",
+				"gender": 2
+			},
+			{
+				"id": 141704,
+				"order": 5,
+				"name": "Jayaram",
+				"profile_path": "/cc1SfVFctuYH353NgxXNBoAFX2d.jpg",
+				"character": "Bobbili Magadheera Munimanikyam",
+				"gender": 2
+			},
+			{
+				"id": 585397,
+				"order": 6,
+				"name": "Samuthirakani",
+				"profile_path": "/hicCPOdDfSRCEYkeb9g53FOY19A.jpg",
+				"character": "Savi",
+				"gender": 2
+			},
+			{
+				"id": 213428,
+				"order": 7,
+				"name": "Sunil Varma",
+				"profile_path": "/2ueRNLlbB8jaivO6yb7zfIlFhh7.jpg",
+				"character": "\"Side\" Sathyam",
+				"gender": 2
+			},
+			{
+				"id": 1135117,
+				"order": 8,
+				"name": "Naveen Chandra",
+				"profile_path": "/6iEhNOOqRTOQ0JFSiv6agtqvwx9.jpg",
+				"character": "\"Sand\" Simha",
+				"gender": 2
+			},
+			{
+				"id": 559738,
+				"order": 9,
+				"name": "Rajiv Kanakala",
+				"profile_path": "/29Czs1esSU744TOe3ddDzCuCa0g.jpg",
+				"character": "Mukunda",
+				"gender": 2
+			},
+			{
+				"id": 544980,
+				"order": 10,
+				"name": "Subhalekha Sudhakar",
+				"profile_path": "/euDijVOTT0dbI3mWBOvU4q4RCk1.jpg",
+				"character": "Party Member",
+				"gender": 2
+			},
+			{
+				"id": 1429160,
+				"order": 11,
+				"name": "Prudhviraj",
+				"profile_path": "/fF5zEdi65qeyClLhjIuCmT5LdFb.jpg",
+				"character": "Mopidevi's P.A",
+				"gender": 2
+			},
+			{
+				"id": 591153,
+				"order": 12,
+				"name": "Raghu Babu",
+				"profile_path": "/9aE6s9wqHgRcBY7wiUfkEZMgJNK.jpg",
+				"character": "Magadheera's P.A.",
+				"gender": 2
+			},
+			{
+				"id": 1422554,
+				"order": 13,
+				"name": "Banerjee",
+				"profile_path": "/czUUqcEgBmDBNMx0zwIIy2HSZsp.jpg",
+				"character": "Mallikarjuna Rao",
+				"gender": 2
+			},
+			{
+				"id": 113810,
+				"order": 14,
+				"name": "Brahmanandam",
+				"profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
+				"character": "Kalyana Sundaram",
+				"gender": 2
+			},
+			{
+				"id": 736815,
+				"order": 15,
+				"name": "Naresh",
+				"profile_path": "/yT9Sgp7y8h3xhlmgzafUwlIXy1H.jpg",
+				"character": "Ram's Father",
+				"gender": 2
+			},
+			{
+				"id": 1663747,
+				"order": 16,
+				"name": "Viswant Duddumpudi",
+				"character": "Ram's Brother",
+				"gender": 2
+			},
+			{
+				"id": 4138231,
+				"order": 17,
+				"name": "Ananya Sharma",
+				"profile_path": "/ziqEhqASehmBRGx06naeXrqXxC7.jpg",
+				"character": "Ram's adoptive sister"
+			},
+			{
+				"id": 1638503,
+				"order": 18,
+				"name": "Satya",
+				"profile_path": "/fWHqfjiqnORU6R2fqwiJnowujdP.jpg",
+				"character": "Ram's Friend",
+				"gender": 2
+			},
+			{
+				"id": 588013,
+				"order": 19,
+				"name": "Chaitanya Krishna",
+				"profile_path": "/gGzQ1fzidW97X3GrpcG3OspcLSz.jpg",
+				"character": "Ram's Friend",
+				"gender": 2
+			},
+			{
+				"id": 1638514,
+				"order": 20,
+				"name": "Harsha Chemudu",
+				"profile_path": "/8a6xkccZCdXDP9f5JN5wLaUU9wp.jpg",
+				"character": "Ram's Friend",
+				"gender": 2
+			},
+			{
+				"id": 1543712,
+				"order": 21,
+				"name": "Nellore Sudharshan",
+				"profile_path": "/8kpem5ZHfy90DYyYE9QamqrE6eb.jpg",
+				"character": "Ram's Friend",
+				"gender": 2
+			},
+			{
+				"id": 1611383,
+				"order": 22,
+				"name": "Venkatesh Kakumanu",
+				"character": "Ram's Friend",
+				"gender": 2
+			},
+			{
+				"id": 1751708,
+				"order": 23,
+				"name": "Priyadarshi Pullikonda",
+				"profile_path": "/tVsqnESLdGJSua54qZ47wtoLjCI.jpg",
+				"character": "Ram's Friend",
+				"gender": 2
+			},
+			{
+				"id": 2049739,
+				"order": 24,
+				"name": "Racha Ravi",
+				"profile_path": "/fA6mnllOYcjKNiEYnlmkc0syenN.jpg",
+				"character": "Simha's Assistant",
+				"gender": 2
+			},
+			{
+				"id": 3231880,
+				"order": 25,
+				"name": "Kishore Kumar Polimera",
+				"profile_path": "/ssgRFyOYAWBQSOohxvNoAEInxOs.jpg",
+				"character": "Appanna's  Friend",
+				"gender": 2
+			},
+			{
+				"id": 1333834,
+				"order": 26,
+				"name": "Achyuth Kumar",
+				"profile_path": "/zO1MoCgaz0RxILjga8VYXguROMp.jpg",
+				"character": "K.P.",
+				"gender": 2
+			},
+			{
+				"id": 146147,
+				"order": 27,
+				"name": "Vennela Kishore",
+				"profile_path": "/8a0mcxMPjD4KR15gyE5QmbDeTub.jpg",
+				"character": "Pervert",
+				"gender": 2
+			},
+			{
+				"id": 2696353,
+				"order": 28,
+				"name": "Srikanth Iyengar",
+				"profile_path": "/aWerpaujBKMU8r4qsgnQp9RoTtd.jpg",
+				"character": "K.P. (Another)",
+				"gender": 2
+			},
+			{
+				"id": 1289211,
+				"order": 29,
+				"name": "Ajay Ghosh",
+				"profile_path": "/bvexSjSRhZM8ke753Sq1oZf5pxY.jpg",
+				"character": "\"Biyyam\" Bhimarao",
+				"gender": 2
+			},
+			{
+				"id": 237250,
+				"order": 30,
+				"name": "Krishnudu",
+				"profile_path": "/5URYNqc6qeQ8sWLJfgl8vNUX4rf.jpg",
+				"character": "\"Mall\" Malleswararao",
+				"gender": 2
+			},
+			{
+				"id": 1648895,
+				"order": 31,
+				"name": "Raghu Karumanchi",
+				"profile_path": "/qtD3WtfbRC0hXtIWjWuEtrDDV22.jpg",
+				"character": "Corrupted Official",
+				"gender": 2
+			},
+			{
+				"id": 2191729,
+				"order": 32,
+				"name": "Rocket Raghava",
+				"profile_path": "/bMaXnip45ftfWITveT1aeNr1OjE.jpg",
+				"character": "Magadheera's Assistant",
+				"gender": 2
+			},
+			{
+				"id": 1430837,
+				"order": 33,
+				"name": "Gundu Sudarshan",
+				"profile_path": "/cuOnqGLUlO3A3bkhilC8B2xTqkC.jpg",
+				"character": "Yoga Teacher"
+			},
+			{
+				"id": 2034304,
+				"order": 34,
+				"name": "Yashika Anand",
+				"profile_path": "/v87gVYiHc0vXJ50aNGIakGJvrHz.jpg",
+				"character": "Crosswalk Girl",
+				"gender": 1
+			},
+			{
+				"id": 91552,
+				"order": 35,
+				"name": "Shankar",
+				"profile_path": "/p9fL8NqPX6m5u9cFDo8suAlunaR.jpg",
+				"character": "Special Appearance in “Raa Macha Macha”",
+				"gender": 2
+			},
+			{
+				"id": 959445,
+				"order": 36,
+				"name": "Ganesh Acharya",
+				"profile_path": "/xmonkmVHlfmyz7pR0LuGgFvyvNj.jpg",
+				"character": "Special Appearance in “Raa Macha Macha”",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 91552,
+				"name": "Shankar",
+				"profile_path": "/p9fL8NqPX6m5u9cFDo8suAlunaR.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 230013,
+				"name": "Dil Raju",
+				"profile_path": "/rKATd51tomVLWw7EjjNgM7uAQCW.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1765041,
+				"name": "Shirish",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 585344,
+				"name": "S. Thaman",
+				"profile_path": "/y2VYUPTSWr580Fx8hxUNcUTViUa.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 419797,
+				"name": "S. Thirunavukkarasu",
+				"profile_path": "/97vccC8q16roAQvWWcZDyXdJoW0.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1574268,
+				"name": "Sai Madhav Burra",
+				"profile_path": "/fcfz3yN5fqZqS96gGSgKm3Gq7hm.jpg",
+				"job": "Dialogue",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1765042,
+				"name": "Harshith Reddy",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2035076,
+				"name": "Ramajogayya Sastry",
+				"profile_path": "/y9sxtSdukV0GS4JyJQMq67BnHDr.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1652253,
+				"name": "Anantha Sriram",
+				"profile_path": "/sAa5frxlT5gv7YtXGdPY9edh0mW.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1858210,
+				"name": "Shameer Muhammed",
+				"profile_path": "/7dN5MFUDP0tiZXXLkTlJw5gutGD.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 89154,
+				"name": "Prabhu Deva",
+				"profile_path": "/lfVxoyweEPkIu6zFa44ajPuSJA1.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 959445,
+				"name": "Ganesh Acharya",
+				"profile_path": "/xmonkmVHlfmyz7pR0LuGgFvyvNj.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1684194,
+				"name": "Prem Rakshith",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1556333,
+				"name": "Bosco Martis",
+				"profile_path": "/yjh5SIwXLh8j4dQgPoE67fIQ8NA.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1756347,
+				"name": "Jani Master",
+				"job": "Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 2112010,
+				"name": "Sandy",
+				"profile_path": "/hyZHicpeea7dtOBUo7nuCEYXsS2.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1203140,
+				"name": "T. Udayakumar",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1123763,
+				"name": "Karthik Subbaraj",
+				"profile_path": "/htgisnF8RSLL6kbwaYlSjyIhVsU.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2035066,
+				"name": "Kolla Avinash",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 2990233,
+				"name": "Anbumani",
+				"job": "Fight Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2990234,
+				"name": "Arivumani",
+				"job": "Fight Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1998588,
+				"name": "Kasarla Shyam",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 3321489,
+				"name": "S. K. Zabeer",
+				"job": "Line Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1606118,
+				"name": "V. Srinivas Mohan",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 3777476,
+				"name": "Marching Ants",
+				"job": "Publicist",
+				"department": "Production"
+			},
+			{
+				"id": 2102992,
+				"name": "Vivek",
+				"profile_path": "/24f6DLah5ek1nMZzDRdgCpNSYVo.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1209905,
+				"name": "Antony L. Ruben",
+				"profile_path": "/wiGD0WjOhkzqoeSaPxdgni15D5V.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 91552,
+				"name": "Shankar",
+				"profile_path": "/p9fL8NqPX6m5u9cFDo8suAlunaR.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			}
+		]
+	}
+}

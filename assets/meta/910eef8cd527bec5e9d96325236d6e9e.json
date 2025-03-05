@@ -1,0 +1,438 @@
+{
+	"id": 1084199,
+	"title": "Companion",
+	"fcg_title": "Companion",
+	"original_title": "Companion",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 27,
+			"name": "Horror"
+		},
+		{
+			"id": 878,
+			"name": "Science Fiction"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.",
+	"backdrop_path": "/sc1abgWNXc29wSBaerrjGBih06l.jpg",
+	"poster_path": "/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
+	"release_date": "2025-01-22",
+	"credits": {
+		"cast": [
+			{
+				"id": 1981044,
+				"order": 0,
+				"name": "Sophie Thatcher",
+				"profile_path": "/rUEPZaDxFdDGM76t4g6cYa8Ru7b.jpg",
+				"character": "Iris",
+				"gender": 1
+			},
+			{
+				"id": 1030513,
+				"order": 1,
+				"name": "Jack Quaid",
+				"profile_path": "/320qW5yEbxpmyxQ3evmClJbtKag.jpg",
+				"character": "Josh",
+				"gender": 2
+			},
+			{
+				"id": 1371509,
+				"order": 2,
+				"name": "Lukas Gage",
+				"profile_path": "/sftjB0MjD92meZqnL9OLtcTI02d.jpg",
+				"character": "Patrick",
+				"gender": 2
+			},
+			{
+				"id": 2073513,
+				"order": 3,
+				"name": "Megan Suri",
+				"profile_path": "/zUfiITKJh789PBSdF7B3HUBpJ8g.jpg",
+				"character": "Kat",
+				"gender": 1
+			},
+			{
+				"id": 210172,
+				"order": 4,
+				"name": "Harvey Guillén",
+				"profile_path": "/yiNBonobPwqMVweB02JWufzp2l9.jpg",
+				"character": "Eli",
+				"gender": 2
+			},
+			{
+				"id": 36669,
+				"order": 5,
+				"name": "Rupert Friend",
+				"profile_path": "/mYgY8LrMkQ4OkGTIOf6MtkbMnnW.jpg",
+				"character": "Sergey",
+				"gender": 2
+			},
+			{
+				"id": 1998733,
+				"order": 6,
+				"name": "Jaboukie Young-White",
+				"profile_path": "/8OYI8OqsMUpBZica4lM2odjgVH6.jpg",
+				"character": "Teddy",
+				"gender": 2
+			},
+			{
+				"id": 1152011,
+				"order": 7,
+				"name": "Matthew J. McCarthy",
+				"profile_path": "/eHKjDZPdHTz5lV1UySfMdRqMrH6.jpg",
+				"character": "Sid",
+				"gender": 2
+			},
+			{
+				"id": 212776,
+				"order": 8,
+				"name": "Marc Menchaca",
+				"profile_path": "/fL0LmdBwau30M4AFPVJrpLRXXsU.jpg",
+				"character": "Deputy Hendrix",
+				"gender": 2
+			},
+			{
+				"id": 3303063,
+				"order": 9,
+				"name": "Woody Fu",
+				"profile_path": "/305m52CIr9Jtb1whdc5i1Lx2iEd.jpg",
+				"character": "Mateo"
+			},
+			{
+				"id": 1561797,
+				"order": 10,
+				"name": "Ashley Lambert",
+				"profile_path": "/ucsdNz1pdVWwRFwf4dtjfaXE8nR.jpg",
+				"character": "Josh's Car (voice)",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 21036,
+				"name": "Roy Lee",
+				"profile_path": "/fMY0MiVyrGaK44ejqWzT2txcRVI.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 84833,
+				"name": "Zach Cregger",
+				"profile_path": "/aUogFaUip4SAf8FOlqsQCCkX9jq.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1276440,
+				"name": "Raphael Margules",
+				"profile_path": "/3Dqpx0s7zOZ086aTzlLMmb1AdJT.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2433507,
+				"name": "Tracy Rosenblum",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1087245,
+				"name": "Drew Hancock",
+				"profile_path": "/zJFrGcCFfuefiQyW3SHRXIib6LV.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1087245,
+				"name": "Drew Hancock",
+				"profile_path": "/zJFrGcCFfuefiQyW3SHRXIib6LV.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 3034045,
+				"name": "Andrew Childs",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1276439,
+				"name": "J.D. Lifshitz",
+				"profile_path": "/wsKG7zRaVG17DT22QQag0Fzz4HN.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1168710,
+				"name": "Brett W. Bachman",
+				"profile_path": "/durN80P9MqHQPNXtpwoVJK2T2Ty.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1194701,
+				"name": "Josh Ethier",
+				"profile_path": "/8DROpoQtncbjneiMdvse47uoK8l.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1447961,
+				"name": "Eli Born",
+				"profile_path": "/MqVp7aQ8p63nMiJZUEf37BB1sK.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1661480,
+				"name": "Jamie Buckner",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1394660,
+				"name": "Scott Kuzio",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1578007,
+				"name": "Vanessa Porter",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1191975,
+				"name": "Hrishikesh Hirway",
+				"profile_path": "/svV0Ft7opK6ZTQccQfzWjxUCWqu.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2029985,
+				"name": "Rob Lowry",
+				"job": "Music Supervisor",
+				"department": "Sound"
+			},
+			{
+				"id": 13585,
+				"name": "Nancy Nayor",
+				"profile_path": "/fX7ZL0N4tZFX60binvu3opuqhdf.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2240794,
+				"name": "Josh Mack",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3228811,
+				"name": "Adam Ridley",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1365425,
+				"name": "Ryan Ridley",
+				"profile_path": "/mSFssRpQl6ax2QrYTxBBfluVgy2.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3462219,
+				"name": "Paulina Sussman",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1476243,
+				"name": "Naomi Munro",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1869437,
+				"name": "Kendall Anderson",
+				"job": "Set Decoration",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 2588283,
+				"name": "Joshua First",
+				"job": "Hair Department Head",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1853812,
+				"name": "Sasha Grossman",
+				"job": "Makeup Department Head",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3281566,
+				"name": "Betty Austin",
+				"job": "Script Supervisor",
+				"department": "Directing"
+			},
+			{
+				"id": 3843827,
+				"name": "Jasmine Gutierrez",
+				"job": "Casting Associate",
+				"department": "Production"
+			},
+			{
+				"id": 204339,
+				"name": "Christopher Place",
+				"profile_path": "/bbz8BujwBXQfEDu68ZxXpj35HoH.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 4527747,
+				"name": "Hailei Call",
+				"job": "Key Hair Stylist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1576849,
+				"name": "Dan Kenyon",
+				"profile_path": "/vPdBYJQ3IIGdvvM6pAQgonJ9DEU.jpg",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1576849,
+				"name": "Dan Kenyon",
+				"profile_path": "/vPdBYJQ3IIGdvvM6pAQgonJ9DEU.jpg",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 1576849,
+				"name": "Dan Kenyon",
+				"profile_path": "/vPdBYJQ3IIGdvvM6pAQgonJ9DEU.jpg",
+				"job": "Supervising Sound Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 2056245,
+				"name": "Ashley Pynn",
+				"profile_path": "/yrJMsZzvbgyr25Cl7fu5nNBKBF2.jpg",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1657908,
+				"name": "Stephen Izzi",
+				"profile_path": "/1hvngpGRjbUzavThfRxBzAouJWI.jpg",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2722089,
+				"name": "Lenny Cruz",
+				"job": "Stunt Double",
+				"department": "Crew"
+			},
+			{
+				"id": 1664723,
+				"name": "Anthony Hoang",
+				"profile_path": "/b92rOITC9O8Avl2T29BWDWRihE3.jpg",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1456749,
+				"name": "Greg Harvey",
+				"job": "Utility Stunts",
+				"department": "Crew"
+			},
+			{
+				"id": 1953257,
+				"name": "Matthew Atwood",
+				"job": "Gaffer",
+				"department": "Lighting",
+				"gender": 2
+			},
+			{
+				"id": 5175966,
+				"name": "Paulina Jaśkiewicz",
+				"profile_path": "/mTdskyQ17x6YrFEBJN8dt7wjswQ.jpg",
+				"job": "Key Production Assistant",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 3574606,
+				"name": "Claire Typaldos",
+				"job": "Title Designer",
+				"department": "Art"
+			},
+			{
+				"id": 1815555,
+				"name": "Brian Tarlecki",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 4445624,
+				"name": "Anthony Tittanegro",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4445623,
+				"name": "Andrew Lary",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4445622,
+				"name": "Pete Chiappetta",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 57430,
+				"name": "Richard Brener",
+				"profile_path": "/i1nFbAKpbtjxBr2vkY5WeYRs250.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			}
+		]
+	}
+}

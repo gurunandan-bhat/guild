@@ -1,0 +1,317 @@
+{
+	"id": 1232449,
+	"title": "Young Hearts",
+	"fcg_title": "Young Hearts",
+	"original_title": "Young Hearts",
+	"original_language": "nl",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 10749,
+			"name": "Romance"
+		}
+	],
+	"overview": "14-year-old Elias increasingly feels like an outsider in his village. When he meets his new neighbour of the same age, Alexander, Elias is confronted with his burgeoning sexuality.",
+	"backdrop_path": "/A7KwHKB5faRRRRveVQC5TPI35kV.jpg",
+	"poster_path": "/iGCtYxfuvXfy0BD5m6p7vKuPOxS.jpg",
+	"release_date": "2024-10-26",
+	"credits": {
+		"cast": [
+			{
+				"id": 3724154,
+				"order": 0,
+				"name": "Lou Goossens",
+				"profile_path": "/kY8eifhCPvjTE6JJclrrWO7Zr9L.jpg",
+				"character": "Elias",
+				"gender": 2
+			},
+			{
+				"id": 4504024,
+				"order": 1,
+				"name": "Marius De Saeger",
+				"profile_path": "/6BR6QggAi62rw5ZdDc7ct7Ww8It.jpg",
+				"character": "Alexander",
+				"gender": 2
+			},
+			{
+				"id": 220295,
+				"order": 2,
+				"name": "Geert Van Rampelberg",
+				"profile_path": "/jECzjJvrJdBrh6xf3aRpTOu3Qxi.jpg",
+				"character": "Luk",
+				"gender": 2
+			},
+			{
+				"id": 2900070,
+				"order": 3,
+				"name": "Emilie De Roo",
+				"profile_path": "/pWKlB1HMLgIGA0sIOx8XSLqYhwK.jpg",
+				"character": "Nathalie",
+				"gender": 1
+			},
+			{
+				"id": 1127485,
+				"order": 4,
+				"name": "Dirk van Dijck",
+				"profile_path": "/AhvtRHc6faulpEznoK8PsF8Kap6.jpg",
+				"character": "Fred",
+				"gender": 2
+			},
+			{
+				"id": 4103230,
+				"order": 5,
+				"name": "Jul Goossens",
+				"profile_path": "/ouM6MdO3gc9vTgnI5Hrwf3uE5En.jpg",
+				"character": "Maxime",
+				"gender": 2
+			},
+			{
+				"id": 5097348,
+				"order": 6,
+				"name": "Ezra van Dongen",
+				"character": "Line"
+			},
+			{
+				"id": 4969839,
+				"order": 7,
+				"name": "Olivier Englebert",
+				"character": "Marc"
+			},
+			{
+				"id": 5097326,
+				"order": 8,
+				"name": "Olga De Saeger",
+				"character": "Ella"
+			},
+			{
+				"id": 222922,
+				"order": 9,
+				"name": "Wim Opbrouck",
+				"profile_path": "/vXbbkDJOgmQKpRnJ7CKwMXl4EWv.jpg",
+				"character": "Tony",
+				"gender": 2
+			},
+			{
+				"id": 1180480,
+				"order": 10,
+				"name": "Florence Hebbelynck",
+				"profile_path": "/v0hUGlTwIckMbdsTRmGbB1FY1K5.jpg",
+				"character": "Pia",
+				"gender": 1
+			},
+			{
+				"id": 5097329,
+				"order": 11,
+				"name": "La Diva",
+				"character": "Lady Lana"
+			},
+			{
+				"id": 3840420,
+				"order": 12,
+				"name": "Saar Rogiers",
+				"profile_path": "/sXx8bo8R0OVJhMalS5FwQcJbsYi.jpg",
+				"character": "Valerie",
+				"gender": 1
+			},
+			{
+				"id": 5097330,
+				"order": 13,
+				"name": "Jill Malfroot",
+				"character": "Lukas"
+			},
+			{
+				"id": 5094759,
+				"order": 14,
+				"name": "Cassie Alcendor",
+				"character": "Lize"
+			},
+			{
+				"id": 3692071,
+				"order": 15,
+				"name": "Samba Thiam",
+				"profile_path": "/8gfpM6MGyAQ2RkjXxn7Rq7xws5v.jpg",
+				"character": "Matteo",
+				"gender": 2
+			},
+			{
+				"id": 5097334,
+				"order": 16,
+				"name": "Sam Michiels",
+				"character": "Mieke"
+			},
+			{
+				"id": 5097335,
+				"order": 17,
+				"name": "Marie Gevaert",
+				"character": "Lore"
+			},
+			{
+				"id": 2337575,
+				"order": 18,
+				"name": "Bert Dobbelaere",
+				"character": "Mr. Van Daele"
+			},
+			{
+				"id": 5097339,
+				"order": 19,
+				"name": "Stephen Harrisson",
+				"character": "PE Teacher"
+			},
+			{
+				"id": 76297,
+				"order": 20,
+				"name": "Tristan Versteven",
+				"profile_path": "/rxpOhO4N31ZbvLfbfTFmWmkVxMw.jpg",
+				"character": "Andre",
+				"gender": 2
+			},
+			{
+				"id": 1793564,
+				"order": 21,
+				"name": "Johann Hallet",
+				"profile_path": "/kdvlnoLsWrArRiWROPI0BpYJyiB.jpg",
+				"character": "Photographer",
+				"gender": 2
+			},
+			{
+				"id": 58418,
+				"order": 22,
+				"name": "Michèle Caucheteux",
+				"character": "Hotel Manager",
+				"gender": 1
+			},
+			{
+				"id": 5097341,
+				"order": 23,
+				"name": "Tom Beyaert",
+				"character": "Groomsman"
+			},
+			{
+				"id": 5140085,
+				"order": 24,
+				"name": "Ester DeKoning",
+				"character": "Band Luk Montero"
+			},
+			{
+				"id": 5140087,
+				"order": 25,
+				"name": "Hadassa DeKoning",
+				"character": "Band Luk Montero"
+			},
+			{
+				"id": 5140088,
+				"order": 26,
+				"name": "Frank Bracquené",
+				"character": "Band Luk Montero"
+			},
+			{
+				"id": 5097342,
+				"order": 27,
+				"name": "Staf de Neve",
+				"character": "Bully"
+			},
+			{
+				"id": 5097343,
+				"order": 28,
+				"name": "Briek Goorman",
+				"character": "Bully"
+			},
+			{
+				"id": 3561836,
+				"order": 29,
+				"name": "Olivier Debaere",
+				"profile_path": "/1UVK7IxaTzQ97bPZK89YVhXnUdh.jpg",
+				"character": "Bully",
+				"gender": 2
+			},
+			{
+				"id": 5097344,
+				"order": 30,
+				"name": "Denise Bogers",
+				"character": "Bully"
+			}
+		],
+		"crew": [
+			{
+				"id": 1274776,
+				"name": "Anthony Schatteman",
+				"profile_path": "/93dfeAYBgPInhCZszkCBsd4UDPi.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1274776,
+				"name": "Anthony Schatteman",
+				"profile_path": "/93dfeAYBgPInhCZszkCBsd4UDPi.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1567375,
+				"name": "Xavier Rombaut",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2563905,
+				"name": "Pieter Van Campe",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 3994744,
+				"name": "Kato Bulteel",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 2544204,
+				"name": "Gudrun Wylleman",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1905685,
+				"name": "Jacqueline Hoogendijk",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3841598,
+				"name": "Chinouk Meurer",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2815983,
+				"name": "Emiel Nuninga",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 2322273,
+				"name": "Ruben De Gheselle",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 984388,
+				"name": "Floor Onrust",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2477272,
+				"name": "Annabella Nezri",
+				"job": "Co-Producer",
+				"department": "Production"
+			}
+		]
+	}
+}

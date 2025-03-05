@@ -1,0 +1,365 @@
+{
+	"id": 927342,
+	"title": "Amaran",
+	"fcg_title": "Amaran",
+	"original_title": "அமரன்",
+	"original_language": "ta",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 12,
+			"name": "Adventure"
+		},
+		{
+			"id": 10752,
+			"name": "War"
+		}
+	],
+	"overview": "A heroic true story of Major Mukund Varadarajan, an Indian Army officer who displayed extraordinary bravery during a counterterrorism mission in Kashmir’s Shopian district. The film captures his courage in protecting his nation and the devotion of his wife Indhu Rebecaa Varghese.",
+	"backdrop_path": "/7cNE2qydew1c8fqnlhWjkE3DHc2.jpg",
+	"poster_path": "/nv5DrlFpIYIPYhwvP2wg8VjdPwl.jpg",
+	"release_date": "2024-10-31",
+	"credits": {
+		"cast": [
+			{
+				"id": 587982,
+				"order": 0,
+				"name": "Sivakarthikeyan",
+				"profile_path": "/9CWvjeawj9rYRFasyrNjVsqhR48.jpg",
+				"character": "Major Mukund Varadarajan",
+				"gender": 2
+			},
+			{
+				"id": 1473119,
+				"order": 1,
+				"name": "Sai Pallavi",
+				"profile_path": "/vn28J0CYDNrsXSiA7XiCTNTV1m.jpg",
+				"character": "Indhu Rebecca Varghese",
+				"gender": 1
+			},
+			{
+				"id": 86212,
+				"order": 2,
+				"name": "Rahul Bose",
+				"profile_path": "/6T0xhsganOB8SI48HCGd99XKj9l.jpg",
+				"character": "Colonel Amit Singh Dabas",
+				"gender": 2
+			},
+			{
+				"id": 1295875,
+				"order": 3,
+				"name": "Bhuvan Arora",
+				"profile_path": "/AtEfX9ta8LZTWh7yZ4dVc2wpIRO.jpg",
+				"character": "Vikram Singh"
+			},
+			{
+				"id": 1353425,
+				"order": 4,
+				"name": "Lallu Prasath",
+				"profile_path": "/f6TVtddrbG1Qk1brFASrpPehpQh.jpg",
+				"character": "Ravi Shankar",
+				"gender": 2
+			},
+			{
+				"id": 3398014,
+				"order": 5,
+				"name": "Shyam Mohan",
+				"profile_path": "/wqUndf8mfVUxKtus68hrh7dlBhX.jpg",
+				"character": "Indhu's brother",
+				"gender": 2
+			},
+			{
+				"id": 4486281,
+				"order": 6,
+				"name": "Mir Salman",
+				"character": "Saifudeen K",
+				"gender": 2
+			},
+			{
+				"id": 931521,
+				"order": 7,
+				"name": "Shyamaprasad",
+				"profile_path": "/7XmS8tF5OGt7y9YdpyySIWBECkH.jpg",
+				"character": "R. Varadarajan",
+				"gender": 2
+			},
+			{
+				"id": 3188093,
+				"order": 8,
+				"name": "Geetha Kailasam",
+				"profile_path": "/8hOXtSmjgIVEq2LhSJAxNirTN95.jpg",
+				"character": "Geetha Varadarajan",
+				"gender": 1
+			},
+			{
+				"id": 2330873,
+				"order": 9,
+				"name": "Gaurav Venkatesh",
+				"character": "Sepoy Venkanna"
+			},
+			{
+				"id": 2660840,
+				"order": 10,
+				"name": "Shreekumar",
+				"profile_path": "/rgpQi9g4h4EzQQv7fXKhnEGWLq5.jpg",
+				"character": "Michael"
+			},
+			{
+				"id": 5027119,
+				"order": 11,
+				"name": "Umair Lateef",
+				"character": "Waheed"
+			},
+			{
+				"id": 5038169,
+				"order": 12,
+				"name": "Abhinav Raj",
+				"profile_path": "/hi1jEjmyaHLFURS950wWG83iUjx.jpg",
+				"character": "Major Srinath",
+				"gender": 2
+			},
+			{
+				"id": 3790096,
+				"order": 13,
+				"name": "Vaibhav Murugesan",
+				"character": "Vinod"
+			},
+			{
+				"id": 5176125,
+				"order": 14,
+				"name": "Prayas Mann",
+				"character": "Joginder Singh"
+			},
+			{
+				"id": 5176126,
+				"order": 15,
+				"name": "Hanun Bawra",
+				"character": "Abbas Nangroo (Terrorist)"
+			},
+			{
+				"id": 2463153,
+				"order": 16,
+				"name": "Anbu Thasan",
+				"profile_path": "/ycX5zV4CVOoSMnM3wkoOndZHaP7.jpg",
+				"character": "Sepoy",
+				"gender": 2
+			},
+			{
+				"id": 5213544,
+				"order": 17,
+				"name": "Ajaey Naga Raaman",
+				"character": "Rajesh Shukla"
+			},
+			{
+				"id": 5213546,
+				"order": 18,
+				"name": "Paul T Baby",
+				"character": "Andrews"
+			},
+			{
+				"id": 5213547,
+				"order": 19,
+				"name": "Sugamya Shankar",
+				"character": "Nithya (Mukund's Sister)"
+			},
+			{
+				"id": 5213537,
+				"order": 20,
+				"name": "Rohan Surya Kanuma Reddy",
+				"character": "Rifleman Narasimha Rao"
+			},
+			{
+				"id": 4327232,
+				"order": 21,
+				"name": "Shrysh Zutshi",
+				"character": "Atlaf Baba (Terrorist)"
+			},
+			{
+				"id": 2062625,
+				"order": 22,
+				"name": "Vikas Bangar",
+				"character": "Jyoti Sharma"
+			},
+			{
+				"id": 4218360,
+				"order": 23,
+				"name": "Rohman Shawl",
+				"character": "Asif Wani (Terrorist)"
+			}
+		],
+		"crew": [
+			{
+				"id": 2268241,
+				"name": "R. Kalaivanan",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1439810,
+				"name": "Rajeevan",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 2992426,
+				"name": "C. H. Sai",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1670825,
+				"name": "Rajkumar Periasamy",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1670825,
+				"name": "Rajkumar Periasamy",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 93193,
+				"name": "Kamal Haasan",
+				"profile_path": "/17zscZgz4wOlGDd3Gziw4YbI3G.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3299515,
+				"name": "R. Mahendran",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1666868,
+				"name": "Kannan Ganpat",
+				"job": "Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 4539449,
+				"name": "U K Sasikumar",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3299535,
+				"name": "M. Senthil",
+				"job": "Production Controller",
+				"department": "Crew"
+			},
+			{
+				"id": 4539452,
+				"name": "Altaf Assu Mammoo",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1643578,
+				"name": "Sachin Sudhakaran",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1643577,
+				"name": "Hari Haran",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3299505,
+				"name": "S. Disney",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1590579,
+				"name": "V. Sai",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1488225,
+				"name": "Stefan Richter",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1643581,
+				"name": "Kabilan Chellaiah",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1671019,
+				"name": "D. Narendran",
+				"job": "Still Photographer",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1464562,
+				"name": "Sameera Saneesh",
+				"profile_path": "/9uTT431FzCWvDyi2ragC2WSZUYx.jpg",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1959058,
+				"name": "Amritha Ram",
+				"profile_path": "/uAnMryzml7dH9yIqtF7wevFd8ET.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 584950,
+				"name": "G. V. Prakash Kumar",
+				"profile_path": "/ArX3l6CdNo0sGI8b6PFYveR9Azm.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5027120,
+				"name": "Shiv Aroor",
+				"job": "Book",
+				"department": "Writing"
+			},
+			{
+				"id": 4864825,
+				"name": "Rahul Singh",
+				"job": "Book",
+				"department": "Writing"
+			},
+			{
+				"id": 5210916,
+				"name": "Jayashree Mathimaran",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 1
+			}
+		]
+	}
+}

@@ -1,0 +1,291 @@
+{
+	"id": 214032,
+	"title": "Citadel: Diana",
+	"name": "Citadel: Diana",
+	"fcg_title": "Citadel Diana",
+	"original_language": "it",
+	"genres": [
+		{
+			"id": 10759,
+			"name": "Action \u0026 Adventure"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Milan, 2030: Diana Cavalieri is a double agent for the secret syndicate Citadel, who infiltrated Manticore, the rival agency that destroyed Citadel eight years ago. Trapped behind enemy lines, Diana has a chance to leave the agency forever, but she has to decide whether to trust a surprising ally: the heir of Manticore Italy, Edo Zani.",
+	"backdrop_path": "/oKDA5vAw7sDMGO7GHVAivmRCBlN.jpg",
+	"poster_path": "/pXfgTz0uYUfYVEiJ0gRra6tKoAp.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 1589101,
+				"order": 0,
+				"name": "Matilda De Angelis",
+				"profile_path": "/sBp6fPySVL8YhjpSx6S0XXxmG6h.jpg",
+				"character": "Diana Cavalieri",
+				"gender": 1
+			},
+			{
+				"id": 3484102,
+				"order": 1,
+				"name": "Lorenzo Cervasio",
+				"profile_path": "/ae3yyTIFwXJLYH1bOpprhZ1G48B.jpg",
+				"character": "Edoardo 'Edo' Zani",
+				"gender": 2
+			},
+			{
+				"id": 1423301,
+				"order": 2,
+				"name": "Maurizio Lombardi",
+				"profile_path": "/irObmo0V04lDrJzt4ISlyYnyiVn.jpg",
+				"character": "Ettore Zani",
+				"gender": 2
+			},
+			{
+				"id": 1074716,
+				"order": 3,
+				"name": "Julia Piaton",
+				"profile_path": "/10QGSeZaq121UJgOizGFcW0SRku.jpg",
+				"character": "Cécile Martin",
+				"gender": 1
+			},
+			{
+				"id": 45749,
+				"order": 4,
+				"name": "Thekla Reuten",
+				"profile_path": "/grsIJAo7a37SAVl3La5aaUFpVla.jpg",
+				"character": "Julia Zani",
+				"gender": 1
+			},
+			{
+				"id": 2711790,
+				"order": 5,
+				"name": "Giordana Faggiano",
+				"profile_path": "/4iGmL1AvsEGYC8AS3PLJldtgGdc.jpg",
+				"character": "Sara Cavalieri",
+				"gender": 1
+			},
+			{
+				"id": 3921810,
+				"order": 6,
+				"name": "Daniele Paoloni",
+				"profile_path": "/oAFuRMTsULDp6yjj16HC7TJxYQG.jpg",
+				"character": "Matteo",
+				"gender": 2
+			},
+			{
+				"id": 84263,
+				"order": 7,
+				"name": "Jun Ichikawa",
+				"profile_path": "/14I8xU8EbFstCKaxZ43fr7iLa6L.jpg",
+				"character": "Giada",
+				"gender": 1
+			},
+			{
+				"id": 89389,
+				"order": 8,
+				"name": "Filippo Nigro",
+				"profile_path": "/84QswEDfCsGB6hbaOHn68GhkR3S.jpg",
+				"character": "Gabriele Donati",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1242165,
+				"name": "Scott Nemes",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 120015,
+				"name": "Josh Appelbaum",
+				"profile_path": "/edCP3fGS25qdednDxSQkGiCimwK.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 65248,
+				"name": "Marco Chimenz",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1318816,
+				"name": "Gina Gardini",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 19271,
+				"name": "Anthony Russo",
+				"profile_path": "/xbINBnWn28YygYWUJ1aSAw0xPRv.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1018751,
+				"name": "André Nemec",
+				"profile_path": "/kuuEycNLQDeAhaH9QNd3lpnLM62.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 168309,
+				"name": "Jeff Pinkner",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 19272,
+				"name": "Joe Russo",
+				"profile_path": "/o0OXjFzL10jCy89iAs7UzzSbyoK.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1751775,
+				"name": "Angela Russo-Otstot",
+				"profile_path": "/outhE6HJdAv8V4hMRdeWwQotxEA.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1024275,
+				"name": "Giovanni Stabilini",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1024276,
+				"name": "Riccardo Tozzi",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3228,
+				"name": "Scott Rosenberg",
+				"profile_path": "/uHqU0H8MSFieo1RTS3Erl6CYaH2.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1424719,
+				"name": "David Weil",
+				"profile_path": "/tsx2DRIAg3pAzi6rzh6sgaFXdLj.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1246852,
+				"name": "Bryan Oh",
+				"job": "Original Series Creator",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1424719,
+				"name": "David Weil",
+				"profile_path": "/tsx2DRIAg3pAzi6rzh6sgaFXdLj.jpg",
+				"job": "Original Series Creator",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 120015,
+				"name": "Josh Appelbaum",
+				"profile_path": "/edCP3fGS25qdednDxSQkGiCimwK.jpg",
+				"job": "Original Series Creator",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2313319,
+				"name": "Giuliano Pannuti",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 932540,
+				"name": "Veronica Fragola",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 456252,
+				"name": "Laura Muccino",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 966444,
+				"name": "Constance Demontoy",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2791761,
+				"name": "Sam Jones",
+				"job": "Casting",
+				"department": "Production"
+			},
+			{
+				"id": 4992415,
+				"name": "Alberto Broccatelli",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 4992416,
+				"name": "Alessio Mecozzi",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 4992417,
+				"name": "Cristian Marras",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 548381,
+				"name": "Luca Novelli",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 4992418,
+				"name": "Maurizio Mazzenga",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 2012608,
+				"name": "Alex Belcher",
+				"job": "Main Title Theme Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3368470,
+				"name": "Emanuele Savoini",
+				"job": "Executive Producer",
+				"department": "Production"
+			}
+		]
+	}
+}
