@@ -12,7 +12,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-10 offset-lg-1">
-                <h1 class="mb-5">{{ .Title }}</h1>
+                <h1 class="mb-3">{{ .Title }}</h1>
             </div>
         </div>
     </div>
@@ -22,37 +22,41 @@
     {{ range .Pages }}
         <div class="mb-5">
             {{ if eq .Params.media "print" }}
-                <div class="row">
-                    <div class="col-lg-4 offset-lg-1"></div>
-                    <div class="col-lg-6">
-                        <h4 class="my-3 ps-3">{{ .Params.subtitle }}</h4>
-                        <div class="mb-4">
-                            {{ partial "reviewer.html" (dict "reviewer" (index .Params.critics 0 ) "date" (.Date | time.Format ":date_long")) }}
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
+                <div class="row mb-5">
                     <div class="col-lg-4 offset-lg-1">
                         {{ $imgPath := printf "images/reviews/%s" .Params.img }}
                         {{ $img := resources.Get $imgPath }}
                         {{ with $img }}
                             <img
                                 src="{{ .RelPermalink }}"
-                                class="img-fluid w-100" />
+                                class="img-fluid w-100 review-image mt-5" />
                         {{ end }}
                     </div>
                     <div class="col-lg-6">
-                        {{ .Summary }}
+                        <div class="border-start border-end">
+                            <div
+                                class="border border-3 border-top-0 border-start-0 border-end-0">
+                                <div class="p-4">
+                                    <h2 class="my-3">
+                                        {{ .Params.subtitle }}
+                                    </h2>
+                                    <div class="pb-4">
+                                        {{ partial "reviewer.html" (dict "reviewer" (index .Params.critics 0 ) "date" (.Date | time.Format ":date_long")) }}
+                                    </div>
+                                    {{ .Summary }}
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             {{ else }}
                 <div class="row">
                     <div class="col-lg-7 offset-lg-2">
-                        <h4 class="my-3 ps-3">{{ .Params.subtitle }}</h4>
+                        <h2 class="my-3">{{ .Params.subtitle }}</h2>
                         <div class="mb-4">
                             {{ partial "reviewer.html" (dict "reviewer" (index .Params.critics 0 ) "date" (.Date | time.Format ":date_long")) }}
-                            {{ .Summary }}
                         </div>
+                        {{ .Summary }}
                     </div>
                 </div>
             {{ end }}

@@ -45,13 +45,13 @@
         <div class="col-lg-4 offset-lg-1">
             <img src="{{ $imgLink }}" class="img-fluid w-100" />
         </div>
-        <div class="col-lg-6">
+        <div class="col-lg-6 table-custom border border-2">
             <p>
                 {{ range $genreList }}
                     <span class="genre">{{ . }}</span>
                 {{ end }}
             </p>
-            <table class="table small">
+            <table class="table small table-sm  table-custom">
                 <tbody>
                     {{ with $metadata.title }}
                         <tr>

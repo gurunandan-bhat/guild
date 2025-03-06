@@ -3,12 +3,12 @@
 {{ $reviewer := index (where site.RegularPages "LinkTitle" $name) 0 }}
 {{ with $reviewer }}
     {{ $img := resources.Get .Params.img }}
-    {{ $img = $img.Resize "60x" }}
-    <div>
+    {{ $img = $img.Resize "50x" }}
+    <div class="clearfix mb-3">
         <img
             src="{{ $img.RelPermalink }}"
-            class="px-3 rounded-circle float-start" />
-        <h5>{{ .Params.title }}</h5>
-        <h6>{{ $date }} | {{ delimit .Params.organizations ", " }}</h6>
+            class="rounded-circle float-start" />
+        <div class="author">{{ .Params.title }}</div>
+        <div class="pub-date">{{ $date }} | {{ delimit .Params.organizations ", " }}</pub-date>
     </div>
 {{ end }}
