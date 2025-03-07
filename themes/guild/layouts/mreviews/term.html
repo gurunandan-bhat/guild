@@ -19,6 +19,15 @@
     <div>
         {{ partial "taxonomy/mreviews/metadata.html" $meta }}
     </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 offset-lg-1">
+                <h2 class="section-head">Guild Reviews</h2>
+            </div>
+        </div>
+    </div>
+
     {{ range .Pages }}
         <div class="mb-5">
             {{ if eq .Params.media "print" }}
@@ -51,7 +60,7 @@
                 </div>
             {{ else }}
                 <div class="row">
-                    <div class="col-lg-7 offset-lg-2">
+                    <div class="col-lg-6 offset-lg-3">
                         <h2 class="my-3">{{ .Params.subtitle }}</h2>
                         <div class="mb-4">
                             {{ partial "reviewer.html" (dict "reviewer" (index .Params.critics 0 ) "date" (.Date | time.Format ":date_long")) }}
@@ -63,4 +72,23 @@
         </div>
     {{ end }}
     {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+
+
+    <div class="container">
+        <div class="row">
+            <h2 class="section-head">Latest Reviews</h2>
+            {{ range first 4 (where site.RegularPages "Section" "reviews") }}
+                <div class="col-lg-3">
+                    <h3 class="recent">{{ .LinkTitle }}</h3>
+                    {{ $imgPath := printf "images/reviews/%s" .Params.img }}
+                    {{ $img := resources.Get $imgPath }}
+                    {{ with $img }}
+                        <img
+                            src="{{ .RelPermalink }}"
+                            class="img-fluid w-100" />
+                    {{ end }}
+                </div>
+            {{ end }}
+        </div>
+    </div>
 {{ end }}
