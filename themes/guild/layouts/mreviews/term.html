@@ -38,21 +38,24 @@
                         {{ with $img }}
                             <img
                                 src="{{ .RelPermalink }}"
-                                class="img-fluid w-100 review-image mt-5" />
+                                class="img-fluid w-100 review-image mt-2" />
                         {{ end }}
                     </div>
                     <div class="col-lg-6">
-                        <div class="border-start border-end">
+                        <div
+                            class="border border-start-2 border-end-2 border-top-0 border-bottom-0">
                             <div
                                 class="border border-3 border-top-0 border-start-0 border-end-0">
-                                <div class="p-4">
-                                    <h2 class="my-3">
+                                <div class="px-4">
+                                    <h2 class="mb-2">
                                         {{ .Params.subtitle }}
                                     </h2>
-                                    <div class="pb-4">
+                                    <div class="pb-1">
                                         {{ partial "reviewer.html" (dict "reviewer" (index .Params.critics 0 ) "date" (.Date | time.Format ":date_long")) }}
                                     </div>
-                                    {{ .Summary }}
+                                    <div class="small">
+                                        {{ .Summary }}
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -73,20 +76,27 @@
     {{ end }}
     {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 
+    {{ $titleMap := dict }}
+    {{ $reviews := slice }}
+    {{ $maxCount := 4 }}
+    {{ range (where site.RegularPages "Section" "reviews") }}
+        {{ if ne .Params.media "print" }}{{ continue }}{{ end }}
+        {{ $title := .Title }}
+        {{ if (index $titleMap $title) }}{{ continue }}{{ end }}
+        {{ $reviews = append (slice .) $reviews }}
+        {{ $titleMap = merge $titleMap (dict $title 1) }}
+        {{ if ge ($reviews | len) $maxCount }}{{ break }}{{ end }}
+    {{ end }}
+
 
     <div class="container">
         <div class="row">
             <h2 class="section-head">Latest Reviews</h2>
-            {{ range first 4 (where site.RegularPages "Section" "reviews") }}
-                <div class="col-lg-3">
-                    <h3 class="recent">{{ .LinkTitle }}</h3>
-                    {{ $imgPath := printf "images/reviews/%s" .Params.img }}
-                    {{ $img := resources.Get $imgPath }}
-                    {{ with $img }}
-                        <img
-                            src="{{ .RelPermalink }}"
-                            class="img-fluid w-100" />
-                    {{ end }}
+        </div>
+        <div class="row" style="height: 650px">
+            {{ range $reviews }}
+                <div class="col-lg-3 h-100">
+                    {{ partial "meta.html" .LinkTitle }}
                 </div>
             {{ end }}
         </div>

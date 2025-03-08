@@ -1,0 +1,35 @@
+{{ $critic := . }}
+{{ $metadata := first 1 (where site.RegularPages "Title" $critic) }}
+{{ with index $metadata 0 }}
+    {{ $page := . }}
+    <div class="container">
+        <div class="row mb-5">
+            <div class="col-lg-4 offset-lg-1">
+                {{ with resources.Get .Params.img }}
+                    <img
+                        src="{{ .RelPermalink }}"
+                        class="img-responsive w-100"
+                        alt="{{ .Title }}" />
+                {{ end }}
+            </div>
+            <div class="col-lg-6 table-custom border border-2">
+                <h1 class="author mb-0 critic">
+                    {{ .LinkTitle }}
+                </h1>
+                {{ with .Params.organizations }}
+                    <p class="mb-3">
+                        <span class="inline-block"
+                            >{{ delimit . ", " " and " }}</span
+                        >
+                        <span class="float-end" style="color: crimson;">
+                            {{ partial "social-media-links.html" $page.Params.soc_media }}
+                        </span>
+                    </p>
+                {{ end }}
+                <div class="small">
+                    {{ .Summary }}
+                </div>
+            </div>
+        </div>
+    </div>
+{{ end }}

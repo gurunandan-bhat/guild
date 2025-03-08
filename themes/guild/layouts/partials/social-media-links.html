@@ -1,0 +1,10 @@
+{{ $icons := site.Data.svgicons.icons }}
+{{ $data := . }}
+{{ $plats := slice "instagram" "twitter" "youtube" "facebook" }}
+{{ range $i, $plat := $plats }}
+    {{ with index $data . }}
+        <a target="_blank" class="d-inline-block px-1" href="{{ . }}">
+            {{ index $icons $plat | safeHTML }}
+        </a>
+    {{ end }}
+{{ end }}

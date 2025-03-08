@@ -5,10 +5,13 @@
     {{ $img := resources.Get .Params.img }}
     {{ $img = $img.Resize "50x" }}
     <div class="clearfix mb-3">
-        <img
-            src="{{ $img.RelPermalink }}"
-            class="rounded-circle float-start" />
-        <div class="author">{{ .Params.title }}</div>
-        <div class="pub-date">{{ $date }} | {{ delimit .Params.organizations ", " }}</pub-date>
+        <img src="{{ $img.RelPermalink }}" class="rounded-circle float-start" />
+        <div style="padding-left: 62px;">
+            <div class="author">{{ .Params.title }}</div>
+            <div class="pub-date">
+                {{ $date }} |
+                {{ delimit .Params.organizations ", " }}
+            </div>
+        </div>
     </div>
 {{ end }}
