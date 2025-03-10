@@ -1,6 +1,5 @@
 {{- $cssFiles := (slice "css/bootstrap.css" "css/fonts/css" "css/guild.css") }}
 {{- range $cssFiles }}
-    {{ warnf "CSS File: %q" . }}
     {{- with resources.Get . }}
         {{- if eq hugo.Environment "development" }}
             <link rel="stylesheet" href="{{ .RelPermalink }}" />

@@ -1,12 +1,22 @@
 {
-	"id": 1442000,
+	"id": 247830,
 	"title": "Dabba Cartel",
+	"name": "Dabba Cartel",
 	"fcg_title": "Dabba Cartel",
-	"original_title": "Dabba Cartel",
 	"original_language": "hi",
-	"overview": "Five housewives who run a high stakes secret cartel in which style, ambition, love, friendship and betrayal set in the rich 1960s Mumbai.",
-	"poster_path": "/h0djtG5tWI909myE6VkWfl1Qh9H.jpg",
-	"release_date": "2025-02-28",
+	"genres": [
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "When an investigation into a pharma company hits close to home, five women launch a tiffin service with a secret ingredient.",
+	"backdrop_path": "/fmb8QgBVSx1lgKHbas3FNtZ9f5S.jpg",
+	"poster_path": "/ezT0x7ZdAjrR5mFtkNjWxOFcTIB.jpg",
 	"credits": {
 		"cast": [
 			{
@@ -17,38 +27,38 @@
 				"gender": 1
 			},
 			{
-				"id": 147324,
+				"id": 1192050,
 				"order": 1,
+				"name": "Sai Tamhankar",
+				"profile_path": "/k4fDez6V350WGWk6VOhy2oACQZp.jpg",
+				"gender": 1
+			},
+			{
+				"id": 147324,
+				"order": 2,
 				"name": "Jyothika",
 				"profile_path": "/9rcFS99kwlSiQdY5Iv9YctJKh1F.jpg",
 				"gender": 1
 			},
 			{
 				"id": 1837688,
-				"order": 2,
+				"order": 3,
 				"name": "Nimisha Sajayan",
 				"profile_path": "/r1tiqFWXlWDFlZx966yOeBYs2qY.jpg",
 				"gender": 1
 			},
 			{
 				"id": 1879516,
-				"order": 3,
+				"order": 4,
 				"name": "Shalini Pandey",
 				"profile_path": "/x0VLQqGuQocLALiauiZV2wge3OI.jpg",
 				"gender": 1
 			},
 			{
 				"id": 1835261,
-				"order": 4,
+				"order": 5,
 				"name": "Anjali Anand",
 				"profile_path": "/x35BaUKgC5kHYQtMxazfL07gGoO.jpg",
-				"gender": 1
-			},
-			{
-				"id": 1192050,
-				"order": 5,
-				"name": "Sai Tamhankar",
-				"profile_path": "/k4fDez6V350WGWk6VOhy2oACQZp.jpg",
 				"gender": 1
 			},
 			{
@@ -57,14 +67,149 @@
 				"name": "Gajraj Rao",
 				"profile_path": "/pomm4rYhIDqoEHtzKucbEOoJp7n.jpg",
 				"gender": 2
+			},
+			{
+				"id": 4566122,
+				"order": 7,
+				"name": "Parminder Singh Kainth"
+			},
+			{
+				"id": 4566123,
+				"order": 8,
+				"name": "Ainth Singh Sarminder"
+			},
+			{
+				"id": 4566124,
+				"order": 9,
+				"name": "Ishan Saxena"
+			},
+			{
+				"id": 6498,
+				"order": 10,
+				"name": "Lillete Dubey",
+				"profile_path": "/qeAlaycZ3ATHr2P6LV1V5LeC4hV.jpg",
+				"gender": 1
+			},
+			{
+				"id": 545144,
+				"order": 11,
+				"name": "Jisshu Sengupta",
+				"profile_path": "/6Ha4p2iQOHpnKC1uB4NKJ53kHRi.jpg",
+				"gender": 2
 			}
 		],
 		"crew": [
+			{
+				"id": 78917,
+				"name": "Ritesh Sidhwani",
+				"profile_path": "/zEL6Jj03CgjrhIkuDha8ZmPMSQk.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3734758,
+				"name": "Abbas Raza Khan",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2580338,
+				"name": "Eeshit Narain",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 3468602,
+				"name": "Vishal Ramchandani",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 78918,
+				"name": "Kassim Jagmagia",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4434630,
+				"name": "Shibani Akhtar",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 78916,
+				"name": "Farhan Akhtar",
+				"profile_path": "/nYx5T3tkghBPvmI29J2iJlZOFyV.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2222174,
+				"name": "Yash Nagarkoti",
+				"job": "Casting",
+				"department": "Production"
+			},
+			{
+				"id": 1389934,
+				"name": "Shruti Gupte",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1892996,
+				"name": "Pranav Shukla",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 1744509,
+				"name": "Rohit Chaturvedi",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1556268,
+				"name": "Makarand Surte",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 1964171,
+				"name": "Akshay Dinesh Vaishnav",
+				"job": "Post Producer",
+				"department": "Production"
+			},
 			{
 				"id": 3222103,
 				"name": "Hitesh Bhatia",
 				"job": "Director",
 				"department": "Directing"
+			},
+			{
+				"id": 4566159,
+				"name": "Vishnu Menon",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 4566162,
+				"name": "Bhavna Kher",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 2180864,
+				"name": "Asad Hussain",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 1186366,
+				"name": "Manas Mittal",
+				"job": "Editor",
+				"department": "Editing"
 			}
 		]
 	}

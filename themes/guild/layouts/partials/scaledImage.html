@@ -1,0 +1,5 @@
+{{ $img := resources.Get . }}
+{{ with $img }}
+    {{ $img = $img.Fill "342x192 Center" }}
+{{ end }}
+{{ return $img }}

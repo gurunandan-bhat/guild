@@ -195,6 +195,24 @@
 		],
 		"crew": [
 			{
+				"id": 1669466,
+				"name": "M. M. Hamsa",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 2111516,
+				"name": "Archana Vasudev",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 1344636,
+				"name": "Shibu G Suseelan",
+				"job": "Production Controller",
+				"department": "Crew"
+			},
+			{
 				"id": 2283083,
 				"name": "Bijith Dharmadam",
 				"job": "Still Photographer",
@@ -206,6 +224,12 @@
 				"name": "Chandru Selvaraj",
 				"job": "Director of Photography",
 				"department": "Camera"
+			},
+			{
+				"id": 1095813,
+				"name": "Lijin Jose",
+				"job": "Director",
+				"department": "Directing"
 			},
 			{
 				"id": 1464562,
@@ -224,36 +248,6 @@
 				"gender": 2
 			},
 			{
-				"id": 1669466,
-				"name": "M. M. Hamsa",
-				"job": "Production Design",
-				"department": "Art"
-			},
-			{
-				"id": 1840684,
-				"name": "Anish M Thomas",
-				"job": "Producer",
-				"department": "Production"
-			},
-			{
-				"id": 2111516,
-				"name": "Archana Vasudev",
-				"job": "Writer",
-				"department": "Writing"
-			},
-			{
-				"id": 1344636,
-				"name": "Shibu G Suseelan",
-				"job": "Production Controller",
-				"department": "Crew"
-			},
-			{
-				"id": 1095813,
-				"name": "Lijin Jose",
-				"job": "Director",
-				"department": "Directing"
-			},
-			{
 				"id": 1691269,
 				"name": "Kiran Das",
 				"job": "Editor",
@@ -269,10 +263,10 @@
 				"gender": 2
 			},
 			{
-				"id": 1652640,
-				"name": "Dhanush Nayanar",
-				"job": "Sound Designer",
-				"department": "Sound"
+				"id": 1840684,
+				"name": "Anish M Thomas",
+				"job": "Producer",
+				"department": "Production"
 			},
 			{
 				"id": 2111516,
@@ -288,18 +282,24 @@
 				"gender": 2
 			},
 			{
-				"id": 3805810,
-				"name": "Joshy Padamadan",
-				"job": "Lyricist",
-				"department": "Writing"
-			},
-			{
 				"id": 2180491,
 				"name": "Anwar Ali",
 				"profile_path": "/1DywQvSJWExb8yREcW0DpOwiUYv.jpg",
 				"job": "Lyricist",
 				"department": "Writing",
 				"gender": 2
+			},
+			{
+				"id": 3805810,
+				"name": "Joshy Padamadan",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 1652640,
+				"name": "Dhanush Nayanar",
+				"job": "Sound Designer",
+				"department": "Sound"
 			}
 		]
 	}

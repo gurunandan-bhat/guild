@@ -1,7 +1,6 @@
 {{ $jsFiles := (slice "js/bootstrap.bundle.js" "js/main.js") }}
 {{ range $jsFiles }}
     {{- with resources.Get . }}
-        {{ warnf "JS Resource: %q" . }}
         {{- if eq hugo.Environment "development" }}
             {{- with . | js.Build }}
                 <script src="{{ .RelPermalink }}"></script>

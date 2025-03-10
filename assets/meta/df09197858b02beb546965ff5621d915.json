@@ -1,124 +1,417 @@
 {
 	"id": 247829,
-	"title": "Buras",
+	"title": "IC 814: The Kandahar Hijack",
+	"name": "IC 814: The Kandahar Hijack",
 	"fcg_title": "IC 814 the Kandahar Hijack",
-	"original_title": "Buras",
-	"original_language": "lv",
+	"original_language": "hi",
 	"genres": [
 		{
-			"id": 10770,
-			"name": "TV Movie"
+			"id": 18,
+			"name": "Drama"
 		},
 		{
-			"id": 10749,
-			"name": "Romance"
+			"id": 10768,
+			"name": "War \u0026 Politics"
 		}
 	],
-	"release_date": "1977-01-03",
+	"overview": "When IC 814 gets hijacked on its way to Delhi, hundreds of lives are at stake as the country faces its longest and most alarming aviation crisis.",
+	"backdrop_path": "/fzq5QiEtx8MCtQ4yTZzWbJHnstr.jpg",
+	"poster_path": "/u8b8sdWzzvAIKjTBGh9aCio6hU6.jpg",
 	"credits": {
 		"cast": [
 			{
-				"id": 1125819,
+				"id": 1551045,
 				"order": 0,
-				"name": "Imants Skrastiņš",
-				"profile_path": "/wNB9uK8Ke8CXnBDlIDVu4pCFBVX.jpg"
+				"name": "Vijay Varma",
+				"profile_path": "/SVKmw30OYNFqSZwZ8BCMBZjRtB.jpg",
+				"character": "Captain Sharan Dev",
+				"gender": 2
 			},
 			{
-				"id": 1283234,
+				"id": 6497,
 				"order": 1,
-				"name": "Tatjana Pope"
+				"name": "Naseeruddin Shah",
+				"profile_path": "/lFvGfKypi5NNyUjrsT8Y7ebWc7G.jpg",
+				"character": "Vinay Kaul",
+				"gender": 2
 			},
 			{
-				"id": 1190071,
+				"id": 87549,
 				"order": 2,
-				"name": "Rolands Zagorskis",
-				"profile_path": "/9l25HTaUAKgBjzlEnWqICaed7Xr.jpg",
+				"name": "Pankaj Kapur",
+				"profile_path": "/q1ILNa9c4bVT7sr6yE6TUzGYaPu.jpg",
+				"character": "Vijaybhan Singh",
 				"gender": 2
 			},
 			{
-				"id": 936538,
+				"id": 560056,
 				"order": 3,
-				"name": "Gundars Āboliņš",
-				"profile_path": "/iSAL8rWneDOsrDmkEn2rocOiKOX.jpg",
+				"name": "Arvind Swamy",
+				"profile_path": "/wtFT2TbMOcfoe6S3p0FL56E7yaJ.jpg",
+				"character": "D. R. Sivaramakrishnan",
 				"gender": 2
 			},
 			{
-				"id": 2913822,
+				"id": 85669,
 				"order": 4,
-				"name": "Normunds Ozoliņš"
+				"name": "Dia Mirza",
+				"profile_path": "/oJSZlMkIGC1Yr8QxdBLliUjPRSd.jpg",
+				"character": "Shalini Chandra",
+				"gender": 1
 			},
 			{
-				"id": 2913823,
+				"id": 1602232,
 				"order": 5,
-				"name": "Daila Iltnere"
+				"name": "Patralekhaa",
+				"profile_path": "/guQD3gK8pHlv0WQA9GI25YB2siP.jpg",
+				"character": "Indrani",
+				"gender": 1
+			},
+			{
+				"id": 85874,
+				"order": 6,
+				"name": "Manoj Pahwa",
+				"profile_path": "/p7sufhnro3CM04au3L4KubTx43B.jpg",
+				"character": "Mukul Mohan",
+				"gender": 2
+			},
+			{
+				"id": 1179628,
+				"order": 7,
+				"name": "Kumud Mishra",
+				"profile_path": "/pM4eD7eIEPk2Lx0c5C1K201qnp6.jpg",
+				"character": "Ranjan Mishra",
+				"gender": 2
+			},
+			{
+				"id": 130590,
+				"order": 8,
+				"name": "Amrita Puri",
+				"profile_path": "/cqnRxsnZ0QVf3buvJb0EXtbE743.jpg",
+				"character": "Nandini Martin",
+				"gender": 1
+			},
+			{
+				"id": 101823,
+				"order": 9,
+				"name": "Dibyendu Bhattacharya",
+				"profile_path": "/uLlGKCL9y5CFBwcAafTDQhupz5h.jpg",
+				"character": "Abhijeet Kumar",
+				"gender": 2
+			},
+			{
+				"id": 101822,
+				"order": 10,
+				"name": "Aditya Srivastava",
+				"profile_path": "/nGj7ktEVQwPd8WXoN0FYZe9EgQd.jpg",
+				"character": "V. K. Agarwal",
+				"gender": 2
+			},
+			{
+				"id": 2965849,
+				"order": 11,
+				"name": "Anupam Tripathi",
+				"profile_path": "/qiypxSxV93cIv7F4O2MeOpXNlsJ.jpg",
+				"character": "Ram Chandra Yadav",
+				"gender": 2
+			},
+			{
+				"id": 77241,
+				"order": 12,
+				"name": "Kanwaljit Singh",
+				"profile_path": "/pitJUd0ySbOBrGOzLJBJ63fMLaK.jpg",
+				"character": "J. P. Kohli",
+				"gender": 2
+			},
+			{
+				"id": 2612455,
+				"order": 13,
+				"name": "Additi Gupta",
+				"profile_path": "/wFpJKo3QrWtHOhVMlaZ9XVRYNIZ.jpg",
+				"character": "Chhaya",
+				"gender": 1
+			},
+			{
+				"id": 1251861,
+				"order": 14,
+				"name": "Rajiv Thakur",
+				"profile_path": "/mJ1Is1BjOBycCcF2YOzA83KPTf.jpg",
+				"character": "Chief",
+				"gender": 2
+			},
+			{
+				"id": 2190961,
+				"order": 15,
+				"name": "Pooja Gor",
+				"profile_path": "/nDjNZQhFqp5S3lSj0aXQ73xPn58.jpg",
+				"character": "Simar",
+				"gender": 1
+			},
+			{
+				"id": 4912607,
+				"order": 16,
+				"name": "Karan Desai",
+				"character": "Sunil Sachdeva"
+			},
+			{
+				"id": 4912608,
+				"order": 17,
+				"name": "Girish Dhameja",
+				"character": "Rajendra Nangia"
+			},
+			{
+				"id": 4913582,
+				"order": 18,
+				"name": "Harminder Singh",
+				"character": "Doctor"
+			},
+			{
+				"id": 2726647,
+				"order": 19,
+				"name": "Diljohn Singh",
+				"character": "Burger",
+				"gender": 2
 			}
 		],
 		"crew": [
 			{
-				"id": 1190076,
-				"name": "Imants Krenbergs",
-				"profile_path": "/cXdKJ00k3BdoQDfwdkPIIK3aG8i.jpg",
+				"id": 2518990,
+				"name": "Vivechana Sharma",
+				"job": "Script Supervisor",
+				"department": "Directing"
+			},
+			{
+				"id": 4566119,
+				"name": "Dikshant Soni",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 3595241,
+				"name": "Rachna Mandal",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1085764,
+				"name": "Sanjay Routray",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2007867,
+				"name": "Anita Kushwahar",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 126765,
+				"name": "Anubhav Sinha",
+				"profile_path": "/rWvTtDwSoKgTy3zSeZoMWGRkNmw.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 126765,
+				"name": "Anubhav Sinha",
+				"profile_path": "/rWvTtDwSoKgTy3zSeZoMWGRkNmw.jpg",
 				"job": "Director",
 				"department": "Directing",
 				"gender": 2
 			},
 			{
-				"id": 2476074,
-				"name": "Larisa Brauna",
-				"job": "Costume Design",
-				"department": "Costume \u0026 Make-Up",
-				"gender": 1
+				"id": 3765314,
+				"name": "Pratik Nandkumar More",
+				"job": "Executive Producer",
+				"department": "Production"
 			},
 			{
-				"id": 2397051,
-				"name": "Erika Meskovska",
-				"job": "Editor",
-				"department": "Editing",
-				"gender": 1
-			},
-			{
-				"id": 2913820,
-				"name": "Zinta Gaumiga",
-				"job": "Art Direction",
-				"department": "Art"
-			},
-			{
-				"id": 1480677,
-				"name": "Imants Kalniņš",
-				"profile_path": "/qbVnPjudPVew5u53ENrhnUlEIBL.jpg",
-				"job": "Music",
-				"department": "Sound",
-				"gender": 2
-			},
-			{
-				"id": 2539883,
-				"name": "Edīte Noriete",
-				"job": "Costume Design",
-				"department": "Costume \u0026 Make-Up"
-			},
-			{
-				"id": 1628488,
-				"name": "Aleksandr Guselnikov",
+				"id": 4566112,
+				"name": "Nikhil Ravi",
 				"job": "Writer",
 				"department": "Writing"
 			},
 			{
-				"id": 2397284,
-				"name": "Anna Patrikejeva",
-				"job": "Sound Director",
+				"id": 1540834,
+				"name": "Sumit Basu",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1929848,
+				"name": "Ravi Kiran Ayyagari",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1725234,
+				"name": "Ewan Mulligan",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 3680962,
+				"name": "Trishant Srivastava",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2104588,
+				"name": "Sarita Patil",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2810082,
+				"name": "Shipra Acharya",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4523176,
+				"name": "Arfath Shaikh",
+				"job": "Post Production Supervisor",
+				"department": "Crew"
+			},
+			{
+				"id": 15874,
+				"name": "Richard Harvey",
+				"profile_path": "/plP0RHQxPjbFAT2Uw1dqKvD4Mcc.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1108802,
+				"name": "Mukesh Chhabra",
+				"profile_path": "/f5XI2wJs2JPcd5FSECsdcnkyOMW.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4756872,
+				"name": "Kavya Desai",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 126765,
+				"name": "Anubhav Sinha",
+				"profile_path": "/rWvTtDwSoKgTy3zSeZoMWGRkNmw.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3811828,
+				"name": "Vivek Dey",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 4894200,
+				"name": "Dipen Bhavsar",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2258353,
+				"name": "Anna Visigalli",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 1183166,
+				"name": "Branko Neškov",
+				"profile_path": "/euXMeIyehJ5hQx72hSLatiQPCFW.jpg",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1723501,
+				"name": "Snigdha Basu",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1540835,
+				"name": "Rajnish Hedao",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 4894180,
+				"name": "Amarjit Singh",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1646129,
+				"name": "Vishakha Kullarwar",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3737005,
+				"name": "Dikssha Jyote Routray",
+				"job": "Creative Producer",
+				"department": "Writing"
+			},
+			{
+				"id": 1423188,
+				"name": "Vishal Bajaj",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4800966,
+				"name": "Alex Lamy",
+				"job": "Original Music Composer",
 				"department": "Sound"
 			},
 			{
-				"id": 2913628,
-				"name": "Juris Celms",
-				"job": "Co-Director",
+				"id": 2165529,
+				"name": "Rohit Sharma",
+				"job": "First Assistant Director",
 				"department": "Directing"
 			},
 			{
-				"id": 1546728,
-				"name": "Andrejs Viesturs Seleckis",
-				"job": "Director of Photography",
-				"department": "Camera",
+				"id": 4018377,
+				"name": "Joe Mansoori",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2553021,
+				"name": "Shilpan Veena Vyas",
+				"job": "Post Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3165066,
+				"name": "Riyaz Shaikh",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3165068,
+				"name": "Habib Sayed",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 5156538,
+				"name": "Zidane Sayyed",
+				"profile_path": "/upwWytecqWVSioLTfQ4WwVHS6TE.jpg",
+				"job": "Assistant Editor",
+				"department": "Editing",
 				"gender": 2
 			}
 		]

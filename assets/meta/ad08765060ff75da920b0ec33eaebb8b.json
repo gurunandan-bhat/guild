@@ -1,48 +1,784 @@
 {
-	"id": 283138,
-	"title": "Ashes",
+	"id": 103051,
+	"title": "Paatal Lok",
+	"name": "Paatal Lok",
 	"fcg_title": "Paatal Lok S02",
-	"original_title": "一線三星",
-	"original_language": "en",
+	"original_language": "hi",
 	"genres": [
+		{
+			"id": 80,
+			"name": "Crime"
+		},
 		{
 			"id": 18,
 			"name": "Drama"
 		}
 	],
-	"overview": "2013／HD／Color／31min／",
-	"release_date": "2014-05-11",
+	"overview": "A down and out cop lands the case of a lifetime when four suspects are nabbed in the assassination attempt of a prime time journalist. The case turns out to be a devious maze where nothing is what it looks like. The pursuit of it leads him to the dark netherworld - the 'Paatal Lok', and to shocking discoveries in the past of the four suspects.",
+	"backdrop_path": "/lgbMRcbGAbLr6LxF4wi514TpFpj.jpg",
+	"poster_path": "/797VgtERLN1F4YyEFTCNBD8MYrV.jpg",
 	"credits": {
 		"cast": [
 			{
-				"id": 126719,
+				"id": 973402,
 				"order": 0,
-				"name": "Jack Yao",
-				"profile_path": "/yKAy8DfSRau9SdF9JSvqSwKzldY.jpg",
+				"name": "Jaideep Ahlawat",
+				"profile_path": "/enozGh9xcnJSQ8L4bIJ58kZDg6Z.jpg",
+				"character": "Hathi Ram Chaudhary",
 				"gender": 2
 			},
 			{
-				"id": 38286,
+				"id": 1424750,
 				"order": 1,
-				"name": "Ven Kao",
-				"profile_path": "/tSfReSA2Pxjs43Abxfs5HnshtZl.jpg",
+				"name": "Ishwak Singh",
+				"profile_path": "/iN1QUGzN7c4qBps3xpuWYVzpMag.jpg",
+				"character": "Imran Ansari"
+			},
+			{
+				"id": 6501,
+				"order": 2,
+				"name": "Tillotama Shome",
+				"profile_path": "/53kVIXddZaPy6mnKdZZFuOXLUII.jpg",
+				"character": "Meghna Barua",
+				"gender": 1
+			},
+			{
+				"id": 86010,
+				"order": 4,
+				"name": "Gul Panag",
+				"profile_path": "/1gv67t45wR65ROaaH2ujz3vNjL9.jpg",
+				"character": "Renu Chaudhary",
+				"gender": 1
+			},
+			{
+				"id": 83594,
+				"order": 5,
+				"name": "Nagesh Kukunoor",
+				"profile_path": "/km7h1Dp2TLL1TlXZIype9rN1fjX.jpg",
+				"character": "Kapil Reddy",
 				"gender": 2
 			},
 			{
-				"id": 1258444,
-				"order": 2,
-				"name": "Akio Chen",
-				"profile_path": "/pVRNH2f1o03zg0zOjoGBq23gXyh.jpg",
+				"id": 1120771,
+				"order": 6,
+				"name": "Jahnu Barua",
+				"profile_path": "/lh7o6qtpLcYA0WXukAR4n3O7s2B.jpg",
+				"character": "Rangthong Ken",
 				"gender": 2
+			},
+			{
+				"id": 1197125,
+				"order": 8,
+				"name": "Anuraag Arora",
+				"profile_path": "/tLqQ0RVvU7OXaPMyFI7AWKeaE97.jpg",
+				"character": "SHO Virk",
+				"gender": 2
+			},
+			{
+				"id": 1244576,
+				"order": 9,
+				"name": "Prashant Tamang",
+				"profile_path": "/skfpvOlIAUArIjp2Wwv9siynUg6.jpg",
+				"character": "Daniel Acho",
+				"gender": 2
+			},
+			{
+				"id": 2732151,
+				"order": 10,
+				"name": "Merenla Imsong",
+				"profile_path": "/teRoX5AxX3TziT9J84U9ccwhjc4.jpg",
+				"character": "Rose Lizo",
+				"gender": 1
+			},
+			{
+				"id": 5186820,
+				"order": 12,
+				"name": "LC Sekhose",
+				"character": "Reuben Thom"
 			}
 		],
 		"crew": [
 			{
-				"id": 1344772,
-				"name": "Ray Wu",
+				"id": 5187048,
+				"name": "Chaitali Banerjee",
+				"job": "Production Controller",
+				"department": "Crew"
+			},
+			{
+				"id": 5187046,
+				"name": "Bablu Banerjee",
+				"job": "Production Controller",
+				"department": "Crew"
+			},
+			{
+				"id": 5187045,
+				"name": "Mengu Suokhrie",
+				"job": "Location Coordinator",
+				"department": "Production"
+			},
+			{
+				"id": 5187043,
+				"name": "Khrelie Nakhro",
+				"job": "Location Coordinator",
+				"department": "Production"
+			},
+			{
+				"id": 5187041,
+				"name": "Salim Khan",
+				"job": "Location Coordinator",
+				"department": "Production"
+			},
+			{
+				"id": 4550050,
+				"name": "Manishh Mehra",
+				"job": "Production Controller",
+				"department": "Crew"
+			},
+			{
+				"id": 5187038,
+				"name": "Baban Waghe",
+				"job": "Boom Operator",
+				"department": "Sound"
+			},
+			{
+				"id": 3936284,
+				"name": "Gaurav Kumar Singh",
+				"job": "Sound Recordist",
+				"department": "Sound"
+			},
+			{
+				"id": 1714245,
+				"name": "Vineet Vashishtha",
+				"job": "Sound Recordist",
+				"department": "Sound"
+			},
+			{
+				"id": 5187034,
+				"name": "Rajesh Kumar",
+				"job": "Stunt Double",
+				"department": "Crew"
+			},
+			{
+				"id": 3354056,
+				"name": "Sukhvinder Singh",
+				"job": "Stunt Double",
+				"department": "Crew"
+			},
+			{
+				"id": 5187026,
+				"name": "Raissa Aranha",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5187023,
+				"name": "Ambadas Jadhav",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5187021,
+				"name": "Aliza Tavares",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5187019,
+				"name": "Zabiullah Shaikh",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5187018,
+				"name": "Shoeb Khan",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1891378,
+				"name": "Shashank Desai",
+				"job": "Prosthetic Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1891378,
+				"name": "Shashank Desai",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5187015,
+				"name": "Sunil Pal",
+				"job": "Dresser",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5187012,
+				"name": "Awdesh Kumar",
+				"job": "Dresser",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4240743,
+				"name": "Sayali Soman",
+				"job": "Costume Assistant",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5187008,
+				"name": "Pragati Sawant",
+				"job": "Costume Assistant",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5187006,
+				"name": "Veena Papan",
+				"job": "Costume Assistant",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5187003,
+				"name": "Pankaj Gupta",
+				"job": "Focus Puller",
+				"department": "Camera"
+			},
+			{
+				"id": 2835338,
+				"name": "Dheeraj Singh",
+				"job": "Focus Puller",
+				"department": "Camera"
+			},
+			{
+				"id": 5186999,
+				"name": "Afzal Adeeb Khan",
+				"job": "Third Assistant Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 5186997,
+				"name": "Uday Vijay Baviskar",
+				"job": "Second Assistant Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 4497234,
+				"name": "Vanshika Singh",
+				"job": "First Assistant Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 5187094,
+				"name": "Ashish Singh",
+				"job": "Drone Operator",
+				"department": "Crew"
+			},
+			{
+				"id": 5187093,
+				"name": "Irfan Shaikh",
+				"job": "Steadicam Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 4066778,
+				"name": "Kishor Jadhav",
+				"job": "Steadicam Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 5187082,
+				"name": "Sundar Raman",
+				"job": "VFX Production Coordinator",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 5187081,
+				"name": "Preethii Jayamohan",
+				"job": "VFX Production Coordinator",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 5187079,
+				"name": "Vishal Rajasekharan",
+				"job": "VFX Production Coordinator",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 5187078,
+				"name": "Manas Jain",
+				"job": "Post Production Coordinator",
+				"department": "Production"
+			},
+			{
+				"id": 5187076,
+				"name": "Shubham Tripathi",
+				"job": "Post Production Supervisor",
+				"department": "Crew"
+			},
+			{
+				"id": 5187075,
+				"name": "Sujit Lohar",
+				"job": "Foley Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 3913451,
+				"name": "Ram Kishan Nath",
+				"job": "Foley Recording Engineer",
+				"department": "Sound"
+			},
+			{
+				"id": 5187072,
+				"name": "Madhav Patil",
+				"job": "Sound Engineer",
+				"department": "Sound"
+			},
+			{
+				"id": 5187070,
+				"name": "Pallab Protim Sarmah",
+				"job": "Assistant Dialogue Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 2226521,
+				"name": "Amarjit Barman",
+				"job": "Sound Effects Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 2935722,
+				"name": "Pragyan Gogoi",
+				"job": "Sound Effects Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 2021314,
+				"name": "Shantanu Yennemadi",
+				"job": "Dialogue Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 2580185,
+				"name": "Jithin Jose",
+				"job": "Supervising Sound Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 5187067,
+				"name": "Rythem Lath",
+				"job": "Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 5187066,
+				"name": "Saquib Khan",
+				"job": "Associate Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 5187064,
+				"name": "Subir Bhattacharya",
+				"job": "Special Effects",
+				"department": "Crew"
+			},
+			{
+				"id": 5187060,
+				"name": "Ram Ishwar Mandal",
+				"job": "Carpenter",
+				"department": "Crew"
+			},
+			{
+				"id": 5187058,
+				"name": "Lolarakh Yadav",
+				"job": "Electrician",
+				"department": "Lighting"
+			},
+			{
+				"id": 5187057,
+				"name": "Mohd. Kaif",
+				"job": "Electrician",
+				"department": "Lighting"
+			},
+			{
+				"id": 5187056,
+				"name": "Narayan Mahto",
+				"job": "Painter",
+				"department": "Art"
+			},
+			{
+				"id": 5187055,
+				"name": "Suresh Yadav",
+				"job": "Carpenter",
+				"department": "Crew"
+			},
+			{
+				"id": 5187054,
+				"name": "Anil Dubey",
+				"job": "Production Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 5187052,
+				"name": "Deepu Prasad",
+				"job": "Production Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 5187051,
+				"name": "Rohit Chetri",
+				"job": "Production Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 5187050,
+				"name": "Subhradip Shil",
+				"job": "Production Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 5186995,
+				"name": "Archita Narula",
+				"job": "Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 3904545,
+				"name": "Prithvi Buddhavarapu",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 1770022,
+				"name": "Sidharth Meer",
+				"job": "Senior Colorist",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 5186899,
+				"name": "Vinay Chupal",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 5186898,
+				"name": "Ashoke Chowdhury",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2850803,
+				"name": "Neel Trivedi",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 5186895,
+				"name": "Navin Venkatesh",
+				"job": "Head of Production",
+				"department": "Production"
+			},
+			{
+				"id": 4523148,
+				"name": "Eeshan Vilas Kaushal",
+				"job": "Second Unit Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 2553021,
+				"name": "Shilpan Veena Vyas",
+				"job": "Post Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4137472,
+				"name": "Azaz Memon",
+				"job": "Post Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2105139,
+				"name": "Rahul Karpe",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1616619,
+				"name": "Shruti Kapoor",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2483371,
+				"name": "Ankit Malik",
+				"job": "Supervising Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1760324,
+				"name": "Vinit D'Souza",
+				"job": "Supervising Sound Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 3407623,
+				"name": "Yogesh Bansode",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 3639152,
+				"name": "Amritpal Singh",
+				"job": "Action Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2898834,
+				"name": "Nikita Grover",
+				"job": "Casting Director",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 85698,
+				"name": "Manoj Mittra",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3035282,
+				"name": "Babita Ashiwal",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1764821,
+				"name": "Karnesh Sharma",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5186993,
+				"name": "Mohammad Anwar",
+				"job": "Graphic Designer",
+				"department": "Art"
+			},
+			{
+				"id": 5186991,
+				"name": "Priyanshi Agrawal",
+				"job": "Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 4523167,
+				"name": "Raveena Singh",
+				"job": "Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 5186986,
+				"name": "Karan Divecha",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 5186982,
+				"name": "Anupam Kanojiya",
+				"job": "Accountant",
+				"department": "Production"
+			},
+			{
+				"id": 1955493,
+				"name": "Pavan Kumar",
+				"job": "Concept Artist",
+				"department": "Art"
+			},
+			{
+				"id": 5186980,
+				"name": "Aayushi Sachdeva",
+				"job": "Researcher",
+				"department": "Production"
+			},
+			{
+				"id": 5186977,
+				"name": "Niharika Mavuri",
+				"job": "Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 5186976,
+				"name": "Ria Gureja",
+				"job": "Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 2234944,
+				"name": "Shishir Admane",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5186944,
+				"name": "Anshul Taneja",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5186945,
+				"name": "Aditya Thakre",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5186947,
+				"name": "Neesba Khan",
+				"job": "Second Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5186949,
+				"name": "Krishna Yadav",
+				"job": "Third Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5186951,
+				"name": "Manoj Yadav",
+				"job": "Third Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2547530,
+				"name": "Tanisha Arora",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5186955,
+				"name": "Anukul Shukla",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 4277191,
+				"name": "Mahesh Mali",
+				"job": "Production Controller",
+				"department": "Crew"
+			},
+			{
+				"id": 5186975,
+				"name": "Sumit Sharma",
+				"job": "Production Controller",
+				"department": "Crew"
+			},
+			{
+				"id": 1348503,
+				"name": "Avinash Arun",
+				"profile_path": "/6TGQK6AQ6ufRB8xNWXkB8ZSXbQS.jpg",
 				"job": "Director",
 				"department": "Directing",
 				"gender": 2
+			},
+			{
+				"id": 1322648,
+				"name": "Sanyukta Kaza",
+				"profile_path": "/4jZBYj70jIYX5fywbseJ6CwA7H9.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 1348503,
+				"name": "Avinash Arun",
+				"profile_path": "/6TGQK6AQ6ufRB8xNWXkB8ZSXbQS.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1785022,
+				"name": "Saurabh Malhotra",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4488767,
+				"name": "Harish Nath",
+				"job": "Foley Artist",
+				"department": "Sound"
+			},
+			{
+				"id": 1750082,
+				"name": "Benedict Taylor",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1760324,
+				"name": "Vinit D'Souza",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 4523143,
+				"name": "Shreya Sharma",
+				"job": "Script Supervisor",
+				"department": "Directing"
+			},
+			{
+				"id": 1439074,
+				"name": "Sudip Sharma",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1764821,
+				"name": "Karnesh Sharma",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2232780,
+				"name": "Mukund Gupta",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 4523153,
+				"name": "Mallikarjuna Nayak",
+				"job": "Focus Puller",
+				"department": "Camera"
+			},
+			{
+				"id": 2020541,
+				"name": "Karan Arjun Singh",
+				"job": "Foley Supervisor",
+				"department": "Sound"
+			},
+			{
+				"id": 4488766,
+				"name": "Anil Pawar",
+				"job": "Foley Artist",
+				"department": "Sound"
+			},
+			{
+				"id": 1314293,
+				"name": "Naren Chandavarkar",
+				"job": "Music",
+				"department": "Sound"
+			},
+			{
+				"id": 1941525,
+				"name": "Boloy Kumar Doloi",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 2020541,
+				"name": "Karan Arjun Singh",
+				"job": "Foley Artist",
+				"department": "Sound"
 			}
 		]
 	}

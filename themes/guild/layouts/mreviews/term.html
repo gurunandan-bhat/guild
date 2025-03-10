@@ -76,27 +76,15 @@
     {{ end }}
     {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 
-    {{ $titleMap := dict }}
-    {{ $reviews := slice }}
-    {{ $maxCount := 4 }}
-    {{ range (where site.RegularPages "Section" "reviews") }}
-        {{ if ne .Params.media "print" }}{{ continue }}{{ end }}
-        {{ $title := .Title }}
-        {{ if (index $titleMap $title) }}{{ continue }}{{ end }}
-        {{ $reviews = append (slice .) $reviews }}
-        {{ $titleMap = merge $titleMap (dict $title 1) }}
-        {{ if ge ($reviews | len) $maxCount }}{{ break }}{{ end }}
-    {{ end }}
-
-
+    {{ $reviews := partial "top-list.html" (dict "maxCount" 4 "section" "reviews") }}
     <div class="container">
         <div class="row">
             <h2 class="section-head">Latest Reviews</h2>
         </div>
-        <div class="row" style="height: 650px">
+        <div class="row">
             {{ range $reviews }}
                 <div class="col-lg-3 h-100">
-                    {{ partial "meta.html" .LinkTitle }}
+                    {{ partial "short-meta.html" . }}
                 </div>
             {{ end }}
         </div>

@@ -45,14 +45,32 @@
 			{
 				"id": 3024898,
 				"name": "Fazil Razak",
-				"job": "Director",
-				"department": "Directing"
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
 			},
 			{
 				"id": 3024898,
 				"name": "Fazil Razak",
-				"job": "Writer",
-				"department": "Writing"
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4329930,
+				"name": "Ishak Musafir",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 3024912,
+				"name": "Mridul S",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1838710,
+				"name": "Harikumar Madhavan Nair",
+				"job": "Sound Designer",
+				"department": "Sound"
 			},
 			{
 				"id": 4329936,
@@ -67,22 +85,28 @@
 				"department": "Production"
 			},
 			{
-				"id": 4329938,
-				"name": "Vaisakh Somanath",
-				"job": "Music",
-				"department": "Sound"
+				"id": 4329940,
+				"name": "Vinayak Suthan",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 4329946,
+				"name": "K.K.Ameen",
+				"job": "Still Photographer",
+				"department": "Camera"
+			},
+			{
+				"id": 4329948,
+				"name": "Amos T J",
+				"job": "Assistant Camera",
+				"department": "Camera"
 			},
 			{
 				"id": 3024912,
 				"name": "Mridul S",
 				"job": "Cinematography",
 				"department": "Crew"
-			},
-			{
-				"id": 4329940,
-				"name": "Vinayak Suthan",
-				"job": "Editor",
-				"department": "Editing"
 			},
 			{
 				"id": 4329929,
@@ -97,46 +121,22 @@
 				"department": "Art"
 			},
 			{
-				"id": 4329940,
-				"name": "Vinayak Suthan",
-				"job": "Production Design",
-				"department": "Art"
+				"id": 4329938,
+				"name": "Vaisakh Somanath",
+				"job": "Music",
+				"department": "Sound"
 			},
 			{
-				"id": 3024912,
-				"name": "Mridul S",
-				"job": "Costume Design",
-				"department": "Costume \u0026 Make-Up"
+				"id": 4329940,
+				"name": "Vinayak Suthan",
+				"job": "Editor",
+				"department": "Editing"
 			},
 			{
 				"id": 3024898,
 				"name": "Fazil Razak",
-				"job": "Costume Design",
-				"department": "Costume \u0026 Make-Up"
-			},
-			{
-				"id": 4329930,
-				"name": "Ishak Musafir",
-				"job": "Production Manager",
-				"department": "Production"
-			},
-			{
-				"id": 1838710,
-				"name": "Harikumar Madhavan Nair",
-				"job": "Sound Designer",
-				"department": "Sound"
-			},
-			{
-				"id": 4329946,
-				"name": "K.K.Ameen",
-				"job": "Still Photographer",
-				"department": "Camera"
-			},
-			{
-				"id": 4329948,
-				"name": "Amos T J",
-				"job": "Assistant Camera",
-				"department": "Camera"
+				"job": "Writer",
+				"department": "Writing"
 			}
 		]
 	}

@@ -131,14 +131,20 @@
 		],
 		"crew": [
 			{
-				"id": 4593766,
-				"name": "Rushi Tambe",
-				"job": "Director of Photography",
-				"department": "Camera"
+				"id": 3431883,
+				"name": "Noopur Bora",
+				"job": "Assistant Director",
+				"department": "Directing"
 			},
 			{
-				"id": 4593767,
-				"name": "Bhushan Mate",
+				"id": 4593766,
+				"name": "Rushi Tambe",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 4593766,
+				"name": "Rushi Tambe",
 				"job": "Director of Photography",
 				"department": "Camera"
 			},
@@ -149,34 +155,16 @@
 				"department": "Visual Effects"
 			},
 			{
-				"id": 4593768,
-				"name": "Mangesh Bhayde",
-				"job": "Production Design",
-				"department": "Art"
-			},
-			{
-				"id": 4593766,
-				"name": "Rushi Tambe",
-				"job": "Production Design",
-				"department": "Art"
-			},
-			{
-				"id": 4593769,
-				"name": "Amol Dhadphale",
-				"job": "Original Music Composer",
-				"department": "Sound"
-			},
-			{
-				"id": 4593767,
-				"name": "Bhushan Mate",
-				"job": "Music",
-				"department": "Sound"
-			},
-			{
 				"id": 4593770,
 				"name": "Moushami Shaikh",
 				"job": "Costume Designer",
 				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4593772,
+				"name": "Suhas Desale",
+				"job": "Writer",
+				"department": "Writing"
 			},
 			{
 				"id": 4289873,
@@ -191,16 +179,28 @@
 				"department": "Writing"
 			},
 			{
-				"id": 4593772,
-				"name": "Suhas Desale",
-				"job": "Writer",
-				"department": "Writing"
+				"id": 4593767,
+				"name": "Bhushan Mate",
+				"job": "Director of Photography",
+				"department": "Camera"
 			},
 			{
-				"id": 3431883,
-				"name": "Noopur Bora",
-				"job": "Assistant Director",
-				"department": "Directing"
+				"id": 4593767,
+				"name": "Bhushan Mate",
+				"job": "Music",
+				"department": "Sound"
+			},
+			{
+				"id": 4593769,
+				"name": "Amol Dhadphale",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 4593768,
+				"name": "Mangesh Bhayde",
+				"job": "Production Design",
+				"department": "Art"
 			},
 			{
 				"id": 4593772,

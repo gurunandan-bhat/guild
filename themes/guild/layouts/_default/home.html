@@ -1,7 +1,6 @@
 {{ define "main" }}
-  {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
-  {{ end }}
+    {{ range (partial "top-list.html" (dict "maxCount" 8 "section" "reviews")) }}
+        {{ range first 3 (where site.RegularPages ".Title" .Title) }}
+        {{ end }}
+    {{ end }}
 {{ end }}

@@ -1,49 +1,276 @@
 {
-	"id": 932029,
+	"id": 261296,
 	"title": "Angry Young Men",
+	"name": "Angry Young Men",
 	"fcg_title": "Angry Young Men",
-	"original_title": "Angry Young Men",
-	"original_language": "en",
+	"original_language": "hi",
 	"genres": [
 		{
-			"id": 35,
-			"name": "Comedy"
-		},
-		{
-			"id": 18,
-			"name": "Drama"
+			"id": 99,
+			"name": "Documentary"
 		}
 	],
-	"overview": "A surreal coming of age tale set in the barren gangland town of Mauchton, Scotland.",
-	"poster_path": "/1jiXfFeSS99FkyTBtK0pp5iTOpN.jpg",
-	"release_date": "2022-03-09",
+	"overview": "Angry Young Men is the story of Salim-Javed, legendary screenwriters of 1970s Hindi cinema. Together, they created the archetype of the Angry Young Man - a brooding anti-hero who captured the imagination of an entire nation with his rage, defiance, and quest for social justice. Like the character they created, Salim Khan and Javed Akhtar, two outsiders to the Hindi film industry, defied all odds, questioning the position of writers and demanding recognition as much as the reigning stars of that time. Their break-up made headlines for many years and Indian cinema never saw a cultural collaboration as powerful again. This is a personal and candid account of their lives, their writing and their legacy.",
+	"backdrop_path": "/nzZYCiWO7g1SO3uVxAH19b3vYA1.jpg",
+	"poster_path": "/p9I3BhvTWxwFicFCNDm19LudevM.jpg",
 	"credits": {
 		"cast": [
 			{
-				"id": 3402601,
+				"id": 81984,
 				"order": 0,
-				"name": "Paul Morris",
-				"character": "Jimmy MacDonald"
+				"name": "Javed Akhtar",
+				"profile_path": "/qKnvYtFvox7BhHy2Nx6YbcuSuIB.jpg",
+				"character": "Self",
+				"gender": 2
 			},
 			{
-				"id": 3718337,
+				"id": 81986,
 				"order": 1,
-				"name": "Adam Robb",
-				"character": "Young Edmund"
+				"name": "Salim Khan",
+				"profile_path": "/pq4AkDqIclcybk5TkgM0irTfkGU.jpg",
+				"character": "Self",
+				"gender": 2
+			},
+			{
+				"id": 35780,
+				"order": 2,
+				"name": "Amitabh Bachchan",
+				"profile_path": "/u69PvpWqGkywSm0YjFiw77j9eqS.jpg",
+				"character": "Self",
+				"gender": 2
+			},
+			{
+				"id": 42802,
+				"order": 3,
+				"name": "Salman Khan",
+				"profile_path": "/n7pKtccmf2jVOz8Qn90q2ThqLge.jpg",
+				"character": "Self",
+				"gender": 2
+			},
+			{
+				"id": 52763,
+				"order": 4,
+				"name": "Aamir Khan",
+				"profile_path": "/bI3yxh4FzKL2hHYS4nbzcDMWtZs.jpg",
+				"character": "Self",
+				"gender": 2
+			},
+			{
+				"id": 78916,
+				"order": 5,
+				"name": "Farhan Akhtar",
+				"profile_path": "/nYx5T3tkghBPvmI29J2iJlZOFyV.jpg",
+				"character": "Self",
+				"gender": 2
+			},
+			{
+				"id": 80386,
+				"order": 6,
+				"name": "Zoya Akhtar",
+				"profile_path": "/ukj424TfDZCrRwYwQVAWl2nJ3ON.jpg",
+				"character": "Self",
+				"gender": 1
+			},
+			{
+				"id": 78749,
+				"order": 7,
+				"name": "Hrithik Roshan",
+				"profile_path": "/upKrdABAMK7jZevWAoPYI24iKlR.jpg",
+				"character": "Self",
+				"gender": 2
+			},
+			{
+				"id": 138399,
+				"order": 8,
+				"name": "Shatrughan Sinha",
+				"profile_path": "/qPjI1TdA2cYAcvSOUveCSYGOHmy.jpg",
+				"character": "Self",
+				"gender": 2
+			},
+			{
+				"id": 35736,
+				"order": 9,
+				"name": "Karan Johar",
+				"profile_path": "/zip1x7OXOBxXxcdYvKOgw6MnAWm.jpg",
+				"character": "Self",
+				"gender": 3
+			},
+			{
+				"id": 85672,
+				"order": 10,
+				"name": "Shabana Azmi",
+				"profile_path": "/vAoYSYP4DFUMv7fZk9u8Bps9by.jpg",
+				"character": "Self",
+				"gender": 1
+			},
+			{
+				"id": 35743,
+				"order": 11,
+				"name": "Jaya Bachchan",
+				"profile_path": "/8A1BAAUSqNHeClIBIb02MBo0sBS.jpg",
+				"character": "Self",
+				"gender": 1
+			},
+			{
+				"id": 4882844,
+				"order": 12,
+				"name": "Komal Nahta",
+				"character": "Self"
+			},
+			{
+				"id": 1293681,
+				"order": 13,
+				"name": "Yash",
+				"profile_path": "/es8St0vl9otL1XAAZJKYmNpL3Wy.jpg",
+				"character": "Self",
+				"gender": 2
+			},
+			{
+				"id": 86013,
+				"order": 14,
+				"name": "Arbaaz Khan",
+				"profile_path": "/n5iBuvIjx5zuR4DzCfXGtXyv55s.jpg",
+				"character": "Self",
+				"gender": 2
+			},
+			{
+				"id": 275825,
+				"order": 15,
+				"name": "Honey Irani",
+				"character": "Self",
+				"gender": 1
+			},
+			{
+				"id": 2282859,
+				"order": 16,
+				"name": "Anupama Chopra",
+				"character": "Self"
 			}
 		],
 		"crew": [
 			{
-				"id": 3402601,
-				"name": "Paul Morris",
+				"id": 1026842,
+				"name": "Namrata Rao",
 				"job": "Director",
-				"department": "Directing"
+				"department": "Directing",
+				"gender": 1
 			},
 			{
-				"id": 3402601,
-				"name": "Paul Morris",
-				"job": "Writer",
+				"id": 78916,
+				"name": "Farhan Akhtar",
+				"profile_path": "/nYx5T3tkghBPvmI29J2iJlZOFyV.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 42802,
+				"name": "Salman Khan",
+				"profile_path": "/n7pKtccmf2jVOz8Qn90q2ThqLge.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2008221,
+				"name": "Salma Khan",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 78917,
+				"name": "Ritesh Sidhwani",
+				"profile_path": "/zEL6Jj03CgjrhIkuDha8ZmPMSQk.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 80386,
+				"name": "Zoya Akhtar",
+				"profile_path": "/ukj424TfDZCrRwYwQVAWl2nJ3ON.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 564557,
+				"name": "Reema Kagti",
+				"profile_path": "/rGaMCDeB6rSdGrMBTheyRWpbdDQ.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2323768,
+				"name": "Geeta Singh",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 3473373,
+				"name": "Kartik Shah",
+				"job": "Creative Producer",
 				"department": "Writing"
+			},
+			{
+				"id": 3468602,
+				"name": "Vishal Ramchandani",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 78918,
+				"name": "Kassim Jagmagia",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3431827,
+				"name": "Angad Dev Singh",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4896696,
+				"name": "Gaurav Gill",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4896697,
+				"name": "Kalpana Kutty",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 86013,
+				"name": "Arbaaz Khan",
+				"profile_path": "/n5iBuvIjx5zuR4DzCfXGtXyv55s.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 86009,
+				"name": "Sohail Khan",
+				"profile_path": "/bosWkX7lwr3qfluaB3ZlbLXKSR3.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3283922,
+				"name": "Alvira Khan Agnihotri",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4896702,
+				"name": "Arpita Khan Sharma",
+				"job": "Executive Producer",
+				"department": "Production"
 			}
 		]
 	}

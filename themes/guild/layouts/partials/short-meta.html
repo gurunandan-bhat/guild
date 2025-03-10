@@ -1,0 +1,52 @@
+{{ $path := printf "meta/%s.json" (md5 .LinkTitle) }}
+{{ $pageImage := .Params.img }}
+{{ $meta := dict }}
+{{ with resources.Get $path }}
+    {{ with . | transform.Unmarshal }}
+        {{ $meta = . }}
+    {{ end }}
+{{ else }}
+    {{ warnf "Unable to get global resource %s: %q" .LinkTitle $path }}
+{{ end }}
+
+{{ $imgPath := (printf "/meta/backdrops%s" $meta.backdrop_path) }}
+{{ with resources.Get $imgPath }}
+    <img src="{{ .RelPermalink }}" class="img-fluid w-100" />
+{{ else }}
+    {{ $imgPath = printf "meta/posters%s" $meta.poster_path }}
+    {{ with (partial "scaledImage.html" $imgPath) }}
+        <img src="{{ .RelPermalink }}" class="img-fluid w-100" />
+    {{ end }}
+{{ end }}
+{{ $genreList := slice }}
+{{ range $meta.genres }}
+    {{ $genreList = append .name $genreList }}
+{{ end }}
+{{ $castList := slice }}
+{{ with $meta.credits.cast }}
+    {{ $cast := . }}
+    {{ $castLen := len $cast }}
+    {{ $min := math.Min 5 $castLen }}
+    {{ $cS := slice }}
+    {{ range first $min $cast }}
+        {{ $cS = append (.name) $cS }}
+    {{ end }}
+    {{ $castList = delimit $cS ", " }}
+{{ end }}
+
+{{ $crew := $meta.credits.crew }}
+{{ $director := "" }}
+{{ range $crew }}
+    {{ if eq .job "Director" }}
+        {{ $director = .name }}
+    {{ end }}
+{{ end }}
+<div class="latest">
+    <h6>{{ $meta.title }}</h6>
+    <p class="fw-bolder">{{ delimit $genreList ", " }}</p>
+    <p>{{ delimit (first 16 (split $meta.overview " ")) " " }}&hellip;</p>
+    <p>
+        <span class="fw-bolder">Cast:</span> {{ $castList }}<br />
+        <span class="fw-bolder">Director:</span> {{ $director }}
+    </p>
+</div>
