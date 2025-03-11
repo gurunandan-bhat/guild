@@ -1,12 +1,14 @@
-{{ $path := printf "meta/%s.json" (md5 .LinkTitle) }}
-{{ $pageImage := .Params.img }}
+{{ $context := index . "context" }}
+{{ $type := index . "type" }}
+{{ $path := printf "meta/%s.json" (md5 $context.LinkTitle) }}
+{{ $pageImage := $context.Params.img }}
 {{ $meta := dict }}
 {{ with resources.Get $path }}
     {{ with . | transform.Unmarshal }}
         {{ $meta = . }}
     {{ end }}
 {{ else }}
-    {{ warnf "Unable to get global resource %s: %q" .LinkTitle $path }}
+    {{ warnf "Unable to get global resource %s: %q" $context.LinkTitle $path }}
 {{ end }}
 
 {{ $imgPath := (printf "/meta/backdrops%s" $meta.backdrop_path) }}
@@ -44,9 +46,19 @@
 <div class="latest">
     <h6>{{ $meta.title }}</h6>
     <p class="fw-bolder">{{ delimit $genreList ", " }}</p>
-    <p>{{ delimit (first 16 (split $meta.overview " ")) " " }}&hellip;</p>
+    <p>
+        {{ if eq $type "short" }}
+            {{ delimit (first 16 (split $meta.overview " ")) " " }}&hellip;
+        {{ else }}
+            {{ $meta.overview }}
+        {{ end }}
+    </p>
     <p>
         <span class="fw-bolder">Cast:</span> {{ $castList }}<br />
-        <span class="fw-bolder">Director:</span> {{ $director }}
+        {{ with $director }}
+            <span class="fw-bolder">Director:</span> {{ $director }}
+        {{ end }}
     </p>
+    <hr />
+    {{ partial "taxonomy/mreviews/reviewLink.html" $meta.title }}
 </div>

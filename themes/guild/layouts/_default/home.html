@@ -1,6 +1,48 @@
 {{ define "main" }}
-    {{ range (partial "top-list.html" (dict "maxCount" 8 "section" "reviews")) }}
-        {{ range first 3 (where site.RegularPages ".Title" .Title) }}
-        {{ end }}
-    {{ end }}
+    {{ $films := partial "recent-film-list.html" (dict "maxCount" 8 "section" "reviews") }}
+    <div class="row">
+        <div class="col-lg-10 offset-lg-1">
+            <div class="row">
+                {{ range $films }}
+                    <div class="col-lg-6 my-3">
+                        <div>
+                            {{ partial "short-meta.html" (dict "context" . "type" "full") }}
+                        </div>
+                        {{ $reviews := first 3 (sort (where .Site.RegularPages ".LinkTitle" .LinkTitle) ".Date" "desc") }}
+                        {{ range $review := $reviews }}
+                            <div class="short-review mb-1">
+                                {{ $reviewer := index (where site.RegularPages ".LinkTitle" (index $review.Params.critics 0)) 0 }}
+                                {{ with $reviewer }}
+                                    {{ $img := resources.Get .Params.img }}
+                                    {{ $img = $img.Resize "50x" }}
+                                    <div class="border border-2 p-2 clearfix">
+                                        <div class="py-1">
+                                            <img
+                                                src="{{ $img.RelPermalink }}"
+                                                class="rounded-circle float-start mt-1" />
+                                        </div>
+                                        <div style="padding-left: 62px;">
+                                            <div>
+                                                <span class="author"
+                                                    >{{ .Params.title }}</span
+                                                >
+                                                |
+                                                <span class="pub-date"
+                                                    >{{ delimit .Params.organizations ", " }}</span
+                                                >
+                                                {{ partial "taxonomy/critics/reviewLink.html" .Params.title }}
+                                            </div>
+                                            <h6>
+                                                {{ $review.Params.subtitle }}
+                                            </h6>
+                                        </div>
+                                    </div>
+                                {{ end }}
+                            </div>
+                        {{ end }}
+                    </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>
 {{ end }}

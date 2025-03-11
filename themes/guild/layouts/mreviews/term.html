@@ -76,7 +76,7 @@
     {{ end }}
     {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 
-    {{ $reviews := partial "top-list.html" (dict "maxCount" 4 "section" "reviews") }}
+    {{ $reviews := partial "recent-film-list.html" (dict "maxCount" 4 "section" "reviews") }}
     <div class="container">
         <div class="row">
             <h2 class="section-head">Latest Reviews</h2>
@@ -84,7 +84,7 @@
         <div class="row">
             {{ range $reviews }}
                 <div class="col-lg-3 h-100">
-                    {{ partial "short-meta.html" . }}
+                    {{ partial "short-meta.html" (dict "context" . "type" "short") }}
                 </div>
             {{ end }}
         </div>

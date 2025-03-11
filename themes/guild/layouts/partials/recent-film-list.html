@@ -7,6 +7,8 @@
     {{ if (index $titleMap $title) }}{{ continue }}{{ end }}
     {{ $reviews = append (slice .) $reviews }}
     {{ $titleMap = merge $titleMap (dict $title 1) }}
-    {{ if ge ($reviews | len) $maxCount }}{{ break }}{{ end }}
+    {{ if ge $maxCount 0 }}
+        {{ if ge ($reviews | len) $maxCount }}{{ break }}{{ end }}
+    {{ end }}
 {{ end }}
 {{ return $reviews }}

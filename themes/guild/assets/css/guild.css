@@ -5,6 +5,7 @@ body {
     font-size: 16px;
     color: #333333;
     background-color: #f4eef5;
+    padding-top: 70px;
 }
 h1 {
     font-family: "Oswald", sans-serif;
@@ -124,6 +125,7 @@ h4.sub-title {
     font-family: Oswald;
     color: #924c9d;
     text-transform: uppercase;
+    margin-bottom: 3px;
 }
 
 .latest {
@@ -132,4 +134,45 @@ h4.sub-title {
     font-weight: 400;
     padding: 1rem;
     background-color: #ebe4ed;
+}
+
+.meta h4 {
+    font-size: 16px;
+    text-decoration: none;
+    font-family: Oswald;
+    font-weight: 400;
+    color: #924c9d;
+}
+
+.short-review h6 {
+    font-size: 14px;
+    text-decoration: none;
+    font-weight: 500;
+    color: #636363;
+    text-transform: uppercase;
+}
+
+.short-review .author {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 0.8rem;
+    color: #757575;
+}
+
+.short-review .pub-date {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 0.8rem;
+    color: #868686;
+}
+
+p.all-link {
+    font-size: 16px;
+    text-decoration: none;
+    font-family: Oswald;
+    font-weight: 400;
+    color: #868686;
+    text-align: end;
 }

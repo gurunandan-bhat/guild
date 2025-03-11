@@ -1,10 +1,9 @@
 {{ $revPage := index site.Taxonomies.mreviews (lower .) }}
-{{ $revCount := site.Taxonomies.mreviews.Count . }}
+{{/* {{ $revCount := site.Taxonomies.mreviews.Count . }} */}}
+{{ warnf print . }}
 {{ $intLinkIcon := index site.Data.svgicons.icons "internalLink" | safeHTML }}
-{{ if gt $revCount 1 }}
-    <h6 class="fw-bold small">
-        All {{ $revCount }} reviews of
-        {{ . }}
-        <a href="{{ $revPage.Page.RelPermalink }}">here {{ $intLinkIcon }}</a>
-    </h6>
-{{ end }}
+<p class="all-link">
+    All reviews of
+    {{ . }}
+    <a href="{{ $revPage.Page.RelPermalink }}">here {{ $intLinkIcon }}</a>
+</p>
