@@ -16,7 +16,8 @@
         </div>
     </div>
     <div>
-        {{ partial "taxonomy/mreviews/metadata.html" $meta }}
+        {{ $scoreImg := partial "fcg-rating.html" .LinkTitle }}
+        {{ partial "taxonomy/mreviews/metadata.html" (dict "meta" $meta "scoreImg" $scoreImg) }}
     </div>
 
     <div class="container">

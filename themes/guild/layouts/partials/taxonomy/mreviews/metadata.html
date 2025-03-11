@@ -1,4 +1,5 @@
-{{ $metadata := . }}
+{{ $metadata := index . "meta" }}
+{{ $scoreImg := index . "scoreImg" }}
 {{ $imgLink := "" }}
 {{ with $metadata.poster_path }}
     {{ with resources.Get (printf "meta/posters%s" .) }}
@@ -14,7 +15,6 @@
         {{ $genreList = append .name $genreList }}
     {{ end }}
 {{ end }}
-
 {{ $castList := slice }}
 {{ with $metadata.credits.cast }}
     {{ $cast := . }}
@@ -51,50 +51,59 @@
                     <span class="genre">{{ . }}</span>
                 {{ end }}
             </p>
-            <table class="table small table-sm  table-custom">
-                <tbody>
-                    {{ with $metadata.title }}
-                        <tr>
-                            <th scope="row">Title:</th>
-                            <td class="attribute">{{ . }}</td>
-                        </tr>
+            <div class="row">
+                <div class="col-lg-8">
+                    <table class="table small table-sm  table-custom">
+                        <tbody>
+                            {{ with $metadata.title }}
+                                <tr>
+                                    <th scope="row">Title:</th>
+                                    <td class="attribute">{{ . }}</td>
+                                </tr>
+                            {{ end }}
+                            {{ with $metadata.original_title }}
+                                <tr>
+                                    <th scope="row">Original Title:</th>
+                                    <td>{{ . }}</td>
+                                </tr>
+                            {{ end }}
+                            {{ with $metadata.overview }}
+                                <tr>
+                                    <th scope="row">Plot:</th>
+                                    <td class="attribute">{{ . }}</td>
+                                </tr>
+                            {{ end }}
+                            <tr>
+                                <th scope="row">Cast:</th>
+                                <td class="attribute">{{ $castList }}</td>
+                            </tr>
+                            {{ with $director }}
+                                <tr>
+                                    <th scope="row">Director:</th>
+                                    <td class="attribute">{{ . }}</td>
+                                </tr>
+                            {{ end }}
+                            {{ with $camera }}
+                                <tr>
+                                    <th scope="row">Cinematography:</th>
+                                    <td class="attribute">{{ . }}</td>
+                                </tr>
+                            {{ end }}
+                            {{ with $editor }}
+                                <tr>
+                                    <th scope="row">Editor:</th>
+                                    <td class="attribute">{{ . }}</td>
+                                </tr>
+                            {{ end }}
+                        </tbody>
+                    </table>
+                </div>
+                <div class="col-lg-4">
+                    {{ with $scoreImg }}
+                        <img src="{{ . }}" />
                     {{ end }}
-                    {{ with $metadata.original_title }}
-                        <tr>
-                            <th scope="row">Original Title:</th>
-                            <td>{{ . }}</td>
-                        </tr>
-                    {{ end }}
-                    {{ with $metadata.overview }}
-                        <tr>
-                            <th scope="row">Plot:</th>
-                            <td class="attribute">{{ . }}</td>
-                        </tr>
-                    {{ end }}
-                    <tr>
-                        <th scope="row">Cast:</th>
-                        <td class="attribute">{{ $castList }}</td>
-                    </tr>
-                    {{ with $director }}
-                        <tr>
-                            <th scope="row">Director:</th>
-                            <td class="attribute">{{ . }}</td>
-                        </tr>
-                    {{ end }}
-                    {{ with $camera }}
-                        <tr>
-                            <th scope="row">Cinematography:</th>
-                            <td class="attribute">{{ . }}</td>
-                        </tr>
-                    {{ end }}
-                    {{ with $editor }}
-                        <tr>
-                            <th scope="row">Editor:</th>
-                            <td class="attribute">{{ . }}</td>
-                        </tr>
-                    {{ end }}
-                </tbody>
-            </table>
+                </div>
+            </div>
         </div>
     </div>
 </div>

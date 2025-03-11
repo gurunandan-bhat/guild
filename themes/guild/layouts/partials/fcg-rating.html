@@ -1,0 +1,16 @@
+{{ $title := . }}
+{{ $reviews := index site.Taxonomies.mreviews (lower $title) }}
+{{ $score := 0 }}
+{{ $outOf := 0 }}
+{{ range $reviews }}
+    {{ with .Params.score }}
+        {{ $score = add $score . }}
+        {{ $outOf = add $outOf 1 }}
+    {{ end }}
+{{ end }}
+{{ $path := "" }}
+{{ if ge $outOf 3 }}
+    {{ $score = math.Round (div $score $outOf) }}
+    {{ $path = printf "/images/scores/medium%s.png" (cast.ToString $score) }}
+{{ end }}
+{{ return $path }}
