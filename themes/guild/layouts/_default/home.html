@@ -3,9 +3,6 @@
     {{ $paginator := .Paginate $films  12 }}
     <div class="row">
         <div class="col-lg-10 offset-lg-1">
-            <div class="d-flex justify-content-center">
-                {{ template "_internal/pagination.html" . }}
-            </div>
             <div class="row">
                 {{ range $paginator.Pages }}
                     <div class="col-lg-6 my-3">
