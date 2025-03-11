@@ -1,5 +1,6 @@
 {{ $context := index . "context" }}
 {{ $type := index . "type" }}
+{{ $scoreImg := index . "scoreImg" }}
 {{ $path := printf "meta/%s.json" (md5 $context.Title) }}
 {{ $pageImage := $context.Params.img }}
 {{ $meta := dict }}
@@ -46,19 +47,28 @@
 <div class="latest">
     <h6>{{ $meta.title }}</h6>
     <p class="fw-bolder">{{ delimit $genreList ", " }}</p>
-    <p>
-        {{ if eq $type "short" }}
-            {{ delimit (first 16 (split $meta.overview " ")) " " }}&hellip;
-        {{ else }}
-            {{ $meta.overview }}
-        {{ end }}
-    </p>
-    <p>
-        <span class="fw-bolder">Cast:</span> {{ $castList }}<br />
-        {{ with $director }}
-            <span class="fw-bolder">Director:</span> {{ $director }}
-        {{ end }}
-    </p>
+    <div class="row">
+        <div class="col-lg-9">
+            <p>
+                {{ if eq $type "short" }}
+                    {{ delimit (first 16 (split $meta.overview " ")) " " }}&hellip;
+                {{ else }}
+                    {{ $meta.overview }}
+                {{ end }}
+            </p>
+            <p>
+                <span class="fw-bolder">Cast:</span> {{ $castList }}<br />
+                {{ with $director }}
+                    <span class="fw-bolder">Director:</span> {{ $director }}
+                {{ end }}
+            </p>
+        </div>
+        <div class="col-lg-3">
+            {{ with $scoreImg }}
+                <img src="{{ . }}" class="img-fluid w-100" />
+            {{ end }}
+        </div>
+    </div>
     <hr />
     {{ partial "taxonomy/mreviews/reviewLink.html" $context.LinkTitle }}
 </div>
