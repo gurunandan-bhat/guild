@@ -1,6 +1,6 @@
 {{ $context := index . "context" }}
 {{ $type := index . "type" }}
-{{ $path := printf "meta/%s.json" (md5 $context.LinkTitle) }}
+{{ $path := printf "meta/%s.json" (md5 $context.Title) }}
 {{ $pageImage := $context.Params.img }}
 {{ $meta := dict }}
 {{ with resources.Get $path }}
@@ -60,5 +60,5 @@
         {{ end }}
     </p>
     <hr />
-    {{ partial "taxonomy/mreviews/reviewLink.html" $meta.title }}
+    {{ partial "taxonomy/mreviews/reviewLink.html" $context.LinkTitle }}
 </div>

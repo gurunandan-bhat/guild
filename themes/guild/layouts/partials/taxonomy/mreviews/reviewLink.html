@@ -1,6 +1,5 @@
 {{ $revPage := index site.Taxonomies.mreviews (lower .) }}
 {{/* {{ $revCount := site.Taxonomies.mreviews.Count . }} */}}
-{{ warnf print . }}
 {{ $intLinkIcon := index site.Data.svgicons.icons "internalLink" | safeHTML }}
 <p class="all-link">
     All reviews of

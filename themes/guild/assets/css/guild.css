@@ -176,3 +176,17 @@ p.all-link {
     color: #868686;
     text-align: end;
 }
+
+ul.pagination li {
+    padding: 0 2px;
+}
+
+ul.pagination li.active a {
+    background-color: #924c9d;
+    color: #ffffff !important;
+}
+ul.pagination li.page-item a {
+    font-size: 0.8rem !important;
+    font-family: Poppins;
+    color: #924c9d;
+}

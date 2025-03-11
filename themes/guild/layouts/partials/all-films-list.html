@@ -1,0 +1,10 @@
+{{ $section := . }}
+{{ $titleMap := dict }}
+{{ $reviews := slice }}
+{{ range sort (where site.RegularPages "Section" $section) ".Date" "desc" }}
+    {{ $title := .Title }}
+    {{ if (index $titleMap $title) }}{{ continue }}{{ end }}
+    {{ $reviews = append (slice .) $reviews }}
+    {{ $titleMap = merge $titleMap (dict $title 1) }}
+{{ end }}
+{{ return $reviews }}
