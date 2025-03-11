@@ -91,7 +91,8 @@
         <div class="row">
             {{ range $reviews }}
                 <div class="col-lg-3 h-100">
-                    {{ partial "short-meta.html" (dict "context" . "type" "short") }}
+                    {{ $scoreImg := partial "fcg-rating.html" .LinkTitle }}
+                    {{ partial "short-meta.html" (dict "context" . "type" "short" "scoreImg" $scoreImg) }}
                 </div>
             {{ end }}
         </div>
