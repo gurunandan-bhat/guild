@@ -1,4 +1,5 @@
-{{ $title := . }}
+{{ $title := index . "title" }}
+{{ $size := index . "size" }}
 {{ $reviews := index site.Taxonomies.mreviews (lower $title) }}
 {{ $score := 0 }}
 {{ $outOf := 0 }}
@@ -11,6 +12,6 @@
 {{ $path := "" }}
 {{ if ge $outOf 3 }}
     {{ $score = math.Round (div $score $outOf) }}
-    {{ $path = printf "/images/scores/medium%s.png" (cast.ToString $score) }}
+    {{ $path = printf "/images/scores/%s%s.png" $size (cast.ToString $score) }}
 {{ end }}
 {{ return $path }}

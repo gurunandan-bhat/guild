@@ -16,7 +16,7 @@
         </div>
     </div>
     <div>
-        {{ $scoreImg := partial "fcg-rating.html" .LinkTitle }}
+        {{ $scoreImg := partial "fcg-rating.html" (dict "title" .LinkTitle "size" "large") }}
         {{ partial "taxonomy/mreviews/metadata.html" (dict "meta" $meta "scoreImg" $scoreImg) }}
     </div>
 
@@ -91,7 +91,7 @@
         <div class="row">
             {{ range $reviews }}
                 <div class="col-lg-3 h-100">
-                    {{ $scoreImg := partial "fcg-rating.html" .LinkTitle }}
+                    {{ $scoreImg := partial "fcg-rating.html" (dict "title" .LinkTitle "size" "medium") }}
                     {{ partial "short-meta.html" (dict "context" . "type" "short" "scoreImg" $scoreImg) }}
                 </div>
             {{ end }}
