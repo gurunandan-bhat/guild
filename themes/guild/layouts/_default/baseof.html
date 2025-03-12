@@ -12,11 +12,9 @@
             </header>
         </div>
         <main>
-            <div class="container">
-                {{ block "main" . }}{{ end }}
-            </div>
+            {{ block "main" . }}{{ end }}
         </main>
-        <div class="container">
+        <div class="container-fluid">
             <footer>
                 {{ partial "footer.html" . }}
             </footer>

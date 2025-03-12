@@ -5,8 +5,31 @@ body {
     font-size: 16px;
     color: #333333;
     background-color: #f4eef5;
-    padding-top: 70px;
+    padding-top: 80px;
+    min-height: 2000px;
 }
+
+.navbar {
+    background-color: #000000;
+    border-bottom: #924c9d 6px solid;
+}
+
+.navbar-nav .nav-link {
+    color: #cac4d0;
+    font-size: 18px;
+    font-family: "Oswald", sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.navbar-nav .nav-link.active {
+    color: #924c9d;
+}
+
+.banner-holder {
+    padding: 10px 60px;
+}
+
 h1 {
     font-family: "Oswald", sans-serif;
     font-optical-sizing: auto;

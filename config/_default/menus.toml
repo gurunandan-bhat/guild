@@ -4,16 +4,11 @@ pageRef = '/'
 weight  = 10
 
 [[main]]
-name    = 'Reviews'
-pageRef = '/reviews'
+name    = 'Register'
+pageRef = '/register'
 weight  = 20
 
 [[main]]
-name    = 'Reviews By Film'
-pageRef = '/mreviews'
-weight  = 20
-
-[[main]]
-name    = 'Critics'
-pageRef = '/critics'
-weight  = 40
+name    = 'Log In'
+pageRef = '/login'
+weight  = 30

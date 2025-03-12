@@ -1,4 +1,8 @@
 {{ define "main" }}
+    <div class="container-fluid">
+        <div style="height: 50px;"></div>
+    </div>
+
     <div class="container">
         <div class="row">
             <div class="col-lg-10 offset-lg-1">
@@ -25,76 +29,76 @@
             <div class="col-lg-10 offset-lg-1">
                 <h2 class="section-head">Guild Reviews</h2>
             </div>
-        </div>
-    </div>
-
-    {{ range .Pages }}
-        <div class="mb-5">
-            {{ if eq .Params.media "print" }}
-                <div class="row mb-5">
-                    <div class="col-lg-4 offset-lg-1">
-                        {{ $imgPath := printf "images/reviews/%s" .Params.img }}
-                        {{ $img := resources.Get $imgPath }}
-                        {{ with $img }}
-                            <img
-                                src="{{ .RelPermalink }}"
-                                class="img-fluid w-100 review-image mt-2" />
-                        {{ end }}
-                    </div>
-                    <div class="col-lg-6">
-                        <div
-                            class="border border-start-2 border-end-2 border-top-0 border-bottom-0">
-                            <div
-                                class="border border-3 border-top-0 border-start-0 border-end-0">
-                                <div class="px-4">
-                                    <h2 class="mb-2">
-                                        {{ .Params.subtitle }}
-                                    </h2>
-                                    <div class="pb-1">
-                                        {{ partial "reviewer.html" (dict "reviewer" (index .Params.critics 0 ) "date" (.Date | time.Format ":date_long")) }}
+            {{ range .Pages }}
+                <div class="mb-5">
+                    {{ if eq .Params.media "print" }}
+                        <div class="row mb-5">
+                            <div class="col-lg-4 offset-lg-1">
+                                {{ $imgPath := printf "images/reviews/%s" .Params.img }}
+                                {{ $img := resources.Get $imgPath }}
+                                {{ with $img }}
+                                    <img
+                                        src="{{ .RelPermalink }}"
+                                        class="img-fluid w-100 review-image mt-2" />
+                                {{ end }}
+                            </div>
+                            <div class="col-lg-6">
+                                <div
+                                    class="border border-start-2 border-end-2 border-top-0 border-bottom-0">
+                                    <div
+                                        class="border border-3 border-top-0 border-start-0 border-end-0">
+                                        <div class="px-4">
+                                            <h2 class="mb-2">
+                                                {{ .Params.subtitle }}
+                                            </h2>
+                                            <div class="pb-1">
+                                                {{ partial "reviewer.html" (dict "reviewer" (index .Params.critics 0 ) "date" (.Date | time.Format ":date_long")) }}
+                                            </div>
+                                            <div class="small">
+                                                {{ .Summary }}
+                                            </div>
+                                            <p>
+                                                <a
+                                                    href="{{ .Params.source }}"
+                                                    target="_blank"
+                                                    >Continue reading
+                                                    &hellip;</a
+                                                >
+                                            </p>
+                                        </div>
                                     </div>
-                                    <div class="small">
-                                        {{ .Summary }}
-                                    </div>
-                                    <p>
-                                        <a
-                                            href="{{ .Params.source }}"
-                                            target="_blank"
-                                            >Continue reading &hellip;</a
-                                        >
-                                    </p>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </div>
-            {{ else }}
-                <div class="row">
-                    <div class="col-lg-6 offset-lg-3">
-                        <h2 class="my-3">{{ .Params.subtitle }}</h2>
-                        <div class="mb-4">
-                            {{ partial "reviewer.html" (dict "reviewer" (index .Params.critics 0 ) "date" (.Date | time.Format ":date_long")) }}
+                    {{ else }}
+                        <div class="row">
+                            <div class="col-lg-6 offset-lg-3">
+                                <h2 class="my-3">{{ .Params.subtitle }}</h2>
+                                <div class="mb-4">
+                                    {{ partial "reviewer.html" (dict "reviewer" (index .Params.critics 0 ) "date" (.Date | time.Format ":date_long")) }}
+                                </div>
+                                {{ .Summary }}
+                            </div>
                         </div>
-                        {{ .Summary }}
-                    </div>
+                    {{ end }}
                 </div>
             {{ end }}
-        </div>
-    {{ end }}
-    {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+            {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 
-    {{ $reviews := partial "recent-film-list.html" (dict "maxCount" 4 "section" "reviews") }}
-    <div class="container">
-        <div class="row">
-            <h2 class="section-head">Latest Reviews</h2>
-        </div>
-        <div class="row">
-            {{ range $reviews }}
-                <div class="col-lg-3 h-100">
-                    {{ $scoreImg := partial "fcg-rating.html" (dict "title" .LinkTitle "size" "medium") }}
-                    {{ partial "short-meta.html" (dict "context" . "type" "short" "scoreImg" $scoreImg) }}
+            {{ $reviews := partial "recent-film-list.html" (dict "maxCount" 4 "section" "reviews") }}
+            <div class="container">
+                <div class="row">
+                    <h2 class="section-head">Latest Reviews</h2>
                 </div>
-            {{ end }}
+                <div class="row">
+                    {{ range $reviews }}
+                        <div class="col-lg-3 h-100">
+                            {{ $scoreImg := partial "fcg-rating.html" (dict "title" .LinkTitle "size" "medium") }}
+                            {{ partial "short-meta.html" (dict "context" . "type" "short" "scoreImg" $scoreImg) }}
+                        </div>
+                    {{ end }}
+                </div>
+            </div>
         </div>
     </div>
 {{ end }}
