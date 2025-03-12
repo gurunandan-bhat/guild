@@ -1,13 +1,4 @@
 {{ define "main" }}
-    {{ $meta := dict }}
-    {{ $path := printf "meta/%s.json" (md5 .LinkTitle) }}
-    {{ with resources.Get $path }}
-        {{ with . | transform.Unmarshal }}
-            {{ $meta = . }}
-        {{ end }}
-    {{ else }}
-        {{ warnf "Unable to get global resource %s: %q" .LinkTitle $path }}
-    {{ end }}
     <div class="container">
         <div class="row">
             <div class="col-lg-10 offset-lg-1">
@@ -16,8 +7,17 @@
         </div>
     </div>
     <div>
-        {{ $scoreImg := partial "fcg-rating.html" (dict "title" .LinkTitle "size" "large") }}
-        {{ partial "taxonomy/mreviews/metadata.html" (dict "meta" $meta "scoreImg" $scoreImg) }}
+        {{ $meta := dict }}
+        {{ $path := printf "meta/%s.json" (md5 .LinkTitle) }}
+        {{ with resources.Get $path }}
+            {{ with . | transform.Unmarshal }}
+                {{ $meta = . }}
+                {{ $scoreImg := partial "fcg-rating.html" (dict "title" .LinkTitle "size" "large") }}
+                {{ partial "taxonomy/mreviews/metadata.html" (dict "meta" $meta "scoreImg" $scoreImg) }}
+            {{ end }}
+        {{ else }}
+            {{ warnf "Unable to get global resource %s: %q" .LinkTitle $path }}
+        {{ end }}
     </div>
 
     <div class="container">
