@@ -16,9 +16,13 @@
 {{ with resources.Get $imgPath }}
     <img src="{{ .RelPermalink }}" class="img-fluid w-100" />
 {{ else }}
-    {{ $imgPath = printf "meta/posters%s" $meta.poster_path }}
-    {{ with (partial "scaledImage.html" $imgPath) }}
-        <img src="{{ .RelPermalink }}" class="img-fluid w-100" />
+    {{ $review := first 1 (where site.RegularPages ".Title" $context.Title) }}
+    {{ with (index $review 0) }}
+        {{ with .Params.img }}
+            {{ with partial "scaledImage" (printf "images/reviews/%s" .) }}
+                <img src="{{ .RelPermalink }}" class="img-fluid w-100" />
+            {{ end }}
+        {{ end }}
     {{ end }}
 {{ end }}
 {{ $genreList := slice }}
