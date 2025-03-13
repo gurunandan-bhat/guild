@@ -1,8 +1,8 @@
 +++
-title = "Daredevil: Born Again"
+title = "Daredevil Born Again"
 date = 2025-03-10T22:59:13+05:30
 draft = false
-mreviews = ["Daredevil: Born Again"]
+mreviews = ["Daredevil Born Again"]
 critics = ['Sanyukta Thakare']
 publication = ''
 subtitle = "Marvel Makes A Comeback With Old School Heroes And Villains"
