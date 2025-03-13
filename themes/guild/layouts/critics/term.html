@@ -34,6 +34,9 @@
                                     <div class="px-4">
                                         <h2 class="mb-2">
                                             {{ .Title }}
+                                            {{ with .Params.translatedTitle }}
+                                                ({{ . }})
+                                            {{ end }}
                                         </h2>
                                         <h4 class="sub-title">
                                             {{ .Params.subtitle }}
@@ -56,7 +59,12 @@
                 {{ else }}
                     <div class="row">
                         <div class="col-lg-6 offset-lg-3">
-                            <h2 class="my-3">{{ .Title }}</h2>
+                            <h2 class="my-3">
+                                {{ .Title }}
+                                {{ with .Params.translatedTitle }}
+                                    ({{ . }})
+                                {{ end }}
+                            </h2>
                             <h4 class="sub-title">{{ .Params.subtitle }}</h4>
                             {{ .Summary }}
                         </div>
