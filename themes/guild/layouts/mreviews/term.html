@@ -20,16 +20,12 @@
         </div>
     </div>
     <div>
-        {{ $meta := dict }}
-        {{ $path := printf "meta/%s.json" (md5 .LinkTitle) }}
-        {{ with resources.Get $path }}
-            {{ with . | transform.Unmarshal }}
-                {{ $meta = . }}
-                {{ $scoreImg := partial "fcg-rating.html" (dict "title" .LinkTitle "size" "large") }}
-                {{ partial "taxonomy/mreviews/metadata.html" (dict "meta" $meta "scoreImg" $scoreImg) }}
-            {{ end }}
+        {{ $linkTitle := .LinkTitle }}
+        {{ with partialCached "tmdb-meta.html" $linkTitle $linkTitle }}
+            {{ $scoreImg := partial "fcg-rating.html" (dict "title" $linkTitle "size" "large") }}
+            {{ partial "taxonomy/mreviews/metadata.html" (dict "meta" . "scoreImg" $scoreImg) }}
         {{ else }}
-            {{ warnf "Unable to get global resource %s: %q" .LinkTitle $path }}
+            {{ warnf "Unable to get global resource %s" $linkTitle }}
         {{ end }}
     </div>
 

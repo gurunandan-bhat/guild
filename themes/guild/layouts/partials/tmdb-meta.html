@@ -1,0 +1,9 @@
+{{ $meta := dict }}
+{{ $linkTitle := . }}
+{{ $path := printf "meta/%s.json" ( . | md5 ) }}
+{{ with resources.Get $path }}
+    {{ with . | transform.Unmarshal }}
+        {{ $meta = . }}
+    {{ end }}
+{{ end }}
+{{ return $meta }}

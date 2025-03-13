@@ -1,84 +1,77 @@
 {{ $context := index . "context" }}
 {{ $type := index . "type" }}
 {{ $scoreImg := index . "scoreImg" }}
-{{ $path := printf "meta/%s.json" (md5 $context.Title) }}
 {{ $pageImage := $context.Params.img }}
-{{ $meta := dict }}
-{{ with resources.Get $path }}
-    {{ with . | transform.Unmarshal }}
-        {{ $imgPath := (printf "meta/backdrops%s" .backdrop_path) }}
-        {{ with resources.Get $imgPath }}
-            <img src="{{ .RelPermalink }}" class="img-fluid w-100" />
-        {{ else }}
-            {{ with $context.Params.img }}
-                {{ with partial "scaledImage" (printf "images/reviews/%s" .) }}
-                    <img src="{{ .RelPermalink }}" class="img-fluid w-100" />
-                {{ end }}
+{{ with partialCached "tmdb-meta.html" $context.Title $context.Title }}
+    {{ with resources.Get (printf "meta/backdrops%s" .backdrop_path) }}
+        <img src="{{ .RelPermalink }}" class="img-fluid w-100" />
+    {{ else }}
+        {{ with $context.Params.img }}
+            {{ with partial "scaledImage" (printf "images/reviews/%s" .) }}
+                <img src="{{ .RelPermalink }}" class="img-fluid w-100" />
             {{ end }}
         {{ end }}
-
-        {{ $genreList := slice }}
-        {{ range .genres }}
-            {{ $genreList = append .name $genreList }}
-        {{ end }}
-
-        {{ $castList := slice }}
-        {{ with .credits.cast }}
-            {{ $cast := . }}
-            {{ $castLen := len $cast }}
-            {{ $min := math.Min 5 $castLen }}
-            {{ $cS := slice }}
-            {{ range first $min $cast }}
-                {{ $cS = append (.name) $cS }}
-            {{ end }}
-            {{ $castList = delimit $cS ", " }}
-        {{ end }}
-
-        {{ $crew := .credits.crew }}
-        {{ $director := "" }}
-        {{ range $crew }}
-            {{ if eq .job "Director" }}
-                {{ $director = .name }}
-            {{ end }}
-        {{ end }}
-
-
-        <div class="latest">
-            <h6>
-                {{ $context.Title }}
-                {{ with $context.Params.translatedTitle }}
-                    ({{ . }})
-                {{ end }}
-            </h6>
-            <p class="fw-bolder">{{ delimit $genreList ", " }}</p>
-            <div class="row">
-                <div class="col-lg-9">
-                    <p>
-                        {{ if eq $type "short" }}
-                            {{ delimit (first 16 (split .overview " ")) " " }}&hellip;
-                        {{ else }}
-                            {{ .overview }}
-                        {{ end }}
-                    </p>
-                    <p>
-                        <span class="fw-bolder">Cast:</span>
-                        {{ $castList }}<br />
-                        {{ with $director }}
-                            <span class="fw-bolder">Director:</span>
-                            {{ $director }}
-                        {{ end }}
-                    </p>
-                </div>
-                <div class="col-lg-3">
-                    {{ with $scoreImg }}
-                        <img src="{{ . }}" class="img-fluid w-100" />
-                    {{ end }}
-                </div>
-            </div>
-            <hr />
-            {{ partial "taxonomy/mreviews/reviewLink.html" $context.LinkTitle }}
-        </div>
     {{ end }}
+
+    {{ $genreList := slice }}
+    {{ range .genres }}
+        {{ $genreList = append .name $genreList }}
+    {{ end }}
+
+    {{ $castList := slice }}
+    {{ with .credits.cast }}
+        {{ $cast := . }}
+        {{ $castLen := len $cast }}
+        {{ $min := math.Min 5 $castLen }}
+        {{ $cS := slice }}
+        {{ range first $min $cast }}
+            {{ $cS = append (.name) $cS }}
+        {{ end }}
+        {{ $castList = delimit $cS ", " }}
+    {{ end }}
+
+    {{ $crew := .credits.crew }}
+    {{ $director := "" }}
+    {{ range $crew }}
+        {{ if eq .job "Director" }}
+            {{ $director = .name }}
+        {{ end }}
+    {{ end }}
+    <div class="latest">
+        <h6>
+            {{ $context.Title }}
+            {{ with $context.Params.translatedTitle }}
+                ({{ . }})
+            {{ end }}
+        </h6>
+        <p class="fw-bolder">{{ delimit $genreList ", " }}</p>
+        <div class="row">
+            <div class="col-lg-9">
+                <p>
+                    {{ if eq $type "short" }}
+                        {{ delimit (first 16 (split .overview " ")) " " }}&hellip;
+                    {{ else }}
+                        {{ .overview }}
+                    {{ end }}
+                </p>
+                <p>
+                    <span class="fw-bolder">Cast:</span>
+                    {{ $castList }}<br />
+                    {{ with $director }}
+                        <span class="fw-bolder">Director:</span>
+                        {{ $director }}
+                    {{ end }}
+                </p>
+            </div>
+            <div class="col-lg-3">
+                {{ with $scoreImg }}
+                    <img src="{{ . }}" class="img-fluid w-100" />
+                {{ end }}
+            </div>
+        </div>
+        <hr />
+        {{ partial "taxonomy/mreviews/reviewLink.html" $context.LinkTitle }}
+    </div>
 {{ else }}
     {{ with $context.Params.img }}
         {{ with partial "scaledImage" (printf "images/reviews/%s" .) }}
@@ -93,5 +86,5 @@
             </h6>
         </div>
     {{ end }}
-    {{ warnf "Unable to get global resource %s: %q" $context.LinkTitle $path }}
+    {{ warnf "Unable to get global resource %s" $context.LinkTitle }}
 {{ end }}
