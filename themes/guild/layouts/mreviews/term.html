@@ -6,7 +6,12 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-10 offset-lg-1">
-                <h1 class="mb-3">{{ .Title }}</h1>
+                <h1 class="mb-3">
+                    {{ .Title }}
+                    {{ with .Params.translatedTitle }}
+                        ({{ . }})
+                    {{ end }}
+                </h1>
             </div>
         </div>
     </div>

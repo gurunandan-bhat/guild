@@ -1,5 +1,6 @@
 +++
 title = "Sthal"
+translatedTitle = 'The Match'
 date = 2025-03-09T08:43:51+05:30
 draft = false
 mreviews = ["Sthal"]

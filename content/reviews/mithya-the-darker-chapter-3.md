@@ -1,8 +1,8 @@
 +++
-title = "Mithya: the Darker Chapter"
+title = "Mithya: The Darker Chapter"
 date = 2024-11-01T09:21:32+05:30
 draft = false
-mreviews = ["Mithya: the Darker Chapter"]
+mreviews = ["Mithya: The Darker Chapter"]
 critics = ['Shubhra Gupta']
 publication = ''
 subtitle = "Huma Qureshi-starrer is contrived, unconvincing, and worst of all, dull"

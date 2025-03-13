@@ -6,9 +6,15 @@
 {{ $meta := dict }}
 {{ with resources.Get $path }}
     {{ with . | transform.Unmarshal }}
-        {{ $imgPath := (printf "/meta/backdrops%s" .backdrop_path) }}
+        {{ $imgPath := (printf "meta/backdrops%s" .backdrop_path) }}
         {{ with resources.Get $imgPath }}
             <img src="{{ .RelPermalink }}" class="img-fluid w-100" />
+        {{ else }}
+            {{ with $context.Params.img }}
+                {{ with partial "scaledImage" (printf "images/reviews/%s" .) }}
+                    <img src="{{ .RelPermalink }}" class="img-fluid w-100" />
+                {{ end }}
+            {{ end }}
         {{ end }}
 
         {{ $genreList := slice }}
@@ -38,7 +44,12 @@
 
 
         <div class="latest">
-            <h6>{{ .title }}</h6>
+            <h6>
+                {{ $context.Title }}
+                {{ with $context.Params.translatedTitle }}
+                    ({{ . }})
+                {{ end }}
+            </h6>
             <p class="fw-bolder">{{ delimit $genreList ", " }}</p>
             <div class="row">
                 <div class="col-lg-9">

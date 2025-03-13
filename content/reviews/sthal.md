@@ -3,6 +3,7 @@ title = "Sthal"
 date = 2025-03-08T00:30:32+05:30
 draft = false
 mreviews = ["Sthal"]
+translatedTitle = 'The Match'
 critics = ['Mihir Bhanage']
 publication = ''
 subtitle = "Sthal effectively calls out the lip service that society does, without being preachy"
