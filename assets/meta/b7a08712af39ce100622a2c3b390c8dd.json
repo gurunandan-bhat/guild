@@ -1,46 +1,229 @@
 {
 	"id": 236429,
-	"title": "The Chewin' Bruin",
+	"title": "On Call",
+	"name": "On Call",
 	"fcg_title": "On Call",
-	"original_title": "The Chewin' Bruin",
 	"original_language": "en",
 	"genres": [
 		{
-			"id": 16,
-			"name": "Animation"
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 10759,
+			"name": "Action \u0026 Adventure"
 		}
 	],
-	"overview": "A bear hunter tells Porky the tale of a hunt 30 years ago: a bear got a taste of his chewing tobacco and chased him down to get it; the hunter took the bear on with his bare hands rather than lose the tobacco. Or at least, that's the way he told the story.",
-	"backdrop_path": "/47dDKDNVtC8uwvOMmSAKAws86xT.jpg",
-	"poster_path": "/wmLl2aQhIlrIrgZXCzoJncZUFe0.jpg",
-	"release_date": "1940-06-07",
+	"overview": "Traci Harmon, a veteran female training officer, and her rookie male ride-along, Alex Diaz, navigate the loss of a fellow officer and politics of modern day policing  — in the department and on the streets of Long Beach.",
+	"backdrop_path": "/urgOc75FXlEU64eToxSypCarJoN.jpg",
+	"poster_path": "/dleP2tDeLpoADaDk43R3q9XXFNq.jpg",
 	"credits": {
 		"cast": [
 			{
-				"id": 33923,
+				"id": 277081,
 				"order": 0,
-				"name": "Mel Blanc",
-				"profile_path": "/8fevv4K06TmHsYom2XfmxgKrTcd.jpg",
-				"character": "Porky Pig (voice)",
-				"gender": 2
+				"name": "Troian Bellisario",
+				"profile_path": "/t7FAZ1y5orB26TNo2Ti4zpoMmUj.jpg",
+				"character": "Traci Harmon",
+				"gender": 1
 			},
 			{
-				"id": 930124,
+				"id": 1711179,
 				"order": 1,
-				"name": "Robert C. Bruce",
-				"profile_path": "/mCJ5S33hPvWeFGojwU659iUvqaV.jpg",
-				"character": "Various (voice)",
+				"name": "Brandon Larracuente",
+				"profile_path": "/fpyAr0bxgSsmNXkDUeg1ASEjU7n.jpg",
+				"character": "Alex Diaz",
 				"gender": 2
 			}
 		],
 		"crew": [
 			{
-				"id": 121037,
-				"name": "Robert Clampett",
-				"profile_path": "/2x8KjXomM8psGFzNXgsGVbaSm5X.jpg",
-				"job": "Director",
-				"department": "Directing",
+				"id": 1370764,
+				"name": "Tim Walsh",
+				"job": "Executive Producer",
+				"department": "Production",
 				"gender": 2
+			},
+			{
+				"id": 4305800,
+				"name": "Elliot Wolf",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 117443,
+				"name": "Dick Wolf",
+				"profile_path": "/tRMEuYNVFjXYJ7gh1sGJSxq9Vwq.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 23628,
+				"name": "Eriq La Salle",
+				"profile_path": "/5tV56htJbF33uc1rOmsOxXFO808.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1218026,
+				"name": "Arthur W. Forney",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1218298,
+				"name": "Peter Jankowski",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 72268,
+				"name": "Atli Örvarsson",
+				"profile_path": "/fmg2HsSMUWAR2QYhOTFtPdqumIw.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3250607,
+				"name": "Laura A. Garcia",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1374614,
+				"name": "Bryan Gracia",
+				"job": "Supervising Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1898856,
+				"name": "Ryan Janata",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3356483,
+				"name": "Rebecca McGill",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2579200,
+				"name": "Anastasia Puglisi",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2891456,
+				"name": "Matthew Segal",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2838687,
+				"name": "Taye Shuayb",
+				"profile_path": "/3BJG9q21Y8P1sZXJEKYiaaaGFYw.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 25142,
+				"name": "Troy Takaki",
+				"profile_path": "/z2Qho95NLlKNSV5jtJk8T84IHy0.jpg",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 88134,
+				"name": "Adam Silver",
+				"profile_path": "/oZuVm1q8Y7l7RiiglPtw166zZtN.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1865673,
+				"name": "Sara Isaacson",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1434016,
+				"name": "Ray Yamagata",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 484529,
+				"name": "Mike Piccirillo",
+				"profile_path": "/b40050yWaoPMurQLeL459lUQxxS.jpg",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1898859,
+				"name": "Sean Whitler",
+				"job": "Unit Production Manager",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2157276,
+				"name": "Jonathan Arthur",
+				"profile_path": "/9vPUNHRNVWi15X2GeBFaUIbLAk3.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1423689,
+				"name": "Dane Leon",
+				"job": "Music Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 3210167,
+				"name": "Stacy Wallen-McCarthy",
+				"job": "Music Supervisor",
+				"department": "Sound"
+			},
+			{
+				"id": 1370764,
+				"name": "Tim Walsh",
+				"job": "Creator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 4305800,
+				"name": "Elliot Wolf",
+				"job": "Creator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2046835,
+				"name": "Erika Walthall",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
 			}
 		]
 	}
