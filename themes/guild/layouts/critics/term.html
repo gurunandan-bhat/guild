@@ -12,11 +12,15 @@
             </div>
         </div>
     </div>
+    {{ $paginator := .Paginate .Pages 8 }}
     <div class="container">
-        {{ range .Pages }}
+        <div class="d-flex justify-content-center mb-3">
+            {{ template "_internal/pagination.html" . }}
+        </div>
+        {{ range $paginator.Pages }}
             <div class="mb-5">
                 {{ if eq .Params.media "print" }}
-                    <div class="row mb-5">
+                    <div class="row mb-3">
                         <div class="col-lg-4 offset-lg-1">
                             {{ $imgPath := printf "images/reviews/%s" .Params.img }}
                             {{ $img := resources.Get $imgPath }}
@@ -72,5 +76,8 @@
                 {{ end }}
             </div>
         {{ end }}
+        <div class="d-flex justify-content-center">
+            {{ template "_internal/pagination.html" . }}
+        </div>
     </div>
 {{ end }}

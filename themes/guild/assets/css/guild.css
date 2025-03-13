@@ -104,7 +104,8 @@ h2.section-head {
     font-family: Oswald;
     font-weight: 400;
     background-color: #ebe4ed;
-    padding: 0.75rem 0 0.75rem 1rem;
+    padding: 0.5rem 0 0.5rem 1rem;
+    margin-bottom: 2rem;
 }
 
 h3.recent {
@@ -137,7 +138,7 @@ h4.sub-title {
     font-size: 16px;
     text-decoration: none;
     font-family: Oswald;
-    font-weight: 500;
+    font-weight: 400;
     background-color: #ebe4ed;
     padding: 0.5rem;
     color: #494949;

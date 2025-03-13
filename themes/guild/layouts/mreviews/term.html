@@ -38,10 +38,14 @@
             <div class="col-lg-10 offset-lg-1">
                 <h2 class="section-head">Guild Reviews</h2>
             </div>
-            {{ range .Pages }}
-                <div class="mb-5">
+            {{ $paginator := .Paginate .Pages 8 }}
+            <div class="d-flex justify-content-center mb-3">
+                {{ template "_internal/pagination.html" . }}
+            </div>
+            {{ range $paginator.Pages }}
+                <div class="mb-3">
                     {{ if eq .Params.media "print" }}
-                        <div class="row mb-5">
+                        <div class="row mb-1">
                             <div class="col-lg-4 offset-lg-1">
                                 {{ $imgPath := printf "images/reviews/%s" .Params.img }}
                                 {{ $img := resources.Get $imgPath }}
@@ -92,8 +96,9 @@
                     {{ end }}
                 </div>
             {{ end }}
-            {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
-
+            <div class="d-flex justify-content-center">
+                {{ template "_internal/pagination.html" . }}
+            </div>
             {{ $reviews := partial "recent-film-list.html" (dict "maxCount" 4 "section" "reviews") }}
             <div class="container">
                 <div class="row">
