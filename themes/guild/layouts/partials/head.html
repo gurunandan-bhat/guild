@@ -7,4 +7,4 @@
         {{ printf "%s | %s" .Title site.Title }}
     {{ end }}
 </title>
-{{ partial "head/css.html" . }}
+{{ partialCached "head/css.html" . }}

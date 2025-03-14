@@ -16,9 +16,9 @@
         </main>
         <div class="container-fluid">
             <footer>
-                {{ partial "footer.html" . }}
+                {{ partialCached "footer.html" . }}
             </footer>
         </div>
-        {{ partial "head/js.html" . }}
+        {{ partialCached "head/js.html" . }}
     </body>
 </html>
