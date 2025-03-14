@@ -1,4 +1,4 @@
-{{- $cssFiles := (slice "css/bootstrap.css" "css/fonts/css" "css/guild.css") }}
+{{- $cssFiles := (slice "css/bootstrap.css" "css/fonts.css" "css/guild.css") }}
 {{- range $cssFiles }}
     {{- with resources.Get . }}
         {{- if eq hugo.Environment "development" }}

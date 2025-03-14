@@ -1,11 +1,11 @@
-.oswald-300 > {
+.oswald-300 {
     font-family: "Oswald", sans-serif;
     font-optical-sizing: auto;
     font-weight: 300;
     font-style: normal;
 }
 
-.oswald-400 > {
+.oswald-400 {
     font-family: "Oswald", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;

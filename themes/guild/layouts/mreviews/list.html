@@ -1,20 +1,97 @@
 {{ define "main" }}
-    <h1>
-        {{ .Title }}
-        {{ with .Params.translatedTitle }}
-            ({{ . }})
-        {{ end }}
-    </h1>
-    {{ .Content }}
-    {{ range .Pages }}
-        <h2>
-            <a href="{{ .RelPermalink }}"
-                >{{ .LinkTitle }}
-                {{ with .Params.translatedTitle }}
-                    ({{ .Params.translatedTitle }})
+    {{ $index := dict }}
+    {{ range $term, $value := .Data.Terms }}
+        {{ $revCount := len $value }}
+        {{ $map := dict }}
+        {{ with index $value 0 }}
+            {{ $mLink := (index (where $.Pages "LinkTitle" .LinkTitle) 0).RelPermalink }}
+            {{ $img := "" }}
+            {{ if (isset .Page.Params "img") }}
+                {{ with partial "scaledImage" (printf "%s/%s" "images/reviews/" .Page.Params.img) }}
+                    {{ $img = .RelPermalink | safeHTML }}
                 {{ end }}
-            </a>
-        </h2>
-        {{ .Summary }}
+            {{ else }}
+                {{ $img = (printf "https://img.youtube.com/vi/%s/mqdefault.jpg" .Page.Params.source) | safeHTML }}
+            {{ end }}
+            {{ $title := index .Page.Params.mreviews 0 }}
+            {{ with .Page.Params.translatedTitle }}
+                {{ $title = printf "%s (%s)" $title . }}
+            {{ end }}
+            {{ $map = merge $map (dict "title" $title "img" $img "link" $mLink "count" $revCount) }}
+        {{ end }}
+        {{ $reviewers := slice }}
+        {{ range $value }}
+            {{ $reviewers = $reviewers | append (index .Params.critics 0) }}
+        {{ end }}
+        {{ $map = merge $map (dict "reviewers" ($reviewers | uniq)) }}
+
+        {{/* We have a full info for a single film
+            So we now continue to build the index
+        */}}
+
+        {{ $firstChar := substr (index $map "title") 0 1 }}
+        {{ $alphaValue := index $index $firstChar }}
+        {{ if $alphaValue }}
+            {{ $alphaValue = $alphaValue | append $map }}
+        {{ else }}
+            {{ $alphaValue = slice $map }}
+        {{ end }}
+        {{ $index = merge $index (dict $firstChar $alphaValue) }}
     {{ end }}
+
+
+    <!-- Template: mreviews/list.html -->
+    <div class="container mt-5 pt-5">
+        <h2 class="fw-bold mb-5">Index of Reviews by Film</h2>
+        <p class="text-center">
+            {{ range site.Data.alphabets.letters }}
+                <span class="d-inline-block px-2 oswald-400 display">
+                    {{ if isset $index . }}
+                        <a href="#{{ . }}">{{ . }}</a>
+                    {{ else }}
+                        {{ . }}
+                    {{ end }}
+                </span>
+            {{ end }}
+        </p>
+        <hr />
+        {{ range $firstChar, $value := $index }}
+            <a class="anchor" id="{{ $firstChar }}"></a>
+            <h2 class="display">
+                {{ $firstChar }}
+                <a class="fira-sans-regular small" href="#top"
+                    >{{ index site.Data.svgicons.icons "backArrow" | safeHTML }}</a
+                >
+            </h2>
+            <div class="row">
+                {{ range $value }}
+                    <div class="col-lg-3 mb-3">
+                        <div class="latest">
+                            <h6>
+                                <a href="{{ index . "link" }}"
+                                    >{{ index . "title" }}
+                                    {{ index site.Data.svgicons.icons "internalLink" | safeHTML }}</a
+                                >
+                            </h6>
+                            {{ with (index . "count") }}
+                                <p class="small fw-bold">
+                                    {{ . }}
+                                    Review{{- if gt . 1 }}s{{- end }}
+                                </p>
+                            {{ end }}
+                            <img
+                                src="{{- (index . "img") -}}"
+                                class="img-responsive w-100 mb-3" />
+                            <p class="small">
+                                <span class="fw-bold bright">Reviewed by:</span
+                                ><br />
+                                {{ delimit (sort (index . "reviewers") "value") ", " }}
+                            </p>
+                        </div>
+                    </div>
+                {{ end }}
+                <hr class="my-3" />
+            </div>
+        {{ end }}
+    </div>
 {{ end }}

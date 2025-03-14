@@ -4,11 +4,16 @@ pageRef = '/'
 weight  = 10
 
 [[main]]
+name    = 'All Films'
+pageRef = '/mreviews'
+weight  = 20
+
+[[main]]
 name    = 'Register'
 pageRef = '/register'
-weight  = 20
+weight  = 30
 
 [[main]]
 name    = 'Log In'
 pageRef = '/login'
-weight  = 30
+weight  = 40

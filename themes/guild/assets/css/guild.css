@@ -225,3 +225,10 @@ ul.pagination li.page-item a {
     font-family: Poppins;
     color: #924c9d;
 }
+
+a.anchor {
+    display: block;
+    position: relative;
+    top: -7rem;
+    visibility: hidden;
+}
