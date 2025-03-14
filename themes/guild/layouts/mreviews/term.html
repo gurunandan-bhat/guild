@@ -74,11 +74,23 @@
                     {{ else }}
                         <div class="row">
                             <div class="col-lg-6 offset-lg-3">
-                                <h2 class="my-3">{{ .Params.subtitle }}</h2>
-                                <div class="mb-4">
-                                    {{ partial "reviewer.html" (dict "reviewer" (index .Params.critics 0 ) "date" (.Date | time.Format ":date_long")) }}
+                                <div class="mb-2">
+                                    <div
+                                        class="border border-start-2 border-end-2 border-top-0 border-bottom-0">
+                                        <div
+                                            class="border border-3 border-top-0 border-start-0 border-end-0">
+                                            <h2 class="my-3">
+                                                {{ .Params.subtitle }}
+                                            </h2>
+                                            <div class="mb-4">
+                                                {{ partial "reviewer.html" (dict "reviewer" (index .Params.critics 0 ) "date" (.Date | time.Format ":date_long")) }}
+                                            </div>
+                                            <div class="p-2">
+                                                {{ .Summary }}
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
-                                {{ .Summary }}
                             </div>
                         </div>
                     {{ end }}

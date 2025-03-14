@@ -1,4 +1,7 @@
 {{ define "main" }}
+    {{ $extLinkIcon := index site.Data.svgicons.icons "externalLink" | safeHTML }}
+
+
     <div class="container-fluid">
         <div style="height: 50px;"></div>
     </div>
@@ -35,7 +38,7 @@
                                 class="border border-start-2 border-end-2 border-top-0 border-bottom-0">
                                 <div
                                     class="border border-3 border-top-0 border-start-0 border-end-0">
-                                    <div class="px-4">
+                                    <div class="px-4 clearfix">
                                         <h2 class="mb-2">
                                             {{ .Title }}
                                             {{ with .Params.translatedTitle }}
@@ -48,13 +51,17 @@
                                         <div class="small">
                                             {{ .Summary }}
                                         </div>
-                                        <p>
+                                        <p class="small float-start">
                                             <a
                                                 href="{{ .Params.source }}"
                                                 target="_blank"
-                                                >Continue Reading&hellip;</a
+                                                >{{ $extLinkIcon }} Continue
+                                                Reading&hellip;</a
                                             >
                                         </p>
+                                        <div class="float-end">
+                                            {{ partial "taxonomy/mreviews/reviewLink.html" .Title }}
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -63,14 +70,26 @@
                 {{ else }}
                     <div class="row">
                         <div class="col-lg-6 offset-lg-3">
-                            <h2 class="my-3">
-                                {{ .Title }}
-                                {{ with .Params.translatedTitle }}
-                                    ({{ . }})
-                                {{ end }}
-                            </h2>
-                            <h4 class="sub-title">{{ .Params.subtitle }}</h4>
-                            {{ .Summary }}
+                            <div class="mb-2">
+                                <div
+                                    class="border border-start-2 border-end-2 border-top-0 border-bottom-0">
+                                    <div
+                                        class="border border-3 border-top-0 border-start-0 border-end-0">
+                                        <h2 class="my-3">
+                                            {{ .Title }}
+                                            {{ with .Params.translatedTitle }}
+                                                ({{ . }})
+                                            {{ end }}
+                                        </h2>
+                                        <h4 class="sub-title">
+                                            {{ .Params.subtitle }}
+                                        </h4>
+                                        <div class="p-2">
+                                            {{ .Summary }}
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 {{ end }}
