@@ -7,10 +7,15 @@
     <div class="clearfix mb-3">
         <img src="{{ $img.RelPermalink }}" class="rounded-circle float-start" />
         <div style="padding-left: 62px;">
-            <div class="author">{{ .Params.title }}</div>
+            <div class="author">
+                {{ .Params.title }} |
+                <span class="pub-date"
+                    >{{ delimit .Params.organizations ", " }}</span
+                >
+                {{ partial "taxonomy/critics/reviewLink.html" $reviewer.Title }}
+            </div>
             <div class="pub-date">
-                {{ $date }} |
-                {{ delimit .Params.organizations ", " }}
+                {{ $date }}
             </div>
         </div>
     </div>

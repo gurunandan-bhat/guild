@@ -1,6 +1,6 @@
 {{ $critic := . }}
 {{ $critPage := index site.Taxonomies.critics (lower $critic) }}
 {{ $intLinkIcon := index site.Data.svgicons.icons "internalLink" | safeHTML }}
-<span class="small">
+<span class="small inline-block px-1">
     <a href="{{ $critPage.Page.RelPermalink }}">{{ $intLinkIcon }}</a>
 </span>

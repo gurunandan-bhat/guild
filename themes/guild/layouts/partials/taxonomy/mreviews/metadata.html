@@ -1,4 +1,5 @@
 {{ $metadata := index . "meta" }}
+{{ $fullTitle := index . "fullTitle" }}
 {{ $scoreImg := index . "scoreImg" }}
 {{ $imgLink := "" }}
 {{ with $metadata.poster_path }}
@@ -46,11 +47,15 @@
             <img src="{{ $imgLink }}" class="img-fluid w-100" />
         </div>
         <div class="col-lg-6 table-custom border border-2">
+            <h1 class="meta-title">
+                {{ $fullTitle }}
+            </h1>
             <p>
                 {{ range $genreList }}
                     <span class="genre">{{ . }}</span>
                 {{ end }}
             </p>
+            <hr />
             <div class="row">
                 <div class="col-lg-8">
                     <table class="table small table-sm  table-custom">
@@ -83,15 +88,15 @@
                                     <td class="attribute">{{ . }}</td>
                                 </tr>
                             {{ end }}
-                            {{ with $camera }}
-                                <tr>
-                                    <th scope="row">Cinematography:</th>
-                                    <td class="attribute">{{ . }}</td>
-                                </tr>
-                            {{ end }}
                             {{ with $editor }}
                                 <tr>
                                     <th scope="row">Editor:</th>
+                                    <td class="attribute">{{ . }}</td>
+                                </tr>
+                            {{ end }}
+                            {{ with $camera }}
+                                <tr>
+                                    <th scope="row">Camera:</th>
                                     <td class="attribute">{{ . }}</td>
                                 </tr>
                             {{ end }}

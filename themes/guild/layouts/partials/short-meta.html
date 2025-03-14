@@ -46,7 +46,7 @@
         </h6>
         <p class="fw-bolder">{{ delimit $genreList ", " }}</p>
         <div class="row">
-            <div class="col-lg-9">
+            <div class="col-lg-8">
                 <p>
                     {{ if eq $type "short" }}
                         {{ delimit (first 16 (split .overview " ")) " " }}&hellip;
@@ -54,20 +54,20 @@
                         {{ .overview }}
                     {{ end }}
                 </p>
-                <p>
-                    <span class="fw-bolder">Cast:</span>
-                    {{ $castList }}<br />
-                    {{ with $director }}
-                        <span class="fw-bolder">Director:</span>
-                        {{ $director }}
-                    {{ end }}
-                </p>
             </div>
-            <div class="col-lg-3">
+            <div class="col-lg-4">
                 {{ with $scoreImg }}
                     <img src="{{ . }}" class="img-fluid w-100" />
                 {{ end }}
             </div>
+            <p>
+                <span class="fw-bolder">Cast:</span>
+                {{ $castList }}<br />
+                {{ with $director }}
+                    <span class="fw-bolder">Director:</span>
+                    {{ $director }}
+                {{ end }}
+            </p>
         </div>
         <hr />
         {{ partial "taxonomy/mreviews/reviewLink.html" $context.LinkTitle }}

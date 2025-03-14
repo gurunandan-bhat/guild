@@ -1,29 +1,21 @@
 {{ define "main" }}
+    {{ $extLinkIcon := index site.Data.svgicons.icons "externalLink" | safeHTML }}
+
+
     <div class="container-fluid">
         <div style="height: 50px;"></div>
     </div>
-    {{ $translatedTitle := "" }}
+    {{ $fullTitle := "" }}
     {{ $firstPage := index .Pages 0 }}
+    {{ $fullTitle = $firstPage.Title }}
     {{ with $firstPage.Params.translatedTitle }}
-        {{ $translatedTitle = . }}
+        {{ $fullTitle = printf "%s (%s)" $fullTitle . }}
     {{ end }}
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-10 offset-lg-1">
-                <h1 class="mb-3">
-                    {{ .Title }}
-                    {{ with $translatedTitle }}
-                        ({{ . }})
-                    {{ end }}
-                </h1>
-            </div>
-        </div>
-    </div>
     <div>
         {{ $linkTitle := .LinkTitle }}
         {{ with partialCached "tmdb-meta.html" $linkTitle $linkTitle }}
             {{ $scoreImg := partial "fcg-rating.html" (dict "title" $linkTitle "size" "large") }}
-            {{ partial "taxonomy/mreviews/metadata.html" (dict "meta" . "scoreImg" $scoreImg) }}
+            {{ partial "taxonomy/mreviews/metadata.html" (dict "meta" . "fullTitle" $fullTitle "scoreImg" $scoreImg) }}
         {{ else }}
             {{ warnf "Unable to get global resource %s" $linkTitle }}
         {{ end }}
@@ -66,12 +58,12 @@
                                             <div class="small">
                                                 {{ .Summary }}
                                             </div>
-                                            <p>
+                                            <p class="small">
                                                 <a
                                                     href="{{ .Params.source }}"
-                                                    target="_blank"
-                                                    >Continue reading
-                                                    &hellip;</a
+                                                    target="_blank">
+                                                    {{ $extLinkIcon }} Continue
+                                                    reading &hellip;</a
                                                 >
                                             </p>
                                         </div>
@@ -102,7 +94,7 @@
                 </div>
                 <div class="row">
                     {{ range $reviews }}
-                        <div class="col-lg-3 h-100">
+                        <div class="col">
                             {{ $scoreImg := partial "fcg-rating.html" (dict "title" .LinkTitle "size" "medium") }}
                             {{ partial "short-meta.html" (dict "context" . "type" "short" "scoreImg" $scoreImg) }}
                         </div>

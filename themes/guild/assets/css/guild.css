@@ -40,6 +40,14 @@ h1 {
     font-size: 48px;
 }
 
+h1.meta-title {
+    font-weight: 500;
+    font-style: normal;
+    color: #924c9d;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
 h2 {
     font-family: "Oswald", sans-serif;
     font-optical-sizing: auto;
@@ -87,6 +95,9 @@ table.table {
     padding: 2rem;
 }
 
+td.attribute {
+    color: #333333;
+}
 .genre {
     display: inline-block;
     text-transform: uppercase;
