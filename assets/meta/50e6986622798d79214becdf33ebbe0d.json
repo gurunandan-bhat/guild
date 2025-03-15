@@ -1,0 +1,402 @@
+{
+	"id": 1252377,
+	"title": "La Dolce Villa",
+	"fcg_title": "La Dolce Villa",
+	"original_title": "La Dolce Villa",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 10749,
+			"name": "Romance"
+		},
+		{
+			"id": 35,
+			"name": "Comedy"
+		}
+	],
+	"overview": "When his daughter decides to buy a crumbling Tuscan villa, Eric rushes to Italy to talk her out of it — and instead finds beauty, romance and new purpose.",
+	"backdrop_path": "/s1ge9SG2zfJdMeZ69VMEbxeKuAE.jpg",
+	"poster_path": "/sEma5RN8aZ5Yu2Dkefyn5ULdlc1.jpg",
+	"release_date": "2025-02-12",
+	"credits": {
+		"cast": [
+			{
+				"id": 35595,
+				"order": 0,
+				"name": "Scott Foley",
+				"profile_path": "/t1O7tOQINFScNP4SjNzahLfS39o.jpg",
+				"character": "Eric",
+				"gender": 2
+			},
+			{
+				"id": 44649,
+				"order": 1,
+				"name": "Violante Placido",
+				"profile_path": "/qVs8LdHIU2E5RlSuSr4MK0zyf7B.jpg",
+				"character": "Francesca",
+				"gender": 1
+			},
+			{
+				"id": 2071463,
+				"order": 2,
+				"name": "Maia Reficco",
+				"profile_path": "/aLsKAj2ZgNGcWFGiqzB1PGO9mqY.jpg",
+				"character": "Olivia",
+				"gender": 1
+			},
+			{
+				"id": 3016182,
+				"order": 3,
+				"name": "Giuseppe Futia",
+				"profile_path": "/nNYm0uT9nb7dlXstR3W9HeYI2tw.jpg",
+				"character": "Giovanni",
+				"gender": 2
+			},
+			{
+				"id": 4781507,
+				"order": 4,
+				"name": "Simone Luglio",
+				"profile_path": "/cBTCC0s3m8x3lY054YJCm2fzhfH.jpg",
+				"character": "Nino",
+				"gender": 2
+			},
+			{
+				"id": 2078350,
+				"order": 5,
+				"name": "Tommaso Basili",
+				"profile_path": "/gGTY9TbPS88lMq7AP38DddYro4G.jpg",
+				"character": "Bernardo",
+				"gender": 2
+			},
+			{
+				"id": 132849,
+				"order": 6,
+				"name": "Nunzia Schiano",
+				"profile_path": "/wsy9KD5AKuOIFpepptImeVrs3JY.jpg",
+				"character": "Left (Bossy) Antonia",
+				"gender": 1
+			},
+			{
+				"id": 67175,
+				"order": 7,
+				"name": "Luisa De Santis",
+				"profile_path": "/AknPQ6HXj7QWQorcuV8V22Z0y4x.jpg",
+				"character": "Middle (Sassy) Antonia",
+				"gender": 1
+			},
+			{
+				"id": 1359526,
+				"order": 8,
+				"name": "Lucia Ricalzone",
+				"character": "Right (Sweet) Antonia",
+				"gender": 1
+			},
+			{
+				"id": 4362869,
+				"order": 9,
+				"name": "Giselle LeBleu Gant",
+				"profile_path": "/lDZI3ixVWeN1sfECeb2J3Qssa6t.jpg",
+				"character": "Zola",
+				"gender": 1
+			},
+			{
+				"id": 2997177,
+				"order": 10,
+				"name": "Madior Fall",
+				"character": "Cesare"
+			},
+			{
+				"id": 3016181,
+				"order": 11,
+				"name": "Jenny De Nucci",
+				"profile_path": "/AoiNGQxS6QcDBCrsv90u1PxhGmw.jpg",
+				"character": "Donata",
+				"gender": 1
+			},
+			{
+				"id": 4045752,
+				"order": 12,
+				"name": "Mitch Salm",
+				"profile_path": "/dw2odnNCYJdXqO3708f2DSsa2ME.jpg",
+				"character": "Larry Longo",
+				"gender": 2
+			},
+			{
+				"id": 3953948,
+				"order": 13,
+				"name": "Melanie Neu",
+				"profile_path": "/dgDxNwvwrxPDayAjdaOARutfdXG.jpg",
+				"character": "Tracey Longo",
+				"gender": 1
+			},
+			{
+				"id": 5247590,
+				"order": 14,
+				"name": "Daniel Panzironi",
+				"character": "Matteo"
+			},
+			{
+				"id": 1528474,
+				"order": 15,
+				"name": "Ettore Nicoletti",
+				"profile_path": "/g9zM8G1rbZpcsNzbfWUp4YDowkq.jpg",
+				"character": "Hotel Concierge",
+				"gender": 2
+			},
+			{
+				"id": 7196,
+				"order": 16,
+				"name": "Loris Loddi",
+				"profile_path": "/xW1fnvI8mbJJABjKBafdHAkVQ1z.jpg",
+				"character": "Provincial Assessor",
+				"gender": 2
+			},
+			{
+				"id": 2468633,
+				"order": 17,
+				"name": "Sinne Mutsaers",
+				"profile_path": "/x2SkGN1d3mT0kjoGT8YT5FNavSi.jpg",
+				"character": "Deb Welch"
+			},
+			{
+				"id": 3726325,
+				"order": 18,
+				"name": "Angeliqa Devi",
+				"profile_path": "/srCQFirdJ4Vpprr84VG8HHFIMgt.jpg",
+				"character": "Lawyer Soumya"
+			},
+			{
+				"id": 1879926,
+				"order": 19,
+				"name": "Alessandra Carrillo",
+				"profile_path": "/AuiywrCN2uA3gjUBxzpsdwHxCAx.jpg",
+				"character": "Pina",
+				"gender": 1
+			},
+			{
+				"id": 131636,
+				"order": 20,
+				"name": "Silvio Laviano",
+				"character": "Road Maintenance Man"
+			},
+			{
+				"id": 5069602,
+				"order": 21,
+				"name": "Nina Nicastri",
+				"character": "Struggling Mother"
+			},
+			{
+				"id": 5252679,
+				"order": 22,
+				"name": "Ignazio Morviducci",
+				"character": "Gelato Vendor"
+			},
+			{
+				"id": 5252680,
+				"order": 23,
+				"name": "Giancarla Barberio",
+				"character": "Hotel Maid"
+			},
+			{
+				"id": 5252681,
+				"order": 24,
+				"name": "Devis Genovesi",
+				"character": "Nino's Crew"
+			},
+			{
+				"id": 5252682,
+				"order": 25,
+				"name": "Fabio Marzorati",
+				"character": "Nino's Crew"
+			},
+			{
+				"id": 5252683,
+				"order": 26,
+				"name": "Carlo Ranucci",
+				"character": "Nino's Crew"
+			},
+			{
+				"id": 5252684,
+				"order": 27,
+				"name": "Bella",
+				"character": "Maltese"
+			}
+		],
+		"crew": [
+			{
+				"id": 54050,
+				"name": "Mark Waters",
+				"profile_path": "/afouy66zeJ1hn7fcjLp8QkcTeQJ.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1049440,
+				"name": "Elizabeth Hackett",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 1049439,
+				"name": "Hilary Galanoy",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 1276271,
+				"name": "Nicola Rosada",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1179332,
+				"name": "Robyn Snyder",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2257492,
+				"name": "Deborah Evans",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1049439,
+				"name": "Hilary Galanoy",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1049440,
+				"name": "Elizabeth Hackett",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 3498708,
+				"name": "Caroline Ho",
+				"profile_path": "/pkQdV93Y5Z5pjgp9wyBdDXrHonB.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 10815,
+				"name": "Theo van de Sande",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 966593,
+				"name": "Travis Sittard",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1789277,
+				"name": "Armando Pizzuti",
+				"profile_path": "/b8VfSTLAxnzvNXlXL4vM8qWsNEH.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 27220,
+				"name": "Luca Tranchino",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 4009775,
+				"name": "Alessandro Cardilli",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 3935629,
+				"name": "Andrea De Antoniis",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1499158,
+				"name": "Daniela Giovannoni",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 2895108,
+				"name": "Erica Facchini",
+				"job": "Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 3587871,
+				"name": "Cristina Festa",
+				"job": "Location Manager",
+				"department": "Production"
+			},
+			{
+				"id": 1573582,
+				"name": "Gilberto Martinelli",
+				"job": "Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 3798012,
+				"name": "Rossana Tricarico",
+				"job": "Boom Operator",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1924207,
+				"name": "Catherine Buyse Dian",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 2383987,
+				"name": "Silvia Fontana",
+				"job": "Graphic Designer",
+				"department": "Art"
+			},
+			{
+				"id": 1761131,
+				"name": "Christopher T. Mollere",
+				"job": "Music Supervisor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1643802,
+				"name": "Melissa Strizzi",
+				"job": "Script Supervisor",
+				"department": "Directing"
+			},
+			{
+				"id": 1435194,
+				"name": "Charles Martin Inouye",
+				"job": "Music Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 1749292,
+				"name": "Heather Schmidt",
+				"job": "Music Editor",
+				"department": "Sound",
+				"gender": 1
+			}
+		]
+	}
+}
