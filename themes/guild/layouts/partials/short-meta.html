@@ -32,9 +32,12 @@
 
     {{ $crew := .credits.crew }}
     {{ $director := "" }}
+    {{ $writer := "" }}
     {{ range $crew }}
         {{ if eq .job "Director" }}
             {{ $director = .name }}
+        {{ else if (and (eq .department "Writing") (eq .job "Writer")) }}
+            {{ $writer = .name }}
         {{ end }}
     {{ end }}
     <div class="latest">
@@ -68,9 +71,14 @@
                     <span class="fw-bolder">Director:</span>
                     {{ $director }}
                 {{ end }}
+                {{ with $writer }}
+                    <br />
+                    <span class="fw-bolder">Writer:</span>
+                    {{ $writer }}
+                {{ end }}
             </p>
         </div>
-        <hr />
+        <hr class="mt-0 mb-2" />
         {{ partial "taxonomy/mreviews/reviewLink.html" $context.LinkTitle }}
     </div>
 {{ else }}

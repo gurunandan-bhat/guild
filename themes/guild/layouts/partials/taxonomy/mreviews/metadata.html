@@ -32,6 +32,7 @@
 {{ $director := "" }}
 {{ $camera := "" }}
 {{ $editor := "" }}
+{{ $writer := "" }}
 {{ range $crew }}
     {{ if eq .job "Director" }}
         {{ $director = .name }}
@@ -39,6 +40,8 @@
         {{ $camera = .name }}
     {{ else if eq .job "Editor" }}
         {{ $editor = .name }}
+    {{ else if (and (eq .department "Writing") (eq .job "Writer")) }}
+        {{ $writer = .name }}
     {{ end }}
 {{ end }}
 <div class="container">
@@ -85,6 +88,12 @@
                             {{ with $director }}
                                 <tr>
                                     <th scope="row">Director:</th>
+                                    <td class="attribute">{{ . }}</td>
+                                </tr>
+                            {{ end }}
+                            {{ with $writer }}
+                                <tr>
+                                    <th scope="row">Writer:</th>
                                     <td class="attribute">{{ . }}</td>
                                 </tr>
                             {{ end }}
