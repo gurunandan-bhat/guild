@@ -51,7 +51,7 @@
                                                                     |
                                                                     <span
                                                                         class="pub-date"
-                                                                        >{{ delimit .Params.organizations ", " }}</span
+                                                                        >{{ index .Params.organizations 0 }}</span
                                                                     >
                                                                     {{ partial "taxonomy/critics/reviewLink.html" .Params.title }}
                                                                 </div>
