@@ -232,3 +232,12 @@ a.anchor {
     top: -7rem;
     visibility: hidden;
 }
+
+.accordion-body p {
+    font-size: 0.8rem;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: #ffffff !important;
+    box-shadow: none;
+}
