@@ -1,7 +1,7 @@
 +++
 title = 'Inn Galiyon Mein'
 date = 2025-03-15T20:44:29+05:30
-draft = true
+draft = false
 mreviews = ['Inn Galiyon Mein']
 critics = ['Ajay Brahmatmaj']
 subtitle = ''

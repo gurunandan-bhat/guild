@@ -1,0 +1,123 @@
+{
+	"id": 1449256,
+	"title": "Inn Galiyon Mein",
+	"fcg_title": "Inn Galiyon Mein",
+	"original_title": "Inn Galiyon Mein",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "A romantic drama that intertwines themes of love, society, and the impact of social media",
+	"backdrop_path": "/2j4VEnzqitPX0ut4GmXcKaQoCzv.jpg",
+	"poster_path": "/tWXKmjj4ZABDVw0lDnx6NHjzQ5T.jpg",
+	"release_date": "2025-03-14",
+	"credits": {
+		"cast": [
+			{
+				"id": 4289624,
+				"order": 0,
+				"name": "Veenay Bhasskar",
+				"character": "Raju"
+			},
+			{
+				"id": 3410699,
+				"order": 1,
+				"name": "Avantika Dassani",
+				"profile_path": "/e1Re75WfDCIXUEh74Pn669343L0.jpg",
+				"character": "Shabbo",
+				"gender": 1
+			},
+			{
+				"id": 2580339,
+				"order": 2,
+				"name": "Jaaved Jaffery",
+				"profile_path": "/oEPI5plceKnJIQZZ8muPEZRyAbC.jpg",
+				"character": "Mirza",
+				"gender": 2
+			},
+			{
+				"id": 1386199,
+				"order": 3,
+				"name": "Vivaan Shah",
+				"profile_path": "/irI6L7HbaLPuw9U6FwmITlcnCu.jpg",
+				"character": "Hariram",
+				"gender": 2
+			},
+			{
+				"id": 5166968,
+				"order": 4,
+				"name": "Abhishek Yadav",
+				"character": "Tariq"
+			},
+			{
+				"id": 4289625,
+				"order": 5,
+				"name": "Ankur Yadav",
+				"character": "Mirza's Helper"
+			}
+		],
+		"crew": [
+			{
+				"id": 1785159,
+				"name": "Avinash Das",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4289617,
+				"name": "Punarvasu",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 1607418,
+				"name": "Amaal Mallik",
+				"profile_path": "/flcWcqsvTUUQs6R7QPMZ1cypVdE.jpg",
+				"job": "Music Director",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5307336,
+				"name": "Faisal Firoz Shaikh",
+				"job": "Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 2810081,
+				"name": "Saurabh Kalsi",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 5308317,
+				"name": "Arvind Sagole",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 1867886,
+				"name": "Arvind Kannabiran",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1927833,
+				"name": "Jabeen Merchant",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 5308474,
+				"name": "Washid Mallick",
+				"job": "Executive Producer",
+				"department": "Production"
+			}
+		]
+	}
+}
