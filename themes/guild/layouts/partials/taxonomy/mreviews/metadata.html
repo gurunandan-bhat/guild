@@ -91,10 +91,12 @@
                                     <td class="attribute">{{ . }}</td>
                                 </tr>
                             {{ end }}
-                            <tr>
-                                <th scope="row">Cast:</th>
-                                <td class="attribute">{{ $castList }}</td>
-                            </tr>
+                            {{ with $castList }}
+                                <tr>
+                                    <th scope="row">Cast:</th>
+                                    <td class="attribute">{{ $castList }}</td>
+                                </tr>
+                            {{ end }}
                             {{ with $director }}
                                 <tr>
                                     <th scope="row">Director:</th>

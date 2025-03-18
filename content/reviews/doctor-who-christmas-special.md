@@ -1,13 +1,13 @@
 +++
-title = "Doctor Who Christmas Special"
+title = "Doctor Who: Joy to the World"
 date = 2024-12-26T01:18:22+05:30
 draft = false
-mreviews = ["Doctor Who Christmas Special"]
+mreviews = ["Doctor Who: Joy to the World"]
 critics = ['Sonal Pandya']
 publication = ''
 subtitle = "Ncuti Gatwa, Nicola Coughlan Make Dashing Team To Save Humanity During Holidays"
 opening = "Bridgerton star Nicola Coughlan drops by the Doctor Who universe to headline a memorable story set around the Christmas holidays."
-img = 'doctor-who-christmas-special.webp'
+img = 'doctor-who-joy-to-the-world.webp'
 media = 'print'
 source = "https://www.timesnownews.com/entertainment-news/reviews/doctor-who-christmas-special-review-ncuti-gatwa-nicola-coughlan-make-dashing-team-to-save-humanity-during-holidays-review-116684546"
 +++
