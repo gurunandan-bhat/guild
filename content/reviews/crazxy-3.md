@@ -9,7 +9,7 @@ subtitle = "Sohum Shah’s edge-of-the-seat thriller loses steam fast"
 opening = "The absence of other actors – their presence reduced to their voices--is a problem too, leaving Sohum Shah to gamely handle the screen practically single-handed, which makes it even more of a stretch."
 img = 'crazxy-3.png'
 media = 'print'
-source = "https://indianexpress.com/article/entertainment/movie-review/crazxy-movie-review-sohum-shahs-edge-of-the-seat-thriller-loses-steam-9860996/"
+source = "https://indianexpress.com/article/entertainment/movie-review/crazxy-movie-review-sohum-shahs-edge-of-the-seat-thriller-loses-steam-9860996"
 score = 4
 +++
 
