@@ -16,6 +16,13 @@
         {{ $genreList = append .name $genreList }}
     {{ end }}
 {{ end }}
+
+{{ $languages := site.Data.languages.languages }}
+{{ $language := "" }}
+{{ with $metadata.original_language }}
+    {{ $language = (index $languages .).english_name }}
+{{ end }}
+
 {{ $castList := slice }}
 {{ with $metadata.credits.cast }}
     {{ $cast := . }}
@@ -56,6 +63,9 @@
             <p>
                 {{ range $genreList }}
                     <span class="genre">{{ . }}</span>
+                {{ end }}
+                {{ with $language }}
+                    <span class="small fw-bold">{{ . }}</span>
                 {{ end }}
             </p>
             <hr />

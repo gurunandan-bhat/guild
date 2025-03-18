@@ -2,7 +2,10 @@
 {{ $type := index . "type" }}
 {{ $scoreImg := index . "scoreImg" }}
 {{ $pageImage := $context.Params.img }}
+{{ $languages := site.Data.languages.languages }}
 {{ with partialCached "tmdb-meta.html" $context.Title $context.Title }}
+    {{ $language := index $languages .original_language }}
+
     {{ with resources.Get (printf "meta/backdrops%s" .backdrop_path) }}
         <img src="{{ .RelPermalink }}" class="img-fluid w-100" />
     {{ else }}
@@ -47,7 +50,12 @@
                 ({{ . }})
             {{ end }}
         </h6>
-        <p class="fw-bolder">{{ delimit $genreList ", " }}</p>
+        <p class="fw-bolder">
+            {{ delimit $genreList ", " }}
+            {{ with $language }}
+                ({{ $language.english_name }})
+            {{ end }}
+        </p>
         <div class="row">
             <div class="col-lg-8">
                 <p>
