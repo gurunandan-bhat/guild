@@ -237,6 +237,9 @@ a.anchor {
     font-size: 0.8rem;
 }
 
+.accordion-button {
+    padding: 0.25rem 1rem;
+}
 .accordion-button:not(.collapsed) {
     background-color: #ffffff !important;
     box-shadow: none;

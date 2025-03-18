@@ -44,20 +44,20 @@
         {{ end }}
     {{ end }}
     <div class="latest">
-        <h6>
-            {{ $context.Title }}
-            {{ with $context.Params.translatedTitle }}
-                ({{ . }})
-            {{ end }}
-        </h6>
-        <p class="fw-bolder">
-            {{ delimit $genreList ", " }}
-            {{ with $language }}
-                ({{ $language.english_name }})
-            {{ end }}
-        </p>
         <div class="row">
-            <div class="col-lg-8">
+            <div class="col-lg-9">
+                <h6>
+                    {{ $context.Title }}
+                    {{ with $context.Params.translatedTitle }}
+                        ({{ . }})
+                    {{ end }}
+                </h6>
+                <p class="fw-bolder">
+                    {{ delimit $genreList ", " }}
+                    {{ with $language }}
+                        ({{ $language.english_name }})
+                    {{ end }}
+                </p>
                 <p>
                     <span class="fw-bold">Plot:</span>
                     {{ if eq $type "short" }}
@@ -67,11 +67,13 @@
                     {{ end }}
                 </p>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-3 text-center">
                 {{ with $scoreImg }}
-                    <img src="{{ . }}" class="img-fluid w-100" />
+                    <img src="{{ . }}" class="img-fluid" />
                 {{ end }}
             </div>
+        </div>
+        <div class="row">
             <p>
                 <span class="fw-bolder">Cast:</span>
                 {{ $castList }}<br />
