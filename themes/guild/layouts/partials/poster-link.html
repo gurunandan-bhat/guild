@@ -1,0 +1,18 @@
+{{ $posterLink := "" }}
+{{ $title := . }}
+{{ $metaPath := printf "meta/%s.json" (md5 $title) }}
+{{ with transform.Unmarshal (resources.Get $metaPath) }}
+    {{ with .poster_path }}
+        {{ $posterPath := printf "meta/posters%s" . }}
+        {{ with resources.Get $posterPath }}
+            {{ $posterLink = .RelPermalink }}
+        {{ else }}
+            {{ warnf "Poster %s not found for film %s" $posterPath $title }}
+        {{ end }}
+    {{ else }}
+        {{ warnf "No poster found for %s" $title }}
+    {{ end }}
+{{ else }}
+    {{ warnf "No metadata found for %s" $title }}
+{{ end }}
+{{ return $posterLink }}

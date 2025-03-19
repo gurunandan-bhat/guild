@@ -2,12 +2,32 @@
     {{ $extLinkIcon := index site.Data.svgicons.icons "externalLink" | safeHTML }}
     {{ $films := partial "all-films-list.html" "reviews" }}
     {{ $paginator := .Paginate $films  12 }}
-    <div class="container-fluid">
-        <div style="height: 200px;"></div>
+
+
+    <div style="margin-top: 25px;">
+        <div id="home-carousel">
+            {{ range $paginator.Pages }}
+                {{ $posterLink := partial "poster-link.html" .LinkTitle }}
+                <div>
+                    <img src="{{ $posterLink }}" class="img-fluid w-100 ps-1" />
+                </div>
+            {{ end }}
+        </div>
+        <div id="next-prev" class="clearfix mt-2">
+            <div class="float-start" style="padding-left: 30px;">
+                <a href="#">Previous</a>
+            </div>
+            <div class="float-end" style="padding-right: 30px;">
+                <a href="#">Next</a>
+            </div>
+        </div>
     </div>
     <div class="container">
-        <div class="row">
+        <div class="row" style="margin-top: 100px;">
             <div class="col-lg-10 offset-lg-1">
+                <div class="d-flex justify-content-center">
+                    {{ template "_internal/pagination.html" . }}
+                </div>
                 <div class="row">
                     {{ range $paginator.Pages }}
                         <div class="col-lg-6 my-3">
@@ -105,4 +125,22 @@
             </div>
         </div>
     </div>
+    {{ with resources.Get "js/home-carousel.js" }}
+        {{ $opts := dict
+            "minify" hugo.IsProduction
+            "sourceMap" (cond hugo.IsProduction "" "external")
+        }}
+        {{ with . | js.Build $opts }}
+            {{ if hugo.IsProduction }}
+                {{ with . | fingerprint }}
+                    <script
+                        src="{{ .RelPermalink }}"
+                        integrity="{{ .Data.Integrity }}"
+                        crossorigin="anonymous"></script>
+                {{ end }}
+            {{ else }}
+                <script src="{{ .RelPermalink }}"></script>
+            {{ end }}
+        {{ end }}
+    {{ end }}
 {{ end }}
