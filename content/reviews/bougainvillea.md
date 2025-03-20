@@ -9,6 +9,7 @@ opening = "Bougainvillea tells the story of Reethu Thomas, an amnesiac woman who
 img = 'bougainvillea.jpeg'
 media = 'print'
 source = "https://www.desimartini.com/reviews/movies/bougainvillea-review-amal-neerads-film-has-flaws-and-a-gut-wrenching-twist/43c5a65d5d956/"
+score = 6
 +++
 
 Director Amal Neerad's latest movie Bougainvillea is a slow-burning thriller that offers more strengths than weaknesses in its entertainment value. Set against the backdrop of an unreliable memory, the film borrows elements from classics like Memento and The Usual Suspects, while crafting a uniquely Malayalam narrative.

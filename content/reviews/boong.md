@@ -9,6 +9,7 @@ opening = ""
 img = 'boong.jpeg'
 media = 'print'
 source = "https://thecommonmanspeaks.com/boong-manipuri-movie-review/"
+score = 8
 +++
 
 Aijaz Khan’s Hamid and Danish Renzu’s Half Widow are the names that easily come to my mind when it comes to movies about husbands going missing. But both the aforementioned films have the backdrop of the political crisis in Kashmir. This is where filmmaker Lakshmipriya Devi’s Manipuri movie Boong stands apart. It is more of a personal story of a boy whose father goes missing not due to any political tensions.

@@ -7,6 +7,7 @@ critics = ['Bhawana Somaaya']
 subtitle = 'Azaad is unengaging'
 media = 'video'
 source = 'K1yzR09FhYk'
+score = 4
 +++
 
 {{< youtube id="K1yzR09FhYk" >}}

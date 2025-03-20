@@ -10,6 +10,7 @@ opening = "The migrant drama starring Kani Kusruti, Divya Prabha, Chhaya Kadam a
 img = 'all-we-imagine-as-light-2.webp'
 media = 'print'
 source = "https://www.hollywoodreporterindia.com/reviews/theatrical/all-we-imagine-as-light-review-payal-kapadias-sublime-love-hate-letter-to-mumbai"
+score = 9
 +++
 
 All We Imagine As Light opens like a non-fiction film about a city of grand fictions. We see a dark Mumbai — the factory of dreams — in which its survivors and victims imagine light. Invisible migrant voices play over a montage of traffic, streets, beaches, stations and hope. A pregnant housemaid jokes about being fed well by her employer. A veteran from Gujarat refuses to call it home because he’s afraid he might have to leave any moment. A dockyard worker recalls the fishy smells from his first night; he speaks like the stink has gone, but it’s his nose that adapted. A woman credits the place for making her forget a breakup. They all sound like stories from the “Spirit of Mumbai” handbook — it’s hard to tell their fate from their faith. The film seamlessly transitions from the generic to the specific by the end of this montage. The camera settles on one such story in motion: two Malayali nurses on the train back to their tiny apartment.

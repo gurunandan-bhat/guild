@@ -10,6 +10,7 @@ opening = "There’s a certain tenderness and ease to the flow in storytelling t
 img = 'all-we-imagine-as-light-4.webp'
 media = 'print'
 source = "https://timesofindia.indiatimes.com/entertainment/malayalam/movie-reviews/all-we-imagine-as-light/movie-review/115540272.cms"
+score = 8
 +++
 
 Payal Kapadia’s enchanting ode to sisterhood and the glaring contrasts of Mumbai has a tranquil charm to it. There’s a certain tenderness and ease to the flow in storytelling that makes you see the city in a new light, even if you have been a Mumbaikar all your life. Watching Kapadia’s three protagonists setting themselves free from societal and psychological shackles to embrace their desires, gives you that warm fuzzy feeling.

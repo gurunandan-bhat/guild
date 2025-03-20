@@ -10,6 +10,7 @@ opening = ""
 img = 'baby-john-10.jpeg'
 media = 'print'
 source = "https://www.tribuneindia.com/news/movie-review/baby-john-one-big-yawn"
+score = 4
 +++
 
 ‘Baby John’ has all the trappings of a mass entertainer, having been produced by Atlee, the record-maker ‘Jawan’ director whose remake of Tamil film ‘Their’ it is. Headlined by a fairly bankable star, Varun Dhawan, who can certainly act, he does try to energise the proceedings. South Indian sensation Keerthy Suresh is making her Bollywood debut and yesterday’s ‘Hero’ Jackie Shroff plays the vilest of vile badman. On the side is the beautiful and talented Wamiqa Gabbi.

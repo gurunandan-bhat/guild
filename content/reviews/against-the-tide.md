@@ -10,6 +10,7 @@ opening = "Against the Tide examines Mumbai’s Koli community’s drift between
 img = 'against-the-tide.webp'
 media = 'print'
 source = "https://hyperallergic.com/803829/a-tale-of-two-indigenous-fishermen-in-mumbai-against-the-tide-sarvnik-kaur/"
+score = 9
 +++
 
 The story of Mumbai, India’s largest city, is linked inextricably with the story of the Kolis, the lower-caste, Indigenous fisherfolk community whose koliwadas (villages) dot the coastline. Until the 1800s, what we know as Mumbai today used to be an archipelago of seven islands, harmoniously inhabited by Koli communities. These islands turned into a city due to human intervention — a product of several land reclamation projects that also enabled the displacement of Mumbai’s original inhabitants.

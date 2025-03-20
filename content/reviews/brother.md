@@ -9,6 +9,7 @@ opening = "Director Rajesh knew what worked and what didn't with his comedies. H
 img = 'brother.png'
 media = 'print'
 source = "https://indianexpress.com/article/entertainment/movie-review/brother-movie-review-jayam-ravi-rao-ramesh-are-the-saving-grace-in-this-outdated-family-drama-9648612/"
+score = 3.5
 +++
 
 In the 1980s and 90s, we had a steady stream of films about an outsider coming to a broken home, and uniting everyone. Visu almost perfected this template. We saw it happen in the 90s and 2000s too where the setting of the home was extended to a college, a workplace, a village, etc… Basically, Indian cinema loves its feel-good family entertainer space where there are clashes of ego, but all’s well that ends well. There was a time when M Rajesh could effectively milk these situations, and effortlessly conjure hilarious scenes with his oddball protagonists. There was a time when he soared past the generic nature of the central plot, and neatly wrapped it all up with his brand of comedy. Unfortunately, hardly any of this happens in his latest film Brother.

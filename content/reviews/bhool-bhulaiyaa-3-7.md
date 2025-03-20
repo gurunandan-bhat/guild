@@ -7,6 +7,7 @@ critics = ['Sucharita Tyagi']
 subtitle = ''
 media = 'video'
 source = 'W294OEfFuCM'
+score = 3
 +++
 
 {{< youtube id="W294OEfFuCM" >}}

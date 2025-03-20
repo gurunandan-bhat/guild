@@ -9,6 +9,7 @@ opening = "Amaran brings to life the heroic story of Major Mukund Varadarajan, a
 img = 'amaran.jpeg'
 media = 'print'
 source = "https://www.desimartini.com/reviews/movies/amaran-review-sivakarthikeyan-sai-pallavi-anchor-a-fine-movie-on-indian-army/2ff9ad87f1832/"
+score = 7
 +++
 
 Amaran is based on the life of Major Mukund Varadarajan, who died during an anti-terror operation in Jammu and Kashmir in 2014. Biopics like this come with a unique challenge: since audiences already know the outcome, there’s little room for surprises. Directors often leverage the emotional depth of such stories to create resonance, sometimes stirring complex emotions or evoking our deepest fears. Filmmaker Rajkumar Periasamy, as expected, focuses on these emotional elements, ultimately leaving the audience with a deeper understanding of the human conflict hidden beneath layers of turmoil.

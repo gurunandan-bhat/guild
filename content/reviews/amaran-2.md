@@ -9,6 +9,7 @@ opening = "With wonderful performances by Sivakarthikeyan and Sai Pallavi, Amara
 img = 'amaran-2.png'
 media = 'print'
 source = "https://indianexpress.com/article/entertainment/movie-review/amaran-movie-review-sai-pallavi-sivakarthikeyan-stand-tall-in-this-tale-of-timeless-love-9647436/"
+score = 7.5
 +++
 
 Gentleman cadet Mukund Varadarajan is marching along with his batchmates during his passing out parade. During this march, an animated Indhu Rebecca Varghese shouts out the name of the love of her life. She also runs around to catch a glimpse of Mukund, who is one among the soldiers passing out. GV Prakash Kumar’s rousing score primes the scene for a romantic high. She is jubilant, happy, ecstatic, and sports a smile that reaches her eyes as Mukund marches with a straight face.

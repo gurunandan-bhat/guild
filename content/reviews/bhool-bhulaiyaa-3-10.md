@@ -10,6 +10,7 @@ opening = "Kartik Aaryan is alive to the situational humour but director Anees B
 img = 'bhool-bhulaiyaa-3-10.jpg'
 media = 'print'
 source = "https://www.thehindu.com/entertainment/movies/bhool-bhulaiyaa-3-movie-review-madhuri-dixit-and-vidya-balan-are-underutilised-this-drab-horror-comedy/article68819601.ece"
+score = 5
 +++
 
 In the festive season, director Anees Bazmee tells cinegoers to bring in the popcorn and he would deliver the comic twists. This Deepavali, the director lights up a green cracker that leaves a purple patch in the air but in a bid to be progressive, he fails to keep his traditional comedic pot on the boil and underutilises powerhouse performers like Madhuri Dixit and Vidya Balan to light up the screen.

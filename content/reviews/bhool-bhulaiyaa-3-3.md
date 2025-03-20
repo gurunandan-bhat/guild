@@ -9,6 +9,7 @@ opening = "Kartik Aaryan's Bhool Bhulaiyaa 3 suffers from the same things that B
 img = 'bhool-bhulaiyaa-3-3.webp'
 media = 'print'
 source = "https://indianexpress.com/article/entertainment/movie-review/bhool-bhulaiyaa-3-movie-review-lazy-formulaic-writing-weighs-heavily-on-kartik-aaryan-film-9648357/"
+score = 3
 +++
 
 All right folks, we are back in the labyrinth. For a third time. Lots of stuff that we remember from the earlier outings. Creaky two-hundred-year-old Bengali havelis. Locked rooms. Vengeful ‘aatmas’. Ghosts who flit about. And characters who spout their lines, and vanish.

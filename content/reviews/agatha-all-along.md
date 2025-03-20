@@ -9,6 +9,7 @@ opening = "The new Marvel miniseries follow-up to WandaVision is unlike the stud
 img = 'agatha-all-along.png'
 media = 'print'
 source = 'https://akhilarora.com/2024/09/agatha-all-along-review-marvel/'
+score = 4
 +++
 
 With WandaVision, creator Jac Schaeffer made it clear that she wasn’t interested in the standard approach to superhero fare. For most of its running, the Marvel TV show’s exploration of Wanda Maximoff’s grief over the loss of her partner Vision took the form of a sitcom spoof, one that barrelled through decades of the format—from black-and-white 4:3 aspect ratio to the meta recasting and costume choices—in an episodic fashion. Sure, Schaeffer struggled to usher her non-standard superhero show away from the climactic final-third tropes of the genre. But there was still a lot of fun to be had in WandaVision. It was the perfect possible start for Marvel’s new television-heavy era on Disney+ (though what has come after has been more miss than hit).

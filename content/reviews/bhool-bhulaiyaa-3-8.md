@@ -9,6 +9,7 @@ opening = "The dynamic between Madhuri Dixit and Vidya Balan is an opportunity w
 img = 'bhool-bhulaiyaa-3-8.png'
 media = 'print'
 source = "https://www.livemint.com/mint-lounge/art-and-culture/bhool-bhulaiyaa-3-film-review-vidya-balan-madhuri-dixit-kartik-aaryan-11730518665613.html"
+score = 4
 +++
 
 In 2007, Priyadarshan directed Vidya Balan as the ghostly apparition Manjulika in Bhool Bhulaiyaa, with Aneez Bazmee taking over the reins of this comedy-horror franchise in 2022. Akshay Kumar was replaced by Kartik Aaryan, who played Ruhaan—a charlatan masquerading as a psychic, who communicates with and channels spirits. Tabu stepped into the dual roles of the trapped spirit, Manjulika, and her twin sister, Anjulika.

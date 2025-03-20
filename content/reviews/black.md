@@ -9,6 +9,7 @@ opening = 'Powered by compelling performances and a strong technical team, direc
 img = 'black.png'
 media = 'print'
 source = 'https://indianexpress.com/article/entertainment/movie-review/black-movie-review-jiiva-priya-bhavanishankar-shine-in-a-gripping-intriguing-melange-of-genres-9615564/'
+score = 7
 +++
 
 The best part of Black is how it reels you in right in the first ten minutes. The film starts in 1964. There is a couple eloping with the help of a friend (Vivek Prasanna). It is raining like crazy. Their journey is briefly interrupted by a vehicle in the ditch. This vehicle carries a marble statue of a guardian angel. There is thunder and lightning. Soon enough, this friend, who has sinister intentions, hears two gunshots. He rushes in to ask the couple what happened? Cut to black. Literally. The title credits pop up, and we are in 2024.

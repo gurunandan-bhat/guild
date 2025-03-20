@@ -10,6 +10,7 @@ opening = ""
 img = 'all-we-imagine-as-light-5.jpeg'
 media = 'print'
 source = "https://thecommonmanspeaks.com/all-we-imagine-as-light-review-poignant-portrayal-of-life-in-a-metro-for-the-not-so-privileged/"
+score = 8
 +++
 
 Mumbai has not only been one of the most featured cities in Indian films but it is also explored as a subject over the decades. Many a times, the dark underbelly of the city is brought to light. Filmmaker Payal Kapadia’s worldwide acclaimed feature film debut All We Imagine As Light (Malayalam along with some usage of Hindi and Marathi) also shows the bitter side of Mumbai. But it, for a change, doesn’t feature the criminal side of the city in any way.

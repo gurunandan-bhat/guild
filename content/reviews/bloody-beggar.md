@@ -9,6 +9,7 @@ opening = "Kavin’s riveting performance and well-cast ensemble redeem this dar
 img = 'bloody-beggar.png'
 media = 'print'
 source = "https://www.news18.com/movies/bloody-beggar-review-despite-its-flaws-kavins-performance-and-supporting-cast-stand-out-9105806.html"
+score = 5
 +++
 
 Bloody Beggar, directed by Sivabalan Muthukumar, is another bold choice by lead actor Kavin. However, it doesn’t fully deliver on its promising premise and ends up falling short in several aspects. At its core, the film struggles to find a consistent tone. It aims to be both a biting dark satire on the bourgeoisie and an emotional drama about the downtrodden, but it achieves more success with the former than the latter. The satire works to an extent, presenting exaggerated caricatures of villains who are repulsive enough to justify the violence directed at them. This offers moments of catharsis and even a few laughs at their expense. However, the emotional core surrounding the nameless beggar’s tragic past feels underdeveloped and fails to resonate in the cold, dark world of the film. Additionally, much of the humour, despite evident effort in the writing, doesn’t land as intended, making Bloody Beggar fall short of its full potential.

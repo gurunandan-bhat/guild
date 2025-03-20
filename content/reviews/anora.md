@@ -9,6 +9,7 @@ opening = "Indie director Sean Baker’s latest has a firm grip on the audience�
 img = 'anora.png'
 media = 'print'
 source = "https://thewire.in/film/anora-sean-baker-film-review-pretty-woman"
+score = 9
 +++
 
 A lot of the splendour in Sean Baker’s Anora lies in its treatment – where we might be shown one thing, but deliberately made to feel something else. For example, the film opens with a discomfiting panning shot featuring barely-clothed exotic dancers performing with neon lights around them. However, Baker scores this scene with a loud, winsome techno song taking what is a distressing visual of young women forced to work a job that fetishises them, and drains the self-pity out of it.

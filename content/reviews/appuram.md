@@ -10,6 +10,7 @@ opening = ""
 img = 'appuram.jpg'
 media = 'print'
 source = "https://dhruvam.wordpress.com/2024/12/20/review-appuram-the-other-side-malayalam-2024/?sfnsn=wiwspwa"
+score = 7
 +++
 
 _Appuram/The Other Side_ unfolds like flashcards, like shards of memory that Janaki

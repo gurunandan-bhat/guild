@@ -10,6 +10,7 @@ opening = "Payal Kapadia’s debut fiction feature follows the lives of three wo
 img = 'all-we-imagine-as-light-7.png'
 media = 'print'
 source = "https://thewire.in/film/all-we-imagine-as-light-is-a-sentient-ode-to-and-a-lament-for-the-spirit-of-mumbai"
+score = 8
 +++
 
 Payal Kapadia’s All We Imagine As Light (AWIAL) establishes its Mumbai DNA early on. A visibly-tired Anu (Divya Prabha), an upstart nurse in a city hospital, is jotting down details of a patient. Age? “24… oh no sorry, it’s 25,” a young woman says, holding on to her child. “Pfft!” reacts Anu, showcasing her mild annoyance for having to strike out what she’d written earlier.

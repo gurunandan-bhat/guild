@@ -9,6 +9,7 @@ opening = "BB3 has its share of highs and lows but it delivers what you expect f
 img = 'bhool-bhulaiyaa-3-6.webp'
 media = 'print'
 source = "https://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews/bhool-bhulaiyaa-3/movie-review/114837280.cms"
+score = 5
 +++
 
 Keeping with the theme of the franchise, Bhool Bhulaiyaa 3 also pits an unassuming cheeky protagonist against a spooky haveli with a buried past. The century-old mansion needs to be restored to its former glory and sold, but Manjulika’s terrorising presence in it forbids the owners from doing so. The royal family in dire need of resources, seeks Rooh baba’s intervention. The fraudster takes up the lucrative offer only to find himself tangled in a mess as he discovers two dark forces who claim to be Manjulika.

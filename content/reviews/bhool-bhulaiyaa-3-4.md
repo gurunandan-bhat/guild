@@ -9,6 +9,7 @@ opening = "Anees Bazmee's horror comedy is funny and scary for all the wrong rea
 img = 'bhool-bhulaiyaa-3-4.webp'
 media = 'print'
 source = "https://www.hollywoodreporterindia.com/reviews/theatrical/bhool-bhulaiyaa-3-review-let-the-ghosts-be"
+score = 3
 +++
 
 Some movies are so entertaining that they make you miss the good old days. But others are so vapid that they make you miss good days. Bhool Bhulaiyaa 3 is “others”. You see Vidya Balan, and fondly reminisce about Priyadarshan’s Bhool Bhulaiyaa (2007) and Pritam’s hit soundtrack. You see Vidya Balan and Madhuri Dixit playing enigmatic women, and think of how well they were cast in Abhishek Chaubey’s Ishqiya (2010) and Dedh Ishqiya (2014). You see a tragic female ghost haunt a mansion and morph into a human social message in a setting full of foolish men, and it’s hard not to respect how fundamentally sound the Stree movies are. You see crows descend from the dark skies for dramatic effect and think of The Crows Have Eyes III: The Crowening, the Bosnian B-movie starring Moira Rose in Schitt’s Creek.
