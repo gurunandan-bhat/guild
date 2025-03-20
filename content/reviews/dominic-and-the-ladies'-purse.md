@@ -10,6 +10,7 @@ opening = "Mammootty’s joyous interpretation of Dominic makes you want to forg
 img = 'dominic-and-the-ladies-purse.webp'
 media = 'print'
 source = "https://www.hollywoodreporterindia.com/reviews/theatrical/dominic-and-the-ladies-purse-movie-review-an-epic-mammootty-character-a-not-so-epic-investigation"
+score = 7
 +++
 
 10 minutes into Gautham Vasudev Menon’s Dominic And The Ladies’ Purse is all it takes for one to fall in love with CI Dominic (Mammootty), the eccentric, pompous detective with a serious cash-flow issue. We meet him through Vicky (Gokul Suresh), Dominic’s new “Watson” on his first day of work, in what can best be described as a “zero introduction” scene. Dominic works out of his dilapidated home-office filled with props and furniture (his office chair is an abandoned salon seat) well past its glory days. So when he hires Vicky in a matter of seconds, it’s probably not because he’s finally found an intellectual equal, it’s just that Vicky has enough money at home to not ask for a salary.

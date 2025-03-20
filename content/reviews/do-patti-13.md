@@ -7,6 +7,7 @@ critics = ['Bhawana Somaaya']
 subtitle = 'A decent one time watch worth it for the star cast'
 media = 'video'
 source = 'xZI_eV47fUg'
+score = 6
 +++
 
 {{< youtube id="xZI_eV47fUg" >}}

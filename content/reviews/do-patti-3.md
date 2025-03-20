@@ -9,6 +9,7 @@ opening = "The film is purply dark, a little suspenseful and somewhat twisted."
 img = 'do-patti-3.png'
 media = 'print'
 source = "https://www.ndtv.com/entertainment/do-patti-review-kriti-sanons-film-needed-much-better-cards-to-make-a-game-of-it-2-stars-6869847"
+score = 4
 +++
 
 Identical twins of the kind that we encounter in Hindi popular cinema are always temperamentally polar opposites. The pair in Do Patti, a Netflix film directed by Shashanka Chaturvedi, is no exception - they look the same but are dissimilar in disposition and demeanour. The film, however, deviates from the larger narrative template that governs the genre. Mumbai movies may have stumbled upon a degree of freedom thanks to the advent of the streamers, but old habits die hard. Do Patti, scripted by Kanika Dhillon, has an old trope at its core. It, however, eschews the usual confusion-caused-by-mistaken-identity construct.

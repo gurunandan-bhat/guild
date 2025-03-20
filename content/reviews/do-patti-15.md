@@ -9,6 +9,7 @@ opening = "Attempting to follow the flowchart of being engaging and meaningful, 
 img = 'do-patti-15.jpeg'
 media = 'print'
 source = "https://www.thehindu.com/entertainment/movies/do-patti-movie-review-kriti-sanon-kajol-struggle-to-power-this-thriller-on-domestic-abuse/article68795318.ece"
+score = 4
 +++
 
 For a long time, one believed that a compelling cinematic narrative shows more than it tells, and expresses more than it explains. However, the recent content spurt on OTT platforms seems bent on cerebrating the opposite. Do Patti is yet another addition to the long list of films that skip theatres for a streaming service. It reduces the art of storytelling to a mere artifice for meaningful cinema. These films end up delivering the message but little else.

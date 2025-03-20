@@ -10,6 +10,7 @@ opening = "The film never cements its pieces together enough to create a coheren
 img = 'despatch-5.webp'
 media = 'print'
 source = ""
+score = 3
 +++
 
 Crime reporter Joy Bag (Manoj Bajpayee) is not the kind of journalist we see too often in Hindi movies. His favourite accompaniment is his rucksack, as he goes about criss-crossing the city on his bike, in search of the latest story. He’s been doing this for a while, because he talks to his seniors like an equal, but at heart he will always remain a scrappy newshound who likes nothing better than chatting up shadowy contacts over cups of cheap cutting chai, which he prefers to the pizza his wife serves at unwelcome parties at home.

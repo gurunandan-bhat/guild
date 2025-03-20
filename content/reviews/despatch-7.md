@@ -10,6 +10,7 @@ opening = "With persuasive performances and immersive camerawork, Kanu Behl’s 
 img = 'despatch-7.webp'
 media = 'print'
 source = "https://www.thehindu.com/entertainment/movies/despatch-movie-review-tailored-for-manoj-bajpayee-the-searing-crime-drama-examines-the-death-of-investigative-journalism/article68980702.ece"
+score = 7
 +++
 
 Those who have experienced Titli and Agra would vouch that Kanu Behl’s cinema is not easy to watch. Always reflecting dark shades of everyday reality, the filmmaker has this knack for scratching the soul of his desperate characters struggling to cling to their little power structures and, in the process, leaves impressions on the conscience of the audience.

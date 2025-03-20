@@ -9,6 +9,7 @@ opening = "There’s enough in Kriti Sanon-Kajol film for a juicy, substantive d
 img = 'do-patti-2.webp'
 media = 'print'
 source = "https://indianexpress.com/article/entertainment/movie-review/do-patti-movie-review-shallow-kajol-kriti-sanon-film-fails-to-deliver-on-its-promise-9638164/"
+score = 3
 +++
 
 ‘Do Patti’ comes armed with much promise. It is the first offering of a brand new female-led production house, with producer-actor Kriti and writer Kanika Dhillon having created an interesting ensemble led by Kajol, popular TV actor Shaheer Sheikh, Tanvi Azmi, Brijendra Kala and Vivek Mushran. What’s not to like? Turns out, quite a lot.

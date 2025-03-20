@@ -9,6 +9,7 @@ opening = "Do Patti collapses like a house of cards when it aims to be clever."
 img = 'do-patti-16.jpg'
 media = 'print'
 source = "https://www.rediff.com/movies/review/do-patti-review/20241025.htm"
+score = 4
 +++
 
 Dressed in the exact same attire as her newly wedded sister at her reception, the lookalike twin poses right next to the bride and groom as if fulfilling Bollywood's bawdy fantasy of saali aadhi gharwali in a tasteless, thunder-stealing move.

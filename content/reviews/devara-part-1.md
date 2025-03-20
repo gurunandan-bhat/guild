@@ -7,6 +7,7 @@ critics = ['Sucharita Tyagi']
 source = 'THJ0QDTqpDc'
 subtitle = "Sucharita Tyagi's Honest Review You Need to Hear"
 media = 'video'
+score = 2
 +++
 
 {{< youtube id="THJ0QDTqpDc" >}}

@@ -7,6 +7,7 @@ critics = ['Sucharita Tyagi']
 subtitle = 'Manoj Bajpayee steers most of the movie on his able shoulders, and occasionally his bare bottom.'
 media = 'video'
 source = 'u2p7DFlHTRk'
+score = 6
 +++
 
 {{< youtube id="u2p7DFlHTRk" >}}
