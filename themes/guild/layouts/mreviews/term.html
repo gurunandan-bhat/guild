@@ -12,12 +12,12 @@
         {{ $fullTitle = printf "%s (%s)" $fullTitle . }}
     {{ end }}
     <div>
-        {{ $linkTitle := .LinkTitle }}
-        {{ with partialCached "tmdb-meta.html" $linkTitle $linkTitle }}
-            {{ $scoreImg := partial "fcg-rating.html" (dict "title" $linkTitle "size" "large") }}
+        {{ $title := .Title }}
+        {{ with partialCached "tmdb-meta.html" $title $title }}
+            {{ $scoreImg := partial "fcg-rating.html" (dict "title" $title "size" "large") }}
             {{ partial "taxonomy/mreviews/metadata.html" (dict "meta" . "fullTitle" $fullTitle "scoreImg" $scoreImg) }}
         {{ else }}
-            {{ warnf "Unable to get global resource %s" $linkTitle }}
+            {{ warnf "Unable to get global resource %s" $title }}
         {{ end }}
     </div>
 
