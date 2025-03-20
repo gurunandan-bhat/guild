@@ -10,6 +10,7 @@ opening = "The Amazon Prime series is arguably the safest and weakest project Ra
 img = 'citadel-honey-bunny-7.png'
 media = 'print'
 source = "https://thewire.in/film/citadel-honey-bunny-a-lifeless-spy-franchise-prevails-over-filmmaker-duo-raj-dk"
+score = 3
 +++
 
 The choices in Citadel: Honey Bunny sing less frequently compared to other undertakings of the Raj & DK filmmaker duo. An offshoot of Amazon Prime’s gazillion-dollar spy franchise pitted against the silliness of James Bond, Jason Bourne, Ethan Hunt, etc., Raj & DK’s latest carries the baggage of an over-embellished universe tensely fitted into a studio-approved runtime. Like its American counterpart helmed by the Russo brothers, even the Indian version spans six episodes with a duration of 40-50 minutes each.

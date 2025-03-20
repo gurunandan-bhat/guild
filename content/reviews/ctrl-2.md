@@ -9,6 +9,7 @@ opening = 'While both Ananya Panday and Vihaan Samat do their job well, the film
 img = 'ctrl-2.webp'
 media ='print'
 source = 'https://indianexpress.com/article/entertainment/movie-review/ctrl-movie-review-ananya-panday-vikramaditya-motwane-film-is-two-dimensional-9603327/'
+score = 5
 +++
 
 With Ctrl, a cautionary tale about the world’s obsession and our near-total dependence on online apps, Vikramaditya Motwane has moved firmly into the future. Or is it the present? Isn’t this what the geeks have been creating with their gaming universes, where your digital avatars are the better, shinier versions of you? Where they slay all the monsters, and leave you &mdash; or rather, your avatar &mdash; fully in control?

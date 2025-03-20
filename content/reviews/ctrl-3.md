@@ -9,6 +9,7 @@ opening = 'Director Vikramaditya Motwane succeeds in creating the mood, moments,
 img = 'ctrl-3.jpg'
 source = 'https://www.thehindu.com/entertainment/movies/ctrl-movie-review-ananya-panday-is-in-control-in-this-timely-lesson-on-the-dangers-of-ai/article68717248.ece'
 media = 'print'
+score = 4
 +++
 
 A cautionary tale on cybercrime and artificial intelligence, CTRL works like a ready reckoning on online behaviour for social media junkies and feels like it has been designed to showcase the budding talent of Ananya Panday. Many of us have yet to recover from the shenanigans of Bae when director Vikramaditya Motwane unleashes the effervescence of Ananya in yet another variant of the coming-of-age template for Gen-Z.

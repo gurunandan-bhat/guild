@@ -9,6 +9,7 @@ opening = "CTRL, in spirit and substance, reinforces Vikramaditya Motwane's prov
 img = 'ctrl-4.png'
 source = 'https://www.ndtv.com/entertainment/seo-title-ctrl-review-an-uncategorisable-film-that-is-equal-parts-entertaining-and-sobering-3-5-stars-6714082'
 media = 'print'
+score = 7
 +++
 
 Conjuring up a life that plays out in a virtual space - in other words, setting up a gauzy existence that floats in a dimension far removed from the real and the tangible - has its wages. Vikramaditya Motwane's inventive, sparky CTRL examines the nature and extent of the toll that burrowing into a rabbit hole of constructed personas and enhanced engagements can extract.

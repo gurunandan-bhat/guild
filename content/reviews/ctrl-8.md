@@ -9,6 +9,7 @@ opening = 'Ananya Panday is the lone spark in Vikramaditya Motwane’s Netflix s
 img = 'ctrl-8.webp'
 source = 'https://akhilarora.com/2024/10/ctrl-movie-review-ananya-panday-netflix/'
 media = 'print'
+score = 3
 +++
 
 CTRL lacks control. The new Indian Netflix original movie—directed and co-written by Vikramaditya Motwane—has a lot on its mind. It wishes to tackle the perils of building a business with your partner, the blurred lines between online validation and offline happiness, generational malaise and being severely attached to devices, and the dangers posed by Big Tech, deep fakes and generative AI models. There’s a lot more, some of it frivolous and the rest bordering on spoilers. And that’s exactly the problem—it cannot pick a lane. CTRL tries to pack in so much in its 100-minute runtime that it ends up doing none of it well. Worse, everything it does feels stale. We’ve heard and seen variations of this. Nothing it does shocks or surprises.

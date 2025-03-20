@@ -7,6 +7,7 @@ critics = ['Bhawana Somaaya']
 subtitle = 'Watch Chhaava for the scale and the performances'
 media = 'video'
 source = 'lKTurZe7fmw'
+score = 7
 +++
 
 {{< youtube id="lKTurZe7fmw" >}}

@@ -9,6 +9,7 @@ opening = 'Sukanya Verma recommends watching CTRL on a computer for an eerie, im
 img = 'ctrl-11.jpg'
 source = 'https://www.rediff.com/movies/review/ctrl-review/20241004.htm'
 media = 'print'
+score = 8
 +++
 
 Unsettling, isn't it? Our most reliable source of information and communication can be programmed to keep tabs on our mind and movement across the multiple devices that have become indispensable crutches of modern living. But then the Internet has always been a seductive, if not secure, space where all its gifts come with its share of dangers.

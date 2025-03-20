@@ -6,6 +6,7 @@ mreviews = ['CTRL']
 critics = ['Sucharita Tyagi']
 source = 'I6B78NkSPNo'
 media = 'video'
+score = 6
 +++
 
 {{< youtube id="I6B78NkSPNo" >}}

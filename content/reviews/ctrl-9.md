@@ -6,6 +6,7 @@ mreviews = ['CTRL']
 critics = ['Rohit Khilnani']
 source = 'CZe20LgcQZg'
 media = 'video'
+score = 8
 +++
 
 {{< youtube id="CZe20LgcQZg" >}}

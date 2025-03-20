@@ -9,6 +9,7 @@ opening = 'Vikramaditya Motwane’s film is a weak Black Mirror episode at best.
 img = 'ctrl-12.jpg'
 source = 'https://thewire.in/film/ctrl-a-digital-screen-thriller-is-a-tepid-look-at-the-evils-of-big-tech'
 media = 'print'
+score = 4
 +++
 
 There’s one significant challenge to making ‘screen-life films’ (films that unfold almost entirely on digital screens). Once you commit to its visual grammar, you’re tied to them till there’s a good reason to break out of it. No matter what, all your exposition needs to happen on the small screen, key plot points need to be hashed out during video calls, and the filmmakers need to keep imagining newer screens – ranging from iPad, mobile phones, CCTVs, GoPros, webcams, paparazzi lenses, TV screens etc.
