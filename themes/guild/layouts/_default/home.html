@@ -5,152 +5,153 @@
 
 
     <div style="margin-top: 25px;">
-        <div id="next-prev" class="clearfix mt-2">
-            <div class="float-start" style="padding-left: 30px;">
-                <a href="#">Previous</a>
-            </div>
-            <div class="float-end" style="padding-right: 30px;">
-                <a href="#">Next</a>
-            </div>
-        </div>
-        <div id="nav" class="ms-5 clearfix my-3">
-            <div class="inline-block px-2 float-start">1</div>
-            <div class="inline-block px-2 float-start">1</div>
-            <div class="inline-block px-2 float-start">1</div>
-            <div class="inline-block px-2 float-start">1</div>
-            <div class="inline-block px-2 float-start">1</div>
-            <div class="inline-block px-2 float-start">1</div>
-        </div>
-        <div id="home-carousel">
-            {{ $sorted := partial "sorted-pages.html" $paginator.Pages }}
-            {{ range $sorted }}
-                {{ $page := index $paginator.Pages . }}
-                <div>
-                    {{ $scoreImg := partial "fcg-rating.html" (dict "title" $page.LinkTitle "size" "small") }}
-                    {{ partial "short-meta.html" (dict "context" $page "type" "full" "scoreImg" $scoreImg "showCast" false) }}
+        <div class="clearfix">
+            <div id="next-prev">
+                <div class="float-start px-5">
+                    <a href="#">Previous</a>
                 </div>
-            {{ end }}
-        </div>
-    </div>
-    <div class="container">
-        <div class="row" style="margin-top: 100px;">
-            <div class="col-lg-10 offset-lg-1">
-                <div class="d-flex justify-content-center">
-                    {{ template "_internal/pagination.html" . }}
+                <div id="nav" class="inline-block px-5 my-3">
+                    <div class="inline-block px-2 float-start">1</div>
+                    <div class="inline-block px-2 float-start">1</div>
+                    <div class="inline-block px-2 float-start">1</div>
+                    <div class="float-start px-5">
+                        <a href="#">Next</a>
+                    </div>
                 </div>
-                <div class="row">
-                    {{ range $paginator.Pages }}
-                        <div class="col-lg-6 my-3">
-                            <div>
-                                {{ $scoreImg := partial "fcg-rating.html" (dict "title" .LinkTitle "size" "small") }}
-                                {{ partial "short-meta.html" (dict "context" . "type" "full" "scoreImg" $scoreImg "showCast" true) }}
-                            </div>
-                            {{ $reviews := first 3 (sort (where .Site.RegularPages ".LinkTitle" .LinkTitle) ".Date" "desc") }}
-                            {{ $accordionID := printf "%s-%s" "accordion" (replace (index $reviews 0).Title " " "-") }}
-                            <div class="accordion" id="{{ $accordionID }}">
-                                {{ range $review := $reviews }}
-                                    <div class="accordion-item">
-                                        {{ $id := .File }}
-                                        {{ $summary := .Summary }}
-                                        {{ $source := "" }}
-                                        {{ if eq .Params.media "print" }}
-                                            {{ $source = .Params.source }}
-                                        {{ end }}
-                                        <div
-                                            class="short-review accordion-header mb-1">
-                                            {{ $reviewer := index (where site.RegularPages ".LinkTitle" (index $review.Params.critics 0)) 0 }}
-                                            {{ with $reviewer }}
-                                                {{ $img := resources.Get .Params.img }}
-                                                {{ $img = $img.Resize "50x" }}
-                                                <div class="row">
-                                                    <div class="col-lg-10">
-                                                        <div
-                                                            class="clearfix accordion-header ps-2 pb-2">
-                                                            <div class="py-1">
-                                                                <img
-                                                                    src="{{ $img.RelPermalink }}"
-                                                                    class="rounded-circle float-start mt-2" />
-                                                            </div>
+            </div>
+            <div id="home-carousel">
+                {{ $sorted := partial "sorted-pages.html" $paginator.Pages }}
+                {{ range first 6 $sorted }}
+                    {{ $page := index $paginator.Pages . }}
+                    <div>
+                        {{ partial "mini-meta.html" $page }}
+                    </div>
+                {{ end }}
+            </div>
+        </div>
+        <div class="container">
+            <div class="row" style="margin-top: 100px;">
+                <div class="col-lg-10 offset-lg-1">
+                    <div class="d-flex justify-content-center">
+                        {{ template "_internal/pagination.html" . }}
+                    </div>
+                    <div class="row">
+                        {{ range $paginator.Pages }}
+                            <div class="col-lg-6 my-3">
+                                <div>
+                                    {{ $scoreImg := partial "fcg-rating.html" (dict "title" .LinkTitle "size" "small") }}
+                                    {{ partial "short-meta.html" (dict "context" . "type" "full" "scoreImg" $scoreImg "showCast" true) }}
+                                </div>
+                                {{ $reviews := first 3 (sort (where .Site.RegularPages ".LinkTitle" .LinkTitle) ".Date" "desc") }}
+                                {{ $accordionID := printf "%s-%s" "accordion" (replace (index $reviews 0).Title " " "-") }}
+                                <div class="accordion" id="{{ $accordionID }}">
+                                    {{ range $review := $reviews }}
+                                        <div class="accordion-item">
+                                            {{ $id := .File }}
+                                            {{ $summary := .Summary }}
+                                            {{ $source := "" }}
+                                            {{ if eq .Params.media "print" }}
+                                                {{ $source = .Params.source }}
+                                            {{ end }}
+                                            <div
+                                                class="short-review accordion-header mb-1">
+                                                {{ $reviewer := index (where site.RegularPages ".LinkTitle" (index $review.Params.critics 0)) 0 }}
+                                                {{ with $reviewer }}
+                                                    {{ $img := resources.Get .Params.img }}
+                                                    {{ $img = $img.Resize "50x" }}
+                                                    <div class="row">
+                                                        <div class="col-lg-10">
                                                             <div
-                                                                style="padding-left: 62px;">
-                                                                <div>
-                                                                    <span
-                                                                        class="author"
-                                                                        >{{ .Params.title }}</span
-                                                                    >
-                                                                    |
-                                                                    <span
-                                                                        class="pub-date"
-                                                                        >{{ index .Params.organizations 0 }}</span
-                                                                    >
-                                                                    {{ partial "taxonomy/critics/reviewLink.html" .Params.title }}
+                                                                class="clearfix accordion-header ps-2 pb-2">
+                                                                <div
+                                                                    class="py-1">
+                                                                    <img
+                                                                        src="{{ $img.RelPermalink }}"
+                                                                        class="rounded-circle float-start mt-2" />
                                                                 </div>
-                                                                <h6
-                                                                    class="pe-3">
-                                                                    {{ $review.Params.subtitle }}
-                                                                </h6>
+                                                                <div
+                                                                    style="padding-left: 62px;">
+                                                                    <div>
+                                                                        <span
+                                                                            class="author"
+                                                                            >{{ .Params.title }}</span
+                                                                        >
+                                                                        |
+                                                                        <span
+                                                                            class="pub-date"
+                                                                            >{{ index .Params.organizations 0 }}</span
+                                                                        >
+                                                                        {{ partial "taxonomy/critics/reviewLink.html" .Params.title }}
+                                                                    </div>
+                                                                    <h6
+                                                                        class="pe-3">
+                                                                        {{ $review.Params.subtitle }}
+                                                                    </h6>
+                                                                </div>
                                                             </div>
                                                         </div>
+                                                        <div class="col-lg-2">
+                                                            <button
+                                                                class="accordion-button collapsed"
+                                                                type="button"
+                                                                data-bs-toggle="collapse"
+                                                                data-bs-target="#{{- $id }}"
+                                                                aria-expanded="true"
+                                                                aria-controls="{{ $id }}"></button>
+                                                        </div>
                                                     </div>
-                                                    <div class="col-lg-2">
-                                                        <button
-                                                            class="accordion-button collapsed"
-                                                            type="button"
-                                                            data-bs-toggle="collapse"
-                                                            data-bs-target="#{{- $id }}"
-                                                            aria-expanded="true"
-                                                            aria-controls="{{ $id }}"></button>
+                                                    <div
+                                                        id="{{ $id }}"
+                                                        class="accordion-collapse collapse"
+                                                        data-bs-parent="{{- printf "#%s" $accordionID }}">
+                                                        <div
+                                                            class="accordion-body">
+                                                            {{ $summary }}
+                                                            {{ with $source }}
+                                                                <p
+                                                                    class="small">
+                                                                    <a
+                                                                        href="{{ $source }}"
+                                                                        target="_blank">
+                                                                        Continue
+                                                                        reading
+                                                                        &hellip;</a
+                                                                    >
+                                                                </p>
+                                                            {{ end }}
+                                                        </div>
                                                     </div>
-                                                </div>
-                                                <div
-                                                    id="{{ $id }}"
-                                                    class="accordion-collapse collapse"
-                                                    data-bs-parent="{{- printf "#%s" $accordionID }}">
-                                                    <div class="accordion-body">
-                                                        {{ $summary }}
-                                                        {{ with $source }}
-                                                            <p class="small">
-                                                                <a
-                                                                    href="{{ $source }}"
-                                                                    target="_blank">
-                                                                    Continue
-                                                                    reading
-                                                                    &hellip;</a
-                                                                >
-                                                            </p>
-                                                        {{ end }}
-                                                    </div>
-                                                </div>
-                                            {{ end }}
+                                                {{ end }}
+                                            </div>
                                         </div>
-                                    </div>
-                                {{ end }}
+                                    {{ end }}
+                                </div>
                             </div>
-                        </div>
-                    {{ end }}
-                </div>
-                <div class="d-flex justify-content-center">
-                    {{ template "_internal/pagination.html" . }}
+                        {{ end }}
+                    </div>
+                    <div class="d-flex justify-content-center">
+                        {{ template "_internal/pagination.html" . }}
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-    {{ with resources.Get "js/home-carousel.js" }}
-        {{ $opts := dict
-            "minify" hugo.IsProduction
-            "sourceMap" (cond hugo.IsProduction "" "external")
-        }}
-        {{ with . | js.Build $opts }}
-            {{ if hugo.IsProduction }}
-                {{ with . | fingerprint }}
-                    <script
-                        src="{{ .RelPermalink }}"
-                        integrity="{{ .Data.Integrity }}"
-                        crossorigin="anonymous"></script>
+        {{ with resources.Get "js/home-carousel.js" }}
+            {{ $opts := dict
+                "minify" hugo.IsProduction
+                "sourceMap" (cond hugo.IsProduction "" "external")
+            }}
+            {{ with . | js.Build $opts }}
+                {{ if hugo.IsProduction }}
+                    {{ with . | fingerprint }}
+                        <script
+                            src="{{ .RelPermalink }}"
+                            integrity="{{ .Data.Integrity }}"
+                            crossorigin="anonymous"></script>
+                    {{ end }}
+                {{ else }}
+                    <script src="{{ .RelPermalink }}"></script>
                 {{ end }}
-            {{ else }}
-                <script src="{{ .RelPermalink }}"></script>
             {{ end }}
         {{ end }}
-    {{ end }}
+    </div>
 {{ end }}

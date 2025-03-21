@@ -1,0 +1,68 @@
+{{ $page := . }}
+{{ $scoreImg := partial "fcg-rating.html" (dict "title" $page.LinkTitle "size" "small") }}
+{{ $pageImage := $page.Params.img }}
+{{ $languages := site.Data.languages.languages }}
+{{ $reviewLink := partial "taxonomy/mreviews/reviewLink-raw.html" $page.LinkTitle }}
+{{ with partialCached "tmdb-meta.html" $page.Title $page.Title }}
+    {{ $language := index $languages .original_language }}
+    {{ with resources.Get (printf "meta/backdrops%s" .backdrop_path) }}
+        <img src="{{ .RelPermalink }}" class="img-fluid w-100" />
+    {{ else }}
+        {{ with $page.Params.img }}
+            {{ with partial "scaledImage" (printf "images/reviews/%s" .) }}
+                <img src="{{ .RelPermalink }}" class="img-fluid w-100" />
+            {{ end }}
+        {{ end }}
+    {{ end }}
+
+    {{ $genreList := slice }}
+    {{ range .genres }}
+        {{ $genreList = append .name $genreList }}
+    {{ end }}
+
+
+    <div class="mini-meta">
+        <div class="row mini-inset small">
+            <div class="col-lg-3 text-center">
+                {{ with $scoreImg }}
+                    <img src="{{ . }}" class="img-fluid p-1 float-start" />
+                {{ end }}
+            </div>
+            <div class="col-lg-9">
+                <h6>
+                    <a href="{{ $reviewLink }}">
+                        {{ $page.Title }}
+                        {{ with $page.Params.translatedTitle }}
+                            ({{ . }})
+                        {{ end }}
+                    </a>
+                </h6>
+                <p class="fw-bolder">
+                    {{ delimit $genreList ", " }}
+                    {{ with $language }}
+                        ({{ $language.english_name }})
+                    {{ end }}
+                </p>
+                <p class="mini-tight">
+                    {{ delimit (first 24 (split .overview " ")) " " }}
+                    <a href="{{ $reviewLink }}">(more&hellip;)</a>
+                </p>
+            </div>
+        </div>
+    </div>
+{{ else }}
+    {{ with $page.Params.img }}
+        {{ with partial "scaledImage" (printf "images/reviews/%s" .) }}
+            <img src="{{ .RelPermalink }}" class="img-fluid w-100" />
+        {{ end }}
+        <div class="latest">
+            <h6>
+                {{ $page.Title }}
+                {{ with $page.Params.translatedTitle }}
+                    ({{ . }})
+                {{ end }}
+            </h6>
+        </div>
+    {{ end }}
+    {{ warnf "Mini Meta: Unable to get global resource %s" $page.Title }}
+{{ end }}

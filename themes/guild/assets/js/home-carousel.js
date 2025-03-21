@@ -7,7 +7,7 @@ var slider = tns({
 	navContainer: '#nav',
 	loop: true,
 	edgePadding: 35,
-	gutter: 3,
+	gutter: 4,
 	responsive: {
 		50: {
 			items: 1,

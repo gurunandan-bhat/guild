@@ -252,3 +252,20 @@ a.anchor {
 #home-carousel {
     background-color: #ebe4ed;
 }
+
+.mini-meta {
+    padding: 1rem 1rem 0 1rem;
+    font-size: 0.8rem;
+    border: solid white;
+}
+.mini-inset h6 {
+    font-size: 16px;
+    font-family: Oswald;
+    color: #924c9d;
+    text-transform: uppercase;
+    margin-bottom: 3px;
+}
+
+p.mini-tight {
+    min-height: 60px;
+}

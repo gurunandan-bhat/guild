@@ -44,7 +44,7 @@
             {{ $writer = .name }}
         {{ end }}
     {{ end }}
-    <div class="latest">
+    <div class="latest border border-2 border-bottom-0">
         <div class="row">
             <div class="col-lg-9">
                 <h6>
@@ -107,5 +107,5 @@
             </h6>
         </div>
     {{ end }}
-    {{ warnf "Unable to get global resource %s" $context.Title }}
+    {{ warnf "Short Meta: Unable to get global resource %s" $context.Title }}
 {{ end }}
