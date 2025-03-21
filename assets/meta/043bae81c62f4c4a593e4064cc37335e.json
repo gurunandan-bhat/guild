@@ -1,0 +1,460 @@
+{
+	"id": 1148486,
+	"title": "Vedaa",
+	"fcg_title": "Vedaa",
+	"original_title": "वेदा: संविधान के रक्षक",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "A court-marshalled soldier with a traumatic past helps a young girl from 'lower' caste and an aspiring boxer work towards her dreams despite her hostile environment.",
+	"backdrop_path": "/qMneo4vk6e42lS8UqYIfG9xf7ol.jpg",
+	"poster_path": "/wK0p210TWMH4P3isT1bI0FVEuZ9.jpg",
+	"release_date": "2024-08-15",
+	"credits": {
+		"cast": [
+			{
+				"id": 52971,
+				"order": 0,
+				"name": "John Abraham",
+				"profile_path": "/2ITVYVFou0dh3QVcJlhNJVzrA2p.jpg",
+				"character": "Abhimanyu Kanwar",
+				"gender": 2
+			},
+			{
+				"id": 2518564,
+				"order": 1,
+				"name": "Sharvari Wagh",
+				"profile_path": "/bgKxhkru8rF8ZAP4wSZeJ5O9P7D.jpg",
+				"character": "Vedaa Berwa",
+				"gender": 1
+			},
+			{
+				"id": 1708061,
+				"order": 2,
+				"name": "Abhishek Banerjee",
+				"profile_path": "/cfyRkFBFfodBbNKbsTc8eG9YtVj.jpg",
+				"character": "Jitendra Pratap Singh",
+				"gender": 2
+			},
+			{
+				"id": 85684,
+				"order": 3,
+				"name": "Ashish Vidhyarthi",
+				"profile_path": "/iBUUpfHZIfpC5afHrHwcyGTHKQF.jpg",
+				"character": "Kaka",
+				"gender": 2
+			},
+			{
+				"id": 3151728,
+				"order": 4,
+				"name": "Kshitij Chauhan",
+				"character": "Suyog Pratap Singh"
+			},
+			{
+				"id": 85721,
+				"order": 5,
+				"name": "Tamannaah Bhatia",
+				"profile_path": "/t4WYoKiFAyO1Rhjv7O03EKmJHp4.jpg",
+				"character": "Raashi",
+				"gender": 1
+			},
+			{
+				"id": 1858311,
+				"order": 6,
+				"name": "Danish Husain",
+				"profile_path": "/8fonWWo47kZPmzWyc5RkYiPVnNI.jpg",
+				"character": "Sunil Mahajan aka Mountbatten",
+				"gender": 2
+			},
+			{
+				"id": 4610350,
+				"order": 7,
+				"name": "Tanvi Malhara",
+				"profile_path": "/5WlOKvjnSOanUPD2vqi5uTJuLeD.jpg",
+				"character": "Gehna Berwa",
+				"gender": 1
+			},
+			{
+				"id": 1252843,
+				"order": 8,
+				"name": "Rajendra Chawla",
+				"profile_path": "/rwldmP0tneEflAVgOaQsYmvTZju.jpg",
+				"character": "Mr. Berwa"
+			},
+			{
+				"id": 4992274,
+				"order": 9,
+				"name": "Kapil Nirmal",
+				"character": "API Bhimsen Purohit"
+			},
+			{
+				"id": 2552374,
+				"order": 10,
+				"name": "Anurag Thakur",
+				"profile_path": "/3uhvhOTAVFsSVRVR41rjILq9Fcn.jpg",
+				"character": "Vinod"
+			},
+			{
+				"id": 4270324,
+				"order": 11,
+				"name": "Mahadev Singh Lakhawat",
+				"profile_path": "/jvoIGFJ90s8lh9oOzLINxvbTJI2.jpg",
+				"character": "Junior Meghwal",
+				"gender": 2
+			},
+			{
+				"id": 4992277,
+				"order": 12,
+				"name": "Parag Sharma",
+				"character": "Sunehre"
+			},
+			{
+				"id": 1179628,
+				"order": 13,
+				"name": "Kumud Mishra",
+				"profile_path": "/pM4eD7eIEPk2Lx0c5C1K201qnp6.jpg",
+				"character": "Mausaji",
+				"gender": 2
+			},
+			{
+				"id": 4924665,
+				"order": 14,
+				"name": "Ajeet Singh Palawat",
+				"character": "ASI Raghu Meena"
+			},
+			{
+				"id": 4992283,
+				"order": 15,
+				"name": "Rajoshri Vidyarthi",
+				"character": "Mrs. Berwal"
+			},
+			{
+				"id": 2335893,
+				"order": 16,
+				"name": "Paritosh Sand",
+				"profile_path": "/6hzwHFF5Msb7jhzEOWT8ICm5X9m.jpg",
+				"character": "Headmaster Uttamlal Singh",
+				"gender": 2
+			},
+			{
+				"id": 2365591,
+				"order": 17,
+				"name": "K.C. Shankar",
+				"profile_path": "/fbxJMM6YZGl3OLHhnqISzPjbSpB.jpg",
+				"character": "Commander Bharadwaj",
+				"gender": 2
+			},
+			{
+				"id": 1917772,
+				"order": 18,
+				"name": "Gowhar Khan",
+				"character": "Ilyas Kashmiri"
+			},
+			{
+				"id": 4992292,
+				"order": 19,
+				"name": "Nirmal Chaudhary",
+				"character": "Mr. Meghwal"
+			},
+			{
+				"id": 3090878,
+				"order": 20,
+				"name": "Rocky Mahajan",
+				"character": "Jitender's Man Friday"
+			}
+		],
+		"crew": [
+			{
+				"id": 1187446,
+				"name": "Aseem Arora",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 35735,
+				"name": "Nikkhil Advani",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 35735,
+				"name": "Nikkhil Advani",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1557508,
+				"name": "Monisha Advani",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1824438,
+				"name": "Shariq Patel",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2118187,
+				"name": "Madhu Bhojwani",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2041611,
+				"name": "Malay Prakash",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 52971,
+				"name": "John Abraham",
+				"profile_path": "/2ITVYVFou0dh3QVcJlhNJVzrA2p.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2358541,
+				"name": "Minnakshi Das",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2118197,
+				"name": "Maahir Zaveri",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 2118198,
+				"name": "Mohd Amin Khatib",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 2138208,
+				"name": "Manoj Sikka",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 2124688,
+				"name": "Kavish Sinha",
+				"job": "Casting Director",
+				"department": "Production"
+			},
+			{
+				"id": 1959060,
+				"name": "Ayesha Dasgupta",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1823148,
+				"name": "Priya Suhas",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 2506578,
+				"name": "Shivam Borkar",
+				"job": "Additional Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 2926879,
+				"name": "Rahul Gandhi",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1668228,
+				"name": "Adil Shaikh",
+				"job": "Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 1967117,
+				"name": "Kruti Mahesh Midya",
+				"job": "Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 2303482,
+				"name": "Vijay Ghodke",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 4018378,
+				"name": "Soamaa Goswami",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1566217,
+				"name": "Vijay Singh",
+				"job": "Script Supervisor",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2891789,
+				"name": "Sagar Manik",
+				"job": "Associate Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 2401101,
+				"name": "Sachin Kunal",
+				"job": "Associate Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 3150524,
+				"name": "Kartik Shah",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 1607418,
+				"name": "Amaal Mallik",
+				"profile_path": "/flcWcqsvTUUQs6R7QPMZ1cypVdE.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2408472,
+				"name": "Achint Thakkar",
+				"job": "Music Supervisor",
+				"department": "Sound"
+			},
+			{
+				"id": 3946364,
+				"name": "Parth Pandya",
+				"job": "Music Supervisor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2553013,
+				"name": "Raghav Chaitanya",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2294604,
+				"name": "Arjun",
+				"job": "Music",
+				"department": "Sound"
+			},
+			{
+				"id": 2973443,
+				"name": "Manan Bhardwaj",
+				"profile_path": "/fIdWXoU0JO8Iv7E6EY6kdhKoWrp.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2222179,
+				"name": "Kunaal Vermaa",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 4709260,
+				"name": "Arushi Kaushal",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 2973443,
+				"name": "Manan Bhardwaj",
+				"profile_path": "/fIdWXoU0JO8Iv7E6EY6kdhKoWrp.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2553013,
+				"name": "Raghav Chaitanya",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2294604,
+				"name": "Arjun",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 1796865,
+				"name": "Arijit Singh",
+				"profile_path": "/2PebQIwbUQDOctnwQ0jSqTLQ5l9.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1244580,
+				"name": "Prajakta Shukre",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 2384456,
+				"name": "Himani Kapoor",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 2279502,
+				"name": "Nikhita Gandhi",
+				"profile_path": "/rY8oROAUtYaWpQJIujYHY3ISVV9.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 4345235,
+				"name": "MC Square",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 4992319,
+				"name": "Asha Sapera",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 2553013,
+				"name": "Raghav Chaitanya",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			}
+		]
+	}
+}
