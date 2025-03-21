@@ -72,6 +72,11 @@
                                                                             class="author"
                                                                             >{{ .Params.title }}</span
                                                                         >
+                                                                        |
+                                                                        <span
+                                                                            class="pub-date"
+                                                                            >{{ index .Params.organizations 0 }}</span
+                                                                        >
                                                                         {{ partial "taxonomy/critics/reviewLink.html" .Params.title }}
                                                                     </div>
                                                                     <h6

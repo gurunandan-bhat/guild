@@ -80,8 +80,10 @@
         {{ if $showCast }}
             <div class="row">
                 <p>
-                    <span class="fw-bolder">Cast:</span>
-                    {{ $castList }}<br />
+                    {{ with $castList }}
+                        <span class="fw-bolder">Cast:</span>
+                        {{ $castList }}
+                    {{ end }}<br />
                     {{ with $director }}
                         <span class="fw-bolder">Director:</span>
                         {{ $director }}
