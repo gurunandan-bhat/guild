@@ -11,7 +11,7 @@
 {{ end }}
 {{ $path := "" }}
 {{ if ge $outOf 3 }}
-    {{ $score = math.Round (div $score $outOf) }}
+    {{ $score = math.Round (div (cast.ToFloat $score) $outOf) }}
     {{ $path = printf "/images/scores/%s%s.png" $size (cast.ToString $score) }}
 {{ end }}
 {{ return $path }}
