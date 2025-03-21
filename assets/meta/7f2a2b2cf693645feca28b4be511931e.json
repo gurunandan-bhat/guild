@@ -2,7 +2,7 @@
 	"id": 1099485,
 	"title": "Dilruba",
 	"fcg_title": "Dilruba",
-	"original_title": "Dilruba",
+	"original_title": "దిల్రుబా",
 	"original_language": "te",
 	"genres": [
 		{
@@ -14,8 +14,9 @@
 			"name": "Action"
 		}
 	],
+	"overview": "A hot-headed college student with a troubled past navigates conflict, love and loss.",
 	"backdrop_path": "/55HzYdpSgcgh7Vo1gA6F0aAfXPD.jpg",
-	"poster_path": "/dhnqr66O2dwKGqLWZ41nyttrASI.jpg",
+	"poster_path": "/75b7ONp0SGgU3SJ8kgizfo7oBOk.jpg",
 	"release_date": "2025-03-14",
 	"credits": {
 		"cast": [
@@ -56,6 +57,13 @@
 				"gender": 2
 			},
 			{
+				"id": 2293463,
+				"name": "P. Rakesh Reddy",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
 				"id": 3228879,
 				"name": "Viswa Karun",
 				"job": "Writer",
@@ -69,10 +77,10 @@
 				"department": "Production"
 			},
 			{
-				"id": 2293463,
-				"name": "P. Rakesh Reddy",
-				"job": "Producer",
-				"department": "Production",
+				"id": 1602241,
+				"name": "Sudheer Macharla",
+				"job": "Assistant Production Design",
+				"department": "Art",
 				"gender": 2
 			},
 			{
@@ -84,15 +92,15 @@
 				"gender": 2
 			},
 			{
-				"id": 1343017,
-				"name": "B. Suresh Reddy",
+				"id": 1967808,
+				"name": "Santhosh",
 				"job": "Co-Producer",
 				"department": "Production",
 				"gender": 2
 			},
 			{
-				"id": 1967808,
-				"name": "Santhosh",
+				"id": 1343017,
+				"name": "B. Suresh Reddy",
 				"job": "Co-Producer",
 				"department": "Production",
 				"gender": 2
@@ -105,25 +113,10 @@
 				"gender": 2
 			},
 			{
-				"id": 1244579,
-				"name": "Raveendar",
-				"job": "Production Design",
-				"department": "Art",
-				"gender": 2
-			},
-			{
-				"id": 222845,
-				"name": "Praveen K. L.",
-				"profile_path": "/kXbykpVSZCS7AhJ6TToGhn636b8.jpg",
-				"job": "Editor",
-				"department": "Editing",
-				"gender": 2
-			},
-			{
-				"id": 1602241,
-				"name": "Sudheer Macharla",
-				"job": "Assistant Production Design",
-				"department": "Art",
+				"id": 3961056,
+				"name": "Duddi Sreenu",
+				"job": "Public Relations",
+				"department": "Crew",
 				"gender": 2
 			},
 			{
@@ -139,10 +132,18 @@
 				"department": "Crew"
 			},
 			{
-				"id": 3961056,
-				"name": "Duddi Sreenu",
-				"job": "Public Relations",
-				"department": "Crew",
+				"id": 1244579,
+				"name": "Raveendar",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 222845,
+				"name": "Praveen K. L.",
+				"profile_path": "/kXbykpVSZCS7AhJ6TToGhn636b8.jpg",
+				"job": "Editor",
+				"department": "Editing",
 				"gender": 2
 			},
 			{

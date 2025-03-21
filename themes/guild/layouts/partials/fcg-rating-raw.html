@@ -1,0 +1,18 @@
+{{ $title := . }}
+{{ $reviews := index site.Taxonomies.mreviews (lower $title) }}
+{{ $score := 0 }}
+{{ $outOf := 0 }}
+{{ range $reviews }}
+    {{ $path := .Path }}
+    {{ $s := (.Params.score | default 0) }}
+    {{ with $s }}
+        {{ $score = add $score (cast.ToFloat .) }}
+        {{ $outOf = add $outOf 1 }}
+    {{ end }}
+{{ end }}
+{{ if ge (cast.ToInt $outOf) 3 }}
+    {{ $score = math.Round (div $score $outOf) }}
+{{ else }}
+    {{ $score = 0 }}
+{{ end }}
+{{ return (cast.ToInt $score) }}

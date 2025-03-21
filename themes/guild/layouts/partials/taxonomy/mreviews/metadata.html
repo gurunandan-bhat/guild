@@ -71,26 +71,11 @@
             <hr />
             <div class="row">
                 <div class="col-lg-8">
+                    {{ with $metadata.overview }}
+                        <p class="small">{{ . }}</p>
+                    {{ end }}
                     <table class="table small table-sm  table-custom">
                         <tbody>
-                            {{ with $metadata.title }}
-                                <tr>
-                                    <th scope="row">Title:</th>
-                                    <td class="attribute">{{ . }}</td>
-                                </tr>
-                            {{ end }}
-                            {{ with $metadata.original_title }}
-                                <tr>
-                                    <th scope="row">Original Title:</th>
-                                    <td>{{ . }}</td>
-                                </tr>
-                            {{ end }}
-                            {{ with $metadata.overview }}
-                                <tr>
-                                    <th scope="row">Plot:</th>
-                                    <td class="attribute">{{ . }}</td>
-                                </tr>
-                            {{ end }}
                             {{ with $castList }}
                                 <tr>
                                     <th scope="row">Cast:</th>

@@ -1,6 +1,7 @@
 {{ $context := index . "context" }}
 {{ $type := index . "type" }}
 {{ $scoreImg := index . "scoreImg" }}
+{{ $showCast := index . "showCast" }}
 {{ $pageImage := $context.Params.img }}
 {{ $languages := site.Data.languages.languages }}
 {{ with partialCached "tmdb-meta.html" $context.Title $context.Title }}
@@ -59,7 +60,6 @@
                     {{ end }}
                 </p>
                 <p>
-                    <span class="fw-bold">Plot:</span>
                     {{ if eq $type "short" }}
                         {{ delimit (first 16 (split .overview " ")) " " }}&hellip;
                     {{ else }}
@@ -73,23 +73,25 @@
                 {{ end }}
             </div>
         </div>
-        <div class="row">
-            <p>
-                <span class="fw-bolder">Cast:</span>
-                {{ $castList }}<br />
-                {{ with $director }}
-                    <span class="fw-bolder">Director:</span>
-                    {{ $director }}
-                {{ end }}
-                {{ with $writer }}
-                    <br />
-                    <span class="fw-bolder">Writer:</span>
-                    {{ $writer }}
-                {{ end }}
-            </p>
-        </div>
-        <hr class="mt-0 mb-2" />
-        {{ partial "taxonomy/mreviews/reviewLink.html" $context.Title }}
+        {{ if $showCast }}
+            <div class="row">
+                <p>
+                    <span class="fw-bolder">Cast:</span>
+                    {{ $castList }}<br />
+                    {{ with $director }}
+                        <span class="fw-bolder">Director:</span>
+                        {{ $director }}
+                    {{ end }}
+                    {{ with $writer }}
+                        <br />
+                        <span class="fw-bolder">Writer:</span>
+                        {{ $writer }}
+                    {{ end }}
+                </p>
+            </div>
+            <hr class="mt-0 mb-2" />
+            {{ partial "taxonomy/mreviews/reviewLink.html" $context.Title }}
+        {{ end }}
     </div>
 {{ else }}
     {{ with $context.Params.img }}

@@ -244,3 +244,11 @@ a.anchor {
     background-color: #ffffff !important;
     box-shadow: none;
 }
+
+.tns-slide-cloned .latest {
+    display: none;
+}
+
+#home-carousel {
+    background-color: #ebe4ed;
+}

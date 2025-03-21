@@ -2,20 +2,21 @@ import { tns } from 'tiny-slider';
 
 var slider = tns({
 	container: '#home-carousel',
-	items: 2,
+	items: 12,
 	controlsContainer: '#next-prev',
-	nav: false,
+	navContainer: '#nav',
 	loop: true,
-	edgePadding: 50,
+	edgePadding: 35,
+	gutter: 3,
 	responsive: {
-		768: {
-			items: 3,
+		50: {
+			items: 1,
 		},
-		992: {
-			items: 4,
+		400: {
+			items: 1,
 		},
-		1200: {
-			items: 5,
+		900: {
+			items: 2,
 		},
 	},
 });

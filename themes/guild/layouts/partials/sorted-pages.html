@@ -1,0 +1,18 @@
+{{ $pages := . }}
+{{ $scoredIndexes := dict }}
+{{ $keys := slice }}
+{{ range $i, $page := $pages }}
+    {{ $key := printf "%03d" (partial "fcg-rating-raw.html" $page.LinkTitle) }}
+    {{ $temp := index $scoredIndexes $key }}
+    {{ if not $temp }}
+        {{ $keys = append $key $keys }}
+    {{ end }}
+    {{ $temp = append $i $temp }}
+    {{ $scoredIndexes = merge $scoredIndexes (dict $key $temp) }}
+{{ end }}
+{{ $sorted := slice }}
+{{ range sort $keys }}
+    <pre>{{ debug.Dump . }}</pre>
+    {{ $sorted = append $sorted (index $scoredIndexes .) }}
+{{ end }}
+{{ return $sorted }}
