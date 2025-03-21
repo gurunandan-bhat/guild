@@ -23,20 +23,22 @@
 
     <div class="mini-meta">
         <div class="row mini-inset small">
-            <div class="col-lg-3 text-center">
-                {{ with $scoreImg }}
-                    <img src="{{ . }}" class="img-fluid p-1 float-start" />
-                {{ end }}
+            <div class="col-lg-4 text-center">
+                <div class="clearfix text-center">
+                    <h6 class="fw-bold">
+                        <a href="{{ $reviewLink }}">
+                            {{ $page.Title }}
+                            {{ with $page.Params.translatedTitle }}
+                                ({{ . }})
+                            {{ end }}
+                        </a>
+                    </h6>
+                    {{ with $scoreImg }}
+                        <img src="{{ . }}" class="img-fluid p-1" />
+                    {{ end }}
+                </div>
             </div>
-            <div class="col-lg-9">
-                <h6>
-                    <a href="{{ $reviewLink }}">
-                        {{ $page.Title }}
-                        {{ with $page.Params.translatedTitle }}
-                            ({{ . }})
-                        {{ end }}
-                    </a>
-                </h6>
+            <div class="col-lg-8">
                 <p class="fw-bolder">
                     {{ delimit $genreList ", " }}
                     {{ with $language }}
@@ -44,7 +46,7 @@
                     {{ end }}
                 </p>
                 <p class="mini-tight">
-                    {{ delimit (first 24 (split .overview " ")) " " }}
+                    {{ delimit (first 40 (split .overview " ")) " " }}
                     <a href="{{ $reviewLink }}">(more&hellip;)</a>
                 </p>
             </div>
