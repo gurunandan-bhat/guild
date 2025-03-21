@@ -4,8 +4,9 @@ var slider = tns({
 	container: '#home-carousel',
 	items: 6,
 	controlsContainer: '#next-prev',
+	nav: false,
 	loop: true,
-	edgePadding: 40,
+	edgePadding: 60,
 	gutter: 5,
 	responsive: {
 		50: {
