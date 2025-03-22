@@ -7,6 +7,7 @@ critics = ['Anupama Chopra']
 subtitle = ''
 media = 'video'
 source = 'Gnc-gMk27Rc'
+score = 5
 +++
 
 {{< youtube id="Gnc-gMk27Rc" >}}

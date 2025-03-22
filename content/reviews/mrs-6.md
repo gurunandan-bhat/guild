@@ -7,6 +7,7 @@ critics = ['Sucharita Tyagi']
 subtitle = 'Works but how original is it?'
 media = 'video'
 source = 'fQxDAVzMDG0'
+score = 6
 +++
 
 {{< youtube id="fQxDAVzMDG0" >}}
