@@ -275,3 +275,50 @@ a.anchor {
     font-family: Oswald;
     font-weight: 500;
 }
+
+#footer {
+    background: #222 url(/images/foot_top.png) repeat;
+    padding-top: 30px;
+    margin-top: 60px;
+    color: #666;
+    font-family: "Poppins", sans-serif;
+    font-size: smaller;
+}
+
+#footer li {
+    padding: 0 0 15px 0;
+    margin-bottom: 15px;
+    border-bottom: 1px #222 solid;
+    line-height: 16px;
+}
+#footer li:last-child {
+    border-bottom: 0;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+#footer .col-md-3 a {
+    color: #aaa;
+}
+#footer .col-md-3 a:hover {
+    color: #eee;
+}
+
+#footer h6 {
+    font-size: 15px;
+    line-height: 22px;
+    margin-bottom: 20px;
+    font-weight: 500;
+    color: #aaa;
+}
+#footer .col-md-3 {
+    padding-bottom: 30px;
+}
+
+#footer strong {
+    color: #aaa;
+}
+
+.container-fluid {
+    --bs-gutter-x: 0;
+}
