@@ -55,6 +55,11 @@
                                             <div class="pb-1">
                                                 {{ partial "reviewer.html" (dict "reviewer" (index .Params.critics 0 ) "date" (.Date | time.Format ":date_long")) }}
                                             </div>
+                                            {{ with .Params.publication }}
+                                                <p class="author mb-1">
+                                                    (Written for {{ . }})
+                                                </p>
+                                            {{ end }}
                                             <div class="small">
                                                 {{ .Summary }}
                                             </div>

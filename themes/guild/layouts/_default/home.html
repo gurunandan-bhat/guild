@@ -49,6 +49,7 @@
                                             {{ if eq .Params.media "print" }}
                                                 {{ $source = .Params.source }}
                                             {{ end }}
+                                            {{ $publication := .Params.publication }}
                                             <div
                                                 class="short-review accordion-header mb-1">
                                                 {{ $reviewer := index (where site.RegularPages ".LinkTitle" (index $review.Params.critics 0)) 0 }}
@@ -79,6 +80,14 @@
                                                                         >
                                                                         {{ partial "taxonomy/critics/reviewLink.html" .Params.title }}
                                                                     </div>
+                                                                    {{ with $publication }}
+                                                                        <p
+                                                                            class="pub-date mb-1">
+                                                                            (Written
+                                                                            for
+                                                                            {{ . }})
+                                                                        </p>
+                                                                    {{ end }}
                                                                     <h6
                                                                         class="pe-3">
                                                                         {{ $review.Params.subtitle }}
