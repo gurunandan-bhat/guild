@@ -1,0 +1,182 @@
+{
+	"id": 247767,
+	"title": "The Studio",
+	"name": "The Studio",
+	"fcg_title": "The Studio",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		}
+	],
+	"overview": "Desperate for celebrity approval, the newly appointed head of a movie studio and his executive team at Continental Studios must juggle corporate demands with creative ambitions as they try to keep movies alive and relevant.",
+	"backdrop_path": "/dB8pn4CJsOsLSF0PW321Qtr3oEX.jpg",
+	"poster_path": "/bM8dzMZp7WxaLhhdl3d08M4hv3z.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 19274,
+				"order": 0,
+				"name": "Seth Rogen",
+				"profile_path": "/2dPFskUtoiG0xafsSEGl9Oz4teA.jpg",
+				"character": "Matt Remick",
+				"gender": 2
+			},
+			{
+				"id": 11514,
+				"order": 1,
+				"name": "Catherine O'Hara",
+				"profile_path": "/gI2RyymLJ9ZrhEyJSD5EqSvFpCX.jpg",
+				"character": "Patty Leigh",
+				"gender": 1
+			},
+			{
+				"id": 17696,
+				"order": 2,
+				"name": "Kathryn Hahn",
+				"profile_path": "/9sVllAKfEls3SJD3GoPm2JEZoa5.jpg",
+				"character": "Maya Mason",
+				"gender": 1
+			},
+			{
+				"id": 198150,
+				"order": 3,
+				"name": "Ike Barinholtz",
+				"profile_path": "/pxK1HXsQFfh3zT1KA3t6lEKMiZK.jpg",
+				"character": "Sal Saperstein",
+				"gender": 2
+			},
+			{
+				"id": 2420169,
+				"order": 4,
+				"name": "Chase Sui Wonders",
+				"profile_path": "/e89eEhNUIfMawLNdJ3jXft8AAMF.jpg",
+				"character": "Quinn Hackett",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 928595,
+				"name": "James Weaver",
+				"profile_path": "/pyUq99G6KgfX1ueTEueCoe3M5go.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3713260,
+				"name": "Frida Perez",
+				"profile_path": "/wJgQL8CKSingycu8inCRgasYU7V.jpg",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 19274,
+				"name": "Seth Rogen",
+				"profile_path": "/2dPFskUtoiG0xafsSEGl9Oz4teA.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 176042,
+				"name": "Peter Huyck",
+				"profile_path": "/igKwTXb8VSjHUHgXgfo1kT4ZaYD.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2263741,
+				"name": "Josh Fagen",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1403656,
+				"name": "Alex McAtee",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 176041,
+				"name": "Alex Gregory",
+				"profile_path": "/nPwglvofKRmmjP20YZgfIHmLFY4.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 54734,
+				"name": "Evan Goldberg",
+				"profile_path": "/qh0pRmpYzyix1ErrMGADthTnpLa.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1388962,
+				"name": "Adam Newport-Berra",
+				"profile_path": "/m1J1LPLpn17jObXDtAzpgkcgSmi.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2588756,
+				"name": "Antonio Sánchez",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 224530,
+				"name": "Eric Kissack",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1559873,
+				"name": "Melissa Kostenbauder",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 141301,
+				"name": "Julie Berghoff",
+				"profile_path": "/2sz3g3VtNuB0NP4Tw5nzikV4uFs.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 4330497,
+				"name": "Brian Grego",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1792046,
+				"name": "Kameron Lennox",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 2370456,
+				"name": "Damien van der Cruyssen",
+				"job": "Colorist",
+				"department": "Editing",
+				"gender": 2
+			}
+		]
+	}
+}

@@ -1,0 +1,89 @@
+{
+	"id": 286787,
+	"title": "Loot Kaand",
+	"name": "Loot Kaand",
+	"fcg_title": "Loot Kaand",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Two desperate siblings in rural India plan a simple bank heist, but their scheme unravels when it connects to a decades-old weapons scandal, forcing them to face dangerous criminals and hidden truths.",
+	"backdrop_path": "/9Db6c9k3ieLHZKqLUu6z8BCd5eV.jpg",
+	"poster_path": "/1TEpZ15DLxtrCipscd3ieZujo2K.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 2368989,
+				"order": 0,
+				"name": "Tanya Maniktala",
+				"profile_path": "/hW0q6MjqGzPEZKx6OftGcvxeheo.jpg",
+				"character": "Latika",
+				"gender": 1
+			},
+			{
+				"id": 930038,
+				"order": 1,
+				"name": "Sahil Mehta",
+				"profile_path": "/wk04fSa75h2xiOIc2OEXV8M9jyW.jpg",
+				"character": "Palash",
+				"gender": 2
+			},
+			{
+				"id": 2281318,
+				"order": 2,
+				"name": "Gyanendra Tripathi",
+				"profile_path": "/iNGSxhZolTUNbtWvMaof6LOgRcZ.jpg",
+				"character": "Pinaki",
+				"gender": 2
+			},
+			{
+				"id": 2092890,
+				"order": 3,
+				"name": "Brij Bhushan Shukla",
+				"character": "Burman",
+				"gender": 2
+			},
+			{
+				"id": 5315777,
+				"order": 4,
+				"name": "Nitin Goel",
+				"character": "Inspector Dhar"
+			},
+			{
+				"id": 2711394,
+				"order": 5,
+				"name": "Prashansa Sharma",
+				"profile_path": "/hc4GJ0YbfMFbWXlIUJ3BcRTdaAH.jpg",
+				"character": "SI Mithu Roy"
+			},
+			{
+				"id": 2192824,
+				"order": 6,
+				"name": "Ronjini Chakraborty",
+				"profile_path": "/3ZBr2sOJzWwq9R1V4yu3BPELc2u.jpg",
+				"character": "Paro (Burman's wife)",
+				"gender": 1
+			},
+			{
+				"id": 2967618,
+				"order": 7,
+				"name": "Saad Bilgrami",
+				"character": "Toofan"
+			},
+			{
+				"id": 3999959,
+				"order": 8,
+				"name": "Amit Sarkar",
+				"character": "Head coach Sharma",
+				"gender": 2
+			}
+		]
+	}
+}

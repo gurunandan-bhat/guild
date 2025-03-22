@@ -1,0 +1,557 @@
+{
+	"id": 1155828,
+	"title": "Sing Sing",
+	"fcg_title": "Sing Sing",
+	"original_title": "Sing Sing",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Divine G, imprisoned at Sing Sing for a crime he didn't commit, finds purpose by acting in a theatre group alongside other incarcerated men in this story of resilience, humanity, and the transformative power of art.",
+	"backdrop_path": "/CZyMhVVpraYDptLpYXxXjgAuCH.jpg",
+	"poster_path": "/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg",
+	"release_date": "2024-07-12",
+	"credits": {
+		"cast": [
+			{
+				"id": 91671,
+				"order": 0,
+				"name": "Colman Domingo",
+				"profile_path": "/2tu6T9ugnf82qIMGVKWSb0dvvq5.jpg",
+				"character": "John 'Divine G' Whitfield",
+				"gender": 2
+			},
+			{
+				"id": 4178063,
+				"order": 1,
+				"name": "Clarence Maclin",
+				"profile_path": "/1nRVnEo3fICl9yhRyemn8PgrJ4q.jpg",
+				"character": "Clarence 'Divine Eye' Maclin",
+				"gender": 2
+			},
+			{
+				"id": 4178064,
+				"order": 2,
+				"name": "Sean San Jose",
+				"profile_path": "/iijye4VXgoT2L6X0WGyXgzBz6IC.jpg",
+				"character": "Mike Mike"
+			},
+			{
+				"id": 1216195,
+				"order": 3,
+				"name": "Paul Raci",
+				"profile_path": "/1Vcfo559FK4JmleDbkaaGzGPJks.jpg",
+				"character": "Brent Buell",
+				"gender": 2
+			},
+			{
+				"id": 4583265,
+				"order": 4,
+				"name": "David \"Dap\" Giraudy",
+				"character": "David 'Dap' Giraudy"
+			},
+			{
+				"id": 4583266,
+				"order": 5,
+				"name": "Patrick \"Preme\" Griffin",
+				"character": "Patrick 'Preme' Griffin"
+			},
+			{
+				"id": 4583267,
+				"order": 6,
+				"name": "Mosi Eagle",
+				"character": "Mosi Eagle"
+			},
+			{
+				"id": 4583268,
+				"order": 7,
+				"name": "James \"Big E\" Williams",
+				"character": "James 'Big E' Williams"
+			},
+			{
+				"id": 4287254,
+				"order": 8,
+				"name": "Sean Dino Johnson",
+				"profile_path": "/8R72xUztiV6K1ShPJVqUPumAjvk.jpg",
+				"character": "Sean 'Dino' Johnson"
+			},
+			{
+				"id": 4583275,
+				"order": 9,
+				"name": "Brent Buell",
+				"profile_path": "/qjXz8iSiiL8xr5QcbWoqzKuWXFo.jpg"
+			},
+			{
+				"id": 4583277,
+				"order": 10,
+				"name": "Michael Capra"
+			},
+			{
+				"id": 4583278,
+				"order": 11,
+				"name": "Joanna Chan"
+			},
+			{
+				"id": 4583279,
+				"order": 12,
+				"name": "Cecily Lyn"
+			},
+			{
+				"id": 27104,
+				"order": 13,
+				"name": "Johnny Simmons",
+				"profile_path": "/51LZiAAI3ZW4vabNOQnd3weYgUm.jpg",
+				"character": "Unnamed Inmate",
+				"gender": 2
+			},
+			{
+				"id": 4583280,
+				"order": 14,
+				"name": "Katherine Vockins"
+			},
+			{
+				"id": 4583281,
+				"order": 15,
+				"name": "Reynaldo Gayle"
+			},
+			{
+				"id": 141748,
+				"order": 16,
+				"name": "Sharon Washington",
+				"profile_path": "/kZktXVoRLaETbNkiMoDBzFpdWVB.jpg",
+				"character": "Social Worker",
+				"gender": 1
+			},
+			{
+				"id": 4583271,
+				"order": 17,
+				"name": "Dario Peña",
+				"character": "Dario Peña"
+			},
+			{
+				"id": 4583273,
+				"order": 18,
+				"name": "Miguel Valentin",
+				"character": "Miguel Valentin"
+			},
+			{
+				"id": 4583274,
+				"order": 19,
+				"name": "Jon Adrian \"JJ\" Velazquez",
+				"character": "Jon Adrian 'JJ' Velazquez"
+			},
+			{
+				"id": 4583272,
+				"order": 20,
+				"name": "Pedro Cotto",
+				"character": "Pedro Cotto"
+			},
+			{
+				"id": 4583270,
+				"order": 21,
+				"name": "Camillo \"Carmine\" LoVacco",
+				"character": "Camillo 'Carmine' LoVacco"
+			},
+			{
+				"id": 4583269,
+				"order": 22,
+				"name": "Cornell \"Nate\" Alston",
+				"character": "Charlie"
+			},
+			{
+				"id": 4178065,
+				"order": 23,
+				"name": "John Divine G Whitfield",
+				"profile_path": "/923IkblPanYe5xueobjfTz3MSvM.jpg",
+				"character": "The Book Fan"
+			}
+		],
+		"crew": [
+			{
+				"id": 1412386,
+				"name": "Parker Laramie",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 2291516,
+				"name": "Monique Walton",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 3595654,
+				"name": "Raúl Domingo",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4266621,
+				"name": "Ruta Kiskyte",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1476760,
+				"name": "Patrick Scola",
+				"profile_path": "/emW3SoGTdQtfpYDSTelZ1z3feY7.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 931140,
+				"name": "Bryce Dessner",
+				"profile_path": "/z2IGco48V4aX2GbshjKmfv2idRJ.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3021052,
+				"name": "Desira Pesta",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1590194,
+				"name": "Clint Bentley",
+				"profile_path": "/fP89nBimnLvUcWhIBPJfgkqVRsf.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4266622,
+				"name": "Jacob Harbeck",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 91671,
+				"name": "Colman Domingo",
+				"profile_path": "/2tu6T9ugnf82qIMGVKWSb0dvvq5.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4266623,
+				"name": "Michael Kwedar",
+				"job": "Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 1080589,
+				"name": "Teddy Schwarzman",
+				"profile_path": "/vXNHIXv451QY3oapPpDe7FahqtS.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2213707,
+				"name": "Michael Heimler",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2092254,
+				"name": "Michael A. Toscano",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 3770965,
+				"name": "Rati Chkhetiani",
+				"job": "Foley Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 4047646,
+				"name": "Luka Kasrelishvili",
+				"job": "Foley Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 2884212,
+				"name": "Joel Marich",
+				"job": "Gaffer",
+				"department": "Lighting"
+			},
+			{
+				"id": 1722504,
+				"name": "Lee Salevan",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 4276409,
+				"name": "Omar Egas",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 4276410,
+				"name": "Michael Harbeck",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 4051694,
+				"name": "Salome Maisuradze",
+				"job": "Foley Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 4276411,
+				"name": "Taylor Harris-Butler",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4276420,
+				"name": "Beqa Turashvili",
+				"job": "Foley Artist",
+				"department": "Sound"
+			},
+			{
+				"id": 1572120,
+				"name": "Greg Kwedar",
+				"profile_path": "/oQFwhY3vvWJnXuHIADygrw8ALB5.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1572120,
+				"name": "Greg Kwedar",
+				"profile_path": "/oQFwhY3vvWJnXuHIADygrw8ALB5.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2170668,
+				"name": "Lia Parks",
+				"job": "Special Effects Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 5082674,
+				"name": "Christina Vida Roldos",
+				"job": "Special Effects Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5082675,
+				"name": "Lori Christie",
+				"job": "Props",
+				"department": "Art"
+			},
+			{
+				"id": 1903861,
+				"name": "Paul Hollman",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 4583275,
+				"name": "Brent Buell",
+				"profile_path": "/qjXz8iSiiL8xr5QcbWoqzKuWXFo.jpg",
+				"job": "Theatre Play",
+				"department": "Writing"
+			},
+			{
+				"id": 4178063,
+				"name": "Clarence Maclin",
+				"profile_path": "/1nRVnEo3fICl9yhRyemn8PgrJ4q.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1590194,
+				"name": "Clint Bentley",
+				"profile_path": "/fP89nBimnLvUcWhIBPJfgkqVRsf.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1572120,
+				"name": "Greg Kwedar",
+				"profile_path": "/oQFwhY3vvWJnXuHIADygrw8ALB5.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4178065,
+				"name": "John Divine G Whitfield",
+				"profile_path": "/923IkblPanYe5xueobjfTz3MSvM.jpg",
+				"job": "Story",
+				"department": "Writing"
+			},
+			{
+				"id": 5125579,
+				"name": "John H. Richardson",
+				"job": "Book",
+				"department": "Writing"
+			},
+			{
+				"id": 1412385,
+				"name": "Russell Sadeghpour",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 3364866,
+				"name": "Andrew Ryan Shepherd",
+				"job": "Title Designer",
+				"department": "Art"
+			},
+			{
+				"id": 2554193,
+				"name": "Beso Kacharava",
+				"job": "Foley Supervisor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3161664,
+				"name": "Alexander Sanikidze",
+				"job": "Foley Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2812726,
+				"name": "Biko Gogaladze",
+				"job": "Foley Artist",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1572120,
+				"name": "Greg Kwedar",
+				"profile_path": "/oQFwhY3vvWJnXuHIADygrw8ALB5.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1590194,
+				"name": "Clint Bentley",
+				"profile_path": "/fP89nBimnLvUcWhIBPJfgkqVRsf.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4178063,
+				"name": "Clarence Maclin",
+				"profile_path": "/1nRVnEo3fICl9yhRyemn8PgrJ4q.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4178065,
+				"name": "John Divine G Whitfield",
+				"profile_path": "/923IkblPanYe5xueobjfTz3MSvM.jpg",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3364855,
+				"name": "Larry Kalas",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3364856,
+				"name": "Larry Kelly",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 954877,
+				"name": "Nancy Schafer",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1453217,
+				"name": "Karin Young Shiel",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4583275,
+				"name": "Brent Buell",
+				"profile_path": "/qjXz8iSiiL8xr5QcbWoqzKuWXFo.jpg",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2374130,
+				"name": "Myriam Schroeter",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2219451,
+				"name": "Linda Halbert",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2669264,
+				"name": "Sleena Wilson",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3364863,
+				"name": "Sean McCormick",
+				"job": "Production Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 4194108,
+				"name": "Eric Macey",
+				"job": "First Assistant Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 5171118,
+				"name": "Abraham Alexander",
+				"job": "Songs",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2492815,
+				"name": "Adrian Quesada",
+				"job": "Songs",
+				"department": "Sound",
+				"gender": 2
+			}
+		]
+	}
+}
