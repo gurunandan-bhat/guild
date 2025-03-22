@@ -111,6 +111,12 @@
                                                         data-bs-parent="{{- printf "#%s" $accordionID }}">
                                                         <div
                                                             class="accordion-body">
+                                                            {{ with $review.Params.opening }}
+                                                                <p
+                                                                    class="author">
+                                                                    {{ . }}
+                                                                </p>
+                                                            {{ end }}
                                                             {{ $summary }}
                                                             {{ with $source }}
                                                                 <p

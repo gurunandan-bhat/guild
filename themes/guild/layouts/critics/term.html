@@ -53,6 +53,11 @@
                                         <h4 class="sub-title">
                                             {{ .Params.subtitle }}
                                         </h4>
+                                        {{ with .Params.opening }}
+                                            <p class="author">
+                                                {{ . }}
+                                            </p>
+                                        {{ end }}
                                         <div class="small">
                                             {{ .Summary }}
                                         </div>
