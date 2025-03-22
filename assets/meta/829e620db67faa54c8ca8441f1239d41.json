@@ -3,7 +3,7 @@
 	"title": "Follower",
 	"fcg_title": "Follower",
 	"original_title": "Follower",
-	"original_language": "mr",
+	"original_language": "en",
 	"genres": [
 		{
 			"id": 18,
@@ -11,15 +11,84 @@
 		}
 	],
 	"overview": "In a town riddled with territorial disputes, a radicalized journalist believes in exposing the atrocities faced by his community. But as the line between his professional and personal life blurs, an inconvenient truth makes him reflect back on a simpler time when he had not yet succumbed to radicalization.",
+	"backdrop_path": "/dt5qpHPwsRYNNA5Z0gmO1FBfHwu.jpg",
 	"poster_path": "/r74yoPsoAzSB8DX2TkmX7FGOsa7.jpg",
 	"release_date": "2023-01-25",
 	"credits": {
+		"cast": [
+			{
+				"id": 5319211,
+				"order": 0,
+				"name": "Sudip Bilawar",
+				"character": "Ravi"
+			},
+			{
+				"id": 5319212,
+				"order": 1,
+				"name": "Shalini Chougule",
+				"character": "Raghu's Mother"
+			},
+			{
+				"id": 5319213,
+				"order": 2,
+				"name": "Atul Deshmukh",
+				"character": "Leader"
+			},
+			{
+				"id": 5319215,
+				"order": 3,
+				"name": "Amit Devrushi",
+				"character": "Police"
+			},
+			{
+				"id": 5319218,
+				"order": 4,
+				"name": "Mandar Jagtap",
+				"character": "Raghu's Boss"
+			},
+			{
+				"id": 2704608,
+				"order": 5,
+				"name": "Donna Munshi",
+				"character": "Parveen"
+			},
+			{
+				"id": 3823766,
+				"order": 6,
+				"name": "Harshad Nalawade",
+				"character": "Sachin Sanikop"
+			},
+			{
+				"id": 5319224,
+				"order": 7,
+				"name": "Raghu Prakash",
+				"character": "Raghu"
+			}
+		],
 		"crew": [
 			{
 				"id": 3823766,
 				"name": "Harshad Nalawade",
 				"job": "Director",
 				"department": "Directing"
+			},
+			{
+				"id": 5319226,
+				"name": "Sanket Gyani",
+				"job": "Cinematography",
+				"department": "Crew"
+			},
+			{
+				"id": 3547432,
+				"name": "Maulik Sharma",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 5319227,
+				"name": "Pranjal Gupta",
+				"job": "Music Director",
+				"department": "Sound"
 			}
 		]
 	}
