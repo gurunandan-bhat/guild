@@ -10,6 +10,7 @@ img = 'singham-again.webp'
 publication = 'The Common Man Speaks'
 media = 'print'
 source = "https://thecommonmanspeaks.com/singham-again-review-2024/"
+score = 6
 +++
 
 Rohit Shetty’s cop sagas started with the brilliant Singham (2011). It was obvious for him to bring out a sequel to it. But Singham Returns (2014) turned out to be just an average fare. His latest and third outing in the series, Singham Again, is better than the 2014 film. Hence, it keeps alive his Cop Universe, which also contains the enjoyable Simmba (2018) and Sooryavanshi (2021).

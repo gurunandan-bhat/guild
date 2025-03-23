@@ -7,6 +7,7 @@ critics = ['Bhawana Somaaya']
 subtitle = 'Singham Again recaps Ramayan in Rohit Shetty style'
 media = 'video'
 source = '8VVHFqWfG64'
+score = 7
 +++
 
 {{< youtube id="8VVHFqWfG64" >}}

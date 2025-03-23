@@ -7,6 +7,7 @@ critics = ['Rohit Khilnani']
 subtitle = ''
 media = 'video'
 source = '0ft4jpJofro'
+score = 8
 +++
 
 {{< youtube id="0ft4jpJofro" >}}

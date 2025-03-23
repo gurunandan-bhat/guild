@@ -10,6 +10,7 @@ opening = "Neeraj Pandey's Netflix heist movie soars on the strength of plot and
 img = 'sikandar-ka-muqaddar-5.webp'
 media = 'print'
 source = "https://indianexpress.com/article/entertainment/movie-review/sikandar-ka-muqaddar-movie-review-neeraj-pandey-netflix-tamannaah-bhatia-avinash-tiwary-jimmy-shergill-9696635/"
+score = 6
 +++
 
 A large jewellery exhibition in Mumbai becomes the site of a heist. A hysterical phone call raises alarm, gunfire is heard, the cops on duty herd the panicked gathering into a secluded area, and during the melee, a fistful of precious gems go missing.

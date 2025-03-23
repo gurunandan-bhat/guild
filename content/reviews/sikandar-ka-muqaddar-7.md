@@ -10,6 +10,7 @@ opening = "It packs into its runtime of nearly two and a half hours are all perf
 img = 'sikandar-ka-muqaddar-7.png'
 media = 'print'
 source = "https://www.ndtv.com/entertainment/sikandar-ka-muqaddar-review-the-film-has-neither-spark-nor-sparkle-2-stars-7132429"
+score = 4
 +++
 
 Think up a character. Name him Sikandar. He may or may not master of his destiny. Pit the clean-cut guy against a dogged lawman determined to control the man's muqaddar. Lo and behold, you have a handy title that harks back to a 1978 Amitabh Bachchan megahit with which this Netflix film has nothing to do.

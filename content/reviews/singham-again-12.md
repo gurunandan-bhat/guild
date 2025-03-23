@@ -10,6 +10,7 @@ opening = "Half a dozen cameos and a Ramayana-inspired plotline cannot mask the 
 img = 'singham-again-12.jpg'
 media = 'print'
 source = "https://www.thehindu.com/entertainment/movies/singham-again-movie-review-ajay-devgn-returns-in-deathly-dull-franchise/article68819364.ece"
+score = 2
 +++
 
 There was a time, not long ago, when Hindi blockbuster cinema could stand on its own — distinguishable, say, from mythological soap operas and tacky non-fiction programming on satellite TV. But the laziness and opportunism of the last few years have all but vaporized that distinction. It leaves the theatre-going audience in two minds. Adipurush (2023) was laughably inept yet insistently pious and grim. The same applies to Singham Again, ostensibly an action potboiler and an Avengers-like ‘team-up’ movie but playing like an ad for the tourism ministry’s Ramayana trail.

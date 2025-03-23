@@ -9,6 +9,7 @@ opening = 'The feel-goodness of Raat Jawaan Hai is an organic product of its env
 img = 'raat-jawaan-hai.webp'
 media = 'print'
 source = 'https://www.hollywoodreporterindia.com/reviews/streaming/raat-jawaan-hai-review-a-heartening-update-on-the-modern-buddy-movie'
+score = 8
 +++
 
 Raat Jawaan Hai unfolds as an uncharacteristically warm and vibrant answer to a question popular Hindi cinema is too streamlined to ask: what happens after the end credits of the quintessential buddy comedy have rolled? Call it “Little Things for young parents” or “Dil Chahta Hai for reluctant adults”, but the fact that Raat Jawaan Hai fuses two seemingly exclusive genres of life — the friendship triangle and the marital drama — is, in itself, a minor triumph.
