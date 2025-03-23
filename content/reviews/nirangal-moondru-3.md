@@ -10,6 +10,7 @@ opening = "The Karthick Naren film, headlined by Atharvaa, Sarath Kumar and Rahm
 img = 'nirangal-moondru-3.webp'
 media = 'print'
 source = "https://indianexpress.com/article/entertainment/movie-review/nirangal-moondru-movie-review-sarath-kumar-rahman-atharvaa-anchor-a-trippy-tale-about-fatherhood-with-middling-results-9682757/"
+score = 5.5
 +++
 
 The first one hour of Nirangal Moondru sets the stage for an epic showdown. The lives of three and a half men meet at a crucial juncture — One needs an answer, one needs a resolution, one needs a reason, and one needs a rational explanation. It is wonderful how every single person’s needs seems to be intertwined with the actions of the others. There is a wonderful build-up to the phenomenon of cause and effect. Even if it all unravels pretty soon, the first hour is fascinating.

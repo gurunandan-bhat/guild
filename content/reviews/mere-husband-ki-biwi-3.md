@@ -7,6 +7,7 @@ critics = ['Bhawana Somaaya']
 subtitle = 'A mockery of marriage'
 media = 'video'
 source = 'k2IJq0FhGDk'
+score = 4
 +++
 
 {{< youtube id="k2IJq0FhGDk" >}}

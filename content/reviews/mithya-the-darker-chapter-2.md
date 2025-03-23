@@ -9,6 +9,7 @@ opening = ""
 img = 'mithya-the-darker-chapter-2.jpg'
 media = 'print'
 source = "https://scroll.in/reel/1074887/"
+score = 5
 +++
 
 In the first season of the ZEE5 series Mithya, Hindi professor Juhi Adhikari (Huma Qureshi) was locked in a dangerous battle with student Rhea Rajguru (Avantika Dassani) after she failed her the young woman for plagiarism and branded her a cheat. The entitled daughter of a tea estate owner and college trustee, Rhea became obsessed with seeking vengeance, sometimes with violent results.

@@ -9,6 +9,7 @@ opening = "The second season of Mithya continues to be a celebration of mediocri
 img = 'mithya-the-dark-chapter.png'
 media = 'print'
 source = "https://www.hollywoodreporterindia.com/reviews/streaming/mithya-the-darker-chapter-review-how-much-mithya-is-too-much-mithya"
+score = 3
 +++
 
 One of my pet peeves features Hindi cinema’s toxic relationship with technology. You know how, in the middle of a public event, every single cellphone in the hall simultaneously beeps with a headline alert because the famous person it’s about is also present? Everyone turns to dramatically look at this unfortunate person; whispers and gossipy glances hijack the scene. This is how news spreads in such stories. It can be at a press conference, a panel discussion, even at a party. In Mithya: The Darker Chapter, it’s at a business auction that comes to a standstill. My questions are simple. How is it that nobody’s phone is on vibrate mode? Why are the shock and awe so coordinated? Why is it that no other message or app on the phone has a pop-up sound? The closest I’ve experienced as a real-world viewer is when, during a press screening of Super 30 (2019), most journalists in the hall audibly gasped when Dhoni got run out in that World Cup semifinal.
