@@ -325,7 +325,11 @@ a.anchor {
     width: 100px;
     height: 100px;
     margin-bottom: 10px;
-    bottom: 0;
-    margin: 10px auto 20px au;
-    position: relative;
+    margin: 10px auto 20px auto;
+}
+
+@media (max-width: 992px) {
+    .mini-inset {
+        text-align: center;
+    }
 }
