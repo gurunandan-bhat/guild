@@ -4,7 +4,20 @@
 	"fcg_title": "Trauma",
 	"original_title": "Trauma",
 	"original_language": "ta",
+	"genres": [
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "An Anthology Crime story where Sundar and Geetha , an affluent couple gets into a trouble while undergoing treatment for fertility. Parallelly , a love affair between selvi and jeeva takes a crucial turn and the entire story is interconnected with series of traumatic events planned by an undercover gang.",
+	"backdrop_path": "/7RgIIXcH9OccEMu9LycwVFNp1Ix.jpg",
 	"poster_path": "/8fbAu4YMvWgYlkOCJDAfNvDjb2F.jpg",
+	"release_date": "2025-03-21",
 	"credits": {
 		"cast": [
 			{
@@ -12,6 +25,7 @@
 				"order": 0,
 				"name": "Vivek Prasanna",
 				"profile_path": "/2Gzfur5QCXWmopdWcLlmNuZcFDt.jpg",
+				"character": "Sundar",
 				"gender": 2
 			},
 			{
@@ -19,6 +33,7 @@
 				"order": 1,
 				"name": "Poornima Ravi",
 				"profile_path": "/wAgUkuKP87neTKnQyrzRbXCDrfs.jpg",
+				"character": "Selvi",
 				"gender": 1
 			},
 			{
@@ -26,6 +41,7 @@
 				"order": 2,
 				"name": "Chandhini Tamilarasan",
 				"profile_path": "/gagKU6nnLytGhtdpfUquNq7CdaN.jpg",
+				"character": "Geetha",
 				"gender": 1
 			},
 			{
@@ -33,6 +49,20 @@
 				"order": 3,
 				"name": "Saivam Ravi",
 				"gender": 2
+			},
+			{
+				"id": 122166,
+				"order": 4,
+				"name": "Anant Nag",
+				"profile_path": "/4XeYuoZX15cks43HRavV75RjlmN.jpg",
+				"character": "Raghu",
+				"gender": 2
+			},
+			{
+				"id": 5321094,
+				"order": 5,
+				"name": "Prathosh",
+				"character": "Jeeva"
 			}
 		],
 		"crew": [
@@ -61,6 +91,12 @@
 				"name": "R. S. Rajprathap",
 				"job": "Sound",
 				"department": "Sound"
+			},
+			{
+				"id": 5172058,
+				"name": "Thambithurai Mariyappan",
+				"job": "Writer",
+				"department": "Writing"
 			}
 		]
 	}
