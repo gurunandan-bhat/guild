@@ -10,6 +10,7 @@ opening = "Known for his unique & unconventional kind of story-telling & directi
 img = 'i-want-to-talk-5.jpg'
 media = 'print'
 source = "https://lehren.com/entertainment/reviews/i-want-to-talk-movie-review-life-in-a-flatline/206203/"
+score = 5
 +++
 
 When an Abhishek Bachchan starrer comes along, you’re assured that there will be something different and something endearing on offer. Whether it works or not. With a repertoire that includes Vicky Donor and Piku, director Shoojit Sircar also stands for cinema with a difference. Again, whether it works or not. The qualities associated with Bachchan and Sircar combine to tell the real-life tale of an unknown Arjun Sen, inspirational in its own way. Arjun’s days are numbered, say the docs. His surgeries can no longer be counted on his fingers. He’s lost his roof to wife in a divorce settlement, his job to laryngeal cancer. His legendary arrogance has been whittled down, he’s become a statistic. One of those that sum up your chances of survival as bleak. He almost drives his Cadillac off the cliff, one evening.

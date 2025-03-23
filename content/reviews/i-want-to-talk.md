@@ -7,6 +7,7 @@ critics = ['Sucharita Tyagi']
 subtitle = 'Abhishek Bachchan delivers a subtle and nuanced performance.'
 media = 'video'
 source = 'QFckBKAnF3A'
+score = 7
 +++
 
 {{< youtube id="QFckBKAnF3A" >}}

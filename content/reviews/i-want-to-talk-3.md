@@ -10,6 +10,7 @@ opening = "I Want To Talk deals with loneliness, illness and impending death - t
 img = 'i-want-to-talk-3.png'
 media = 'print'
 source = "https://www.wionews.com/entertainment/bollywood/news-i-want-to-talk-review-abhishek-bachchan-delivers-a-stellar-act-in-shoojit-sircars-half-baked-drama-778188"
+score = 6
 +++
 
 For a man who has delivered the simplest of the stories in the most heartwarming films, Shoojit Sircar falters a bit with his latest I Want To Talk. The film, based on a real person, talks of a man's relentless pursuit to live despite the medical challenges that life keeps throwing at him. The film highlights the journey of Arjun Sen (Abhishek Bachchan) through years of medical misfortunes and surgeries and his constant ability to fight back. It also highlights his evolving relationship with his daughter over a few years. I Want To Talk deals with loneliness, illness and impending death - themes that Sircar has deftly handled before in films like October and Piku. But unlike the previous films, Sircar's latest doesn't leave a defining impact - despite Abhishek Bachchan delivering one of his finest performances in recent years.

@@ -10,6 +10,7 @@ opening = "There's a certain stillness to the film but it's not a sob story. It 
 img = 'i-want-to-talk-6.webp'
 media = 'print'
 source = "https://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews/i-want-to-talk/movie-review/115540132.cms"
+score = 7
 +++
 
 In denial initially, this traumatic health crisis, numbs the pain of everything else in comparison including a broken marriage and financial downfall. What follows is countless hospital visits and an unpredictable future which tests the relationship Arjun shares with his daughter Reya.

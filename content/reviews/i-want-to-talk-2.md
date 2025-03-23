@@ -7,6 +7,7 @@ critics = ['Bhawana Somaaya']
 subtitle = ''
 media = 'video'
 source = 'B5vQ3cVt3K0'
+score = 6
 +++
 
 {{< youtube id="B5vQ3cVt3K0" >}}
