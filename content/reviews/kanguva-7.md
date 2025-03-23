@@ -10,6 +10,7 @@ opening = "Kanguva is a visual treat enhanced by Suriya's tremendous screen pres
 img = 'kanguva-7.webp'
 media = 'print'
 source = "https://www.ndtv.com/entertainment/kanguva-review-its-intent-on-being-the-tamil-baahubali-and-kgf-remains-untapped-2-5-stars-7017602"
+score = 5
 +++
 
 Its ambition is sky-high. Kanguva seeks to derive power from the elements (wind, water and fire), the ambitious merger of two timelines separated by a millennium, and the immense magnetism of lead actor Suriya. Nothing wrong with that of course, but the building blocks would have come together far more effectively had the writing and treatment been more organised and coherent.

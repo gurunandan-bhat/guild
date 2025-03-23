@@ -7,6 +7,7 @@ critics = ['Shomini Sen']
 subtitle = "Is Joaquin Phoenix and Lady Gaga's Film a Worthy Sequel?"
 media = 'video'
 source = 'Z1S9g1fRwcU'
+score = 4
 +++
 
 {{< youtube id="Z1S9g1fRwcU" >}}

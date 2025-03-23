@@ -7,6 +7,7 @@ critics = ['Anmol Jamwal']
 subtitle = ''
 media = 'video'
 source = 'rIAR4nEgkBQ'
+score = 3
 +++
 
 {{< youtube id="rIAR4nEgkBQ" >}}

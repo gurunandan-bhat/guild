@@ -7,6 +7,7 @@ critics = ['Bhawana Somaaya']
 subtitle = 'A treat to watch Alia Bhatt play Bachchan'
 media = 'video'
 source = 'Vo2Rob4os34'
+score = 7
 +++
 
 {{< youtube id="Vo2Rob4os34" >}}

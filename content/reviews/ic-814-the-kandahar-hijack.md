@@ -9,6 +9,7 @@ opening = "'IC 814: The Kandahar Hijack', streaming on Netflix, honours the capt
 img = 'ic-814-the-kandahar-hijack.jpg'
 media = 'print'
 source = 'https://www.theweek.in/review/movies/2024/08/29/ic-814-the-kandahar-hijack-review-this-anubhav-sinha-directorial-is-one-of-the-best-based-on-real-life-series-to-date.html'
+score = 6
 +++
 
 Since the arrival of OTT platforms and binge-watching, Indian series have shown a marked improvement in craft and skill at telling fictional stories. But when it comes to mounting real-life stories for OTT, most have floundered, sometimes because they follow Netflix’s formulaic template, and sometimes because of who is telling the story. Delhi Crime, for example, the riveting show on the Nirbhaya rape case, was made with the help of Delhi’s former commissioner of police, Neeraj Kumar, and it naturally made heroes out of cops when it should have interrogated them.

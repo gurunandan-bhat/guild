@@ -9,6 +9,7 @@ opening = "One would hope that Dharma Productions doesn't push Vasan Bala into m
 img = 'jigra-18.png'
 media = 'print'
 source = "https://indianexpress.com/article/entertainment/bollywood/jigra-vasan-bala-alia-bhatt-karan-johar-one-of-the-best-hindi-films-of-2024-9621119/"
+score = 9
 +++
 
 Getting an audience to detest a movie villain isn’t difficult. People are cynical; all they want is someone to project their frustrations on. But getting the same viewers to genuinely empathise with the protagonist of your film isn’t as easy as it might seem. It requires them to lower their guards and shed their egos; to allow moments of vulnerability in the presence of absolute strangers. Most of all, it requires them to ignore the objectively lunatic act of developing a connection with a made-up person, as if they are real. But Vasan Bala has cracked the code in Jigra — a film that pulls off this almost impossibly difficult feat by getting you, the viewer, to participate in the grandest act of collective empathy crafted on a Bollywood screen this year.

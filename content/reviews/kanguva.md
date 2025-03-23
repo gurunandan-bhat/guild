@@ -10,6 +10,7 @@ opening = "Set against a primitive landscape, Kanguva tells the story of a warri
 img = 'kanguva.jpeg'
 media = 'print'
 source = "https://www.desimartini.com/reviews/movies/kanguva-review-suriya-leads-this-grand-spectacle-with-heart-amidst-primal-chaos/c58ab13b9d333/"
+score = 6
 +++
 
 A characteristic in all of director Siva's movies that I strongly dislike is the lack of subtlety in emotions and reactions. Everything is loud—and sometimes even louder than Boyapati Srinu's films. But if you can look past this trait, Kanguva might just be one of the most cinematic spectacles you’ve experienced in theatres in a long time.

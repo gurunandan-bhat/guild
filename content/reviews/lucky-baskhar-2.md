@@ -9,6 +9,7 @@ opening = "Lucky Baskhar follows the story of Baskhar Kumar (Dulquer Salmaan), a
 img = 'lucky-baskhar-2.jpeg'
 media = 'print'
 source = "https://www.desimartini.com/reviews/movies/lucky-baskhar-review-dulquer-salmaan-elevates-a-solid-safe-take-on-ambition/7d8b4b1acb975/"
+score = 6
 +++
 
 While promoting his latest movie, Lucky Baskhar, director Venky Atluri claimed that one of his biggest strengths is his talent in screenwriting. However, those closely following his filmography would tell you that his ability to assemble a stellar cast is his greatest asset. He once again showcases this strength with Lucky Baskhar.

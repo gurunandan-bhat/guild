@@ -9,6 +9,7 @@ opening = "Venky Atluri spins a fascinating tale involving banking, and scams, a
 img = 'lucky-baskhar.png'
 media = 'print'
 source = "https://indianexpress.com/article/entertainment/movie-review/lucky-baskhar-movie-review-a-terrific-dulquer-salmaan-powers-this-brilliant-venky-atluri-film-9646751/"
+score = 8
 +++
 
 Legendary American poet Maya Angelou once wrote, “When great trees fall in forests, small things recoil into silence…” Dulquer Salmaan’s latest film Lucky Baskhar is about one such small thing that decided to brave its fears, and find a way to survive when the tree of the great banking scam of the 90s fell. Of course, we have seen multiple iterations of this story through series like Scam 1992 and films like The Big Bull. But what Venky Atluri does in Lucky Baskhar is that he isn’t telling the story that everyone is focused on. He conjures up a story of a man who is caught in the crosshairs and decides to do something about it. Now, it is fictional, but it could have been true. And it is this thin line between fiction and reality that truly makes Lucky Baskhar a terrific watch.

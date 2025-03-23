@@ -10,6 +10,7 @@ opening = "Kiss Wagon bears the unmistakable hallmark of an idiosyncratic work m
 img = 'kiss-wagon.png'
 media = 'print'
 source = "https://www.filmcompanion.in/reviews/malayalam-review/kiss-wagon-review-a-delightful-and-radical-meditation-on-love-civilisation-violence-and-religion-iffr-midhun-murali"
+score = 9
 +++
 
 This January, Malayalam cinema saw the convergence of its two extremes. A big-budget drama

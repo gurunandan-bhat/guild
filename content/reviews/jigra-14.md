@@ -9,6 +9,7 @@ opening = "Despite its competence and moments of poetry, Vasan Bala’s film fai
 img = 'jigra-14.jpg'
 media = 'print'
 source = 'https://www.thehindu.com/entertainment/movies/jigra-movie-review-a-spirited-alia-bhatt-cannot-redeem-vasan-balas-shaky-jailbreak-film/article68744505.ece'
+score = 6.5
 +++
 
 Movies can shape us in silly but significant ways. Growing up in the 1990s, for instance, I developed an irrational and premature fear of foreign travel. This had little to do with any growing awareness of geopolitical realities and everything to do with a schlocky Bollywood film starring Sridevi and Sanjay Dutt. Directed by Mahesh Bhatt, Gumrah (1993) — a jailbreak drama set between Mumbai and Hong Kong — was shivery B-movie fun, and it left me with an enduring anxiety. If I clutched my cabin luggage a little too cautiously on my first international flight, nervously looking over my shoulders, I had Bhatt and the duplicitous face of Rahul Roy to thank.

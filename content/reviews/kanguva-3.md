@@ -7,6 +7,7 @@ critics = ['Vishal Menon']
 subtitle = ''
 media = 'video'
 source = '1ZdAbciBrN8'
+score = 3
 +++
 
 {{< youtube id="1ZdAbciBrN8" >}}

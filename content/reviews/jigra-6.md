@@ -9,6 +9,7 @@ opening = ''
 img = 'jigra-6.webp'
 media = 'print'
 source = 'https://www.ottplay.com/features/jigra-alia-bhatt-in-as-the-angry-young-woman/c753b582a2198'
+score = 7.5
 +++
 
 In Vasan Bala’s Jigra (Courage) Alia Bhatt is Amitabh Bachchan. The suggestion seems both foolish and foolhardy, not least because both actors have disparate, almost contrasting, physicalities. They act differently, they react differently. And more crucially, a punch lands on them differently. If Bachchan in his youth stumbled upon being hit, then Bhatt crumples like a paper bag. If the former’s daunting presence intimidates the frame then the latter’s diminutive silhouette makes space for others. Alia Bhatt is nothing like Amitabh Bachchan yet Bala insists that she is, for she has the jigra.

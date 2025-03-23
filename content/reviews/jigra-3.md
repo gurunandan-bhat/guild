@@ -9,6 +9,7 @@ opening = "Vasan Bala's ability to jolt our Bollywood conditioned brains into ex
 img = 'jigra-3.jpg'
 media = 'print'
 source = 'https://www.rediff.com/movies/review/jigra-review/20241011.htm'
+score = 6
 +++
 
 Vasan Bala creates worlds that may appear deceptively similar to the ones you and I inhabit but run entirely on their own terms and whimsy. It's a part of the film-maker's charm and cinephile influences, which made the likes of Mard Ko Dard Nahi Hota and Monica O My Darling such a treat. Jigra, probably his most big-ticket project so far, is also his most sombre.
