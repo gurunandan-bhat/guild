@@ -25,31 +25,29 @@
         <div class="row mini-inset small">
             <div class="col-lg-4 offset-lg-1 text-center">
                 <div class="text-center">
-                    <h6 class="mb-2">
-                        <a href="{{ $reviewLink }}">
-                            {{ $page.Title }}
-                            {{ with $page.Params.translatedTitle }}
-                                ({{ . }})
-                            {{ end }}
-                        </a>
-                    </h6>
                     {{ with $scoreImg }}
-                        <div
-                            class="score-image d-flex justify contents-center"
-                            style="width: 100px; margin: auto;">
+                        <div class="score-image d-flex justify contents-center">
                             {{ . }}
                         </div>
                     {{ end }}
                 </div>
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-6 border-start">
+                <h6 class="mb-2">
+                    <a href="{{ $reviewLink }}">
+                        {{ $page.Title }}
+                        {{ with $page.Params.translatedTitle }}
+                            ({{ . }})
+                        {{ end }}
+                    </a>
+                </h6>
                 <p class="fw-bolder">
                     {{ delimit $genreList ", " }}
                     {{ with $language }}
                         ({{ $language.english_name }})
                     {{ end }}
                 </p>
-                <p class="pe-3">
+                <p class="pe-3 border-left-2">
                     {{ delimit (first 40 (split .overview " ")) " " }}
                     <a href="{{ $reviewLink }}">(more&hellip;)</a>
                 </p>

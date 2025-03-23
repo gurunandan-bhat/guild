@@ -258,8 +258,6 @@ a.anchor {
     font-family: Oswald;
     color: #924c9d;
     text-transform: uppercase;
-    margin-bottom: 3px;
-    text-align: center;
 }
 
 .next {
@@ -324,7 +322,10 @@ a.anchor {
 }
 
 .score-image svg {
-    width: 100%;
-    height: 100%;
+    width: 100px;
+    height: 100px;
     margin-bottom: 10px;
+    bottom: 0;
+    margin: 10px auto 20px au;
+    position: relative;
 }
