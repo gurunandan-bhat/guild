@@ -1,5 +1,5 @@
 {{ $page := . }}
-{{ $scoreImg := partial "fcg-rating.html" (dict "title" $page.LinkTitle "size" "small") }}
+{{ $scoreImg := partial "svg-rating.html" (dict "title" $page.LinkTitle "size" "small") }}
 {{ $pageImage := $page.Params.img }}
 {{ $languages := site.Data.languages.languages }}
 {{ $reviewLink := partial "taxonomy/mreviews/reviewLink-raw.html" $page.LinkTitle }}
@@ -23,9 +23,9 @@
 
     <div class="mini-meta">
         <div class="row mini-inset small">
-            <div class="col-lg-4 text-center">
-                <div class="clearfix text-center">
-                    <h6>
+            <div class="col-lg-4 offset-lg-1 text-center">
+                <div class="text-center">
+                    <h6 class="mb-2">
                         <a href="{{ $reviewLink }}">
                             {{ $page.Title }}
                             {{ with $page.Params.translatedTitle }}
@@ -34,11 +34,15 @@
                         </a>
                     </h6>
                     {{ with $scoreImg }}
-                        <img src="{{ . }}" class="img-fluid p-1" />
+                        <div
+                            class="score-image d-flex justify contents-center"
+                            style="width: 100px; margin: auto;">
+                            {{ . }}
+                        </div>
                     {{ end }}
                 </div>
             </div>
-            <div class="col-lg-8">
+            <div class="col-lg-6">
                 <p class="fw-bolder">
                     {{ delimit $genreList ", " }}
                     {{ with $language }}
