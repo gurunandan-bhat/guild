@@ -10,6 +10,7 @@ opening = "As mother and daughter, Kani Kusruti and debutante Preeti Panigrahi d
 img = 'girls-will-be-girls-7.jpg'
 media = 'print'
 source = "https://www.thehindu.com/entertainment/movies/girls-will-be-girls-movie-review-a-textured-eloquent-coming-of-age-story/article69000127.ece"
+score = 8
 +++
 
 “I won’t allow anything more than a friendship,” decrees Anila (Kani Kusruti), a very mom thing to say. She is sizing up a tall, sweet boy, Srinivas (Kesav Binoy Kiron), who’s drawn her daughter’s affections at their elite, hillside boarding school. The girl, Mira (Preeti Panigrahi), stands at the door and listens. The camera mimics her watchful gaze. It is a simple domestic intervention, yet it thrums with suspense.

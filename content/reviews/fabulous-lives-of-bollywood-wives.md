@@ -7,6 +7,7 @@ critics = ['Anmol Jamwal']
 subtitle = 'Delusion Pro Max'
 media = 'video'
 source = '3pqXaYZwwX0'
+score = 3
 +++
 
 {{< youtube id="3pqXaYZwwX0" >}}

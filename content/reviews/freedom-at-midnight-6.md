@@ -10,6 +10,7 @@ opening = "Sprawling yet pacy, the Nikkhil Advani series brings to life the stor
 img = 'freedom-at-midnight-6.png'
 media = 'print'
 source = "https://indianexpress.com/article/entertainment/web-series/freedom-at-midnight-review-relatable-racy-pacy-account-of-build-up-to-india-tumultuous-independence-9670984/"
+score = 5
 +++
 
 The choice of using ‘Freedom At Midnight’, Larry Collins and Dominique Lapierre’s account of the tumultuous build-up to India’s independence in August 1947, as the basis for the seven-part web series of the same name achieves one thing above all else: adapting from source material which has been in existence for several years, especially from the celebrity author duo who couldn’t be accused of being either pro-India, or pro-Pakistan, frees creator and director Nikkhil Advani of being accused similar bias.
