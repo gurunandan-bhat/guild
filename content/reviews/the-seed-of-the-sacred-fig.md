@@ -7,6 +7,7 @@ critics = ['Sucharita Tyagi']
 subtitle = 'The Seed Of The Sacred Fig is an absolute soul-shattering work of cinema because of just how urgent, relatable, and familiar its conflicts are.'
 media = 'video'
 source = 'I7phMrl_M3c'
+score = 10
 +++
 
 {{< youtube id="I7phMrl_M3c" >}}

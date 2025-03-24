@@ -10,6 +10,7 @@ opening = "This film about an imperiled IFS officer in London suffers from convo
 img = 'ulajh.webp'
 media = 'print'
 source = "https://www.thehindu.com/entertainment/movies/ulajh-movie-review-janhvi-kapoor-is-caught-in-an-inept-thriller/article68476499.ece"
+score = 6
 +++
 
 What sort of a spy movie is Sudhanshu Saria’s Ulajh? It begins as a Raazi (2018) in pantsuits: patriotic female protagonist, driven by loyalty and legacy, enlists to serve her country on foreign turf. Indo-Pak diplomatic relations, as fraught and fragile as they were in 1971, inform the narrative stakes. Both films hail from Junglee Pictures, and the editor, in each case, is Nitin Baid. If that weren’t enough, the new film even has a song with ‘watan’ in its title — plastered, ineffectually, over the opening credits and thereby fast forgotten.

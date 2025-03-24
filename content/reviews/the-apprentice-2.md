@@ -9,6 +9,7 @@ opening = "The Apprentice shows Trump (played stupendously well by Sebastian Sta
 img = 'the-apprentice-2.png'
 media = 'print'
 source = "https://www.wionews.com/entertainment/hollywood/news-the-apprentice-review-jeremy-strong-delivers-stand-out-performance-in-abbasis-film-on-donald-trump-768733"
+score = 9
 +++
 
 Former United States president and presidential candidate Donald Trump went on a rant recently on filmmaker Ali Abbasi's latest film The Apprentice, which narrates the Republican's initial years as a real estate giant in New York and his relationship with attorney Roy Cohn. Perhaps, Trump's reaction stems from information that is fed to him because had he watched the film, he may have only objected to certain aspects of Abbasi's provocative film and not ranted about it in its entirety.

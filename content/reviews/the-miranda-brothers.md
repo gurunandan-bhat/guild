@@ -9,6 +9,7 @@ opening = "Sanjay Gupta's latest drama looks so dated that it belongs in a museu
 img = 'the-miranda-brothers.png'
 media = 'print'
 source = "https://www.hollywoodreporterindia.com/reviews/streaming/the-miranda-brothers-review-goa-football-and-filmmaking-crimes?sfnsn=wiwspwa"
+score = 3
 +++
 
 Sanjay Gupta’s The Miranda Brothers revolves around two hunky brothers named Julio (Harshvardhan Rane) and Regalo Miranda (Meezaan Jafri), rising football stars in a Josh-coded Goa where orphaned babies are picked up from garbage dumps outside churches; arrogant cricketers cackle and say: “Cricket has two C’s: Cash and Chicks”; football scouts exclaim: “if we select both brothers, it’s like an earthquake and typhoon becoming one!”; bronze-bodied dance tracks called “Be My Mehbooba” pop up on a beach; and mourners at a funeral walk together in slow-motion as if they’re teleported to Sanjay Gupta’s Kaante (2002) instead.

@@ -9,6 +9,7 @@ opening = "The Wild Robot takes you back to the early days of Finding Nemo and W
 img = 'the-wild-robot-4.webp'
 media = 'print'
 source = "https://www.ottplay.com/features/the-wild-robot-a-heartfelt-factory-reset-of-storytelling/071e6ed7f6634"
+score = 8
 +++
 
 THE WILD ROBOT is about an all-purpose robot that turns sentient in the wilderness. After washing up on a forest island, Rozzum “Rozz” 7134 learns to feel and discern once it mothers an orphaned goose and befriends a red fox. I’d say it becomes human, but in the context of where we are today, “it grows a heart” is more accurate.

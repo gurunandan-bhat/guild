@@ -10,6 +10,7 @@ opening = "Instead of hammering the audience with a convoluted sense of honour a
 img = 'sucha-soorma.webp'
 media = 'print'
 source = "https://www.hollywoodreporterindia.com/reviews/theatrical/sucha-soorma-review-a-sloppy-film-unworthy-of-the-punjabi-folk-legend"
+score = 4
 +++
 
 Watching a Punjabi film, let alone reviewing it, even for a diehard Punjabi, comes with its own set of misgivings. Sadly enough, as we sit through Sucha Soorma — touted as famous singer-actor Babbu Maan’s comeback film after a gap of four years — doubts turn into a deep, gnawing realisation about said misgivings and a discomfiting feeling. It’s near impossible to rationalise why we are making such films in this day and age, which do not reflect upon the changing matrix of our society; or if they do, god help us. Undoubtedly, this Amitoj Maan directorial is a period film set sometime during the British rule in India, in the early 20th century, even though the only date definitively stated in the film is the year in which the hero, Sucha Soorma (Babbu Maan), was hanged. The very first scene deludes you to believe that here, perhaps, was a warrior who stood up for the downtrodden.

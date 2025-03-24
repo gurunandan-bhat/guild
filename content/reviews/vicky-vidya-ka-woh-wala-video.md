@@ -9,6 +9,7 @@ opening = "Between tons of sexual innuendo and Kapil Sharma brand of slapstick g
 img = 'vicky-vidya-ka-woh-wala-video.png'
 media = 'print'
 source = 'https://www.rediff.com/movies/review/vicky-vidya-ka-woh-wala-video-review-stree-lies--videotape/20241011.htm'
+score = 3
 +++
 
 Vicky Vidya Ka Woh Wala Video has the eagerness of a standup comic. It is the sort of movie that feels obliged to make a joke before a sentence, between a sentence and after a sentence. Problem is the humour is not just pedestrian, it's also plain unfunny. It's a joke, Manjot Singh in a cameo points out early on in Director Raaj Shaandilyaa's first comedy outside the Dream Girl franchise, as though embarrassingly aware of how unamusing the whole shtick is.

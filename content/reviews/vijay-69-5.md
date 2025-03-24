@@ -10,6 +10,7 @@ opening = "Promising to be inspiring, ‘Vijay 69’ turns out like a mildly ent
 img = 'vijay-69-5.jpg'
 media = 'print'
 source = "https://www.thehindu.com/entertainment/movies/vijay-69-movie-review-anupam-kher-takes-a-dip-in-the-channel-of-mediocrity/article68844856.ece"
+score = 2
 +++
 
 One day, a foul-mouthed man on the cusp of 70 realises that he doesn’t have any achievement in his lifelog that will keep him alive for posterity. A national-level swimmer who didn’t strive enough to change the colour of his bronze medal, Vijay Mathew (Anupam Kher) is an ordinary old man seeking a sliver of gold dust. Having lost his supportive wife to cancer, he is withering from the inside and appears grumpy from the outside. Still, he hasn’t given up on the magic of life and doesn’t want those around him to undermine his leap of faith when an opportunity presents itself. Vijay decides to participate in a tough triathlon contest to make it to record books and give something back to his friends who stood by him.

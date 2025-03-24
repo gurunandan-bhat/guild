@@ -7,6 +7,7 @@ critics = ['Bhawana Somaaya']
 subtitle = 'Watch at your own risk'
 media = 'video'
 source = 'GCLof4mpICk'
+score = 3
 +++
 
 {{< youtube id="GCLof4mpICk" >}}

@@ -7,6 +7,7 @@ critics = ['Avinash Ramachandran']
 source = '6KQTozNMvYU'
 subtitle = 'Hundred Days Hundred Films Ep 5'
 media = 'video'
+score = 7.5
 +++
 
 {{< youtube id="6KQTozNMvYU" >}}

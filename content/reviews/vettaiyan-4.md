@@ -9,6 +9,7 @@ opening = 'TJ Gnanavel’s simple and predictable film leaves us wondering why i
 img = 'vettaiyan-4.jpeg'
 media = 'print'
 source = 'https://www.news18.com/movies/vettaiyan-movie-review-rajinikanth-is-superb-but-out-of-place-in-tj-gnanavels-noble-attempt-9081463.html'
+score = 5
 +++
 
 All Rajinikanth films have some default settings. It doesn’t matter who directs him, they have to play by these rules or around it. Experimentations by the director are allowed but within the frame of the boilerplate. The success then comes down to how the proverbial ‘director’s touch’ syncs with the template of a superstar film.

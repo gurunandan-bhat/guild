@@ -9,6 +9,7 @@ opening = 'Newlyweds Vicky (Rajkummar Rao) and Vidya (Triptii Dimri), decide to 
 img = 'vicky-vidya-ka-woh-wala-video-3.webp'
 media = 'print'
 source = 'https://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews/vicky-vidya-ka-woh-wala-video/movie-review/114136020.cms'
+score = 4
 +++
 
 Set in the late 90’s, the pre-Instagram era, when ‘get ready with me’ reels were non-existent, privacy had a different meaning. Without having the platform to post their private life anywhere, couples voluntarily recording their intimate moments was still a rare phenomenon. So on paper, the film’s script sounds promising. What happens when this private video belonging to a middle-class couple from Rishikesh goes missing? What are the repercussions and can they retrieve it?

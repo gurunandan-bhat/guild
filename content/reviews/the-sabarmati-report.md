@@ -10,6 +10,7 @@ opening = "Media, Politics, Truths, Lies & a lot more... Will The Sabarmati Repo
 img = 'the-sabarmati-report.jpg'
 media = 'print'
 source = "https://lehren.com/entertainment/reviews/the-sabarmati-report-movie-review-conspiracy-uncovered-story-incomplete/205828/"
+score = 5
 +++
 
 The communal bloodshed that tainted Gujarat in 2002 has been told and retold on film, in books, on TV debates.
