@@ -5,11 +5,11 @@ draft = false
 mreviews = ['Black Warrant']
 critics = ['Rohit Vats']
 publication = ''
-subtitle = "Netflix jail drama has grit and terrific actors"
+subtitle = "Zahan Kapoor shines in Vikramaditya Motwane's Netflix jail drama"
 opening = "Seconds into the show and you meet the lead of the biographical drama, jailer Sunil Gupta, a docile-looking but gritty middleclass boy."
 img = 'black-warrant-9.png'
 media = 'print'
-source = ""
+source = "https://www.dnaindia.com/entertainment/report-black-warrant-review-netflix-jail-drama-has-grit-and-terrific-actors-4-stars-3126847"
 score = 8
 +++
 
