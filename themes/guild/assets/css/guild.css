@@ -260,18 +260,22 @@ a.anchor {
     text-transform: uppercase;
 }
 
-.next {
+.next,
+.prev {
     display: inline-block;
-    padding-right: 80px;
     font-family: Oswald;
     font-weight: 500;
+    cursor: pointer;
+    color: #924c9d;
+    font-size: 1.2rem;
 }
 
 .prev {
-    display: inline-block;
     padding-left: 80px;
-    font-family: Oswald;
-    font-weight: 500;
+}
+
+.next {
+    padding-right: 80px;
 }
 
 #footer {
