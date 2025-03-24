@@ -66,6 +66,7 @@
                 <p>
                     {{ if eq $type "short" }}
                         {{ delimit (first 16 (split .overview " ")) " " }}&hellip;
+                        <a href="{{ $reviewHref }}">(more)</a>
                     {{ else }}
                         {{ .overview }}
                     {{ end }}
