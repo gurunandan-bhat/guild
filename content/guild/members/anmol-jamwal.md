@@ -3,7 +3,7 @@ date = 2024-09-25T12:19:31.450516+05:30
 draft = false
 weight = 40
 title = 'Anmol Jamwal'
-organizations = ['Tried & Refused Productions (YouTube)']
+organizations = ['Tried & Refused Productions']
 img = '/images/members/Anmol.jpg'
 
 [soc_media]

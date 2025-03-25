@@ -3,7 +3,7 @@ date = 2024-09-25T12:19:31.450229+05:30
 draft = false
 weight = 20
 title = 'Ajay Brahmatmaj'
-organizations = ['CineMahaul (YouTube)']
+organizations = ['CineMahaul']
 img = '/images/members/Ajay.jpg'
 
 [soc_media]

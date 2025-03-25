@@ -1,8 +1,34 @@
 {{ define "main" }}
-    <h1>{{ .Title }}</h1>
-    {{ .Content }}
-    {{ range .Pages }}
-        <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-        {{ .Summary }}
-    {{ end }}
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 offset-lg-1">
+                <h1>{{ .Title }}</h1>
+                {{ .Content }}
+                <div class="row">
+                    {{ range sort .Pages ".LinkTitle" }}
+                        {{ $criticPage := index (where .Site.RegularPages ".Title" .Title) 0 }}
+                        <div class="col-md-3 mb-3">
+                            <div class="latest">
+                                <h6>
+                                    <a href="{{ .RelPermalink }}"
+                                        >{{ .LinkTitle }}</a
+                                    >
+                                </h6>
+                                <p>
+                                    {{ with $criticPage.Params.organizations }}
+                                        {{ index . 0 }}
+                                    {{ end }}
+                                </p>
+                                {{ with resources.Get $criticPage.Params.img }}
+                                    <img
+                                        src="{{ .RelPermalink }}"
+                                        class="img-fluid" />
+                                {{ end }}
+                            </div>
+                        </div>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
 {{ end }}
