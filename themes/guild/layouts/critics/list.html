@@ -1,8 +1,8 @@
 {{ define "main" }}
     <div class="container">
-        <div class="row">
+        <div class="row" style="margin-top: 80px;">
             <div class="col-lg-10 offset-lg-1">
-                <h1>{{ .Title }}</h1>
+                <h2 class="fw-bold mb-5">Our Critics</h2>
                 {{ .Content }}
                 <div class="row">
                     {{ range sort .Pages ".LinkTitle" }}
@@ -24,6 +24,12 @@
                                         src="{{ .RelPermalink }}"
                                         class="img-fluid" />
                                 {{ end }}
+                                <p class="small">
+                                    {{ (delimit (first 18 (split $criticPage.Summary " ")) " ") | safeHTML }}
+                                    <a href="{{ .RelPermalink }}"
+                                        >(more &hellip;)</a
+                                    >
+                                </p>
                             </div>
                         </div>
                     {{ end }}
