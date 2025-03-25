@@ -3,8 +3,16 @@
 <title>
     {{ if .IsHome }}
         {{ site.Title }}
-    {{ else }}
-        {{ printf "%s | %s" .Title site.Title }}
-    {{ end }}
+    {{- else if eq .Kind "term" }}
+        {{ if eq .Type "critics" }}
+            {{- printf "All Reviews by FCG Member %s" .LinkTitle }}
+        {{- else if eq .Type "mreviews" }}
+            {{- printf "All FCG Reviews of %s" .LinkTitle }}
+        {{- end }}
+    {{- else if eq .Kind "taxonomy" }}
+        Alphabetical Index of Every Film Reviewed by FCG members
+    {{- else }}
+        {{- printf "%s | %s" .Title site.Title }}
+    {{- end }}
 </title>
 {{ partialCached "head/css.html" . }}
