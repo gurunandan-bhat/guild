@@ -1,1 +1,4 @@
-{{ . | jsonify }}
+{{ $page := . }}
+{{ $pageMap := (jsonify . ) | transform.Unmarshal }}
+{{ $pageMap = merge $pageMap (dict "Params" $page.Params "Summary" $page.Summary "Content" $page.RawContent) }}
+{{ jsonify $pageMap }}

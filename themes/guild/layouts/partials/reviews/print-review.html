@@ -1,5 +1,6 @@
 {{ $extLinkIcon := index site.Data.svgicons.icons "externalLink" | safeHTML }}
 {{ $critic := index .Params.critics 0 }}
+{{ $path := .Path }}
 <div class="row mb-3">
     <div class="col-lg-8 offset-lg-2">
         <h6 class="fw-bold">
@@ -21,12 +22,16 @@
             {{ .Summary }}
         </div>
         <p class="small mb-1">
-            <a
-                target="_blank"
-                href="{{ .Params.source }}"
-                class="d-flex align-items-center">
-                {{ $extLinkIcon }} Continue reading &hellip;</a
-            >
+            {{ with .Params.source }}
+                <a
+                    target="_blank"
+                    href="{{ . }}"
+                    class="d-flex align-items-center">
+                    {{ $extLinkIcon }} Continue reading &hellip;</a
+                >
+            {{ else }}
+                {{ warnf "Source not available for %s" $path }}
+            {{ end }}
         </p>
         {{ partialCached "taxonomy/mreviews/reviewLink" .Title .Title }}
         <hr class="my-3" />
