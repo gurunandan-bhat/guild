@@ -6,7 +6,6 @@ title = 'Rohan Naahar'
 organizations = ['The Indian Express', 'Secretary FCG']
 img = '/images/members/ROHANNAHAAR221.jpg'
 tag = 'rohannaahar'
-type = 'board'
 
 [soc_media]
 twitter = 'https://twitter.com/RohanNaahar'

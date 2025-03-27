@@ -6,7 +6,6 @@ title = 'Sucharita Tyagi'
 organizations = ['Independent Film Critic', 'Vice-Chairperson FCG']
 img = '/images/members/Sucharita Tyagi.png'
 tag = 'sucharitatyagi'
-type = 'board'
 
 [soc_media]
 facebook = 'http://www.facebook.com/SucharitaKaPage'

@@ -6,7 +6,6 @@ title = 'Anupama Chopra'
 organizations = ['The Hollywood Reporter India', 'Chairperson FCG']
 img = '/images/members/Anupama Chopra.png'
 tag = 'anupamachopra'
-type = 'board'
 
 [soc_media]
 facebook = 'https://www.facebook.com/anupamachopraofficial'

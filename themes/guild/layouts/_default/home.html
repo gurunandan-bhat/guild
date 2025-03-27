@@ -45,50 +45,15 @@
                                             {{ if eq .Params.media "print" }}
                                                 {{ $source = .Params.source }}
                                             {{ end }}
-                                            {{ $publication := .Params.publication }}
                                             <div
                                                 class="short-review accordion-header mb-1">
                                                 {{ $reviewer := index (where site.RegularPages ".LinkTitle" (index $review.Params.critics 0)) 0 }}
                                                 {{ with $reviewer }}
-                                                    {{ $img := resources.Get .Params.img }}
-                                                    {{ $img = $img.Resize "50x" }}
                                                     <div class="row">
                                                         <div class="col-lg-10">
                                                             <div
-                                                                class="clearfix accordion-header ps-2 pb-2">
-                                                                <div
-                                                                    class="py-1">
-                                                                    <img
-                                                                        src="{{ $img.RelPermalink }}"
-                                                                        class="rounded-circle float-start mt-2" />
-                                                                </div>
-                                                                <div
-                                                                    style="padding-left: 62px;">
-                                                                    <div>
-                                                                        <span
-                                                                            class="author"
-                                                                            >{{ .Params.title }}</span
-                                                                        >
-                                                                        |
-                                                                        <span
-                                                                            class="pub-date"
-                                                                            >{{ index .Params.organizations 0 }}</span
-                                                                        >
-                                                                        {{ partial "taxonomy/critics/reviewLink.html" .Params.title }}
-                                                                    </div>
-                                                                    {{ with $publication }}
-                                                                        <p
-                                                                            class="pub-date mb-1">
-                                                                            (Written
-                                                                            for
-                                                                            {{ . }})
-                                                                        </p>
-                                                                    {{ end }}
-                                                                    <h6
-                                                                        class="pe-3">
-                                                                        {{ $review.Params.subtitle }}
-                                                                    </h6>
-                                                                </div>
+                                                                class="ms-3 py-2">
+                                                                {{ partial "review-header.html" $review }}
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-2">
@@ -107,6 +72,10 @@
                                                         data-bs-parent="{{- printf "#%s" $accordionID }}">
                                                         <div
                                                             class="accordion-body">
+                                                            <p
+                                                                class="pub-date mb-1">
+                                                                {{ $review.Date.Format "Mon, January 2 2006" }}
+                                                            </p>
                                                             {{ with $review.Params.opening }}
                                                                 <p
                                                                     class="author">

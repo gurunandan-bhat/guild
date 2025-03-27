@@ -1,0 +1,35 @@
+<div class="clearfix">
+    {{ $critic := "" }}
+    {{ with (site.GetPage .Path) }}
+        {{ $critic = index .Params.critics 0 }}
+    {{ end }}
+    {{ $criticPage := index (where (where site.RegularPages ".Type" "guild") ".Title" $critic) 0 }}
+    {{ with resources.Get $criticPage.Params.img }}
+        <div class="clearfix mt-2 small d-flex">
+            <img
+                src="{{ (.Resize "60x").RelPermalink }}"
+                class="float-start rounded-circle me-2"
+                style="height:100%;" />
+            {{ $reviewsPageLink := index site.Taxonomies.critics (lower $critic) }}
+            <div>
+                <span class="author"
+                    ><a href="{{ $reviewsPageLink.Page.RelPermalink }}"
+                        >{{ $critic }}</a
+                    ></span
+                >
+                |
+                <span class="pub-date"
+                    >{{ with index $criticPage.Params.organizations 0 }}
+                        {{ . }}
+                    {{ end }}</span
+                >
+                {{ with $.Params.publication }}
+                    <br /><span class="pub-date">(Writing for {{ . }})</span>
+                {{ end }}<br />
+                <span class="text-uppercase fw-bolder"
+                    >{{ $.Params.subtitle }}</span
+                >
+            </div>
+        </div>
+    {{ end }}
+</div>
