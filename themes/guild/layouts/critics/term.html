@@ -53,22 +53,27 @@
                                         <h4 class="sub-title">
                                             {{ .Params.subtitle }}
                                         </h4>
-                                        {{ with .Params.opening }}
-                                            <p class="author">
-                                                {{ . }}
+                                        <div class="ms-2">
+                                            <p class="pub-date">
+                                                {{ .Date.Format "Mon, January 2 2006" }}
                                             </p>
-                                        {{ end }}
-                                        <div class="small">
-                                            {{ .Summary }}
+                                            {{ with .Params.opening }}
+                                                <p class="author">
+                                                    {{ . }}
+                                                </p>
+                                            {{ end }}
+                                            <div class="small">
+                                                {{ .Summary }}
+                                            </div>
+                                            <p class="small float-start">
+                                                <a
+                                                    href="{{ .Params.source }}"
+                                                    target="_blank"
+                                                    >{{ $extLinkIcon }} Continue
+                                                    Reading&hellip;</a
+                                                >
+                                            </p>
                                         </div>
-                                        <p class="small float-start">
-                                            <a
-                                                href="{{ .Params.source }}"
-                                                target="_blank"
-                                                >{{ $extLinkIcon }} Continue
-                                                Reading&hellip;</a
-                                            >
-                                        </p>
                                         <div class="float-end">
                                             {{ partial "taxonomy/mreviews/reviewLink.html" .Title }}
                                         </div>

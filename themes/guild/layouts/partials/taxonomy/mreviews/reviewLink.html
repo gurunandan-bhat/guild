@@ -2,9 +2,9 @@
 {{/* {{ $revCount := site.Taxonomies.mreviews.Count . }} */}}
 {{ $intLinkIcon := index site.Data.svgicons.icons "internalLink" | safeHTML }}
 <p class="all-link mb-0">
-    All reviews of
-    {{ . }}
     <a href="{{ $revPage.Page.RelPermalink }}"
-        >here <span class="inline-block ps-1">{{ $intLinkIcon }}</span></a
+        >All FCG reviews of
+        {{ . }}
+        here <span class="inline-block ps-1">{{ $intLinkIcon }}</span></a
     >
 </p>

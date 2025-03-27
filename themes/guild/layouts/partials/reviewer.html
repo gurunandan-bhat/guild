@@ -1,18 +1,18 @@
 {{ $name := index . "reviewer" }}
 {{ $date := index . "date" }}
-{{ $reviewer := index (where site.RegularPages "LinkTitle" $name) 0 }}
-{{ with $reviewer }}
+{{ $reviewerPage := index (where site.RegularPages "LinkTitle" $name) 0 }}
+{{ $reviewLink := (index site.Taxonomies.critics (lower $name)).Page.RelPermalink }}
+{{ with $reviewerPage }}
     {{ $img := resources.Get .Params.img }}
     {{ $img = $img.Resize "50x" }}
     <div class="clearfix mb-2">
         <img src="{{ $img.RelPermalink }}" class="rounded-circle float-start" />
         <div style="padding-left: 62px;">
             <div class="author">
-                {{ .Params.title }} |
+                <a href="{{ $reviewLink }}">{{ .Params.title }}</a> |
                 <span class="pub-date"
                     >{{ delimit .Params.organizations ", " }}</span
                 >
-                {{ partial "taxonomy/critics/reviewLink.html" $reviewer.Title }}
             </div>
             <div class="pub-date">
                 {{ $date }}
