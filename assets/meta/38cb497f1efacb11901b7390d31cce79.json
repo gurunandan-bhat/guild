@@ -1,0 +1,589 @@
+{
+	"id": 627336,
+	"title": "Empuraan",
+	"fcg_title": "L2: Empuraan",
+	"original_title": "എമ്പുരാൻ",
+	"original_language": "ml",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "The film acts as  Stephen’s rise to power as the infamous Khureshi Ab’raam as well as the aftermath of his departure from Kerala politics at the end of Lucifer.",
+	"backdrop_path": "/jYaoVDJ9J6Me3J0EQCABzQ99YVG.jpg",
+	"poster_path": "/rArCWk29zrzOMyItB6AuGWro6DJ.jpg",
+	"release_date": "2025-03-27",
+	"credits": {
+		"cast": [
+			{
+				"id": 82732,
+				"order": 0,
+				"name": "Mohanlal",
+				"profile_path": "/4oQtVIfXVpQESBgkjI9j9v7jMkQ.jpg",
+				"character": "Stephen Nedumpally / Khureshi-Ab'raam",
+				"gender": 2
+			},
+			{
+				"id": 117690,
+				"order": 1,
+				"name": "Prithviraj Sukumaran",
+				"profile_path": "/cU6b96SJmqRV9d4JjPXKeccw6U0.jpg",
+				"character": "Zayed Masood",
+				"gender": 2
+			},
+			{
+				"id": 109743,
+				"order": 2,
+				"name": "Abhimanyu Singh",
+				"profile_path": "/ucGZIeHvG9SsW9B94InteMyOlpD.jpg",
+				"character": "Balraj",
+				"gender": 2
+			},
+			{
+				"id": 1178639,
+				"order": 3,
+				"name": "Manju Warrier",
+				"profile_path": "/7u1WgUHnwIW9mtL6aTdo1cRXmCM.jpg",
+				"character": "Priyadarshini Ramdas",
+				"gender": 1
+			},
+			{
+				"id": 1263974,
+				"order": 4,
+				"name": "Tovino Thomas",
+				"profile_path": "/uySCXY4TZxEDcVJD8WOjDQmMHc9.jpg",
+				"character": "Jathin Ramdas",
+				"gender": 2
+			},
+			{
+				"id": 448468,
+				"order": 5,
+				"name": "Indrajith Sukumaran",
+				"profile_path": "/32YxjXVmgkPCVKUQAkNqWUGbBIl.jpg",
+				"character": "Govardhan",
+				"gender": 2
+			},
+			{
+				"id": 930731,
+				"order": 6,
+				"name": "Suraj Venjaramoodu",
+				"profile_path": "/2FUs0wmR3eHBd8g4GVbCmhkUzeI.jpg",
+				"character": "Sajanachandran",
+				"gender": 2
+			},
+			{
+				"id": 584763,
+				"order": 7,
+				"name": "Saikumar",
+				"profile_path": "/shnJkiBgcsnr4sozTZib4MXN1ou.jpg",
+				"character": "Mahesha Varma",
+				"gender": 2
+			},
+			{
+				"id": 85589,
+				"order": 8,
+				"name": "Sachin Khedekar",
+				"profile_path": "/jRSgXFTDAbAb4RsW9nvNYsdhxWo.jpg",
+				"character": "P. K. Ramdas",
+				"gender": 2
+			},
+			{
+				"id": 1391945,
+				"order": 9,
+				"name": "Nandhu",
+				"profile_path": "/db5fTGCBP9hlUjqz2sPldT3jNZL.jpg",
+				"character": "Peethambaran",
+				"gender": 2
+			},
+			{
+				"id": 195930,
+				"order": 10,
+				"name": "Jerome Flynn",
+				"profile_path": "/9bAjY1TW7f4yENBsWnj5MWVVWdk.jpg",
+				"character": "Boris Oliver",
+				"gender": 2
+			},
+			{
+				"id": 1820609,
+				"order": 11,
+				"name": "Saniya Iyyappan",
+				"profile_path": "/vHkgti2YdzdvQLajbUpHRuk3tgl.jpg",
+				"character": "Jhanvi",
+				"gender": 1
+			},
+			{
+				"id": 4444704,
+				"order": 12,
+				"name": "Karthikeya Dev",
+				"character": "Zayed"
+			},
+			{
+				"id": 1435724,
+				"order": 13,
+				"name": "Jaise Jose",
+				"profile_path": "/240eal2wPjRa5ZztbOgJBtLsnPe.jpg",
+				"character": "Xavier",
+				"gender": 2
+			},
+			{
+				"id": 223162,
+				"order": 14,
+				"name": "Sshivada Nair",
+				"profile_path": "/wfXsqcfCdrQFdzxPSwNVNCsojFO.jpg",
+				"character": "Sreelekha",
+				"gender": 1
+			},
+			{
+				"id": 584839,
+				"order": 15,
+				"name": "Fazil",
+				"profile_path": "/5vASIGZBoXeV8EAa5g4OlgrGvrL.jpg",
+				"character": "Nedumpally Achan",
+				"gender": 2
+			},
+			{
+				"id": 1310399,
+				"order": 16,
+				"name": "Aneesh G Menon",
+				"profile_path": "/4Tvm8g8fcmGE69AkX3ALJoZmYoQ.jpg",
+				"character": "Sumesh",
+				"gender": 2
+			},
+			{
+				"id": 2732264,
+				"order": 17,
+				"name": "Behzaad Khan",
+				"profile_path": "/ckaQGzLJXdj3vNYG6JOIbLL678o.jpg",
+				"character": "Salabath Hamza"
+			},
+			{
+				"id": 2123299,
+				"order": 18,
+				"name": "Giju John",
+				"character": "Sajeev Kumar"
+			},
+			{
+				"id": 1202998,
+				"order": 19,
+				"name": "Nyla Usha",
+				"profile_path": "/8k5OhuVdhp8kTXSxCQ9KZDtHSCn.jpg",
+				"character": "Arundathi Sanjeev",
+				"gender": 1
+			},
+			{
+				"id": 584795,
+				"order": 20,
+				"name": "Manikuttan",
+				"profile_path": "/sL6Lc8oTNzh5PJe8i4iJ0aXPKZ5.jpg",
+				"character": "Mani",
+				"gender": 2
+			},
+			{
+				"id": 2261957,
+				"order": 21,
+				"name": "Murugan Martin",
+				"profile_path": "/7YfiOlamEImiOxkdp12Bpbp0iR.jpg",
+				"character": "Muthu",
+				"gender": 2
+			},
+			{
+				"id": 1333382,
+				"order": 22,
+				"name": "Shivaji Guruvayoor",
+				"profile_path": "/eFTZ6q7pOEWDywkCaHsDyOUKyfw.jpg",
+				"character": "Medayil Rajan",
+				"gender": 2
+			},
+			{
+				"id": 5259030,
+				"order": 23,
+				"name": "Mike Novikov",
+				"character": "Sergei Leonov"
+			},
+			{
+				"id": 130115,
+				"order": 24,
+				"name": "Alexx O'Nell",
+				"profile_path": "/bHMSI8fDQpVMjbdzu2trX6T9bgm.jpg",
+				"character": "Robert McCarthy",
+				"gender": 2
+			},
+			{
+				"id": 1477548,
+				"order": 25,
+				"name": "Shubhangi Latkar",
+				"profile_path": "/eEeYwOfQ5Ah8bJd6oB1lUreq7Ws.jpg",
+				"character": "Bahija Begum"
+			},
+			{
+				"id": 1238195,
+				"order": 26,
+				"name": "Nayan Bhatt",
+				"character": "Suraiya Bibi"
+			},
+			{
+				"id": 3200250,
+				"order": 27,
+				"name": "Aishwarya Ojha",
+				"character": "Haniya"
+			},
+			{
+				"id": 4902553,
+				"order": 28,
+				"name": "Oziel Jivani",
+				"character": "Zaheer Masood"
+			},
+			{
+				"id": 1241437,
+				"order": 29,
+				"name": "Satyajit Sharma",
+				"profile_path": "/A8K7DtRUyi4CrD5lZt9m97WLyDH.jpg",
+				"character": "Masood",
+				"gender": 2
+			},
+			{
+				"id": 1061910,
+				"order": 30,
+				"name": "Baiju Santhosh",
+				"profile_path": "/mAGYsgiYZ5A3B24jx5PZdibN87I.jpg",
+				"character": "Murugan",
+				"gender": 2
+			},
+			{
+				"id": 2963787,
+				"order": 31,
+				"name": "Nikhat Khan",
+				"character": "Subhadra Ben"
+			},
+			{
+				"id": 25078,
+				"order": 32,
+				"name": "Ériq Ebouaney",
+				"profile_path": "/5VJMH0rJE5b001FIaRD2Vr9ti80.jpg",
+				"character": "Kabuga",
+				"gender": 2
+			},
+			{
+				"id": 550166,
+				"order": 33,
+				"name": "Kishore",
+				"profile_path": "/njLrsTMxiUfnqOvWegFT3e2Sj6T.jpg",
+				"character": "Karthik",
+				"gender": 2
+			},
+			{
+				"id": 1631815,
+				"order": 34,
+				"name": "Andrea Tivadar",
+				"profile_path": "/iYtFxJGcrNmxYTq6rhivdFsotMx.jpg",
+				"character": "Michele Menuhin",
+				"gender": 1
+			},
+			{
+				"id": 2359361,
+				"order": 35,
+				"name": "Sukant Goel",
+				"profile_path": "/tpHr9khY5XIwFOFB8LbLgSelCY9.jpg",
+				"character": "Munna"
+			},
+			{
+				"id": 1088644,
+				"order": 36,
+				"name": "Kalabhavan Shajon",
+				"profile_path": "/AeiCzOHp0lo426jJGpwJ2CWwISy.jpg",
+				"character": "Aloshy",
+				"gender": 2
+			},
+			{
+				"id": 587728,
+				"order": 37,
+				"name": "Antony Perumbavoor",
+				"profile_path": "/3jyOxhNgNljnuGJeEx9Yth9zjoP.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1629010,
+				"order": 38,
+				"name": "Shaun Romy",
+				"profile_path": "/dwbEp6pzpU4VkQOLhecTqHtALz3.jpg",
+				"gender": 1
+			},
+			{
+				"id": 5331412,
+				"order": 39,
+				"name": "Aashish Joe Antony"
+			}
+		],
+		"crew": [
+			{
+				"id": 587728,
+				"name": "Antony Perumbavoor",
+				"profile_path": "/3jyOxhNgNljnuGJeEx9Yth9zjoP.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 584758,
+				"name": "Deepak Dev",
+				"profile_path": "/MfPbdpgCDQaCaY9WAyrPQ5S7KT.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 1006613,
+				"name": "Sujith Vaassudev",
+				"profile_path": "/oLaNGuD50bBPAVdza8Lvt67gGWf.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1652019,
+				"name": "Subaskaran Allirajah",
+				"profile_path": "/s2BK7waKkz6Zg33tvnuibnO57bZ.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1472819,
+				"name": "Stunt Silva",
+				"profile_path": "/p6vwbFjAOIAfy6uYKsasZWTItDk.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1653801,
+				"name": "Sreejith Guruvayur",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1009971,
+				"name": "George Pius Tharayil",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3037050,
+				"name": "Akhilesh Mohan",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1757786,
+				"name": "Sinat Savier",
+				"job": "Still Photographer",
+				"department": "Camera"
+			},
+			{
+				"id": 85599,
+				"name": "Suresh Balaje",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1610622,
+				"name": "Sidhu Panakkal",
+				"job": "Production Controller",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1676471,
+				"name": "Sujith Sudhakaran",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 117690,
+				"name": "Prithviraj Sukumaran",
+				"profile_path": "/cU6b96SJmqRV9d4JjPXKeccw6U0.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1061905,
+				"name": "Murali Gopy",
+				"profile_path": "/nFt7DQiktygqPVyDupKSLmuBomU.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1643495,
+				"name": "M. R. Rajakrishnan",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3521822,
+				"name": "Praarthana Indrajith",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 3771640,
+				"name": "G. K. M. Tamil Kumaran",
+				"profile_path": "/oTuWEIQ4r4KE5BsN3S7Ekdv2eta.jpg",
+				"job": "Head of Production",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2270755,
+				"name": "Manoharan K Payyanur",
+				"job": "Finance",
+				"department": "Production"
+			},
+			{
+				"id": 1610614,
+				"name": "Sasidharan Kandanissery",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 1676464,
+				"name": "Saji C. Joseph",
+				"job": "Production Executive",
+				"department": "Production"
+			},
+			{
+				"id": 2458433,
+				"name": "Y.D. Manoj",
+				"job": "Sound Recordist",
+				"department": "Sound"
+			},
+			{
+				"id": 2254159,
+				"name": "Praveen Ghanta",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2270756,
+				"name": "Anand Rajendran",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2231144,
+				"name": "Sarmad Varraich",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3207281,
+				"name": "Sethu Adoor",
+				"job": "Production Executive",
+				"department": "Production"
+			},
+			{
+				"id": 3302060,
+				"name": "Vivek Anand",
+				"job": "Colorist",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1628470,
+				"name": "V.C. Praveen",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2111389,
+				"name": "Baiju Gopalan",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2489398,
+				"name": "Krishnamoorthy",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1504453,
+				"name": "Jakes Bejoy",
+				"profile_path": "/173WUCFwv0vcQySIoj6hASPOkI6.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3131729,
+				"name": "Job Kurian",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 1167753,
+				"name": "Gokulam Gopalan",
+				"profile_path": "/d2ZmCrzouBldcsBlC9f51giRSeG.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1244561,
+				"name": "Usha Uthup",
+				"profile_path": "/my2bXpLiJl3a3nmygIhnDulqqRf.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1676468,
+				"name": "Mohandas",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 230005,
+				"name": "Don Max",
+				"job": "Additional Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1720675,
+				"name": "Nirmal Sahadev",
+				"job": "Co-Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2343511,
+				"name": "Tanishk Nabar",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 2835302,
+				"name": "Anand Bhaskar",
+				"job": "Playback Singer",
+				"department": "Sound"
+			}
+		]
+	}
+}
