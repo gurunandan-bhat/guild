@@ -1,184 +1,200 @@
 {
-	"id": 1120762,
-	"title": "Robinhood",
+	"id": 242054,
+	"title": "The Residence",
+	"name": "The Residence",
 	"fcg_title": "The Residence",
-	"original_title": "రాబిన్ హుడ్",
-	"original_language": "te",
+	"original_language": "en",
 	"genres": [
 		{
-			"id": 28,
-			"name": "Action"
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 9648,
+			"name": "Mystery"
 		}
 	],
-	"overview": "Robinhood - #VN2 Mythri Movie Makers starring Nithiin as lead actor. Directed by Venky Kudmula, Music by GV Prakash Kumar, Produced by Naveen Yerneni \u0026 Y. Ravi Shankar under Mythri Movie Makers Banner.",
-	"poster_path": "/zeH5oAM1A3zgXbvQ3L9GiDs3ldQ.jpg",
-	"release_date": "2025-03-28",
+	"overview": "A brilliant, eccentric detective must solve a murder in the White House residence — where the staff and guests at a state dinner are all suspects.",
+	"backdrop_path": "/ycwQXWQry40VV12RDa3B4fF1yWB.jpg",
+	"poster_path": "/cJZbg425I9LF3SlJVQDOg4nJEvq.jpg",
 	"credits": {
 		"cast": [
 			{
-				"id": 1001828,
+				"id": 1332680,
 				"order": 0,
-				"name": "Nithiin",
-				"profile_path": "/dc3SkHyhZbWluuOlwmWICzR1QmA.jpg",
-				"character": "Ram/Robinhood",
-				"gender": 2
+				"name": "Uzo Aduba",
+				"profile_path": "/fbx20O4wyOHNYONFbFv2usaT3yO.jpg",
+				"character": "Cordelia Cupp",
+				"gender": 1
 			},
 			{
-				"id": 2476557,
+				"id": 4808,
 				"order": 1,
-				"name": "Sreeleela",
-				"profile_path": "/7K3R5ZFNNuHmkz9r0Wclp8PIikY.jpg",
-				"character": "Neera Vasudev",
-				"gender": 1
+				"name": "Giancarlo Esposito",
+				"profile_path": "/rcXnr82TwDzU4ZGdBeNXfG0ZQnZ.jpg",
+				"character": "A.B. Wynter",
+				"gender": 2
 			},
 			{
-				"id": 146147,
+				"id": 2062695,
 				"order": 2,
-				"name": "Vennela Kishore",
-				"profile_path": "/8a0mcxMPjD4KR15gyE5QmbDeTub.jpg",
-				"gender": 2
-			},
-			{
-				"id": 545595,
-				"order": 3,
-				"name": "Rajendra Prasad",
-				"profile_path": "/7gULhpyEXjh5D8D8FMkgo30H6vj.jpg",
-				"character": "Janardhan Sunnipenta / Agent John Snow",
-				"gender": 2
-			},
-			{
-				"id": 2994489,
-				"order": 4,
-				"name": "Ketika Sharma",
-				"profile_path": "/jLhFfV4q7HfYz9wkQUCx1JpI1Qf.jpg",
+				"name": "Molly Griggs",
+				"profile_path": "/a2Eze5oRLlfyTIpWSxvMbbVTjVm.jpg",
+				"character": "Lilly Schumacher",
 				"gender": 1
 			},
 			{
-				"id": 2563685,
+				"id": 77089,
+				"order": 3,
+				"name": "Ken Marino",
+				"profile_path": "/7MeXvFGhzBwDm6c7lvdalA3GJYM.jpg",
+				"character": "Harry Hollinger",
+				"gender": 2
+			},
+			{
+				"id": 79082,
+				"order": 4,
+				"name": "Randall Park",
+				"profile_path": "/5bDlNgwsSKAFjBdSWOwRzyMdJ0E.jpg",
+				"character": "Edwin Park",
+				"gender": 2
+			},
+			{
+				"id": 155228,
 				"order": 5,
-				"name": "David Warner"
+				"name": "Susan Kelechi Watson",
+				"profile_path": "/2hVnXxWj6j2R9edchIRsoSyxY5x.jpg",
+				"character": "Jasmine Haney",
+				"gender": 1
 			},
 			{
-				"id": 1296632,
+				"id": 17490,
 				"order": 6,
-				"name": "Shine Tom Chacko",
-				"profile_path": "/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg",
+				"name": "Isiah Whitlock, Jr.",
+				"profile_path": "/8OIhQb53rMX7VcTLZbAMeVd7tHc.jpg",
+				"character": "Larry Dokes",
 				"gender": 2
 			},
 			{
-				"id": 1332986,
+				"id": 1478382,
 				"order": 7,
-				"name": "Shiju",
-				"profile_path": "/nPF4lLVsdwGdgvIHIAxlTq3SeLQ.jpg",
+				"name": "Edwina Findley",
+				"profile_path": "/lWVNFL54v6H0rC8d6lUL6FAt4z8.jpg",
+				"character": "Sheila Cannon",
+				"gender": 1
+			},
+			{
+				"id": 11662,
+				"order": 8,
+				"name": "Jason Lee",
+				"profile_path": "/64tEXo3xR9IFXsIJKSlJ2LUrrEA.jpg",
+				"character": "Tripp Morgan",
 				"gender": 2
 			},
 			{
-				"id": 2506596,
-				"order": 8,
-				"name": "Devdatta Nage"
-			},
-			{
-				"id": 1663662,
+				"id": 1391125,
 				"order": 9,
-				"name": "Nathan Luke",
-				"profile_path": "/7sox2PWt7LYNuoiMzmRxo0wnZdu.jpg"
+				"name": "Al Mitchell",
+				"profile_path": "/126oqauePaHdnMObEVb02ounBbo.jpg",
+				"character": "Rollie Bridgewater",
+				"gender": 2
 			},
 			{
-				"id": 5332950,
+				"id": 1699223,
 				"order": 10,
-				"name": "Tia Hills-Edge",
-				"character": "Teacher"
+				"name": "Dan Perrault",
+				"profile_path": "/pVr6MffUwxBYv5XKLNAJdvRFa5A.jpg",
+				"character": "Colin Trask",
+				"gender": 2
 			},
 			{
-				"id": 4463617,
+				"id": 4689,
 				"order": 11,
-				"name": "Seb Muirhead",
-				"character": "Presenter"
+				"name": "Bronson Pinchot",
+				"profile_path": "/oBQE58X65ANq4jY1d8iMDohl72w.jpg",
+				"character": "Didier Gotthard",
+				"gender": 2
 			},
 			{
-				"id": 2944019,
+				"id": 1326228,
 				"order": 12,
-				"name": "Serkan Tokgoz",
-				"profile_path": "/q0yIpX2Z9WEYv6tMonnHtLsMSIQ.jpg",
-				"character": "News Presenter"
+				"name": "Julieth Restrepo",
+				"profile_path": "/3srRo6tFFStWmZRhCA12sJRCWfk.jpg",
+				"character": "Elsyie Chayle",
+				"gender": 1
 			},
 			{
-				"id": 4339959,
+				"id": 59675,
 				"order": 13,
-				"name": "Elijah",
-				"character": "Business Executive"
+				"name": "Mel Rodriguez",
+				"profile_path": "/wwvthcEDo6WHOHumcoh1tT1IaoB.jpg",
+				"character": "Bruce Geller",
+				"gender": 2
 			},
 			{
-				"id": 5332948,
+				"id": 1621502,
 				"order": 14,
-				"name": "Paul Premkumar",
-				"character": "Business executive attending conference"
+				"name": "Mary Wiseman",
+				"profile_path": "/85uKEsrzJ0pWMDKKwAQtYdMbnq4.jpg",
+				"character": "Marvella",
+				"gender": 1
 			}
 		],
 		"crew": [
 			{
-				"id": 1963839,
-				"name": "Venky Kudumula",
-				"job": "Director",
-				"department": "Directing"
+				"id": 25539,
+				"name": "Shonda Rhimes",
+				"profile_path": "/pIQbVxfjNwZ0DaAjo3q107nng1b.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
 			},
 			{
-				"id": 1963839,
-				"name": "Venky Kudumula",
-				"job": "Writer",
+				"id": 1752819,
+				"name": "Paul William Davies",
+				"profile_path": "/oUJinA4fPZvYqjdeeuVFKty4UkD.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 60189,
+				"name": "Betsy Beers",
+				"profile_path": "/cTbDGjBHo6TGNTmCIdFDaeCJJa2.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 4443075,
+				"name": "Kate Andersen Brower",
+				"job": "Book",
 				"department": "Writing"
 			},
 			{
-				"id": 584950,
-				"name": "G. V. Prakash Kumar",
-				"profile_path": "/ArX3l6CdNo0sGI8b6PFYveR9Azm.jpg",
-				"job": "Original Music Composer",
-				"department": "Sound",
-				"gender": 2
-			},
-			{
-				"id": 1901425,
-				"name": "Sai Sriram",
-				"job": "Director of Photography",
-				"department": "Camera",
-				"gender": 2
-			},
-			{
-				"id": 2112008,
-				"name": "Raam Kumar",
+				"id": 39923,
+				"name": "François Audouy",
+				"profile_path": "/e73PXOVf3T89bCaXBNiAAgAw31g.jpg",
 				"job": "Production Design",
 				"department": "Art",
 				"gender": 2
 			},
 			{
-				"id": 1504441,
-				"name": "Prawin Pudi",
-				"job": "Editor",
-				"department": "Editing",
-				"gender": 2
+				"id": 1352958,
+				"name": "A. Todd Holland",
+				"job": "Supervising Art Director",
+				"department": "Art"
 			},
 			{
-				"id": 1671522,
-				"name": "Gopi Prasannaa",
-				"profile_path": "/39FBMhYFkWCyz5akFJoOTWgDQi9.jpg",
-				"job": "Publicist",
-				"department": "Production",
-				"gender": 2
-			},
-			{
-				"id": 1648660,
-				"name": "Naveen Yerneni",
-				"job": "Producer",
-				"department": "Production",
-				"gender": 2
-			},
-			{
-				"id": 1648659,
-				"name": "Y. Ravi Shankar",
-				"profile_path": "/stZ6Fzi96nUlWyomx7hhXcqBQiX.jpg",
-				"job": "Producer",
-				"department": "Production",
-				"gender": 2
+				"id": 3493397,
+				"name": "Elsa Mayuri",
+				"job": "Set Designer",
+				"department": "Art",
+				"gender": 1
 			}
 		]
 	}
