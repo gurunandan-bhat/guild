@@ -32,7 +32,7 @@
                             <div class="col-lg-6 my-3">
                                 <div>
                                     {{ $scoreImg := partial "fcg-rating.html" (dict "title" .LinkTitle "size" "small") }}
-                                    {{ partial "short-meta.html" (dict "context" . "type" "full" "scoreImg" $scoreImg "showCast" true) }}
+                                    {{ partial "short-meta.html" (dict "review" . "type" "full" "scoreImg" $scoreImg "showCast" true) }}
                                 </div>
                                 {{ $reviews := first 3 (sort (where .Site.RegularPages ".LinkTitle" .LinkTitle) ".Date" "desc") }}
                                 {{ $accordionID := printf "%s-%s" "accordion" (replace (index $reviews 0).Title " " "-") }}

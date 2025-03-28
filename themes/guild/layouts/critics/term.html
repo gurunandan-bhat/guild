@@ -122,7 +122,7 @@
                 {{ range $reviews }}
                     <div class="col me-1" style="background-color: #ebe4ed;">
                         {{ $scoreImg := partial "fcg-rating.html" (dict "title" .LinkTitle "size" "medium") }}
-                        {{ partial "short-meta.html" (dict "context" . "type" "short" "scoreImg" $scoreImg) }}
+                        {{ partial "short-meta.html" (dict "review" . "type" "short" "scoreImg" $scoreImg) }}
                     </div>
                 {{ end }}
             </div>
