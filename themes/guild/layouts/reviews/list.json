@@ -1,1 +1,7 @@
-{{ .Pages | jsonify }}
+{{ $reviews := slice }}
+{{ range .Pages }}
+    {{ $pageMap := (jsonify . ) | transform.Unmarshal }}
+    {{ $pageMap = merge $pageMap (dict "Params" .Params "Summary" .Summary "Content" .RawContent) }}
+    {{ $reviews = append $pageMap $reviews }}
+{{ end }}
+{{ $reviews | jsonify }}
