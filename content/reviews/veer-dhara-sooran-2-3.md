@@ -1,8 +1,8 @@
 +++
-title = "Veer Dhara Sooran 2"
+title = "Veera Dheera Sooran 2"
 date = 2025-03-28T19:49:55+05:30
 draft = false
-mreviews = ["Veer Dhara Sooran 2"]
+mreviews = ["Veera Dheera Sooran 2"]
 critics = ['Subha J. Rao']
 publication = 'OTT Play'
 subtitle = "The Return Of The Vikram Everyone Loves"

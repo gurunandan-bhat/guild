@@ -1,8 +1,8 @@
 +++
-title = "Veer Dhara Sooran 2"
+title = "Veera Dheera Sooran 2"
 date = 2025-03-28T19:47:35+05:30
 draft = false
-mreviews = ["Veer Dhara Sooran 2"]
+mreviews = ["Veera Dheera Sooran 2"]
 critics = ['Avinash Ramachandran']
 publication = ''
 subtitle = "A terrific Vikram anchors a gritty actioner that walks the tightrope between realistic and masala elements"
