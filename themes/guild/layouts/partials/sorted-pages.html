@@ -12,7 +12,6 @@
 {{ end }}
 {{ $sorted := slice }}
 {{ range sort $keys }}
-    <pre>{{ debug.Dump . }}</pre>
     {{ $sorted = append $sorted (index $scoredIndexes .) }}
 {{ end }}
 {{ return $sorted }}

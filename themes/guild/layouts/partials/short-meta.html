@@ -6,10 +6,10 @@
 {{ $languages := site.Data.languages.languages }}
 {{ $reviewHref := partial "taxonomy/mreviews/reviewLink-raw.html" $review.LinkTitle }}
 
+{{ $imgLink := partial "backdrop.html" $review }}
+<img src="{{ $imgLink }}" class="img-fluid w-100" />
 {{ with partialCached "tmdb-meta.html" $review.Title $review.Title }}
     {{ $language := index $languages .original_language }}
-    {{ $imgLink := partial "backdrop.html" $review }}
-    <img src="{{ $imgLink }}" class="img-fluid w-100" />
     {{ $genreList := slice }}
     {{ range .genres }}
         {{ $genreList = append .name $genreList }}
