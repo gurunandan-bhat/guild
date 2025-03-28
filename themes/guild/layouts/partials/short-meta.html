@@ -7,8 +7,8 @@
 {{ $reviewHref := partial "taxonomy/mreviews/reviewLink-raw.html" $review.LinkTitle }}
 
 {{ $imgLink := partial "backdrop.html" $review }}
-<img src="{{ $imgLink }}" class="img-fluid w-100" />
 {{ with partialCached "tmdb-meta.html" $review.Title $review.Title }}
+    <img src="{{ $imgLink }}" class="img-fluid w-100" />
     {{ $language := index $languages .original_language }}
     {{ $genreList := slice }}
     {{ range .genres }}

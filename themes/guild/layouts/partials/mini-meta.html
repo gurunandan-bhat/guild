@@ -4,8 +4,8 @@
 {{ $languages := site.Data.languages.languages }}
 {{ $reviewLink := partial "taxonomy/mreviews/reviewLink-raw.html" $page.LinkTitle }}
 {{ $imgLink := partial "backdrop.html" $page }}
-<img src="{{ $imgLink }}" class="img-fluid w-100" />
 {{ with partialCached "tmdb-meta.html" $page.Title $page.Title }}
+    <img src="{{ $imgLink }}" class="img-fluid w-100" />
     {{ $language := index $languages .original_language }}
     {{ $genreList := slice }}
     {{ range .genres }}
