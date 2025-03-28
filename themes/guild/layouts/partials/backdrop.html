@@ -1,0 +1,22 @@
+{{ $review := . }}
+{{ $imgLink := "" }}
+{{ with partialCached "tmdb-meta.html" $review.Title $review.Title }}
+    {{ with resources.Get (printf "meta/backdrops%s" .backdrop_path) }}
+        {{ $imgLink = .RelPermalink }}
+    {{ else }}
+        {{ with $review.Params.img }}
+            {{ with partial "scaledImage" (printf "images/reviews/%s" .) }}
+                {{ $imgLink = .RelPermalink }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+{{ else }}
+    {{ with $review.Params.img }}
+        {{ with partial "scaledImage" (printf "images/reviews/%s" .) }}
+            {{ $imgLink = .RelPermalink }}
+        {{ end }}
+    {{ else }}
+        {{ $imgLink = (printf "https://img.youtube.com/vi/%s/mqdefault.jpg" $review.Params.source) | safeHTML }}
+    {{ end }}
+{{ end }}
+{{ return $imgLink }}

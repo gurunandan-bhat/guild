@@ -5,19 +5,12 @@
         {{ $map := dict }}
         {{ with index $value 0 }}
             {{ $mLink := (index (where $.Pages "LinkTitle" .LinkTitle) 0).RelPermalink }}
-            {{ $img := "" }}
-            {{ if (isset .Page.Params "img") }}
-                {{ with partial "scaledImage" (printf "%s/%s" "images/reviews/" .Page.Params.img) }}
-                    {{ $img = .RelPermalink | safeHTML }}
-                {{ end }}
-            {{ else }}
-                {{ $img = (printf "https://img.youtube.com/vi/%s/mqdefault.jpg" .Page.Params.source) | safeHTML }}
-            {{ end }}
+            {{ $imgLink := partial "backdrop.html" . }}
             {{ $title := index .Page.Params.mreviews 0 }}
             {{ with .Page.Params.translatedTitle }}
                 {{ $title = printf "%s (%s)" $title . }}
             {{ end }}
-            {{ $map = merge $map (dict "title" $title "img" $img "link" $mLink "count" $revCount) }}
+            {{ $map = merge $map (dict "title" $title "img" $imgLink "link" $mLink "count" $revCount) }}
         {{ end }}
         {{ $reviewers := slice }}
         {{ range $value }}
@@ -70,10 +63,7 @@
                             <h6>
                                 <a href="{{ index . "link" }}"
                                     >{{ index . "title" }}
-                                    <span class="inline-block px-1"
-                                        >{{ index site.Data.svgicons.icons "internalLink" | safeHTML }}</span
-                                    ></a
-                                >
+                                </a>
                             </h6>
                             {{ with (index . "count") }}
                                 <p class="small fw-bold">
