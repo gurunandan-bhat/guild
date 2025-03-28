@@ -17,4 +17,5 @@ critic  = 'critics'
 mreview = 'mreviews'
 
 [outputs]
-taxonomy = ['json']
+taxonomy = ['json', 'html']
+term     = ['json', 'html']
