@@ -10,7 +10,10 @@
             {{ with .Params.publication }}(written for {{ . }}){{ end }}
         </h6>
         {{ with partial "scaledImage" (printf "%s/%s" site.Params.images.reviews .Params.img) }}
-            <img src="{{ .RelPermalink }}" class="img-responsive w-100 mb-3" />
+            <img
+                src="{{ .RelPermalink }}"
+                class="img-responsive w-100 mb-3"
+                alt="Image of scene from the film {{ $.Title }}" />
         {{ end }}
         <h6 class="fw-bold small pb-2">
             {{ .Params.subtitle | safeHTML }}

@@ -22,7 +22,8 @@
                                 {{ with resources.Get $criticPage.Params.img }}
                                     <img
                                         src="{{ .RelPermalink }}"
-                                        class="img-fluid" />
+                                        class="img-fluid"
+                                        alt="FCG Member Reviewer {{ $criticPage.Title }}" />
                                 {{ end }}
                                 <p class="small">
                                     {{ (delimit (first 18 (split $criticPage.Summary " ")) " ") | safeHTML }}

@@ -9,6 +9,7 @@
             <img
                 src="{{ (.Resize "60x").RelPermalink }}"
                 class="float-start rounded-circle me-2 mt-1"
+                alt="FCG Member Reviewer {{ $critic }}"
                 style="height:100%;" />
             {{ $reviewsPageLink := index site.Taxonomies.critics (lower $critic) }}
             <div>

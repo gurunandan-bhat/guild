@@ -6,7 +6,10 @@
     {{ $img := resources.Get .Params.img }}
     {{ $img = $img.Resize "50x" }}
     <div class="clearfix mb-2">
-        <img src="{{ $img.RelPermalink }}" class="rounded-circle float-start" />
+        <img
+            src="{{ $img.RelPermalink }}"
+            class="rounded-circle float-start"
+            alt="FCG Member Reviewer {{ $name }}" />
         <div style="padding-left: 62px;">
             <div class="author">
                 <a href="{{ $reviewLink }}">{{ .Params.title }}</a> |

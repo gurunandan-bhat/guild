@@ -5,7 +5,10 @@
 {{ $reviewLink := partial "taxonomy/mreviews/reviewLink-raw.html" $page.LinkTitle }}
 {{ $imgLink := partial "backdrop.html" $page }}
 {{ with partialCached "tmdb-meta.html" $page.Title $page.Title }}
-    <img src="{{ $imgLink }}" class="img-fluid w-100" />
+    <img
+        src="{{ $imgLink }}"
+        class="img-fluid w-100"
+        alt="Image of scene from the film {{ .title }}" />
     {{ $language := index $languages .original_language }}
     {{ $genreList := slice }}
     {{ range .genres }}
@@ -51,7 +54,10 @@
 {{ else }}
     {{ with $page.Params.img }}
         {{ with partial "scaledImage" (printf "images/reviews/%s" .) }}
-            <img src="{{ .RelPermalink }}" class="img-fluid w-100" />
+            <img
+                src="{{ .RelPermalink }}"
+                class="img-fluid w-100"
+                alt="Image of scene from the film {{ $page.Title }}" />
         {{ end }}
         <div class="latest">
             <h6>

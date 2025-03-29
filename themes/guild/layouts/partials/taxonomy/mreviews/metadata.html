@@ -54,7 +54,10 @@
 <div class="container">
     <div class="row mb-5">
         <div class="col-lg-4 offset-lg-1">
-            <img src="{{ $imgLink }}" class="img-fluid w-100" />
+            <img
+                src="{{ $imgLink }}"
+                class="img-fluid w-100"
+                alt="Poster of the film {{ $fullTitle }}" />
         </div>
         <div class="col-lg-6 table-custom border border-2">
             <h1 class="meta-title">
@@ -111,7 +114,10 @@
                 </div>
                 <div class="col-lg-4">
                     {{ with $scoreImg }}
-                        <img src="{{ . }}" class="img-fluid w-100" />
+                        <img
+                            src="{{ . }}"
+                            class="img-fluid w-100"
+                            alt="FCG Score for the film {{ $fullTitle }}" />
                     {{ end }}
                 </div>
             </div>

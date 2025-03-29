@@ -27,10 +27,12 @@
                         <div class="col-lg-4 offset-lg-1">
                             {{ $imgPath := printf "images/reviews/%s" .Params.img }}
                             {{ $img := resources.Get $imgPath }}
+                            {{ $title := .Title }}
                             {{ with $img }}
                                 <img
                                     src="{{ .RelPermalink }}"
-                                    class="img-fluid w-100 review-image" />
+                                    class="img-fluid w-100 review-image"
+                                    alt="Image of scene from the film {{ $title }}" />
                             {{ end }}
                         </div>
                         <div class="col-lg-6">
