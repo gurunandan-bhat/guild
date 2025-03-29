@@ -1,8 +1,8 @@
 +++
-title = "Daredevil Born Again"
+title = "Daredevil: Born Again"
 date = 2025-03-05T20:13:32+05:30
 draft = false
-mreviews = ["Daredevil Born Again"]
+mreviews = ["Daredevil: Born Again"]
 critics = ['Sonal Pandya']
 publication = ''
 subtitle = "Charlie Cox, Vincent D'Onofrio Reignite Steely Rivalry In Thrilling, Gritty Revival Series"
