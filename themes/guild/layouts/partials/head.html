@@ -1,18 +1,22 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width" />
-<title>
-    {{ if .IsHome }}
-        {{ site.Title }}
-    {{- else if eq .Kind "term" }}
-        {{ if eq .Type "critics" }}
-            {{- printf "All Reviews by FCG Member %s" .LinkTitle }}
-        {{- else if eq .Type "mreviews" }}
-            {{- printf "All FCG Reviews of %s" .LinkTitle }}
-        {{- end }}
-    {{- else if eq .Kind "taxonomy" }}
-        Alphabetical Index of Every Film Reviewed by FCG members
-    {{- else }}
-        {{- printf "%s | %s" .Title site.Title }}
+{{ $title := site.Title }}
+{{ $description := "Film Reviews and Ratings by members of the Film Critics Guild India." }}
+{{- if eq .Kind "term" }}
+    {{ if eq .Type "critics" }}
+        {{- $title = printf "All Reviews by Film Critics Guild (FCG) Member %s" .LinkTitle }}
+    {{- else if eq .Type "mreviews" }}
+        {{- $title = printf "All FCG Reviews of %s by its Member Critics" .LinkTitle }}
     {{- end }}
-</title>
+{{- else if eq .Kind "taxonomy" }}
+    {{ if eq .Section "mreviews" }}
+        {{ $title = "Alphabetical Index of Every Film Reviewed by Film Critics Guild (FCG) members" }}
+    {{ else if eq .Section "critics" }}
+        {{ $title = "Alphabetical Index of All Film Critics Guild Member Reviewers" }}
+    {{ end }}
+{{- else }}
+    {{- printf "%s | %s" .Title site.Title }}
+{{- end }}
+<title>{{ $title }}</title>
+<meta name="description" content="{{ $title }}" />
 {{ partialCached "head/css.html" . }}
