@@ -1,35 +1,80 @@
 {{ define "main" }}
+    {{ $maxSummary := 24 }}
     <div class="container">
         <div class="row" style="margin-top: 80px;">
             <div class="col-lg-10 offset-lg-1">
-                <h2 class="fw-bold mb-5">Our Critics</h2>
-                {{ .Content }}
+                <h2 class="fw-bold mb-5">Our Board</h2>
                 <div class="row">
-                    {{ range sort .Pages ".LinkTitle" }}
-                        {{ $criticPage := index (where .Site.RegularPages ".Title" .Title) 0 }}
+                    {{ range where (where site.RegularPages ".Type" "guild") ".Params.board" true }}
+                        {{ $criticPage := index (where $.Pages ".LinkTitle" .LinkTitle) 0 }}
                         <div class="col-md-3 mb-3">
                             <div class="latest">
                                 <h6>
-                                    <a href="{{ .RelPermalink }}"
+                                    <a href="{{ $criticPage.RelPermalink }}"
                                         >{{ .LinkTitle }}</a
                                     >
                                 </h6>
                                 <p>
-                                    {{ with $criticPage.Params.organizations }}
+                                    {{ with .Params.organizations }}
+                                        {{ delimit . "<br />" | safeHTML }}
+                                    {{ end }}
+                                </p>
+                                {{ with resources.Get .Params.img }}
+                                    <img
+                                        src="{{ .RelPermalink }}"
+                                        class="img-fluid"
+                                        alt="FCG Member Reviewer {{ .Title }}" />
+                                {{ end }}
+                                <p class="small">
+                                    {{ $fullLength := (split .Summary " ") | len }}
+                                    {{ $length := math.Min $fullLength $maxSummary }}
+                                    {{ (delimit (first $length (split .Summary " ")) " ") | safeHTML }}
+                                    <a href="{{ $criticPage.RelPermalink }}"
+                                        >(more &hellip;)</a
+                                    >
+                                </p>
+                            </div>
+                        </div>
+                    {{ end }}
+                </div>
+                <div class="row">
+                    <h2 class="fw-bold my-5">Members</h2>
+                    {{ range where (where site.RegularPages ".Type" "guild") ".Params.board" false }}
+                        {{ $criticPage := index (where $.Pages ".LinkTitle" .LinkTitle) 0 }}
+                        <div class="col-md-3 mb-3">
+                            <div class="latest">
+                                <h6>
+                                    {{ with $criticPage }}
+                                        <a href="{{ $criticPage.RelPermalink }}"
+                                            >{{ .LinkTitle }}</a
+                                        >
+                                    {{ else }}
+                                        {{ .LinkTitle }}
+                                    {{ end }}
+                                </h6>
+                                <p>
+                                    {{ with .Params.organizations }}
                                         {{ index . 0 }}
                                     {{ end }}
                                 </p>
-                                {{ with resources.Get $criticPage.Params.img }}
+                                {{ with resources.Get .Params.img }}
                                     <img
                                         src="{{ .RelPermalink }}"
                                         class="img-fluid"
                                         alt="FCG Member Reviewer {{ $criticPage.Title }}" />
                                 {{ end }}
                                 <p class="small">
-                                    {{ (delimit (first 18 (split $criticPage.Summary " ")) " ") | safeHTML }}
-                                    <a href="{{ .RelPermalink }}"
-                                        >(more &hellip;)</a
-                                    >
+                                    {{ $summary := .Summary }}
+                                    {{ $fullLength := (split $summary " ") | len }}
+                                    {{ $length := math.Min $fullLength $maxSummary }}
+                                    {{ with $criticPage }}
+                                        {{ (delimit (first $length (split $summary " ")) " ") | safeHTML }}
+                                        <a href="{{ $criticPage.RelPermalink }}"
+                                            >(more &hellip;)</a
+                                        >
+                                    {{ else }}
+                                        {{ $summary }}
+                                    {{ end }}
                                 </p>
                             </div>
                         </div>
