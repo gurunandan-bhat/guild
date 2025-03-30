@@ -94,6 +94,13 @@
                                                 </h2>
                                                 <div class="mb-4">
                                                     {{ partial "reviewer.html" (dict "reviewer" (index .Params.critics 0 ) "date" (.Date | time.Format ":date_long")) }}
+                                                    {{ with .Params.publication }}
+                                                        <p
+                                                            class="pub-date mb-1">
+                                                            (For {{ . }})
+                                                        </p>
+                                                    {{ end }}
+
                                                 </div>
                                                 <div>
                                                     {{ .Summary }}

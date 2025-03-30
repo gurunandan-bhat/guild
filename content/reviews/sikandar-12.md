@@ -4,6 +4,7 @@ date = 2025-03-30T18:20:48+05:30
 draft = false
 mreviews = ['Sikandar']
 critics = ['Rohit Khilnani']
+publication = 'Watch RK'
 subtitle = 'A Huge Disappointment'
 media = 'video'
 source = 'JTJ8P4MEalw'
