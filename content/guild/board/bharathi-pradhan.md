@@ -1,7 +1,7 @@
 +++
 date = 2024-09-25T12:19:31.451529+05:30
 draft = false
-weight = 4
+weight = 3
 title = 'Bharathi Pradhan'
 organizations = ['Lehren.com', 'Treasurer FCG']
 img = '/images/members/Bharathi Pradhan.png'
