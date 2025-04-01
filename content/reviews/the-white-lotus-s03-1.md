@@ -1,15 +1,16 @@
 +++
 title = "The White Lotus S03"
-date = 2025-02-13T14:13:56+05:30
+date = 2025-03-31T15:11:58+05:30
 draft = false
 mreviews = ["The White Lotus S03"]
-critics = ['Sonal Pandya']
+critics = ['Nonika Singh']
 publication = ''
-subtitle = "Star-Studded Anthology Series Returns With Slow-Moving Vacation Mystery"
-opening = "Created by Mike White, the HBO series is back with new guests and conflicts but the same divide between individuals."
-img = 'the-white-lotus-s03-1.webp'
+subtitle = "Super rich & a wealth of superficiality"
+opening = ""
+img = 'white-lotus-s03-1.jpeg'
 media = 'print'
-source = "https://www.timesnownews.com/entertainment-news/reviews/the-white-lotus-season-3-star-studded-anthology-series-returns-with-slow-moving-vacation-mystery-review-118176783"
+source = "https://www.tribuneindia.com/news/movie-review/super-rich-a-wealth-of-superficiality/"
+score = 6
 +++
 
-The White Lotus Season 3 returns after two years with a new group of guests that converge at a luxury resort for a getaway. Of course, their stay is eventful as the looming murder of one of the group is hinted at from the start. Mike White's Emmy Award-winning series moves to Asia for the latest installment as Thailand is the setting for this story. Even though White's narrative moves along glacially, there is enough to keep viewers intrigued. This year's guests include a trio of best friends, played by Leslie Bibb, Carrie Coon, and Michelle Monaghan; a rich white family led by actors Jason Isaacs and Parker Posey; and a mismatched couple, both in age and temperament, played by Walter Goggins and Aimee Lou Wood. The only familiar face for viewers is spa worker Belinda (Natasha Rothwell), who was present in the first season. With each day, White shows another facet of their complicated relationships with one another as well as their hopes for the future. But which one of these guests is the fallen victim? Mike White is once again the creative force behind this season, which focuses more on individual characters than on an overall arc. The Western guests' storylines have more prominence this time. However, the narratives for the Thai staff, security guard Gaitok (Tayme Thapthimthong) and hotel worker Mook (Blackpink's Lisa), are promising. Lek Patravadi also stands out as resort owner Sritala. However, so far, without giving away too many spoilers, most of the characters are circling around one another, hiding away true motives. It's the same story structure as previous seasons, like some of the guests being resistant to wellness programs, just in a new aesthetic setting.
+Lust and pleasure, pain and meditation, West and East… can all these inhabit the same space? Well, in Mike White’s third season of ‘The White Lotus’, they do. Those familiar with his award-winning franchise and template are well aware that ‘White Lotus’ is a chain of luxury resorts where the super rich vacay in their quest for the elusive happiness. In the third season, the setting is Thailand, perhaps the perfect place to train the camera on the beauteous and to ask some existential questions too. There are many strands in the story… a seemingly perfect family of five, three childhood friends reuniting, an ageing balding man with a young woman and yet another couple of a similar variant. What they are seeking in this mental wellness resort depends entirely on how you see them and how they see themselves. Rick Hatchett (Walton Goggins) is catching up with his unburied traumas of the past, young daughter Piper Ratliff (Sarah Catherine) of the seemingly perfect affluent Ratliff family is here to find purpose in Buddhism. Her sex-obsessed brother Saxon Ratliff (Patrick Schwarzenegger) is only looking for bodily fulfilment. Where this pursuit will take him is the most revelatory and shocking part of the series and is certainly meant to rattle.
