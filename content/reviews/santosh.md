@@ -9,6 +9,7 @@ opening = "It comes with a grim reality check"
 img = 'santosh.webp'
 media = 'print'
 source = "https://in.mashable.com/entertainment/84110/santosh-review-shahana-goswamis-film-is-one-of-the-finest-police-dramas"
+score = 8
 +++
 
 Santosh which has been making rounds in the top film festivals including Cannes is by the British-Indian director Sandhya Suri. Focusing on the state of rural India through the eyes of a young femal cop, the film is is Suri's first fiction feature, which can be seen in its rawness and sincerity. The film is led by Shahana Goswami and Sunita Rajwar as cops on the other side of the law, and their performances are unforgettable.
