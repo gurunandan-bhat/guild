@@ -25,6 +25,7 @@
                 {{ if eq .Params.media "print" }}
                     <div class="row mb-3">
                         <div class="col-lg-4 offset-lg-1">
+                            {{ printf "<!-- Path:  %s -->" .Page | safeHTML }}
                             {{ $imgPath := printf "images/reviews/%s" .Params.img }}
                             {{ $img := resources.Get $imgPath }}
                             {{ $title := .Title }}
