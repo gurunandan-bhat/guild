@@ -1,0 +1,62 @@
+{
+	"id": 240518,
+	"name": "Chamak",
+	"fcg_title": "Chamak",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Kaala - an aspirational rapper from Canada who flees back to Punjab, learns about the mysterious murder of his father and iconic singer Taara Singh. The story unfolds the dark side of music industry's glamour, politics and more.",
+	"backdrop_path": "/uHTydZL5hbarh15ks1MEz09GGsQ.jpg",
+	"poster_path": "/1my3D4xHvfw89YCK06JR0Hqoczr.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 3272070,
+				"order": 0,
+				"name": "Paramvir Singh Cheema",
+				"profile_path": "/s22Tv1fgJUJlngZtDc3hfjJ2rcg.jpg",
+				"character": "Kaala"
+			},
+			{
+				"id": 1071562,
+				"order": 2,
+				"name": "Isha Talwar",
+				"profile_path": "/dVRrb9aLf6s1XmtIkpSbzuMl0Uv.jpg",
+				"character": "Jazz / Jasmine",
+				"gender": 1
+			},
+			{
+				"id": 85874,
+				"order": 3,
+				"name": "Manoj Pahwa",
+				"profile_path": "/p7sufhnro3CM04au3L4KubTx43B.jpg",
+				"character": "Pratap Deol",
+				"gender": 2
+			},
+			{
+				"id": 3583080,
+				"order": 6,
+				"name": "Mohit Malik",
+				"profile_path": "/kzjU6RtL3S0HtvIE0VUhvLzSZDu.jpg",
+				"character": "Guru Deol"
+			}
+		],
+		"crew": [
+			{
+				"id": 1312905,
+				"name": "Rohit Jugraj",
+				"profile_path": "/ikNGFyFEtqEQdhSi6O1JSJbQkyR.jpg",
+				"job": "Director",
+				"department": "Directing"
+			}
+		]
+	}
+}
