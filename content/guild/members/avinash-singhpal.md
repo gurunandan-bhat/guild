@@ -3,7 +3,7 @@ date = 2024-09-25T12:19:31.451369+05:30
 draft = false
 weight = 100
 title = 'Avinash Singh Pal'
-organizations = ['Bollywood Bubble']
+organizations = ['Galatta, India']
 img = '/images/members/Avinash Singh Pal.png'
 
 [soc_media]
