@@ -1,4 +1,4 @@
 {{- $page := . }}
 {{- $pageMap := (jsonify . ) | transform.Unmarshal }}
-{{- $pageMap = merge $pageMap (dict "Params" $page.Params "Summary" $page.Summary "Content" $page.RawContent) }}
+{{- $pageMap = merge $pageMap (dict "Params" $page.Params "Summary" $page.Summary "Content" $page.RawContent "RelPermalink" .RelPermalink) }}
 {{- jsonify $pageMap }}
