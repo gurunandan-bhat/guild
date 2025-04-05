@@ -9,4 +9,4 @@ subtitle = "Anupama Chopra on CTRL"
 media = 'video'
 +++
 
-{{< youtube id="bJ1mtN8OO8I" >}}
+{{< youtube id="bJ1mtN8OO8I" loading="lazy" >}}

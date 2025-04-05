@@ -9,4 +9,4 @@ subtitle = 'More Than Just Another Wedding Film?'
 media = 'video'
 +++
 
-{{< youtube id="7Xr7PqWc8-Y" >}}
+{{< youtube id="7Xr7PqWc8-Y" loading="lazy" >}}

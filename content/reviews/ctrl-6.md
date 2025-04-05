@@ -9,4 +9,4 @@ media = 'video'
 score = 6
 +++
 
-{{< youtube id="I6B78NkSPNo" >}}
+{{< youtube id="I6B78NkSPNo" loading="lazy" >}}

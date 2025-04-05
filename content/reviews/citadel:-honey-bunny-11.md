@@ -10,4 +10,4 @@ source = 'qbpSsRMqZXg'
 score = 6
 +++
 
-{{< youtube id="qbpSsRMqZXg" >}}
+{{< youtube id="qbpSsRMqZXg" loading="lazy" >}}

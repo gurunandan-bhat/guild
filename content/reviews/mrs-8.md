@@ -10,4 +10,4 @@ source = 'Gnc-gMk27Rc'
 score = 5
 +++
 
-{{< youtube id="Gnc-gMk27Rc" >}}
+{{< youtube id="Gnc-gMk27Rc" loading="lazy" >}}
