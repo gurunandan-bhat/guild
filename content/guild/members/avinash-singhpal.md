@@ -12,4 +12,4 @@ instagram = 'https://www.instagram.com/itzmeavinash/'
 twitter = 'https://twitter.com/itzmeavinash1'
 +++
 
-Avinash Singh Pal has been in the media world for almost a decade. He is presently working as Senior Correspondent at Bollywood Bubble. Previously he has worked for Amar Ujala, Dainik Bhaskar and Hindustan and also been a news anchor and radio jockey in the past.
+Avinash Singh Pal has been in the media world for almost a decade. He is presently working as Senior Correspondent at Galatta, India. Previously he has worked for Amar Ujala, Dainik Bhaskar, Bollywood Bubble and Hindustan and also been a news anchor and radio jockey in the past.
