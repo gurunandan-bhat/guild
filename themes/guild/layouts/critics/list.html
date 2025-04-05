@@ -10,9 +10,13 @@
                         <div class="col-md-3 mb-3">
                             <div class="latest">
                                 <h6>
-                                    <a href="{{ $criticPage.RelPermalink }}"
-                                        >{{ .LinkTitle }}</a
-                                    >
+                                    {{ with $criticPage }}
+                                        <a href="{{ $criticPage.RelPermalink }}"
+                                            >{{ .LinkTitle }}</a
+                                        >
+                                    {{ else }}
+                                        {{ .LinkTitle }}
+                                    {{ end }}
                                 </h6>
                                 <p>
                                     {{ with .Params.organizations }}
@@ -26,12 +30,17 @@
                                         alt="FCG Member Reviewer {{ .Title }}" />
                                 {{ end }}
                                 <p class="small">
-                                    {{ $fullLength := (split .Summary " ") | len }}
+                                    {{ $summary := .Summary }}
+                                    {{ $fullLength := (split $summary " ") | len }}
                                     {{ $length := math.Min $fullLength $maxSummary }}
-                                    {{ (delimit (first $length (split .Summary " ")) " ") | safeHTML }}
-                                    <a href="{{ $criticPage.RelPermalink }}"
-                                        >(more &hellip;)</a
-                                    >
+                                    {{ with $criticPage }}
+                                        {{ (delimit (first $length (split $summary " ")) " ") | safeHTML }}
+                                        <a href="{{ $criticPage.RelPermalink }}"
+                                            >(more &hellip;)</a
+                                        >
+                                    {{ else }}
+                                        {{ $summary }}
+                                    {{ end }}
                                 </p>
                             </div>
                         </div>
