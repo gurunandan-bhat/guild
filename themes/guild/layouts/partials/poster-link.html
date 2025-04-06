@@ -5,7 +5,9 @@
     {{ with .poster_path }}
         {{ $posterPath := printf "meta/posters%s" . }}
         {{ with resources.Get $posterPath }}
-            {{ $posterLink = .RelPermalink }}
+            {{ with .Process "webp" }}
+                {{ $posterLink = .RelPermalink }}
+            {{ end }}
         {{ else }}
             {{ warnf "Poster %s not found for film %s" $posterPath $title }}
         {{ end }}

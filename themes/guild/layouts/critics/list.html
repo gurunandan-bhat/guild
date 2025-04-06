@@ -24,10 +24,12 @@
                                     {{ end }}
                                 </p>
                                 {{ with resources.Get .Params.img }}
-                                    <img
-                                        src="{{ .RelPermalink }}"
-                                        class="img-fluid"
-                                        alt="FCG Member Reviewer {{ .Title }}" />
+                                    {{ with .Process "webp" }}
+                                        <img
+                                            src="{{ .RelPermalink }}"
+                                            class="img-fluid"
+                                            alt="FCG Member Reviewer {{ .Title }}" />
+                                    {{ end }}
                                 {{ end }}
                                 <p class="small">
                                     {{ $summary := .Summary }}
@@ -67,10 +69,12 @@
                                     {{ end }}
                                 </p>
                                 {{ with resources.Get .Params.img }}
-                                    <img
-                                        src="{{ .RelPermalink }}"
-                                        class="img-fluid"
-                                        alt="FCG Member Reviewer {{ $criticPage.Title }}" />
+                                    {{ with .Process "webp" }}
+                                        <img
+                                            src="{{ .RelPermalink }}"
+                                            class="img-fluid"
+                                            alt="FCG Member Reviewer {{ $criticPage.Title }}" />
+                                    {{ end }}
                                 {{ end }}
                                 <p class="small">
                                     {{ $summary := .Summary }}

@@ -4,7 +4,9 @@
 {{ $imgLink := "" }}
 {{ with $metadata.poster_path }}
     {{ with resources.Get (printf "meta/posters%s" .) }}
-        {{ $imgLink = .RelPermalink }}
+        {{ with .Process "webp" }}
+            {{ $imgLink = .RelPermalink }}
+        {{ end }}
     {{ else }}
         {{ warnf "image not found for %s" $metadata.title }}
     {{ end }}

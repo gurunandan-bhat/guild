@@ -6,11 +6,13 @@
     {{ $criticPage := index (where (where site.RegularPages ".Type" "guild") ".Title" $critic) 0 }}
     {{ with resources.Get $criticPage.Params.img }}
         <div class="clearfix small d-flex">
-            <img
-                src="{{ (.Resize "60x").RelPermalink }}"
-                class="float-start rounded-circle me-2 mt-1"
-                alt="FCG Member Reviewer {{ $critic }}"
-                style="height:100%;" />
+            {{ with .Resize "60x webp" }}
+                <img
+                    src="{{ .RelPermalink }}"
+                    class="float-start rounded-circle me-2 mt-1"
+                    alt="FCG Member Reviewer {{ $critic }}"
+                    style="height:100%;" />
+            {{ end }}
             {{ $reviewsPageLink := index site.Taxonomies.critics (lower $critic) }}
             <div>
                 <span class="author"

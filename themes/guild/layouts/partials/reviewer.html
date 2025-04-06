@@ -4,7 +4,7 @@
 {{ $reviewLink := (index site.Taxonomies.critics (lower $name)).Page.RelPermalink }}
 {{ with $reviewerPage }}
     {{ $img := resources.Get .Params.img }}
-    {{ $img = $img.Resize "50x" }}
+    {{ $img = $img.Resize "50x webp" }}
     <div class="clearfix mb-2">
         <img
             src="{{ $img.RelPermalink }}"
