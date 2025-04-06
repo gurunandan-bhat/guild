@@ -2,8 +2,6 @@
     {{ $extLinkIcon := index site.Data.svgicons.icons "externalLink" | safeHTML }}
     {{ $films := partial "all-films-list.html" "reviews" }}
     {{ $paginator := .Paginate $films  12 }}
-
-
     <div style="margin-top: 25px;">
         <div id="home-carousel">
             {{ $sorted := partial "sorted-pages.html" $paginator.Pages }}
