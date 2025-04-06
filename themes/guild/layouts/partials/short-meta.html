@@ -94,8 +94,8 @@
                 </p>
             </div>
             <hr class="mt-0 mb-2" />
-            {{ partial "taxonomy/mreviews/reviewLink.html" $review.Title }}
         {{ end }}
+        {{ partial "taxonomy/mreviews/reviewLink.html" $review.Title }}
     </div>
 {{ else }}
     {{ with $review.Params.img }}
@@ -112,6 +112,8 @@
                     ({{ . }})
                 {{ end }}
             </h6>
+            <hr class="mt-0 mb-2" />
+            {{ partial "taxonomy/mreviews/reviewLink.html" $review.Title }}
         </div>
     {{ end }}
     {{ warnf "Short Meta: Unable to get global resource %s" $review.Title }}
