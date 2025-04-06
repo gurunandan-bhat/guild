@@ -1,5 +1,5 @@
 {{ $img := resources.Get . }}
 {{ with $img }}
-    {{ $img = $img.Fill "342x192 Center webp" }}
+    {{ $img = $img.Fill "640x360 Center webp" }}
 {{ end }}
 {{ return $img }}
