@@ -1,0 +1,15 @@
+{{ $title := . }}
+{{ $imgLink := "" }}
+{{ $bkg := resources.Get "og/background.jpg" }}
+{{ with partial "tmdb-meta.html" $title }}
+    {{ with .poster_path }}
+        {{ with resources.Get (printf "meta/posters%s" .) }}
+            {{ $poster := .Process "resize x315" }}
+            {{ $ogImage := $bkg.Filter (images.Overlay $poster 0 0) }}
+            {{ $logo := resources.Get "og/logo-1x.png" }}
+            {{ $ogImage = $ogImage.Filter (images.Overlay $logo 270 20) }}
+            {{ $imgLink = $ogImage.RelPermalink }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+{{ return $imgLink }}
