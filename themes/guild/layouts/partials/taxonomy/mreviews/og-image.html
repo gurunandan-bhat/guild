@@ -14,7 +14,7 @@
             {{ else }}
                 {{ $ogImage = $ogImage.Filter (images.Overlay $logo 270 120) }}
             {{ end }}
-            {{ $imgLink = $ogImage.Permalink }}
+            {{ $imgLink = $ogImage.RelPermalink }}
         {{ end }}
     {{ end }}
 {{ end }}
