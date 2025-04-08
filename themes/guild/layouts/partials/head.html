@@ -9,6 +9,7 @@
     {{- else if eq .Type "mreviews" }}
         {{- $title = printf "All FCG Reviews of %s by Member Critics" .LinkTitle }}
         {{- $description = $title }}
+        {{- partial "opengraph.html" . }}
     {{- end }}
 {{- else if eq .Kind "taxonomy" }}
     {{- if eq .Section "mreviews" }}
