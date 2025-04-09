@@ -6,7 +6,7 @@
         {{ with resources.Get (printf "meta/posters%s" .) }}
             {{ $poster := .Process "resize x315" }}
             {{ $ogImage := $bkg.Filter (images.Overlay $poster 0 0) }}
-            {{ $logo := resources.Get "images/og/logo-1x.png" }}
+            {{ $logo := resources.Get "images/og/fcgr-1x-logo.png" }}
             {{ with partial "fcg-rating-raw.html" $title }}
                 {{ $scoreImg := resources.Get (printf "images/og/%d.png" . ) }}
                 {{ $ogImage = $ogImage.Filter (images.Overlay $scoreImg 320 110) }}

@@ -2,24 +2,29 @@
 <meta name="viewport" content="width=device-width" />
 {{ $title := site.Title }}
 {{ $description := "Film Reviews and Ratings by Members of the Film Critics Guild India." }}
+{{ $ogImgLink := (resources.Get "images/og/fcgr-default-logo.jpg").Permalink }}
 {{- if eq .Kind "term" }}
     {{- if eq .Type "critics" }}
         {{- $title = printf "All Reviews by Film Critics Guild (FCG) Member %s" .LinkTitle }}
         {{- $description = $title }}
+        {{ $ogImgLink = partial "taxonomy/critics/og-image.html" .LinkTitle }}
     {{- else if eq .Type "mreviews" }}
         {{- $title = printf "All FCG Reviews of %s by Member Critics" .LinkTitle }}
         {{- $description = $title }}
-        {{- partial "opengraph.html" . }}
+        {{ $ogImgLink = partial "taxonomy/mreviews/og-image.html" .LinkTitle }}
     {{- end }}
 {{- else if eq .Kind "taxonomy" }}
     {{- if eq .Section "mreviews" }}
         {{- $title = "Alphabetical Index of Every Film Reviewed by Film Critics Guild (FCG) members" }}
         {{- $description = $title }}
+        {{ $ogImgLink = (resources.Get "images/og/fcgr-default-mreviews-logo.jpg").Permalink }}
     {{- else if eq .Section "critics" }}
         {{- $title = "Alphabetical Index of All Film Critics Guild Member Reviewers" }}
         {{- $description = $title }}
+        {{ $ogImgLink = (resources.Get "images/og/fcgr-default-critics-logo.jpg").Permalink }}
     {{- end }}
 {{- end }}
-<title>{{ $title }}</title>
-<meta name="description" content="{{ $description }}" />
+{{ $data := dict "title" $title "description" $description "ogImgLink" $ogImgLink "permaLink" .Permalink }}
+{{- partial "opengraph.html" $data }}
+{{- partial "twitter-card.html" $data }}
 {{ partialCached "head/css.html" . }}

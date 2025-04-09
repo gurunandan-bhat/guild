@@ -1,0 +1,15 @@
+{{- $name := . }}
+{{- $bkg := resources.Get "images/og/background.jpg" }}
+{{- $logo := resources.Get "images/og/fcgr-1x-logo.png" }}
+{{- $ogLink := "" }}
+{{- $page := first 1 (where site.RegularPages "Title" $name) }}
+{{- with index $page 0 }}
+    {{- with .Params.img }}
+        {{- with resources.Get . }}
+            {{- $ogImage := $bkg.Filter (images.Overlay (.Process "resize x315 jpg") 0 0) }}
+            {{- $ogImage = $ogImage.Filter (images.Overlay $logo 328 112) }}
+            {{- $ogLink = $ogImage.Permalink }}
+        {{- end }}
+    {{- end }}
+{{- end }}
+{{- return $ogLink }}
