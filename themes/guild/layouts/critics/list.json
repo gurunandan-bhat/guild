@@ -1,1 +1,8 @@
-{{- .Pages | jsonify }}
+{{- $critics := slice }}
+{{- range .Pages }}
+    {{- $reviews := site.Taxonomies.critics.Get .LinkTitle }}
+    {{- $cJson := (jsonify .) | transform.Unmarshal }}
+    {{- $cJson = merge $cJson (dict "ReviewCount" ($reviews | len)) }}
+    {{- $critics = append $critics (slice $cJson) }}
+{{- end }}
+{{- $critics | jsonify }}
