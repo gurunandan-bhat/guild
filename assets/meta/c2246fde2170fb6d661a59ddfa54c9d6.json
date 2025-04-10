@@ -1,0 +1,186 @@
+{
+	"id": 1454405,
+	"title": "Akaal: The Unconquered",
+	"fcg_title": "Akaal",
+	"original_title": "ਅਕਾਲ: ਅਣਜਿੱਤ",
+	"original_language": "pa",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 36,
+			"name": "History"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Set in 1840s Punjab, Sardar Akaal Singh and his village as they face a vengeful assault by Jangi Jahan and his forces after the death of Maharaja Ranjeet Singh. Amid broken truces and escalating tensions, the fearless Sardars must rise against overwhelming odds to protect their land. Will they prevail against this formidable foe?",
+	"poster_path": "/tx1NRPB0oYtvWp1sAO328Q0xHUg.jpg",
+    "backdrop_path": "/74f5114c1bfd70d5af23dd31c3d89c3d.jpg",
+	"release_date": "2025-04-10",
+	"credits": {
+		"cast": [
+			{
+				"id": 3702939,
+				"order": 0,
+				"name": "Apindereep Singh"
+			},
+			{
+				"id": 928229,
+				"order": 1,
+				"name": "Gippy Grewal",
+				"profile_path": "/6DcA4PPq2lQVEBU32mZlhj67VI4.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1817349,
+				"order": 2,
+				"name": "Nimrat Khaira",
+				"profile_path": "/mzh3HJZvh9GC2pm0fOJU2rnOn7D.jpg",
+				"gender": 1
+			},
+			{
+				"id": 87352,
+				"order": 3,
+				"name": "Nikitin Dheer",
+				"profile_path": "/9Lf5jSQg7M3cl2ChQYJBiaqlG3R.jpg",
+				"gender": 2
+			},
+			{
+				"id": 77240,
+				"order": 4,
+				"name": "Gurpreet Ghuggi",
+				"profile_path": "/7ZENS2dXJ4BU3Hg6dgJwtyvEGBm.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1140663,
+				"order": 5,
+				"name": "Mita Vashisht",
+				"profile_path": "/mcnaQTCmuz3lXNotFFdkwCO7FTY.jpg",
+				"gender": 1
+			},
+			{
+				"id": 2011101,
+				"order": 6,
+				"name": "Prince Kanwaljit Singh",
+				"profile_path": "/A7GaAD73GTyVqokOTVQLzOaS26y.jpg"
+			},
+			{
+				"id": 4036400,
+				"order": 7,
+				"name": "Shinda Grewal"
+			}
+		],
+		"crew": [
+			{
+				"id": 928229,
+				"name": "Gippy Grewal",
+				"profile_path": "/6DcA4PPq2lQVEBU32mZlhj67VI4.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 928229,
+				"name": "Gippy Grewal",
+				"profile_path": "/6DcA4PPq2lQVEBU32mZlhj67VI4.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 928229,
+				"name": "Gippy Grewal",
+				"profile_path": "/6DcA4PPq2lQVEBU32mZlhj67VI4.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 35736,
+				"name": "Karan Johar",
+				"profile_path": "/zip1x7OXOBxXxcdYvKOgw6MnAWm.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 131836,
+				"name": "Apoorva Mehta",
+				"profile_path": "/1AJ9HUiwkA7zuIX57YNZ0yvw9sj.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3461928,
+				"name": "Adar Poonawalla",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3204906,
+				"name": "Ravneet Kaur Grewal",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1873395,
+				"name": "Rohit Dhiman",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 140721,
+				"name": "Baljit Singh Deo",
+				"profile_path": "/38QB60ymZkUa75mn2WEmOlCgk5e.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 85581,
+				"name": "Shankar Mahadevan",
+				"profile_path": "/dUzAQPFi8t1EOA3XVM5d0ftJCjN.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 85583,
+				"name": "Loy Mendonsa",
+				"profile_path": "/fQEfwBOVl4HfgByAKeJOAtdpqlT.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 85582,
+				"name": "Ehsaan Noorani",
+				"profile_path": "/eA0FcyxLwXww30zuzHHU4gOAyNL.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3204903,
+				"name": "Ritesh Kumar Pinky",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 3476845,
+				"name": "Sneha Kumar",
+				"profile_path": "/wbPUesPwaWRLtVPXg7zE3QlS2ED.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			}
+		]
+	}
+}

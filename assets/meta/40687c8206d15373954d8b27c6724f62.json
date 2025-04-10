@@ -1,0 +1,128 @@
+{
+	"id": 1241725,
+	"title": "Jack",
+	"fcg_title": "Jack",
+	"original_title": "Jack",
+	"original_language": "te",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 10749,
+			"name": "Romance"
+		}
+	],
+	"overview": "Jack is a Telugu spy action comedy entertainer movie directed by Bommarillu Bhaskar.",
+	"backdrop_path": "/koyrWwjHmu8wc4HQWswUmzRQxP3.jpg",
+	"poster_path": "/2YaisrMDIyUVjwvYtWjqQSQhGRx.jpg",
+	"release_date": "2025-04-10",
+	"credits": {
+		"cast": [
+			{
+				"id": 931864,
+				"order": 0,
+				"name": "Siddhu Jonnalagadda",
+				"profile_path": "/6B8PzdF7BkyABUoWJZZgn8IuZkn.jpg",
+				"character": "Jack",
+				"gender": 2
+			},
+			{
+				"id": 2994460,
+				"order": 1,
+				"name": "Vaishnavi Chaitanya",
+				"profile_path": "/61ostWchOJmfjuUG60afJOUgUZA.jpg",
+				"gender": 1
+			},
+			{
+				"id": 89153,
+				"order": 2,
+				"name": "Prakash Raj",
+				"profile_path": "/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg",
+				"gender": 2
+			},
+			{
+				"id": 736815,
+				"order": 3,
+				"name": "Naresh",
+				"profile_path": "/yT9Sgp7y8h3xhlmgzafUwlIXy1H.jpg",
+				"gender": 2
+			},
+			{
+				"id": 213432,
+				"order": 4,
+				"name": "Brahmaji",
+				"profile_path": "/xDTE7POq1bkyjLINxdy7rW4wQlg.jpg",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 679452,
+				"name": "Bhaskar",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1211504,
+				"name": "BVSN Prasad",
+				"profile_path": "/vS385izkenW8jKvVFZvQQPIFR5o.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 679452,
+				"name": "Bhaskar",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1310289,
+				"name": "Achu Rajamani",
+				"job": "Music Director",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1594196,
+				"name": "Sricharan Pakala",
+				"job": "Music Director",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1526584,
+				"name": "Vijay C Chakravarthy",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1526585,
+				"name": "Naveen Nooli",
+				"profile_path": "/dTYIRplqzKtT6LB8uONcIcsJz6I.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 2035066,
+				"name": "Kolla Avinash",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			}
+		]
+	}
+}

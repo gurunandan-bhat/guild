@@ -1,0 +1,502 @@
+{
+	"id": 1259024,
+	"title": "Good Bad Ugly",
+	"fcg_title": "Good Bad Ugly",
+	"original_title": "குட் பேட் அக்லீ",
+	"original_language": "ta",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 35,
+			"name": "Comedy"
+		}
+	],
+	"overview": "A once powerful gangster is forced to face his former enemies, when his son finds himself in danger.",
+	"backdrop_path": "/5CtvMLmCdksbYqqQd812WYML2wJ.jpg",
+	"poster_path": "/h8MRCA7lUIiUgswtaJOxlXONZuT.jpg",
+	"release_date": "2025-04-09",
+	"credits": {
+		"cast": [
+			{
+				"id": 148360,
+				"order": 0,
+				"name": "Ajith Kumar",
+				"profile_path": "/bCS0pp7YNHoXJvHObBLoOJRUUYs.jpg",
+				"character": "AK 'Red Dragon'",
+				"gender": 2
+			},
+			{
+				"id": 116925,
+				"order": 1,
+				"name": "Trisha Krishnan",
+				"profile_path": "/jfeAV0VeAQhKONzIv1UEYbklJGn.jpg",
+				"character": "Ramya",
+				"gender": 1
+			},
+			{
+				"id": 2483439,
+				"order": 2,
+				"name": "Arjun Das",
+				"profile_path": "/20RDzfTjpfRHxLYBfnIYXs7vcri.jpg",
+				"character": "Johnny / Jammy",
+				"gender": 2
+			},
+			{
+				"id": 213428,
+				"order": 3,
+				"name": "Sunil Varma",
+				"profile_path": "/2ueRNLlbB8jaivO6yb7zfIlFhh7.jpg",
+				"character": "'Baby' Tyson",
+				"gender": 2
+			},
+			{
+				"id": 85722,
+				"order": 4,
+				"name": "Prabhu",
+				"profile_path": "/1ZG65sdJaLrHjTAme5ETZMyqgnM.jpg",
+				"character": "Jayaprakash",
+				"gender": 2
+			},
+			{
+				"id": 223160,
+				"order": 5,
+				"name": "Prasanna",
+				"profile_path": "/rOJIiOmeEhWGEZWDEyMTWS1KmWv.jpg",
+				"character": "Jaeger",
+				"gender": 2
+			},
+			{
+				"id": 86014,
+				"order": 6,
+				"name": "Jackie Shroff",
+				"profile_path": "/1UNJypgEyuihUW2avLLVYj76jie.jpg",
+				"character": "Babel",
+				"gender": 2
+			},
+			{
+				"id": 4444704,
+				"order": 7,
+				"name": "Karthikeya Dev",
+				"profile_path": "/pTTR6jnuae9m4dYPVfgq8xTZF99.jpg",
+				"character": "Vihaan",
+				"gender": 2
+			},
+			{
+				"id": 1979435,
+				"order": 8,
+				"name": "Priya Prakash Varrier",
+				"profile_path": "/kJRhp5IBdsBZBdxnZrz3gOqDoJO.jpg",
+				"character": "Nithya",
+				"gender": 1
+			},
+			{
+				"id": 141705,
+				"order": 9,
+				"name": "Simran",
+				"profile_path": "/BRsVC78sFbFy0NQhaUkGkuUUOL.jpg",
+				"character": "Priya",
+				"gender": 1
+			},
+			{
+				"id": 85733,
+				"order": 10,
+				"name": "Tinnu Anand",
+				"profile_path": "/6fkEiZKNp6jnOQmfQKEjVinhUeL.jpg",
+				"character": "Mastaan",
+				"gender": 2
+			},
+			{
+				"id": 1296632,
+				"order": 11,
+				"name": "Shine Tom Chacko",
+				"profile_path": "/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg",
+				"character": "Shanmugam 'Simon'",
+				"gender": 2
+			},
+			{
+				"id": 2860067,
+				"order": 12,
+				"name": "Redin Kingsley",
+				"profile_path": "/JX9ukTnXCNBlsbQeHGY85qf3du.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1240692,
+				"order": 13,
+				"name": "Raghu Ram",
+				"character": "Zakaba"
+			},
+			{
+				"id": 1244561,
+				"order": 14,
+				"name": "Usha Uthup",
+				"profile_path": "/my2bXpLiJl3a3nmygIhnDulqqRf.jpg",
+				"gender": 1
+			},
+			{
+				"id": 37234,
+				"order": 15,
+				"name": "Rahul Dev",
+				"profile_path": "/wjADAt1yCyQML0qQIQiGLP9xNUm.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1540764,
+				"order": 16,
+				"name": "Yogi Babu",
+				"profile_path": "/lTNb5POaftGHXzgN9aIegcehh89.jpg",
+				"character": "Babu Yogi",
+				"gender": 2
+			},
+			{
+				"id": 146937,
+				"order": 17,
+				"name": "Sayaji Shinde",
+				"profile_path": "/r4VBYop4XktGuSZ0wozRqJbEzMH.jpg",
+				"gender": 2
+			},
+			{
+				"id": 2028382,
+				"order": 18,
+				"name": "Darkey"
+			},
+			{
+				"id": 1974089,
+				"order": 19,
+				"name": "Pradeep Kabra"
+			},
+			{
+				"id": 550330,
+				"order": 20,
+				"name": "Harry Josh",
+				"profile_path": "/sbauOAtKkeQQ3oKhzbb2V0MeHqw.jpg"
+			},
+			{
+				"id": 4458418,
+				"order": 21,
+				"name": "Videsh Anand",
+				"profile_path": "/qJpYK9tIKs4QaVVKszgQ57zzSGC.jpg"
+			},
+			{
+				"id": 2262427,
+				"order": 22,
+				"name": "B. S. Avinash",
+				"profile_path": "/dhAScRQuHfOuUCEBM38NFUoyP4C.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1482695,
+				"order": 23,
+				"name": "Adhik Ravichandran",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1482695,
+				"name": "Adhik Ravichandran",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1162632,
+				"name": "Abinandhan Ramanujam",
+				"profile_path": "/9Qca15kELXYlfkjPq1u8LJHFya7.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1838644,
+				"name": "Vijay Velukutty",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1648659,
+				"name": "Y. Ravi Shankar",
+				"profile_path": "/stZ6Fzi96nUlWyomx7hhXcqBQiX.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1306564,
+				"name": "Supreme Sundar",
+				"profile_path": "/blmGRngQdCHkT9U2DzIAwUSraCv.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 112345,
+				"name": "Kaloian Vodenicharov",
+				"profile_path": "/7fg4oOwenSnpvK0TqaPvj0MDUDN.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1648660,
+				"name": "Naveen Yerneni",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 584950,
+				"name": "G. V. Prakash Kumar",
+				"profile_path": "/ArX3l6CdNo0sGI8b6PFYveR9Azm.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5318947,
+				"name": "Hariharan V.",
+				"job": "Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 5318949,
+				"name": "Danachezhian S.",
+				"job": "Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 3427452,
+				"name": "G.M. Sekhar",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 4032031,
+				"name": "Ravi Kandasamy",
+				"job": "Co-Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5153294,
+				"name": "Harish Manikandan",
+				"job": "Co-Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5318957,
+				"name": "S. Vijai Prabu",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5318959,
+				"name": "Rishabh Ravindhar",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1641717,
+				"name": "G. Suren",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 4032001,
+				"name": "Jehovahson Alghar",
+				"job": "Music Supervisor",
+				"department": "Sound"
+			},
+			{
+				"id": 3050512,
+				"name": "Vishnu Edavan",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1482695,
+				"name": "Adhik Ravichandran",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 584950,
+				"name": "G. V. Prakash Kumar",
+				"profile_path": "/ArX3l6CdNo0sGI8b6PFYveR9Azm.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1652643,
+				"name": "Anu Vardhan",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 3504677,
+				"name": "Rajesh Kamarsu",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1672582,
+				"name": "G. Anand Kumar",
+				"job": "Still Photographer",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 83595,
+				"name": "Bhushan Kumar",
+				"profile_path": "/luUFnGoGwjwZ5CHAePRIQpAwT5b.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 141882,
+				"name": "Krishan Kumar",
+				"profile_path": "/gw2jzzkdRyIHglwieCiFSQ9cLZZ.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 581181,
+				"name": "Kalyan Kumar",
+				"profile_path": "/nCUClpez9E3FnqwevCn9r3VZvJK.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2314695,
+				"name": "Rokesh",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4646577,
+				"name": "Paal Dabba",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 1081464,
+				"name": "Anirudh Ravichander",
+				"profile_path": "/4RqfmPhND0cKe83kCohjCW06Q02.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 4646577,
+				"name": "Paal Dabba",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 1482695,
+				"name": "Adhik Ravichandran",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1709656,
+				"name": "Suresh Chandra",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2200190,
+				"name": "Vamsi Shekar",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3125415,
+				"name": "Narendra Kumar Logisa",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 4295507,
+				"name": "Dinesh Narasimhan",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3547024,
+				"name": "Ashwath",
+				"job": "Colorist",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 5349260,
+				"name": "S. A. Nagarjun",
+				"job": "Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 5349263,
+				"name": "Rajesh M.",
+				"job": "Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 5339430,
+				"name": "K. Raja",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5349264,
+				"name": "V. G. Balasubramanian",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5357792,
+				"name": "Nixen",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 5357792,
+				"name": "Nixen",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 2028382,
+				"name": "Darkey",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 2028382,
+				"name": "Darkey",
+				"job": "Lyricist",
+				"department": "Writing"
+			}
+		]
+	}
+}
