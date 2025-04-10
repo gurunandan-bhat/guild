@@ -1,57 +1,196 @@
 {
-	"id": 1410010,
+	"id": 355452,
 	"title": "Superman",
 	"fcg_title": "Superman",
-	"original_title": "Superman",
-	"original_language": "en",
+	"original_title": "സൂപ്പർമാൻ",
+	"original_language": "ml",
 	"genres": [
 		{
-			"id": 16,
-			"name": "Animation"
+			"id": 35,
+			"name": "Comedy"
 		},
 		{
-			"id": 12,
-			"name": "Adventure"
+			"id": 80,
+			"name": "Crime"
 		},
 		{
-			"id": 878,
-			"name": "Science Fiction"
+			"id": 53,
+			"name": "Thriller"
 		}
 	],
-	"overview": "A LEGO stop motion Superman film in which the titular character saves minifigures, cats, and fights Lex Luthor",
-	"release_date": "2024-12-09",
+	"overview": "Nithya is the deputy commissioner of the city who lives with her uncle since both her parents were killed in an accident. She was put on to investigate a corruption case done by the Home Minister and his friend a businessman called Rajan Phillip. Unknowingly she was helped in the investigation by a criminal nicknamed Superman.",
+	"poster_path": "/sxF0PVjicGVrHnsfU943c49xuCs.jpg",
+    "backdrop_path": "/9b34ded55f3fc33f824250f497991a97.jpg",
+	"release_date": "1997-10-14",
 	"credits": {
-		"crew": [
+		"cast": [
 			{
-				"id": 4789927,
-				"name": "Kalen Norris",
-				"profile_path": "/i7pwkEu6toSRD3dTECDVGRLZUnz.jpg",
-				"job": "Director",
-				"department": "Directing",
+				"id": 141704,
+				"order": 0,
+				"name": "Jayaram",
+				"profile_path": "/cc1SfVFctuYH353NgxXNBoAFX2d.jpg",
+				"character": "Hareendran",
 				"gender": 2
 			},
 			{
-				"id": 4789927,
-				"name": "Kalen Norris",
-				"profile_path": "/i7pwkEu6toSRD3dTECDVGRLZUnz.jpg",
+				"id": 110298,
+				"order": 1,
+				"name": "Shobana",
+				"profile_path": "/t6niRFC3xCV6hJSuyC9ACWLSVXu.jpg",
+				"character": "Nithya",
+				"gender": 1
+			},
+			{
+				"id": 111669,
+				"order": 2,
+				"name": "Jagadish",
+				"profile_path": "/ml3XX5bWPIdHUPvqhW2MYYZ8H7Y.jpg",
+				"character": "Balachandran",
+				"gender": 2
+			},
+			{
+				"id": 111668,
+				"order": 3,
+				"name": "Siddique",
+				"profile_path": "/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg",
+				"character": "City Police Commissioner",
+				"gender": 2
+			},
+			{
+				"id": 1089134,
+				"order": 4,
+				"name": "Sphadikam George",
+				"profile_path": "/wbvGPkIAPoqQXHATtYEGIVq0kZZ.jpg",
+				"character": "Jaganathan",
+				"gender": 2
+			},
+			{
+				"id": 545009,
+				"order": 5,
+				"name": "Cochin Haneefa",
+				"profile_path": "/mWh9nTl1uyRkwg9jbC5RCUclPOx.jpg",
+				"character": "Rajan Philip",
+				"gender": 2
+			},
+			{
+				"id": 1199055,
+				"order": 6,
+				"name": "Janardhanan",
+				"profile_path": "/aZB2VxD5iyugCnzCPyQbMOrzRls.jpg",
+				"character": "Valyachan",
+				"gender": 2
+			},
+			{
+				"id": 930730,
+				"order": 7,
+				"name": "Innocent",
+				"profile_path": "/zJ4mjbYYo7Z7Gva8pl1Q2czs7a7.jpg",
+				"character": "Kochunni",
+				"gender": 2
+			},
+			{
+				"id": 140466,
+				"order": 8,
+				"name": "Nedumudi Venu",
+				"profile_path": "/d1MdSwIWnTNwk4qSxQ001GqZaaB.jpg",
+				"character": "Raman Nair",
+				"gender": 2
+			},
+			{
+				"id": 591079,
+				"order": 9,
+				"name": "Zeenath",
+				"profile_path": "/Am3r7m1j6wbYxUzWl7u8qEvYC1T.jpg",
+				"character": "Bhavani",
+				"gender": 1
+			},
+			{
+				"id": 1284745,
+				"order": 10,
+				"name": "Vinduja Menon",
+				"profile_path": "/kKOVmlpkZ79NxW4MPRKd8voM32Q.jpg",
+				"character": "Hareendran's Sister",
+				"gender": 1
+			},
+			{
+				"id": 1006609,
+				"order": 11,
+				"name": "T. P. Madhavan",
+				"profile_path": "/lAGkvg6gpR8uS0DCpEWwR5lxhqw.jpg",
+				"character": "Home Minister",
+				"gender": 2
+			},
+			{
+				"id": 591174,
+				"order": 12,
+				"name": "Bindu Panicker",
+				"profile_path": "/18KNkcI2UpSASkztGHJCGDtw4bP.jpg",
+				"character": "Swarnalatha",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 3530342,
+				"name": "Mecartin",
+				"profile_path": "/uydjdCzedp02t6mLIp4gbPuLIzP.jpg",
 				"job": "Writer",
 				"department": "Writing",
 				"gender": 2
 			},
 			{
-				"id": 4789927,
-				"name": "Kalen Norris",
-				"profile_path": "/i7pwkEu6toSRD3dTECDVGRLZUnz.jpg",
-				"job": "Director of Photography",
-				"department": "Camera",
+				"id": 1198556,
+				"name": "Raffi",
+				"profile_path": "/iL5F7FpMwgjHsu1eBvtKUpaeXXG.jpg",
+				"job": "Writer",
+				"department": "Writing",
 				"gender": 2
 			},
 			{
-				"id": 4789927,
-				"name": "Kalen Norris",
-				"profile_path": "/i7pwkEu6toSRD3dTECDVGRLZUnz.jpg",
-				"job": "Animation",
-				"department": "Visual Effects",
+				"id": 3530342,
+				"name": "Mecartin",
+				"profile_path": "/uydjdCzedp02t6mLIp4gbPuLIzP.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1198556,
+				"name": "Raffi",
+				"profile_path": "/iL5F7FpMwgjHsu1eBvtKUpaeXXG.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1073536,
+				"name": "Harihara Puthran",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 230008,
+				"name": "Siddique",
+				"profile_path": "/5wDO6G8Eqq3vrAxOUe0ea2yPd8J.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 182174,
+				"name": "Lal",
+				"profile_path": "/ds3eeWA56YFeeuWP6WUs1ok58FK.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 585212,
+				"name": "S.P. Venkatesh",
+				"profile_path": "/k6p4lnf3Zcs4hvRL3dnKPDfp5KA.jpg",
+				"job": "Music",
+				"department": "Sound",
 				"gender": 2
 			}
 		]
