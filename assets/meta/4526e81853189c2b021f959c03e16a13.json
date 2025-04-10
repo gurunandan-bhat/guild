@@ -1,0 +1,435 @@
+{
+	"id": 1306845,
+	"title": "Jaat",
+	"fcg_title": "Jaat",
+	"original_title": "जाट",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "In a remote coastal village, ruthless criminal Ranatunga terrorizes the locals. A traveling stranger’s chance encounter with his men uncovers the villagers' suffering. Realizing the deep-rooted corruption, he takes matters into his own hands. Armed with truth and justice, he sets out for a final confrontation with Ranatunga.",
+	"backdrop_path": "/5TgcvkGksGjNM9u7e8exJTcyg8A.jpg",
+	"poster_path": "/guTflsCTgLNqTbpHTi9gJANk1Rf.jpg",
+	"release_date": "2025-04-10",
+	"credits": {
+		"cast": [
+			{
+				"id": 86302,
+				"order": 0,
+				"name": "Sunny Deol",
+				"profile_path": "/uHUgjvShW31IDgfD8Hp38kP1UJz.jpg",
+				"character": "Jaat",
+				"gender": 2
+			},
+			{
+				"id": 6519,
+				"order": 1,
+				"name": "Randeep Hooda",
+				"profile_path": "/okyC9UMtl1Hm6MeJTpROqKL76t9.jpg",
+				"character": "Ranatunga",
+				"gender": 2
+			},
+			{
+				"id": 1641086,
+				"order": 2,
+				"name": "Saiyami Kher",
+				"profile_path": "/yOfCJrouL1pWRO9ZJ13h85cCNdh.jpg",
+				"character": "SI Vijaya Lakshmi",
+				"gender": 1
+			},
+			{
+				"id": 1166967,
+				"order": 3,
+				"name": "Regina Cassandra",
+				"profile_path": "/aWFogAoGomUDAXMD8kp7dlZJrlA.jpg",
+				"character": "Bharathi",
+				"gender": 1
+			},
+			{
+				"id": 1427894,
+				"order": 4,
+				"name": "Vineet Kumar Singh",
+				"profile_path": "/8mDoHcQQ82f7FYK8B22VK9DLkLA.jpg",
+				"character": "Somulu",
+				"gender": 2
+			},
+			{
+				"id": 141701,
+				"order": 5,
+				"name": "Ramya Krishnan",
+				"profile_path": "/7Ex7OHhtotLXOAza1VOcUplPb7O.jpg",
+				"character": "Vasundhara",
+				"gender": 1
+			},
+			{
+				"id": 465273,
+				"order": 6,
+				"name": "Jagapati Babu",
+				"profile_path": "/bm72k6FmDxhxtZsl1xvxoz88Hkm.jpg",
+				"character": "Satyamurthi C.B.I.",
+				"gender": 2
+			},
+			{
+				"id": 2182295,
+				"order": 7,
+				"name": "Vinay Varma",
+				"profile_path": "/8qmMnrMMzHOOOvz3k8SqVAqP7dJ.jpg",
+				"character": "SP Vivek Kumar",
+				"gender": 2
+			},
+			{
+				"id": 94567,
+				"order": 8,
+				"name": "Zarina Wahab",
+				"profile_path": "/nY28L0JFjTlpIWdwt9qxO1p2HNn.jpg",
+				"gender": 1
+			},
+			{
+				"id": 142335,
+				"order": 9,
+				"name": "Upendra Limaye",
+				"profile_path": "/vFELR5TiBfc6LkLvI5kC5lpEnHv.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1607316,
+				"order": 10,
+				"name": "Urvashi Rautela",
+				"profile_path": "/vDcEPaHyg2hcOmTtMs4EfoHTHWn.jpg",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 146938,
+				"name": "Gopichand Malineni",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1648660,
+				"name": "Naveen Yerneni",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1648659,
+				"name": "Y. Ravi Shankar",
+				"profile_path": "/stZ6Fzi96nUlWyomx7hhXcqBQiX.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2459948,
+				"name": "T G Vishwa Prasad",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 146938,
+				"name": "Gopichand Malineni",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 146938,
+				"name": "Gopichand Malineni",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5325246,
+				"name": "M. Vivek Anand",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 3582425,
+				"name": "Nimmagadda Srikanth",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 1630694,
+				"name": "Srinivas Gavireddy",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4324887,
+				"name": "Mayukh Aditya",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 3945825,
+				"name": "Krushna Hari",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 1587628,
+				"name": "Shobi Paulraj",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1756349,
+				"name": "Ram Chella",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1965140,
+				"name": "Lakshman Chella",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 5173964,
+				"name": "V. Venkat",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 587735,
+				"name": "Peter Hein",
+				"profile_path": "/881LTUkVppdwtFaBDLgd70SEEBe.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1663251,
+				"name": "ANL Arasu",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1526585,
+				"name": "Naveen Nooli",
+				"profile_path": "/dTYIRplqzKtT6LB8uONcIcsJz6I.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 3436919,
+				"name": "Jaya Prakash Rao Dhote",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2981561,
+				"name": "Saurabh Gupta",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 1574268,
+				"name": "Sai Madhav Burra",
+				"profile_path": "/fcfz3yN5fqZqS96gGSgKm3Gq7hm.jpg",
+				"job": "Dialogue",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2182866,
+				"name": "Amrit Maan",
+				"profile_path": "/oYGfNl5PPHOTMcqkVxyfmW6YSSU.jpg",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 2035066,
+				"name": "Kolla Avinash",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1600884,
+				"name": "Rishi Punjabi",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 5325259,
+				"name": "M. Baba Sai Kumar",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5325263,
+				"name": "Chembolu Sai Aditya",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5325267,
+				"name": "Inturi Balakrishna",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2970388,
+				"name": "Gulabi Srinu",
+				"job": "Co-Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 5325268,
+				"name": "Prakash Dussa",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5325273,
+				"name": "Bhaskar Reddy Gajjala",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5325275,
+				"name": "Ramananda Sagar",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5325276,
+				"name": "Akash Melligeri",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5325278,
+				"name": "Jyothi Prakash",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4546855,
+				"name": "Vikas Singh",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5325279,
+				"name": "Hemanth C. Yoganand",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 3486247,
+				"name": "I Srinivasa Raju",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 3302441,
+				"name": "Thota Vijay Bhaskar",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 3504677,
+				"name": "Rajesh Kamarsu",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5325287,
+				"name": "V. V. Chowdary",
+				"job": "Production Controller",
+				"department": "Crew"
+			},
+			{
+				"id": 5325289,
+				"name": "Katragadda Koteswara Rao",
+				"job": "Production Executive",
+				"department": "Production"
+			},
+			{
+				"id": 5325291,
+				"name": "M. Jogi Naidu",
+				"job": "Production Executive",
+				"department": "Production"
+			},
+			{
+				"id": 5325292,
+				"name": "Bhaskar Enturi",
+				"job": "Production Executive",
+				"department": "Production"
+			},
+			{
+				"id": 5325295,
+				"name": "Adari Swamy",
+				"job": "Production Executive",
+				"department": "Production"
+			},
+			{
+				"id": 1671522,
+				"name": "Gopi Prasannaa",
+				"profile_path": "/39FBMhYFkWCyz5akFJoOTWgDQi9.jpg",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2041624,
+				"name": "Raghunath Kamisetty",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5325297,
+				"name": "Raviteja Karasala",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2149909,
+				"name": "Ashirwad Hadkar",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 5325299,
+				"name": "Ram Chunchu",
+				"job": "Still Photographer",
+				"department": "Camera"
+			},
+			{
+				"id": 585344,
+				"name": "S. Thaman",
+				"profile_path": "/y2VYUPTSWr580Fx8hxUNcUTViUa.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			}
+		]
+	}
+}
