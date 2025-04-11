@@ -44,33 +44,24 @@
                                 <div
                                     class="border border-3 border-top-0 border-start-0 border-end-0">
                                     <div class="px-4 clearfix">
-                                        <div class="clearfix">
-                                            {{ with partial "fcg-rating.html" (dict "title" .Title "size" "small") }}
-                                                <div class="float-start me-2">
-                                                    <img src="{{- . }}" />
-                                                </div>
+                                        <h2 class="mb-2">
+                                            {{ .Title }}
+                                            {{ with .Params.translatedTitle }}
+                                                ({{ . }})
                                             {{ end }}
-                                            <div>
-                                                <h2 class="pt-2">
-                                                    {{ .Title }}
-                                                    {{ with .Params.translatedTitle }}
-                                                        ({{ . }})
-                                                    {{ end }}
-                                                </h2>
-                                                {{ with .Params.publication }}
-                                                    <p class="author mb-1">
-                                                        (Written for {{ . }})
-                                                    </p>
-                                                {{ end }}
-                                                <h4 class="sub-title">
-                                                    {{ .Params.subtitle }}
-                                                </h4>
-                                                <p class="pub-date">
-                                                    {{ .Date.Format "Mon, January 2 2006" }}
-                                                </p>
-                                            </div>
-                                        </div>
+                                        </h2>
+                                        {{ with .Params.publication }}
+                                            <p class="author mb-1">
+                                                (Written for {{ . }})
+                                            </p>
+                                        {{ end }}
+                                        <h4 class="sub-title">
+                                            {{ .Params.subtitle }}
+                                        </h4>
                                         <div class="ms-2">
+                                            <p class="pub-date">
+                                                {{ .Date.Format "Mon, January 2 2006" }}
+                                            </p>
                                             {{ with .Params.opening }}
                                                 <p class="author">
                                                     {{ . }}
@@ -104,30 +95,20 @@
                                     class="border border-start-2 border-end-2 border-top-0 border-bottom-0">
                                     <div
                                         class="border border-3 border-top-0 border-start-0 border-end-0">
-                                        <div class="clearfix ps-3">
-                                            {{ with partial "fcg-rating.html" (dict "title" .Title "size" "small") }}
-                                                <div class="float-start me-2">
-                                                    <img src="{{- . }}" />
-                                                </div>
+                                        <h2 class="my-3">
+                                            {{ .Title }}
+                                            {{ with .Params.translatedTitle }}
+                                                ({{ . }})
                                             {{ end }}
-                                            <h2 class="pt-3">
-                                                {{ .Title }}
-                                                {{ with .Params.translatedTitle }}
-                                                    ({{ . }})
-                                                {{ end }}
-                                            </h2>
-                                            {{ with .Params.publication }}
-                                                <p class="pub-date mb-1">
-                                                    (For {{ . }})
-                                                </p>
-                                            {{ end }}
-                                            <h4 class="sub-title">
-                                                {{ .Params.subtitle }}
-                                            </h4>
-                                            <p class="pub-date">
-                                                {{ .Date.Format "Mon, January 2 2006" }}
+                                        </h2>
+                                        {{ with .Params.publication }}
+                                            <p class="pub-date mb-1">
+                                                (For {{ . }})
                                             </p>
-                                        </div>
+                                        {{ end }}
+                                        <h4 class="sub-title">
+                                            {{ .Params.subtitle }}
+                                        </h4>
                                         <div class="p-2">
                                             {{ .Summary }}
                                         </div>
