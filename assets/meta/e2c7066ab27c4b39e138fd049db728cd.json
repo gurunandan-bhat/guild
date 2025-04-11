@@ -1,0 +1,295 @@
+{
+	"id": 983219,
+	"title": "Bazooka",
+	"fcg_title": "Bazooka",
+	"original_title": "ബസൂക്ക",
+	"original_language": "ml",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		}
+	],
+	"overview": "A cop and a businessman team up on a mission to capture a serial killer, using a series of elaborate games to track him down.",
+	"backdrop_path": "/qSsr4OdBk85jbJJvl11A7WbeeXY.jpg",
+	"poster_path": "/tBaR2kMPOmBgCzaulhB1QhmQPY6.jpg",
+	"release_date": "2025-04-10",
+	"credits": {
+		"cast": [
+			{
+				"id": 124111,
+				"order": 0,
+				"name": "Mammootty",
+				"profile_path": "/72ZaGOCFleKSa1QcHDImN2dOWSy.jpg",
+				"gender": 2
+			},
+			{
+				"id": 120953,
+				"order": 1,
+				"name": "Gautham Vasudev Menon",
+				"profile_path": "/qOFycWPpr3Hi4kVXKWnTTKCAnGk.jpg",
+				"character": "Benjamin Joshua",
+				"gender": 2
+			},
+			{
+				"id": 1296632,
+				"order": 2,
+				"name": "Shine Tom Chacko",
+				"profile_path": "/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg",
+				"character": "Franco Salvatore",
+				"gender": 2
+			},
+			{
+				"id": 1186670,
+				"order": 3,
+				"name": "Sidharth Bharathan",
+				"profile_path": "/4a13KELmZuB4NnRlOsdzMfo2K7j.jpg",
+				"character": "Arjun Ramaswamy",
+				"gender": 2
+			},
+			{
+				"id": 1718097,
+				"order": 4,
+				"name": "Gayathri Iyer",
+				"profile_path": "/eu1RTrDWmKDRKf7Esc8j6pMjcui.jpg",
+				"gender": 1
+			},
+			{
+				"id": 2071307,
+				"order": 5,
+				"name": "Bhama Arun",
+				"profile_path": "/tFtpSXaRTddnRDAnQonDjVOIeDX.jpg",
+				"gender": 1
+			},
+			{
+				"id": 458928,
+				"order": 6,
+				"name": "Babu Antony",
+				"profile_path": "/yaT3I5xf8XG806Or6sOMPMPOUVD.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1342093,
+				"order": 7,
+				"name": "Iswarya Menon",
+				"profile_path": "/gg25ZW46VBmvxplzJfWmCajcocf.jpg",
+				"character": "Jovita",
+				"gender": 1
+			},
+			{
+				"id": 2298643,
+				"order": 8,
+				"name": "Hakkim Shajahan",
+				"profile_path": "/reEowrr3Gw4vKFfVUOhIT4EM4Es.jpg",
+				"character": "Sunny Varghese",
+				"gender": 2
+			},
+			{
+				"id": 3721857,
+				"order": 9,
+				"name": "Joemon Jyothir",
+				"profile_path": "/8D8h9rPTflNnABzrnGZY6MM7Qis.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1517172,
+				"order": 10,
+				"name": "Divya Pillai",
+				"profile_path": "/n0BfTrgMiF0pAHvwl4Q3xvjHWlL.jpg",
+				"character": "Annie Benjamin",
+				"gender": 1
+			},
+			{
+				"id": 1625827,
+				"order": 11,
+				"name": "Sumit Naval",
+				"profile_path": "/qhSBBj7y4IR6mNRdOrQKjvfGsvo.jpg",
+				"character": "Ansari",
+				"gender": 2
+			},
+			{
+				"id": 1855733,
+				"order": 12,
+				"name": "Binu Pappu",
+				"profile_path": "/zDVvCDE3cdxrAqfZ9J0LgqXfJpY.jpg",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1972673,
+				"name": "Jithesh Poyya",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 3526547,
+				"name": "Sabari",
+				"job": "Public Relations",
+				"department": "Crew"
+			},
+			{
+				"id": 2476387,
+				"name": "Sahil Sharma",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4162158,
+				"name": "Suraj Kumar",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1644613,
+				"name": "Siddharth Anand Kumar",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1464562,
+				"name": "Sameera Saneesh",
+				"profile_path": "/9uTT431FzCWvDyi2ragC2WSZUYx.jpg",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 2283083,
+				"name": "Bijith Dharmadam",
+				"job": "Still Photographer",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1198865,
+				"name": "Jinu Abraham",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2340304,
+				"name": "Nimish Ravi",
+				"profile_path": "/3prTwkLnNym21TUYBjgs1RtlOmr.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 3573560,
+				"name": "Deeno Dennis",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 3573560,
+				"name": "Deeno Dennis",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 2055743,
+				"name": "Vikram Mehra",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1857830,
+				"name": "Sanchoo J",
+				"job": "Production Controller",
+				"department": "Crew"
+			},
+			{
+				"id": 1172533,
+				"name": "Nishad Yousef",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1313665,
+				"name": "Praveen Prabhakar",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 4738780,
+				"name": "Saeed Abbas",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 2261655,
+				"name": "PC Master",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2421049,
+				"name": "Mahesh Mathew",
+				"job": "Stunts",
+				"department": "Crew"
+			},
+			{
+				"id": 1535515,
+				"name": "Mafia Sasi",
+				"profile_path": "/9Fu5J073SFXNWQcm8p5wdWppraZ.jpg",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1768546,
+				"name": "Shiji Pattanam",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1643578,
+				"name": "Sachin Sudhakaran",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1643577,
+				"name": "Hari Haran",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3624551,
+				"name": "Dolwin Kuriakose",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5348812,
+				"name": "Bins",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 1135717,
+				"name": "Sreenath Bhasi",
+				"profile_path": "/oPsXUtaE0ZslhaGRdtww0ZpMRe7.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			}
+		]
+	}
+}
