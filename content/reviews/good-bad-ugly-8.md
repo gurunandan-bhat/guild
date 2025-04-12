@@ -10,4 +10,4 @@ source = 'hML_Qfq_1e0'
 score = 5
 +++
 
-{{< youtube id="hML_Qfq_1e0" start="477" >}}
+{{< youtube id="hML_Qfq_1e0" start="477" loading="lazy" >}}

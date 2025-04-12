@@ -9,4 +9,4 @@ media = 'video'
 source = 'ao-VFaAnlZY'
 +++
 
-{{< youtube id="ao-VFaAnlZY" >}}
+{{< youtube id="ao-VFaAnlZY" loading="lazy"  >}}
