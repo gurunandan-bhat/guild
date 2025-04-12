@@ -1,0 +1,514 @@
+{
+	"id": 1241436,
+	"title": "Warfare",
+	"fcg_title": "Warfare",
+	"original_title": "Warfare",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 10752,
+			"name": "War"
+		},
+		{
+			"id": 28,
+			"name": "Action"
+		}
+	],
+	"overview": "A platoon of American Navy SEALs in the home of an Iraqi family overwatches the movement of US forces through insurgent territory.",
+	"backdrop_path": "/2qIsm6cwiYi9eazSpLl4qKQeiTT.jpg",
+	"poster_path": "/oXsDTDt1MqxJreROd2cbd2FMOZ2.jpg",
+	"release_date": "2025-04-10",
+	"credits": {
+		"cast": [
+			{
+				"id": 2710333,
+				"order": 0,
+				"name": "D'Pharaoh Woon-A-Tai",
+				"profile_path": "/ozEGeNK9r2EFn4rNU0DSuNQaia0.jpg",
+				"character": "Ray",
+				"gender": 2
+			},
+			{
+				"id": 1363054,
+				"order": 1,
+				"name": "Cosmo Jarvis",
+				"profile_path": "/1kgghZ558CxZCJip5ufO6BAqUGp.jpg",
+				"character": "Elliot",
+				"gender": 2
+			},
+			{
+				"id": 93491,
+				"order": 2,
+				"name": "Will Poulter",
+				"profile_path": "/9blYMaj79VGC6BHTLmJp3V5S8r3.jpg",
+				"character": "Erik",
+				"gender": 2
+			},
+			{
+				"id": 1907002,
+				"order": 3,
+				"name": "Charles Melton",
+				"profile_path": "/sxWslNRZdiBcPgwdVqoj7nSclr6.jpg",
+				"character": "Jake",
+				"gender": 2
+			},
+			{
+				"id": 1597365,
+				"order": 4,
+				"name": "Joseph Quinn",
+				"profile_path": "/zshhuioZaH8S5ZKdMcojzWi1ntl.jpg",
+				"character": "Sam",
+				"gender": 2
+			},
+			{
+				"id": 1538851,
+				"order": 5,
+				"name": "Kit Connor",
+				"profile_path": "/6BDubD35VfSa0uyPr0UuYznuiM4.jpg",
+				"character": "Tommy",
+				"gender": 2
+			},
+			{
+				"id": 1369329,
+				"order": 6,
+				"name": "Taylor John Smith",
+				"profile_path": "/6dXZRf8ePa1oxQN9a5hFGEjDoI0.jpg",
+				"character": "Frank",
+				"gender": 2
+			},
+			{
+				"id": 1900369,
+				"order": 7,
+				"name": "Michael Gandolfini",
+				"profile_path": "/28b4ER8m7AJ40vsgocFIhwTKkzp.jpg",
+				"character": "Lt McDonald",
+				"gender": 2
+			},
+			{
+				"id": 2120814,
+				"order": 8,
+				"name": "Adain Bradley",
+				"profile_path": "/qPe2AgBrIIOOv4uLK984dxgGzxE.jpg",
+				"character": "Sgt Laerrus",
+				"gender": 2
+			},
+			{
+				"id": 1253353,
+				"order": 9,
+				"name": "Noah Centineo",
+				"profile_path": "/kXLuzSWRqM2P45uNcgb0v3H8dnE.jpg",
+				"character": "Brian / Zawi",
+				"gender": 2
+			},
+			{
+				"id": 1563169,
+				"order": 10,
+				"name": "Henry Zaga",
+				"profile_path": "/ievztVvYh3chqStu5ZdZI6anxfh.jpg",
+				"character": "Aaron",
+				"gender": 2
+			},
+			{
+				"id": 1512452,
+				"order": 11,
+				"name": "Finn Bennett",
+				"profile_path": "/fdKerNjJ0gIjqcbjYhNYBRVGNzs.jpg",
+				"character": "John",
+				"gender": 2
+			},
+			{
+				"id": 2303015,
+				"order": 12,
+				"name": "Alex Brockdorff",
+				"profile_path": "/cL4Y87y98WLjOiKxglBQF0z5qNG.jpg",
+				"character": "Mikey",
+				"gender": 2
+			},
+			{
+				"id": 1734935,
+				"order": 13,
+				"name": "Evan Holtzman",
+				"profile_path": "/6bMtNQloX5g4d1xNa4QLKaQKL0z.jpg",
+				"character": "Brock",
+				"gender": 2
+			},
+			{
+				"id": 2961808,
+				"order": 14,
+				"name": "Aaron Mackenzie",
+				"character": "Kelly"
+			},
+			{
+				"id": 1428653,
+				"order": 15,
+				"name": "Joe Macaulay",
+				"profile_path": "/6gb7AaQYXWl2dKn9VE0sU0mL47L.jpg",
+				"character": "Mo",
+				"gender": 2
+			},
+			{
+				"id": 2998707,
+				"order": 16,
+				"name": "Laurie Duncan",
+				"character": "Pete"
+			},
+			{
+				"id": 2908062,
+				"order": 17,
+				"name": "Jake Lampert",
+				"profile_path": "/91VwT83z2kCFViHh8qfULsUkzHT.jpg",
+				"character": "Ted",
+				"gender": 2
+			},
+			{
+				"id": 4423844,
+				"order": 18,
+				"name": "Aaron Deakins",
+				"character": "Bob"
+			},
+			{
+				"id": 2754713,
+				"order": 19,
+				"name": "Heider Ali",
+				"character": "Sidar",
+				"gender": 2
+			},
+			{
+				"id": 5304271,
+				"order": 20,
+				"name": "Sima Pollitt",
+				"character": "Alia"
+			},
+			{
+				"id": 2642100,
+				"order": 21,
+				"name": "Nathan Altai",
+				"character": "Farid"
+			},
+			{
+				"id": 1889041,
+				"order": 22,
+				"name": "Aso Sherabayani",
+				"profile_path": "/lxnm3BzqFc1zOx2bSgw7zOIgJ7J.jpg",
+				"character": "Samir",
+				"gender": 2
+			},
+			{
+				"id": 5304273,
+				"order": 23,
+				"name": "Amira Dutton",
+				"character": "Sama"
+			},
+			{
+				"id": 5304274,
+				"order": 24,
+				"name": "Inbal Amram",
+				"character": "Amira"
+			}
+		],
+		"crew": [
+			{
+				"id": 2036,
+				"name": "Alex Garland",
+				"profile_path": "/qSWzYnDw68xm4i5xprH9BwQ6q25.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4474842,
+				"name": "Peter Rice",
+				"profile_path": "/eSsmBBf59xWmn1oAKfXtf3F1vz6.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 17600,
+				"name": "Allon Reich",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3608245,
+				"name": "Ray Mendoza",
+				"profile_path": "/sWpLtFbbd4GR7tUbAO3yfznb4PQ.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 3608245,
+				"name": "Ray Mendoza",
+				"profile_path": "/sWpLtFbbd4GR7tUbAO3yfznb4PQ.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2035,
+				"name": "Andrew Macdonald",
+				"profile_path": "/j6C8BwvLK0R0rxYZI8sCU8KPkrd.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2036,
+				"name": "Alex Garland",
+				"profile_path": "/qSWzYnDw68xm4i5xprH9BwQ6q25.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2770611,
+				"name": "Bogdan Kumšackij",
+				"profile_path": "/bJSkpkpRSbb7DgIVovxKu2cagN6.jpg",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 40810,
+				"name": "Glenn Freemantle",
+				"profile_path": "/qbPg2w1AoSVrbHJbQUbs9P5jD8y.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 40810,
+				"name": "Glenn Freemantle",
+				"profile_path": "/qbPg2w1AoSVrbHJbQUbs9P5jD8y.jpg",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1424696,
+				"name": "David J. Thompson",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1767889,
+				"name": "Matthew Penry-Davey",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2383714,
+				"name": "Charlie Reed",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1653024,
+				"name": "Kharmel Cochrane",
+				"profile_path": "/wjykidObMfa7FuToVM06oIHbGbz.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1324461,
+				"name": "David Crossman",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 2019561,
+				"name": "Neil Murphy",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3878368,
+				"name": "Fin Oates",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1277444,
+				"name": "Emily Thomas",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1984235,
+				"name": "Mitch Low",
+				"job": "Production Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 20463,
+				"name": "Mark Digby",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1665616,
+				"name": "Matt Curtis",
+				"profile_path": "/ijoE4C3RQvaLqaDSxkDiEgpQXNv.jpg",
+				"job": "Title Designer",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 2723116,
+				"name": "Declan O'Brien",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1405313,
+				"name": "Tristan Versluis",
+				"job": "Prosthetic Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1544665,
+				"name": "Polly Duval",
+				"job": "Post Production Supervisor",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1392629,
+				"name": "Simon Stanley-Clamp",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1569658,
+				"name": "Giedrius Nagys",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1849452,
+				"name": "Tony Christian",
+				"profile_path": "/vQNmZWh5msxjOYbSn5ZkPVajfgF.jpg",
+				"job": "Utility Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2178153,
+				"name": "Andrius Davidenas",
+				"profile_path": "/4aNl6cNzTJbVsnOPb8onSdRdSag.jpg",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2770597,
+				"name": "Andrej Riabokon",
+				"job": "Stunts",
+				"department": "Crew"
+			},
+			{
+				"id": 2309182,
+				"name": "Hasit Savani",
+				"job": "Stunts",
+				"department": "Crew"
+			},
+			{
+				"id": 2770586,
+				"name": "Ramon Álvarez",
+				"job": "Stunts",
+				"department": "Crew"
+			},
+			{
+				"id": 2162712,
+				"name": "Barney Coates",
+				"job": "First Assistant \"A\" Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 2921677,
+				"name": "Barney Piercy",
+				"job": "\"B\" Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 2151880,
+				"name": "Nick Thursby",
+				"job": "First Assistant \"B\" Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 40816,
+				"name": "Ben Barker",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1338970,
+				"name": "Danny Freemantle",
+				"job": "Sound Effects Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1688239,
+				"name": "Nick Freemantle",
+				"job": "Sound Effects Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1834105,
+				"name": "Dayo James",
+				"job": "Sound Effects Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1714910,
+				"name": "Robert Malone",
+				"job": "Sound Effects Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1504989,
+				"name": "Richard Spooner",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 5346648,
+				"name": "James Cura",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 1915696,
+				"name": "Terry Robb",
+				"job": "Gaffer",
+				"department": "Lighting"
+			},
+			{
+				"id": 1281566,
+				"name": "Richard Jakes",
+				"job": "\"C\" Camera Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 3805157,
+				"name": "Rose Powell",
+				"job": "Casting Associate",
+				"department": "Production"
+			}
+		]
+	}
+}
