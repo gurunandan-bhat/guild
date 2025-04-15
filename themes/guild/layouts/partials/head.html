@@ -25,6 +25,8 @@
     {{- end }}
 {{- end }}
 {{ $data := dict "title" $title "description" $description "ogImgLink" $ogImgLink "permaLink" .Permalink }}
+<title>{{ $title }}</title>
+<meta name="description" content="{{- $description }}" />
 {{- partial "opengraph.html" $data }}
 {{- partial "twitter-card.html" $data }}
 {{ partialCached "head/css.html" . }}
