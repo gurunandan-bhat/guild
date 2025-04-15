@@ -68,5 +68,7 @@
             </h6>
         </div>
     {{ end }}
-    {{ warnf "Mini Meta: Unable to get global resource %s" $page.Title }}
+    {{ if hugo.IsDevelopment }}
+        {{ warnf "Mini Meta: Unable to get global resource %s" $page.Title }}
+    {{ end }}
 {{ end }}

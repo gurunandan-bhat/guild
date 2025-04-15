@@ -17,7 +17,9 @@
             {{ $scoreImg := partial "fcg-rating.html" (dict "title" $title "size" "large") }}
             {{ partial "taxonomy/mreviews/metadata.html" (dict "meta" . "fullTitle" $fullTitle "scoreImg" $scoreImg) }}
         {{ else }}
-            {{ warnf "Unable to get global resource %s" $title }}
+            {{ if hugo.IsDevelopment }}
+                {{ warnf "mreviews/term: Unable to get global resource %s" $title }}
+            {{ end }}
         {{ end }}
     </div>
 
@@ -43,6 +45,10 @@
                                             src="{{ .RelPermalink }}"
                                             class="img-fluid review-image mt-2"
                                             alt="Image of scene from the film {{ $fullTitle }}" />
+                                    {{ end }}
+                                {{ else }}
+                                    {{ if hugo.IsDevelopment }}
+                                        {{ warnf "mreviews/term: Image %s not found" $imgPath }}
                                     {{ end }}
                                 {{ end }}
                             </div>

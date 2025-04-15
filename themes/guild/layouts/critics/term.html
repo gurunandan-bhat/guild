@@ -36,6 +36,10 @@
                                         class="img-fluid review-image"
                                         alt="Image of scene from the film {{ $title }}" />
                                 {{ end }}
+                            {{ else }}
+                                {{ if hugo.IsDevelopment }}
+                                    {{ warnf "critics/term: Missing image %s" $imgPath }}
+                                {{ end }}
                             {{ end }}
                         </div>
                         <div class="col-lg-6">

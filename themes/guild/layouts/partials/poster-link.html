@@ -9,12 +9,18 @@
                 {{ $posterLink = .RelPermalink }}
             {{ end }}
         {{ else }}
-            {{ warnf "Poster %s not found for film %s" $posterPath $title }}
+            {{ if hugo.IsDevelopment }}
+                {{ warnf "Poster %s not found for film %s" $posterPath $title }}
+            {{ end }}
         {{ end }}
     {{ else }}
-        {{ warnf "No poster found for %s" $title }}
+        {{ if hugo.IsDevelopment }}
+            {{ warnf "No poster found for %s" $title }}
+        {{ end }}
     {{ end }}
 {{ else }}
-    {{ warnf "No metadata found for %s" $title }}
+    {{ if hugo.IsDevelopment }}
+        {{ warnf "No metadata found for %s" $title }}
+    {{ end }}
 {{ end }}
 {{ return $posterLink }}

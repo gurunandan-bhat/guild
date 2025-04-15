@@ -8,7 +8,9 @@
             {{ $imgLink = .RelPermalink }}
         {{ end }}
     {{ else }}
-        {{ warnf "image not found for %s" $metadata.title }}
+        {{ if hugo.IsDevelopment }}
+            {{ warnf "image not found for %s" $metadata.title }}
+        {{ end }}
     {{ end }}
 {{ end }}
 
