@@ -10,3 +10,5 @@ media = 'video'
 source = ''
 score = 
 +++
+
+{{< youtube id="" loading="lazy" >}}
