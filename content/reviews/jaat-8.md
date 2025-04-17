@@ -9,7 +9,7 @@ subtitle = "सनी देओल के स्वैग और एक्शन
 opening = ""
 img = 'jaat-8.png'
 media = 'print'
-source = "https://english.mathrubhumi.com/movies-music/review/jaat-review-gopichand-malineni-sunny-deol-randeep-hooda-regina-cassandra-1.10499610"
+source = "https://navbharattimes.indiatimes.com/entertainment/movie-review/jaat-movie-review-in-hindi-starring-sunny-deol-randeep-hooda-vineet-kumar-singh-regena-cassandrra/moviereview/120156252.cms"
 score = 5
 +++
 
