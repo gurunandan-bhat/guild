@@ -92,6 +92,10 @@
                                                                         &hellip;</a
                                                                     >
                                                                 </p>
+                                                            {{ else }}
+                                                                {{ if and (eq $review.Params.media "print") hugo.IsDevelopment }}
+                                                                    {{ warnf "Source for %s missing" $review.Path }}
+                                                                {{ end }}
                                                             {{ end }}
                                                         </div>
                                                     </div>

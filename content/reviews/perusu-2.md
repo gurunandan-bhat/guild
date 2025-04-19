@@ -9,7 +9,7 @@ subtitle = "‘Stand-up comedy’ gets a new definition in Vaibhav’s wacky ent
 opening = "‘Perusu’, with its simple but effective premise, works despite its limitations thanks to a brilliant screenplay and wonderful performances"
 img = 'perusu-2.jpg'
 media = 'print'
-source = ""
+source = "https://www.thehindu.com/entertainment/movies/perusu-movie-review-vaibhav-sunil-niharika-nm-chandini-tamilarasan-ilango-ram/article69331324.ece"
 score = 6
 +++
 

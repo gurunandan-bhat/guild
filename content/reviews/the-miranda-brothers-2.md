@@ -8,7 +8,7 @@ subtitle = "Sanjay Gupta’s Sibling Saga Is An Ultimate Snooze-Fest"
 opening = ""
 img = 'the-miranda-brothers-2.jpg'
 media = 'print'
-source = ""
+source = "https://www.binged.com/reviews/the-miranda-brothers-movie-review/"
 +++
 
 Julio, the son of a single parent Susan Miranda, requests his mother to adopt an infant who’s left stranded on the streets. Braving past several financial challenges, Susain raises Julio and Regalo, who are extremely fond of one another. As adults, they hope to make a career in football. However, when a personal setback tests their equation, Regalo has a tough choice to make.
