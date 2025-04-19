@@ -4,12 +4,12 @@ date = 2025-04-19T19:09:29+05:30
 draft = false
 mreviews = ["Naangal"]
 critics = ['Aditya Shrikrishna']
-publication = ''
+publication = 'The Federal'
 subtitle = "A haunting memoir of Tamil brothers, steeped in childhood trauma"
 opening = "Avinash Prakash’s Tamil feature film charts the story of three preadolescent siblings in Tamil Nadu, who are schooled by their father in the most abusive and emotionally violent ways"
 img = 'naangal-3.webp'
 media = 'print'
-source = ""
+source = "https://thefederal.com/film-reviews/naangal-review-a-haunting-memoir-of-tamil-brothers-steeped-in-childhood-trauma-108509"
 score = 7
 +++
 
