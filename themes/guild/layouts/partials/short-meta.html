@@ -116,7 +116,4 @@
             {{ partial "taxonomy/mreviews/reviewLink.html" $review.Title }}
         </div>
     {{ end }}
-    {{ if hugo.IsDevelopment }}
-        {{ warnf "Short Meta: Unable to get global resource %s" $review.Title }}
-    {{ end }}
 {{ end }}
