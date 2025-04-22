@@ -1,7 +1,5 @@
 {{ define "main" }}
     {{ $extLinkIcon := index site.Data.svgicons.icons "externalLink" | safeHTML }}
-
-
     <div class="container-fluid">
         <div style="height: 50px;"></div>
     </div>
@@ -15,12 +13,26 @@
             </div>
         </div>
     </div>
+    {{ $languages := site.Data.languages.languages }}
     {{ $paginator := .Paginate .Pages 8 }}
     <div class="container">
         <div class="d-flex justify-content-center mb-3">
             {{ template "_internal/pagination.html" . }}
         </div>
         {{ range $paginator.Pages }}
+            {{ $genres := "" }}
+            {{ $language := "" }}
+            {{ with partialCached "tmdb-meta.html" .Title .Title }}
+                {{ with index . "genres" }}
+                    {{ $gList := apply . "index" "." "name" }}
+                    {{ $genres = delimit $gList ", " }}
+                {{ end }}
+                {{ with index . "original_language" }}
+                    {{ with index $languages . }}
+                        {{ $language = .english_name }}
+                    {{ end }}
+                {{ end }}
+            {{ end }}
             <div class="mb-5">
                 {{ if eq .Params.media "print" }}
                     <div class="row mb-3">
@@ -47,13 +59,16 @@
                                 class="border border-start-2 border-end-2 border-top-0 border-bottom-0">
                                 <div
                                     class="border border-3 border-top-0 border-start-0 border-end-0">
-                                    <div class="px-4 clearfix">
-                                        <h2 class="mb-2">
+                                    <div class="clearfix px-4">
+                                        <h2>
                                             {{ .Title }}
                                             {{ with .Params.translatedTitle }}
                                                 ({{ . }})
                                             {{ end }}
                                         </h2>
+                                        <p class="small fw-semibold mb-0">
+                                            {{ $genres }} ({{ $language }})
+                                        </p>
                                         {{ with .Params.publication }}
                                             <p class="author mb-1">
                                                 (Written for {{ . }})
