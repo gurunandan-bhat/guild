@@ -50,7 +50,7 @@
                 </div>
                 <div class="row">
                     <h2 class="fw-bold my-5">FCG Members</h2>
-                    {{ range where (where site.RegularPages ".Type" "guild") ".Params.board" false }}
+                    {{ range sort (where (where site.RegularPages ".Type" "guild") ".Params.board" false) "Title" }}
                         {{ $criticPage := index (where $.Pages ".LinkTitle" .LinkTitle) 0 }}
                         <div class="col-md-3 mb-3">
                             <div class="latest">
