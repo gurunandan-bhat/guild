@@ -1,0 +1,264 @@
+{
+	"id": 1221198,
+	"title": "Ground Zero",
+	"fcg_title": "Ground Zero",
+	"original_title": "ग्राउंड जीरो",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		},
+		{
+			"id": 10752,
+			"name": "War"
+		}
+	],
+	"overview": "An Indian army officer embarks on a mission leading to India’s most successful counter-terrorism operation in history.",
+	"backdrop_path": "/bhJT9N8Z4dORg8wsb9XleD5vaah.jpg",
+	"poster_path": "/x5YK8MkjL1vVsXxnGWifEOK2tJl.jpg",
+	"release_date": "2025-04-25",
+	"credits": {
+		"cast": [
+			{
+				"id": 85969,
+				"order": 0,
+				"name": "Emraan Hashmi",
+				"profile_path": "/kflgvFCFZnpTRbKmJWn5T0G5EKI.jpg",
+				"character": "Narendra Nath Dubey",
+				"gender": 2
+			},
+			{
+				"id": 86064,
+				"order": 1,
+				"name": "Mukesh Tiwari",
+				"profile_path": "/37GTjltEJHpi1lQmLmHKJYTpxjj.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1192050,
+				"order": 2,
+				"name": "Sai Tamhankar",
+				"profile_path": "/k4fDez6V350WGWk6VOhy2oACQZp.jpg",
+				"gender": 1
+			},
+			{
+				"id": 1940149,
+				"order": 3,
+				"name": "Zoya Hussain",
+				"profile_path": "/z6PcW04dbKq2dwAHLZgnoHL0VDK.jpg",
+				"gender": 1
+			},
+			{
+				"id": 2248928,
+				"order": 4,
+				"name": "Lalit Prabhakar",
+				"profile_path": "/gdjKrQX2ITPhqFGcWRnEaYq0Wci.jpg",
+				"gender": 2
+			},
+			{
+				"id": 4443208,
+				"order": 5,
+				"name": "Hanun Bawra"
+			},
+			{
+				"id": 2944926,
+				"order": 6,
+				"name": "Punit Tiwari"
+			},
+			{
+				"id": 1335263,
+				"order": 7,
+				"name": "Satya Prakash",
+				"profile_path": "/858vQ4NMh89fjjKEIeCh15oW5Y1.jpg",
+				"gender": 2
+			},
+			{
+				"id": 3320196,
+				"order": 8,
+				"name": "Aeklavya Tomer",
+				"profile_path": "/eeJCk1WiObcoOrZcq00NauuCybp.jpg"
+			},
+			{
+				"id": 4443209,
+				"order": 9,
+				"name": "Abhay Singh"
+			},
+			{
+				"id": 1108337,
+				"order": 10,
+				"name": "Rahul Vohra",
+				"profile_path": "/lxtocfCbOX8GNulNBCGJ9HZ5Ww3.jpg"
+			},
+			{
+				"id": 4487352,
+				"order": 11,
+				"name": "Rocky Raina"
+			},
+			{
+				"id": 1516721,
+				"order": 12,
+				"name": "Deepak Paramesh",
+				"profile_path": "/oYoYXH7mY9fZ4OBsOWDN7CO0aWN.jpg",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 2061136,
+				"name": "Tejas Vijay Deoskar",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1831904,
+				"name": "Sanchit Gupta",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 3307513,
+				"name": "Priyadarshee Srivastava",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 78916,
+				"name": "Farhan Akhtar",
+				"profile_path": "/nYx5T3tkghBPvmI29J2iJlZOFyV.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 78917,
+				"name": "Ritesh Sidhwani",
+				"profile_path": "/zEL6Jj03CgjrhIkuDha8ZmPMSQk.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1466269,
+				"name": "Kamaljeet Negi",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 231574,
+				"name": "Shashank Tere",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 2489443,
+				"name": "Musa Husain",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1871955,
+				"name": "Kirti Kolwankar",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2325125,
+				"name": "Maria Tharakan",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1113439,
+				"name": "Shruti Mahajan",
+				"job": "Casting",
+				"department": "Production"
+			},
+			{
+				"id": 1466270,
+				"name": "Chandrashekhar Prajapati",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 2062950,
+				"name": "Rohan Pradhan",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3322781,
+				"name": "Rohan Gokhale",
+				"profile_path": "/643yi8GWnVJP2lOgottlu6jwckg.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2782897,
+				"name": "Abhishek Kumar",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 78918,
+				"name": "Kassim Jagmagia",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2782898,
+				"name": "Nishikant Roy",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5332889,
+				"name": "Arhan Bagati",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2286952,
+				"name": "Rashmi Virag",
+				"profile_path": "/g8zSg3TXBR6FzrhyraWe3W6UiCP.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 233065,
+				"name": "Kumaar",
+				"profile_path": "/9sHLGuvqvmfbeh9RiaYROVQ2VUy.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5332895,
+				"name": "Sundeep Sidhwani",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3468602,
+				"name": "Vishal Ramchandani",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2115526,
+				"name": "Shivani Saran",
+				"job": "Executive Producer",
+				"department": "Production"
+			}
+		]
+	}
+}
