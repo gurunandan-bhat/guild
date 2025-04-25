@@ -22,4 +22,8 @@
             </div>
         </div>
     </div>
+{{ else }}
+    {{ if hugo.IsDevelopment }}
+        {{ warnf "Reviewer not available for %s" $name }}
+    {{ end }}
 {{ end }}
