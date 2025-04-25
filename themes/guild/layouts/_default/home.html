@@ -99,6 +99,10 @@
                                                             {{ end }}
                                                         </div>
                                                     </div>
+                                                {{ else }}
+                                                    {{ if hugo.IsDevelopment }}
+                                                        {{ warnf "Reviewer not available for %s" $id }}
+                                                    {{ end }}
                                                 {{ end }}
                                             </div>
                                         </div>
