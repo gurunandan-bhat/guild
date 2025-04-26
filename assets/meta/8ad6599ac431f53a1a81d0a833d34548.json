@@ -1,0 +1,288 @@
+{
+	"id": 980477,
+	"title": "Ne Zha 2",
+	"fcg_title": "Ne Zha 2",
+	"original_title": "哪吒之魔童闹海",
+	"original_language": "zh",
+	"genres": [
+		{
+			"id": 16,
+			"name": "Animation"
+		},
+		{
+			"id": 14,
+			"name": "Fantasy"
+		},
+		{
+			"id": 12,
+			"name": "Adventure"
+		}
+	],
+	"overview": "Following the Tribulation, although the souls of Ne Zha and Ao Bing were preserved, their physical bodies will soon be destroyed. Tai Yi Zhen Ren plans to use the Seven Colored Lotus to reshape their physical forms, but encounters numerous difficulties. What will become of Ne Zha and Ao Bing?",
+	"backdrop_path": "/8btfz81bOJ2lC7cujYBTw03wzg3.jpg",
+	"poster_path": "/5lUmWTGkEcYnXujixXn31o9q2T0.jpg",
+	"release_date": "2025-01-29",
+	"credits": {
+		"cast": [
+			{
+				"id": 2367355,
+				"order": 0,
+				"name": "Lu Yanting",
+				"profile_path": "/vKpOzPutTaPf03rWXiLuK8R2K3B.jpg",
+				"character": "Young Nezha (voice)",
+				"gender": 1
+			},
+			{
+				"id": 2367356,
+				"order": 1,
+				"name": "Joseph",
+				"profile_path": "/58Ytg6PBGpqB2s7DkHB82dRvdFO.jpg",
+				"character": "Youth Nezha / Jie Jie Shou Left (voice)",
+				"gender": 2
+			},
+			{
+				"id": 2368846,
+				"order": 2,
+				"name": "Han Mo",
+				"profile_path": "/6Ueom0Y4pjIG9B6zjQlfIbgcGhH.jpg",
+				"character": "Ao Bing (voice)",
+				"gender": 2
+			},
+			{
+				"id": 2368848,
+				"order": 3,
+				"name": "Chen Hao",
+				"profile_path": "/eBZJW1NCBFDh3U3xImf0vCCnDpy.jpg",
+				"character": "Li Jing (voice)",
+				"gender": 2
+			},
+			{
+				"id": 2368849,
+				"order": 4,
+				"name": "Lu Qi",
+				"profile_path": "/eGoSeaM1c6KCLiRIqM8LJq5S5L5.jpg",
+				"character": "Mrs. Yin (voice)",
+				"gender": 1
+			},
+			{
+				"id": 2368857,
+				"order": 5,
+				"name": "Zhang Jiaming",
+				"profile_path": "/7iL4a5fYc2ZLqFtzgJXYJwzXl8x.jpg",
+				"character": "Taiyi Zhenren (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1574893,
+				"order": 6,
+				"name": "Yang Wei",
+				"profile_path": "/rTi0M7yePiL3NqEGg5pTL7x56De.jpg",
+				"character": "Shen Gongbao (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1129530,
+				"order": 7,
+				"name": "Wang Deshun",
+				"profile_path": "/oMYVIRpr1t7L8mOYZAMXGf8XhmC.jpg",
+				"character": "Wuliang Xianweng (voice)",
+				"gender": 2
+			},
+			{
+				"id": 4927413,
+				"order": 8,
+				"name": "Yu Chen",
+				"profile_path": "/zZ15ZOUpH7yNZ5Rz71l7YUhveMN.jpg",
+				"character": "Ao Guang, Donghai Longwang / Seller (voice)",
+				"gender": 2
+			},
+			{
+				"id": 5224789,
+				"order": 9,
+				"name": "Zhou Yongxi",
+				"profile_path": "/8wjA8e2JOk4C11cGwqCo7uRLPem.jpg",
+				"character": "Ao Run, Xihai Longwang (voice)",
+				"gender": 1
+			},
+			{
+				"id": 4360810,
+				"order": 10,
+				"name": "Yuze Han",
+				"profile_path": "/aqiJdoNXynr72i9548Hrb1QdBRb.jpg",
+				"character": "Ao Shun, Beihai Longwang / Marmot / Muzha (voice)",
+				"gender": 2
+			},
+			{
+				"id": 5224795,
+				"order": 11,
+				"name": "Nan Yu",
+				"profile_path": "/eXmIbypDrXnLDmSvafPrADghAR2.jpg",
+				"character": "Ao Qin, Nanhai Longwang (voice)",
+				"gender": 2
+			},
+			{
+				"id": 5224799,
+				"order": 12,
+				"name": "Zhang Yunqi",
+				"profile_path": "/12BKdubMrQrrHlDPCc2DnPpkwRs.jpg",
+				"character": "Deer Child (voice)",
+				"gender": 2
+			},
+			{
+				"id": 3254572,
+				"order": 13,
+				"name": "Xingliner",
+				"profile_path": "/kAwo90XvibPmibd0XyWgR48tJBA.jpg",
+				"character": "Crane Child (voice)",
+				"gender": 1
+			},
+			{
+				"id": 5224801,
+				"order": 14,
+				"name": "Wang Zhixing",
+				"profile_path": "/lx712Gy38uJHkkkdYuKKizagYDg.jpg",
+				"character": "Shen Xiaobao (voice)"
+			},
+			{
+				"id": 5224803,
+				"order": 15,
+				"name": "Zhang Ji",
+				"profile_path": "/9Fqf1PxiG3R30sOK78ZLJSmnwQN.jpg",
+				"character": "Shen Zhengdao (voice)"
+			},
+			{
+				"id": 5224804,
+				"order": 16,
+				"name": "Liang Sheng",
+				"profile_path": "/otx91zWoMSRExzDrPhLesXvwpON.jpg",
+				"character": "Rat Boss / Rat Brother Er / Dao Xing Xian Zun (voice)"
+			},
+			{
+				"id": 3791131,
+				"order": 17,
+				"name": "Huan Ting",
+				"profile_path": "/iIZokkC5evrUievNheuvjD2qx8K.jpg",
+				"character": "Mirror / Cihang Daoren (voice)",
+				"gender": 1
+			},
+			{
+				"id": 3791123,
+				"order": 18,
+				"name": "Ling Qi",
+				"profile_path": "/3G6kVzgzio83HXpgwoEoynsCYIo.jpg",
+				"character": "Jie Jie Shou Right/ Huanglong Zhenren (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1191795,
+				"order": 19,
+				"name": "Gong Geer",
+				"profile_path": "/iefh3KyxdBx4RWYaolg7z2ZD3iK.jpg",
+				"character": "Fish Monster / Uncle Picking Lotus Roots / Aunt Picking Lotus Roots (voice)",
+				"gender": 2
+			},
+			{
+				"id": 5224806,
+				"order": 20,
+				"name": "Chen Houlin",
+				"character": "Shark Monster / Qingxu Daode Zhenjun (voice)"
+			},
+			{
+				"id": 2367353,
+				"order": 21,
+				"name": "Yang Yu",
+				"profile_path": "/9GVX1PAomTgqlAQplBfYCtblPE6.jpg",
+				"character": "Rat Boss (voice)",
+				"gender": 2
+			},
+			{
+				"id": 5268919,
+				"order": 22,
+				"name": "Xiao Wei",
+				"profile_path": "/nHigGT79lPzgjMHwkyMOTtcHvWe.jpg",
+				"character": "Shiji Niangniang (voice）"
+			}
+		],
+		"crew": [
+			{
+				"id": 2367353,
+				"name": "Yang Yu",
+				"profile_path": "/9GVX1PAomTgqlAQplBfYCtblPE6.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2367353,
+				"name": "Yang Yu",
+				"profile_path": "/9GVX1PAomTgqlAQplBfYCtblPE6.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 3380497,
+				"name": "Liu Wenzhang",
+				"profile_path": "/7BLmmFhYDN7MyKVui5qJ590qgi9.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4244140,
+				"name": "Chen Zhe",
+				"profile_path": "/iHoTxlDIZQ9uNtfmT38iNfx7D7z.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1608970,
+				"name": "Wang Changtian",
+				"profile_path": "/5NVTL4mXj8PjBbvJiXBum0WmvPw.jpg",
+				"job": "Presenter",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3102084,
+				"name": "Li Xiaoping",
+				"profile_path": "/cInCDR5M897mPuWEGOSw1V1zxc.jpg",
+				"job": "Presenter",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1323173,
+				"name": "Roc Chen",
+				"profile_path": "/zaAmLbksc4bxTr21dhveZ6I7WRr.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2623147,
+				"name": "Wan Pin Chu",
+				"profile_path": "/r8Fixl6Mbv9SsjM7z4lLGTyTOgg.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5210591,
+				"name": "Yang Rui",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2367353,
+				"name": "Yang Yu",
+				"profile_path": "/9GVX1PAomTgqlAQplBfYCtblPE6.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			}
+		]
+	}
+}
