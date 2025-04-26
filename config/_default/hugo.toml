@@ -20,6 +20,5 @@ mreview = 'mreviews'
 taxonomy = ['json', 'html']
 term     = ['json', 'html']
 
-[security]
 [security.http]
 mediaTypes = ['^audio/mpeg$']
