@@ -1,3 +1,4 @@
+{{- $caption := .Get "caption" }}
 {{- with $path := .Get "path" }}
     {{- $r := "" }}
     {{- if (urls.Parse $path).IsAbs }}
@@ -20,10 +21,10 @@
 
     {{- with $r }}
         <figure class="audio">
-            {{- with $.Get "caption" }}
+            {{- with $caption }}
                 <figcaption>{{ . }}</figcaption>
             {{- end }}
-            {{- $id := printf "audio-%03d" (add $.Ordinal 1) }}
+            {{- $id := printf "audio-%s" ($path | md5) }}
             <audio controls id="{{ $id }}" preload="auto">
                 <source
                     src="{{ .RelPermalink }}"
