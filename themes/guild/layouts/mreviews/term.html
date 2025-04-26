@@ -34,7 +34,7 @@
             </div>
             {{ range $paginator.Pages }}
                 <div class="mb-3">
-                    {{ if eq .Params.media "print" }}
+                    {{ if or (eq .Params.media "print") (eq .Params.media "audio") }}
                         <div class="row mb-3">
                             <div class="col-lg-4 offset-lg-1">
                                 {{ printf "<!-- Path:  %s -->" .Page | safeHTML }}
@@ -75,14 +75,17 @@
                                             <div class="small">
                                                 {{ .Summary }}
                                             </div>
-                                            <p class="small">
-                                                <a
-                                                    href="{{ .Params.source }}"
-                                                    target="_blank">
-                                                    {{ $extLinkIcon }} Continue
-                                                    reading &hellip;</a
-                                                >
-                                            </p>
+                                            {{ with .Params.source }}
+                                                <p class="small">
+                                                    <a
+                                                        href="{{ . }}"
+                                                        target="_blank">
+                                                        {{ $extLinkIcon }}
+                                                        Continue reading
+                                                        &hellip;</a
+                                                    >
+                                                </p>
+                                            {{ end }}
                                         </div>
                                     </div>
                                 </div>
