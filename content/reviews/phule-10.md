@@ -12,4 +12,4 @@ media = 'audio'
 score = 2
 +++
 
-{{< myaudio path="https://fcgreviews.s3.ap-south-1.amazonaws.com/Phule_Bhawana_Somaaya.mp3" caption="On 92.7 Big FM" >}}
+{{< audio path="https://fcgreviews.s3.ap-south-1.amazonaws.com/Phule_Bhawana_Somaaya.mp3" caption="On 92.7 Big FM" >}}

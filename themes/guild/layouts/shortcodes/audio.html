@@ -1,0 +1,9 @@
+{{- $caption := .Get "caption" }}
+{{- $path := .Get "path" }}
+<figure class="w-100">
+    <figcaption>{{ $caption }}</figcaption>
+    {{- $id := printf "audio-%s" ($path | md5) }}
+    <audio controls id="{{ $id }}" preload="auto">
+        <source src="{{ $path }}" type="audio/mpeg" />
+    </audio>
+</figure>
