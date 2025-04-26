@@ -6,9 +6,8 @@ draft = false
 mreviews = ["{{ $title }}"]
 critics = ['']
 subtitle = ""
-media = 'video'
+media = 'audio'
 source = ''
+captio = ""
 score = 
 +++
-
-{{< youtube id="" loading="lazy" >}}
