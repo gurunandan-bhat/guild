@@ -22,3 +22,6 @@ term     = ['json', 'html']
 
 [security.http]
 mediaTypes = ['^audio/mpeg$']
+
+[mediaTypes.'audio/mpeg']
+suffixes = ['mp3']

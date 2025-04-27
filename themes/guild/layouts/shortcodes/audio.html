@@ -3,12 +3,11 @@
     {{- $r := "" }}
     {{ $url := urls.Parse $path }}
     {{- if $url.IsAbs }}
-        {{ $fName := printf "audio%s" $url.Path }}
         {{- with try (resources.GetRemote $path) }}
             {{- with .Err }}
                 {{- errorf "The %q shortcode was unable to get %s: %s: see %s" $.Name $path . $.Position }}
             {{- else with .Value }}
-                {{- $r = . | resources.Copy $fName }}
+                {{- $r = . }}
             {{- else }}
                 {{- errorf "The %q shortcode was unable to get %s: see %s" $.Name $path $.Position }}
             {{- end }}
