@@ -1,0 +1,390 @@
+{
+	"id": 1060046,
+	"title": "HIT: The Third Case",
+	"fcg_title": "Hit 3",
+	"original_title": "హిట్: ది థర్డ్ కేస్",
+	"original_language": "te",
+	"genres": [
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		},
+		{
+			"id": 28,
+			"name": "Action"
+		}
+	],
+	"overview": "Arjun Sarkaar, an SP in HIT at Visakhapatnam, gets assigned to a case for HIT in Jammu and Kashmir to catch a group of serial killers who are responsible for the gruesome murders of several people.",
+	"backdrop_path": "/ax41cKjQSyHccKAwKbh4eUSX876.jpg",
+	"poster_path": "/wT9tGyFol4RBwkjESXUWeBdnLJn.jpg",
+	"release_date": "2025-04-30",
+	"credits": {
+		"cast": [
+			{
+				"id": 225387,
+				"order": 0,
+				"name": "Nani",
+				"profile_path": "/4hk5PkN3YHrkIxme0bdrGhNslpn.jpg",
+				"character": "Arjun Sarkaar",
+				"gender": 2
+			},
+			{
+				"id": 2182257,
+				"order": 1,
+				"name": "Srinidhi Shetty",
+				"profile_path": "/pTsixKDFS3n2xsvR6wDZ9J6jjfQ.jpg",
+				"character": "Mrudula",
+				"gender": 1
+			},
+			{
+				"id": 1967838,
+				"order": 2,
+				"name": "Komalee Prasad",
+				"profile_path": "/sIYt3cLJXhIls76jA5gAwyPk2I2.jpg",
+				"character": "Varsha",
+				"gender": 1
+			},
+			{
+				"id": 2480544,
+				"order": 3,
+				"name": "Maganti Srinath",
+				"character": "Abhilash",
+				"gender": 2
+			},
+			{
+				"id": 586629,
+				"order": 4,
+				"name": "Rao Ramesh",
+				"profile_path": "/jzO0wN21tEcmz0haekvliQU91JM.jpg",
+				"character": "Nageswara Rao",
+				"gender": 2
+			},
+			{
+				"id": 2549809,
+				"order": 5,
+				"name": "Surya Srinivas",
+				"profile_path": "/8FCnFbBZLEmIFaP8xRQ99OC7Dff.jpg",
+				"character": "Ravi"
+			},
+			{
+				"id": 5405982,
+				"order": 6,
+				"name": "Adil Pala",
+				"character": "Zubair Ahmed Khan"
+			},
+			{
+				"id": 213432,
+				"order": 7,
+				"name": "Brahmaji",
+				"profile_path": "/xDTE7POq1bkyjLINxdy7rW4wQlg.jpg",
+				"character": "R. Shinde",
+				"gender": 2
+			},
+			{
+				"id": 126500,
+				"order": 8,
+				"name": "Prateik Babbar",
+				"profile_path": "/yDUhU9C4C7fBAse1KmzQxVkSwjn.jpg",
+				"character": "Alpha",
+				"gender": 2
+			},
+			{
+				"id": 2340294,
+				"order": 9,
+				"name": "Amit Sharma",
+				"profile_path": "/t95WMj1xrRb7hlOASHgNRXxuwAG.jpg",
+				"character": "Alpha's brother",
+				"gender": 2
+			},
+			{
+				"id": 585397,
+				"order": 10,
+				"name": "Samuthirakani",
+				"profile_path": "/hicCPOdDfSRCEYkeb9g53FOY19A.jpg",
+				"character": "Arjun Sarkar’s father",
+				"gender": 2
+			},
+			{
+				"id": 2109334,
+				"order": 11,
+				"name": "Ravindra Vijay",
+				"profile_path": "/2mw4VbANE3QtI9dzQXdrG74RizL.jpg",
+				"character": "Samuel Joseph",
+				"gender": 2
+			},
+			{
+				"id": 1291761,
+				"order": 12,
+				"name": "Adivi Sesh",
+				"profile_path": "/vWvU1qlpGGrCsdox0pAJ6Gns4Bp.jpg",
+				"character": "Krishna Dev \"KD\" (Special Appearance)",
+				"gender": 2
+			},
+			{
+				"id": 123066,
+				"order": 13,
+				"name": "Karthi",
+				"profile_path": "/zDedofqLD0OQtRVbxr04KPytr2R.jpg",
+				"character": "ACP Veerappan (Special Appearance)",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 2551825,
+				"name": "Sailesh Kolanu",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2551825,
+				"name": "Sailesh Kolanu",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 1606146,
+				"name": "Prashanti Tipirneni",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1309358,
+				"name": "Mickey J Meyer",
+				"profile_path": "/ogeUjNtob45rVaKJ9TKxwys46s2.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1337156,
+				"name": "Sanu John Varghese",
+				"profile_path": "/xniYcUcI5jQqU5huyLdSlrh58ZT.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2160296,
+				"name": "Karthika Srinivas",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 2519053,
+				"name": "Sri Nagendra Prasad Tangala",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 2200190,
+				"name": "Vamsi Shekar",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 5198747,
+				"name": "Aesthetic Kunjamma",
+				"job": "Publicist",
+				"department": "Production"
+			},
+			{
+				"id": 2293439,
+				"name": "S Venkatrathnam",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2200187,
+				"name": "Vishwa Raghu",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2293444,
+				"name": "Krishna Kanth",
+				"profile_path": "/2MmRxA4GD4H6nHgCrAQQhuvJLHW.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4855217,
+				"name": "Nani Kamarsu",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3307692,
+				"name": "Sridhar Chadalawada",
+				"job": "Still Photographer",
+				"department": "Camera"
+			},
+			{
+				"id": 5371472,
+				"name": "Abhilash Nandhadapu",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 92508,
+				"name": "Lee Whittaker",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2041626,
+				"name": "Real Satheesh",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3538524,
+				"name": "Venkat Maddirala",
+				"job": "Co-Director",
+				"department": "Directing"
+			},
+			{
+				"id": 3318458,
+				"name": "Pruthvi",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 1590552,
+				"name": "Federico Berte",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1643578,
+				"name": "Sachin Sudhakaran",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1643577,
+				"name": "Hari Haran",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2399148,
+				"name": "Raghunath Varma Somala",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 5371478,
+				"name": "P. V. Adithya",
+				"job": "Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 5371479,
+				"name": "Prathish Nair",
+				"job": "Assistant Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 5371480,
+				"name": "Krishna H. R.",
+				"job": "Assistant Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 5371481,
+				"name": "Chanti Harani",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5371483,
+				"name": "M. Sapta Girish",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5371484,
+				"name": "Niranjan Santhra",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5371485,
+				"name": "Sandeep Pendurti",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5371486,
+				"name": "Vijay Mahireddy",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5371488,
+				"name": "Chendrahanth Pasupuleti",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5371489,
+				"name": "Rahiman Puri",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5371491,
+				"name": "Gajaa",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5371492,
+				"name": "H. Srinivasulu Raju",
+				"job": "Production Controller",
+				"department": "Crew"
+			},
+			{
+				"id": 5371493,
+				"name": "Humili Appala Naidu",
+				"job": "Production Executive",
+				"department": "Production"
+			},
+			{
+				"id": 1335995,
+				"name": "Surya Kiran",
+				"profile_path": "/3Pmk5140Pbk8KFWm9o770AWm6Bs.jpg",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 1641717,
+				"name": "G. Suren",
+				"job": "Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5371494,
+				"name": "Kalyan Surya Prakash",
+				"job": "Co-Editor",
+				"department": "Editing"
+			}
+		]
+	}
+}
