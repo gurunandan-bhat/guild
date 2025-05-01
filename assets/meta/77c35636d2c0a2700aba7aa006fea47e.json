@@ -1,0 +1,406 @@
+{
+	"id": 1227128,
+	"title": "Raid 2",
+	"fcg_title": "Raid 2",
+	"original_title": "छापा 2",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		}
+	],
+	"overview": "Amay Patnaik conducts his 75th raid on the premises of a influential politician named Dada Bhai.",
+	"backdrop_path": "/uKhBujLqYCcfU1kaxXHNCEyZnT.jpg",
+	"poster_path": "/fzVbLi9PPKMOFtJMnVHKfcRVRTm.jpg",
+	"release_date": "2025-05-01",
+	"credits": {
+		"cast": [
+			{
+				"id": 42803,
+				"order": 0,
+				"name": "Ajay Devgn",
+				"profile_path": "/83jDgHAPf4hPCFoF1OTF08xkhd6.jpg",
+				"character": "Amay Patnayak",
+				"gender": 2
+			},
+			{
+				"id": 84957,
+				"order": 1,
+				"name": "Ritesh Deshmukh",
+				"profile_path": "/b4Mwk9dDgMS82269iBX7V1YsOpu.jpg",
+				"character": "Dada Bhai",
+				"gender": 2
+			},
+			{
+				"id": 1192903,
+				"order": 2,
+				"name": "Vaani Kapoor",
+				"profile_path": "/u39OAXWXiOCQhbtLTIRBMjdaZwT.jpg",
+				"gender": 1
+			},
+			{
+				"id": 76789,
+				"order": 3,
+				"name": "Saurabh Shukla",
+				"profile_path": "/uFGVBmRIHLAQkYYSI2lSXOxMi4f.jpg",
+				"character": "Rameshwar \"Rajaji\" Singh a.k.a \"Tauji\"",
+				"gender": 2
+			},
+			{
+				"id": 78922,
+				"order": 4,
+				"name": "Rajat Kapoor",
+				"profile_path": "/8IF24mMUSspmXHbxCMMbMaz3WRj.jpg",
+				"gender": 2
+			},
+			{
+				"id": 4488816,
+				"order": 5,
+				"name": "Sushil Dahiya"
+			},
+			{
+				"id": 85721,
+				"order": 6,
+				"name": "Tamannaah Bhatia",
+				"profile_path": "/t4WYoKiFAyO1Rhjv7O03EKmJHp4.jpg",
+				"gender": 1
+			},
+			{
+				"id": 117729,
+				"order": 7,
+				"name": "Amit Sial",
+				"profile_path": "/xw5krdySj0LN7KNaOhBiR9Zqrk0.jpg",
+				"gender": 2
+			},
+			{
+				"id": 86892,
+				"order": 8,
+				"name": "Supriya Pathak",
+				"profile_path": "/cDvNa9XL425kBiyT4xqRGM8kK4H.jpg",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 1323051,
+				"name": "Abhishek Pathak",
+				"profile_path": "/ymvu4mglmm93DYvdaCAsdGlPU1m.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 230437,
+				"name": "Raj Kumar Gupta",
+				"profile_path": "/1tHexkm1bxMbwKhRftuiF7bRsT8.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 83595,
+				"name": "Bhushan Kumar",
+				"profile_path": "/luUFnGoGwjwZ5CHAePRIQpAwT5b.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1705316,
+				"name": "Kumar Mangat Pathak",
+				"profile_path": "/TQokIwYhZesbeMrSTfXZJ8BlM1.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 141882,
+				"name": "Krishan Kumar",
+				"profile_path": "/gw2jzzkdRyIHglwieCiFSQ9cLZZ.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 230437,
+				"name": "Raj Kumar Gupta",
+				"profile_path": "/1tHexkm1bxMbwKhRftuiF7bRsT8.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1779940,
+				"name": "Karan Vyas",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 150486,
+				"name": "Ritesh Shah",
+				"profile_path": "/nQHtdlipGeGtJQcImXfeRawjzct.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2303268,
+				"name": "Jaideep Yadav",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 2447050,
+				"name": "Sudhir K Chaudhary",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2519169,
+				"name": "Shiv Chanana",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2033092,
+				"name": "Sanjeev Joshi",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1613555,
+				"name": "Sandeep Francis",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 223854,
+				"name": "Amit Trivedi",
+				"profile_path": "/lRewkQ2Smolc0TjNMSycYHnbFil.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1521933,
+				"name": "Nusrat Fateh Ali Khan",
+				"profile_path": "/tj7hM3R7icMQKyZeVLYhbl2hQFO.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1078260,
+				"name": "Yo Yo Honey Singh",
+				"profile_path": "/w54B446zi7xrdq0vEBNplMDMM6K.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1174417,
+				"name": "Rochak Kohli",
+				"profile_path": "/bJ77Ut5e1dwVsTXjEYFgtJFR8A6.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1871590,
+				"name": "Sachet Tandon",
+				"profile_path": "/rFWWAGhXMNKX7OEUWFvxjvvR6If.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1871589,
+				"name": "Parampara Thakur",
+				"profile_path": "/lwf7h7DOJxFPU3QPGjZ36iffDMr.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1521933,
+				"name": "Nusrat Fateh Ali Khan",
+				"profile_path": "/tj7hM3R7icMQKyZeVLYhbl2hQFO.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5332978,
+				"name": "Purnam Allahabadi",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 1078260,
+				"name": "Yo Yo Honey Singh",
+				"profile_path": "/w54B446zi7xrdq0vEBNplMDMM6K.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1599798,
+				"name": "Amitabh Bhattacharya",
+				"profile_path": "/FsOarFNY9tnqKcs3TI1BFvhIla.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1790604,
+				"name": "Manoj Muntashir",
+				"profile_path": "/qhEdZegMLIkHvAYu1CaRiCvVShz.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1495603,
+				"name": "Kausar Munir",
+				"profile_path": "/7opGgmpEUXFmXJ5JiXnSfqvUNB4.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 2441001,
+				"name": "Jaani",
+				"profile_path": "/pdt6M14SdqTuyqwdieKe9vwD4tt.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1653496,
+				"name": "Rita Ghosh",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 3720260,
+				"name": "Naveen Shetty",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4488705,
+				"name": "Mehek Navin Shetty",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5332981,
+				"name": "Priyanka Costello",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1764228,
+				"name": "Shahaab Alam",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 1616627,
+				"name": "R.P. Yadav",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 1740434,
+				"name": "Rhitwik Raj Pathak",
+				"job": "Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1786866,
+				"name": "Shreya Dev Verma",
+				"job": "Creative Producer",
+				"department": "Writing"
+			},
+			{
+				"id": 3581108,
+				"name": "Pragya Singh",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5332986,
+				"name": "Niraj Sethi",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2205734,
+				"name": "Santosh Pawar",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 2167353,
+				"name": "Pankaj Kalbende",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 5332987,
+				"name": "Vipin Kumar Singh",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 1819984,
+				"name": "Ranju Varghese",
+				"job": "Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 2119269,
+				"name": "Piyush Bhagat",
+				"job": "Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 2119270,
+				"name": "Shazia Samji",
+				"job": "Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 1825250,
+				"name": "Nav Nirman Singh",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2447726,
+				"name": "Santosh Auti",
+				"job": "Finance",
+				"department": "Production"
+			},
+			{
+				"id": 4487459,
+				"name": "Rahul Gupta",
+				"job": "Post Production Coordinator",
+				"department": "Production"
+			},
+			{
+				"id": 2447727,
+				"name": "Swapnil Rane",
+				"job": "Publicist",
+				"department": "Production"
+			}
+		]
+	}
+}
