@@ -1,6 +1,6 @@
 +++
 title = "Devmanus"
-date = 2025-05-25T16:49:27+05:30
+date = 2025-04-25T16:49:27+05:30
 draft = false
 mreviews = ["Devmanus"]
 critics = ['Mihir Bhanage']
