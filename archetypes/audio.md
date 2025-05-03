@@ -6,8 +6,9 @@ draft = false
 mreviews = ["{{ $title }}"]
 critics = ['']
 subtitle = ""
+opening = ""
 media = 'audio'
-source = ''
-captio = ""
-score = 
+score =
 +++
+
+{{< audio path="" caption="" >}}
