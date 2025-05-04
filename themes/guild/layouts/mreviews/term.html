@@ -35,7 +35,7 @@
             {{ range $paginator.Pages }}
                 <div class="mb-3">
                     {{ if or (eq .Params.media "print") (eq .Params.media "audio") }}
-                        <div class="row mb-3">
+                        <div class="row mb-5">
                             <div class="col-lg-4 offset-lg-1">
                                 {{ printf "<!-- Path:  %s -->" .Page | safeHTML }}
                                 {{ $imgPath := printf "images/reviews/%s" .Params.img }}
@@ -43,7 +43,7 @@
                                     {{ with .Process "webp" }}
                                         <img
                                             src="{{ .RelPermalink }}"
-                                            class="img-fluid review-image mt-2"
+                                            class="img-fluid pt-1"
                                             alt="Image of scene from the film {{ $fullTitle }}" />
                                     {{ end }}
                                 {{ else }}
