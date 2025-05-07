@@ -2,15 +2,175 @@
 	"id": 290374,
 	"name": "Black, White \u0026 Gray - Love Kills",
 	"fcg_title": "Black, White \u0026 Gray: Love Kills",
-	"original_language": "en",
+	"original_language": "hi",
 	"genres": [
 		{
 			"id": 80,
 			"name": "Crime"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
 		}
 	],
 	"overview": "Truth is never black or white. A high-profile case of serial killings takes an unexpected turn when forbidden love and deception come into play. In a world where love can kill, uncovering the truth is more dangerous than ever.",
-	"backdrop_path": "/9IwLMVmr1fZo9LaakaktDkFmRHK.jpg",
+	"backdrop_path": "/7h6IR9dvxwEYtzbvFa9jfY1OGcy.jpg",
 	"poster_path": "/6PXpJDC6wRhD6H8OCGPjSLpaXoZ.jpg",
-	"credits": {}
+	"credits": {
+		"cast": [
+			{
+				"id": 1846604,
+				"order": 0,
+				"name": "Mayur More",
+				"profile_path": "/rJDNKSQZ8dlp26D8QW3ExKc8abw.jpg",
+				"gender": 2
+			},
+			{
+				"id": 5413538,
+				"order": 1,
+				"name": "Palak Jaiswal"
+			},
+			{
+				"id": 545084,
+				"order": 2,
+				"name": "Tigmanshu Dhulia",
+				"profile_path": "/2CRk2UX3KfqMythuLBleMwQ7bQr.jpg",
+				"gender": 2
+			},
+			{
+				"id": 110292,
+				"order": 3,
+				"name": "Deven Bhojani",
+				"profile_path": "/4gKlQ8QD6BtfachIRAXOxB5vidB.jpg",
+				"gender": 2
+			},
+			{
+				"id": 5413537,
+				"order": 4,
+				"name": "Hakkim Shahjahan"
+			},
+			{
+				"id": 239690,
+				"order": 5,
+				"name": "Anant Jog",
+				"profile_path": "/hEccad6KSCLPGL58v5Epst8VNr0.jpg",
+				"gender": 2
+			},
+			{
+				"id": 494552,
+				"order": 6,
+				"name": "Kamlesh Sawant",
+				"profile_path": "/wtw6SSvi5TINvjF7q9n2yFPN37h.jpg",
+				"gender": 2
+			},
+			{
+				"id": 3891111,
+				"order": 7,
+				"name": "Jairoop Jeevan"
+			},
+			{
+				"id": 2733020,
+				"order": 8,
+				"name": "Abhishek Bhalerao",
+				"profile_path": "/cE8kXQGaXcLiMzKjhtJgMUHQImI.jpg"
+			},
+			{
+				"id": 4052591,
+				"order": 9,
+				"name": "Kavita Ghai"
+			},
+			{
+				"id": 5417320,
+				"order": 10,
+				"name": "Nishant Shamaskar"
+			},
+			{
+				"id": 4326497,
+				"order": 11,
+				"name": "Samidha Guru"
+			}
+		],
+		"crew": [
+			{
+				"id": 1765452,
+				"name": "Shubham Gaur",
+				"job": "Casting",
+				"department": "Production"
+			},
+			{
+				"id": 5006113,
+				"name": "Saugata Mukherjee",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1561319,
+				"name": "Sanyuktha Chawla Sheikh",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5417325,
+				"name": "Anujeet Ghatak",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2126603,
+				"name": "Meghdeep Bose",
+				"job": "Music",
+				"department": "Sound"
+			},
+			{
+				"id": 5417327,
+				"name": "Shaiju Nair",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2849440,
+				"name": "Ankita Narang",
+				"job": "Creative Producer",
+				"department": "Writing"
+			},
+			{
+				"id": 5417329,
+				"name": "Sree Bhope",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 86418,
+				"name": "Swaroop Sampat",
+				"profile_path": "/uFdmoiG3yETmLRD0DqMVToAN0kq.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 3018395,
+				"name": "Hemal Thakkar",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5413554,
+				"name": "Pushkar Sunil Mahabal",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5413554,
+				"name": "Pushkar Sunil Mahabal",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 5413554,
+				"name": "Pushkar Sunil Mahabal",
+				"job": "Editor",
+				"department": "Editing"
+			}
+		]
+	}
 }
