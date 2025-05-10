@@ -1,7 +1,7 @@
 +++
 title = "Pyar Paisa Profit"
-date = 2025-05-10T08:21:20+05:30
-draft = true
+date = 2025-05-09T08:21:20+05:30
+draft = false
 mreviews = ["Pyar Paisa Profit"]
 critics = ['Srivathsan Nadadhur']
 publication = 'M9 News'
