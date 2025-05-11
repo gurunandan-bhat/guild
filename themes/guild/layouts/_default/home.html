@@ -33,7 +33,7 @@
                                     {{ partial "short-meta.html" (dict "review" . "type" "full" "scoreImg" $scoreImg "showCast" true) }}
                                 </div>
                                 {{ $reviews := first 3 (sort (where .Site.RegularPages ".Title" .Title) ".Date" "desc") }}
-                                {{ $accordionID := printf "%s-%s" "accordion" (replace (index $reviews 0).Title " " "-") }}
+                                {{ $accordionID := printf "%s-%s" "accordion" (replace (index $reviews 0).Title " " "-") | urlize }}
                                 <div class="accordion" id="{{ $accordionID }}">
                                     {{ range $review := $reviews }}
                                         <div class="accordion-item">
