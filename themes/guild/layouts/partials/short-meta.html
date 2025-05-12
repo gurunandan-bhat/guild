@@ -31,15 +31,17 @@
     {{ end }}
 
     {{ $crew := .credits.crew }}
-    {{ $director := "" }}
-    {{ $writer := "" }}
+    {{ $director := slice }}
+    {{ $writer := slice }}
     {{ range $crew }}
         {{ if eq .job "Director" }}
-            {{ $director = .name }}
+            {{ $director = append .name $director }}
         {{ else if (and (eq .department "Writing") (eq .job "Writer")) }}
-            {{ $writer = .name }}
+            {{ $writer = append .name $writer }}
         {{ end }}
     {{ end }}
+    {{ $all_directors := delimit $director ", " }}
+    {{ $all_writers := delimit $writer ", " }}
     <div class="latest border border-2 border-bottom-0">
         <div class="row">
             <div class="col-lg-9">
@@ -82,14 +84,14 @@
                         <span class="fw-bolder">Cast:</span>
                         {{ $castList }}
                     {{ end }}<br />
-                    {{ with $director }}
+                    {{ with $all_directors }}
                         <span class="fw-bolder">Director:</span>
-                        {{ $director }}
+                        {{ . }}
                     {{ end }}
-                    {{ with $writer }}
+                    {{ with $all_writers }}
                         <br />
                         <span class="fw-bolder">Writer:</span>
-                        {{ $writer }}
+                        {{ . }}
                     {{ end }}
                 </p>
             </div>
