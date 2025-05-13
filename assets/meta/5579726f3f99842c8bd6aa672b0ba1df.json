@@ -1,0 +1,182 @@
+{
+	"id": 257669,
+	"name": "Pill",
+	"fcg_title": "Pill",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Pill unravels the deep-set rot in the Indian pharmaceutical industry. Dr. Prakash along with three whistle-blowers face a powerful pharma giant Forever Cure to expose the corrupt nexus of pharma, middlemen, and doctors through which a pill reaches the common man. Will the good be able to overcome the evil?",
+	"backdrop_path": "/u6xfzMOU5zPmD0i7XoEk93Idaw9.jpg",
+	"poster_path": "/gyXfVqYIBg1ly8xQuJtf79vM2k8.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 84957,
+				"order": 0,
+				"name": "Ritesh Deshmukh",
+				"profile_path": "/b4Mwk9dDgMS82269iBX7V1YsOpu.jpg",
+				"character": "Dr. Prakash Chauhan",
+				"gender": 2
+			},
+			{
+				"id": 53379,
+				"order": 1,
+				"name": "Pavan Malhotra",
+				"profile_path": "/aqTzRvGsujDgxoLbVEvVEZVTyNr.jpg",
+				"character": "Brahma Gill",
+				"gender": 2
+			},
+			{
+				"id": 2595175,
+				"order": 2,
+				"name": "Anshul Chauhan",
+				"profile_path": "/gkFbpg1tvJa0OkbZRp66xnTQByJ.jpg",
+				"character": "Gursimrat Kaur",
+				"gender": 1
+			},
+			{
+				"id": 4279735,
+				"order": 3,
+				"name": "Akshat Chauhan",
+				"character": "Noor"
+			},
+			{
+				"id": 2142135,
+				"order": 4,
+				"name": "Baharul Islam",
+				"profile_path": "/1VRm8IrBUT8G5FjxexFvfYf4mHJ.jpg",
+				"character": "Dr. Basudev Natrajan"
+			},
+			{
+				"id": 1957465,
+				"order": 5,
+				"name": "Nikhil Khurana",
+				"profile_path": "/wJ9B7GPhjzTXMbnj08v6Iw0FJCp.jpg",
+				"character": "Ekam Gill"
+			},
+			{
+				"id": 2682509,
+				"order": 6,
+				"name": "Kunj Anand",
+				"profile_path": "/5Op1TqljLucjVRI5LWclzCvOX8D.jpg",
+				"character": "Ashish Khanna"
+			}
+		],
+		"crew": [
+			{
+				"id": 230437,
+				"name": "Raj Kumar Gupta",
+				"profile_path": "/1tHexkm1bxMbwKhRftuiF7bRsT8.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 53677,
+				"name": "Ronnie Screwvala",
+				"profile_path": "/yBlADqlWOXWAgDOt3RnBb51JgOu.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4828598,
+				"name": "Suvrangshu Sarkar",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1113439,
+				"name": "Shruti Mahajan",
+				"job": "Casting",
+				"department": "Production"
+			},
+			{
+				"id": 3420526,
+				"name": "Sanaya Irani Zohrabi",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1414646,
+				"name": "Sanjeevkumar Nair",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 554789,
+				"name": "Myra Karn",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 230437,
+				"name": "Raj Kumar Gupta",
+				"profile_path": "/1tHexkm1bxMbwKhRftuiF7bRsT8.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 230437,
+				"name": "Raj Kumar Gupta",
+				"profile_path": "/1tHexkm1bxMbwKhRftuiF7bRsT8.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1488388,
+				"name": "Parveez Shaikh",
+				"job": "Story",
+				"department": "Writing"
+			},
+			{
+				"id": 2303268,
+				"name": "Jaideep Yadav",
+				"job": "Story",
+				"department": "Writing"
+			},
+			{
+				"id": 2303268,
+				"name": "Jaideep Yadav",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 2303268,
+				"name": "Jaideep Yadav",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 2303268,
+				"name": "Jaideep Yadav",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 230437,
+				"name": "Raj Kumar Gupta",
+				"profile_path": "/1tHexkm1bxMbwKhRftuiF7bRsT8.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 230437,
+				"name": "Raj Kumar Gupta",
+				"profile_path": "/1tHexkm1bxMbwKhRftuiF7bRsT8.jpg",
+				"job": "Dialogue",
+				"department": "Writing",
+				"gender": 2
+			}
+		]
+	}
+}
