@@ -32,6 +32,25 @@
                 {{ partialCached "footer.html" . }}
             </footer>
         </div>
-        {{ partialCached "head/js.html" . }}
+        {{ with resources.Get "js/main.js" }}
+            {{ $opts := dict
+                "minify" (not hugo.IsDevelopment)
+                "sourceMap" (cond hugo.IsDevelopment "external" "")
+                "targetPath" "js/main.js"
+                "params" (dict "hugoVersion" hugo.Version)
+            }}
+            {{ with . | js.Build $opts }}
+                {{ if hugo.IsDevelopment }}
+                    <script src="{{ .RelPermalink }}"></script>
+                {{ else }}
+                    {{ with . | fingerprint }}
+                        <script
+                            src="{{ .RelPermalink }}"
+                            integrity="{{ .Data.Integrity }}"
+                            crossorigin="anonymous"></script>
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+        {{ end }}
     </body>
 </html>
