@@ -22,9 +22,8 @@
     {{ with .credits.cast }}
         {{ $cast := . }}
         {{ $castLen := len $cast }}
-        {{ $min := math.Min 5 $castLen }}
         {{ $cS := slice }}
-        {{ range first $min $cast }}
+        {{ range $cast }}
             {{ $cS = append (.name) $cS }}
         {{ end }}
         {{ $castList = delimit $cS ", " }}

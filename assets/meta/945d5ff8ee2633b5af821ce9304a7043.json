@@ -4,11 +4,63 @@
 	"fcg_title": "Muthayya",
 	"original_title": "Muthayya",
 	"original_language": "te",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 10751,
+			"name": "Family"
+		}
+	],
 	"overview": "In a remote village, a 70-year-old man dreams of becoming an actor before he dies. While sharing these dreams with his best friend, he tries to showcase his acting skills in every way possible.",
 	"backdrop_path": "/dkrXS9TZULgbNTAwS5WEt2WMQwX.jpg",
 	"poster_path": "/zLSRAqCLUJY8hB1UmYdBLvfK0Me.jpg",
 	"release_date": "2022-05-09",
 	"credits": {
+		"cast": [
+			{
+				"id": 2701136,
+				"order": 0,
+				"name": "Sudhakar Reddy",
+				"character": "Muthayya",
+				"gender": 2
+			},
+			{
+				"id": 5410552,
+				"order": 1,
+				"name": "Mounika Bomma",
+				"character": "Shailu"
+			},
+			{
+				"id": 5410553,
+				"order": 2,
+				"name": "Purna Chandra",
+				"character": "Narasimha"
+			},
+			{
+				"id": 5410575,
+				"order": 3,
+				"name": "Kiran Kumar"
+			},
+			{
+				"id": 5410615,
+				"order": 4,
+				"name": "Sai Leela Pooja"
+			},
+			{
+				"id": 4545383,
+				"order": 5,
+				"name": "Arun Raj",
+				"character": "Malli"
+			},
+			{
+				"id": 5410626,
+				"order": 6,
+				"name": "Jayavardhan Sagar"
+			}
+		],
 		"crew": [
 			{
 				"id": 4404627,
