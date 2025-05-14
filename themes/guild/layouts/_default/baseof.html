@@ -32,6 +32,7 @@
                 {{ partialCached "footer.html" . }}
             </footer>
         </div>
+        {{ partialCached "head/js.html" . }}
         {{ with resources.Get "js/main.js" }}
             {{ $opts := dict
                 "minify" (not hugo.IsDevelopment)
