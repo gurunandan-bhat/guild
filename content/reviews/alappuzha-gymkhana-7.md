@@ -9,7 +9,7 @@ subtitle = "Why Alappuzha Gymkhana's best punches are its jokes"
 opening = "Never has following failure been this much fun as this Malayalam comedy that shows the innate power of sport to teach life lessons without being preachy"
 img = 'alappuzha-gymkhana-7.jpg'
 media = 'print'
-source = "https://www.theweek.in/review/movies/2025/04/12/content-dam-week-week-review-movies-images-2025-4-12-alappuzha-gymkhana-review-jpg.html"
+source = "https://www.indiatoday.in/india-today-insight/story/why-alappuzha-gymkhanas-best-punches-are-its-jokes-2709354-2025-04-15"
 score = 7
 +++
 
