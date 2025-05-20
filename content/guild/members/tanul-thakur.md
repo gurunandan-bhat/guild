@@ -1,6 +1,6 @@
 +++
 date = 2024-09-25T12:19:31.456896+05:30
-draft = false
+draft = true
 weight = 490
 title = 'Tanul Thakur'
 organizations = ['Outlook']
