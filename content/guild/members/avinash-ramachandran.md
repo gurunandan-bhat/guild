@@ -3,7 +3,7 @@ date = 2024-09-25T12:19:31.451192+05:30
 draft = false
 weight = 90
 title = 'Avinash Ramachandran'
-organizations = ['Indian Express']
+organizations = ['The New Indian Express']
 img = '/images/members/Avinash-Ramachandran.jpg'
 
 [soc_media]
