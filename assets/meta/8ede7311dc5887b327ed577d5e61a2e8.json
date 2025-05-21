@@ -1,0 +1,548 @@
+{
+	"id": 720557,
+	"title": "Tiger 3",
+	"fcg_title": "Tiger 3",
+	"original_title": "Tiger 3",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 12,
+			"name": "Adventure"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "Following the events of Tiger Zinda Hai, War, and Pathaan, Avinash Singh Rathore returns as Tiger but this time the battle is within. He has to choose between his country or family as an old enemy is after his life, who claims that his family was killed by Tiger. He holds Tiger captive in Pakistan as the Indian agent's loyalty towards his country faces its biggest test.",
+	"backdrop_path": "/kqSxCsGIT4rqrZTTMpYP8RIzojv.jpg",
+	"poster_path": "/fjzpptTwFoIduPrAUGmlqxaLKhm.jpg",
+	"release_date": "2023-11-12",
+	"credits": {
+		"cast": [
+			{
+				"id": 42802,
+				"order": 0,
+				"name": "Salman Khan",
+				"profile_path": "/n7pKtccmf2jVOz8Qn90q2ThqLge.jpg",
+				"character": "Avinash 'Tiger' Singh Rathore",
+				"gender": 2
+			},
+			{
+				"id": 81869,
+				"order": 1,
+				"name": "Katrina Kaif",
+				"profile_path": "/4EAYTJvGdt4NYl2BUKZMdz4lztR.jpg",
+				"character": "Zoya 'Zee' Humaini",
+				"gender": 1
+			},
+			{
+				"id": 85969,
+				"order": 2,
+				"name": "Emraan Hashmi",
+				"profile_path": "/kflgvFCFZnpTRbKmJWn5T0G5EKI.jpg",
+				"character": "Aatish Rehman",
+				"gender": 2
+			},
+			{
+				"id": 141705,
+				"order": 3,
+				"name": "Simran",
+				"profile_path": "/BRsVC78sFbFy0NQhaUkGkuUUOL.jpg",
+				"character": "Nasreen Irani",
+				"gender": 1
+			},
+			{
+				"id": 584324,
+				"order": 4,
+				"name": "Revathi",
+				"profile_path": "/sXS4erG255VJlP7XYAduNBNPyDL.jpg",
+				"character": "Maithili Menon",
+				"gender": 1
+			},
+			{
+				"id": 4078961,
+				"order": 5,
+				"name": "Sartaaj Kakkar",
+				"profile_path": "/fGsALORJKBh9I3xlg33hEt7Opbf.jpg",
+				"character": "Junior",
+				"gender": 2
+			},
+			{
+				"id": 1179628,
+				"order": 6,
+				"name": "Kumud Mishra",
+				"profile_path": "/pM4eD7eIEPk2Lx0c5C1K201qnp6.jpg",
+				"character": "Rakesh Ji",
+				"gender": 2
+			},
+			{
+				"id": 2294407,
+				"order": 7,
+				"name": "Anant Vidhaat Sharma",
+				"profile_path": "/fNyw53r3AcuL1zvwOhtcErNBjG3.jpg",
+				"character": "Karan",
+				"gender": 2
+			},
+			{
+				"id": 2432761,
+				"order": 8,
+				"name": "Chandrachoor Rai",
+				"profile_path": "/exEN1xA5RWYv50oDxR7APb7eAk2.jpg",
+				"character": "Nikhil",
+				"gender": 2
+			},
+			{
+				"id": 1254791,
+				"order": 9,
+				"name": "Gavie Chahal",
+				"profile_path": "/r7cH2wLoWNlDYLsx1qhUoEcvJuH.jpg",
+				"character": "Captain Abrar",
+				"gender": 2
+			},
+			{
+				"id": 2220179,
+				"order": 10,
+				"name": "Danish Bhatt",
+				"profile_path": "/oFbSO96VL3naxp64h9tx2LwY3DO.jpg",
+				"character": "Captain Javed"
+			},
+			{
+				"id": 85451,
+				"order": 11,
+				"name": "Ranvir Shorey",
+				"profile_path": "/bkJYFpPmBB77GwlbjCIgYE8qVrO.jpg",
+				"character": "Gopi Arya",
+				"gender": 2
+			},
+			{
+				"id": 1252084,
+				"order": 12,
+				"name": "Ridhi Dogra",
+				"profile_path": "/7uSK4fvDDPtpKcTBfR0ogKhl3DN.jpg",
+				"character": "Shaheen",
+				"gender": 1
+			},
+			{
+				"id": 2472383,
+				"order": 13,
+				"name": "Shahid Latief",
+				"character": "General Imtiaz Haq"
+			},
+			{
+				"id": 2554387,
+				"order": 14,
+				"name": "Vishal Jethwa",
+				"profile_path": "/oqt3Ea43y9EAcCb0DrA22TV08kt.jpg",
+				"character": "Hassan",
+				"gender": 2
+			},
+			{
+				"id": 1936126,
+				"order": 15,
+				"name": "Edward Sonnenblick",
+				"profile_path": "/8RAG0dhQp1L50zMpP0sh1rLP3tf.jpg",
+				"character": "Dr. Hauffman",
+				"gender": 2
+			},
+			{
+				"id": 35742,
+				"order": 16,
+				"name": "Shah Rukh Khan",
+				"profile_path": "/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg",
+				"character": "Pathaan",
+				"gender": 2
+			},
+			{
+				"id": 101065,
+				"order": 17,
+				"name": "Michelle Lee",
+				"profile_path": "/r6QzFK8IBxO1Kp3zm3GJ3FUuwwR.jpg",
+				"character": "General Zimou",
+				"gender": 1
+			},
+			{
+				"id": 3115788,
+				"order": 18,
+				"name": "Neeraj Purohit",
+				"character": "Jibran"
+			},
+			{
+				"id": 1858311,
+				"order": 19,
+				"name": "Danish Husain",
+				"profile_path": "/8fonWWo47kZPmzWyc5RkYiPVnNI.jpg",
+				"character": "DG Riaz",
+				"gender": 2
+			},
+			{
+				"id": 1705304,
+				"order": 20,
+				"name": "Bimal Oberoi",
+				"character": "General Ribiero"
+			},
+			{
+				"id": 1060294,
+				"order": 21,
+				"name": "Anish Kuruvilla",
+				"profile_path": "/egs7BnJeBw7txSjoETg2XoqHO8e.jpg",
+				"character": "Indian Prime Minister",
+				"gender": 2
+			},
+			{
+				"id": 992742,
+				"order": 22,
+				"name": "Sandeep Kulkarni",
+				"profile_path": "/8zFBxP0soCWSH6vmVXvTRVeuKrR.jpg",
+				"character": "Ramiz"
+			},
+			{
+				"id": 933391,
+				"order": 23,
+				"name": "Denzil Smith",
+				"profile_path": "/uXzgOO0AuW45wqPdQdtQ40GBVuX.jpg",
+				"character": "Indian Defence Minister",
+				"gender": 2
+			},
+			{
+				"id": 123228,
+				"order": 24,
+				"name": "Aamir Bashir",
+				"profile_path": "/jWvHNzlDwbTyJaShBeXfIKl2QHU.jpg",
+				"character": "Rehan Nazar",
+				"gender": 2
+			},
+			{
+				"id": 86508,
+				"order": 25,
+				"name": "Ashutosh Rana",
+				"profile_path": "/jFlhAoEP3KGEXO3SXCA4YLM2Goc.jpg",
+				"character": "Sunil Luthra",
+				"gender": 2
+			},
+			{
+				"id": 78749,
+				"order": 26,
+				"name": "Hrithik Roshan",
+				"profile_path": "/5O7WrWe84WDFj7td64NVsobtHf3.jpg",
+				"character": "Kabir Dhaliwal",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 231595,
+				"name": "Vaibhavi Merchant",
+				"profile_path": "/4RlEVz9A21P4cx83cbGrf421iWS.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1364353,
+				"name": "Shanoo Sharma",
+				"profile_path": "/78wQF7xfirzblKvSnx0ljopD8lc.jpg",
+				"job": "Casting Director",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 85056,
+				"name": "Rameshwar S. Bhagat",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1599798,
+				"name": "Amitabh Bhattacharya",
+				"profile_path": "/FsOarFNY9tnqKcs3TI1BFvhIla.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1834558,
+				"name": "Ganesh Gangadharan",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 4248731,
+				"name": "Rishabh Chopra",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4214501,
+				"name": "Akshaye Widhani",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1790607,
+				"name": "Irshad Kamil",
+				"profile_path": "/20XNdVA9lA3NmyU1oUFVo39FokA.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1947400,
+				"name": "Ashley Rebello",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 35771,
+				"name": "Aditya Chopra",
+				"profile_path": "/eXYKfA6bg12pn9LPrWeRfxYQwcb.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2541608,
+				"name": "Anckur Chaudhry",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 35789,
+				"name": "Sanjay Shivalkar",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1561056,
+				"name": "Sudhanshu Kumar",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4322877,
+				"name": "Pramod Maharana",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 2810082,
+				"name": "Shipra Acharya",
+				"job": "Prosthetic Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4322894,
+				"name": "Deepak Tyagi",
+				"job": "Special Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1718140,
+				"name": "Darshan Jalan",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2647521,
+				"name": "Patrice Andrew Davidson",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 4322907,
+				"name": "Shiwani Thakur",
+				"job": "Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 1947397,
+				"name": "Alvira Khan",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 224221,
+				"name": "Maneesh Sharma",
+				"profile_path": "/yW9iGmwLCgjgaS9Bgp3CiKxQVcU.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 85443,
+				"name": "Shridhar Raghavan",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 35771,
+				"name": "Aditya Chopra",
+				"profile_path": "/eXYKfA6bg12pn9LPrWeRfxYQwcb.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2362161,
+				"name": "Sahil Bhardwaj",
+				"job": "Additional Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 2160666,
+				"name": "Tanuj Tiku",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 102252,
+				"name": "Anaita Shroff Adajania",
+				"profile_path": "/yLDxdFAcESXvsfgZKv8ob8TSWvw.jpg",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1736921,
+				"name": "Anuj Mathur",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 2290983,
+				"name": "Adhip Chopra",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1418329,
+				"name": "Franz Spilhaus",
+				"profile_path": "/sKB81cmV6506hwydDpmbxWME7tJ.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2111566,
+				"name": "Oh Se-yeong",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1785033,
+				"name": "Sunil Rodrigues",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 2290984,
+				"name": "Jiya Bhardwaj",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 2810082,
+				"name": "Shipra Acharya",
+				"job": "Hair Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2810082,
+				"name": "Shipra Acharya",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1922464,
+				"name": "Pritam Das",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 2143441,
+				"name": "Abhiraj Minawala",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4375973,
+				"name": "Mohit Chandnani",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4375989,
+				"name": "Nanda Kumar Nair",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 4375972,
+				"name": "Alka Bhandari",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 3595251,
+				"name": "Akshun Mahajan",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4375982,
+				"name": "Omkar Gawli",
+				"job": "Associate Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 4375979,
+				"name": "Akshat Kapil",
+				"job": "Script Supervisor",
+				"department": "Directing"
+			},
+			{
+				"id": 2362162,
+				"name": "Pratik Karwade",
+				"job": "Still Photographer",
+				"department": "Camera"
+			},
+			{
+				"id": 2232711,
+				"name": "Ramandeep Singh Bedi",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1794702,
+				"name": "Anay Goswami",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1745013,
+				"name": "Mayur Sharma",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 71273,
+				"name": "Pritam Chakraborty",
+				"profile_path": "/zS8kE2DWQBTQ7ArSSZiWg0OTXvo.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			}
+		]
+	}
+}

@@ -1,0 +1,312 @@
+{
+	"id": 238419,
+	"name": "Killer Soup",
+	"fcg_title": "Killer Soup",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Swathi dreams of owning a restaurant. But when a murder derails her plan, she and her lover take an outrageous step — to replace him with her husband.",
+	"backdrop_path": "/tYZIQfBEEQwTD0wXW78cqG6nSCa.jpg",
+	"poster_path": "/jm08lHmvZulDzxd5koPs8pf8Mir.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 85666,
+				"order": 0,
+				"name": "Konkona Sen Sharma",
+				"profile_path": "/i538HToMEGR6J2OVmOGX3GfWcQC.jpg",
+				"character": "Swathi Shetty",
+				"gender": 1
+			},
+			{
+				"id": 35782,
+				"order": 1,
+				"name": "Manoj Bajpayee",
+				"profile_path": "/hBiAldG2BGMVoZUPbvK3FNDSw22.jpg",
+				"character": "Prabhakar \"Prabhu\" Shetty/Umesh Pillai/Umesh Shantaram Mahto",
+				"gender": 2
+			},
+			{
+				"id": 130111,
+				"order": 2,
+				"name": "Nassar",
+				"profile_path": "/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg",
+				"character": "Inspector Hassan F.",
+				"gender": 2
+			},
+			{
+				"id": 146937,
+				"order": 3,
+				"name": "Sayaji Shinde",
+				"profile_path": "/r4VBYop4XktGuSZ0wozRqJbEzMH.jpg",
+				"character": "Arvind Shetty",
+				"gender": 2
+			},
+			{
+				"id": 1563574,
+				"order": 4,
+				"name": "Anula Navlekar",
+				"profile_path": "/999AIGuEkb9ExFBVpCtQBGbvbwx.jpg",
+				"character": "Apeksha \"Appu\" Shetty"
+			},
+			{
+				"id": 182174,
+				"order": 5,
+				"name": "Lal",
+				"profile_path": "/ds3eeWA56YFeeuWP6WUs1ok58FK.jpg",
+				"character": "Lucas Charles",
+				"gender": 2
+			},
+			{
+				"id": 4348231,
+				"order": 6,
+				"name": "Vaishali Bisht",
+				"character": "Khansama"
+			},
+			{
+				"id": 1399177,
+				"order": 7,
+				"name": "Kani Kusruti",
+				"profile_path": "/8WCuR3HcPYBeS2tQusFTEl596hM.jpg",
+				"character": "Kirthima Kadathanathan",
+				"gender": 1
+			},
+			{
+				"id": 4479141,
+				"order": 8,
+				"name": "Shilpa Mudbi",
+				"character": "Asha Ritu"
+			}
+		],
+		"crew": [
+			{
+				"id": 114379,
+				"name": "Abhishek Chaubey",
+				"profile_path": "/r8nPsFdWBw66a1StdAawWAD5TZZ.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 114379,
+				"name": "Abhishek Chaubey",
+				"profile_path": "/r8nPsFdWBw66a1StdAawWAD5TZZ.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 3430304,
+				"name": "Unaiza Merchant",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 3823766,
+				"name": "Harshad Nalawade",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 2051069,
+				"name": "Chetana Kowshik",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1536244,
+				"name": "Honey Trehan",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2506572,
+				"name": "Ravi Tiwari",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1322648,
+				"name": "Sanyukta Kaza",
+				"profile_path": "/4jZBYj70jIYX5fywbseJ6CwA7H9.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 3293581,
+				"name": "Varsha Varadharajan",
+				"job": "Casting Director",
+				"department": "Production"
+			},
+			{
+				"id": 1831911,
+				"name": "Shivank Kapoor",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4348210,
+				"name": "Prafful Potle",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1645941,
+				"name": "Kunal Sharma",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 4348212,
+				"name": "P. Vamsi Krishna",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4348213,
+				"name": "Parag",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4348215,
+				"name": "Kush Patel",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4348217,
+				"name": "Neil Shah",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 3430303,
+				"name": "Anant Tripathy",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 1462556,
+				"name": "Anuj Dhawan",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1364352,
+				"name": "Meghna Manchanda Sen",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1750082,
+				"name": "Benedict Taylor",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1314293,
+				"name": "Naren Chandavarkar",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 1536244,
+				"name": "Honey Trehan",
+				"job": "Casting Director",
+				"department": "Production"
+			},
+			{
+				"id": 2041617,
+				"name": "Shrikant Desai",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1799966,
+				"name": "Jayadevan Chakkadath",
+				"job": "Production Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2506571,
+				"name": "Ankita Chowfin",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2149909,
+				"name": "Ashirwad Hadkar",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 114379,
+				"name": "Abhishek Chaubey",
+				"profile_path": "/r8nPsFdWBw66a1StdAawWAD5TZZ.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 231581,
+				"name": "Tiya Tejpal",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 4475314,
+				"name": "Pooja Hegde",
+				"job": "Casting Director",
+				"department": "Production"
+			},
+			{
+				"id": 1823913,
+				"name": "Sivakumar Ananth",
+				"profile_path": "/4j0jawJUErNpml1jyQ5OYr2mH9M.jpg",
+				"job": "Dialogue",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 86077,
+				"name": "Manisha Koirala",
+				"profile_path": "/4rwOqhuFOXTPJUJsjutiJ0EjTqY.jpg",
+				"job": "Thanks",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 78747,
+				"name": "Mani Ratnam",
+				"profile_path": "/iXRdku91Hp8nHSL3uWxnInxN6TH.jpg",
+				"job": "Thanks",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3639152,
+				"name": "Amritpal Singh",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			}
+		]
+	}
+}
