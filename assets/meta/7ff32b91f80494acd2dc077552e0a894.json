@@ -1,0 +1,527 @@
+{
+	"id": 46518,
+	"name": "Masters of the Air",
+	"fcg_title": "Masters of the Air",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 10768,
+			"name": "War \u0026 Politics"
+		}
+	],
+	"overview": "During World War II, airmen risk their lives with the 100th Bomb Group, a brotherhood forged by courage, loss, and triumph.",
+	"backdrop_path": "/6snBXmgkscLEJQmxx46qEIlqYlB.jpg",
+	"poster_path": "/rSAmgcoA74371rplbqM27yVsd3y.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 86654,
+				"order": 0,
+				"name": "Austin Butler",
+				"profile_path": "/atdAs4pFGjUQ4m2W8kJYly7N6cC.jpg",
+				"character": "Maj. Gale 'Buck' Cleven",
+				"gender": 2
+			},
+			{
+				"id": 1371041,
+				"order": 1,
+				"name": "Callum Turner",
+				"profile_path": "/vkZ35K9ge6rWNrGyRdRtS4ONITv.jpg",
+				"character": "Maj. John 'Bucky' Egan",
+				"gender": 2
+			},
+			{
+				"id": 1727213,
+				"order": 2,
+				"name": "Anthony Boyle",
+				"profile_path": "/jF015vIjbrq72nTzWd2mWcybuiC.jpg",
+				"character": "Lt./Cpt./Maj. Harry Crosby",
+				"gender": 2
+			},
+			{
+				"id": 3029979,
+				"order": 3,
+				"name": "Nate Mann",
+				"profile_path": "/ncBkTgXv2Wv0Wv82JEpE5OqwnzG.jpg",
+				"character": "Lt./Cpt./Maj. Robert 'Rosie' Rosenthal",
+				"gender": 2
+			},
+			{
+				"id": 55467,
+				"order": 4,
+				"name": "Stephen Campbell Moore",
+				"profile_path": "/5w4EvQfi5YipR5I5lhtN5dCDiEY.jpg",
+				"character": "Maj. 'Red' Bowman",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 488,
+				"name": "Steven Spielberg",
+				"profile_path": "/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 27098,
+				"name": "Gary Goetzman",
+				"profile_path": "/345YKCrfjMNWdV6OJSvOnAcG9Ft.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 31,
+				"name": "Tom Hanks",
+				"profile_path": "/eKF1sGJRrZJbfBG1KirPt1cfNd3.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 20457,
+				"name": "John Orloff",
+				"profile_path": "/wF4tscY5Bw6yaSOCbW86xUAY2dj.jpg",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1225545,
+				"name": "Justin Falvey",
+				"profile_path": "/7mTutJBCklSITNGj3eM7G8FZc60.jpg",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 60246,
+				"name": "Steven Shareshian",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1231425,
+				"name": "Darryl Frank",
+				"profile_path": "/8LchWLyEbBRPimCEB8vSOZtzxRM.jpg",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 21206,
+				"name": "Graham Yost",
+				"profile_path": "/lFlKo3Bm9QMe7Qwhry21CEobj8d.jpg",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2356233,
+				"name": "Donald L. Miller",
+				"job": "Book",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1399141,
+				"name": "Michael Minkler",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 23424,
+				"name": "Lucy Bevan",
+				"profile_path": "/hT17FBbxl9gXD5IdieHKoydRcb4.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1408799,
+				"name": "Jack Whittaker",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 77687,
+				"name": "Olivia Grant",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2086976,
+				"name": "Lee Morrison",
+				"profile_path": "/A0j29PPW9Jw31VXRilgy5qYbXD2.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 12374,
+				"name": "David Coatsworth",
+				"job": "Unit Production Manager",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1271932,
+				"name": "Stephen Rosenbaum",
+				"profile_path": "/tpBU0fsoaeIt0m8W2bAJDfvniuH.jpg",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 12374,
+				"name": "David Coatsworth",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1530220,
+				"name": "Kirstin Chalmers",
+				"job": "Hair Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 557,
+				"name": "Colleen Atwood",
+				"profile_path": "/2jN2s8K3SP9lecU7fF3IxvmEZ6W.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 53017,
+				"name": "Blake Neely",
+				"profile_path": "/ip0bUF22rBJNqLu5hTPEtzZa6hp.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 60579,
+				"name": "Chris Seagers",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1530220,
+				"name": "Kirstin Chalmers",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1544457,
+				"name": "Nick Cuse",
+				"job": "Consulting Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1580461,
+				"name": "Hannah Walter",
+				"job": "Costume Supervisor",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1397971,
+				"name": "Stephanie Clerkin",
+				"job": "Assistant Art Director",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1915705,
+				"name": "Jane Harwood",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1408799,
+				"name": "Jack Whittaker",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1801113,
+				"name": "Andy Surry",
+				"job": "Unit Production Manager",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1441250,
+				"name": "Dave McMoyler",
+				"job": "Supervising Dialogue Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 133389,
+				"name": "Bobby Williams",
+				"job": "Associate Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1420634,
+				"name": "Chris Cull",
+				"job": "Property Master",
+				"department": "Art"
+			},
+			{
+				"id": 9818,
+				"name": "Julian Ashby",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 4563605,
+				"name": "India Flint",
+				"job": "Associate Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1408705,
+				"name": "Angela Claverie",
+				"job": "Music Editor",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 2056273,
+				"name": "Duncan McRae",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1388848,
+				"name": "Jim Barr",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 2151546,
+				"name": "Owen Mann",
+				"job": "Standby Art Director",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1574034,
+				"name": "Oliver Carroll",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 4563626,
+				"name": "Jade Lacey",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 1141547,
+				"name": "John Sylva",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 62959,
+				"name": "Ben Munro",
+				"job": "Supervising Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 2652007,
+				"name": "Will Smith",
+				"job": "Assistant Art Director",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 2011008,
+				"name": "Bruce Franklin",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 6060,
+				"name": "Neil Corbould",
+				"profile_path": "/tyrIWpWILlaDroOuzRNI18G9PXn.jpg",
+				"job": "Special Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1399141,
+				"name": "Michael Minkler",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1441250,
+				"name": "Dave McMoyler",
+				"job": "Supervising ADR Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 41848,
+				"name": "John Frankish",
+				"job": "Supervising Art Director",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1639937,
+				"name": "Nori Chia",
+				"job": "Associate Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2027741,
+				"name": "James Smith",
+				"job": "Line Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1873758,
+				"name": "Vicky Bishop",
+				"job": "Production Supervisor",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2756453,
+				"name": "Kirk Saduski",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1535987,
+				"name": "Deva Anderson",
+				"job": "Music Supervisor",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 957666,
+				"name": "Celia Bobak",
+				"profile_path": "/tb0D3r17CSjCEPboqRFSbBXOw8S.jpg",
+				"job": "Set Decoration",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1568120,
+				"name": "Oliver Benson",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1935968,
+				"name": "Renate Nicolaisen",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 2019525,
+				"name": "Gavin Dean",
+				"job": "Assistant Art Director",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1454136,
+				"name": "Anita Rajkumar",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 1775689,
+				"name": "Jake Hall",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1400008,
+				"name": "Heather Noble",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 1398110,
+				"name": "John Higgins",
+				"job": "Gaffer",
+				"department": "Lighting",
+				"gender": 2
+			},
+			{
+				"id": 2247914,
+				"name": "Rachel Lautzenheiser",
+				"job": "Music Supervisor",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1399141,
+				"name": "Michael Minkler",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2053116,
+				"name": "Brett Hirson",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 2026663,
+				"name": "Natasha Mullan",
+				"job": "Camera Operator",
+				"department": "Camera",
+				"gender": 1
+			},
+			{
+				"id": 1488470,
+				"name": "Coral Messam",
+				"profile_path": "/13VyLP0AYNh6rdDMucOtG1W7Jgj.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 1
+			}
+		]
+	}
+}
