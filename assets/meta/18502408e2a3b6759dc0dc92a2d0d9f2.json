@@ -1,0 +1,828 @@
+{
+	"id": 126308,
+	"name": "Shōgun",
+	"fcg_title": "Shogun",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 10768,
+			"name": "War \u0026 Politics"
+		}
+	],
+	"overview": "In Japan in the year 1600, at the dawn of a century-defining civil war, Lord Yoshii Toranaga is fighting for his life as his enemies on the Council of Regents unite against him, when a mysterious European ship is found marooned in a nearby fishing village.",
+	"backdrop_path": "/bwSmgmd90hCWwqOKQYTEraeOZhJ.jpg",
+	"poster_path": "/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 9195,
+				"order": 0,
+				"name": "Hiroyuki Sanada",
+				"profile_path": "/SOwDxhGnRccP2lAtssQ7TxCzOe.jpg",
+				"character": "Yoshii Toranaga",
+				"gender": 2
+			},
+			{
+				"id": 1363054,
+				"order": 1,
+				"name": "Cosmo Jarvis",
+				"profile_path": "/1kgghZ558CxZCJip5ufO6BAqUGp.jpg",
+				"character": "John Blackthorne",
+				"gender": 2
+			},
+			{
+				"id": 1434487,
+				"order": 2,
+				"name": "Anna Sawai",
+				"profile_path": "/6uFaCOupDTPRnTiedveTUvjOikC.jpg",
+				"character": "Toda Mariko",
+				"gender": 1
+			},
+			{
+				"id": 13275,
+				"order": 3,
+				"name": "Tadanobu Asano",
+				"profile_path": "/wDw1z9Pk9dEzopzlZQ4X8wTbj1t.jpg",
+				"character": "Kashigi Yabushige",
+				"gender": 2
+			},
+			{
+				"id": 1082509,
+				"order": 4,
+				"name": "Takehiro Hira",
+				"profile_path": "/2N1viBfPY4cRlz6W6YfM2F6UbSH.jpg",
+				"character": "Ishido Kazunari",
+				"gender": 2
+			},
+			{
+				"id": 73358,
+				"order": 5,
+				"name": "Tommy Bastow",
+				"profile_path": "/dIQcrDm9dZqc98Ca6Em67x5ivba.jpg",
+				"character": "Father Martin Alvito",
+				"gender": 2
+			},
+			{
+				"id": 1018945,
+				"order": 6,
+				"name": "Fumi Nikaido",
+				"profile_path": "/tqxgrZdOpx2FuTJYlhago4fttI3.jpg",
+				"character": "Ochiba No Kata / Ruri",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 78428,
+				"name": "Justin Marks",
+				"profile_path": "/dwUvMbNyljjafUzANkFWE64BNCu.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 46611,
+				"name": "James Clavell",
+				"profile_path": "/nbtd7UDWLHmJ059FrnEG9sQxsz6.jpg",
+				"job": "Novel",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 10514,
+				"name": "Michaela Clavell",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 4588,
+				"name": "Edward McDonnell",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 9195,
+				"name": "Hiroyuki Sanada",
+				"profile_path": "/SOwDxhGnRccP2lAtssQ7TxCzOe.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4767,
+				"name": "Michael De Luca",
+				"profile_path": "/i87R2uZafgOmFdbT7PgCBXjsL5s.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1237306,
+				"name": "Shannon Goss",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2035,
+				"name": "Andrew Macdonald",
+				"profile_path": "/j6C8BwvLK0R0rxYZI8sCU8KPkrd.jpg",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 17600,
+				"name": "Allon Reich",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1688147,
+				"name": "Emily Yoshida",
+				"profile_path": "/wOcvz7id1gKKGxLnqxuV8GiUx0p.jpg",
+				"job": "Staff Writer",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 4560358,
+				"name": "Sarah-Jane Denis",
+				"job": "Second Assistant Production Coordinator",
+				"department": "Production"
+			},
+			{
+				"id": 1413437,
+				"name": "Dean Eilertson",
+				"job": "Property Master",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 3905336,
+				"name": "Kazumi Osaka",
+				"job": "Property Master",
+				"department": "Art"
+			},
+			{
+				"id": 2214708,
+				"name": "Gil Peyronnenc",
+				"job": "Set Decoration Buyer",
+				"department": "Art"
+			},
+			{
+				"id": 4560372,
+				"name": "Ingrid Walther",
+				"job": "Set Decoration Buyer",
+				"department": "Art"
+			},
+			{
+				"id": 1028349,
+				"name": "Kazuko Kurosawa",
+				"job": "Other",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 4046456,
+				"name": "Kate Austin",
+				"job": "First Assistant Production Coordinator",
+				"department": "Production"
+			},
+			{
+				"id": 3266025,
+				"name": "Jaime Peters",
+				"job": "Production Controller",
+				"department": "Crew"
+			},
+			{
+				"id": 1445974,
+				"name": "Eriko Miyagawa",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2116361,
+				"name": "Kei Kawamura",
+				"job": "Local Casting",
+				"department": "Production"
+			},
+			{
+				"id": 4560364,
+				"name": "Mayumi Sanda",
+				"job": "Translator",
+				"department": "Crew"
+			},
+			{
+				"id": 4003037,
+				"name": "Kristen Bond",
+				"job": "Assistant Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4560382,
+				"name": "James Knight",
+				"job": "Set Costumer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 964509,
+				"name": "Geraud Brisson",
+				"job": "Consulting Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1645688,
+				"name": "Maegan Houang",
+				"job": "Story Editor",
+				"department": "Writing"
+			},
+			{
+				"id": 2976933,
+				"name": "Siri Hermanski",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 126230,
+				"name": "Jamie Payton",
+				"job": "Animal Wrangler",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2015753,
+				"name": "Kevin Kasper",
+				"job": "Lead Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 4560380,
+				"name": "Miyako Reid",
+				"job": "Set Costumer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2237174,
+				"name": "Kevin Harrison",
+				"job": "Set Costumer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 22061,
+				"name": "Helen Jarvis",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1676921,
+				"name": "Nick Chuba",
+				"profile_path": "/1gVRSfP7LhCNjFXkY9RJrWopzh4.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1776006,
+				"name": "Carrie Audino",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 3564876,
+				"name": "Cynthia Dryka",
+				"job": "First Assistant Production Coordinator",
+				"department": "Production"
+			},
+			{
+				"id": 59099,
+				"name": "Gillian Goodman",
+				"job": "Assistant Property Master",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1818590,
+				"name": "Lisa Lancaster",
+				"job": "Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 4560379,
+				"name": "Kenichi Tanaka",
+				"job": "Assistant Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2067713,
+				"name": "Meghann Rogers",
+				"job": "Set Costumer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4560384,
+				"name": "Kim Bejar",
+				"job": "Set Costumer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1958514,
+				"name": "Heather J. Turner",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4505094,
+				"name": "Sarah C. Mueller",
+				"job": "Script Coordinator",
+				"department": "Directing"
+			},
+			{
+				"id": 3592803,
+				"name": "Maria Kozak",
+				"job": "On Set Dresser",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1387269,
+				"name": "Mako Kamitsuna",
+				"job": "Consulting Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4560360,
+				"name": "Kate Buckman",
+				"job": "First Assistant Accountant",
+				"department": "Production"
+			},
+			{
+				"id": 60285,
+				"name": "Mary-Lou Storey",
+				"job": "Set Decoration Buyer",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 4560375,
+				"name": "Joshua Praine",
+				"job": "Lead Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 1907180,
+				"name": "Chad W. Chilibeck",
+				"job": "On Set Dresser",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1552789,
+				"name": "Michael Cliett",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1907182,
+				"name": "Paul Jenkinson",
+				"job": "Lead Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 2505836,
+				"name": "Taryn Thumath",
+				"job": "Set Costumer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4560242,
+				"name": "Jo Smith",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3091550,
+				"name": "Matt Lambert",
+				"job": "Consulting Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1400435,
+				"name": "Philip A. Pacaud",
+				"job": "Unit Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 1313786,
+				"name": "Kirsten Franson",
+				"job": "Concept Artist",
+				"department": "Art"
+			},
+			{
+				"id": 4560356,
+				"name": "Amy Shier",
+				"job": "First Assistant Production Coordinator",
+				"department": "Production"
+			},
+			{
+				"id": 4560377,
+				"name": "Andrea Dance",
+				"job": "Lead Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 3102407,
+				"name": "Rachel Kondo",
+				"profile_path": "/1W265VLdnqVzx5ZoWxtV6mv2uxM.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 142391,
+				"name": "Atticus Ross",
+				"profile_path": "/q9FkywKCRqe3pNnhTApHYfnwMiC.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3600077,
+				"name": "Braden Jennings",
+				"job": "Unit Manager",
+				"department": "Production"
+			},
+			{
+				"id": 1814579,
+				"name": "Devin Gray",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 4560346,
+				"name": "Dallas Ashby",
+				"job": "Art Department Coordinator",
+				"department": "Art"
+			},
+			{
+				"id": 1915238,
+				"name": "Lauren Geaghan",
+				"job": "Art Department Coordinator",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 2142341,
+				"name": "Kim Goddard-Rains",
+				"job": "Production Coordinator",
+				"department": "Production"
+			},
+			{
+				"id": 4560359,
+				"name": "Chris Green",
+				"job": "Production Accountant",
+				"department": "Production"
+			},
+			{
+				"id": 2272157,
+				"name": "Jason B. Landels",
+				"job": "Assistant Property Master",
+				"department": "Art"
+			},
+			{
+				"id": 1713183,
+				"name": "Earendil McNay",
+				"job": "Script Supervisor",
+				"department": "Directing"
+			},
+			{
+				"id": 4560383,
+				"name": "Sermin Sesoren",
+				"job": "Set Costumer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3453745,
+				"name": "Alexandra Boultzi",
+				"job": "Set Costumer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1813440,
+				"name": "Jamie Vega Wheeler",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 23811,
+				"name": "Maureen Webb",
+				"profile_path": "/1FPC2jp55fKs204pAE5LrqSKqrQ.jpg",
+				"job": "Local Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2961705,
+				"name": "Amanda Lancaster",
+				"job": "Set Decorating Coordinator",
+				"department": "Art"
+			},
+			{
+				"id": 4560373,
+				"name": "Myron Ruth",
+				"job": "Set Decoration Buyer",
+				"department": "Art"
+			},
+			{
+				"id": 35336,
+				"name": "Sandra Smolski",
+				"job": "Set Decoration Buyer",
+				"department": "Art"
+			},
+			{
+				"id": 2125644,
+				"name": "Amie Payne",
+				"job": "Set Costumer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4536790,
+				"name": "Caillin Puente",
+				"job": "Associate Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1329480,
+				"name": "Peter Bodnarus",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 4560355,
+				"name": "Yu Chueh Lin (Kevin)",
+				"job": "First Assistant Production Coordinator",
+				"department": "Production"
+			},
+			{
+				"id": 4334127,
+				"name": "Jay Kent",
+				"job": "Assistant Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 4560370,
+				"name": "Brieanna Fiander",
+				"job": "Set Decorating Coordinator",
+				"department": "Art"
+			},
+			{
+				"id": 1279912,
+				"name": "Carlos Rosario",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 968471,
+				"name": "Leopold Ross",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1018357,
+				"name": "Laura Schiff",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 17831,
+				"name": "Grant Van Der Slagt",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 4560348,
+				"name": "Mira Gim",
+				"job": "Graphic Designer",
+				"department": "Art"
+			},
+			{
+				"id": 4560354,
+				"name": "Stacey Douglas",
+				"job": "First Assistant Production Coordinator",
+				"department": "Production"
+			},
+			{
+				"id": 4560361,
+				"name": "Brad McDonald",
+				"job": "Animal Wrangler",
+				"department": "Crew"
+			},
+			{
+				"id": 4560365,
+				"name": "Jun Ajiro",
+				"job": "Translator",
+				"department": "Crew"
+			},
+			{
+				"id": 1644465,
+				"name": "Dennis Simard",
+				"job": "Other",
+				"department": "Art"
+			},
+			{
+				"id": 1378719,
+				"name": "Carolyn Bentley",
+				"job": "Set Costumer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 3165251,
+				"name": "Tom Winchester",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1396406,
+				"name": "Erin Smith",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 229908,
+				"name": "Chris Beach",
+				"job": "Supervising Art Director",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 3600753,
+				"name": "Heather Osborne",
+				"job": "Set Costumer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3642773,
+				"name": "Kyoko Moriwaki",
+				"profile_path": "/gP3iUDhua74Anml2vDgSCFdA3FI.jpg",
+				"job": "Other",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 4560368,
+				"name": "Eric Lajoie",
+				"job": "Set Designer",
+				"department": "Art"
+			},
+			{
+				"id": 1377411,
+				"name": "Jonathan Lancaster",
+				"job": "Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 1560495,
+				"name": "Marianne Kaplan",
+				"job": "Set Decoration Buyer",
+				"department": "Art"
+			},
+			{
+				"id": 1564722,
+				"name": "Dawn Climie",
+				"job": "Other",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1192400,
+				"name": "Mitsuru Otsuka",
+				"job": "Other",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 65194,
+				"name": "Colleen Bolton ",
+				"job": "Local Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1339976,
+				"name": "Liz Goldwyn",
+				"job": "Assistant Art Director",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1478413,
+				"name": "Nick Dudar",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 1495592,
+				"name": "Tomoya Imai",
+				"job": "Property Buyer",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1403359,
+				"name": "Kazuko Shingyoku",
+				"job": "Script Supervisor",
+				"department": "Directing"
+			},
+			{
+				"id": 4560363,
+				"name": "Asuka Forest",
+				"job": "Script Coordinator",
+				"department": "Directing"
+			},
+			{
+				"id": 4560366,
+				"name": "Yuki Ishimaru",
+				"job": "Translator",
+				"department": "Crew"
+			},
+			{
+				"id": 3389173,
+				"name": "Rose Goronzy",
+				"job": "Set Decoration Buyer",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 3117357,
+				"name": "Robert Carson",
+				"job": "Lead Set Dresser",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1378693,
+				"name": "Rohan Lyal",
+				"job": "Head Greensman",
+				"department": "Art"
+			},
+			{
+				"id": 1826661,
+				"name": "Carole Griffin",
+				"job": "Costume Supervisor",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1881724,
+				"name": "Paula Plachy",
+				"job": "Assistant Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4560350,
+				"name": "Kale Hitsman",
+				"job": "Art Department Assistant",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 134859,
+				"name": "Lauro David Chartrand-DelValle",
+				"profile_path": "/4XqwVZCR6t7H0aB8zVT0i9gfehg.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 4936240,
+				"name": "Crissy Renaud",
+				"job": "Special Effects Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1356689,
+				"name": "Kenji Sato",
+				"profile_path": "/mIum5ZT00OcKqd7ay1vxrS2e8Gk.jpg",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			}
+		]
+	}
+}

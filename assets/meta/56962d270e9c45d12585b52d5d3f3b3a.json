@@ -1,0 +1,1639 @@
+{
+	"id": 960876,
+	"title": "Dunki",
+	"fcg_title": "Dunki",
+	"original_title": "डंकी",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 12,
+			"name": "Adventure"
+		},
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Four friends from a sleepy little village in Punjab share a common dream: to go to England. Their problem is that they have neither the visa nor the ticket. A soldier alights from a train one day, and their lives change. He gives them a soldier's promise: He will take them to the land of their dreams. What follows is a hilarious and heartwarming tale of a perilous journey through the desert and the sea, but most crucially through the hinterlands of their mind.",
+	"backdrop_path": "/uuw0PRR4sgGi1IV4CYYpEYtez9y.jpg",
+	"poster_path": "/kPRb1mbVHGop0egQ7153y0lhzGL.jpg",
+	"release_date": "2023-12-21",
+	"credits": {
+		"cast": [
+			{
+				"id": 35742,
+				"order": 0,
+				"name": "Shah Rukh Khan",
+				"profile_path": "/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg",
+				"character": "Hardayal 'Hardy' Singh Dhillon",
+				"gender": 2
+			},
+			{
+				"id": 550167,
+				"order": 1,
+				"name": "Taapsee Pannu",
+				"profile_path": "/micyQ84KdF7rVu05SYkMxk8VGq4.jpg",
+				"character": "Manu Randhawa",
+				"gender": 1
+			},
+			{
+				"id": 1715408,
+				"order": 2,
+				"name": "Vikram Kochhar",
+				"profile_path": "/qzwC8ebdicpuoVjfsM3KQSG6J9O.jpg",
+				"character": "Buggu Lakhanpal",
+				"gender": 2
+			},
+			{
+				"id": 2258829,
+				"order": 3,
+				"name": "Anil Grover",
+				"profile_path": "/6ZN0Y3j0oQrkqckYWRC5ixwieZ5.jpg",
+				"character": "Balli Kakkad"
+			},
+			{
+				"id": 35779,
+				"order": 4,
+				"name": "Boman Irani",
+				"profile_path": "/5J7GiiNar9bg9rGYeA2L30JXE2W.jpg",
+				"character": "Geetu Gulati",
+				"gender": 2
+			},
+			{
+				"id": 1469935,
+				"order": 5,
+				"name": "Vicky Kaushal",
+				"profile_path": "/hKSa4DWEAD7DYhABYGwjPmxdpAY.jpg",
+				"character": "Sukhi",
+				"gender": 2
+			},
+			{
+				"id": 110292,
+				"order": 6,
+				"name": "Deven Bhojani",
+				"profile_path": "/4gKlQ8QD6BtfachIRAXOxB5vidB.jpg",
+				"character": "Puru Patel",
+				"gender": 2
+			},
+			{
+				"id": 3316221,
+				"order": 7,
+				"name": "Sapna Sand",
+				"profile_path": "/1FWOLemBx7Wu4JF3r5hozlfs7pE.jpg",
+				"character": "Buggu's Mother"
+			},
+			{
+				"id": 4442107,
+				"order": 8,
+				"name": "Komal Sachdeva",
+				"character": "Chameli"
+			},
+			{
+				"id": 4442105,
+				"order": 9,
+				"name": "Diwanshu Gambhir",
+				"character": "Pampi"
+			},
+			{
+				"id": 3654517,
+				"order": 10,
+				"name": "Vishnu Kaushal",
+				"character": "Gulab"
+			},
+			{
+				"id": 1662186,
+				"order": 11,
+				"name": "Jyoti Subhash",
+				"profile_path": "/kyqLKGul0VxHNrEShq7uFOxqacQ.jpg",
+				"character": "Buggu's Grandmother"
+			},
+			{
+				"id": 1948815,
+				"order": 12,
+				"name": "Mahabir Bhullar",
+				"profile_path": "/oLqAyaImBLOIRY4cZLgRCrDmOee.jpg",
+				"character": "Buggu's Father"
+			},
+			{
+				"id": 128734,
+				"order": 13,
+				"name": "Amardeep Jha",
+				"character": "Mannu's Mother",
+				"gender": 1
+			},
+			{
+				"id": 2364378,
+				"order": 14,
+				"name": "Jatinder Kaur",
+				"character": "Balli's Mother"
+			},
+			{
+				"id": 3811998,
+				"order": 15,
+				"name": "Jitender Hooda",
+				"character": "Indian Dunki Agent"
+			},
+			{
+				"id": 123230,
+				"order": 16,
+				"name": "Rohitashv Gour",
+				"profile_path": "/tOfrq4uuMR91ZCdWpNLcV4h0qfd.jpg",
+				"character": "Visa agent",
+				"gender": 2
+			},
+			{
+				"id": 4441738,
+				"order": 17,
+				"name": "Manoj Kant",
+				"character": "Manu's Father"
+			},
+			{
+				"id": 1388818,
+				"order": 18,
+				"name": "Piyush Raina",
+				"character": "Bobby Dhaba Owner"
+			},
+			{
+				"id": 2472383,
+				"order": 19,
+				"name": "Shahid Latief",
+				"character": "Saudi Officer"
+			},
+			{
+				"id": 77240,
+				"order": 20,
+				"name": "Gurpreet Ghuggi",
+				"profile_path": "/7ZENS2dXJ4BU3Hg6dgJwtyvEGBm.jpg",
+				"character": "Train co-passenger",
+				"gender": 2
+			},
+			{
+				"id": 127789,
+				"order": 21,
+				"name": "Nikhil Ratnaparkhi",
+				"profile_path": "/6Ps4Twsv5yCfoGDNfxEg8eDaWxs.jpg",
+				"character": "Thief at Railway Station",
+				"gender": 2
+			},
+			{
+				"id": 2389934,
+				"order": 22,
+				"name": "Suparna Marwah",
+				"profile_path": "/wvu7uXRLKsN1qnjP71xWmtbB8gy.jpg",
+				"character": "Harjot Gulati",
+				"gender": 1
+			},
+			{
+				"id": 4541683,
+				"order": 23,
+				"name": "Ryan Cretney",
+				"character": "Ward Boy"
+			},
+			{
+				"id": 4541685,
+				"order": 24,
+				"name": "Priya Sindher",
+				"character": "Patel Office Staff"
+			},
+			{
+				"id": 1468659,
+				"order": 25,
+				"name": "Ketan Desai",
+				"character": "Patel Office Staff"
+			},
+			{
+				"id": 4541690,
+				"order": 26,
+				"name": "Kiranpal Singh Dhody",
+				"character": "Laltu Race Runner"
+			},
+			{
+				"id": 4541692,
+				"order": 27,
+				"name": "Karam Singh Bhoai",
+				"character": "Laltu Race Runner"
+			},
+			{
+				"id": 4541694,
+				"order": 28,
+				"name": "Surinderpal Singh",
+				"character": "Laltu Race Runner"
+			},
+			{
+				"id": 4541695,
+				"order": 29,
+				"name": "Harpal Singh Bunty",
+				"character": "Laltu Race Runner"
+			},
+			{
+				"id": 4541696,
+				"order": 30,
+				"name": "Sakpal Singh Banga",
+				"character": "Laltu Race Runner"
+			},
+			{
+				"id": 4541698,
+				"order": 31,
+				"name": "Ajit Singh Banga",
+				"character": "Laltu Race Runner"
+			},
+			{
+				"id": 4541699,
+				"order": 32,
+				"name": "Harpal Singh Abott",
+				"character": "Laltu Race Runner"
+			},
+			{
+				"id": 86213,
+				"order": 33,
+				"name": "Rahul Khanna",
+				"profile_path": "/eXRnf2aCfpb7gItoWtuIHz4lOEo.jpg",
+				"character": "Megaphone Announcer",
+				"gender": 2
+			},
+			{
+				"id": 2120738,
+				"order": 34,
+				"name": "György Czutor",
+				"character": "Manu's Taxi Passenger"
+			},
+			{
+				"id": 4541703,
+				"order": 35,
+				"name": "Atilla Arpa",
+				"character": "Buggu's Cafe Manager"
+			},
+			{
+				"id": 4541704,
+				"order": 36,
+				"name": "Vikram Singh Ranjha",
+				"character": "Balli's Shop Buyer"
+			},
+			{
+				"id": 4541707,
+				"order": 37,
+				"name": "Jihan Jeetendra Hodar",
+				"character": "Mahinder's Son",
+				"gender": 2
+			},
+			{
+				"id": 4541708,
+				"order": 38,
+				"name": "Jaanvi Sanghwan",
+				"character": "Mahinder's Wife"
+			},
+			{
+				"id": 4541709,
+				"order": 39,
+				"name": "Sunil Uppal",
+				"character": "Pajami Shop Owner"
+			},
+			{
+				"id": 4541710,
+				"order": 40,
+				"name": "Vibhuti Upadhyay",
+				"character": "Gangster Customer",
+				"gender": 1
+			},
+			{
+				"id": 4541712,
+				"order": 41,
+				"name": "Rajesh Mishra",
+				"character": "Salon Owner"
+			},
+			{
+				"id": 4198377,
+				"order": 42,
+				"name": "Vinod Goswami",
+				"character": "Khosla"
+			},
+			{
+				"id": 1758521,
+				"order": 43,
+				"name": "Vijayant Kohli",
+				"character": "Wrong Chaddha"
+			},
+			{
+				"id": 4541716,
+				"order": 44,
+				"name": "Kerill Kelly",
+				"character": "Big Ben Proposal Man"
+			},
+			{
+				"id": 1563328,
+				"order": 45,
+				"name": "Lucy Jamieson",
+				"character": "Big Ben Proposal Woman"
+			},
+			{
+				"id": 4334659,
+				"order": 46,
+				"name": "Jagannath Seth",
+				"character": "Tea Stall Owner"
+			},
+			{
+				"id": 2820988,
+				"order": 47,
+				"name": "Aliraza Namdar",
+				"character": "Balli IELTS Examiner"
+			},
+			{
+				"id": 4306656,
+				"order": 48,
+				"name": "Richard Klein",
+				"character": "Sukhi IELTS Examiner"
+			},
+			{
+				"id": 2514311,
+				"order": 49,
+				"name": "Hella Stichlmair",
+				"character": "Buggu IELTS Examiner"
+			},
+			{
+				"id": 4541723,
+				"order": 50,
+				"name": "Ajay Kumar",
+				"character": "Hardy IELTS Examiner"
+			},
+			{
+				"id": 2472414,
+				"order": 51,
+				"name": "Varun Kulkarni",
+				"character": "IELTS Examiner's Assistant"
+			},
+			{
+				"id": 4541725,
+				"order": 52,
+				"name": "Samrat Soni",
+				"character": "Liquor Store Owner"
+			},
+			{
+				"id": 2589542,
+				"order": 53,
+				"name": "Sanjiv Kishinchandani",
+				"character": "Cameraman"
+			},
+			{
+				"id": 4541730,
+				"order": 54,
+				"name": "Faiz Mohd Khan",
+				"character": "Watch Tower Guard"
+			},
+			{
+				"id": 4541733,
+				"order": 55,
+				"name": "Ranjan Saw",
+				"character": "Boatman"
+			},
+			{
+				"id": 4541734,
+				"order": 56,
+				"name": "Mushari Alatawi",
+				"character": "Iran Agent"
+			},
+			{
+				"id": 1165770,
+				"order": 57,
+				"name": "Salem Kali",
+				"profile_path": "/btlsJSpgZeaXvKJkXlw1L4AY8Ih.jpg",
+				"character": "Iran Border Officer"
+			},
+			{
+				"id": 4541736,
+				"order": 58,
+				"name": "Mohd Abo Almajd",
+				"character": "Iran Border Soldier #1"
+			},
+			{
+				"id": 4541737,
+				"order": 59,
+				"name": "Fawzi Suliman",
+				"character": "Iran Border Soldier #2"
+			},
+			{
+				"id": 4541739,
+				"order": 60,
+				"name": "Palmer Johnny",
+				"character": "UK Dunki Agent"
+			},
+			{
+				"id": 4541740,
+				"order": 61,
+				"name": "Asein Uwaifo",
+				"character": "UK Dunki Agent"
+			},
+			{
+				"id": 4541741,
+				"order": 62,
+				"name": "Adhikary Teresa Borna",
+				"character": "Migrant"
+			},
+			{
+				"id": 4541742,
+				"order": 63,
+				"name": "Melika Sarmadi",
+				"character": "Migrant"
+			},
+			{
+				"id": 4541743,
+				"order": 64,
+				"name": "Boame Solomon Godson",
+				"character": "Migrant"
+			},
+			{
+				"id": 4541744,
+				"order": 65,
+				"name": "Sofunwa Olaniyi",
+				"character": "Farm Worker"
+			},
+			{
+				"id": 3574462,
+				"order": 66,
+				"name": "Emily Swain",
+				"profile_path": "/4Que3p81SqY83kQwhw8eEkU2YBt.jpg",
+				"character": "British Lady"
+			},
+			{
+				"id": 4541749,
+				"order": 67,
+				"name": "Peter Kulcsar",
+				"character": "British Man"
+			},
+			{
+				"id": 4541750,
+				"order": 68,
+				"name": "Laszlo Szantai",
+				"character": "Immigration Officer"
+			},
+			{
+				"id": 4541751,
+				"order": 69,
+				"name": "Kristof Lakatos",
+				"character": "British Cop Migrant House"
+			},
+			{
+				"id": 4541752,
+				"order": 70,
+				"name": "David Nagy",
+				"character": "British Cop Migrant House"
+			},
+			{
+				"id": 4541753,
+				"order": 71,
+				"name": "Daniel Short",
+				"character": "Junkie Groom"
+			},
+			{
+				"id": 4541755,
+				"order": 72,
+				"name": "Jay Miller",
+				"character": "Priest"
+			},
+			{
+				"id": 2628896,
+				"order": 73,
+				"name": "Chris Kaye",
+				"profile_path": "/k2woD09ae0VWVP3TXCYH0pQZWBo.jpg",
+				"character": "Interrogating Police Officer"
+			},
+			{
+				"id": 4541805,
+				"order": 74,
+				"name": "Dorottya Nanasi",
+				"character": "Church British Cop"
+			},
+			{
+				"id": 1440005,
+				"order": 75,
+				"name": "Gábor Molnár",
+				"character": "Church British Cop"
+			},
+			{
+				"id": 4541806,
+				"order": 76,
+				"name": "Geza Demeter",
+				"character": "Church British Cop"
+			},
+			{
+				"id": 4541807,
+				"order": 77,
+				"name": "Csaba Patinszki",
+				"character": "Detention Centre Officer"
+			},
+			{
+				"id": 4541809,
+				"order": 78,
+				"name": "Gabor Masznyik",
+				"character": "Detention Centre Officer"
+			},
+			{
+				"id": 4541810,
+				"order": 79,
+				"name": "Csaba Szabolcsi",
+				"character": "Detention Centre Officer"
+			},
+			{
+				"id": 4541811,
+				"order": 80,
+				"name": "Tamas Miklosi",
+				"character": "Detention Centre Officer"
+			},
+			{
+				"id": 4541812,
+				"order": 81,
+				"name": "Tibor Borde",
+				"character": "Detention Centre Officer"
+			},
+			{
+				"id": 4541813,
+				"order": 82,
+				"name": "Pal Mellar",
+				"character": "Detention Centre Officer"
+			},
+			{
+				"id": 4541814,
+				"order": 83,
+				"name": "Lajos Orgovan",
+				"character": "Detention Centre Officer"
+			},
+			{
+				"id": 1493396,
+				"order": 84,
+				"name": "Jeremy Wheeler",
+				"profile_path": "/qysjgXM9zSuaoqT6JGKzbVqCqH.jpg",
+				"character": "British Judge",
+				"gender": 2
+			},
+			{
+				"id": 4541815,
+				"order": 85,
+				"name": "Sean Sharma",
+				"character": "Court Interpreter"
+			},
+			{
+				"id": 4541816,
+				"order": 86,
+				"name": "Anita Bakay",
+				"character": "Court Stenographer"
+			},
+			{
+				"id": 4541817,
+				"order": 87,
+				"name": "Boldiszar Kolos",
+				"character": "Court Staff"
+			},
+			{
+				"id": 4541818,
+				"order": 88,
+				"name": "Gecsei Gergely",
+				"character": "Court British Cop"
+			},
+			{
+				"id": 3021015,
+				"order": 89,
+				"name": "Imre Csók",
+				"character": "Court British Cop",
+				"gender": 2
+			},
+			{
+				"id": 4490051,
+				"order": 90,
+				"name": "Zoltan Barta",
+				"character": "Court British Cop"
+			},
+			{
+				"id": 4541820,
+				"order": 91,
+				"name": "Fursan Alsafadi",
+				"character": "Airport British Cop"
+			},
+			{
+				"id": 4541821,
+				"order": 92,
+				"name": "Declan Lambert",
+				"character": "Airport British Cop"
+			},
+			{
+				"id": 4541822,
+				"order": 93,
+				"name": "Majed Alkabi",
+				"character": "Arab Man at Airport"
+			},
+			{
+				"id": 4541824,
+				"order": 94,
+				"name": "Haifa Quali",
+				"character": "Arab Woman at Airport"
+			},
+			{
+				"id": 3358875,
+				"order": 95,
+				"name": "Prabhakar Pandey",
+				"character": "Bobby Dhaba Watchman"
+			},
+			{
+				"id": 4541829,
+				"order": 96,
+				"name": "Suhail Zargar",
+				"character": "Mahinder Randhawa"
+			},
+			{
+				"id": 4541830,
+				"order": 97,
+				"name": "Keval Ramesh Bhingare",
+				"character": "Pehalwaan"
+			},
+			{
+				"id": 4541831,
+				"order": 98,
+				"name": "Sandeep Pathare",
+				"character": "Pehalwaan"
+			},
+			{
+				"id": 4541834,
+				"order": 99,
+				"name": "Naveen Kalirawana",
+				"character": "Marriage Registrar Office Groom"
+			},
+			{
+				"id": 4541835,
+				"order": 100,
+				"name": "Rajendra Ojha",
+				"character": "Marriage Registrar Office Groom"
+			},
+			{
+				"id": 4541836,
+				"order": 101,
+				"name": "Sumit Yadav",
+				"character": "Marriage Registrar Office Groom"
+			},
+			{
+				"id": 2285284,
+				"order": 102,
+				"name": "Gary Tantony",
+				"character": "Buggu's Visa Application Officer"
+			},
+			{
+				"id": 3475597,
+				"order": 103,
+				"name": "Khurshed Lawyer",
+				"character": "Office Goer"
+			},
+			{
+				"id": 4541840,
+				"order": 104,
+				"name": "Himanshu Maggo",
+				"character": "GGEC Classroom Student"
+			},
+			{
+				"id": 4541841,
+				"order": 105,
+				"name": "Ashish Sejwal",
+				"character": "GGEC Classroom Student"
+			},
+			{
+				"id": 4541843,
+				"order": 106,
+				"name": "Umesh Singh",
+				"character": "GGEC Classroom Student"
+			},
+			{
+				"id": 3358867,
+				"order": 107,
+				"name": "Davinder Kaur",
+				"character": "GGEC Classroom Student"
+			},
+			{
+				"id": 4541846,
+				"order": 108,
+				"name": "Ananya Sharma",
+				"character": "GGEC Classroom Student"
+			},
+			{
+				"id": 4541847,
+				"order": 109,
+				"name": "Mallika Dang",
+				"character": "GGEC Classroom Student"
+			},
+			{
+				"id": 153768,
+				"order": 110,
+				"name": "Karan Khanna",
+				"profile_path": "/rwoJ9XItEqW69Ts1XgXZrAGU27g.jpg",
+				"character": "GGEC Classroom Student",
+				"gender": 2
+			},
+			{
+				"id": 4541848,
+				"order": 111,
+				"name": "Shivam Parashar",
+				"character": "GGEC Classroom Student"
+			},
+			{
+				"id": 3358857,
+				"order": 112,
+				"name": "Sahil Mukhi",
+				"character": "GGEC Classroom Student"
+			},
+			{
+				"id": 3278035,
+				"order": 113,
+				"name": "Swati Singh",
+				"character": "GGEC Classroom Student"
+			},
+			{
+				"id": 4541850,
+				"order": 114,
+				"name": "Sunil Prajapati",
+				"character": "GGEC Classroom Student"
+			},
+			{
+				"id": 4541851,
+				"order": 115,
+				"name": "Dushyanth Pandir",
+				"character": "GGEC Classroom Student"
+			},
+			{
+				"id": 4541853,
+				"order": 116,
+				"name": "Vishnu Saxena",
+				"character": "GGEC Classroom Student"
+			},
+			{
+				"id": 2456470,
+				"order": 117,
+				"name": "Manish Kumar",
+				"character": "GGEC Classroom Student"
+			},
+			{
+				"id": 4541854,
+				"order": 118,
+				"name": "Sunny Tarar",
+				"character": "GGEC Classroom Student"
+			},
+			{
+				"id": 4541834,
+				"order": 119,
+				"name": "Naveen Kalirawana",
+				"character": "GGEC Classroom Student"
+			},
+			{
+				"id": 4541855,
+				"order": 120,
+				"name": "Ayushi Singh",
+				"character": "GGEC Classroom Student"
+			},
+			{
+				"id": 4541857,
+				"order": 121,
+				"name": "Gaurav Govind",
+				"character": "GGEC Classroom Student"
+			},
+			{
+				"id": 2472383,
+				"order": 122,
+				"name": "Shahid Latief",
+				"character": "Bakir"
+			},
+			{
+				"id": 4541858,
+				"order": 123,
+				"name": "Riz Mohammed",
+				"character": "Courier Boy"
+			},
+			{
+				"id": 1918010,
+				"order": 124,
+				"name": "Salman Zaidi",
+				"character": "Jeddah Port Handler"
+			},
+			{
+				"id": 4541859,
+				"order": 125,
+				"name": "Ehsan Ula",
+				"character": "Jeddah Container Driver"
+			},
+			{
+				"id": 4541861,
+				"order": 126,
+				"name": "Karim Saidi",
+				"character": "Jedah Port Officer"
+			},
+			{
+				"id": 4541862,
+				"order": 127,
+				"name": "Emmad Samman",
+				"character": "Jeddah Police Officer"
+			},
+			{
+				"id": 4541863,
+				"order": 128,
+				"name": "Adel Hmoud",
+				"character": "Jeddah Police Officer"
+			},
+			{
+				"id": 4541864,
+				"order": 129,
+				"name": "Ahmad Alsadi",
+				"character": "Jeddah Police Officer"
+			},
+			{
+				"id": 4541865,
+				"order": 130,
+				"name": "Abdulrehman Ahlrabi",
+				"character": "Jeddah Police Officer"
+			},
+			{
+				"id": 4541866,
+				"order": 131,
+				"name": "Amro Hussain",
+				"character": "Port Authority"
+			},
+			{
+				"id": 4541867,
+				"order": 132,
+				"name": "Khalid Almaki",
+				"character": "Port Authority"
+			},
+			{
+				"id": 4541870,
+				"order": 133,
+				"name": "Aakriti Pandey",
+				"character": "Qatar Airways Cabin Crew"
+			},
+			{
+				"id": 82076,
+				"order": 134,
+				"name": "Arun Bali",
+				"profile_path": "/v6QHrFQsgBlz52vJb3pxzjJa21b.jpg",
+				"character": "Manu's Father (Old)"
+			},
+			{
+				"id": 4407279,
+				"order": 135,
+				"name": "Vivek Sharma",
+				"character": "Dunki Agent"
+			}
+		],
+		"crew": [
+			{
+				"id": 123313,
+				"name": "Abhijat Joshi",
+				"profile_path": "/4uAnYkKyM8zPphXRvsllXWOwohg.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 547435,
+				"name": "Kanika Dhillon",
+				"profile_path": "/i7dcrVssTpUHrr56mvEQNVmRi3a.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 85675,
+				"name": "Rajkumar Hirani",
+				"profile_path": "/wNnmF3mzG7kyaTYuFr5uMpHIJSw.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 85675,
+				"name": "Rajkumar Hirani",
+				"profile_path": "/wNnmF3mzG7kyaTYuFr5uMpHIJSw.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 53973,
+				"name": "Gauri Khan",
+				"profile_path": "/k3VBuerXy0GixEQflLgZgQKq8rF.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 85675,
+				"name": "Rajkumar Hirani",
+				"profile_path": "/wNnmF3mzG7kyaTYuFr5uMpHIJSw.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 71273,
+				"name": "Pritam Chakraborty",
+				"profile_path": "/zS8kE2DWQBTQ7ArSSZiWg0OTXvo.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 85675,
+				"name": "Rajkumar Hirani",
+				"profile_path": "/wNnmF3mzG7kyaTYuFr5uMpHIJSw.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1658334,
+				"name": "Jyoti Deshpande",
+				"profile_path": "/fpbj5f3Uny0xdyPU8Qt5dMbi1PT.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2261207,
+				"name": "Gaurav Verma",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 85663,
+				"name": "C.K. Muraleedharan",
+				"profile_path": "/vyB2JbolTtjooJpMXWbW66dHX8B.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1337149,
+				"name": "Manush Nandan",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1640345,
+				"name": "Amit Roy",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2589542,
+				"name": "Sanjiv Kishinchandani",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2062948,
+				"name": "Sahil Khosla",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 231586,
+				"name": "Ken Metzker",
+				"job": "Colorist",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1363304,
+				"name": "Swanand Kirkire",
+				"profile_path": "/uigsx0yTtSUTfsXffiqhPY1Y7ke.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1640321,
+				"name": "Subrata Chakraborty",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1641647,
+				"name": "Eka Lakhani",
+				"profile_path": "/3zQWrNO8SMJVj9VuDkODSAPrj5i.jpg",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1858325,
+				"name": "Aman Pant",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 81984,
+				"name": "Javed Akhtar",
+				"profile_path": "/qKnvYtFvox7BhHy2Nx6YbcuSuIB.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1505913,
+				"name": "Varun Grover",
+				"profile_path": "/afL2IEMcIo2YOayQnr5X7GfhhBp.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 3271633,
+				"name": "IP Singh",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 959445,
+				"name": "Ganesh Acharya",
+				"profile_path": "/xmonkmVHlfmyz7pR0LuGgFvyvNj.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2062949,
+				"name": "Sachin Utekar",
+				"job": "Head of Production",
+				"department": "Production"
+			},
+			{
+				"id": 1599798,
+				"name": "Amitabh Bhattacharya",
+				"profile_path": "/FsOarFNY9tnqKcs3TI1BFvhIla.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2115542,
+				"name": "Tarannum Khan",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 85052,
+				"name": "Sham Kaushal",
+				"job": "Fight Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2031248,
+				"name": "Rohan Jagtap",
+				"job": "Hair Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2041634,
+				"name": "Keitan Yadav",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1790607,
+				"name": "Irshad Kamil",
+				"profile_path": "/20XNdVA9lA3NmyU1oUFVo39FokA.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1640319,
+				"name": "Amit Ray",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 2115370,
+				"name": "Nihar Ranjan Samal",
+				"job": "Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 2204533,
+				"name": "Harry Hingorani",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1556253,
+				"name": "Bishwadeep Dipak Chatterjee",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 233065,
+				"name": "Kumaar",
+				"profile_path": "/9sHLGuvqvmfbeh9RiaYROVQ2VUy.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1046503,
+				"name": "Sonu Nigam",
+				"profile_path": "/lWoKKVb4caU4YeaP00DewHOE5Jp.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 928221,
+				"name": "Diljit Dosanjh",
+				"profile_path": "/xB57LAMYa1q3CaS0TZjgf4d2OaS.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1796865,
+				"name": "Arijit Singh",
+				"profile_path": "/2PebQIwbUQDOctnwQ0jSqTLQ5l9.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 95511,
+				"name": "Shekhar Ravjiani",
+				"profile_path": "/xFaBrtU9Wjp2QEcda8amfwddWko.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1932076,
+				"name": "Shreya Ghoshal",
+				"profile_path": "/xWgc6p4vqsUisHzHgWAEOQaYQI2.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 2156687,
+				"name": "Vishal Mishra",
+				"profile_path": "/rgTiKOQ016nV05FxiWpvjqurWAC.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1979884,
+				"name": "Javed Ali",
+				"profile_path": "/wrzUSspdLgraaNjEuOWuKxgXJMt.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2332936,
+				"name": "Shadab Faridi",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 3263378,
+				"name": "Altamash Faridi",
+				"profile_path": "/ukB1Rcyfe7oWJz0yHIdmW9Tp0nS.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 35742,
+				"name": "Shah Rukh Khan",
+				"profile_path": "/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3131841,
+				"name": "Bhanu Pratap Singh",
+				"job": "Steadicam Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 4541669,
+				"name": "Aayush Verma",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 231577,
+				"name": "Lakshmipriya Devi",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2415540,
+				"name": "Karan Narvekar",
+				"job": "Story",
+				"department": "Writing"
+			},
+			{
+				"id": 4541676,
+				"name": "Vincent Lobo",
+				"job": "Production Accountant",
+				"department": "Production"
+			},
+			{
+				"id": 1918010,
+				"name": "Salman Zaidi",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1463815,
+				"name": "Ashish Ranglani",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2590101,
+				"name": "Dileep Desai",
+				"job": "Production Coordinator",
+				"department": "Production"
+			},
+			{
+				"id": 4541677,
+				"name": "Veena D'Souza",
+				"job": "Production Accountant",
+				"department": "Production"
+			},
+			{
+				"id": 2345792,
+				"name": "Sanjay Solanki",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 4541675,
+				"name": "Ravindra Mandekar",
+				"job": "Production Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 4541668,
+				"name": "Natasha Raj Mehta",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2415540,
+				"name": "Karan Narvekar",
+				"job": "Second Unit Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4541670,
+				"name": "Hiya Nandini Jaiswal",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4541671,
+				"name": "Tushant Satyam",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4541680,
+				"name": "Jagdish Dhumal",
+				"job": "Production Accountant",
+				"department": "Production"
+			},
+			{
+				"id": 4541889,
+				"name": "Kinjal Maru",
+				"job": "Costume Assistant",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4541877,
+				"name": "Raffy Khemsar",
+				"job": "Casting Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 3904552,
+				"name": "Damini Gupta",
+				"job": "Research Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 4541876,
+				"name": "Aryan Singh",
+				"job": "Casting Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 3904551,
+				"name": "Ishana Raj",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4541880,
+				"name": "Siddhesh Shinde",
+				"job": "Hair Department Head",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4541885,
+				"name": "Mira Prasad",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4541886,
+				"name": "Vinit Sethi",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4541910,
+				"name": "Tanushree Bhatia",
+				"job": "Second Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4541914,
+				"name": "Altamash Khan",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4541879,
+				"name": "Akanksha Kanjilal",
+				"job": "Research Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 4541887,
+				"name": "Mohd Wasim Kassar",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4541883,
+				"name": "Resham Mordani",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4541884,
+				"name": "Mohd Zaid Ali",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4541881,
+				"name": "Dhanshree Jagtap",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4541893,
+				"name": "Sudhir Mhatre",
+				"job": "Dresser",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4541878,
+				"name": "Resham Sahhani",
+				"job": "Casting Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 4541898,
+				"name": "Paresh Mahakal",
+				"job": "Dresser",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4541900,
+				"name": "Mohammed Raju Master",
+				"job": "Tailor",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4400181,
+				"name": "Nilesh Patkar",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4541906,
+				"name": "Amol Naik",
+				"job": "Assistant Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2447773,
+				"name": "Ishan Mohan",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4541908,
+				"name": "Faizal Mohammed",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2926852,
+				"name": "Gaurav Mane",
+				"job": "Continuity",
+				"department": "Directing"
+			},
+			{
+				"id": 4541935,
+				"name": "Kamal Warik",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 4541895,
+				"name": "Yasir Ali",
+				"job": "Dresser",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4541919,
+				"name": "Aastha Toprani",
+				"job": "Second Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4541896,
+				"name": "Maqbool Sheikh",
+				"job": "Dresser",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1471175,
+				"name": "Siddharth Van Shipley",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2032803,
+				"name": "Ramani Ranjan Das",
+				"job": "Second Unit Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 4541894,
+				"name": "Abdul Sheikh",
+				"job": "Dresser",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4541899,
+				"name": "Mofij Shah",
+				"job": "Tailor",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4541902,
+				"name": "Sanjay Pardeshi",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4541922,
+				"name": "Aiman Kalia",
+				"job": "Additional Third Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4541938,
+				"name": "Baikuntha Rout",
+				"job": "First Assistant Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 4541942,
+				"name": "Narjes Golaftab",
+				"job": "Additional Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 4541924,
+				"name": "Vandana",
+				"job": "Continuity",
+				"department": "Directing"
+			},
+			{
+				"id": 4541934,
+				"name": "Priya Sen",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 4541939,
+				"name": "Bijay Dora",
+				"job": "Second Assistant Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 2266277,
+				"name": "Aarshna Shah",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4541911,
+				"name": "Suraj Prasad",
+				"job": "Third Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1763416,
+				"name": "Vijay Vinayak Joshi",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1644861,
+				"name": "Nawaraj Krishna Thapa",
+				"job": "Focus Puller",
+				"department": "Camera"
+			},
+			{
+				"id": 2362167,
+				"name": "Dilip Rokade",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 4541892,
+				"name": "Salaam Sheikh",
+				"job": "Dresser",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4541941,
+				"name": "Satish Reddy Parpally",
+				"job": "Focus Puller",
+				"department": "Camera"
+			},
+			{
+				"id": 4541897,
+				"name": "Santosh Pardeshi",
+				"job": "Dresser",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 231579,
+				"name": "Menaka Nagarajan",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4541933,
+				"name": "Rupam Poul",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 4541903,
+				"name": "Prem Lohat",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4541905,
+				"name": "Disha Solanki",
+				"job": "Assistant Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1763412,
+				"name": "Vishesh Deepak Sareen",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4541920,
+				"name": "Nikita Smith",
+				"job": "Second Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4541901,
+				"name": "Rukshaad Nariman",
+				"job": "Makeup Supervisor",
+				"department": "Costume \u0026 Make-Up"
+			}
+		]
+	}
+}
