@@ -1,0 +1,406 @@
+{
+	"id": 1051023,
+	"title": "Murder Mubarak",
+	"fcg_title": "Murder Mubarak",
+	"original_title": "मर्डर मुबारक",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "When a gym trainer is murdered at an elite Delhi club, a wily investigator unravels the sordid secrets of its ultrarich members to find the killer.",
+	"backdrop_path": "/mw6ucZfre773Fb1BSSsvsvV8a9m.jpg",
+	"poster_path": "/joU5VihgUvkhyPnhzxfjmWk32rd.jpg",
+	"release_date": "2024-03-15",
+	"credits": {
+		"cast": [
+			{
+				"id": 1179460,
+				"order": 0,
+				"name": "Pankaj Tripathi",
+				"profile_path": "/429hnZC7O6GEDs7DWHdYMI27h8I.jpg",
+				"character": "ACP Bhavani Singh",
+				"gender": 2
+			},
+			{
+				"id": 1848952,
+				"order": 1,
+				"name": "Sara Ali Khan",
+				"profile_path": "/nRtF9kNgIt9q52jy89cyZBimUPs.jpg",
+				"character": "Bambi Todi",
+				"gender": 1
+			},
+			{
+				"id": 1551045,
+				"order": 2,
+				"name": "Vijay Varma",
+				"profile_path": "/SVKmw30OYNFqSZwZ8BCMBZjRtB.jpg",
+				"character": "Akash 'Kaashi' Dogra",
+				"gender": 2
+			},
+			{
+				"id": 52766,
+				"order": 3,
+				"name": "Tisca Chopra",
+				"profile_path": "/3Paj1g86LtZIcP3poEcDJhIdpQJ.jpg",
+				"character": "Roshni Batra",
+				"gender": 1
+			},
+			{
+				"id": 35763,
+				"order": 4,
+				"name": "Sanjay Kapoor",
+				"profile_path": "/yyYWMvzKRFCAdRnZGW3AWie5pQH.jpg",
+				"character": "Rannvijay Singh",
+				"gender": 2
+			},
+			{
+				"id": 76233,
+				"order": 5,
+				"name": "Karisma Kapoor",
+				"profile_path": "/vaa4dSmayH71krkgnECXQsPaRre.jpg",
+				"character": "Shehnaz Noorani",
+				"gender": 1
+			},
+			{
+				"id": 78921,
+				"order": 6,
+				"name": "Dimple Kapadia",
+				"profile_path": "/mKfkU8Iws9KXUVX04fAIZkywBme.jpg",
+				"character": "Cookie Katoch",
+				"gender": 1
+			},
+			{
+				"id": 1768799,
+				"order": 7,
+				"name": "Suhail Nayyar",
+				"profile_path": "/sJnZWHoNsQCpIm3XDhmSEYNisyV.jpg",
+				"character": "Yash Batra",
+				"gender": 2
+			},
+			{
+				"id": 2306258,
+				"order": 8,
+				"name": "Aashim Gulati",
+				"profile_path": "/oV9cuWPMf6muiLtjn6FFaYiS8Of.jpg",
+				"character": "Leo Matthews",
+				"gender": 2
+			},
+			{
+				"id": 3006633,
+				"order": 9,
+				"name": "Priyank Tiwari",
+				"profile_path": "/avyZUEqDQyWSOwGLMQQz1Osq4tV.jpg",
+				"character": "SI Padam Kumar"
+			},
+			{
+				"id": 110292,
+				"order": 10,
+				"name": "Deven Bhojani",
+				"profile_path": "/4gKlQ8QD6BtfachIRAXOxB5vidB.jpg",
+				"character": "Devendra Bhatti",
+				"gender": 2
+			},
+			{
+				"id": 230440,
+				"order": 11,
+				"name": "Brijendra Kala",
+				"profile_path": "/wogG1hX0EHzAhnfnGpN3tY3Ch6n.jpg",
+				"character": "Guppie Ram",
+				"gender": 2
+			},
+			{
+				"id": 2126582,
+				"order": 12,
+				"name": "Varun Mitra",
+				"profile_path": "/8uAnoiWerrB30G6NHNScWP3ZDpY.jpg",
+				"character": "Anshul",
+				"gender": 2
+			},
+			{
+				"id": 131887,
+				"order": 13,
+				"name": "Grusha Kapoor",
+				"character": "Mala Dogra",
+				"gender": 1
+			},
+			{
+				"id": 2281316,
+				"order": 14,
+				"name": "Purnendu Bhattacharya",
+				"profile_path": "/kBm4pTQS0na0LggDODaYZomFC9Q.jpg",
+				"character": "Brigadier Balbir Dogra",
+				"gender": 2
+			},
+			{
+				"id": 3747377,
+				"order": 15,
+				"name": "Paalin Kabak",
+				"character": "Thinsuk"
+			},
+			{
+				"id": 4595654,
+				"order": 16,
+				"name": "Padmini Sardesai",
+				"character": "Daadi Dogra"
+			},
+			{
+				"id": 3278102,
+				"order": 17,
+				"name": "Amaara Sangam",
+				"character": "Minu Dimri"
+			},
+			{
+				"id": 4595656,
+				"order": 18,
+				"name": "Beila Gupta",
+				"character": "Anshul's Mother"
+			},
+			{
+				"id": 4595657,
+				"order": 19,
+				"name": "Trilochan Kalra",
+				"character": "Anshul's Father"
+			},
+			{
+				"id": 4595658,
+				"order": 20,
+				"name": "Varsha Arora",
+				"character": "Ira (Shehnaz's daughter)"
+			},
+			{
+				"id": 4595660,
+				"order": 21,
+				"name": "Gurkeet Kaur",
+				"character": "Shahana (Shehnaz's daughter)"
+			},
+			{
+				"id": 4595661,
+				"order": 22,
+				"name": "Hardeep Gupta",
+				"character": "Bambi's Mother"
+			},
+			{
+				"id": 2964779,
+				"order": 23,
+				"name": "Hitesh Sejpal",
+				"character": "Bambi's Father"
+			},
+			{
+				"id": 4485795,
+				"order": 24,
+				"name": "Shrikant Maski",
+				"character": "Theju"
+			},
+			{
+				"id": 1602231,
+				"order": 25,
+				"name": "Tara Alisha Berry",
+				"profile_path": "/7xKHmHPQdQZPgjqsNnzZoGZ9Y6N.jpg",
+				"character": "Ganga",
+				"gender": 1
+			},
+			{
+				"id": 3430414,
+				"order": 26,
+				"name": "Hardika Sharma",
+				"character": "Young Bambi"
+			},
+			{
+				"id": 4569810,
+				"order": 27,
+				"name": "Abeer Sandeep Jain",
+				"character": "Young Akash"
+			},
+			{
+				"id": 4595663,
+				"order": 28,
+				"name": "Alok Panwar",
+				"character": "Ajay Kumar"
+			},
+			{
+				"id": 4595665,
+				"order": 29,
+				"name": "Kiara Sadh",
+				"character": "Little Girl"
+			}
+		],
+		"crew": [
+			{
+				"id": 102246,
+				"name": "Dinesh Vijan",
+				"profile_path": "/mYKpPjxkGvyCXMhId8HXZKAyePb.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 102234,
+				"name": "Homi Adajania",
+				"profile_path": "/eyoCxhmsrFgrE8pyTzQKyVcNZb5.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1846517,
+				"name": "Gazal Dhaliwal",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 1807916,
+				"name": "Suprotim Sengupta",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 3492414,
+				"name": "Linesh Desai",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 2255860,
+				"name": "Sharada Karki",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2384413,
+				"name": "Poonam Shivdasani",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3082259,
+				"name": "Anuja Chauhan",
+				"job": "Original Story",
+				"department": "Writing"
+			},
+			{
+				"id": 3082259,
+				"name": "Anuja Chauhan",
+				"job": "Novel",
+				"department": "Writing"
+			},
+			{
+				"id": 1279372,
+				"name": "Jigar Saraiya",
+				"profile_path": "/r9vcvfVmc7aybWEB3vHYJiUSNJP.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1279371,
+				"name": "Sachin Sanghvi",
+				"profile_path": "/eU5IcGfWX8Ttv3hLNZnFbkno3Ev.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2330937,
+				"name": "Priya Saraiya",
+				"profile_path": "/kn39JfYPjQjsh7Am8Eh1biCVOA6.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 930037,
+				"name": "Sohel Sanwari",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 1922465,
+				"name": "Akshara Prabhakar",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 2017720,
+				"name": "Bindiya Chhabria",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 2283094,
+				"name": "Arvind Ashok Kumar",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 102252,
+				"name": "Anaita Shroff Adajania",
+				"profile_path": "/yLDxdFAcESXvsfgZKv8ob8TSWvw.jpg",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1895225,
+				"name": "Panchami Ghavri",
+				"job": "Casting Director",
+				"department": "Production"
+			},
+			{
+				"id": 3477047,
+				"name": "Ashish Chauhan",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2999188,
+				"name": "Suresh Mohanty",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2031233,
+				"name": "Celina John",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4152253,
+				"name": "Shikhar Shrivastava",
+				"profile_path": "/fzb7GbPeBZexknXtWXOZvwCrzvr.jpg",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1760322,
+				"name": "Alok De",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 3893953,
+				"name": "Michele Ricossa",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 3639152,
+				"name": "Amritpal Singh",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			}
+		]
+	}
+}

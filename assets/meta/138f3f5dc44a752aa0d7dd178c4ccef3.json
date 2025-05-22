@@ -1,0 +1,634 @@
+{
+	"id": 890116,
+	"title": "Merry Christmas",
+	"fcg_title": "Merry Christmas",
+	"original_title": "मेरी क्रिसमस",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 53,
+			"name": "Thriller"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "A Christmas Eve encounter between two enigmatic strangers sparks a poignant connection - but a dark turn of events threatens to expose their murky past.",
+	"backdrop_path": "/ydgpG8xmG3tAaFoWkH0RV3eZXTy.jpg",
+	"poster_path": "/2vyfH2FfDC8Du1mwaULUIOPd1ho.jpg",
+	"release_date": "2024-01-12",
+	"credits": {
+		"cast": [
+			{
+				"id": 81869,
+				"order": 0,
+				"name": "Katrina Kaif",
+				"profile_path": "/4EAYTJvGdt4NYl2BUKZMdz4lztR.jpg",
+				"character": "Maria",
+				"gender": 1
+			},
+			{
+				"id": 1123766,
+				"order": 1,
+				"name": "Vijay Sethupathi",
+				"profile_path": "/a3HWdfCAbplrvoMNEJCjnkbqqOo.jpg",
+				"character": "Albert Arogyasami",
+				"gender": 2
+			},
+			{
+				"id": 223167,
+				"order": 2,
+				"name": "Radhika Apte",
+				"profile_path": "/wKPybRcSYcbgDiJZwELudrRNf0r.jpg",
+				"character": "Rosie",
+				"gender": 1
+			},
+			{
+				"id": 35763,
+				"order": 3,
+				"name": "Sanjay Kapoor",
+				"profile_path": "/yyYWMvzKRFCAdRnZGW3AWie5pQH.jpg",
+				"character": "Ronnie Fernandes",
+				"gender": 2
+			},
+			{
+				"id": 43416,
+				"order": 4,
+				"name": "Vinay Pathak",
+				"profile_path": "/nt4MvHjHq5sF1aPrLyFO1YizD8y.jpg",
+				"character": "Insp. Paresh Kamdar",
+				"gender": 2
+			},
+			{
+				"id": 85733,
+				"order": 5,
+				"name": "Tinnu Anand",
+				"profile_path": "/6fkEiZKNp6jnOQmfQKEjVinhUeL.jpg",
+				"character": "Yadhoom Uncle",
+				"gender": 2
+			},
+			{
+				"id": 86056,
+				"order": 6,
+				"name": "Pratima Kazmi",
+				"profile_path": "/qSorgBpBpddG7Z5w72UzO3uJvk7.jpg",
+				"character": "Constable Laxmi",
+				"gender": 1
+			},
+			{
+				"id": 85657,
+				"order": 7,
+				"name": "Ashwini Kalsekar",
+				"profile_path": "/mS2nPxyyplKNvwbc5TSCLAEgdvP.jpg",
+				"character": "Scarlet Fernandes",
+				"gender": 1
+			},
+			{
+				"id": 562177,
+				"order": 8,
+				"name": "Radikaa Sarathkumar",
+				"profile_path": "/kEKzT8HAJw8lfFUtWWd0SoQ9kC9.jpg",
+				"gender": 1
+			},
+			{
+				"id": 580842,
+				"order": 9,
+				"name": "Shanmugarajan",
+				"profile_path": "/6UzjjWrsbxptIeUUaQiHbtBfN3K.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1124450,
+				"order": 10,
+				"name": "Gayathrie Shankar",
+				"profile_path": "/bJgZlSd5WCIi7kp3IZKS0FDjIL2.jpg",
+				"character": "Singer at the Bar",
+				"gender": 1
+			},
+			{
+				"id": 584241,
+				"order": 11,
+				"name": "Rajesh",
+				"profile_path": "/pojZM4IDKCLlUGeTJ5z7Ld9QSxG.jpg",
+				"gender": 2
+			},
+			{
+				"id": 2250682,
+				"order": 12,
+				"name": "Kavin Jay Babu",
+				"profile_path": "/3vpkVlHdUUYtXeKpqPSePNjyrOU.jpg"
+			},
+			{
+				"id": 4478603,
+				"order": 13,
+				"name": "Pari Maheshwari Sharma",
+				"character": "Annie"
+			},
+			{
+				"id": 1040493,
+				"order": 14,
+				"name": "Sahil Vaid",
+				"profile_path": "/cDMYHIBwtto2VoECGrXjzhJkKYh.jpg",
+				"character": "Maria's Date",
+				"gender": 2
+			},
+			{
+				"id": 85575,
+				"order": 15,
+				"name": "Luke Kenny",
+				"profile_path": "/3FsRRUJraXNQFYETkxj0xKhdvk9.jpg",
+				"character": "Jerome",
+				"gender": 2
+			},
+			{
+				"id": 4097252,
+				"order": 16,
+				"name": "Hemant K Gaur",
+				"character": "Police Assistant 1"
+			},
+			{
+				"id": 4166713,
+				"order": 17,
+				"name": "Anukriti Pandey",
+				"character": "Goa Forensic Expert"
+			},
+			{
+				"id": 4478607,
+				"order": 18,
+				"name": "Brinda Radhakrishnani",
+				"character": "Girl in Gift Shop"
+			},
+			{
+				"id": 4478608,
+				"order": 19,
+				"name": "Usha Palan",
+				"character": "Lady in Gift Shop"
+			}
+		],
+		"crew": [
+			{
+				"id": 1182697,
+				"name": "Madhu Neelakandan",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 85665,
+				"name": "Sriram Raghavan",
+				"profile_path": "/wSm4CkL6LxdDxg7t1kBzy0Gi8Fs.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 85665,
+				"name": "Sriram Raghavan",
+				"profile_path": "/wSm4CkL6LxdDxg7t1kBzy0Gi8Fs.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 92689,
+				"name": "Ramesh Sadhuram Taurani",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1085764,
+				"name": "Sanjay Routray",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 102252,
+				"name": "Anaita Shroff Adajania",
+				"profile_path": "/yLDxdFAcESXvsfgZKv8ob8TSWvw.jpg",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 2149996,
+				"name": "Sabina Halder",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2332940,
+				"name": "Prakash Talreja",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3765314,
+				"name": "Pratik Nandkumar More",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1740434,
+				"name": "Rhitwik Raj Pathak",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1757818,
+				"name": "Madhu Apsara",
+				"job": "Sound Recordist",
+				"department": "Sound"
+			},
+			{
+				"id": 4440205,
+				"name": "Hira Yadav",
+				"job": "Action Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1785033,
+				"name": "Sunil Rodrigues",
+				"job": "Action Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1911375,
+				"name": "Vijay Ganguly",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 567556,
+				"name": "Frédéric Dard",
+				"profile_path": "/wLEapRP4UrmSUY0fZcsnqDB6C3E.jpg",
+				"job": "Original Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4756869,
+				"name": "Ajaykumar Balakrishnan",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1785033,
+				"name": "Sunil Rodrigues",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 2303094,
+				"name": "Varsha Taurani",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2349465,
+				"name": "Krutika Jain",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 85664,
+				"name": "Pooja Ladha Surti",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2989809,
+				"name": "Rakesh Sain",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4756871,
+				"name": "Shiladitya Sen",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 3737005,
+				"name": "Dikssha Jyote Routray",
+				"job": "Creative Producer",
+				"department": "Writing"
+			},
+			{
+				"id": 2332943,
+				"name": "Murli Shah",
+				"job": "Post Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2332941,
+				"name": "Kapil Sethi",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4756872,
+				"name": "Kavya Desai",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4756873,
+				"name": "Mukul Grover",
+				"job": "Post Production Coordinator",
+				"department": "Production"
+			},
+			{
+				"id": 4756874,
+				"name": "Hera Sajid",
+				"job": "Script Supervisor",
+				"department": "Directing"
+			},
+			{
+				"id": 4664935,
+				"name": "Saran Devaraj",
+				"job": "Continuity",
+				"department": "Directing"
+			},
+			{
+				"id": 3865925,
+				"name": "Shivam Sinha",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4756875,
+				"name": "Daani Naidu",
+				"job": "Second Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4756876,
+				"name": "Rajesh Singh",
+				"job": "Unit Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 4756878,
+				"name": "Joseph D' Mello",
+				"job": "Unit Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 4756879,
+				"name": "Esha Dhariwal",
+				"job": "Production Coordinator",
+				"department": "Production"
+			},
+			{
+				"id": 4473889,
+				"name": "Balram Raut",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 2435892,
+				"name": "Onkar Shinde",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 4756886,
+				"name": "Scarlet Colaco",
+				"job": "Production Executive",
+				"department": "Production"
+			},
+			{
+				"id": 4756873,
+				"name": "Mukul Grover",
+				"job": "Production Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 1796644,
+				"name": "Sabyasachi Mishra",
+				"profile_path": "/lhxJdnm3WR1xwa5zLFfHxXhUmgM.jpg",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 2936894,
+				"name": "Helen Jones",
+				"job": "Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 4756893,
+				"name": "Maitry Surti",
+				"job": "Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 4756895,
+				"name": "Jyoti Puthran",
+				"job": "Graphic Designer",
+				"department": "Art"
+			},
+			{
+				"id": 4756897,
+				"name": "Jui Maniar",
+				"job": "Graphic Designer",
+				"department": "Art"
+			},
+			{
+				"id": 2255974,
+				"name": "Prashant Parab",
+				"job": "Concept Artist",
+				"department": "Art"
+			},
+			{
+				"id": 4756903,
+				"name": "Kaushangi Parikh",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 4756904,
+				"name": "Krutika Kalbhor",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 4756907,
+				"name": "Yuvraj Landage",
+				"job": "Assistant Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 4756908,
+				"name": "Lagan Garg",
+				"job": "Art Department Trainee",
+				"department": "Art"
+			},
+			{
+				"id": 4756914,
+				"name": "Deepak T.",
+				"job": "Focus Puller",
+				"department": "Camera"
+			},
+			{
+				"id": 4756915,
+				"name": "Kushal Talreja",
+				"job": "Camera Intern",
+				"department": "Camera"
+			},
+			{
+				"id": 4010073,
+				"name": "Saumin Patel",
+				"job": "Storyboard",
+				"department": "Writing"
+			},
+			{
+				"id": 4756917,
+				"name": "Roma Roy",
+				"job": "Associate Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 4756919,
+				"name": "Mihir Ghare",
+				"job": "Associate Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 4664935,
+				"name": "Saran Devaraj",
+				"job": "Associate Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 2268337,
+				"name": "Shalmali Kholgade",
+				"profile_path": "/b5Yyom9Mt57i15aGtEx8gGMRsJ0.jpg",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 1796865,
+				"name": "Arijit Singh",
+				"profile_path": "/2PebQIwbUQDOctnwQ0jSqTLQ5l9.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1244566,
+				"name": "Antara Mitra",
+				"profile_path": "/yBM7xZlt6U3eeYIInCnyyjzgTcc.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 2321788,
+				"name": "Ash King",
+				"profile_path": "/97p8FAirUmcCiy2sXTp8pCeCi7G.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1272915,
+				"name": "Papon",
+				"profile_path": "/5XRRCqBEZdXWySpeD8fHfyTBl2U.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3307998,
+				"name": "Ashwin Kulkarni",
+				"job": "Sound Engineer",
+				"department": "Sound"
+			},
+			{
+				"id": 71273,
+				"name": "Pritam Chakraborty",
+				"profile_path": "/zS8kE2DWQBTQ7ArSSZiWg0OTXvo.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 85664,
+				"name": "Pooja Ladha Surti",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1745013,
+				"name": "Mayur Sharma",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 2431328,
+				"name": "Nikita Kapoor",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1505913,
+				"name": "Varun Grover",
+				"profile_path": "/afL2IEMcIo2YOayQnr5X7GfhhBp.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1959061,
+				"name": "Jaya Taurani",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4166693,
+				"name": "Kewal Garg",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2149976,
+				"name": "Arijit Biswas",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 85664,
+				"name": "Pooja Ladha Surti",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 4166713,
+				"name": "Anukriti Pandey",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 1423188,
+				"name": "Vishal Bajaj",
+				"job": "Supervising Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1757818,
+				"name": "Madhu Apsara",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 1668225,
+				"name": "Daniel B George",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			}
+		]
+	}
+}
