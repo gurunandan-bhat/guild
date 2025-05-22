@@ -1,0 +1,205 @@
+{
+	"id": 1227739,
+	"title": "Homebound",
+	"fcg_title": "Homebound",
+	"original_title": "Homebound",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Two childhood friends from a small North Indian village chase a police job that promises them the dignity they’ve long been denied. But as they inch closer to their dream, mounting desperation threatens the bond that holds them together.",
+	"backdrop_path": "/v9w0xds8GUzOwHTZRuw2yeObRzD.jpg",
+	"poster_path": "/vyezjSvSdLO0bvr6jSNuFi6yuiw.jpg",
+	"release_date": "2025-05-21",
+	"credits": {
+		"cast": [
+			{
+				"id": 930298,
+				"order": 0,
+				"name": "Ishaan Khatter",
+				"profile_path": "/a71GZNDh1zxr182cHXr1z4UmXO0.jpg",
+				"character": "Mohammed Shoaib Ali",
+				"gender": 2
+			},
+			{
+				"id": 2554387,
+				"order": 1,
+				"name": "Vishal Jethwa",
+				"profile_path": "/oqt3Ea43y9EAcCb0DrA22TV08kt.jpg",
+				"character": "Chandan Kumar",
+				"gender": 2
+			},
+			{
+				"id": 1974970,
+				"order": 2,
+				"name": "Janhvi Kapoor",
+				"profile_path": "/qb4mHSxMDl5dPyjXTjTz2G7Xnss.jpg",
+				"character": "Sudha Bharti",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 1455337,
+				"name": "Neeraj Ghaywan",
+				"profile_path": "/ra3sCwqVrPPRf7vUGojoyEhpH3m.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 35736,
+				"name": "Karan Johar",
+				"profile_path": "/zip1x7OXOBxXxcdYvKOgw6MnAWm.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1473713,
+				"name": "Nitin Baid",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 4977684,
+				"name": "Syed Zaid Ali",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1705460,
+				"name": "Marijke deSouza",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1505916,
+				"name": "Mélita Toscan du Plantier",
+				"profile_path": "/zzJXA7RODT8qj7Ht9GEytn4nfYe.jpg",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 131836,
+				"name": "Apoorva Mehta",
+				"profile_path": "/1AJ9HUiwkA7zuIX57YNZ0yvw9sj.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2074652,
+				"name": "Somen Mishra",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3461928,
+				"name": "Adar Poonawalla",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 223854,
+				"name": "Amit Trivedi",
+				"profile_path": "/lRewkQ2Smolc0TjNMSycYHnbFil.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1744509,
+				"name": "Rohit Chaturvedi",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5369877,
+				"name": "Swayam Dakle",
+				"job": "Second Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5369878,
+				"name": "Sherkhan Amir Khan",
+				"job": "Boom Operator",
+				"department": "Sound"
+			},
+			{
+				"id": 5369879,
+				"name": "Bhushan Gavas",
+				"job": "Still Photographer",
+				"department": "Camera"
+			},
+			{
+				"id": 1032,
+				"name": "Martin Scorsese",
+				"profile_path": "/g3DjfKsgZQWZiw30I20hZVk1oMX.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5440168,
+				"name": "Praveen Khairnar",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1455337,
+				"name": "Neeraj Ghaywan",
+				"profile_path": "/ra3sCwqVrPPRf7vUGojoyEhpH3m.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1505913,
+				"name": "Varun Grover",
+				"profile_path": "/afL2IEMcIo2YOayQnr5X7GfhhBp.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 3905269,
+				"name": "Sriidhar Rajyash Dubey",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 2239105,
+				"name": "Sumit Roy",
+				"job": "Script Consultant",
+				"department": "Writing"
+			},
+			{
+				"id": 2239105,
+				"name": "Sumit Roy",
+				"job": "Story",
+				"department": "Writing"
+			},
+			{
+				"id": 1455337,
+				"name": "Neeraj Ghaywan",
+				"profile_path": "/ra3sCwqVrPPRf7vUGojoyEhpH3m.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2476705,
+				"name": "Pratik Shah",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			}
+		]
+	}
+}
