@@ -20,5 +20,3 @@ var slider = tns({
 		},
 	},
 });
-
-console.log(slider.getInfo().navItems);
