@@ -1,0 +1,661 @@
+{
+	"id": 1254808,
+	"title": "Nouvelle Vague",
+	"fcg_title": "Nouvelle Vague",
+	"original_title": "Nouvelle Vague",
+	"original_language": "fr",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 36,
+			"name": "History"
+		}
+	],
+	"overview": "This is the story of Godard making ”Breathless”, told in the style and spirit in which Godard made “Breathless”.",
+	"backdrop_path": "/gKVZ6PAzDoSpGf9l50mV92iwIVw.jpg",
+	"poster_path": "/pEcAfVyp2XRRoMvlkUdHvgbFqNW.jpg",
+	"release_date": "2025-10-08",
+	"credits": {
+		"cast": [
+			{
+				"id": 3624024,
+				"order": 0,
+				"name": "Guillaume Marbeck",
+				"profile_path": "/suv17PmzOl2mPiinr3R3Ag61Q5o.jpg",
+				"character": "Jean-Luc Godard",
+				"gender": 2
+			},
+			{
+				"id": 1059597,
+				"order": 1,
+				"name": "Zoey Deutch",
+				"profile_path": "/csmSAm3vpJj9lB5vb5fTbRqOw9C.jpg",
+				"character": "Jean Seberg",
+				"gender": 1
+			},
+			{
+				"id": 4620704,
+				"order": 2,
+				"name": "Aubry Dullin",
+				"profile_path": "/rec7vWqXXuJHv9EPJQMarTcA6h.jpg",
+				"character": "Jean-Paul Belmondo"
+			},
+			{
+				"id": 1126301,
+				"order": 3,
+				"name": "Alix Bénézech",
+				"profile_path": "/fUz1bKAX3vxDwoa9sjsiwkGpwM6.jpg",
+				"character": "Juliette Greco",
+				"gender": 1
+			},
+			{
+				"id": 3469206,
+				"order": 4,
+				"name": "Paolo Luka Noé",
+				"profile_path": "/3Whc0yseMikmH4wKM06ccSf3TEH.jpg",
+				"character": "Francois Moreuil",
+				"gender": 2
+			},
+			{
+				"id": 24454,
+				"order": 5,
+				"name": "Tom Novembre",
+				"profile_path": "/YHLQQ5Z4PSsj1PoXWb7Jr6xmiO.jpg",
+				"gender": 2
+			},
+			{
+				"id": 54923,
+				"order": 6,
+				"name": "Jade Phan-Gia",
+				"profile_path": "/dbOugjqTXTxPmJhTFh0EUnv9xEk.jpg",
+				"character": "Phuong Maittret",
+				"gender": 1
+			},
+			{
+				"id": 2974312,
+				"order": 7,
+				"name": "Nicolas Dozol",
+				"profile_path": "/zxPM4LrMAsR0vg1q1CeDAYOxDXs.jpg",
+				"gender": 2
+			},
+			{
+				"id": 236616,
+				"order": 8,
+				"name": "Jean-Jacques Le Vessier",
+				"profile_path": "/hHXfbt6ppwrjbnJxTQPzHft4yim.jpg",
+				"character": "Jean Cocteau"
+			},
+			{
+				"id": 2250217,
+				"order": 9,
+				"name": "Bruno Dreyfürst",
+				"profile_path": "/us0KvRD7ivvxw3FPfi6347CqxtJ.jpg",
+				"character": "Georges de Beauregard",
+				"gender": 2
+			},
+			{
+				"id": 4782604,
+				"order": 10,
+				"name": "Adrien Rouyard",
+				"profile_path": "/2mrslXo8S0e0j7ls4Rd1lxyVXIz.jpg",
+				"character": "François Truffaut"
+			},
+			{
+				"id": 4620691,
+				"order": 11,
+				"name": "Jodie Ruth-Forest",
+				"profile_path": "/xt8dMYEKfRtKhOjPlqTHApZ85wW.jpg",
+				"character": "Suzanne Schiffman",
+				"gender": 1
+			},
+			{
+				"id": 2408218,
+				"order": 12,
+				"name": "Matthieu Penchinat",
+				"profile_path": "/1if6jieuOvEzykrjkl2UHDXLSwX.jpg",
+				"character": "Raoul Coutard",
+				"gender": 2
+			},
+			{
+				"id": 1161094,
+				"order": 13,
+				"name": "Laurent Mothe",
+				"profile_path": "/tPpODP8mLy32wITVwJ5CSEs95YU.jpg",
+				"character": "Roberto Rossellini",
+				"gender": 2
+			},
+			{
+				"id": 3466332,
+				"order": 14,
+				"name": "Jonas Marmy",
+				"profile_path": "/vmNoexYIvm0xuj6HG63iPc1Iqei.jpg",
+				"character": "Jacques Rivette"
+			},
+			{
+				"id": 4195610,
+				"order": 15,
+				"name": "Benjamin Cléry",
+				"profile_path": "/brRUvgEd6EzbKM0qvHGFkMk0oLU.jpg",
+				"character": "Pierre Rissient",
+				"gender": 2
+			},
+			{
+				"id": 1810622,
+				"order": 16,
+				"name": "Côme Thieulin",
+				"profile_path": "/sxu6ODXn92GE9GUHAnk7ZfqoPwc.jpg",
+				"character": "Eric Rohmer",
+				"gender": 2
+			},
+			{
+				"id": 4782605,
+				"order": 17,
+				"name": "Roxane Rivière",
+				"character": "Agnès Varda"
+			},
+			{
+				"id": 3499722,
+				"order": 18,
+				"name": "Niko Ravel",
+				"profile_path": "/h18FiVKYhDNI7oYPHpE7zwXr6Wm.jpg",
+				"character": "Michel Fabre",
+				"gender": 2
+			},
+			{
+				"id": 2623513,
+				"order": 19,
+				"name": "Antoine Besson",
+				"profile_path": "/PC2mXPcj9EMeQnXUZnWhFSI0e1.jpg",
+				"character": "Claude Chabrol"
+			},
+			{
+				"id": 5227510,
+				"order": 20,
+				"name": "Blaise Pettebone",
+				"profile_path": "/ha08ZdwOGUJnbnpGAgaaB2JwLbt.jpg",
+				"character": "Marc Pierret"
+			},
+			{
+				"id": 3402505,
+				"order": 21,
+				"name": "Pauline Belle",
+				"profile_path": "/2GrhKC6AFJomtz806ZgsFeoiXDH.jpg",
+				"character": "Suzon Faye",
+				"gender": 1
+			},
+			{
+				"id": 3755824,
+				"order": 22,
+				"name": "Léa Luce Busato",
+				"profile_path": "/TeeCdnPoSWH4ZihjXh71v4tLTw.jpg",
+				"character": "Liliane David",
+				"gender": 1
+			},
+			{
+				"id": 2104528,
+				"order": 23,
+				"name": "Benoît Bouthors",
+				"profile_path": "/8ygYaKvT5I1yQB2QJomD4gqNp0l.jpg",
+				"character": "Claude Beausoleil",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 564,
+				"name": "Richard Linklater",
+				"profile_path": "/xSctxeZQzQbZoaxIvcDeHlDjbiN.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1147570,
+				"name": "David Chambille",
+				"profile_path": "/tE6xjAfQp6NU8G2UTkPfa18n6L8.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1164688,
+				"name": "Holly Gent",
+				"profile_path": "/ntGgyyMsagZHkjLvwCEWygrA99c.jpg",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 222216,
+				"name": "Laetitia Masson",
+				"profile_path": "/ceo0G1OsVNnCbuOqFbQWuS9eCAR.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 1001361,
+				"name": "Vincent Palmo Jr.",
+				"profile_path": "/6VJ3ZJwnj9t8XyZGwhYtIvXoHqj.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4897,
+				"name": "Michèle Pétin",
+				"profile_path": "/yXW7L8I8gJ8GbOi5axy2xDlhHzj.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 1164688,
+				"name": "Holly Gent",
+				"profile_path": "/ntGgyyMsagZHkjLvwCEWygrA99c.jpg",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1001361,
+				"name": "Vincent Palmo Jr.",
+				"profile_path": "/6VJ3ZJwnj9t8XyZGwhYtIvXoHqj.jpg",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 113612,
+				"name": "Emmanuel Montamat",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4896,
+				"name": "Laurent Pétin",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4897,
+				"name": "Michèle Pétin",
+				"profile_path": "/yXW7L8I8gJ8GbOi5axy2xDlhHzj.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1811641,
+				"name": "Franck-Pascal Alquinet",
+				"job": "Key Hair Stylist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 3972739,
+				"name": "Thibault Debleds",
+				"job": "Additional Hairstylist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2255061,
+				"name": "Turid Follvik",
+				"job": "Key Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 4186257,
+				"name": "Eloïse Ganem",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1969429,
+				"name": "Karina Gruais",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 2107809,
+				"name": "Mathilde Humeau",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 2937588,
+				"name": "Dominique Magnier",
+				"job": "Makeup Supervisor",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1984679,
+				"name": "Margarida Miranda",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 3537472,
+				"name": "Jean Bolzinger",
+				"job": "Unit Manager",
+				"department": "Production"
+			},
+			{
+				"id": 4260167,
+				"name": "Paul Quintane",
+				"job": "Assistant Unit Manager",
+				"department": "Production"
+			},
+			{
+				"id": 3972783,
+				"name": "Svetlane Vaesken",
+				"job": "Administrative Assistant",
+				"department": "Crew"
+			},
+			{
+				"id": 2396199,
+				"name": "Robin Welch",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 5311399,
+				"name": "Sarah Andriamanankaja",
+				"job": "Assistant Director Trainee",
+				"department": "Directing"
+			},
+			{
+				"id": 3944316,
+				"name": "Justine Arrestier",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5311402,
+				"name": "Stéphane Canet",
+				"job": "Third Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 42992,
+				"name": "Hubert Engammare",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 4453313,
+				"name": "Julie Laloui",
+				"profile_path": "/2p6dPX65AtIL59qBJWvrHcvqIgY.jpg",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 3498825,
+				"name": "Stéphane Manaranche",
+				"job": "Second Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1374455,
+				"name": "François Borgeaud",
+				"job": "Property Master",
+				"department": "Art"
+			},
+			{
+				"id": 5298139,
+				"name": "Cindy Gaschereau",
+				"job": "Graphic Designer",
+				"department": "Art"
+			},
+			{
+				"id": 3551028,
+				"name": "Ophélie Stern",
+				"job": "Assistant Property Master",
+				"department": "Art"
+			},
+			{
+				"id": 2025730,
+				"name": "Florian Cornet",
+				"job": "ADR Supervisor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1891002,
+				"name": "Sergio Henríquez",
+				"job": "Boom Operator",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3484301,
+				"name": "Helene Lelardoux",
+				"job": "Dialogue Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 2218993,
+				"name": "Julien Martin",
+				"job": "ADR Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 7704,
+				"name": "Jean Minondo",
+				"profile_path": "/6yu2CWF9e7rvXYnwQo2W9zOowex.jpg",
+				"job": "Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1963236,
+				"name": "Serge Rouquairol",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1965137,
+				"name": "Christophe Vingtrinier",
+				"profile_path": "/8DqM9xA7IxZIdEGVIb6z9ldUAsT.jpg",
+				"job": "Recording Supervision",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1806537,
+				"name": "Benjamin Blatière",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 3867960,
+				"name": "Bryan Gossuin",
+				"job": "Digital Compositor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 4727205,
+				"name": "Téo L'Huillier",
+				"job": "Visual Effects Designer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1371284,
+				"name": "Christophe Laya",
+				"job": "Visual Effects Designer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1424686,
+				"name": "Joel Pinto",
+				"job": "Visual Effects Designer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 5227009,
+				"name": "Thomas Scourneau",
+				"job": "Digital Compositor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 931303,
+				"name": "Dominique Fouassier",
+				"profile_path": "/z8fWNxsRZ0dS7Rkd5Aga5iHxH3q.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3065983,
+				"name": "Mathilde Bory",
+				"job": "Electrician",
+				"department": "Lighting"
+			},
+			{
+				"id": 3220518,
+				"name": "François Comparot",
+				"job": "Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 3665019,
+				"name": "Josselin Delas",
+				"job": "Electrician",
+				"department": "Lighting"
+			},
+			{
+				"id": 1339030,
+				"name": "Hugo Devèze",
+				"job": "Electrician",
+				"department": "Lighting",
+				"gender": 2
+			},
+			{
+				"id": 1959147,
+				"name": "Jean-Philippe Labille",
+				"job": "Electrician",
+				"department": "Lighting"
+			},
+			{
+				"id": 2466437,
+				"name": "Perrine Lauras",
+				"job": "Electrician",
+				"department": "Lighting"
+			},
+			{
+				"id": 1793902,
+				"name": "Sophie Lelou",
+				"job": "Gaffer",
+				"department": "Lighting",
+				"gender": 1
+			},
+			{
+				"id": 4109518,
+				"name": "Pierre Colse",
+				"job": "Extras Casting",
+				"department": "Production"
+			},
+			{
+				"id": 4755231,
+				"name": "Anne Kazemzadegan",
+				"job": "Extras Casting Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 2525764,
+				"name": "Elsa Capus",
+				"job": "Set Costumer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4934257,
+				"name": "Louis Fichelle",
+				"job": "Costume Set Supervisor",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3053969,
+				"name": "Nicolas Economides",
+				"job": "Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 3537472,
+				"name": "Jean Bolzinger",
+				"job": "Location Manager",
+				"department": "Production"
+			},
+			{
+				"id": 1823870,
+				"name": "Carole Reinhard",
+				"job": "Location Scout",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 4439149,
+				"name": "Camille Arpajou",
+				"job": "Script Supervisor",
+				"department": "Directing"
+			},
+			{
+				"id": 5311418,
+				"name": "Robbert de Klerk",
+				"job": "Thanks",
+				"department": "Crew"
+			},
+			{
+				"id": 3171423,
+				"name": "Emilia Napame",
+				"job": "Compositing Lead",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 26099,
+				"name": "Pascaline Chavanne",
+				"profile_path": "/3LklRNkZlrcYB0RGg5bdwjEMMtX.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 2255061,
+				"name": "Turid Follvik",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 49873,
+				"name": "Catherine Schwartz",
+				"profile_path": "/jprHQMHqPGTYxeBiDXoNz89TGu3.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 3727,
+				"name": "John Sloss",
+				"profile_path": "/hkawHBjaKfuMER18Qs13mySGvXq.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			}
+		]
+	}
+}

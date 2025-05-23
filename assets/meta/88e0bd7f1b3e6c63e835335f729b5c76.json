@@ -1,0 +1,843 @@
+{
+	"id": 552524,
+	"title": "Lilo \u0026 Stitch",
+	"fcg_title": "Lilo \u0026 Stitch",
+	"original_title": "Lilo \u0026 Stitch",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 10751,
+			"name": "Family"
+		},
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 878,
+			"name": "Science Fiction"
+		}
+	],
+	"overview": "The wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family.",
+	"backdrop_path": "/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4.jpg",
+	"poster_path": "/tUae3mefrDVTgm5mRzqWnZK6fOP.jpg",
+	"release_date": "2025-05-17",
+	"credits": {
+		"cast": [
+			{
+				"id": 3988423,
+				"order": 0,
+				"name": "Maia Kealoha",
+				"profile_path": "/jqsKbBF28V2Oq5tKPR5USkNufwC.jpg",
+				"character": "Lilo",
+				"gender": 1
+			},
+			{
+				"id": 3025125,
+				"order": 1,
+				"name": "Sydney Agudong",
+				"profile_path": "/3K5hJ3meeClHWsPKetqd9qgyveJ.jpg",
+				"character": "Nani",
+				"gender": 1
+			},
+			{
+				"id": 66193,
+				"order": 2,
+				"name": "Chris Sanders",
+				"profile_path": "/6CtrIOCxggJ5eIAWeFQqd4Hs9FP.jpg",
+				"character": "Stitch (voice)",
+				"gender": 2
+			},
+			{
+				"id": 58225,
+				"order": 3,
+				"name": "Zach Galifianakis",
+				"profile_path": "/qsDfoUlRnXHUiqZeBPWHzmgmKGX.jpg",
+				"character": "Jumba",
+				"gender": 2
+			},
+			{
+				"id": 141034,
+				"order": 4,
+				"name": "Billy Magnussen",
+				"profile_path": "/ugyx7Wn2uAWsNlR5eX4yWFsGV2Y.jpg",
+				"character": "Pleakley",
+				"gender": 2
+			},
+			{
+				"id": 24047,
+				"order": 5,
+				"name": "Courtney B. Vance",
+				"profile_path": "/6ci3wf6oecjz875QRwryOsapW0Y.jpg",
+				"character": "Cobra Bubbles",
+				"gender": 2
+			},
+			{
+				"id": 59401,
+				"order": 6,
+				"name": "Amy Hill",
+				"profile_path": "/hM3S5Ypoiq2mNHlEuDVVC1AFwZJ.jpg",
+				"character": "Tūtū",
+				"gender": 1
+			},
+			{
+				"id": 13445,
+				"order": 7,
+				"name": "Tia Carrere",
+				"profile_path": "/rnHioNQkSmBAMgEBseu9bu6vw9l.jpg",
+				"character": "Mrs. Kekoa",
+				"gender": 1
+			},
+			{
+				"id": 4022587,
+				"order": 8,
+				"name": "Kaipo Dudoit",
+				"profile_path": "/5U20b5I3gTKAK5nN3VeWxlXDu6W.jpg",
+				"character": "David",
+				"gender": 2
+			},
+			{
+				"id": 1278487,
+				"order": 9,
+				"name": "Hannah Waddingham",
+				"profile_path": "/eHAICyhvjiRZCgzKyJCk9hWnnjr.jpg",
+				"character": "Grand Councilwoman (voice)",
+				"gender": 1
+			},
+			{
+				"id": 58319,
+				"order": 10,
+				"name": "Jason Scott Lee",
+				"profile_path": "/7jObZCM3diuPV0WlKkzOd4uE2CJ.jpg",
+				"character": "Lū'au Manager",
+				"gender": 2
+			},
+			{
+				"id": 1997286,
+				"order": 11,
+				"name": "Celia Kenney",
+				"profile_path": "/4e8bi7QBgUAJbQzO4SoX7DtHIRS.jpg",
+				"character": "AJ",
+				"gender": 1
+			},
+			{
+				"id": 2738916,
+				"order": 12,
+				"name": "Brutus LaBenz",
+				"profile_path": "/hmfmb3LBgkAVagBmBWOzS8JYVTt.jpg",
+				"character": "Kumu Hula"
+			},
+			{
+				"id": 1670808,
+				"order": 13,
+				"name": "Skyler Bible",
+				"profile_path": "/lJmkLcOhM12H2cvZCwravA5rIt7.jpg",
+				"character": "Agent Foster",
+				"gender": 2
+			},
+			{
+				"id": 3516911,
+				"order": 14,
+				"name": "Judy Nguyen",
+				"profile_path": "/eT5a2EDIBx8wuFAWLTbctIL5Sof.jpg",
+				"character": "Agent Huynh"
+			},
+			{
+				"id": 2655218,
+				"order": 15,
+				"name": "Christian Yeung",
+				"character": "Agent Zhao",
+				"gender": 2
+			},
+			{
+				"id": 2139797,
+				"order": 16,
+				"name": "Courtney Coleman",
+				"character": "Concierge"
+			},
+			{
+				"id": 1718812,
+				"order": 17,
+				"name": "Christina Souza",
+				"character": "Doctor Pereira",
+				"gender": 1
+			},
+			{
+				"id": 5449279,
+				"order": 18,
+				"name": "Emery Ho‘okano-Briel",
+				"character": "Mertle"
+			},
+			{
+				"id": 208956,
+				"order": 19,
+				"name": "Justin Martin",
+				"profile_path": "/2Al03iCqhjIogfP7j1VYUvoLvyI.jpg",
+				"character": "Mertle's Dad",
+				"gender": 2
+			},
+			{
+				"id": 1764418,
+				"order": 20,
+				"name": "Isabelle Du",
+				"character": "Mertle's Mom",
+				"gender": 1
+			},
+			{
+				"id": 5449282,
+				"order": 21,
+				"name": "Elle Hipa",
+				"character": "Mertle's Friend #1"
+			},
+			{
+				"id": 5449283,
+				"order": 22,
+				"name": "Arianna Jordan Ignacio Acidera",
+				"character": "Mertle's Friend #2"
+			},
+			{
+				"id": 5449284,
+				"order": 23,
+				"name": "Aubrey Rose Madarang",
+				"character": "Mertle's Friend #3"
+			},
+			{
+				"id": 2075101,
+				"order": 24,
+				"name": "Stephanie Lum",
+				"character": "Local News Reporter"
+			},
+			{
+				"id": 1609238,
+				"order": 25,
+				"name": "Don Nahaku",
+				"character": "Mr. Agas",
+				"gender": 2
+			},
+			{
+				"id": 2848984,
+				"order": 26,
+				"name": "Tira Akina",
+				"profile_path": "/aio4XDQp8coWqZmSAIShVhSgiQ3.jpg",
+				"character": "Lū'au Employee",
+				"gender": 1
+			},
+			{
+				"id": 3960878,
+				"order": 27,
+				"name": "Suzanne Green",
+				"character": "Older Tourist"
+			},
+			{
+				"id": 5449287,
+				"order": 28,
+				"name": "Diana Curammeng Seppelfrick",
+				"character": "Veteran Cleaning Lady"
+			},
+			{
+				"id": 4345251,
+				"order": 29,
+				"name": "Esera Tuaolo",
+				"character": "Janitor"
+			},
+			{
+				"id": 4775908,
+				"order": 30,
+				"name": "Hualālai Chung",
+				"profile_path": "/x2g5fdHqETY9dZgL4aB0QDP0boR.jpg",
+				"character": "Animal Control Worker #1",
+				"gender": 2
+			},
+			{
+				"id": 5136046,
+				"order": 31,
+				"name": "Mason Manuma",
+				"character": "Animal Control Worker #2"
+			},
+			{
+				"id": 2568565,
+				"order": 32,
+				"name": "Alex Denney",
+				"profile_path": "/3mi2wXzrZCHfYk7vSdmjWf3Jjqk.jpg",
+				"character": "Best Man",
+				"gender": 2
+			},
+			{
+				"id": 2139812,
+				"order": 33,
+				"name": "David Hekili Kenui Bell",
+				"character": "Big Hawaiian Dude",
+				"gender": 2
+			},
+			{
+				"id": 1336796,
+				"order": 34,
+				"name": "Mike Mitchell",
+				"profile_path": "/fwn7cNiVmfGAOvbH2auqgSFVixn.jpg",
+				"character": "Hammerhead Guard",
+				"gender": 2
+			},
+			{
+				"id": 1561797,
+				"order": 35,
+				"name": "Ashley Lambert",
+				"profile_path": "/ucsdNz1pdVWwRFwf4dtjfaXE8nR.jpg",
+				"character": "Ship Voice (voice)",
+				"gender": 1
+			},
+			{
+				"id": 5449938,
+				"order": 36,
+				"name": "Lyanna Miyashiro",
+				"character": "Hula Dancer"
+			},
+			{
+				"id": 5449941,
+				"order": 37,
+				"name": "Raeyah Ibana-Tago",
+				"character": "Hula Dancer"
+			},
+			{
+				"id": 5449943,
+				"order": 38,
+				"name": "Drew Naone",
+				"character": "Hula Dancer"
+			},
+			{
+				"id": 5449945,
+				"order": 39,
+				"name": "Jessica Makua",
+				"character": "Hula Dancer"
+			},
+			{
+				"id": 5449946,
+				"order": 40,
+				"name": "Tiani Scott",
+				"character": "Hula Dancer"
+			},
+			{
+				"id": 5449950,
+				"order": 41,
+				"name": "Moanike‘ala Scott",
+				"character": "Hula Dancer"
+			},
+			{
+				"id": 5449952,
+				"order": 42,
+				"name": "Chez Napualani Panui",
+				"character": "Hula Dancer"
+			},
+			{
+				"id": 5449954,
+				"order": 43,
+				"name": "Sapati Laloulu",
+				"character": "Fire Knife Dancer"
+			},
+			{
+				"id": 5449956,
+				"order": 44,
+				"name": "Achiles Tafiti",
+				"character": "Fire Knife Dancer"
+			},
+			{
+				"id": 1382071,
+				"order": 45,
+				"name": "Elizabeth Peterson",
+				"profile_path": "/lmxq320qLjyVaALnBqSrd9mIjXd.jpg",
+				"character": "Tahitian Dancer",
+				"gender": 1
+			},
+			{
+				"id": 5452263,
+				"order": 46,
+				"name": "Celeste Mosqueda",
+				"character": "Tahitian Dancer"
+			},
+			{
+				"id": 2832866,
+				"order": 47,
+				"name": "Sacha Lee",
+				"character": "Tahitian Dancer"
+			},
+			{
+				"id": 5452264,
+				"order": 48,
+				"name": "Jasmin Ella Mercado Domingo",
+				"character": "Tahitian Dancer"
+			},
+			{
+				"id": 5452266,
+				"order": 49,
+				"name": "Cassandra Kahoku'imo'imo Ainoa-Kanoho",
+				"character": "Tahitian Dancer"
+			},
+			{
+				"id": 5452267,
+				"order": 50,
+				"name": "Naomi Baldomero",
+				"character": "Tahitian Dancer"
+			},
+			{
+				"id": 5452269,
+				"order": 51,
+				"name": "Chansen Exzabe",
+				"character": "Lū'au Drummer"
+			},
+			{
+				"id": 5452270,
+				"order": 52,
+				"name": "Heinere Itchner",
+				"character": "Lū'au Drummer"
+			},
+			{
+				"id": 5452271,
+				"order": 53,
+				"name": "Jesus Kawaiaea-Benitez",
+				"character": "Lū'au Drummer"
+			},
+			{
+				"id": 5452273,
+				"order": 54,
+				"name": "Charles Temanaha",
+				"character": "Lū'au Drummer"
+			},
+			{
+				"id": 5452274,
+				"order": 55,
+				"name": "Tyrone Temanaha",
+				"character": "Lū'au Drummer"
+			},
+			{
+				"id": 5452275,
+				"order": 56,
+				"name": "Leigh Uta",
+				"character": "Lū'au Drummer"
+			},
+			{
+				"id": 5452276,
+				"order": 57,
+				"name": "Kanoa Kalā Kelaoha",
+				"character": "Hula Drummers"
+			},
+			{
+				"id": 5452277,
+				"order": 58,
+				"name": "Rudy Kapono Gaco",
+				"character": "Hula Drummers"
+			},
+			{
+				"id": 5424199,
+				"order": 59,
+				"name": "Dane Drewis",
+				"character": "Coffee Shop Owner"
+			},
+			{
+				"id": 1541239,
+				"order": 60,
+				"name": "Nolan Hong",
+				"profile_path": "/fUrOK5S2cC4wfJuNQ56OOXlSvW4.jpg",
+				"character": "Emcee"
+			},
+			{
+				"id": 2213348,
+				"order": 61,
+				"name": "Brandon Toma",
+				"character": "Cop"
+			},
+			{
+				"id": 188694,
+				"order": 62,
+				"name": "Mark Beltzman",
+				"profile_path": "/97oUiYEjKWdATDRDvJvL3Lug4qo.jpg",
+				"character": "Hot Tub Guy",
+				"gender": 2
+			},
+			{
+				"id": 5452279,
+				"order": 63,
+				"name": "Tumua Tuinei",
+				"character": "Riti"
+			},
+			{
+				"id": 5452281,
+				"order": 64,
+				"name": "Stephen Hadhazi",
+				"character": "Rude Guy"
+			},
+			{
+				"id": 5452282,
+				"order": 65,
+				"name": "Genesis Molina",
+				"character": "Pleakley Proxy"
+			},
+			{
+				"id": 5452283,
+				"order": 66,
+				"name": "Alexander David Johnson",
+				"character": "Pleakley Proxy #2"
+			}
+		],
+		"crew": [
+			{
+				"id": 1540069,
+				"name": "Dean Fleischer Camp",
+				"profile_path": "/oZTIL77jVfcz8iEQnYC892jvqY3.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1686000,
+				"name": "Ryan Halprin",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 959555,
+				"name": "Todd Cherniawsky",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1167490,
+				"name": "Anne Costa",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 2664737,
+				"name": "Angran Li",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1683361,
+				"name": "Julien Pougnier",
+				"job": "Supervising Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 3160998,
+				"name": "Katrin Chong",
+				"job": "Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 35514,
+				"name": "Wendy Chuck",
+				"profile_path": "/oe2F9wVKMqnFGQyEedJ9GjAO1cm.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 3624081,
+				"name": "Chris Kekaniokalani Bright",
+				"profile_path": "/d6fjYERnz6VPyxtp1cm0HMkLyoW.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 76845,
+				"name": "Nigel Bluck",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1102209,
+				"name": "Tom C. Peitzman",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 112690,
+				"name": "Dan Lin",
+				"profile_path": "/skXxQ2MZ2OYpP0aFyBoieFTT3iK.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1853076,
+				"name": "Jonathan Eirich",
+				"profile_path": "/aY7jRYOb2jMlctQkknh0vpSC79y.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1484209,
+				"name": "Craig Hammack",
+				"profile_path": "/yMyaQDw1sdsjqLVGUBdj8rjEUZ6.jpg",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 2762717,
+				"name": "Will Reichelt",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1470162,
+				"name": "Bruno Baron",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 5008770,
+				"name": "Matthew Shumway",
+				"job": "Animation Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 3131178,
+				"name": "Christopher Marshall",
+				"job": "Animation Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1729044,
+				"name": "Lauren Fong",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 66193,
+				"name": "Chris Sanders",
+				"profile_path": "/6CtrIOCxggJ5eIAWeFQqd4Hs9FP.jpg",
+				"job": "Original Film Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 69797,
+				"name": "Dean DeBlois",
+				"profile_path": "/cgdyNSkltPMtWDdKkFP0d4W361v.jpg",
+				"job": "Original Film Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1395438,
+				"name": "Val Drake",
+				"job": "Sculptor",
+				"department": "Art"
+			},
+			{
+				"id": 1423746,
+				"name": "Maria Sandoval",
+				"job": "Hair Department Head",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1787802,
+				"name": "Brian Avery Galligan",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 182213,
+				"name": "Marcus Young",
+				"profile_path": "/txBvkZc6W5uTDbFeiMJ9sOPyUof.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1155140,
+				"name": "Dan Romer",
+				"profile_path": "/cOoq9WBHzuZ3L3BmPvUBiB7c67x.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 15894,
+				"name": "Tom Myers",
+				"profile_path": "/igQ5idVJbKHFHaUPvIyR40qiZyF.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 15894,
+				"name": "Tom Myers",
+				"profile_path": "/igQ5idVJbKHFHaUPvIyR40qiZyF.jpg",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 15894,
+				"name": "Tom Myers",
+				"profile_path": "/igQ5idVJbKHFHaUPvIyR40qiZyF.jpg",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1412985,
+				"name": "Andre Fenley",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 138618,
+				"name": "Gary Rizzo",
+				"profile_path": "/m8vT9fYRLwM8WPpJiq8QIMBSueQ.jpg",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2032020,
+				"name": "Mike Van Waes",
+				"profile_path": "/cb4zKWuV4rbMD5cGd50kcJeIMt.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1001719,
+				"name": "Phillip J. Bartell",
+				"profile_path": "/bO3gIu9SnGqMp70xtSjsaCVQdjT.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1450292,
+				"name": "Leigh Shanta",
+				"job": "Unit Production Manager",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1027021,
+				"name": "Stephanie Tull",
+				"job": "Second Assistant Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 1745942,
+				"name": "Richard Oswald",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 6187,
+				"name": "Aldric La'Auli Porter",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2897082,
+				"name": "Kate Pulley",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5302580,
+				"name": "Shannon Thorp",
+				"job": "Set Production Assistant",
+				"department": "Crew"
+			},
+			{
+				"id": 1412481,
+				"name": "Colin Bach",
+				"job": "Assistant Property Master",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1450350,
+				"name": "Heiko von Drengenberg",
+				"job": "Storyboard Artist",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1763798,
+				"name": "Alex Bickel",
+				"job": "Colorist",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1400535,
+				"name": "Colin Anderson",
+				"job": "\"A\" Camera Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1463450,
+				"name": "Jason Billington",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1571982,
+				"name": "Rupert Davies",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1788085,
+				"name": "Louie Provost",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1492646,
+				"name": "Sande Alessi",
+				"job": "Extras Casting",
+				"department": "Production"
+			},
+			{
+				"id": 1445838,
+				"name": "Leff Lefferts",
+				"job": "Sound Effects Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5452290,
+				"name": "Julienne De Rose Souchon",
+				"job": "Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 6187,
+				"name": "Aldric La'Auli Porter",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 122609,
+				"name": "Thomas Schumacher",
+				"profile_path": "/xlQA0rqftYvFxIhU3J7NXm7FRoJ.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2025225,
+				"name": "Gem Ronn Cadiz",
+				"job": "VFX Artist",
+				"department": "Visual Effects"
+			}
+		]
+	}
+}

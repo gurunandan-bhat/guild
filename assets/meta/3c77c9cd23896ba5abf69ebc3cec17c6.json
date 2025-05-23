@@ -1,0 +1,102 @@
+{
+	"id": 1412646,
+	"title": "Kesari Veer",
+	"fcg_title": "Kesari Veer",
+	"original_title": "Kesari Veer",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 36,
+			"name": "History"
+		}
+	],
+	"backdrop_path": "/efLOHrBRRA8ICaRfIGygVcEi2Vm.jpg",
+	"poster_path": "/fRNg31Cz03qsx3EteqHhcQgLcTa.jpg",
+	"release_date": "2025-05-23",
+	"credits": {
+		"cast": [
+			{
+				"id": 1533117,
+				"order": 0,
+				"name": "Sooraj Pancholi",
+				"profile_path": "/aA5zeWuyLYbOtHC13LDljdZeX5P.jpg",
+				"character": "Veer Hamirji Gohil",
+				"gender": 2
+			},
+			{
+				"id": 85730,
+				"order": 1,
+				"name": "Suniel Shetty",
+				"profile_path": "/7N2gTXit5GMfgUhkZ3QsjTnoMH6.jpg",
+				"character": "Vegda",
+				"gender": 2
+			},
+			{
+				"id": 85668,
+				"order": 2,
+				"name": "Vivek Oberoi",
+				"profile_path": "/AoKv4o35xscaQDro4Ze5XjIjfDr.jpg",
+				"character": "Zafar Khan",
+				"gender": 2
+			},
+			{
+				"id": 3154351,
+				"order": 3,
+				"name": "Akanksha Sharma",
+				"profile_path": "/aqPeJiZLSTDQnNmQPvchS1FlBVA.jpg",
+				"character": "Rajal",
+				"gender": 1
+			},
+			{
+				"id": 110724,
+				"order": 4,
+				"name": "Aruna Irani",
+				"profile_path": "/opwljyDvJyxW6ZmC3Ao6lNCQi0r.jpg",
+				"character": "Charan Jagdamba",
+				"gender": 1
+			},
+			{
+				"id": 3628341,
+				"order": 5,
+				"name": "Hitu Kanodia",
+				"profile_path": "/eApOqGpaSrqRxxgrP3UVm3XOfwJ.jpg",
+				"character": "Dudhaji Gohil"
+			}
+		],
+		"crew": [
+			{
+				"id": 2051707,
+				"name": "Prince Dhiman",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 85612,
+				"name": "Monty Sharma",
+				"job": "Music Director",
+				"department": "Sound"
+			},
+			{
+				"id": 5349626,
+				"name": "Kanu Chauhan",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 5349627,
+				"name": "Shitiz Srivastava",
+				"job": "Screenplay",
+				"department": "Writing"
+			}
+		]
+	}
+}
