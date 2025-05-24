@@ -21,9 +21,8 @@
     {{ $castList := slice }}
     {{ with .credits.cast }}
         {{ $cast := . }}
-        {{ $castLen := len $cast }}
         {{ $cS := slice }}
-        {{ range $cast }}
+        {{ range first 10 $cast }}
             {{ $cS = append (.name) $cS }}
         {{ end }}
         {{ $castList = delimit $cS ", " }}
