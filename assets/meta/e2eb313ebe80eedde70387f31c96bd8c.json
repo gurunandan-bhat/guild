@@ -1,0 +1,645 @@
+{
+	"id": 1045931,
+	"title": "Crew",
+	"fcg_title": "Crew",
+	"original_title": "Crew",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Three ordinary air hostesses from Mumbai embark on a journey to pursue their dreams but find themselves caught up in unexpected misfortunes.",
+	"backdrop_path": "/4kX80Ea98cEy2Ahy0LSMYtFvJDG.jpg",
+	"poster_path": "/8mnCtQngfhYt0W0BmkrCePutmvy.jpg",
+	"release_date": "2024-03-29",
+	"credits": {
+		"cast": [
+			{
+				"id": 55062,
+				"order": 0,
+				"name": "Tabu",
+				"profile_path": "/cvt5nvCHr1ICf5u8A2mlzLQ8LsV.jpg",
+				"character": "Geeta Sethi",
+				"gender": 1
+			},
+			{
+				"id": 37233,
+				"order": 1,
+				"name": "Kareena Kapoor Khan",
+				"profile_path": "/pJZJJ93NwJq3kb3RWtaZBYVga1x.jpg",
+				"character": "Jasmine Kohli",
+				"gender": 1
+			},
+			{
+				"id": 1285028,
+				"order": 2,
+				"name": "Kriti Sanon",
+				"profile_path": "/go8GUz7poytTvm9P9HNHQ3T84N1.jpg",
+				"character": "Divya Rana",
+				"gender": 1
+			},
+			{
+				"id": 928221,
+				"order": 3,
+				"name": "Diljit Dosanjh",
+				"profile_path": "/xB57LAMYa1q3CaS0TZjgf4d2OaS.jpg",
+				"character": "Jaiveer Singh",
+				"gender": 2
+			},
+			{
+				"id": 648087,
+				"order": 4,
+				"name": "Rajesh Sharma",
+				"profile_path": "/cBmZY1EICMD1q16Fx7GqpHkc6A1.jpg",
+				"character": "Manoj Mittal",
+				"gender": 2
+			},
+			{
+				"id": 2335733,
+				"order": 5,
+				"name": "Trupti Khamkar",
+				"profile_path": "/epbldV67JyiI83bR3dwYkQKMHbA.jpg",
+				"character": "SI Mala",
+				"gender": 1
+			},
+			{
+				"id": 1513214,
+				"order": 6,
+				"name": "Kapil Sharma",
+				"profile_path": "/bu0jBQkDJmXCuISoJwktwgamkRX.jpg",
+				"character": "Arun Sethi",
+				"gender": 2
+			},
+			{
+				"id": 1093644,
+				"order": 7,
+				"name": "Saswata Chatterjee",
+				"profile_path": "/cVJVLDy7BNzIbFMcJBPOWeN0Kb.jpg",
+				"character": "Vijay Walia",
+				"gender": 2
+			},
+			{
+				"id": 53377,
+				"order": 8,
+				"name": "Kulbhushan Kharbanda",
+				"profile_path": "/iboGvJPKZ98kU8YKgomn9Jpk0XN.jpg",
+				"character": "Nanu",
+				"gender": 2
+			},
+			{
+				"id": 2297891,
+				"order": 9,
+				"name": "Myra Singh",
+				"profile_path": "/6AaZccPrbay1ai6MfSfNStkG44g.jpg",
+				"character": "Young Jasmine"
+			},
+			{
+				"id": 1769812,
+				"order": 10,
+				"name": "Naisha Khanna",
+				"profile_path": "/mOpB0aMLdJRXbHUV87wcE361NUZ.jpg",
+				"character": "Young Divya",
+				"gender": 1
+			},
+			{
+				"id": 4450053,
+				"order": 11,
+				"name": "Garima Yajnik",
+				"character": "Ayesha"
+			},
+			{
+				"id": 1633431,
+				"order": 12,
+				"name": "Ivan Rodrigues",
+				"profile_path": "/lT09cBcZaplqpKHklKHVXPaZvfd.jpg",
+				"character": "Divya's Father",
+				"gender": 2
+			},
+			{
+				"id": 2389934,
+				"order": 13,
+				"name": "Suparna Marwah",
+				"profile_path": "/wvu7uXRLKsN1qnjP71xWmtbB8gy.jpg",
+				"character": "Divya's Mother",
+				"gender": 1
+			},
+			{
+				"id": 1427452,
+				"order": 14,
+				"name": "Ramakant Dayma",
+				"profile_path": "/2b8RYfCpkhywDZ6NmIV3aHiLvnM.jpg",
+				"character": "Rajvanshi",
+				"gender": 2
+			},
+			{
+				"id": 4610989,
+				"order": 15,
+				"name": "Maeha Sharma",
+				"character": "Sheetal"
+			},
+			{
+				"id": 4332663,
+				"order": 16,
+				"name": "Shivam Khanna",
+				"character": "Ankit",
+				"gender": 2
+			},
+			{
+				"id": 2773264,
+				"order": 17,
+				"name": "Rahil Gilani",
+				"character": "Puneet"
+			},
+			{
+				"id": 4615126,
+				"order": 18,
+				"name": "Vallabh Gada",
+				"character": "Landlord"
+			},
+			{
+				"id": 4623542,
+				"order": 19,
+				"name": "Juhi Arora",
+				"character": "Sapna",
+				"gender": 1
+			},
+			{
+				"id": 3994178,
+				"order": 20,
+				"name": "Mohit Gupta",
+				"character": "Chintu",
+				"gender": 2
+			},
+			{
+				"id": 4623545,
+				"order": 21,
+				"name": "Chaitali Kohli",
+				"character": "Guddu Di",
+				"gender": 1
+			},
+			{
+				"id": 3098206,
+				"order": 22,
+				"name": "Hetal Puniwala",
+				"character": "Captain Kiran Wadhera"
+			},
+			{
+				"id": 4623553,
+				"order": 23,
+				"name": "Neel Kamal Sharma",
+				"character": "News Reporter"
+			},
+			{
+				"id": 2340243,
+				"order": 24,
+				"name": "Charu Shankar",
+				"character": "Sudha Mittal",
+				"gender": 1
+			},
+			{
+				"id": 4611028,
+				"order": 25,
+				"name": "Pratik Yadav",
+				"character": "Waiter",
+				"gender": 2
+			},
+			{
+				"id": 2185188,
+				"order": 26,
+				"name": "Pooja Bhamrah",
+				"profile_path": "/oMbzKm8b2tcDfSPc0yDXPAEFDkO.jpg",
+				"character": "Komal",
+				"gender": 1
+			},
+			{
+				"id": 2238954,
+				"order": 27,
+				"name": "Vinayak Dubey",
+				"character": "Passenger in blue",
+				"gender": 2
+			},
+			{
+				"id": 4669733,
+				"order": 28,
+				"name": "Nayyar Jafferi",
+				"character": "Customs Commissioner"
+			},
+			{
+				"id": 5218938,
+				"order": 29,
+				"name": "Prince Gautam",
+				"character": "Ayesha's Groom"
+			},
+			{
+				"id": 5218940,
+				"order": 30,
+				"name": "Sumali Khaniwale",
+				"character": "Frisking Officer"
+			},
+			{
+				"id": 5218941,
+				"order": 31,
+				"name": "Krishna Verma",
+				"character": "Shaftab Karimi"
+			},
+			{
+				"id": 5218944,
+				"order": 32,
+				"name": "Bharat Khetalpar",
+				"character": "Jewellery Maker"
+			},
+			{
+				"id": 5218945,
+				"order": 33,
+				"name": "Anna Gavrichkova",
+				"character": "Mittal's Russian Wife"
+			},
+			{
+				"id": 5218946,
+				"order": 34,
+				"name": "Dilip Kumar Vasu",
+				"character": "Job Placement Agent"
+			},
+			{
+				"id": 4246671,
+				"order": 35,
+				"name": "Kulpreet Yadav",
+				"character": "TV Interviewer"
+			},
+			{
+				"id": 5218948,
+				"order": 36,
+				"name": "Prince Sardana",
+				"character": "News Anchor"
+			},
+			{
+				"id": 5218949,
+				"order": 37,
+				"name": "Prashant Sethi",
+				"character": "Cheater Husband in Suite"
+			},
+			{
+				"id": 3098385,
+				"order": 38,
+				"name": "Noyrika Bhatheja",
+				"character": "Enraged Wife in Suite"
+			},
+			{
+				"id": 5218950,
+				"order": 39,
+				"name": "Ankur Panchali",
+				"character": "Customs Officer"
+			},
+			{
+				"id": 5218952,
+				"order": 40,
+				"name": "Syscila Sampath",
+				"character": "Ayesha's Bridesmaid"
+			},
+			{
+				"id": 5218953,
+				"order": 41,
+				"name": "Kumud Shaw",
+				"character": "Cosmetics CEO in Flight"
+			},
+			{
+				"id": 2306379,
+				"order": 42,
+				"name": "Manpreet Singh",
+				"character": "Customs Officer #1"
+			},
+			{
+				"id": 5218955,
+				"order": 43,
+				"name": "Rishabh Tah",
+				"character": "Customs Officer #2"
+			},
+			{
+				"id": 5218956,
+				"order": 44,
+				"name": "Garvil Bhatia",
+				"character": "Housekeeping Team Leader"
+			},
+			{
+				"id": 5218958,
+				"order": 45,
+				"name": "Birina Chakravarty",
+				"character": "Jasmine's Principal"
+			},
+			{
+				"id": 5218959,
+				"order": 46,
+				"name": "Kinnary Pantki Panchal",
+				"character": "Shift Partner"
+			},
+			{
+				"id": 5218960,
+				"order": 47,
+				"name": "Amita Pareva",
+				"character": "Shift Partner"
+			},
+			{
+				"id": 5218961,
+				"order": 48,
+				"name": "Vikas Ganju",
+				"character": "Puneet's Boss"
+			},
+			{
+				"id": 2967457,
+				"order": 49,
+				"name": "Kavita Waadhawan",
+				"character": "Salon Investor"
+			},
+			{
+				"id": 4841388,
+				"order": 50,
+				"name": "Vivek Doshi",
+				"character": "Cab Driver",
+				"gender": 2
+			},
+			{
+				"id": 5218962,
+				"order": 51,
+				"name": "Tanya Powell",
+				"character": "Zumba Instructor"
+			},
+			{
+				"id": 5218963,
+				"order": 52,
+				"name": "Ankur Shekhar Deshmukh",
+				"character": "Accountant"
+			},
+			{
+				"id": 5218964,
+				"order": 53,
+				"name": "Rajesh Ganesh Sharma",
+				"character": "Shark Tank Judge"
+			}
+		],
+		"crew": [
+			{
+				"id": 1323216,
+				"name": "Rhea Kapoor",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 545517,
+				"name": "Mehul Suri",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 1739727,
+				"name": "Rajesh Krishnan",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2119450,
+				"name": "Nidhi Mehra",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 87347,
+				"name": "Shobha Kapoor",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 85893,
+				"name": "Ekta Kapoor",
+				"profile_path": "/vsga2Sbj4OWTBKCdgT2reQG75cv.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 72118,
+				"name": "Anil Kapoor",
+				"profile_path": "/6RcrXGFzO50Tazqc8tbDlzYKvTd.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1895225,
+				"name": "Panchami Ghavri",
+				"job": "Casting",
+				"department": "Production"
+			},
+			{
+				"id": 232526,
+				"name": "Manan Sagar",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 928221,
+				"name": "Diljit Dosanjh",
+				"profile_path": "/xB57LAMYa1q3CaS0TZjgf4d2OaS.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1462556,
+				"name": "Anuj Dhawan",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 3512110,
+				"name": "Udayan Bhat",
+				"job": "Supervising Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4554523,
+				"name": "Bharg",
+				"job": "Music",
+				"department": "Sound"
+			},
+			{
+				"id": 2315636,
+				"name": "Badshah",
+				"profile_path": "/kPYZ56EGciSLe9nMVn5UaAZqGHD.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4554523,
+				"name": "Bharg",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 4554525,
+				"name": "Akshay",
+				"job": "Music",
+				"department": "Sound"
+			},
+			{
+				"id": 3271633,
+				"name": "IP Singh",
+				"job": "Music",
+				"department": "Sound"
+			},
+			{
+				"id": 3271633,
+				"name": "IP Singh",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 2315636,
+				"name": "Badshah",
+				"profile_path": "/kPYZ56EGciSLe9nMVn5UaAZqGHD.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2156687,
+				"name": "Vishal Mishra",
+				"profile_path": "/rgTiKOQ016nV05FxiWpvjqurWAC.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2483313,
+				"name": "Raj Shekhar",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 1834545,
+				"name": "Paarth Harish Joshi",
+				"job": "Creative Producer",
+				"department": "Writing"
+			},
+			{
+				"id": 1042245,
+				"name": "Lawrence D'Souza",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3902825,
+				"name": "Manisha Melwani",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 8311,
+				"name": "Farah Khan",
+				"profile_path": "/yfmm3VIGRZ8RDRQ0pjn3Vizw6WC.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 4256503,
+				"name": "Anjalee Aroura",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2119270,
+				"name": "Shazia Samji",
+				"job": "Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 3431790,
+				"name": "Chandini Whabi",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1674920,
+				"name": "Amar Shetty",
+				"job": "Stunts",
+				"department": "Crew"
+			},
+			{
+				"id": 2149909,
+				"name": "Ashirwad Hadkar",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 4558768,
+				"name": "Digvejaay Purohit",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3468536,
+				"name": "Meagan Concessio",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1775463,
+				"name": "John Stewart Eduri",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 1680140,
+				"name": "Lochan Kanvinde",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 3790185,
+				"name": "Gautmik",
+				"job": "Post Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1691418,
+				"name": "Karishma Gulati",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4558773,
+				"name": "Abhilasha Baweja",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1657710,
+				"name": "Nitesh Sharma",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1323121,
+				"name": "Firoz Khan",
+				"job": "Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 2119269,
+				"name": "Piyush Bhagat",
+				"job": "Choreographer",
+				"department": "Crew"
+			}
+		]
+	}
+}

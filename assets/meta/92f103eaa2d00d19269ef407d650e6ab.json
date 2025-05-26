@@ -1,0 +1,592 @@
+{
+	"id": 1201015,
+	"title": "Madgaon Express",
+	"fcg_title": "Madgaon Express",
+	"original_title": "मडगांव एक्सप्रेस",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Three childhood friends embark on a trip to Goa that goes completely off-track when they wake up in their hotel room to find a cache of cocaine belonging to a don.",
+	"backdrop_path": "/grHW40Lv8gzahOKHNr4oCuKHwaR.jpg",
+	"poster_path": "/A7ADiZb78s9EFosa4GgEq1fyK8G.jpg",
+	"release_date": "2024-03-22",
+	"credits": {
+		"cast": [
+			{
+				"id": 1158934,
+				"order": 0,
+				"name": "Divyendu Sharma",
+				"profile_path": "/rGlCCQtOBiNJULfB5w0FXgPPKw0.jpg",
+				"character": "Dhanush \"Dodo\" Sawant",
+				"gender": 2
+			},
+			{
+				"id": 1779934,
+				"order": 1,
+				"name": "Pratik Gandhi",
+				"profile_path": "/2sTvUaMSyfJbfexFZtZvac7BK7w.jpg",
+				"character": "Pratik \"Pinku\" Garodia",
+				"gender": 2
+			},
+			{
+				"id": 1059474,
+				"order": 2,
+				"name": "Avinash Tiwary",
+				"profile_path": "/wjHKqn6A1S5aGsGrBVVpqDrEkrV.jpg",
+				"character": "Ayush Gupta",
+				"gender": 2
+			},
+			{
+				"id": 142335,
+				"order": 3,
+				"name": "Upendra Limaye",
+				"profile_path": "/vFELR5TiBfc6LkLvI5kC5lpEnHv.jpg",
+				"character": "Mendoza",
+				"gender": 2
+			},
+			{
+				"id": 1550351,
+				"order": 4,
+				"name": "Chhaya Kadam",
+				"profile_path": "/umOPkpPA4JUWLkVziYU5GF6gELD.jpg",
+				"character": "Kanchan Kombdi",
+				"gender": 1
+			},
+			{
+				"id": 1488785,
+				"order": 5,
+				"name": "Nora Fatehi",
+				"profile_path": "/jKvLkySOJFUUnUdE7Zo4oPb9ZzM.jpg",
+				"character": "Tasha",
+				"gender": 1
+			},
+			{
+				"id": 1953683,
+				"order": 6,
+				"name": "Aryan Prajapati",
+				"character": "Young Dodo",
+				"gender": 2
+			},
+			{
+				"id": 4614700,
+				"order": 7,
+				"name": "Yash Bhojwani",
+				"character": "Young Ayush",
+				"gender": 2
+			},
+			{
+				"id": 4614701,
+				"order": 8,
+				"name": "Jewel Narigara",
+				"character": "Young Pinku",
+				"gender": 2
+			},
+			{
+				"id": 4293428,
+				"order": 9,
+				"name": "Sameer Patil",
+				"character": "Dodo's Father"
+			},
+			{
+				"id": 2804520,
+				"order": 10,
+				"name": "Sonali Lele Desai",
+				"character": "Ayush's Mother",
+				"gender": 1
+			},
+			{
+				"id": 4614702,
+				"order": 11,
+				"name": "Shiv Narayan",
+				"character": "Ayush's Father",
+				"gender": 2
+			},
+			{
+				"id": 2554376,
+				"order": 12,
+				"name": "Alpana Buch",
+				"character": "Pinku's Mother",
+				"gender": 1
+			},
+			{
+				"id": 4614704,
+				"order": 13,
+				"name": "Aahaan Desai",
+				"character": "Goa Cabbie",
+				"gender": 2
+			},
+			{
+				"id": 85454,
+				"order": 14,
+				"name": "Kunal Khemu",
+				"profile_path": "/b14MYOFVeebBGyD2Zr86DIMNH0h.jpg",
+				"character": "Stoned Guy in Goa",
+				"gender": 2
+			},
+			{
+				"id": 4614705,
+				"order": 15,
+				"name": "Bandana Dogra",
+				"character": "Desi Hooker",
+				"gender": 1
+			},
+			{
+				"id": 4614706,
+				"order": 16,
+				"name": "Loanna Aleksandrova",
+				"character": "Foreign Hooker",
+				"gender": 1
+			},
+			{
+				"id": 3840951,
+				"order": 17,
+				"name": "Vipul Deshpande",
+				"profile_path": "/gdtwwDqq2IQpvKSVfeJDBwjTqEc.jpg",
+				"character": "Inspector Girish",
+				"gender": 2
+			},
+			{
+				"id": 4614707,
+				"order": 18,
+				"name": "Aradhana Sharma",
+				"profile_path": "/5uwVNSYTyW5D7k6xyQ06zjWEr44.jpg",
+				"character": "Mariam Pinkus Girlfriend",
+				"gender": 1
+			},
+			{
+				"id": 1170143,
+				"order": 19,
+				"name": "Remo D'Souza",
+				"profile_path": "/iCCUtRN2ucH8hIRwTr1DKurln7c.jpg",
+				"character": "Dr. Danny",
+				"gender": 2
+			},
+			{
+				"id": 4265311,
+				"order": 20,
+				"name": "Pallavi Wagh",
+				"character": "Pallavi Kombdi"
+			},
+			{
+				"id": 4614708,
+				"order": 21,
+				"name": "Sunita Shirloskar",
+				"character": "Sunita Kombdi Guard"
+			},
+			{
+				"id": 1549607,
+				"order": 22,
+				"name": "Umesh Jagtap",
+				"profile_path": "/6Ae8O3rIo79sgoJXQec2kRC01UX.jpg",
+				"character": "Constable Santosh Sathe",
+				"gender": 2
+			},
+			{
+				"id": 2724536,
+				"order": 23,
+				"name": "Monnica Rae Laher",
+				"character": "Mendoza's foreigner wife",
+				"gender": 1
+			},
+			{
+				"id": 4614711,
+				"order": 24,
+				"name": "Madhuri Shinde",
+				"character": "Madhuri Kombdi"
+			},
+			{
+				"id": 4614712,
+				"order": 25,
+				"name": "Dipti Pranav",
+				"character": "Dipti Kombdi"
+			},
+			{
+				"id": 4614713,
+				"order": 26,
+				"name": "Sarbjit Kaur",
+				"profile_path": "/AqfB1LMHMsXh04c65zk6CPJf796.jpg",
+				"character": "Hulk Kombdi",
+				"gender": 1
+			},
+			{
+				"id": 4691852,
+				"order": 27,
+				"name": "Marcel D'souza",
+				"character": "Mendoza Goon 2",
+				"gender": 2
+			},
+			{
+				"id": 4691853,
+				"order": 28,
+				"name": "Anelisa Decosta",
+				"character": "Girl #1 At 1998 Farewell",
+				"gender": 1
+			},
+			{
+				"id": 4691855,
+				"order": 29,
+				"name": "Shrikant Babubhai Devani",
+				"character": "Goon",
+				"gender": 2
+			},
+			{
+				"id": 4691857,
+				"order": 30,
+				"name": "Digambar",
+				"character": "Mendoza Goon 6"
+			},
+			{
+				"id": 4691866,
+				"order": 31,
+				"name": "Gyanendra Dubey",
+				"character": "Boy #4 At 1998 Farewell",
+				"gender": 2
+			},
+			{
+				"id": 4691872,
+				"order": 32,
+				"name": "Manju Gangwane",
+				"character": "Manju Kombdi",
+				"gender": 2
+			},
+			{
+				"id": 4691876,
+				"order": 33,
+				"name": "Ditvi Gaonkar",
+				"character": "Mother Of Little Girl",
+				"gender": 1
+			},
+			{
+				"id": 4691882,
+				"order": 34,
+				"name": "Anupam Hinge",
+				"character": "Goon",
+				"gender": 2
+			},
+			{
+				"id": 4691887,
+				"order": 35,
+				"name": "Rohan Jadhav",
+				"character": "Boy #3 At 1998 Farewell",
+				"gender": 2
+			},
+			{
+				"id": 992726,
+				"order": 36,
+				"name": "Vinod Jaywant",
+				"character": "Mendoza Goon 1",
+				"gender": 2
+			},
+			{
+				"id": 86018,
+				"order": 37,
+				"name": "Manoj Joshi",
+				"profile_path": "/u7GllU8dO2bkAvRC0i8yszogYqY.jpg",
+				"character": "Willy Bartender",
+				"gender": 2
+			},
+			{
+				"id": 4691901,
+				"order": 38,
+				"name": "Raviraj Kande",
+				"character": "Ganpat",
+				"gender": 2
+			},
+			{
+				"id": 4691909,
+				"order": 39,
+				"name": "Yash Kapre",
+				"character": "Jet Ski Guy",
+				"gender": 2
+			},
+			{
+				"id": 4691927,
+				"order": 40,
+				"name": "Azroo Khan",
+				"character": "Mendoza Goon 7",
+				"gender": 1
+			},
+			{
+				"id": 4691931,
+				"order": 41,
+				"name": "Zoya Khan",
+				"character": "Girl #3 At 1998 Farewell",
+				"gender": 1
+			},
+			{
+				"id": 4691942,
+				"order": 42,
+				"name": "Rakesh Kumar",
+				"character": "Goa Lodge Owner",
+				"gender": 2
+			},
+			{
+				"id": 3768600,
+				"order": 43,
+				"name": "Khabir Mehta",
+				"character": "Boy #2 At 1998 Farewell",
+				"gender": 2
+			},
+			{
+				"id": 4691949,
+				"order": 44,
+				"name": "Himanshu Mishra",
+				"character": "Boy #1 At 1998 Farewell",
+				"gender": 2
+			},
+			{
+				"id": 4691955,
+				"order": 45,
+				"name": "Manha Mohammed",
+				"character": "Little Girl",
+				"gender": 1
+			},
+			{
+				"id": 4358525,
+				"order": 46,
+				"name": "Nikolai Musalkov",
+				"character": "Taxi driver",
+				"gender": 2
+			},
+			{
+				"id": 4691970,
+				"order": 47,
+				"name": "Mithun Purandare",
+				"character": "Bartender",
+				"gender": 2
+			},
+			{
+				"id": 4691972,
+				"order": 48,
+				"name": "Kaavya Ramani",
+				"character": "Girl #6 At 1998 Farewell",
+				"gender": 1
+			},
+			{
+				"id": 4691976,
+				"order": 49,
+				"name": "Sagar Rambhaiya",
+				"character": "Clapping Bystander At Kurla Station",
+				"gender": 2
+			},
+			{
+				"id": 4691979,
+				"order": 50,
+				"name": "Chandrakala Satam",
+				"character": "Beggar Mother",
+				"gender": 1
+			},
+			{
+				"id": 4691997,
+				"order": 51,
+				"name": "David Sharma",
+				"character": "Beggar Kid",
+				"gender": 2
+			},
+			{
+				"id": 4692001,
+				"order": 52,
+				"name": "Madhuri Gawali Shinde",
+				"profile_path": "/kz1oFm8izaIrOi4kvgEv5qpPRB9.jpg",
+				"character": "Madhuri Kombdi (as Madhuri Shinde)",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 85454,
+				"name": "Kunal Khemu",
+				"profile_path": "/b14MYOFVeebBGyD2Zr86DIMNH0h.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 85454,
+				"name": "Kunal Khemu",
+				"profile_path": "/b14MYOFVeebBGyD2Zr86DIMNH0h.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 78916,
+				"name": "Farhan Akhtar",
+				"profile_path": "/nYx5T3tkghBPvmI29J2iJlZOFyV.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 78917,
+				"name": "Ritesh Sidhwani",
+				"profile_path": "/zEL6Jj03CgjrhIkuDha8ZmPMSQk.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2214298,
+				"name": "Prachi Deshpande",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 3400703,
+				"name": "Sarvesh Shingre",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 930037,
+				"name": "Sohel Sanwari",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 2234436,
+				"name": "K.V. Sanjit",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1144550,
+				"name": "Adil Afsar",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 3468602,
+				"name": "Vishal Ramchandani",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 78918,
+				"name": "Kassim Jagmagia",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2649289,
+				"name": "Rucha Pathak",
+				"profile_path": "/nAdvlM6o5747grZYnwQETEvkure.jpg",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1941526,
+				"name": "Andreas Brückl",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 4573879,
+				"name": "K. V. Ranjit",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1434492,
+				"name": "Ejaz Gulab",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1323124,
+				"name": "Sharib-Toshi",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 968112,
+				"name": "Ankur Tewari",
+				"profile_path": "/9UKcdKemejym75CIgZzmQXcU3gC.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 85454,
+				"name": "Kunal Khemu",
+				"profile_path": "/b14MYOFVeebBGyD2Zr86DIMNH0h.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1510157,
+				"name": "Sagar Desai",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 1810275,
+				"name": "Vikram Dahiya",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 2810082,
+				"name": "Shipra Acharya",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2810082,
+				"name": "Shipra Acharya",
+				"job": "Prosthetic Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2031248,
+				"name": "Rohan Jagtap",
+				"job": "Hair Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2149996,
+				"name": "Sabina Halder",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1785025,
+				"name": "Sameer Uddin",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 102248,
+				"name": "Anand Subaya",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 928522,
+				"name": "Sanjay Ingle",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1765168,
+				"name": "Ollwyn Dsouza",
+				"job": "Executive Producer",
+				"department": "Production"
+			}
+		]
+	}
+}
