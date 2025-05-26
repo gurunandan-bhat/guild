@@ -1,6 +1,6 @@
 +++
 date = 2024-09-25T12:19:31.451066+05:30
-draft = false
+draft = true
 weight = 80
 title = 'Aswathy Gopalakrishnan'
 organizations = ['Indpendent Film Critic']

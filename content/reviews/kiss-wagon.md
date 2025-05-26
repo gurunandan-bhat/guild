@@ -1,7 +1,7 @@
 +++
 title = 'Kiss Wagon'
 date = 2024-02-06T23:50:05+05:30
-draft = false
+draft = true
 mreviews = ['Kiss Wagon']
 critics = ['Aswathy Gopalakrishnan']
 publication = 'Film Companion'

@@ -1,7 +1,7 @@
 +++
 title = 'Aadujeevitham'
 date = 2024-04-07T00:06:48+05:30
-draft = false
+draft = true
 mreviews = ['Aadujeevitham']
 critics = ['Aswathy Gopalakrishnan']
 publication = 'The Federal'

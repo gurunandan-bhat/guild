@@ -1,7 +1,7 @@
 +++
 title = 'Appuram'
 date = 2024-12-21T08:12:22+05:30
-draft = false
+draft = true
 mreviews = ['Appuram']
 critics = ['Aswathy Gopalakrishnan']
 publication = 'Dhruvam'

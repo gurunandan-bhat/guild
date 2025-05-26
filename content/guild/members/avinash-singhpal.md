@@ -1,6 +1,6 @@
 +++
 date = 2024-09-25T12:19:31.451369+05:30
-draft = false
+draft = true
 weight = 100
 title = 'Avinash Singh Pal'
 organizations = ['Galatta, India']

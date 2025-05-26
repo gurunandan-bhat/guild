@@ -1,7 +1,7 @@
 +++
 title = 'Mithya'
 date = 2024-02-07T00:02:34+05:30
-draft = false
+draft = true
 mreviews = ['Mithya']
 critics = ['Aswathy Gopalakrishnan']
 publication = 'Film Companion'

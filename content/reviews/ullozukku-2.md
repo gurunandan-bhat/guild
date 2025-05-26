@@ -1,7 +1,7 @@
 +++
 title = 'Ullozhukku'
 date = 2024-10-14T00:38:54+05:30
-draft = false
+draft = true
 mreviews = ['Ullozhukku']
 critics = ['Aswathy Gopalakrishnan']
 subtitle = 'An Astounding Urvashi Headlines a Tender Film On Love That Defies Conventions'
