@@ -1,0 +1,736 @@
+{
+	"id": 1022789,
+	"title": "Inside Out 2",
+	"fcg_title": "Inside Out 2",
+	"original_title": "Inside Out 2",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 16,
+			"name": "Animation"
+		},
+		{
+			"id": 12,
+			"name": "Adventure"
+		},
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 10751,
+			"name": "Family"
+		}
+	],
+	"overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
+	"backdrop_path": "/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+	"poster_path": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+	"release_date": "2024-06-11",
+	"credits": {
+		"cast": [
+			{
+				"id": 56322,
+				"order": 0,
+				"name": "Amy Poehler",
+				"profile_path": "/rwmvRonpluV6dCPiQissYrchvSD.jpg",
+				"character": "Joy (voice)",
+				"gender": 1
+			},
+			{
+				"id": 1903874,
+				"order": 1,
+				"name": "Maya Hawke",
+				"profile_path": "/abroQsos8bGN0ATm8j05z2THoOw.jpg",
+				"character": "Anxiety (voice)",
+				"gender": 1
+			},
+			{
+				"id": 3020876,
+				"order": 2,
+				"name": "Kensington Tallman",
+				"profile_path": "/tBqawwg2VJq1V4mZjAOFQ7fnXNW.jpg",
+				"character": "Riley (voice)",
+				"gender": 1
+			},
+			{
+				"id": 51998,
+				"order": 3,
+				"name": "Liza Lapira",
+				"profile_path": "/o3jvQAGWtxi5rEycslhC6CY8BWX.jpg",
+				"character": "Disgust (voice)",
+				"gender": 1
+			},
+			{
+				"id": 25147,
+				"order": 4,
+				"name": "Tony Hale",
+				"profile_path": "/ar4uapp4w5wMkThZcqWUNMSTO8z.jpg",
+				"character": "Fear (voice)",
+				"gender": 2
+			},
+			{
+				"id": 59258,
+				"order": 5,
+				"name": "Lewis Black",
+				"profile_path": "/1Yvp5dwnJ1UI0KtXGNhZ384wTgv.jpg",
+				"character": "Anger (voice)",
+				"gender": 2
+			},
+			{
+				"id": 169200,
+				"order": 6,
+				"name": "Phyllis Smith",
+				"profile_path": "/h9w9pQbiderRWAC2mi7spjzuIGz.jpg",
+				"character": "Sadness (voice)",
+				"gender": 1
+			},
+			{
+				"id": 2195140,
+				"order": 7,
+				"name": "Ayo Edebiri",
+				"profile_path": "/V9TNVjNkAJIiCHLTzcnHLktnPf.jpg",
+				"character": "Envy (voice)",
+				"gender": 1
+			},
+			{
+				"id": 1469135,
+				"order": 8,
+				"name": "Lilimar",
+				"profile_path": "/cRerzbUsq0TiWe6z0VGtLHz4JOa.jpg",
+				"character": "Valentina (voice)",
+				"gender": 1
+			},
+			{
+				"id": 3264370,
+				"order": 9,
+				"name": "Grace Lu",
+				"profile_path": "/iRHUHXADcEgUBAAjixnVnAH6MLt.jpg",
+				"character": "Grace (voice)",
+				"gender": 1
+			},
+			{
+				"id": 4578518,
+				"order": 10,
+				"name": "Sumayyah Nuriddin-Green",
+				"profile_path": "/9yTDK4xUSAsC5fVY2bvgCaTnZ7L.jpg",
+				"character": "Bree (voice)",
+				"gender": 1
+			},
+			{
+				"id": 586757,
+				"order": 11,
+				"name": "Adèle Exarchopoulos",
+				"profile_path": "/6gLztc2pVYc54LMRZntd7jRlKXO.jpg",
+				"character": "Ennui (voice)",
+				"gender": 1
+			},
+			{
+				"id": 2882,
+				"order": 12,
+				"name": "Diane Lane",
+				"profile_path": "/o9pPS52JrleScO4Qq6q1nYlaxWz.jpg",
+				"character": "Mom (voice)",
+				"gender": 1
+			},
+			{
+				"id": 6677,
+				"order": 13,
+				"name": "Kyle MacLachlan",
+				"profile_path": "/7gNyx8fYAUdOp2jpCEH3dyFbeV.jpg",
+				"character": "Dad (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1294982,
+				"order": 14,
+				"name": "Paul Walter Hauser",
+				"profile_path": "/hV2oiKF2xlDMXtuq3Si1TA4b6DA.jpg",
+				"character": "Embarrassment (voice)",
+				"gender": 2
+			},
+			{
+				"id": 111513,
+				"order": 15,
+				"name": "Yvette Nicole Brown",
+				"profile_path": "/7cJowCcDPnyXqHJ46GgSNHomUGo.jpg",
+				"character": "Coach Roberts (voice)",
+				"gender": 1
+			},
+			{
+				"id": 1260038,
+				"order": 16,
+				"name": "Ron Funches",
+				"profile_path": "/DtULMxPvAlOKfrwISxdEffIKlk.jpg",
+				"character": "Bloofy (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1756597,
+				"order": 17,
+				"name": "James Austin Johnson",
+				"profile_path": "/g9y0aABiKtB1FOIKmklDlgRpDof.jpg",
+				"character": "Pouchy (voice)",
+				"gender": 2
+			},
+			{
+				"id": 3602293,
+				"order": 18,
+				"name": "Yong Yea",
+				"profile_path": "/mZX1dsTJBtiSE5LMCGAdq94UZsP.jpg",
+				"character": "Lance Slashblade (voice)",
+				"gender": 2
+			},
+			{
+				"id": 137262,
+				"order": 19,
+				"name": "Steve Purcell",
+				"profile_path": "/8wdCJVDq7v4g5N9Qkv8D87B3Xne.jpg",
+				"character": "Deep Dark Secret (voice)",
+				"gender": 2
+			},
+			{
+				"id": 64181,
+				"order": 20,
+				"name": "Dave Goelz",
+				"profile_path": "/tBJDwH008IVSeTCB5e2P856NbIv.jpg",
+				"character": "Mind Cop Frank (voice)",
+				"gender": 2
+			},
+			{
+				"id": 145446,
+				"order": 21,
+				"name": "Kirk R. Thatcher",
+				"profile_path": "/7rkO6MLFgcPzbLV4mpwLu2r6M3S.jpg",
+				"character": "Foreman (voice)",
+				"gender": 2
+			},
+			{
+				"id": 7908,
+				"order": 22,
+				"name": "Frank Oz",
+				"profile_path": "/mb2JbT8s6LIgaxj6QTph0NW1pmI.jpg",
+				"character": "Mind Cop Dave (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1226294,
+				"order": 23,
+				"name": "Paula Pell",
+				"profile_path": "/aQZsAcaac2zzLBMhb15O2mrSrpx.jpg",
+				"character": "Mom's Anger (voice)",
+				"gender": 1
+			},
+			{
+				"id": 35515,
+				"order": 24,
+				"name": "June Squibb",
+				"profile_path": "/a7vkoLhc8JGkdvDbHvpgKKHUPHH.jpg",
+				"character": "Nostalgia (voice)",
+				"gender": 1
+			},
+			{
+				"id": 12890,
+				"order": 25,
+				"name": "Pete Docter",
+				"profile_path": "/vITDphkNpSn1LP5gUEheAnlclnl.jpg",
+				"character": "Dad's Anger (voice)",
+				"gender": 2
+			},
+			{
+				"id": 196502,
+				"order": 26,
+				"name": "Paula Poundstone",
+				"profile_path": "/jfu3LSX48WbvcJ4NXmrdI48epLJ.jpg",
+				"character": "Forgetter Paula (voice)",
+				"gender": 1
+			},
+			{
+				"id": 7907,
+				"order": 27,
+				"name": "John Ratzenberger",
+				"profile_path": "/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg",
+				"character": "Fritz (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1224130,
+				"order": 28,
+				"name": "Sarayu Blue",
+				"profile_path": "/zW1G9wSJ03iaSDToFxkMJaqGZLs.jpg",
+				"character": "Margie (voice)",
+				"gender": 1
+			},
+			{
+				"id": 1237,
+				"order": 29,
+				"name": "Flea",
+				"profile_path": "/nGQE7xf4YJeqO0a4lpFebhwI7R9.jpg",
+				"character": "Jake (voice)",
+				"gender": 2
+			},
+			{
+				"id": 452205,
+				"order": 30,
+				"name": "Bobby Moynihan",
+				"profile_path": "/gOvwNz5joi5yWJ7dAhuF8WA2aas.jpg",
+				"character": "Forgetter Bobby (voice)",
+				"gender": 2
+			},
+			{
+				"id": 4578519,
+				"order": 31,
+				"name": "Kendall Coyne Schofield",
+				"profile_path": "/hkFryqJW9IYDlZRlDfmINbvVvKy.jpg",
+				"character": "Hockey Announcer (voice)",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 182001,
+				"name": "Kelsey Mann",
+				"profile_path": "/jT77axUOdirHG85uXkgSiNT3qff.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 8103,
+				"name": "Mark Nielsen",
+				"profile_path": "/bqojcGtjzHDiUWgcpjbgY1KEyOx.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 12890,
+				"name": "Pete Docter",
+				"profile_path": "/vITDphkNpSn1LP5gUEheAnlclnl.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 7940,
+				"name": "Jonas Rivera",
+				"profile_path": "/uzoCan3ZeK2jXt3NaZ6uilvcQTU.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 225976,
+				"name": "Dan Scanlon",
+				"profile_path": "/sNHqtJKMd59fvEiwBRPD3zKKYQ4.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 7951,
+				"name": "Jason Deamer",
+				"profile_path": "/tjWJfG9omRPOoY2Z0WJMMsbdot7.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1994671,
+				"name": "Sudeep Rangaswamy",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1453623,
+				"name": "John Hoffman",
+				"job": "Story Supervisor",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2001825,
+				"name": "Maurissa Horwitz",
+				"profile_path": "/m5A3pGcnI4URO8dMtDbjsSYwhCc.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 1565455,
+				"name": "Andrea Datzman",
+				"profile_path": "/nUVly6mPNhHGJ2YEL0kHdI2n0Si.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1993341,
+				"name": "Evan Bonifacio",
+				"job": "Animation Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1033687,
+				"name": "Adam Habib",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1996855,
+				"name": "Dovi Anderson",
+				"job": "Animation Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 8053,
+				"name": "Michael Venturini",
+				"job": "Animation Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1998986,
+				"name": "Jonathan Pytko",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1445837,
+				"name": "Stephen Urata",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1976191,
+				"name": "Coya Elliott",
+				"profile_path": "/yoA5whVakiVG05EuNWCvAVtAfZB.jpg",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 2004993,
+				"name": "Kim Collins",
+				"profile_path": "/wZC4FZwo4RNLl89X1HlqXWGmn3P.jpg",
+				"job": "Associate Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1457025,
+				"name": "Meg LeFauve",
+				"profile_path": "/EUoBoQfRaVZrOmMUMKkOKCnqDn.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 963497,
+				"name": "Natalie Lyon",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1236458,
+				"name": "Ronnie del Carmen",
+				"profile_path": "/lPCmkQK76DOgkmcRjg9394QPyAu.jpg",
+				"job": "Additional Writing",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1457025,
+				"name": "Meg LeFauve",
+				"profile_path": "/EUoBoQfRaVZrOmMUMKkOKCnqDn.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 15347,
+				"name": "Michael Giacchino",
+				"profile_path": "/xgurVFMLVgtgz9f5bgrrCppm4xq.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 182001,
+				"name": "Kelsey Mann",
+				"profile_path": "/jT77axUOdirHG85uXkgSiNT3qff.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 57673,
+				"name": "Kevin Reher",
+				"profile_path": "/ulnGGeHrys0tkTq9vFBSmHpdCQX.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2499932,
+				"name": "Kate Hansen-Birnbaum",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1888448,
+				"name": "Dave Holstein",
+				"profile_path": "/cahOZfIPtjdcDNZu2qiXZs6zQtE.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1512665,
+				"name": "Heikki Kossi",
+				"profile_path": "/6VipnMFz9whg3WKRGld7KJDGTlo.jpg",
+				"job": "Foley Artist",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 111466,
+				"name": "Mona Marshall",
+				"profile_path": "/A2RCAt0Xmm3jLBKZogQAJX6eD9n.jpg",
+				"job": "ADR \u0026 Dubbing",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 3556107,
+				"name": "Libi Rose",
+				"job": "ADR \u0026 Dubbing",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1477958,
+				"name": "Matt Lowe",
+				"profile_path": "/u137BVOu2worxWBIWNkwW35b60X.jpg",
+				"job": "ADR \u0026 Dubbing",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 59784,
+				"name": "Carlos Alazraqui",
+				"profile_path": "/d2hufnjlfsZiY7N9NLZ6b7FE1IZ.jpg",
+				"job": "ADR \u0026 Dubbing",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 157067,
+				"name": "Matthew Yang King",
+				"profile_path": "/4ck5cTZit0GZVynMSPOEbrF6qTp.jpg",
+				"job": "ADR \u0026 Dubbing",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 24358,
+				"name": "Lori Alan",
+				"profile_path": "/cavATg4fX0zAl2MHwlt1IZei7EI.jpg",
+				"job": "ADR \u0026 Dubbing",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 2878559,
+				"name": "Paige Johnstone",
+				"job": "Production Manager",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1993282,
+				"name": "Amy L. Allen",
+				"job": "Set Supervisor",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1711830,
+				"name": "Bill Watral",
+				"job": "Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 2132376,
+				"name": "Ryan Heuett",
+				"job": "Layout Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1997916,
+				"name": "Charu Clark",
+				"job": "Lighting Supervisor",
+				"department": "Lighting",
+				"gender": 1
+			},
+			{
+				"id": 1997929,
+				"name": "Annie Mueller",
+				"job": "Story Manager",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 1746400,
+				"name": "John Bryant",
+				"job": "Editorial Manager",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 2134623,
+				"name": "Kathryn Hendrickson",
+				"job": "Animation Manager",
+				"department": "Visual Effects",
+				"gender": 1
+			},
+			{
+				"id": 1117950,
+				"name": "Jessie Thiele",
+				"job": "Post Production Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 3194314,
+				"name": "Magdiela Hermida Duhamel",
+				"job": "Associate Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1645150,
+				"name": "Matt Walker",
+				"job": "Executive Music Producer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1982410,
+				"name": "Jeremy Slome",
+				"job": "Post Production Supervisor",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3463962,
+				"name": "Lexi Diamond",
+				"job": "Casting Associate",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 4478430,
+				"name": "Rebecca McVeigh",
+				"job": "Story Artist",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 7763,
+				"name": "Ren Klyce",
+				"profile_path": "/pvGk2TNuGsyvqwLtm1QqAzV6das.jpg",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 7763,
+				"name": "Ren Klyce",
+				"profile_path": "/pvGk2TNuGsyvqwLtm1QqAzV6das.jpg",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1376899,
+				"name": "Cheryl Nardi",
+				"job": "ADR Supervisor",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1422418,
+				"name": "Jonathon Stevens",
+				"job": "Sound Effects Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1399117,
+				"name": "David C. Hughes",
+				"job": "Sound Effects Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 8165,
+				"name": "Dee Selby",
+				"job": "Foley Supervisor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1463388,
+				"name": "Lisa Chino",
+				"job": "First Assistant Sound Editor",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 5170709,
+				"name": "Doug M. Thomas",
+				"job": "Apprentice Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 80827,
+				"name": "Shelley Roden",
+				"job": "Foley Artist",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1445838,
+				"name": "Leff Lefferts",
+				"job": "Foley Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 138617,
+				"name": "Jon Null",
+				"job": "Head of Production",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2134644,
+				"name": "Josh Lowden",
+				"job": "General Manager",
+				"department": "Production",
+				"gender": 2
+			}
+		]
+	}
+}
