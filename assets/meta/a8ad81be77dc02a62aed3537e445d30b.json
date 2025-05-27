@@ -1,0 +1,220 @@
+{
+	"id": 84105,
+	"name": "Mirzapur",
+	"fcg_title": "Mirzapur S03",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 10759,
+			"name": "Action \u0026 Adventure"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "The iron-fisted Akhandanand Tripathi is a millionaire carpet exporter and the mafia don of Mirzapur. His son, Munna, is an unworthy, power-hungry heir who will stop at nothing to inherit his father's legacy. An incident at a wedding procession forces him to cross paths with Ramakant Pandit, an upstanding lawyer, and his sons, Guddu and Bablu. It snowballs into a game of ambition, power and greed that threatens the fabric of this lawless city.",
+	"backdrop_path": "/3dV7pWAdwIPKR2lMIACMfObXdgK.jpg",
+	"poster_path": "/p0qM8hhlMF5DuxHBzl2EZR6TehX.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 492791,
+				"order": 0,
+				"name": "Ali Fazal",
+				"profile_path": "/lLDmx3RDuMXObASvdFXeUh1GOgd.jpg",
+				"character": "Govind Pandit / Guddu",
+				"gender": 2
+			},
+			{
+				"id": 1179460,
+				"order": 2,
+				"name": "Pankaj Tripathi",
+				"profile_path": "/429hnZC7O6GEDs7DWHdYMI27h8I.jpg",
+				"character": "Akhanda Tripathi / Kaleen Bhaiya",
+				"gender": 2
+			},
+			{
+				"id": 1469936,
+				"order": 3,
+				"name": "Shweta Tripathi Sharma",
+				"profile_path": "/xZ0pk5qKzfK1oB54Mmfo1lUSSEu.jpg",
+				"character": "Gajgamini Gupta / Golu",
+				"gender": 1
+			},
+			{
+				"id": 86243,
+				"order": 5,
+				"name": "Rasika Dugal",
+				"profile_path": "/cMJP2OEOrKwF05BFh3zI3TyS5Ft.jpg",
+				"character": "Beena Tripathi",
+				"gender": 1
+			},
+			{
+				"id": 2176504,
+				"order": 9,
+				"name": "Harshita Gaur",
+				"profile_path": "/rYO4VrYRiCWrEq5MgM0fZnlAMwX.jpg",
+				"character": "Dimpy Pandit",
+				"gender": 1
+			},
+			{
+				"id": 1246564,
+				"order": 10,
+				"name": "Sheeba Chaddha",
+				"profile_path": "/yWBQeR47GmnGJn33w4c8QzakkSh.jpg",
+				"character": "Vasudha Pandit",
+				"gender": 1
+			},
+			{
+				"id": 1197124,
+				"order": 13,
+				"name": "Rajesh Tailang",
+				"profile_path": "/ou1zcrNfhXBKcpnPgtKs64SRGXm.jpg",
+				"character": "Ramakant Pandit",
+				"gender": 2
+			},
+			{
+				"id": 1799153,
+				"order": 14,
+				"name": "Anjum Sharma",
+				"profile_path": "/75uWNWhYgYxRlXw4Hhrl5R86mpK.jpg",
+				"character": "Sharad Shukla",
+				"gender": 2
+			},
+			{
+				"id": 1071562,
+				"order": 15,
+				"name": "Isha Talwar",
+				"profile_path": "/dVRrb9aLf6s1XmtIkpSbzuMl0Uv.jpg",
+				"character": "Madhuri Tripathi",
+				"gender": 1
+			},
+			{
+				"id": 1551045,
+				"order": 17,
+				"name": "Vijay Varma",
+				"profile_path": "/SVKmw30OYNFqSZwZ8BCMBZjRtB.jpg",
+				"character": "Bharat Tyagi",
+				"gender": 2
+			},
+			{
+				"id": 1339563,
+				"order": 18,
+				"name": "Priyanshu Painyuli",
+				"profile_path": "/r1o22IMlSU9KQfG6qBTb0HUXPFe.jpg",
+				"character": "Robin Agarwal",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 4835672,
+				"name": "Siddheshwar Ekambe",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 4621553,
+				"name": "Avinash Singh Tomar",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 4835684,
+				"name": "Anand Iyer",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2489743,
+				"name": "Vijay Narayan Verma",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 1521926,
+				"name": "Sumit Gyanchandaney",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3468602,
+				"name": "Vishal Ramchandani",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3734758,
+				"name": "Abbas Raza Khan",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 78918,
+				"name": "Kassim Jagmagia",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1209317,
+				"name": "Gurmmeet Singh",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2657388,
+				"name": "Apurva Dhar Badgaiyann",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 1681237,
+				"name": "Manohar Verma",
+				"job": "Action Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1491429,
+				"name": "Karan Anshuman",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1209317,
+				"name": "Gurmmeet Singh",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 78916,
+				"name": "Farhan Akhtar",
+				"profile_path": "/nYx5T3tkghBPvmI29J2iJlZOFyV.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 78917,
+				"name": "Ritesh Sidhwani",
+				"profile_path": "/zEL6Jj03CgjrhIkuDha8ZmPMSQk.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2447049,
+				"name": "Bhaumik Gondaliya",
+				"job": "Executive Producer",
+				"department": "Production"
+			}
+		]
+	}
+}
