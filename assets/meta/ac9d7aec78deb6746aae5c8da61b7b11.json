@@ -1,0 +1,135 @@
+{
+	"id": 292392,
+	"name": "Kankhajura",
+	"fcg_title": "Kankhajura",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		}
+	],
+	"overview": "A man serving a murder sentence gets released early from prison on the condition that he cooperates with the police as their informant - a role (known as a magpie) that he also had in jail.",
+	"backdrop_path": "/5bHnxlJAuchAUSGeNTkzhIq8CTF.jpg",
+	"poster_path": "/iUeaGrvXb3ZzxdIHq4grKOLTl5s.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 1697412,
+				"order": 0,
+				"name": "Roshan Mathew",
+				"profile_path": "/9BzqaEdErGxF1EDELQEXpnRsqQu.jpg",
+				"character": "Ashu",
+				"gender": 2
+			},
+			{
+				"id": 1255557,
+				"order": 1,
+				"name": "Mohit Raina",
+				"profile_path": "/mPQ68Zweqt8HC6tI9tQ8i3KW3g9.jpg",
+				"character": "Max",
+				"gender": 2
+			},
+			{
+				"id": 4207414,
+				"order": 2,
+				"name": "Trinetra Haldar Gummaraju",
+				"gender": 3
+			},
+			{
+				"id": 231596,
+				"order": 3,
+				"name": "Sarah-Jane Dias",
+				"profile_path": "/q3LZpS8iZWkZNa5EnKeoA9ZBapc.jpg",
+				"gender": 1
+			},
+			{
+				"id": 123318,
+				"order": 4,
+				"name": "Ninad Kamat",
+				"profile_path": "/egSReKfBGZoxwlS6bBxNd05030b.jpg"
+			},
+			{
+				"id": 2377493,
+				"order": 5,
+				"name": "Mahesh Shetty",
+				"profile_path": "/rGxhEDfDwBffOOiUyyIlTJztO0X.jpg",
+				"gender": 2
+			},
+			{
+				"id": 2368860,
+				"order": 6,
+				"name": "Heeba Shah",
+				"profile_path": "/pPC0pS6YaTEQlDaKNVNvOFmqzhb.jpg"
+			},
+			{
+				"id": 995395,
+				"order": 7,
+				"name": "Usha Nadkarni",
+				"profile_path": "/zdciIMcWtCDBWAdcXAkNdRhaGRD.jpg",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 122496,
+				"name": "Chandan Arora",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 233070,
+				"name": "Ajay Rai",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 122496,
+				"name": "Chandan Arora",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1527502,
+				"name": "Upendra Sidhaye",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1285550,
+				"name": "Sameer Khurana",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1136857,
+				"name": "Rajeev Ravi",
+				"profile_path": "/vWAwaO8HkUOXAkCOqlelr5CZrIZ.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1296664,
+				"name": "Vinod Illampally",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 3137204,
+				"name": "Vaishak Ravi",
+				"job": "Editor",
+				"department": "Editing"
+			}
+		]
+	}
+}
