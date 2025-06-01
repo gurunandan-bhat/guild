@@ -1,8 +1,8 @@
 +++
-title = "Saukan Saukanay 2"
+title = "Saunkan Saunkanay 2"
 date = 2025-05-31T20:05:54+05:30
 draft = false
-mreviews = ["Saukan Saukanay 2"]
+mreviews = ["Saunkan Saunkanay 2"]
 critics = ['Sukhpreet Kahlon']
 publication = 'The Indian Express'
 subtitle = "Ammy Virk faces triple trouble in this laugh-out-loud film"
