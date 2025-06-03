@@ -1,7 +1,7 @@
 +++
 title = "Cold Case: The Tylenol Murders"
 date = 2025-06-03T11:32:20+05:30
-draft = true
+draft = false
 mreviews = ["Cold Case: The Tylenol Murders"]
 critics = ['Priyanka Roy']
 publication = ''
