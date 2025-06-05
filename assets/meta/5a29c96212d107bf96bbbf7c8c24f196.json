@@ -1,0 +1,457 @@
+{
+	"id": 110382,
+	"name": "Pachinko",
+	"fcg_title": "Pachinko S02",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Follow the hopes and dreams of four generations of a Korean immigrant family beginning with a forbidden love and crescendos into a sweeping saga that journeys between Korea, Japan and America to tell the unforgettable story of war and peace, love and loss, triumph and reckoning.",
+	"backdrop_path": "/vVKlL4HyrQYAcJuaaUW49FrRqY5.jpg",
+	"poster_path": "/Ab9z43yotMYDzDNmXk8Uw9ZNIhx.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 1080935,
+				"order": 0,
+				"name": "Youn Yuh-jung",
+				"profile_path": "/rSoSAX85gvPNSWmWXcCaJ2eBPrp.jpg",
+				"character": "Older Sunja",
+				"gender": 1
+			},
+			{
+				"id": 143364,
+				"order": 1,
+				"name": "Soji Arai",
+				"profile_path": "/72hCalf77fivfkYkgl6FM2idSjg.jpg",
+				"character": "Mozasu",
+				"gender": 2
+			},
+			{
+				"id": 2088446,
+				"order": 2,
+				"name": "Jin Ha",
+				"profile_path": "/gawCQyolbVONqOa10RDXj9sH7r9.jpg",
+				"character": "Solomon",
+				"gender": 2
+			},
+			{
+				"id": 1142181,
+				"order": 3,
+				"name": "Jung Eun-chae",
+				"profile_path": "/cw3Ia40hTP1SfGj0Qw9pqRaNill.jpg",
+				"character": "Young Kyunghee",
+				"gender": 1
+			},
+			{
+				"id": 2704830,
+				"order": 4,
+				"name": "Kim Min-ha",
+				"profile_path": "/qRQmW4dn4sR6yJMiqBvFI6PcirI.jpg",
+				"character": "Sunja",
+				"gender": 1
+			},
+			{
+				"id": 3399975,
+				"order": 5,
+				"name": "Jeong In-ji",
+				"profile_path": "/vIUgDWfhS0JHubxluT7v98O53xg.jpg",
+				"character": "Yangjin",
+				"gender": 1
+			},
+			{
+				"id": 2159394,
+				"order": 6,
+				"name": "Kim Sung-kyu",
+				"profile_path": "/72FPYyk1Zxzr3L2KZhjMmAVchfK.jpg",
+				"character": "Mr. Kim Changho",
+				"gender": 2
+			},
+			{
+				"id": 1245104,
+				"order": 7,
+				"name": "Lee Min-ho",
+				"profile_path": "/iqopuz6cKuRZRUPZQrj7lFZcWWb.jpg",
+				"character": "Hansu",
+				"gender": 2
+			},
+			{
+				"id": 1926495,
+				"order": 8,
+				"name": "Steve Sanghyun Noh",
+				"profile_path": "/wdevvu2YLIvAPVEkScjO9JGbioq.jpg",
+				"character": "Isak",
+				"gender": 2
+			},
+			{
+				"id": 1434487,
+				"order": 10,
+				"name": "Anna Sawai",
+				"profile_path": "/6uFaCOupDTPRnTiedveTUvjOikC.jpg",
+				"character": "Naomi",
+				"gender": 1
+			},
+			{
+				"id": 22125,
+				"order": 11,
+				"name": "Jimmi Simpson",
+				"profile_path": "/gerE8VqXfFyAs3QhbUlwEuZllKq.jpg",
+				"character": "Tom Andrews",
+				"gender": 2
+			},
+			{
+				"id": 2699059,
+				"order": 12,
+				"name": "Han Jun-woo",
+				"profile_path": "/uVxc53lfW7mhb4pOEMtJQ9ytp32.jpg",
+				"character": "Yoseb",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 4900374,
+				"name": "Lauren Taylor",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2893585,
+				"name": "Karen Chee",
+				"job": "Story Editor",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 3530743,
+				"name": "Haruna Lee",
+				"job": "Story Editor",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 1264800,
+				"name": "Leanne Welham",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2395765,
+				"name": "Chang-rae Lee",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1662015,
+				"name": "Mark Murdoch",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 34222,
+				"name": "Ruth Ammon",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 63190,
+				"name": "David Kirchner",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3891320,
+				"name": "Melissa Park",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 3497383,
+				"name": "Caroline Garity",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1371032,
+				"name": "Daniel Lee",
+				"job": "Makeup Department Head",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1550070,
+				"name": "Marie-Claude Harnois",
+				"job": "Unit Production Manager",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2529454,
+				"name": "Samantha Banack",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects",
+				"gender": 1
+			},
+			{
+				"id": 2212384,
+				"name": "Su Kim",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 4846582,
+				"name": "Yoko van Veen",
+				"profile_path": "/nnrpgJEeLhiWqfhSm5leOzBXAdB.jpg",
+				"job": "Translator",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1835496,
+				"name": "David McLennan",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1413899,
+				"name": "Melissa Girotti",
+				"profile_path": "/fQVdRoambRcL1TuZmcqHLvKC7sQ.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2212384,
+				"name": "Su Kim",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 4188807,
+				"name": "Ashley Bernes",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 1
+			},
+			{
+				"id": 1519329,
+				"name": "Ryan Reed",
+				"profile_path": "/12hks5mzBbESDf9gavjM9SAEtp1.jpg",
+				"job": "Hair Department Head",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1111715,
+				"name": "David Mitchell",
+				"profile_path": "/gv5LefiZgvVqCptniPudTcblcol.jpg",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1797253,
+				"name": "Greg Chapman",
+				"job": "Production Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2842963,
+				"name": "Kiri Kraatz",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 3752364,
+				"name": "Mike Deas",
+				"job": "Associate Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1767370,
+				"name": "Sebastian Lee",
+				"profile_path": "/pPokpQl0kTUF1siFPljIrY35zHG.jpg",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1582568,
+				"name": "Luciano Vignola",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1415964,
+				"name": "Deborah Wallach",
+				"job": "Supervising ADR Editor",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 2050508,
+				"name": "Allen Lau",
+				"job": "Assistant Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2132378,
+				"name": "Filipe Messeder",
+				"job": "Sound Effects Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 4178294,
+				"name": "Jake O'Brien",
+				"job": "Dialogue Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1993852,
+				"name": "Lindsey Springer",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2826379,
+				"name": "Dani Gorin",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2826378,
+				"name": "Theresa Kang-Lowe",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1018939,
+				"name": "Michael Ellenberg",
+				"profile_path": "/vO2x4h82Pdga3ggUcOX90CLUaKQ.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1767367,
+				"name": "David Kim",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1555636,
+				"name": "Kogonada",
+				"profile_path": "/vtAELNwYG6DNHgUS9rBxHTIISS9.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1349031,
+				"name": "Soo Hugh",
+				"profile_path": "/3s0ss1PIRaBWHgpmB0IFe6F3WtV.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1294087,
+				"name": "Chae Kyung-hwa",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1045816,
+				"name": "Nico Muhly",
+				"profile_path": "/cSPXIHGZALFCdgYS7QUUywkH0nU.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2787776,
+				"name": "Min Jin Lee",
+				"profile_path": "/f6Q8pcblbwfQUWDllDFsrxhfJIG.jpg",
+				"job": "Book",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 2094573,
+				"name": "Ethan Kuperberg",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1543454,
+				"name": "Michael Hill",
+				"job": "Music Supervisor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2137284,
+				"name": "Matt Rigby",
+				"job": "Dialogue Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1582568,
+				"name": "Luciano Vignola",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1521110,
+				"name": "Michelle Wade Byrd",
+				"job": "Original Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 5914,
+				"name": "Mary Vernieu",
+				"profile_path": "/z37Cmn0MJdWCSC8ydkyoseiYUYk.jpg",
+				"job": "Original Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1122265,
+				"name": "Martin Czembor",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			}
+		]
+	}
+}

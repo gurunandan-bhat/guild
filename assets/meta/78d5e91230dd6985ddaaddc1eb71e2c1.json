@@ -1,0 +1,525 @@
+{
+	"id": 84773,
+	"name": "The Lord of the Rings: The Rings of Power",
+	"fcg_title": "The Rings of Power S02",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 10759,
+			"name": "Action \u0026 Adventure"
+		},
+		{
+			"id": 10765,
+			"name": "Sci-Fi \u0026 Fantasy"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+	"backdrop_path": "/NNC08YmJFFlLi1prBkK8quk3dp.jpg",
+	"poster_path": "/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 2309879,
+				"order": 0,
+				"name": "Charlie Vickers",
+				"profile_path": "/52AAfocWk3d8J3a15iznfD3cabW.jpg",
+				"character": "Sauron",
+				"gender": 2
+			},
+			{
+				"id": 1321628,
+				"order": 1,
+				"name": "Morfydd Clark",
+				"profile_path": "/rVc9M8pojcY7aHyKpx3iCZKWYIs.jpg",
+				"character": "Galadriel",
+				"gender": 1
+			},
+			{
+				"id": 1648346,
+				"order": 3,
+				"name": "Robert Aramayo",
+				"profile_path": "/5CNx6hV7buItL1Icsc2AorP9AqE.jpg",
+				"character": "Elrond",
+				"gender": 2
+			},
+			{
+				"id": 281527,
+				"order": 4,
+				"name": "Charles Edwards",
+				"profile_path": "/2mFLkYEMlqRSh630wwrcYzKoS1s.jpg",
+				"character": "Lord Celebrimbor",
+				"gender": 2
+			},
+			{
+				"id": 1274938,
+				"order": 5,
+				"name": "Owain Arthur",
+				"profile_path": "/rwUPaXPFkuR2e6MpMq8SWI8Yxsb.jpg",
+				"character": "Durin IV",
+				"gender": 2
+			},
+			{
+				"id": 2056333,
+				"order": 6,
+				"name": "Sophia Nomvete",
+				"profile_path": "/fRglwdtHHjLGAMIoCkqXwQ9bIfd.jpg",
+				"character": "Disa",
+				"gender": 1
+			},
+			{
+				"id": 1220087,
+				"order": 7,
+				"name": "Daniel Weyman",
+				"profile_path": "/qONmQ0AIWPpFmWrmiupMEG7K9mF.jpg",
+				"character": "The Stranger",
+				"gender": 2
+			},
+			{
+				"id": 2138256,
+				"order": 8,
+				"name": "Markella Kavenagh",
+				"profile_path": "/gHBoS2Ql0ywj6kfkxixqPPryqTQ.jpg",
+				"character": "Elanor 'Nori' Brandyfoot",
+				"gender": 1
+			},
+			{
+				"id": 2145794,
+				"order": 9,
+				"name": "Megan Richards",
+				"profile_path": "/q66cIEIlt4ylFXVlgdLbYHuuUOw.jpg",
+				"character": "Poppy Proudfellow",
+				"gender": 1
+			},
+			{
+				"id": 1100144,
+				"order": 10,
+				"name": "Ismael Cruz Cordova",
+				"profile_path": "/oR3fPUeO707DTTgMynF99P9UNqP.jpg",
+				"character": "Arondir",
+				"gender": 2
+			},
+			{
+				"id": 563559,
+				"order": 12,
+				"name": "Sam Hazeldine",
+				"profile_path": "/2rMrcLjDrKxHHwNdxXHZ7myXLRc.jpg",
+				"character": "Adar",
+				"gender": 2
+			},
+			{
+				"id": 239996,
+				"order": 16,
+				"name": "Benjamin Walker",
+				"profile_path": "/jwM8BZ1hVcbzfs9jNndVmaocULF.jpg",
+				"character": "High King Gil-Galad",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1457306,
+				"name": "Flora Moody",
+				"profile_path": "/f7NBaNHErev8dijQWYUkEDTsTpD.jpg",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 3709369,
+				"name": "Ally O'Leary",
+				"job": "Controller",
+				"department": "Production"
+			},
+			{
+				"id": 1457306,
+				"name": "Flora Moody",
+				"profile_path": "/f7NBaNHErev8dijQWYUkEDTsTpD.jpg",
+				"job": "Hair Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1454530,
+				"name": "Tim Lyall",
+				"job": "Unit Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 1300064,
+				"name": "Theo Park",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1801113,
+				"name": "Andy Surry",
+				"job": "Unit Production Manager",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1622443,
+				"name": "Michael Baber",
+				"job": "Music Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 19770,
+				"name": "Callum Greene",
+				"job": "Unit Production Manager",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1428470,
+				"name": "Christine Blundell",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 560182,
+				"name": "Kristian Milsted",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1568120,
+				"name": "Oliver Benson",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 3593647,
+				"name": "Gareth Sprey",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 4212806,
+				"name": "Charlie McDonnell",
+				"job": "Art Department Assistant",
+				"department": "Art"
+			},
+			{
+				"id": 1918598,
+				"name": "Charlotte Malynn",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 3548737,
+				"name": "Tim Dutton",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1089410,
+				"name": "Rebecca White",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 4204644,
+				"name": "Eva Rogelj",
+				"job": "Art Department Trainee",
+				"department": "Art"
+			},
+			{
+				"id": 1487710,
+				"name": "Martin Foley",
+				"job": "Supervising Art Director",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1388851,
+				"name": "Oliver Goodier",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 4914547,
+				"name": "Kristina Zimmermann",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 3735501,
+				"name": "Vicky Ralph",
+				"job": "Art Department Coordinator",
+				"department": "Art"
+			},
+			{
+				"id": 1918597,
+				"name": "Ian Bunting",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 2180983,
+				"name": "Luke Tumber",
+				"profile_path": "/2aS2iTfX1bM47E8B3hYgeDVXp7.jpg",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2651736,
+				"name": "Caterina Boselli",
+				"job": "Location Coordinator",
+				"department": "Production"
+			},
+			{
+				"id": 3076199,
+				"name": "James Manning",
+				"job": "Second Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1466997,
+				"name": "Duncan Jarman",
+				"profile_path": "/wGQQ76UZtrDCeP42cHXhbBYpnkq.jpg",
+				"job": "Prosthetic Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 3
+			},
+			{
+				"id": 4671122,
+				"name": "Nicol Shaw",
+				"job": "Transportation Coordinator",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1405198,
+				"name": "David Sinfield",
+				"job": "Chief Lighting Technician",
+				"department": "Lighting",
+				"gender": 2
+			},
+			{
+				"id": 11354,
+				"name": "Ben Cooke",
+				"profile_path": "/tuMetGw8QNRbWEEtMP3SITwBFc2.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1667201,
+				"name": "Helen Shang",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1767889,
+				"name": "Matthew Penry-Davey",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 138756,
+				"name": "Charlotte Brändström",
+				"profile_path": "/z315PrTslmi0UxsOOKuBoqf1kjk.jpg",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2091571,
+				"name": "Clare Buxton",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3295447,
+				"name": "Glenise Mullins",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1865914,
+				"name": "Kate Hazell",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 23457,
+				"name": "Barrie Gower",
+				"profile_path": "/w4aurjKq2sIGPHZSpjLDp6BIHV2.jpg",
+				"job": "Prosthetic Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 4757102,
+				"name": "Jayne Trotman",
+				"job": "Unit Publicist",
+				"department": "Crew"
+			},
+			{
+				"id": 1388899,
+				"name": "Gary Spratling",
+				"job": "\"A\" Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 15358,
+				"name": "Vic Armstrong",
+				"profile_path": "/n5QucsPxuYcsvq9Te00lkWhsYUx.jpg",
+				"job": "Second Unit Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 52682,
+				"name": "Luca Mosca",
+				"profile_path": "/adtSrjn37EhoTSHFPfqxDmBTw6z.jpg",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 4913847,
+				"name": "Andrew Lee",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1821633,
+				"name": "Lulu Morgan",
+				"job": "Unit Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 1413116,
+				"name": "Ann Podlozny",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1621772,
+				"name": "Jason Smith",
+				"job": "Senior Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1425488,
+				"name": "Tim Keene",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1428470,
+				"name": "Christine Blundell",
+				"job": "Hair Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 3709369,
+				"name": "Ally O'Leary",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1636657,
+				"name": "Lindsey Weber",
+				"profile_path": "/9aN6x2W7DlPAMX8MZxcqB1Hyf8v.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1301304,
+				"name": "Justin Doble",
+				"profile_path": "/7bTwDKXb8BsvI5b1b4UeKQhBCCN.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1223734,
+				"name": "Jason Cahill",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1276960,
+				"name": "Patrick McKay",
+				"profile_path": "/mzPLmSrqMQkQc0n8Kft07Han3zu.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 19770,
+				"name": "Callum Greene",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1223203,
+				"name": "Gennifer Hutchison",
+				"profile_path": "/b9aW3OIGhVOv7m8QdIzX87Bs4hl.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1276959,
+				"name": "John D. Payne",
+				"profile_path": "/tcZE30s0wA9H85598aGFaXgvoqA.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 117,
+				"name": "Howard Shore",
+				"profile_path": "/nJ606tXnL8vDVHi7qavrV292ljt.jpg",
+				"job": "Main Title Theme Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 59811,
+				"name": "Bear McCreary",
+				"profile_path": "/t4Rr2p9Q5ewMgagChxK2JmrcvKx.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2776198,
+				"name": "Sharon Tal Yguado",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 129,
+				"name": "J. R. R. Tolkien",
+				"profile_path": "/8AYNNfNuhpzPHxki7cBISG9JpGx.jpg",
+				"job": "Novel",
+				"department": "Writing",
+				"gender": 2
+			}
+		]
+	}
+}

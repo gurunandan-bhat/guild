@@ -1,0 +1,697 @@
+{
+	"id": 194764,
+	"name": "The Penguin",
+	"fcg_title": "The Penguin",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		}
+	],
+	"overview": "With the city in peril following the seawall's collapse, Oswald \"Oz\" Cobb seeks to fill the power vacuum left by the death of Carmine Falcone and finally give his mother Francis the life he's always promised. But first, Oz must confront his enemies and his own demoralizing reputation as \"the Penguin.\"",
+	"backdrop_path": "/qq36sU5xH581RiNEkookMQ9D7yp.jpg",
+	"poster_path": "/vOWcqC4oDQws1doDWLO7d3dh5qc.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 72466,
+				"order": 0,
+				"name": "Colin Farrell",
+				"profile_path": "/lZ3dU4uFEV4BccAEvjJUBIY2OaB.jpg",
+				"character": "Oz 'The Penguin' Cobb",
+				"gender": 2
+			},
+			{
+				"id": 204392,
+				"order": 1,
+				"name": "Cristin Milioti",
+				"profile_path": "/54vq2oKWfVR7YZZeoY5j47hTZxW.jpg",
+				"character": "Sofia Falcone",
+				"gender": 1
+			},
+			{
+				"id": 1761634,
+				"order": 2,
+				"name": "Rhenzy Feliz",
+				"profile_path": "/9YPe3GgyWjG4D0GnTx9KzfvnO0L.jpg",
+				"character": "Victor Aguilar",
+				"gender": 2
+			},
+			{
+				"id": 77013,
+				"order": 3,
+				"name": "Deirdre O'Connell",
+				"profile_path": "/14e0AZOZafenduP7O6oMLSL92RP.jpg",
+				"character": "Francis Cobb",
+				"gender": 1
+			},
+			{
+				"id": 6574,
+				"order": 4,
+				"name": "Clancy Brown",
+				"profile_path": "/xjg0ZIxP0tFcEQCTeRgKxNtLdpe.jpg",
+				"character": "Salvatore Maroni",
+				"gender": 2
+			},
+			{
+				"id": 37158,
+				"order": 5,
+				"name": "Carmen Ejogo",
+				"profile_path": "/b2qi5NxOwoxK67LPz0MjVwjRcFp.jpg",
+				"character": "Eve Karlo",
+				"gender": 1
+			},
+			{
+				"id": 21041,
+				"order": 6,
+				"name": "Shohreh Aghdashloo",
+				"profile_path": "/7josGC8QO9V6V8AuFdaS2tjUF8W.jpg",
+				"character": "Nadia Maroni",
+				"gender": 1
+			},
+			{
+				"id": 51995,
+				"order": 7,
+				"name": "Theo Rossi",
+				"profile_path": "/344QE41Jileu4OE41cmYgBxc5BF.jpg",
+				"character": "Dr. Julian Rush",
+				"gender": 2
+			},
+			{
+				"id": 50217,
+				"order": 8,
+				"name": "Michael Kelly",
+				"profile_path": "/6MI8HhX1GWbcrWG8DiHffzmqaVm.jpg",
+				"character": "Johnny Viti",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 72466,
+				"name": "Colin Farrell",
+				"profile_path": "/lZ3dU4uFEV4BccAEvjJUBIY2OaB.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1223896,
+				"name": "Lauren LeFranc",
+				"profile_path": "/8OTJuIucLbUjIurI2yzgvMSneQg.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 3794,
+				"name": "Bob Kane",
+				"profile_path": "/vuXwrlqaUydA4t5SFVdQkK9KsZL.jpg",
+				"job": "Characters",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2838882,
+				"name": "Daniel Pipski",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 198034,
+				"name": "Bill Finger",
+				"profile_path": "/50vkgn1QGaakfXzetnHUDaOnOyt.jpg",
+				"job": "Characters",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 32278,
+				"name": "Matt Reeves",
+				"profile_path": "/5rA459xpMt6IeJG7ZqvhLbSozEH.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 935717,
+				"name": "Dylan Clark",
+				"profile_path": "/fZVAPLYPTPUMHL3yPSqf1020GdJ.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 79434,
+				"name": "Craig Zobel",
+				"profile_path": "/kvXpSBGJHDvlaufobFMVcLloXKx.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2062011,
+				"name": "Helen Huang",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 23420,
+				"name": "Bill Carraro",
+				"profile_path": "/qt2ZxwwjbQe0kytalxbdLka6Vzn.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1945089,
+				"name": "Mick Giacchino",
+				"profile_path": "/wlmvTCm9U4qMTQLcBaTDkGwyoEt.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1371513,
+				"name": "Vladimir Cvetko",
+				"profile_path": "/mBtFuv7yAG0ots9uz0GdJ0HoQb3.jpg",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2068642,
+				"name": "Erika Johnson",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1254612,
+				"name": "Noelle Valdivia",
+				"job": "Co-Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3952497,
+				"name": "John McCutcheon",
+				"job": "Supervising Producer",
+				"department": "Production"
+			},
+			{
+				"id": 64919,
+				"name": "Megan Martin",
+				"job": "Consulting Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1582519,
+				"name": "Kira Snyder",
+				"profile_path": "/wQeoheJhWJzoPLnCmBkr48afTN6.jpg",
+				"job": "Consulting Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 58357,
+				"name": "Dana Robin",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 76531,
+				"name": "Nick Towne",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3068643,
+				"name": "Corina Maritescu",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1502779,
+				"name": "Claudine Farrell",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 119179,
+				"name": "Cindy Tolan",
+				"profile_path": "/gLP6PCGbGDwo7VgrXks7vCLj0u8.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1886004,
+				"name": "Suzanne Ryan",
+				"job": "Casting",
+				"department": "Production"
+			},
+			{
+				"id": 17148,
+				"name": "Kalina Ivanov",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1836187,
+				"name": "Shaye Ogbonna",
+				"profile_path": "/gDwsf4dd1KQh9Ex82ZxOrTN9epY.jpg",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1852275,
+				"name": "Breannah Gibson",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1720304,
+				"name": "Jonathan Ferrantelli",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1118728,
+				"name": "Bryan H. Carroll",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 58357,
+				"name": "Dana Robin",
+				"job": "Unit Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 23420,
+				"name": "Bill Carraro",
+				"profile_path": "/qt2ZxwwjbQe0kytalxbdLka6Vzn.jpg",
+				"job": "Unit Production Manager",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2469540,
+				"name": "Mike Marino",
+				"job": "Prosthetic Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2023802,
+				"name": "Jen Malone",
+				"job": "Music Supervisor",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 2190052,
+				"name": "Whitney Pilzer",
+				"job": "Music Supervisor",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1394963,
+				"name": "John H. Han",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 2040945,
+				"name": "Michelle Rose",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 176558,
+				"name": "Stephen A. Pope",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1074163,
+				"name": "G.A. Aguilar",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1431113,
+				"name": "Megan Jahoda",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4178285,
+				"name": "Mike Buonanno",
+				"job": "Assistant Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 2738274,
+				"name": "Amanda Jabes",
+				"job": "Production Supervisor",
+				"department": "Production"
+			},
+			{
+				"id": 4952694,
+				"name": "Zoe Cooper",
+				"job": "Writers' Assistant",
+				"department": "Writing"
+			},
+			{
+				"id": 4952696,
+				"name": "Marlee Fox",
+				"job": "Writers' Assistant",
+				"department": "Writing"
+			},
+			{
+				"id": 4952697,
+				"name": "Dan Fuchs",
+				"job": "Script Coordinator",
+				"department": "Directing"
+			},
+			{
+				"id": 4952698,
+				"name": "Lauren Muñoz Robinson",
+				"job": "Executive Producer's Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 3093212,
+				"name": "Moses Ntekereze",
+				"job": "Executive Producer's Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 4952699,
+				"name": "Janelle Gatchalian",
+				"job": "Writers' Production",
+				"department": "Writing"
+			},
+			{
+				"id": 4952701,
+				"name": "Noah Simon",
+				"job": "Actor's Assistant",
+				"department": "Crew"
+			},
+			{
+				"id": 4952702,
+				"name": "Coco McNeil",
+				"job": "Actor's Assistant",
+				"department": "Crew"
+			},
+			{
+				"id": 1847567,
+				"name": "Melissa Zeigler",
+				"job": "Executive Producer's Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 4394094,
+				"name": "Shawn Antoine II",
+				"job": "Executive Producer's Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 4952704,
+				"name": "Jack Weitzner",
+				"job": "Executive Producer's Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 4952705,
+				"name": "Benito Sanchez",
+				"job": "Executive Producer's Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 4952707,
+				"name": "Gabe Tagliamonte",
+				"job": "Executive Producer's Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 4952708,
+				"name": "Kinga Vasicsek",
+				"job": "Executive Producer's Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 4952709,
+				"name": "Irene Christodoulakis",
+				"job": "Producer's Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 4952710,
+				"name": "Sara Murphy",
+				"job": "Production Office Assistant",
+				"department": "Crew"
+			},
+			{
+				"id": 4952711,
+				"name": "Alexa Stormes",
+				"job": "Production Office Assistant",
+				"department": "Crew"
+			},
+			{
+				"id": 4952712,
+				"name": "Daryn Crowninshield",
+				"job": "Production Office Assistant",
+				"department": "Crew"
+			},
+			{
+				"id": 4952713,
+				"name": "Chris Camuto",
+				"job": "Production Accountant",
+				"department": "Production"
+			},
+			{
+				"id": 4952714,
+				"name": "Bryan Avino",
+				"job": "First Assistant Accountant",
+				"department": "Production"
+			},
+			{
+				"id": 4952715,
+				"name": "Samantha Thompson",
+				"job": "First Assistant Accountant",
+				"department": "Production"
+			},
+			{
+				"id": 4952716,
+				"name": "Paula Goldberg",
+				"job": "Second Assistant Accountant",
+				"department": "Production"
+			},
+			{
+				"id": 4952717,
+				"name": "Matthew Sullivan",
+				"job": "Second Assistant Accountant",
+				"department": "Production"
+			},
+			{
+				"id": 4952718,
+				"name": "Rachel Gibson",
+				"job": "Payroll Accountant",
+				"department": "Production"
+			},
+			{
+				"id": 4952719,
+				"name": "Sonam Gurung",
+				"job": "Payroll Accountant",
+				"department": "Production"
+			},
+			{
+				"id": 2448134,
+				"name": "Josh Liveright",
+				"job": "Payroll Accountant",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3343274,
+				"name": "Nicholas Petrovich",
+				"job": "Casting Associate",
+				"department": "Production"
+			},
+			{
+				"id": 4952720,
+				"name": "Sahtia Rivers",
+				"job": "Casting Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 4952721,
+				"name": "Tiana Graziadei",
+				"job": "Production Coordinator",
+				"department": "Production"
+			},
+			{
+				"id": 4733285,
+				"name": "Scott Hedley",
+				"job": "Assistant Production Coordinator",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4952722,
+				"name": "Paige Reinis",
+				"job": "Assistant Production Coordinator",
+				"department": "Production"
+			},
+			{
+				"id": 4952723,
+				"name": "Mike Puckett",
+				"job": "Production Secretary",
+				"department": "Production"
+			},
+			{
+				"id": 1419114,
+				"name": "Jessica Drake",
+				"job": "Dialect Coach",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 3261843,
+				"name": "Charise Greene",
+				"job": "Dialect Coach",
+				"department": "Crew"
+			},
+			{
+				"id": 3250268,
+				"name": "Marc Winski",
+				"job": "Other",
+				"department": "Crew"
+			},
+			{
+				"id": 2020999,
+				"name": "Deborah Wheatley",
+				"job": "Supervising Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 2379211,
+				"name": "Adam Karavatakis",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 4952724,
+				"name": "Scott Davis",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 3342472,
+				"name": "Katherine Akiko Day",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 4440224,
+				"name": "Brett Martinez",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 4952726,
+				"name": "Elizabeth Stadstad",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 1790341,
+				"name": "Lauren Rockman",
+				"job": "Assistant Art Director",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 4952728,
+				"name": "Henry Blazer",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 4952729,
+				"name": "Ada Smith Keller",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 1790089,
+				"name": "Hugh Sicotte",
+				"job": "Concept Artist",
+				"department": "Art"
+			},
+			{
+				"id": 2047129,
+				"name": "Dan Caplan",
+				"job": "Storyboard Artist",
+				"department": "Art"
+			},
+			{
+				"id": 4610635,
+				"name": "Katya Austin",
+				"job": "Graphic Designer",
+				"department": "Art"
+			},
+			{
+				"id": 3241639,
+				"name": "Abigail Udden",
+				"job": "Art Department Coordinator",
+				"department": "Art"
+			},
+			{
+				"id": 3490280,
+				"name": "Alexandra Engelson",
+				"job": "Clearances Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 1972193,
+				"name": "Keith A. Adams",
+				"job": "Location Manager",
+				"department": "Production"
+			},
+			{
+				"id": 2492071,
+				"name": "Nick Pray",
+				"job": "Assistant Location Manager",
+				"department": "Production"
+			},
+			{
+				"id": 4952733,
+				"name": "Veronica Rioseco",
+				"job": "Assistant Location Manager",
+				"department": "Production"
+			},
+			{
+				"id": 4952734,
+				"name": "Amanda Kim",
+				"job": "Location Coordinator",
+				"department": "Production"
+			}
+		]
+	}
+}
