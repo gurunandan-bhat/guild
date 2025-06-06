@@ -1,0 +1,520 @@
+{
+	"id": 1146210,
+	"title": "Housefull 5",
+	"fcg_title": "Housefull 5",
+	"original_title": "हाउसफ़ूल 5",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 9648,
+			"name": "Mystery"
+		}
+	],
+	"overview": "A father writes his will — his son \"Jolly\" is going to get it all. But who is Jolly? The comedy unfolds as different people pose as the \"real\" Jolly on a cruise celebrating the father's birthday — where a murder takes place.",
+	"backdrop_path": "/8lNbxRsGKzWdtLk6hKdB1z11pjE.jpg",
+	"poster_path": "/iGvGkVOfsooO0ZBrhN5i6zXYUCy.jpg",
+	"release_date": "2025-06-05",
+	"credits": {
+		"cast": [
+			{
+				"id": 35070,
+				"order": 0,
+				"name": "Akshay Kumar",
+				"profile_path": "/1d77rFiN8h2JXE6vS8VCuc2k20J.jpg",
+				"character": "Julius/Jolly No. 3",
+				"gender": 2
+			},
+			{
+				"id": 84957,
+				"order": 1,
+				"name": "Ritesh Deshmukh",
+				"profile_path": "/b4Mwk9dDgMS82269iBX7V1YsOpu.jpg",
+				"character": "Jalabuddin/Jolly No. 1",
+				"gender": 2
+			},
+			{
+				"id": 35793,
+				"order": 2,
+				"name": "Abhishek Bachchan",
+				"profile_path": "/cALtfAvfUtS0Luf8MZaSiLfFRwd.jpg",
+				"character": "Jalbhushan/Jolly No. 2",
+				"gender": 2
+			},
+			{
+				"id": 932503,
+				"order": 3,
+				"name": "Nargis Fakhri",
+				"profile_path": "/9rn5JfF1sthAZFGeZzSFA5Mklf2.jpg",
+				"gender": 1
+			},
+			{
+				"id": 110850,
+				"order": 4,
+				"name": "Chitrangda Singh",
+				"profile_path": "/aGNBgh2aIzhKUgW8iTl20n7tF7g.jpg",
+				"gender": 1
+			},
+			{
+				"id": 1210757,
+				"order": 5,
+				"name": "Sonam Bajwa",
+				"profile_path": "/tWLa5BvZ62MaJNoyqflzByx7WCt.jpg",
+				"gender": 1
+			},
+			{
+				"id": 95505,
+				"order": 6,
+				"name": "Jacqueline Fernandez",
+				"profile_path": "/x7RQ5uI2WFaXOPW1kIe0yUQ0jbe.jpg",
+				"gender": 1
+			},
+			{
+				"id": 81983,
+				"order": 7,
+				"name": "Chunky Pandey",
+				"profile_path": "/2dG7abdDNs3MVmrAa6HEBFKhch4.jpg",
+				"character": "Aakhri Pasta",
+				"gender": 2
+			},
+			{
+				"id": 53974,
+				"order": 8,
+				"name": "Shreyas Talpade",
+				"profile_path": "/rKORFoIrI4GlcIfzzyVwCQNL9no.jpg",
+				"gender": 2
+			},
+			{
+				"id": 85881,
+				"order": 9,
+				"name": "Sanjay Dutt",
+				"profile_path": "/zhYAdzlDMbhWr8ZBVDK02nrwnOJ.jpg",
+				"gender": 2
+			},
+			{
+				"id": 35069,
+				"order": 10,
+				"name": "Fardeen Khan",
+				"profile_path": "/pr3VEjdUTOKSNBFHgwjH9rOT5nC.jpg",
+				"gender": 2
+			},
+			{
+				"id": 86014,
+				"order": 11,
+				"name": "Jackie Shroff",
+				"profile_path": "/1UNJypgEyuihUW2avLLVYj76jie.jpg",
+				"gender": 2
+			},
+			{
+				"id": 86304,
+				"order": 12,
+				"name": "Dino Morea",
+				"profile_path": "/76sUAgf1NYDEPNqED647RgkcsQX.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1488785,
+				"order": 13,
+				"name": "Nora Fatehi",
+				"profile_path": "/jKvLkySOJFUUnUdE7Zo4oPb9ZzM.jpg",
+				"gender": 1
+			},
+			{
+				"id": 87352,
+				"order": 14,
+				"name": "Nikitin Dheer",
+				"profile_path": "/gAHNWVtStTGsqf2uxCegxvn6ILe.jpg",
+				"gender": 2
+			},
+			{
+				"id": 601266,
+				"order": 15,
+				"name": "Ranjeet Bedi",
+				"profile_path": "/fEMTpkUtx29RYBOVTEoXo8BRElC.jpg",
+				"character": "Ranjeet Dobriyal",
+				"gender": 2
+			},
+			{
+				"id": 35819,
+				"order": 16,
+				"name": "Johnny Lever",
+				"profile_path": "/kohAOhKr4HBln8b9P4i1kmMONyi.jpg",
+				"gender": 2
+			},
+			{
+				"id": 84956,
+				"order": 17,
+				"name": "Nana Patekar",
+				"profile_path": "/gnhcslE2k2pgZK9xi1XFNZvZiEs.jpg",
+				"gender": 2
+			},
+			{
+				"id": 3437107,
+				"order": 18,
+				"name": "Akashdeep Sabir",
+				"profile_path": "/jB7TlK40xuLHuCod31RTHGFuyPu.jpg"
+			},
+			{
+				"id": 1874254,
+				"order": 19,
+				"name": "Soundarya Sharma",
+				"gender": 1
+			},
+			{
+				"id": 77235,
+				"order": 20,
+				"name": "Bobby Deol",
+				"profile_path": "/2npVa3PduichY8e7qBiE54m9VVP.jpg",
+				"character": "Cameo",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1108802,
+				"name": "Mukesh Chhabra",
+				"profile_path": "/f5XI2wJs2JPcd5FSECsdcnkyOMW.jpg",
+				"job": "Casting Director",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 146975,
+				"name": "Tarun Mansukhani",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 35086,
+				"name": "Sajid Nadiadwala",
+				"profile_path": "/2O3ySMZ9Dt3e39cbKtmYil3MZ8v.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1264503,
+				"name": "Farhad Samji",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 146975,
+				"name": "Tarun Mansukhani",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 35086,
+				"name": "Sajid Nadiadwala",
+				"profile_path": "/2O3ySMZ9Dt3e39cbKtmYil3MZ8v.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1339737,
+				"name": "V. Manikandan",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 3468516,
+				"name": "Warda Nadiadwala",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1912301,
+				"name": "Firuzi Khan",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 85056,
+				"name": "Rameshwar S. Bhagat",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 5413269,
+				"name": "Dipti Dinesh Jindal",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2441798,
+				"name": "Harish Iyer",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5413271,
+				"name": "Stuti Khanna",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1540835,
+				"name": "Rajnish Hedao",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 85400,
+				"name": "Rajat Poddar",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1755493,
+				"name": "Parvez Shaikh",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 85053,
+				"name": "Julius Packiam",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 1668228,
+				"name": "Adil Shaikh",
+				"job": "Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 1170143,
+				"name": "Remo D'Souza",
+				"profile_path": "/iCCUtRN2ucH8hIRwTr1DKurln7c.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1078260,
+				"name": "Yo Yo Honey Singh",
+				"profile_path": "/w54B446zi7xrdq0vEBNplMDMM6K.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1279371,
+				"name": "Sachin Sanghvi",
+				"profile_path": "/eU5IcGfWX8Ttv3hLNZnFbkno3Ev.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1279372,
+				"name": "Jigar Saraiya",
+				"profile_path": "/r9vcvfVmc7aybWEB3vHYJiUSNJP.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1775462,
+				"name": "Tanishk Bagchi",
+				"profile_path": "/lTNruwralNeUIDHBx3SC22yQOqv.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5413272,
+				"name": "Kratex",
+				"job": "Music",
+				"department": "Sound"
+			},
+			{
+				"id": 1078260,
+				"name": "Yo Yo Honey Singh",
+				"profile_path": "/w54B446zi7xrdq0vEBNplMDMM6K.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 233065,
+				"name": "Kumaar",
+				"profile_path": "/9sHLGuvqvmfbeh9RiaYROVQ2VUy.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2196263,
+				"name": "Alfaaz",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 5413272,
+				"name": "Kratex",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 5413273,
+				"name": "Pratik Borkar",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 5413274,
+				"name": "Patya The Doc",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 1744509,
+				"name": "Rohit Chaturvedi",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2278070,
+				"name": "Sanam Ratansi",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5413275,
+				"name": "Rajasi Datar",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1586801,
+				"name": "Parikshit Lalwani",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 1586803,
+				"name": "Kunal Uday Mehta",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1616622,
+				"name": "Bibin Dev",
+				"job": "Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 2469461,
+				"name": "Yassine Nchoubi",
+				"job": "Colorist",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 5413278,
+				"name": "Deep Majithia",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 1832557,
+				"name": "Sam Bhattacharjee",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1835119,
+				"name": "Sanjiv Naik",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 3777476,
+				"name": "Marching Ants",
+				"job": "Publicist",
+				"department": "Production"
+			},
+			{
+				"id": 2166281,
+				"name": "Amit Chandrra",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 967,
+				"name": "Iain Andrews",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1912303,
+				"name": "Rachita Kapoor",
+				"job": "Casting Director",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 4681973,
+				"name": "Coco Bond",
+				"profile_path": "/6C0MI5QvMLQXNUSX8akxgy0mlSD.jpg",
+				"job": "Greensman",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 5210193,
+				"name": "Dutch Loveridge",
+				"profile_path": "/qtzPmObtNk86eX58bDUV8LkyB0O.jpg",
+				"job": "Greensman",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 5042353,
+				"name": "Eashveraam Thiruselvam",
+				"profile_path": "/bPJiXWcOyR7PvQKFiNUS5DTXGEw.jpg",
+				"job": "Greensman",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 5042353,
+				"name": "Eashveraam Thiruselvam",
+				"profile_path": "/bPJiXWcOyR7PvQKFiNUS5DTXGEw.jpg",
+				"job": "Location Assistant",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4681973,
+				"name": "Coco Bond",
+				"profile_path": "/6C0MI5QvMLQXNUSX8akxgy0mlSD.jpg",
+				"job": "Location Assistant",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5210193,
+				"name": "Dutch Loveridge",
+				"profile_path": "/qtzPmObtNk86eX58bDUV8LkyB0O.jpg",
+				"job": "Location Assistant",
+				"department": "Production",
+				"gender": 2
+			}
+		]
+	}
+}
