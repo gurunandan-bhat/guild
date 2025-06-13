@@ -1,0 +1,50 @@
+{
+	"id": 203202,
+	"name": "Rana Naidu",
+	"fcg_title": "Rana Naidu S02",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 9648,
+			"name": "Mystery"
+		}
+	],
+	"overview": "Rana Naidu can solve any problem in Bollywood. But when his father is suddenly released from prison, the one mess he can’t handle may be his own.",
+	"backdrop_path": "/cLQZv8KxWVrsSgm4sbuQSixPgH9.jpg",
+	"poster_path": "/4kUF7cO76W4vEx70KVfwmju6Vud.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 215910,
+				"order": 0,
+				"name": "Rana Daggubati",
+				"profile_path": "/dCQE1CoWWc6RoXUTxOKjAXO8KDr.jpg",
+				"character": "Rana Naidu",
+				"gender": 2
+			},
+			{
+				"id": 88166,
+				"order": 1,
+				"name": "Venkatesh",
+				"profile_path": "/t5PWjy177ZTUM6wdjaVjqp5FLJq.jpg",
+				"character": "Naga Naidu",
+				"gender": 2
+			},
+			{
+				"id": 52263,
+				"order": 22,
+				"name": "Arjun Rampal",
+				"profile_path": "/1ghoclpJvFixkr9HJluoj097PnW.jpg",
+				"gender": 2
+			}
+		]
+	}
+}

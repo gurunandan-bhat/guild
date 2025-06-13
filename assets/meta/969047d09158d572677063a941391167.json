@@ -1,0 +1,467 @@
+{
+	"id": 1136867,
+	"title": "Materialists",
+	"fcg_title": "Materialists",
+	"original_title": "Materialists",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 10749,
+			"name": "Romance"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 35,
+			"name": "Comedy"
+		}
+	],
+	"overview": "A young, ambitious New York City matchmaker finds herself torn between the perfect match and her imperfect ex.",
+	"backdrop_path": "/ApxZ5D5z0DE5baw1F2IXe0BVwsl.jpg",
+	"poster_path": "/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg",
+	"release_date": "2025-06-12",
+	"credits": {
+		"cast": [
+			{
+				"id": 118545,
+				"order": 0,
+				"name": "Dakota Johnson",
+				"profile_path": "/qFek0KqpaPV5mVyHHNfAapDE9Tj.jpg",
+				"character": "Lucy",
+				"gender": 1
+			},
+			{
+				"id": 16828,
+				"order": 1,
+				"name": "Chris Evans",
+				"profile_path": "/3bOGNsHlrswhyW79uvIHH1V43JI.jpg",
+				"character": "John",
+				"gender": 2
+			},
+			{
+				"id": 1253360,
+				"order": 2,
+				"name": "Pedro Pascal",
+				"profile_path": "/9VYK7oxcqhjd5LAH6ZFJ3XzOlID.jpg",
+				"character": "Harry",
+				"gender": 2
+			},
+			{
+				"id": 209063,
+				"order": 3,
+				"name": "Zoe Winters",
+				"profile_path": "/3Ej5luqqvdD3hZXAzFZbdRxj7CQ.jpg",
+				"character": "Sophie",
+				"gender": 1
+			},
+			{
+				"id": 164094,
+				"order": 4,
+				"name": "Marin Ireland",
+				"profile_path": "/jAIOQNraHjvIAdqk81QDV5Phupp.jpg",
+				"character": "Violet",
+				"gender": 1
+			},
+			{
+				"id": 1717627,
+				"order": 5,
+				"name": "Dasha Nekrasova",
+				"profile_path": "/iEWg6G96sOtzRphRlJCVjw7TQOt.jpg",
+				"character": "Daisy",
+				"gender": 1
+			},
+			{
+				"id": 5423208,
+				"order": 6,
+				"name": "Emmy Wheeler",
+				"character": "Rose"
+			},
+			{
+				"id": 2527631,
+				"order": 7,
+				"name": "Louisa Jacobson",
+				"profile_path": "/7SM6mv5zuPr99prZ5jiFEidtW4T.jpg",
+				"character": "Charlotte",
+				"gender": 1
+			},
+			{
+				"id": 25987,
+				"order": 8,
+				"name": "Eddie Cahill",
+				"profile_path": "/duEjKuDs0UAMknHrKzQF2FcWcYC.jpg",
+				"character": "Robert",
+				"gender": 2
+			},
+			{
+				"id": 1782152,
+				"order": 9,
+				"name": "Sawyer Spielberg",
+				"profile_path": "/lntpmCf2ePFwSYC1qdfI31IFUob.jpg",
+				"character": "Mason",
+				"gender": 2
+			},
+			{
+				"id": 2125528,
+				"order": 10,
+				"name": "Joseph Lee",
+				"profile_path": "/77OZFr81qHDJl9JE9xAnsMj7Iuo.jpg",
+				"character": "Trevor",
+				"gender": 2
+			},
+			{
+				"id": 37154,
+				"order": 11,
+				"name": "John Magaro",
+				"profile_path": "/ah4Jm4Lmrgab9xdHwRId80S4REd.jpg",
+				"character": "Mark P. (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1545208,
+				"order": 12,
+				"name": "Nedra Marie Taylor",
+				"profile_path": "/xn8Zvc3e5UVgvy4YzM9Vi4Gfjhi.jpg",
+				"character": "Audrey",
+				"gender": 1
+			},
+			{
+				"id": 3175017,
+				"order": 13,
+				"name": "Sietzka Rose",
+				"character": "Eleanor",
+				"gender": 1
+			},
+			{
+				"id": 928396,
+				"order": 14,
+				"name": "Halley Feiffer",
+				"profile_path": "/dfiugl9mWHXhZDEbxamjDSEpxf7.jpg",
+				"character": "Patricia",
+				"gender": 1
+			},
+			{
+				"id": 1768319,
+				"order": 15,
+				"name": "Madeline Wise",
+				"profile_path": "/8au11zMSOm2dRPUi6akSf3FpSdz.jpg",
+				"character": "Beth",
+				"gender": 1
+			},
+			{
+				"id": 3753551,
+				"order": 16,
+				"name": "Ian Stuart",
+				"character": "Logan",
+				"gender": 2
+			},
+			{
+				"id": 2402964,
+				"order": 17,
+				"name": "Dan Domenech",
+				"character": "Ron",
+				"gender": 2
+			},
+			{
+				"id": 1217885,
+				"order": 18,
+				"name": "Emiliano Díez",
+				"profile_path": "/mv7lm5cj9TtIguIutBK4YBxji3d.jpg",
+				"character": "Harry's Father",
+				"gender": 2
+			},
+			{
+				"id": 1370983,
+				"order": 19,
+				"name": "Rachel Zeiger-Haag",
+				"profile_path": "/wiWMXEHfy1mkra3itCCt5LODfe.jpg",
+				"character": "Jenn",
+				"gender": 1
+			},
+			{
+				"id": 90777,
+				"order": 20,
+				"name": "Alison Bartlett",
+				"profile_path": "/ryF35dFdKhJTEhefzIRrfWvRwt0.jpg",
+				"character": "Jaime",
+				"gender": 1
+			},
+			{
+				"id": 208307,
+				"order": 21,
+				"name": "Lindsey Broad",
+				"profile_path": "/pYAwb4RjSQnxkvqdJr51rhHXh02.jpg",
+				"character": "Linda",
+				"gender": 1
+			},
+			{
+				"id": 5423215,
+				"order": 22,
+				"name": "Baby Rose",
+				"character": "Wedding Singer"
+			}
+		],
+		"crew": [
+			{
+				"id": 5669,
+				"name": "Douglas Aibel",
+				"profile_path": "/vpB6bSIQd4PODpr7mHRjDlXx2VF.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3179030,
+				"name": "Nick Stergiopoulos",
+				"job": "Script Supervisor",
+				"department": "Directing"
+			},
+			{
+				"id": 1949332,
+				"name": "Katina Danabassis",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 65916,
+				"name": "Amy Beth Silver",
+				"job": "Set Decoration",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1465968,
+				"name": "Anthony Gasparro",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1403392,
+				"name": "Molly Mikula",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 2518227,
+				"name": "Celine Song",
+				"profile_path": "/y3LRIOp63f96fCSf2eTANgY8bQU.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 2027165,
+				"name": "Shabier Kirchner",
+				"profile_path": "/6oeKHwu4iFJrCqnLQ1kEFpMa47g.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 57427,
+				"name": "Pamela Koffler",
+				"profile_path": "/qQy5FkCyXt6CXjUio7T0XRTRwRw.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2862,
+				"name": "Christine Vachon",
+				"profile_path": "/INKu6dXw0DwiUqsK6Gw64Ygefd.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1396479,
+				"name": "David Hinojosa",
+				"profile_path": "/6wXWh5kp0cbUbQrVrEY2TBl7BWW.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2518227,
+				"name": "Celine Song",
+				"profile_path": "/y3LRIOp63f96fCSf2eTANgY8bQU.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 4337771,
+				"name": "Thurman Martin III",
+				"profile_path": "/eyeqgSRnOBJQ77cqMdTX8W4t39X.jpg",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2575675,
+				"name": "Maggie Ambrose",
+				"job": "Unit Production Manager",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1409532,
+				"name": "Keith Fraase",
+				"profile_path": "/gt7mqoLKlVW699qhWFn1GyCsDus.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1843562,
+				"name": "Dimitri Kouri",
+				"job": "Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 2738041,
+				"name": "Ben Kahn",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2370457,
+				"name": "Alice Johnson",
+				"job": "Second Assistant Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 1990729,
+				"name": "Yuval Levy",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2376069,
+				"name": "Becca GT",
+				"profile_path": "/6j9YZxgbLQ3F0cJedJ0l2L5OceG.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1528942,
+				"name": "Meghan Currier",
+				"job": "Music Supervisor",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 2349897,
+				"name": "Matthew Glasner",
+				"job": "Casting Associate",
+				"department": "Production"
+			},
+			{
+				"id": 5130327,
+				"name": "Jesse Getchell",
+				"job": "Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 582922,
+				"name": "Daniel Pemberton",
+				"profile_path": "/dPcjpSoCg1nraqCUD4tvRK3QtHQ.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1966045,
+				"name": "Taylor Shung",
+				"profile_path": "/1HWlxy8Q1tJu9r8m9yars1qdhsQ.jpg",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2436813,
+				"name": "Danny Cohen",
+				"profile_path": "/24FRYjhzER7PMZ00Pce1E2s6WzU.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1507471,
+				"name": "Len Blavatnik",
+				"profile_path": "/wRTPDTUO8SmVo6DHK97dXzRE6Hw.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2069435,
+				"name": "Andrea Scarso",
+				"profile_path": "/Atvo4gLMaNgpVlikJvFmSnP621S.jpg",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2267693,
+				"name": "Timo Argillander",
+				"profile_path": "/qrqWKP3smHBJT6xMSbO9W0jT60c.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2518227,
+				"name": "Celine Song",
+				"profile_path": "/y3LRIOp63f96fCSf2eTANgY8bQU.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 1496409,
+				"name": "Daniel Timmons",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1496409,
+				"name": "Daniel Timmons",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2487680,
+				"name": "Michelle Zauner",
+				"job": "Songs",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 2738041,
+				"name": "Ben Kahn",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2155028,
+				"name": "Danielle Kampf",
+				"profile_path": "/6FuN9ghLC8gCncD0yiIctpCurxv.jpg",
+				"job": "Production Assistant",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1308210,
+				"name": "Ryan Billia",
+				"profile_path": "/8IsxRx8Ny0xOMFS5yCpUjhgmIHA.jpg",
+				"job": "Sound Effects Editor",
+				"department": "Sound",
+				"gender": 2
+			}
+		]
+	}
+}
