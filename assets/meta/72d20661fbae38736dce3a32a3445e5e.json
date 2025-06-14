@@ -1,0 +1,440 @@
+{
+	"id": 1087192,
+	"title": "How to Train Your Dragon",
+	"fcg_title": "How to Train Your Dragon",
+	"original_title": "How to Train Your Dragon",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 10751,
+			"name": "Family"
+		},
+		{
+			"id": 14,
+			"name": "Fantasy"
+		}
+	],
+	"overview": "On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup stands apart, defying centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society.",
+	"backdrop_path": "/7HqLLVjdjhXS0Qoz1SgZofhkIpE.jpg",
+	"poster_path": "/q5pXRYTycaeW6dEgsCrd4mYPmxM.jpg",
+	"release_date": "2025-06-06",
+	"credits": {
+		"cast": [
+			{
+				"id": 2803710,
+				"order": 0,
+				"name": "Mason Thames",
+				"profile_path": "/2BLyvOUZbjsH83bdpFLqFkMY7pl.jpg",
+				"character": "Hiccup Horrendous Haddock III",
+				"gender": 2
+			},
+			{
+				"id": 2064124,
+				"order": 1,
+				"name": "Nico Parker",
+				"profile_path": "/gt0NJClVSCPCEfcPgcLj3f85uLa.jpg",
+				"character": "Astrid Hofferson",
+				"gender": 1
+			},
+			{
+				"id": 17276,
+				"order": 2,
+				"name": "Gerard Butler",
+				"profile_path": "/n7sTgAGHyL3u9KIOVWjVLRA1fyi.jpg",
+				"character": "Stoick the Vast",
+				"gender": 2
+			},
+			{
+				"id": 11109,
+				"order": 3,
+				"name": "Nick Frost",
+				"profile_path": "/2CHS4t6miNGLgMQAjhFqb4fFuKS.jpg",
+				"character": "Gobber the Belch",
+				"gender": 2
+			},
+			{
+				"id": 1139349,
+				"order": 4,
+				"name": "Julian Dennison",
+				"profile_path": "/jp1phhrj8lT4NWQpztqi0FmM94i.jpg",
+				"character": "Fishlegs Ingerman",
+				"gender": 2
+			},
+			{
+				"id": 3792786,
+				"order": 5,
+				"name": "Gabriel Howell",
+				"profile_path": "/u3PTI9FlrpGFZVMoHXZZBiYWMCl.jpg",
+				"character": "Snoutlout Jorgenson",
+				"gender": 2
+			},
+			{
+				"id": 1587577,
+				"order": 6,
+				"name": "Bronwyn James",
+				"profile_path": "/WFBGOLDSdboy2TltOVfpm07z9V.jpg",
+				"character": "Ruffnut Thorston",
+				"gender": 1
+			},
+			{
+				"id": 2104260,
+				"order": 7,
+				"name": "Harry Trevaldwyn",
+				"profile_path": "/dPWnnndBFSgEPSLGyvhbl6Kt8Om.jpg",
+				"character": "Tuffnut Thorston",
+				"gender": 2
+			},
+			{
+				"id": 3295331,
+				"order": 8,
+				"name": "Ruth Codd",
+				"profile_path": "/zNMtd2SJ9WLVqVRMRjlSLGJ6W7e.jpg",
+				"character": "Phlegma",
+				"gender": 1
+			},
+			{
+				"id": 11115,
+				"order": 9,
+				"name": "Peter Serafinowicz",
+				"profile_path": "/atXOX0UQzIZkcnpNj1cluBdHwAE.jpg",
+				"character": "Spitelout Jorgenson",
+				"gender": 2
+			},
+			{
+				"id": 1216581,
+				"order": 10,
+				"name": "Murray McArthur",
+				"profile_path": "/aW9Ib3PzKuWuSd0YrTIbFLGX877.jpg",
+				"character": "Hoark",
+				"gender": 2
+			},
+			{
+				"id": 5495972,
+				"order": 11,
+				"name": "Jacob Bramovich",
+				"profile_path": "/oAe5V4VxoVtBkPxy5RxTdpcek1F.jpg",
+				"character": "Spitefulous Destrudios",
+				"gender": 3
+			}
+		],
+		"crew": [
+			{
+				"id": 73453,
+				"name": "Adam Siegel",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 69797,
+				"name": "Dean DeBlois",
+				"profile_path": "/qdp7vc24XR836glg8mwHBEEZE6C.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 23485,
+				"name": "Marc Platt",
+				"profile_path": "/AdhoMikWWe1vjar68fuvekURno2.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 69797,
+				"name": "Dean DeBlois",
+				"profile_path": "/qdp7vc24XR836glg8mwHBEEZE6C.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 69797,
+				"name": "Dean DeBlois",
+				"profile_path": "/qdp7vc24XR836glg8mwHBEEZE6C.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 11098,
+				"name": "John Powell",
+				"profile_path": "/trywZMdhKM04PL1lH5OECXRxL1u.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 9341,
+				"name": "Bill Pope",
+				"profile_path": "/kpakvuSrk1D9D8WMt5SOi4Rs2EV.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 59533,
+				"name": "Lindsay Pugh",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 27032,
+				"name": "Dominic Watkins",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1431500,
+				"name": "Daniel Birt",
+				"profile_path": "/onKVjsF6qtNkbFY8IPkCVexkmKv.jpg",
+				"job": "Set Decoration",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 64150,
+				"name": "Cressida Cowell",
+				"profile_path": "/z0E63bgCszJjWAEeD4uIwfCWwOZ.jpg",
+				"job": "Book",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 2441229,
+				"name": "Oleg Podobin",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 983309,
+				"name": "Mike Stallion",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 23424,
+				"name": "Lucy Bevan",
+				"profile_path": "/hT17FBbxl9gXD5IdieHKoydRcb4.jpg",
+				"job": "Casting Director",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1368849,
+				"name": "Wyatt Smith",
+				"profile_path": "/6Z8C9kl4LRMxT9wzAZvT4qgCO0n.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 66193,
+				"name": "Chris Sanders",
+				"profile_path": "/6CtrIOCxggJ5eIAWeFQqd4Hs9FP.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 42267,
+				"name": "Randy Thom",
+				"profile_path": "/oWv5U4r7NcIlQjs0IxMWE3dsx2l.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 71579,
+				"name": "David Allday",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1326451,
+				"name": "Thomas Brown",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1394119,
+				"name": "David Doran",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1458979,
+				"name": "Til Frohlich",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 2151796,
+				"name": "Fraser Fennell-Ball",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2769359,
+				"name": "Ben Wright",
+				"profile_path": "/a6buIXOJAVBlZ2OkDVyotEETyn.jpg",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1760465,
+				"name": "Archie Campbell-Baldwin",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 2812892,
+				"name": "Kerry-Ellen Maxwell",
+				"job": "Standby Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 113073,
+				"name": "Paul Massey",
+				"profile_path": "/tWhvSEIPMJVrxeWZ1deVGbMxZLY.jpg",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1445838,
+				"name": "Leff Lefferts",
+				"profile_path": "/6fEZUflQtYCHoGxCkimBIuu1aTm.jpg",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1445838,
+				"name": "Leff Lefferts",
+				"profile_path": "/6fEZUflQtYCHoGxCkimBIuu1aTm.jpg",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1561360,
+				"name": "Brian Chumney",
+				"profile_path": "/hioKZVbtglGhL0rdI9mjqf2AwEe.jpg",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1553295,
+				"name": "David Cain",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1516077,
+				"name": "Michael A. Connolly",
+				"profile_path": "/cOhSHNUcPiVpCo9UYOBkWKO0ZRg.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5322187,
+				"name": "Ryan Kearney",
+				"job": "Textile Artist",
+				"department": "Art"
+			},
+			{
+				"id": 1379059,
+				"name": "Lizzie Pritchard",
+				"job": "Script Supervisor",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 1394284,
+				"name": "Christian Manz",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1341268,
+				"name": "Christopher Raimo",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2020341,
+				"name": "François Lambert",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1410185,
+				"name": "Andy Kind",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2559404,
+				"name": "Glenn Melenhorst",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 3504,
+				"name": "David Farmer",
+				"profile_path": "/oYNchEjc32GucUPvXAHMXajk3xJ.jpg",
+				"job": "Sound Effects Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1411137,
+				"name": "Jonathan Spencer",
+				"job": "Chief Lighting Technician",
+				"department": "Lighting",
+				"gender": 2
+			},
+			{
+				"id": 1784598,
+				"name": "Tom Hannibal",
+				"job": "Visual Effects Editor",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1318874,
+				"name": "Alessandro Bertolazzi",
+				"profile_path": "/4ecSHCiF3EQ0ihRE28krmJqunCR.jpg",
+				"job": "Hair Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1318874,
+				"name": "Alessandro Bertolazzi",
+				"profile_path": "/4ecSHCiF3EQ0ihRE28krmJqunCR.jpg",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			}
+		]
+	}
+}

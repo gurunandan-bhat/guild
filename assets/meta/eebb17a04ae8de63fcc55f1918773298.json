@@ -1,0 +1,44 @@
+{
+	"id": 293690,
+	"name": "Gamerlog",
+	"fcg_title": "Gamerlog",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 10751,
+			"name": "Family"
+		}
+	],
+	"overview": "A teen gaming prodigy joins an underdog Mumbai esports team challenging the champion Wolfclan. As they pursue glory, Raghu seeks Joanna's love while hiding secrets from his past.",
+	"poster_path": "/j6i7S4E6ryjmNlPI2yyv5Wtjca9.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 5007268,
+				"order": 0,
+				"name": "Kunal Bhan",
+				"character": "Ishaan"
+			},
+			{
+				"id": 5500499,
+				"order": 1,
+				"name": "Anjali Sivaraman",
+				"character": "Joanna"
+			},
+			{
+				"id": 5500500,
+				"order": 2,
+				"name": "Darsheel Safary",
+				"character": "Raghu"
+			}
+		]
+	}
+}
