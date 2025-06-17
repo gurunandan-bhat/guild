@@ -1,6 +1,6 @@
 +++
 title = 'Thug Life'
-date = 2025-06-16T17:12:23+05:30
+date = 2025-06-05T17:12:23+05:30
 draft = false
 mreviews = ["Thug Life"]
 critics = ['Sudhir Srinivasan']
