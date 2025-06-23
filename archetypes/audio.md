@@ -7,6 +7,7 @@ mreviews = ["{{ $title }}"]
 critics = ['']
 subtitle = ""
 opening = ""
+img = '{{ .File.ContentBaseName }}.'
 media = 'audio'
 score =
 +++
