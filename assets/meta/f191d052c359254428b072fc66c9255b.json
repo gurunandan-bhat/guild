@@ -1,0 +1,99 @@
+{
+	"id": 101352,
+	"name": "Panchayat",
+	"fcg_title": "Panchayat S04",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Panchayat is a comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a panchayat office in a remote village of Uttar Pradesh. Stuck between crazy villagers and a difficult village lifestyle Abhishek starts his job with the sole motivation of getting out of there as soon as possible, for which he even prepares for CAT.",
+	"backdrop_path": "/iZ8EtGAqKWZdRJPzWfFseNfVxjh.jpg",
+	"poster_path": "/cPPhduQk1eX0MAE2JDaQRh3UZB5.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 1485519,
+				"order": 0,
+				"name": "Jitendra Kumar",
+				"profile_path": "/562Mucw9YaDHUlFBqK5aot3H2lJ.jpg",
+				"character": "Abhishek Tripathi",
+				"gender": 2
+			},
+			{
+				"id": 52974,
+				"order": 1,
+				"name": "Raghubir Yadav",
+				"profile_path": "/khyp4vnuGKVxrtszyB7kSf3vuzw.jpg",
+				"character": "Brij Bhushan Dubey",
+				"gender": 2
+			},
+			{
+				"id": 583509,
+				"order": 2,
+				"name": "Neena Gupta",
+				"profile_path": "/znCPPYR79c1DU2MvA61JXhdMeCs.jpg",
+				"character": "Manju Devi",
+				"gender": 1
+			},
+			{
+				"id": 2587938,
+				"order": 3,
+				"name": "Chandan Roy",
+				"profile_path": "/2zIIonCsFrdcmmZD0g5YIaCPnQY.jpg",
+				"character": "Vikas",
+				"gender": 2
+			},
+			{
+				"id": 2268369,
+				"order": 4,
+				"name": "Faisal Malik",
+				"profile_path": "/eztI7Y1VUqHz7OYZ4ytoyEz0amz.jpg",
+				"character": "Prahlad Pandey",
+				"gender": 2
+			},
+			{
+				"id": 1294159,
+				"order": 7,
+				"name": "Durgesh Kumar",
+				"profile_path": "/nLt1cgrxIapn7fRVwFjqnSFXc1x.jpg",
+				"character": "Bhushan Sharma",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 2306065,
+				"name": "Deepak Kumar Mishra",
+				"profile_path": "/eP1QQVEAaQ21LpwPzkQUiQoPDv8.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 3088292,
+				"name": "Amit Kulkarni",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1674529,
+				"name": "Anurag Saikia",
+				"job": "Music",
+				"department": "Sound"
+			},
+			{
+				"id": 3131882,
+				"name": "Chandan Kumar",
+				"job": "Writer",
+				"department": "Writing"
+			}
+		]
+	}
+}
