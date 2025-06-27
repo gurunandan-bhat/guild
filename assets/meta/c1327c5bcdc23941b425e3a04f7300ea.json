@@ -1,0 +1,227 @@
+{
+	"id": 1232232,
+	"title": "Kannappa",
+	"fcg_title": "Kannappa",
+	"original_title": "కన్నప్ప",
+	"original_language": "te",
+	"genres": [
+		{
+			"id": 14,
+			"name": "Fantasy"
+		},
+		{
+			"id": 36,
+			"name": "History"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "After witnessing the cruel sacrifice of his childhood friend, an atheist warrior rejects religion until love forces him to find his own faith.",
+	"backdrop_path": "/sq07TPUrruUkLsU0apGchnRmWlN.jpg",
+	"poster_path": "/6LhE7IwhXgaNi33l0ltYahIB91i.jpg",
+	"release_date": "2025-06-26",
+	"credits": {
+		"cast": [
+			{
+				"id": 1060293,
+				"order": 0,
+				"name": "Vishnu Manchu",
+				"profile_path": "/g0wi6kP54JK2B1312pwiEexihFB.jpg",
+				"character": "Kannappa",
+				"gender": 2
+			},
+			{
+				"id": 4550863,
+				"order": 1,
+				"name": "Preity Mukhundhan",
+				"profile_path": "/m3qGm6zD2MIye4PB0OaeaS6wc9v.jpg",
+				"gender": 1
+			},
+			{
+				"id": 35070,
+				"order": 2,
+				"name": "Akshay Kumar",
+				"profile_path": "/1d77rFiN8h2JXE6vS8VCuc2k20J.jpg",
+				"character": "Shiva",
+				"gender": 2
+			},
+			{
+				"id": 585268,
+				"order": 3,
+				"name": "Mohan Babu",
+				"profile_path": "/zwqcXtnk0ju0nhuhvZXSLL2nLIy.jpg",
+				"gender": 2
+			},
+			{
+				"id": 82732,
+				"order": 4,
+				"name": "Mohanlal",
+				"profile_path": "/4oQtVIfXVpQESBgkjI9j9v7jMkQ.jpg",
+				"character": "Kirata",
+				"gender": 2
+			},
+			{
+				"id": 237045,
+				"order": 5,
+				"name": "Prabhas",
+				"profile_path": "/6naZ3oybdCtfggc5pTrcBDxOXrP.jpg",
+				"character": "Rudra",
+				"gender": 2
+			},
+			{
+				"id": 113809,
+				"order": 6,
+				"name": "Kajal Agarwal",
+				"profile_path": "/hIV5HeHM9xUxhbDdhtM8q56AuXE.jpg",
+				"character": "Parvathy",
+				"gender": 1
+			},
+			{
+				"id": 237683,
+				"order": 7,
+				"name": "R. Sarathkumar",
+				"profile_path": "/x2Bx2mxOvgvRzaLFlpKNGmKYkK2.jpg",
+				"gender": 2
+			},
+			{
+				"id": 113810,
+				"order": 8,
+				"name": "Brahmanandam",
+				"profile_path": "/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
+				"gender": 2
+			},
+			{
+				"id": 229116,
+				"order": 9,
+				"name": "Madhoo",
+				"profile_path": "/bBRTCNgnpNrcZQPC5jodkGPvx5W.jpg",
+				"gender": 1
+			},
+			{
+				"id": 585404,
+				"order": 10,
+				"name": "Mukesh Rishi",
+				"profile_path": "/3MogbprwvLPXk2ZaVPz4DHnNk7J.jpg",
+				"gender": 2
+			},
+			{
+				"id": 213432,
+				"order": 11,
+				"name": "Brahmaji",
+				"profile_path": "/xDTE7POq1bkyjLINxdy7rW4wQlg.jpg",
+				"gender": 2
+			},
+			{
+				"id": 237678,
+				"order": 12,
+				"name": "Aishwarya Bhaskar",
+				"profile_path": "/u6fnO7WBtfD8DV3bNaMJoPku4x.jpg",
+				"gender": 1
+			},
+			{
+				"id": 5501867,
+				"order": 13,
+				"name": "Josita Anola Rodrigues",
+				"profile_path": "/vPDtg3vzFNCH1duf6cvaFA22IzV.jpg",
+				"character": "Josita Rodrigues",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 1107020,
+				"name": "Gopalakrishna Paruchuri",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 585268,
+				"name": "Mohan Babu",
+				"profile_path": "/zwqcXtnk0ju0nhuhvZXSLL2nLIy.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1060293,
+				"name": "Vishnu Manchu",
+				"profile_path": "/g0wi6kP54JK2B1312pwiEexihFB.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4485150,
+				"name": "Mukesh Kumar Singh",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 225317,
+				"name": "Mani Sharma",
+				"profile_path": "/99QZjwoHVgDxH6FJ5apNNaS0aAP.jpg",
+				"job": "Sound",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 89154,
+				"name": "Prabhu Deva",
+				"profile_path": "/lfVxoyweEPkIu6zFa44ajPuSJA1.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 4774863,
+				"name": "Haswath",
+				"job": "Public Relations",
+				"department": "Crew"
+			},
+			{
+				"id": 3311360,
+				"name": "Sai Sathish Parvathaneni",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1569960,
+				"name": "Sheldon Chau",
+				"profile_path": "/bz0F90kOxsagckbWG7D1EYFu8r3.jpg",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1337264,
+				"name": "Stephen Devassy",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 81090,
+				"name": "Anthony",
+				"profile_path": "/zNKpopeEnQUqmHBdqqAYRfkcBhZ.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1667438,
+				"name": "Kaecha Kampakdee",
+				"job": "Fight Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 2222244,
+				"name": "Dhani Aelay",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 2
+			}
+		]
+	}
+}
