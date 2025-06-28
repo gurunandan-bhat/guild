@@ -1,6 +1,6 @@
 +++
 title = "Ground Zero"
-date = 2025-06-28T18:17:25+05:30
+date = 2025-06-25T18:17:25+05:30
 draft = false
 mreviews = ["Ground Zero"]
 critics = ['Rohan Naahar']
