@@ -1,0 +1,44 @@
+{
+	"id": 294409,
+	"name": "Mistry",
+	"fcg_title": "Mistry",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 9648,
+			"name": "Mystery"
+		}
+	],
+	"overview": "Armaan Mistry is a brilliant ex-cop, who can solve the toughest of cases with no qualms. Just one problem: he has extreme OCD.",
+	"backdrop_path": "/bvTMfJsuvUfcFapEnwa3jYAfUzB.jpg",
+	"poster_path": "/7f6E0EcFcWNWgsUXrKo379iSo4S.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 112953,
+				"order": 0,
+				"name": "Ram Kapoor",
+				"profile_path": "/9oZ2btv1Sk6XAzosGzrqujutVoK.jpg",
+				"gender": 2
+			},
+			{
+				"id": 99711,
+				"order": 1,
+				"name": "Mona Singh",
+				"profile_path": "/fBl5KYnlKY8HDUqlTs64xbDZtU8.jpg",
+				"gender": 1
+			},
+			{
+				"id": 87377,
+				"order": 2,
+				"name": "Shikha Talsania",
+				"profile_path": "/qrcQ2xnofoxvPp5fjXuqyXxhY08.jpg",
+				"gender": 1
+			}
+		]
+	}
+}
