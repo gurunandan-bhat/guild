@@ -1,7 +1,7 @@
 +++
 title = "Love Marriage"
 date = 2025-06-29T11:02:45+05:30
-draft = true
+draft = false
 mreviews = ["Love Marriage"]
 critics = ['Janani K']
 publication = ''
