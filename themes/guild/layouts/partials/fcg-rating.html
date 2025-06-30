@@ -1,17 +1,9 @@
 {{ $title := index . "title" }}
-{{ $size := index . "size" }}
-{{ $reviews := index site.Taxonomies.mreviews (lower $title) }}
-{{ $score := 0 }}
-{{ $outOf := 0 }}
-{{ range $reviews }}
-    {{ with .Params.score }}
-        {{ $score = add $score . }}
-        {{ $outOf = add $outOf 1 }}
-    {{ end }}
-{{ end }}
+{{ $score := partial "fcg-rating-raw" $title }}
 {{ $path := "" }}
-{{ if ge $outOf 3 }}
-    {{ $score = math.Round (div (cast.ToFloat $score) $outOf) }}
-    {{ $path = printf "/images/scores/%s%s.png" $size (cast.ToString $score) }}
+{{ if gt $score 0 }}
+    {{ $res := resources.Get (printf "/images/new-scores/%s.png" (cast.ToString $score)) }}
+    {{ $path =  $res.RelPermalink }}
 {{ end }}
+{{ debug.Dump $path }}
 {{ return $path }}

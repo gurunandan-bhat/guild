@@ -10,8 +10,8 @@
         {{ $outOf = add $outOf 1 }}
     {{ end }}
 {{ end }}
-{{ if ge (cast.ToInt $outOf) 3 }}
-    {{ $score = math.Round (div $score $outOf) }}
+{{ if ge $outOf 3 }}
+    {{ $score = math.Round (div (math.Product 10 $score) $outOf) }}
 {{ else }}
     {{ $score = 0 }}
 {{ end }}

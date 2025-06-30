@@ -1,5 +1,5 @@
 {{ $page := . }}
-{{ $scoreImg := partial "svg-rating.html" (dict "title" $page.LinkTitle "size" "small") }}
+{{ $scoreImg := partial "fcg-rating.html" (dict "title" $page.LinkTitle) }}
 {{ $pageImage := $page.Params.img }}
 {{ $languages := site.Data.languages.languages }}
 {{ $reviewLink := partial "taxonomy/mreviews/reviewLink-raw.html" $page.LinkTitle }}
@@ -18,16 +18,14 @@
 
     <div class="mini-meta">
         <div class="row">
-            <div class="col-lg-4 offset-lg-1 text-center">
+            <div class="col-lg-3 offset-lg-1 text-center">
                 <div class="text-center">
                     {{ with $scoreImg }}
-                        <div class="score-image">
-                            {{ . }}
-                        </div>
+                        <img src="{{ . }}" class="img-fluid w-100" />
                     {{ end }}
                 </div>
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-7">
                 <div class="row mini-inset small">
                     <h6 class="mb-2">
                         <a href="{{ $reviewLink }}">

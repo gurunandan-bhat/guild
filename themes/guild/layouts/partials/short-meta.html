@@ -42,56 +42,85 @@
     {{ $all_writers := delimit $writer ", " }}
     <div class="latest border border-2 border-bottom-0">
         <div class="row">
-            <div class="col-lg-9">
-                <h6>
-                    <a href="{{ $reviewHref }}">
-                        {{ $review.Title }}
-                        {{ with $review.Params.translatedTitle }}
-                            ({{ . }})
+            {{ if $scoreImg }}
+                <div class="col-lg-3 text-center">
+                    {{ with $scoreImg }}
+                        <img
+                            src="{{ . }}"
+                            class="img-fluid w-100"
+                            alt="FCG Rating for the film" />
+                    {{ end }}
+                </div>
+                <div class="col-lg-9">
+                    <h6 class="pt-2">
+                        <a href="{{ $reviewHref }}">
+                            {{ $review.Title }}
+                            {{ with $review.Params.translatedTitle }}
+                                ({{ . }})
+                            {{ end }}
+                        </a>
+                    </h6>
+                    <p class="fw-bold">
+                        {{ delimit $genreList ", " }}
+                        {{ with $language }}
+                            ({{ $language.english_name }})
                         {{ end }}
-                    </a>
-                </h6>
-                <p class="fw-bold">
-                    {{ delimit $genreList ", " }}
-                    {{ with $language }}
-                        ({{ $language.english_name }})
-                    {{ end }}
-                </p>
-                <p>
-                    {{ if eq $type "short" }}
-                        {{ delimit (first 16 (split .overview " ")) " " }}&hellip;
-                        <a href="{{ $reviewHref }}">(more)</a>
-                    {{ else }}
-                        {{ .overview }}
-                    {{ end }}
-                </p>
-            </div>
-            <div class="col-lg-3 text-center">
-                {{ with $scoreImg }}
-                    <img
-                        src="{{ . }}"
-                        class="img-fluid"
-                        alt="FCG Rating for the film" />
-                {{ end }}
-            </div>
+                    </p>
+                    <p>
+                        {{ if eq $type "short" }}
+                            {{ delimit (first 16 (split .overview " ")) " " }}&hellip;
+                            <a href="{{ $reviewHref }}">(more)</a>
+                        {{ else }}
+                            {{ .overview }}
+                        {{ end }}
+                    </p>
+                </div>
+            {{ else }}
+                <div class="col-lg-10 offset-lg-1">
+                    <h6 class="pt-2">
+                        <a href="{{ $reviewHref }}">
+                            {{ $review.Title }}
+                            {{ with $review.Params.translatedTitle }}
+                                ({{ . }})
+                            {{ end }}
+                        </a>
+                    </h6>
+                    <p class="fw-bold">
+                        {{ delimit $genreList ", " }}
+                        {{ with $language }}
+                            ({{ $language.english_name }})
+                        {{ end }}
+                    </p>
+                    <p>
+                        {{ if eq $type "short" }}
+                            {{ delimit (first 16 (split .overview " ")) " " }}&hellip;
+                            <a href="{{ $reviewHref }}">(more)</a>
+                        {{ else }}
+                            {{ .overview }}
+                        {{ end }}
+                    </p>
+                </div>
+            {{ end }}
         </div>
         {{ if $showCast }}
             <div class="row">
-                <p>
-                    {{ with $castList }}
-                        <span class="fw-bolder">Cast:</span>
-                        {{ $castList }}
-                    {{ end }}<br />
-                    {{ with $all_directors }}
-                        <span class="fw-bolder">Director:</span>
-                        {{ . }}
-                    {{ end }}
-                    {{ with $all_writers }}
-                        <br />
-                        <span class="fw-bolder">Writer:</span>
-                        {{ . }}
-                    {{ end }}
-                </p>
+                <div class="col-lg-10 offset-lg-1">
+                    <p>
+                        {{ with $castList }}
+                            <span class="fw-bolder">Cast:</span>
+                            {{ $castList }}
+                        {{ end }}<br />
+                        {{ with $all_directors }}
+                            <span class="fw-bolder">Director:</span>
+                            {{ . }}
+                        {{ end }}
+                        {{ with $all_writers }}
+                            <br />
+                            <span class="fw-bolder">Writer:</span>
+                            {{ . }}
+                        {{ end }}
+                    </p>
+                </div>
             </div>
             <hr class="mt-0 mb-2" />
         {{ end }}
