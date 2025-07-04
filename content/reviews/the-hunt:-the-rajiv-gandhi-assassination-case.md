@@ -1,8 +1,8 @@
 +++
-title = "The Hunt: The Rajiv Gandhi Assassination"
+title = "The Hunt: The Rajiv Gandhi Assassination Case"
 date = 2025-07-04T12:44:13+05:30
 draft = false
-mreviews = ["The Hunt: The Rajiv Gandhi Assassination"]
+mreviews = ["The Hunt: The Rajiv Gandhi Assassination Case"]
 critics = ['Rahul Desai']
 publication = ''
 subtitle = "Welcome Back, Nagesh Kukunoor"
