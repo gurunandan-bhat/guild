@@ -1,0 +1,333 @@
+{
+	"id": 1293849,
+	"title": "3BHK",
+	"fcg_title": "3BHK",
+	"original_title": "3 பி.ஹெச்.கே",
+	"original_language": "ta",
+	"genres": [
+		{
+			"id": 10751,
+			"name": "Family"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "A middle-class family battles financial hurdles and personal setbacks while pursuing their dream of owning a home in the bustling city.",
+	"backdrop_path": "/kCC8cxu23zctMenwXIS3EC2hJnn.jpg",
+	"poster_path": "/njq3p81KoTVd0lWqGeudId7WwUn.jpg",
+	"release_date": "2025-07-04",
+	"credits": {
+		"cast": [
+			{
+				"id": 108216,
+				"order": 0,
+				"name": "Siddharth",
+				"profile_path": "/9XrTuJp9lnB1rsBPzTaoXdp1ig8.jpg",
+				"character": "Prabhu",
+				"gender": 2
+			},
+			{
+				"id": 237683,
+				"order": 1,
+				"name": "R. Sarathkumar",
+				"profile_path": "/x2Bx2mxOvgvRzaLFlpKNGmKYkK2.jpg",
+				"character": "Vasudevan",
+				"gender": 2
+			},
+			{
+				"id": 286670,
+				"order": 2,
+				"name": "Devayani",
+				"profile_path": "/p03hLBmgjmRErMXHqEDlwur45Ed.jpg",
+				"character": "Shanthi",
+				"gender": 1
+			},
+			{
+				"id": 3200028,
+				"order": 3,
+				"name": "Meetha Raghunath",
+				"profile_path": "/kYB2cJ8c8VpDJxrHu7rh6xCVonf.jpg",
+				"character": "Aarthy",
+				"gender": 1
+			},
+			{
+				"id": 2488387,
+				"order": 4,
+				"name": "Chaithra J Achar",
+				"profile_path": "/mCpqijk7HhguNYcffPhprGVHts5.jpg",
+				"character": "Aishwarya",
+				"gender": 1
+			},
+			{
+				"id": 1540764,
+				"order": 5,
+				"name": "Yogi Babu",
+				"profile_path": "/lTNb5POaftGHXzgN9aIegcehh89.jpg",
+				"gender": 2
+			},
+			{
+				"id": 144789,
+				"order": 6,
+				"name": "Subbu Panchu",
+				"profile_path": "/jxGqgwuOoV5ZwvV1vIr4eoKENod.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1834071,
+				"order": 7,
+				"name": "Vivek Prasanna",
+				"profile_path": "/2Gzfur5QCXWmopdWcLlmNuZcFDt.jpg",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1789206,
+				"name": "Sri Ganesh",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1995949,
+				"name": "Arun K Viswa",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2807949,
+				"name": "Arul Selvam",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2238065,
+				"name": "Jithin Stanislaus",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 3599354,
+				"name": "Vignesh Jothi Narayanan",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1171271,
+				"name": "Dinesh Krishnan B.",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2121291,
+				"name": "Ganesh Siva",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1643533,
+				"name": "Vinoth Rajkumar",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 3333426,
+				"name": "Kiruthika Sekar",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1641717,
+				"name": "G. Suren",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2268249,
+				"name": "Prasath Somasekar",
+				"job": "Colorist",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 3206101,
+				"name": "S. N. Asraf",
+				"job": "Production Controller",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 5198747,
+				"name": "Aesthetic Kunjamma",
+				"job": "Publicist",
+				"department": "Production"
+			},
+			{
+				"id": 1709656,
+				"name": "Suresh Chandra",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1675506,
+				"name": "Jaikumar Vairavan",
+				"job": "Still Photographer",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2084968,
+				"name": "S Alagia Koothan",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1641717,
+				"name": "G. Suren",
+				"job": "Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5342039,
+				"name": "Ashok Kumar S.",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5342040,
+				"name": "Siva Malleswararao",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2102992,
+				"name": "Vivek",
+				"profile_path": "/24f6DLah5ek1nMZzDRdgCpNSYVo.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2113697,
+				"name": "Karthik Netha",
+				"profile_path": "/mMEtqiG8T67Qgxa9CyYNMzRj6vf.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4646577,
+				"name": "Paal Dabba",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 1789206,
+				"name": "Sri Ganesh",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 5342042,
+				"name": "Jai Ganesh DA",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5342043,
+				"name": "Sai Sharan S.",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5342044,
+				"name": "Raamkiran",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5342046,
+				"name": "Shiva Kumar S.",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5342047,
+				"name": "Ganesh R.",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5342049,
+				"name": "M. Udhayakumar",
+				"job": "Production Executive",
+				"department": "Production"
+			},
+			{
+				"id": 5342051,
+				"name": "R. Sibi Marappan",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2149823,
+				"name": "Vinoth Sugumaran",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1789206,
+				"name": "Sri Ganesh",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 5520253,
+				"name": "RK Dhanraj",
+				"job": "Costumer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4160401,
+				"name": "Amrit Ramnath",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 1005129,
+				"name": "Saravana Rajan",
+				"job": "Production Coordinator",
+				"department": "Production"
+			},
+			{
+				"id": 5520268,
+				"name": "Yogsster",
+				"job": "Publicist",
+				"department": "Production"
+			},
+			{
+				"id": 2200190,
+				"name": "Vamsi Shekar",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 5520243,
+				"name": "Aravindh Sachidanandham",
+				"job": "Short Story",
+				"department": "Writing"
+			}
+		]
+	}
+}
