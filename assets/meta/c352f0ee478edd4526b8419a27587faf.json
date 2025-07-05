@@ -1,0 +1,647 @@
+{
+	"id": 1234821,
+	"title": "Jurassic World Rebirth",
+	"fcg_title": "Jurassic World Rebirth",
+	"original_title": "Jurassic World Rebirth",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 878,
+			"name": "Science Fiction"
+		},
+		{
+			"id": 12,
+			"name": "Adventure"
+		},
+		{
+			"id": 28,
+			"name": "Action"
+		}
+	],
+	"overview": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
+	"backdrop_path": "/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg",
+	"poster_path": "/q0fGCmjLu42MPlSO9OYWpI5w86I.jpg",
+	"release_date": "2025-07-01",
+	"credits": {
+		"cast": [
+			{
+				"id": 1245,
+				"order": 0,
+				"name": "Scarlett Johansson",
+				"profile_path": "/8m21eocprLYuW0ywveIgThk6VM.jpg",
+				"character": "Zora Bennett",
+				"gender": 1
+			},
+			{
+				"id": 80860,
+				"order": 1,
+				"name": "Jonathan Bailey",
+				"profile_path": "/i9m6JsYKQot3kbMMFsvbEuFarvq.jpg",
+				"character": "Dr. Henry Loomis",
+				"gender": 2
+			},
+			{
+				"id": 932967,
+				"order": 2,
+				"name": "Mahershala Ali",
+				"profile_path": "/y9mf12rlZBlVJS6JYuCPpjTaLT6.jpg",
+				"character": "Duncan Kincaid",
+				"gender": 2
+			},
+			{
+				"id": 36669,
+				"order": 3,
+				"name": "Rupert Friend",
+				"profile_path": "/a3HeMHmlXnoRlHLX9h31ZdZgCXM.jpg",
+				"character": "Martin Krebs",
+				"gender": 2
+			},
+			{
+				"id": 1168097,
+				"order": 4,
+				"name": "Manuel Garcia-Rulfo",
+				"profile_path": "/54Rk1hKfNdNKGHQMnONDGmNtUv3.jpg",
+				"character": "Reuben Delgado",
+				"gender": 2
+			},
+			{
+				"id": 1362844,
+				"order": 5,
+				"name": "Luna Blaise",
+				"profile_path": "/y4GIzipFLyC90WcA27XRrokggYR.jpg",
+				"character": "Teresa Delgado",
+				"gender": 1
+			},
+			{
+				"id": 2525701,
+				"order": 6,
+				"name": "David Iacono",
+				"profile_path": "/3QTinnl70cvU3a22fLKCLk4Wpbx.jpg",
+				"character": "Xavier Dobbs",
+				"gender": 2
+			},
+			{
+				"id": 3673493,
+				"order": 7,
+				"name": "Audrina Miranda",
+				"profile_path": "/nkKWtafw6r7ekbjbHr3AmKNlybZ.jpg",
+				"character": "Isabella Delgado",
+				"gender": 1
+			},
+			{
+				"id": 2496534,
+				"order": 8,
+				"name": "Philippine Velge",
+				"profile_path": "/gqTkAEIlcDisOnfuyusqZtBb1IG.jpg",
+				"character": "Nina",
+				"gender": 1
+			},
+			{
+				"id": 1517537,
+				"order": 9,
+				"name": "Bechir Sylvain",
+				"profile_path": "/wpZZVoUR9IrtsdxsX6A7Rth6AXz.jpg",
+				"character": "LeClerc",
+				"gender": 2
+			},
+			{
+				"id": 1047649,
+				"order": 10,
+				"name": "Ed Skrein",
+				"profile_path": "/AaMTvZkroI8uo5JXQiJ5pSLEgSJ.jpg",
+				"character": "Bobby Atwater",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 664,
+				"name": "Frank Marshall",
+				"profile_path": "/fgEuoFGqnIWWH8RSb3PJJmPQvnu.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 488,
+				"name": "Steven Spielberg",
+				"profile_path": "/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 508,
+				"name": "David Koepp",
+				"profile_path": "/is3t4k8OMX0KNCD3EilDWOucYZG.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 25600,
+				"name": "Patrick Crowley",
+				"profile_path": "/6Ozt8XjQmVaKOqEaEUi0m32JjOp.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4782,
+				"name": "Michael Crichton",
+				"profile_path": "/ezJhrvxetdIntBHlc3drJ0NXkW7.jpg",
+				"job": "Characters",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 129894,
+				"name": "Gareth Edwards",
+				"profile_path": "/dyJwZCdIOBqq80sB8pE0yZErGv7.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 6060,
+				"name": "Neil Corbould",
+				"profile_path": "/tyrIWpWILlaDroOuzRNI18G9PXn.jpg",
+				"job": "Special Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 943,
+				"name": "John Mathieson",
+				"profile_path": "/AkWm67UMEWHhF3BDfH32HkRl5oM.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 12770,
+				"name": "Denis L. Stewart",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1051397,
+				"name": "Jim Spencer",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1411533,
+				"name": "David Vickery",
+				"profile_path": "/sFDtlrHb9X5pc70er1P1MURmuyL.jpg",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 474,
+				"name": "Jina Jay",
+				"profile_path": "/6IG0L5UgQ8jzDkiCI6Umy9qAq9x.jpg",
+				"job": "Casting Director",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1638528,
+				"name": "James Clyne",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 11271,
+				"name": "Sammy Sheldon",
+				"profile_path": "/srep7BYIU0mEAR3dpjgdDcrMnZP.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 3528058,
+				"name": "Doren John Farmer",
+				"profile_path": "/c3bsf8KJryw1GL08sGjFjeMLRss.jpg",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1411533,
+				"name": "David Vickery",
+				"profile_path": "/sFDtlrHb9X5pc70er1P1MURmuyL.jpg",
+				"job": "Second Unit Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1878421,
+				"name": "Rob Cameron",
+				"profile_path": "/pnASWiO7MgaqBocCkfbVEJWFOtZ.jpg",
+				"job": "Set Decoration",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 25060,
+				"name": "Jana Carboni",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1378695,
+				"name": "Erik Aadahl",
+				"profile_path": "/c02IxbuxyZR93j0gaothnjw1lsZ.jpg",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1378695,
+				"name": "Erik Aadahl",
+				"profile_path": "/c02IxbuxyZR93j0gaothnjw1lsZ.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 40773,
+				"name": "Gary Dodkin",
+				"job": "Production Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 2000842,
+				"name": "Carlos Ciudad",
+				"profile_path": "/8UspackagOLYFVR3gJJlRvqVhRq.jpg",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 11354,
+				"name": "Ben Cooke",
+				"profile_path": "/tuMetGw8QNRbWEEtMP3SITwBFc2.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1408795,
+				"name": "Janine Modder",
+				"job": "Unit Production Manager",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1408795,
+				"name": "Janine Modder",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 10710,
+				"name": "Andrew Ackland-Snow",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1378696,
+				"name": "Ethan Van der Ryn",
+				"profile_path": "/cee7w7XpNMSXyFv0F7CtwpBtERB.jpg",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1378696,
+				"name": "Ethan Van der Ryn",
+				"profile_path": "/cee7w7XpNMSXyFv0F7CtwpBtERB.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2318029,
+				"name": "Joe Fugallo",
+				"job": "Other",
+				"department": "Camera"
+			},
+			{
+				"id": 1388894,
+				"name": "John Gamble",
+				"job": "Second Unit Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 3079944,
+				"name": "Benjamin Borg Cardona",
+				"job": "Underwater Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 1998244,
+				"name": "Lee Briggs",
+				"profile_path": "/zRvlrS7KkqHPMyRegutjdfIXHm.jpg",
+				"job": "Executive Visual Effects Producer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 9815,
+				"name": "Winston Azzopardi",
+				"job": "Line Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5227920,
+				"name": "Charmaine Chan",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2538766,
+				"name": "Simone Coco",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1662621,
+				"name": "Andrew Roberts",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 5227936,
+				"name": "Chris Potter",
+				"job": "Animation Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1948290,
+				"name": "Ted Lister",
+				"job": "Animation Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1431035,
+				"name": "Delio Tramontozzi",
+				"job": "Animation Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 2578697,
+				"name": "Jeanie King",
+				"job": "Executive Visual Effects Producer",
+				"department": "Crew"
+			},
+			{
+				"id": 5227940,
+				"name": "James Turner",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1402937,
+				"name": "Chris Plevin",
+				"job": "\"A\" Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 1710096,
+				"name": "Guido Cavaciuti",
+				"job": "\"B\" Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 1710096,
+				"name": "Guido Cavaciuti",
+				"job": "Steadicam Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 1335182,
+				"name": "Bjørn Ole Schroeder",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1394129,
+				"name": "Tim Nielsen",
+				"profile_path": "/xjaI8e0itWAzGCWTj3VW2Wa8uoQ.jpg",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1394129,
+				"name": "Tim Nielsen",
+				"profile_path": "/xjaI8e0itWAzGCWTj3VW2Wa8uoQ.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1416386,
+				"name": "Pete Horner",
+				"profile_path": "/n9umlGXhpMpjjNURdr3tDcpctRx.jpg",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2151824,
+				"name": "Annabel Wood",
+				"profile_path": "/4CHKGGBERzaTL3I2NkB4a4w4v9p.jpg",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1377,
+				"name": "Jabez Olssen",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 2949,
+				"name": "Alexandre Desplat",
+				"profile_path": "/tcSzPODyAu9kvLIEossR0laMgUu.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1813983,
+				"name": "Jack Ravenscroft",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 3935542,
+				"name": "JJ Battell",
+				"job": "Stunt Double",
+				"department": "Crew"
+			},
+			{
+				"id": 1251918,
+				"name": "Rachelle Beinart",
+				"profile_path": "/jFOg0rcIBokXUUbIEWNZrSKopsz.jpg",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 11354,
+				"name": "Ben Cooke",
+				"profile_path": "/tuMetGw8QNRbWEEtMP3SITwBFc2.jpg",
+				"job": "Second Unit Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1797832,
+				"name": "Cali Nelle",
+				"profile_path": "/9JsBGeqfSe0Hugz9IWdkUUGIhhL.jpg",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1482841,
+				"name": "Stephen Aplin",
+				"job": "Animation Director",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 5483860,
+				"name": "Daniel Jahnel",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1426327,
+				"name": "Nicolas Hernandez",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1373728,
+				"name": "Chuck Finch",
+				"job": "Chief Lighting Technician",
+				"department": "Lighting",
+				"gender": 2
+			},
+			{
+				"id": 2949,
+				"name": "Alexandre Desplat",
+				"profile_path": "/tcSzPODyAu9kvLIEossR0laMgUu.jpg",
+				"job": "Conductor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 80860,
+				"name": "Jonathan Bailey",
+				"profile_path": "/i9m6JsYKQot3kbMMFsvbEuFarvq.jpg",
+				"job": "Musician",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2769366,
+				"name": "Christina Petrou",
+				"profile_path": "/dC7JHx7Q9qKa4YqdCZVvqYTUTSP.jpg",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 2825360,
+				"name": "Catherine Peck",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 2487721,
+				"name": "Anton Simpson-Tidy",
+				"profile_path": "/7oAmnMQQ8JRtYqM4I2G2AXjwkm3.jpg",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 5273633,
+				"name": "Stephen Adentan",
+				"job": "Stunt Double",
+				"department": "Crew"
+			},
+			{
+				"id": 1068875,
+				"name": "Mickey Facchinello",
+				"profile_path": "/8AJLeAYK3WYooijx0on7AttCpm1.jpg",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 2770661,
+				"name": "Tom Cotton",
+				"job": "Stunt Double",
+				"department": "Crew"
+			},
+			{
+				"id": 2228384,
+				"name": "David R. Grant",
+				"profile_path": "/scEs9nXx4OXPPnnnwZwNTV38U5g.jpg",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1275797,
+				"name": "Boris Martinez",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3610323,
+				"name": "Uli Richter",
+				"job": "Utility Stunts",
+				"department": "Crew"
+			},
+			{
+				"id": 4236193,
+				"name": "Georgia Shaw",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 5543117,
+				"name": "Benoît Chieusse",
+				"job": "Compositing Artist",
+				"department": "Visual Effects",
+				"gender": 2
+			}
+		]
+	}
+}
