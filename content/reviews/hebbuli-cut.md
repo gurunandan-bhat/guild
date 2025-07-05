@@ -1,7 +1,7 @@
 +++
 title = "Hebbuli Cut"
 date = 2025-07-05T08:20:46+05:30
-draft = true
+draft = false
 mreviews = ["Hebbuli Cut"]
 critics = ['Subha J Rao']
 publication = 'The NEWS Minute'
