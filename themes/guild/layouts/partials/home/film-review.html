@@ -1,0 +1,62 @@
+{{ $review := index . "review" }}
+{{ $accordionID := index . "accordionID" }}
+{{ with $review }}
+    <div class="accordion-item">
+        {{ $source := "" }}
+        {{ if eq .Params.media "print" }}
+            {{ $source = .Params.source }}
+        {{ end }}
+        <div class="short-review accordion-header mb-1">
+            {{ $reviewer := index (where site.RegularPages ".LinkTitle" (index .Params.critics 0)) 0 }}
+            {{ with $reviewer }}
+                <div class="row">
+                    <div class="col-lg-10">
+                        <div class="ms-3 py-2">
+                            {{ partial "review-header.html" $review }}
+                        </div>
+                    </div>
+                    <div class="col-lg-2">
+                        <button
+                            class="accordion-button collapsed"
+                            type="button"
+                            data-bs-toggle="collapse"
+                            data-bs-target="#{{- $review.File }}"
+                            aria-expanded="true"
+                            aria-controls="{{ $review.File }}"></button>
+                    </div>
+                </div>
+            {{ else }}
+                {{ if hugo.IsDevelopment }}
+                    {{ warnf "Reviewer not available for %s" $review.File }}
+                {{ end }}
+            {{ end }}
+            <div
+                id="{{ $review.File }}"
+                class="accordion-collapse collapse"
+                data-bs-parent="{{- printf "#%s" $accordionID }}">
+                <div class="accordion-body">
+                    <p class="pub-date mb-2">
+                        {{ .Date.Format "Mon, January 2 2006" }}
+                    </p>
+                    {{ with .Params.opening }}
+                        <p class="author">
+                            {{ . }}
+                        </p>
+                    {{ end }}
+                    {{ .Summary }}
+                    {{ with $source }}
+                        <p class="small">
+                            <a href="{{ $source }}" target="_blank">
+                                Continue reading &hellip;</a
+                            >
+                        </p>
+                    {{ else }}
+                        {{ if and (eq .Params.media "print") hugo.IsDevelopment }}
+                            {{ warnf "Source for %s missing" .Path }}
+                        {{ end }}
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+{{ end }}
