@@ -1,0 +1,230 @@
+{
+	"id": 1425045,
+	"title": "Brick",
+	"fcg_title": "Brick",
+	"original_title": "Brick",
+	"original_language": "de",
+	"genres": [
+		{
+			"id": 878,
+			"name": "Science Fiction"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "When a mysterious brick wall encloses their apartment building overnight, Tim and Olivia must unite with their wary neighbors to get out alive.",
+	"backdrop_path": "/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg",
+	"poster_path": "/vTX9CxFNEQOlfXsgqec7xmc5UtD.jpg",
+	"release_date": "2025-07-09",
+	"credits": {
+		"cast": [
+			{
+				"id": 16808,
+				"order": 0,
+				"name": "Matthias Schweighöfer",
+				"profile_path": "/i4c5JjvC5EpecZbp4J96mFmtm0Z.jpg",
+				"character": "Tim",
+				"gender": 2
+			},
+			{
+				"id": 229396,
+				"order": 1,
+				"name": "Ruby O. Fee",
+				"profile_path": "/IXnwGeXbjgKhw3W2mGrK8HBSjC.jpg",
+				"character": "Olivia",
+				"gender": 1
+			},
+			{
+				"id": 49767,
+				"order": 2,
+				"name": "Frederick Lau",
+				"profile_path": "/4ukrX8OPPsD06YMFoTL00uZrwa4.jpg",
+				"character": "Marvin",
+				"gender": 2
+			},
+			{
+				"id": 4482169,
+				"order": 3,
+				"name": "Salber Lee Williams",
+				"character": "Ana"
+			},
+			{
+				"id": 1108185,
+				"order": 4,
+				"name": "Murathan Muslu",
+				"profile_path": "/k0oHhVt3scoV7lRycxsS8YCnu8M.jpg",
+				"character": "Yuri",
+				"gender": 2
+			},
+			{
+				"id": 2894590,
+				"order": 5,
+				"name": "Sira-Anna Faal",
+				"profile_path": "/yV9k1pt5XfpkgU8BqfMwCWHm5Dt.jpg",
+				"character": "Lea",
+				"gender": 1
+			},
+			{
+				"id": 48394,
+				"order": 6,
+				"name": "Axel Werner",
+				"profile_path": "/raxK0x4u95rj2HQqBJm34g0HhuZ.jpg",
+				"character": "Oswalt",
+				"gender": 2
+			},
+			{
+				"id": 4796,
+				"order": 7,
+				"name": "Alexander Beyer",
+				"profile_path": "/xuD0crcNa6gViFShvFCsY1ZOgLW.jpg",
+				"character": "Friedman",
+				"gender": 2
+			},
+			{
+				"id": 4010302,
+				"order": 8,
+				"name": "Josef Berousek",
+				"character": "Anton",
+				"gender": 2
+			},
+			{
+				"id": 1682221,
+				"order": 9,
+				"name": "Daniele Rizzo",
+				"profile_path": "/y7j6jDjr2isPbGaIX9do1gCQ8tg.jpg",
+				"character": "Peter",
+				"gender": 2
+			},
+			{
+				"id": 2844330,
+				"order": 10,
+				"name": "Nader Ben-Abdallah",
+				"profile_path": "/ixCzjTY5cL6LQkiQxJWjPlMQVGG.jpg",
+				"character": "Nader",
+				"gender": 2
+			},
+			{
+				"id": 3294376,
+				"order": 11,
+				"name": "Daniela Galbo",
+				"character": "Nele"
+			},
+			{
+				"id": 5561979,
+				"order": 12,
+				"name": "Markus Ransmayr",
+				"character": "Markus"
+			}
+		],
+		"crew": [
+			{
+				"id": 223767,
+				"name": "Philip Koch",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 223767,
+				"name": "Philip Koch",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 223767,
+				"name": "Philip Koch",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 8209,
+				"name": "Quirin Berg",
+				"profile_path": "/qwlF7eLj3xfA4U9ePq8DjupEUoW.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 226293,
+				"name": "Katrin Goetter",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1522486,
+				"name": "Benjamin Munz",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 8208,
+				"name": "Max Wiedemann",
+				"profile_path": "/i2riBWfGdnmMsQLRL0BcR8FpDMa.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 150762,
+				"name": "Alexander Fischerkoesen",
+				"profile_path": "/e936KZVavJOcR5X2M7qXXfCDrXC.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 3152910,
+				"name": "Irena Hradecká",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1566717,
+				"name": "Theresia Anna Ficus",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 2005644,
+				"name": "Anna Drubich",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1671565,
+				"name": "Martina Eisenreich",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1331905,
+				"name": "Michael Kadelbach",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 58116,
+				"name": "Hans Horn",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 47832,
+				"name": "Simona Rybáková",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			}
+		]
+	}
+}
