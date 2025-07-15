@@ -1,0 +1,290 @@
+{
+	"id": 1510433,
+	"title": "Desingu Raja 2",
+	"fcg_title": "Desinguraja 2",
+	"original_title": "தேசிங்கு ராஜா 2",
+	"original_language": "ta",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 10749,
+			"name": "Romance"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "College buddies become a police chief, inspector, and criminal. Their reunion years later sparks chaos as friendship collides with duty, mixing action and comedy with colorful characters.",
+	"backdrop_path": "/rdFX7FDMPMrdZJnn1BH3YC6ioX9.jpg",
+	"poster_path": "/AaDAWOa1xHYszJmf3YDR3arSjI.jpg",
+	"release_date": "2025-07-11",
+	"credits": {
+		"cast": [
+			{
+				"id": 1020064,
+				"order": 0,
+				"name": "Vimal",
+				"profile_path": "/qEdTjIrjdECJs29FoU0DuS3Monu.jpg",
+				"character": "Kulasekara Pandian",
+				"gender": 2
+			},
+			{
+				"id": 1864837,
+				"order": 1,
+				"name": "Pujita Ponnada",
+				"profile_path": "/xe6CkUwUTyyJTsgRBOW6rdD8SUC.jpg",
+				"character": "Chandralekha",
+				"gender": 1
+			},
+			{
+				"id": 4867570,
+				"order": 2,
+				"name": "Jana Nathan",
+				"profile_path": "/bv4vCtq932Rg4YOKDGhVce4DuPC.jpg",
+				"gender": 2
+			},
+			{
+				"id": 5551861,
+				"order": 3,
+				"name": "Harshitha Bandlamuri",
+				"profile_path": "/e55ZE3aFeiNmmCVVlbAddDTZrpv.jpg",
+				"gender": 1
+			},
+			{
+				"id": 4592228,
+				"order": 4,
+				"name": "Joohi Jayakumar",
+				"profile_path": "/nSE3CgDdFYW6puaFgPefSgHMsR7.jpg",
+				"gender": 1
+			},
+			{
+				"id": 3022869,
+				"order": 5,
+				"name": "Pugazh",
+				"profile_path": "/pWrtXb22aVFiB9ar8Xp9OObBitY.jpg",
+				"gender": 2
+			},
+			{
+				"id": 223146,
+				"order": 6,
+				"name": "Ravi Mariya",
+				"profile_path": "/2OKPiv0HobYPSrFMM6LZPxuLMgc.jpg",
+				"gender": 2
+			},
+			{
+				"id": 585374,
+				"order": 7,
+				"name": "Singampuli",
+				"profile_path": "/aB5dVUeJU64IAatguQgbHHbUZsj.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1328506,
+				"order": 8,
+				"name": "Chaams",
+				"profile_path": "/mRnPQXMjz7VFveDJc8iyBDZQhXs.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1306596,
+				"order": 9,
+				"name": "Swaminathan",
+				"profile_path": "/A6kmhGfvJN99cnnYfcqCBwQ1TSu.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1418458,
+				"order": 10,
+				"name": "Bava Lakshmanan",
+				"profile_path": "/g5dqxiouHNbFNhk7YwDwqgSEE1H.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1064131,
+				"order": 11,
+				"name": "Rajendran",
+				"profile_path": "/jgIYDgHQVg1ZPbpK1P2r51W3G7M.jpg",
+				"gender": 2
+			},
+			{
+				"id": 238022,
+				"order": 12,
+				"name": "Vaiyapuri",
+				"profile_path": "/dXWg4R0zuJEOuEIPZo0ibu355aA.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1069468,
+				"order": 13,
+				"name": "Robo Shankar",
+				"profile_path": "/jjKdriPFYRaniZDlWlIw6ctdHqC.jpg",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 584724,
+				"name": "Ezhil",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 584724,
+				"name": "Ezhil",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1000166,
+				"name": "P. Ravichandran",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 110297,
+				"name": "Vidyasagar",
+				"profile_path": "/f0mzntGkD90Brbg0db7w8WCPGIT.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1340534,
+				"name": "R. Selva",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1642491,
+				"name": "Ananda Lingakumar",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 5551880,
+				"name": "E. Murugan",
+				"job": "Dialogue",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2521865,
+				"name": "Gibson UGA",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2421055,
+				"name": "Preethi Mohan",
+				"job": "Creative Producer",
+				"department": "Writing"
+			},
+			{
+				"id": 1668656,
+				"name": "A Babu",
+				"job": "Creative Producer",
+				"department": "Writing"
+			},
+			{
+				"id": 2149721,
+				"name": "Johnson",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 5551883,
+				"name": "VM. Shivakumar",
+				"job": "Publicist",
+				"department": "Production"
+			},
+			{
+				"id": 3936014,
+				"name": "Bharathi  Shanmugam",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1671946,
+				"name": "B.Sivasankar",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1642492,
+				"name": "Fire Karthick",
+				"job": "Fight Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3333424,
+				"name": "Stills Ravi",
+				"job": "Still Photographer",
+				"department": "Camera"
+			},
+			{
+				"id": 2257699,
+				"name": "K. S. Rajasekaran",
+				"job": "Digital Intermediate Colorist",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 3744447,
+				"name": "V. Raguraman",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1640322,
+				"name": "Brinda",
+				"profile_path": "/fcC4NTNqQZaJtVuFHM9oRUDr97Y.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1642548,
+				"name": "Dinesh",
+				"profile_path": "/be1qv2CaVlpZZ7e0osZ9Ye7mFU2.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1509985,
+				"name": "Sridhar",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2102992,
+				"name": "Vivek",
+				"profile_path": "/24f6DLah5ek1nMZzDRdgCpNSYVo.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2036368,
+				"name": "Yugabharathi",
+				"profile_path": "/f7pHnk6byEoU02NUaUqLWGGbZOa.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			}
+		]
+	}
+}
