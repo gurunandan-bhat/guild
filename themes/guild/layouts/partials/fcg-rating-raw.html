@@ -10,6 +10,18 @@
         {{ $outOf = add $outOf 1 }}
     {{ end }}
 {{ end }}
+{{ $oldScore := $score }}
+{{ $oldOutOf := $outOf }}
+{{ $freeScores := site.Data.freescores }}
+{{ with index $freeScores $title }}
+    {{ range $key, $value := . }}
+        {{ $score = add $score $value }}
+        {{ $outOf = add $outOf 1 }}
+    {{ end }}
+{{ end }}
+{{ if gt $outOf $oldOutOf }}
+    {{ warnf "Score for %s changed to %0.1f of %d from %.1f of %d" $title $score $outOf $oldScore $oldOutOf }}
+{{ end }}
 {{ if ge $outOf 3 }}
     {{ $score = math.Round (div (math.Product 10 $score) $outOf) }}
 {{ else }}
