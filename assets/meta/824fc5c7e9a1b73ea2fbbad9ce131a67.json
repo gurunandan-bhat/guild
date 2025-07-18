@@ -1,0 +1,386 @@
+{
+	"id": 1241634,
+	"title": "Saiyaara",
+	"fcg_title": "Saiyaara",
+	"original_title": "सैयारा",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 10749,
+			"name": "Romance"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Short-tempered musician Krish is paired with a no-nonsense lyricist in Vaani, for the music company to work together. The sparks fly and Krish and Vaani get close and so much that they didn't anticipate. Will their love story stand the test of time, egos, and, more importantly, become bigger than themselves?",
+	"backdrop_path": "/lqevsxLlyYpbZ5CP67cAC9bP9Qw.jpg",
+	"poster_path": "/z98O8Eqk3JDlCfUhXok1kwz24xl.jpg",
+	"release_date": "2025-07-18",
+	"credits": {
+		"cast": [
+			{
+				"id": 2486707,
+				"order": 0,
+				"name": "Ahaan Panday",
+				"profile_path": "/52awRTNKMuB3oH93j8LZVoQILJ1.jpg",
+				"character": "Krish Kapoor",
+				"gender": 2
+			},
+			{
+				"id": 4571587,
+				"order": 1,
+				"name": "Aneet Padda",
+				"profile_path": "/aVFc480hSIPxhVWGC3QELnYb9MM.jpg",
+				"character": "Vaani Batra"
+			},
+			{
+				"id": 122498,
+				"order": 2,
+				"name": "Varun Badola",
+				"profile_path": "/dzSBwofeP4dh3bP8TG6VxkHSjLy.jpg",
+				"character": "Krish's Father",
+				"gender": 2
+			},
+			{
+				"id": 2306058,
+				"order": 3,
+				"name": "Alam Khan",
+				"profile_path": "/qI9VLzGq4DDCjTdBLQI2bBM9la3.jpg",
+				"character": "KV",
+				"gender": 2
+			},
+			{
+				"id": 1197127,
+				"order": 4,
+				"name": "Geeta Agrawal Sharma",
+				"profile_path": "/5Jrwb9zWG2Hjmf8PQLuDmCKnMHG.jpg",
+				"character": "Vaani's Mother",
+				"gender": 1
+			},
+			{
+				"id": 1336965,
+				"order": 5,
+				"name": "Rajesh Kumar",
+				"profile_path": "/vat8qbqIeumutuToGX0VrtA06M6.jpg",
+				"character": "Vaani's Father",
+				"gender": 2
+			},
+			{
+				"id": 229276,
+				"order": 6,
+				"name": "Shaad Randhawa",
+				"profile_path": "/eFUtx2lbDmu6RUaezRsub9O7yGv.jpg",
+				"character": "Prince",
+				"gender": 2
+			},
+			{
+				"id": 2504720,
+				"order": 7,
+				"name": "Sid Makkar",
+				"profile_path": "/b9E8NeQ2CgDEAMTnHuutLlpmfBY.jpg",
+				"character": "Vinit Rawal"
+			},
+			{
+				"id": 2416809,
+				"order": 8,
+				"name": "Shaan Groverr",
+				"character": "Mahesh Iyer"
+			}
+		],
+		"crew": [
+			{
+				"id": 4214501,
+				"name": "Akshaye Widhani",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 88800,
+				"name": "Mohit Suri",
+				"profile_path": "/iDAUmTKFKD0XVDyqFNtAyMNzx4W.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 35771,
+				"name": "Aditya Chopra",
+				"profile_path": "/eXYKfA6bg12pn9LPrWeRfxYQwcb.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2531336,
+				"name": "Sankalp Sadanah",
+				"job": "Story",
+				"department": "Writing"
+			},
+			{
+				"id": 2531336,
+				"name": "Sankalp Sadanah",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 1790607,
+				"name": "Irshad Kamil",
+				"profile_path": "/20XNdVA9lA3NmyU1oUFVo39FokA.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 125474,
+				"name": "Mithoon Sharma",
+				"profile_path": "/dKcejV0tiolRCQP5YgTtH8aVzc4.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 85032,
+				"name": "Vikas Sivaraman",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 4248731,
+				"name": "Rishabh Chopra",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1191508,
+				"name": "Suman Ghosh",
+				"profile_path": "/jSVvmP2yeBd2BGSUCJVX7mEx5HV.jpg",
+				"job": "Creative Producer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5472222,
+				"name": "Rishabh Kant",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 2483313,
+				"name": "Raj Shekhar",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 5472222,
+				"name": "Rishabh Kant",
+				"job": "Music",
+				"department": "Sound"
+			},
+			{
+				"id": 2156687,
+				"name": "Vishal Mishra",
+				"profile_path": "/rgTiKOQ016nV05FxiWpvjqurWAC.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1775462,
+				"name": "Tanishk Bagchi",
+				"profile_path": "/lTNruwralNeUIDHBx3SC22yQOqv.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5472225,
+				"name": "Faheem Abdullah",
+				"job": "Music",
+				"department": "Sound"
+			},
+			{
+				"id": 5472227,
+				"name": "Arslan Nizami",
+				"job": "Music",
+				"department": "Sound"
+			},
+			{
+				"id": 125474,
+				"name": "Mithoon Sharma",
+				"profile_path": "/dKcejV0tiolRCQP5YgTtH8aVzc4.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 125474,
+				"name": "Mithoon Sharma",
+				"profile_path": "/dKcejV0tiolRCQP5YgTtH8aVzc4.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1376948,
+				"name": "Devendra Murdeshwar",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 2531361,
+				"name": "Rohit Makwana",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1727701,
+				"name": "Laxmi Keluskar",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 85400,
+				"name": "Rajat Poddar",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1911375,
+				"name": "Vijay Ganguly",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1736902,
+				"name": "Sheetal Sharma",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1785026,
+				"name": "Manas Choudhury",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 1834558,
+				"name": "Ganesh Gangadharan",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 1364353,
+				"name": "Shanoo Sharma",
+				"profile_path": "/78wQF7xfirzblKvSnx0ljopD8lc.jpg",
+				"job": "Casting Director",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2252032,
+				"name": "Rohan Shankar",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 1434492,
+				"name": "Ejaz Gulab",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 4001339,
+				"name": "Mohit Sajnaney",
+				"job": "Additional Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 5472225,
+				"name": "Faheem Abdullah",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 2227337,
+				"name": "Jubin Nautiyal",
+				"profile_path": "/fNXW2xHoukD8s2lqgNpJavrp4Fu.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2156687,
+				"name": "Vishal Mishra",
+				"profile_path": "/rgTiKOQ016nV05FxiWpvjqurWAC.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5514933,
+				"name": "Hansika Pareek",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 1871590,
+				"name": "Sachet Tandon",
+				"profile_path": "/rFWWAGhXMNKX7OEUWFvxjvvR6If.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1871589,
+				"name": "Parampara Thakur",
+				"profile_path": "/lwf7h7DOJxFPU3QPGjZ36iffDMr.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1000619,
+				"name": "Prashant Pandey",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 1796865,
+				"name": "Arijit Singh",
+				"profile_path": "/2PebQIwbUQDOctnwQ0jSqTLQ5l9.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1775463,
+				"name": "John Stewart Eduri",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 1810752,
+				"name": "Shilpa Rao",
+				"profile_path": "/cooqbmAeBsfzBbQ2lRebzrhibbC.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1932076,
+				"name": "Shreya Ghoshal",
+				"profile_path": "/xWgc6p4vqsUisHzHgWAEOQaYQI2.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 1
+			}
+		]
+	}
+}
