@@ -1,7 +1,7 @@
 +++
 title = "Sant Tukaram"
 date = 2025-07-19T23:10:00+05:30
-draft = true
+draft = false
 mreviews = ["Sant Tukaram"]
 critics = ['Deepak Dua']
 publication = ''
