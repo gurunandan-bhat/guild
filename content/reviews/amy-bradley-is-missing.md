@@ -1,13 +1,13 @@
 +++
-title = "Amey Bradley Is Missing"
+title = "Amy Bradley Is Missing"
 date = 2025-07-23T11:57:43+05:30
 draft = false
-mreviews = ["Amey Bradley Is Missing"]
+mreviews = ["Amy Bradley Is Missing"]
 critics = ['Priyanka Roy']
 publication = ''
 subtitle = "Both horrific and heartbreaking"
 opening = ""
-img = 'amey-bradley-is-missing.jpg'
+img = 'amy-bradley-is-missing.jpg'
 media = 'print'
 source = "https://t2online.in/screen/streaming/review--amy-bradley-is-missing-is-both-horrific-and-heartbreaking/2000119"
 score = 6
