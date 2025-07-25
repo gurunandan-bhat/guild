@@ -1,0 +1,234 @@
+{
+	"id": 247831,
+	"name": "Mandala Murders",
+	"fcg_title": "Mandala Murders",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 9648,
+			"name": "Mystery"
+		}
+	],
+	"overview": "When a series of ritualistic murders shakes a small town, a detective and an ex-cop must investigate a mystery with deep ties to their pasts.",
+	"backdrop_path": "/m8s8Fp7fITnPzaftmVcsQYR5mMm.jpg",
+	"poster_path": "/hkc0lvGXBae8Bb36p4bkJj88Fbd.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 1192903,
+				"order": 0,
+				"name": "Vaani Kapoor",
+				"profile_path": "/cjUTpkzSklRAAazbC5bXcLV60eb.jpg",
+				"character": "Rea Thomas",
+				"gender": 1
+			},
+			{
+				"id": 2198229,
+				"order": 1,
+				"name": "Vaibhav Raj Gupta",
+				"profile_path": "/3BzWiMwmau2carAAl8J1f5ZQ4zW.jpg",
+				"character": "Vikram Singh",
+				"gender": 2
+			},
+			{
+				"id": 527738,
+				"order": 2,
+				"name": "Surveen Chawla",
+				"profile_path": "/anKAtXU9u9DfFma0e2R3C1WGDvX.jpg",
+				"character": "Ananya Bhardwaj",
+				"gender": 1
+			},
+			{
+				"id": 1427893,
+				"order": 3,
+				"name": "Siddhanth Kapoor",
+				"profile_path": "/o888byfxTwvdO9m8JNWzoCleeiH.jpg",
+				"character": "Vijay Yadav"
+			}
+		],
+		"crew": [
+			{
+				"id": 85060,
+				"name": "Yogendra Mogre",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2747525,
+				"name": "Shaz Mohammed",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1375285,
+				"name": "Gopi Puthran",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 3905831,
+				"name": "Manan Rawat",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4214501,
+				"name": "Akshaye Widhani",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 35771,
+				"name": "Aditya Chopra",
+				"profile_path": "/eXYKfA6bg12pn9LPrWeRfxYQwcb.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 69709,
+				"name": "Uday Chopra",
+				"profile_path": "/bHmH00vJNavpf5BgSuBeUSPB9bj.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1193665,
+				"name": "Matt Graham",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 1375285,
+				"name": "Gopi Puthran",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 2431796,
+				"name": "Goswami Anurag",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 2359356,
+				"name": "Avinash Dwivedi",
+				"profile_path": "/rLl6B0BIDWddw5Q4kuLKANzGoo0.jpg",
+				"job": "Additional Writing",
+				"department": "Crew"
+			},
+			{
+				"id": 4395940,
+				"name": "Chirag Garg",
+				"job": "Additional Writing",
+				"department": "Crew"
+			},
+			{
+				"id": 1375285,
+				"name": "Gopi Puthran",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 2431796,
+				"name": "Goswami Anurag",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 2359356,
+				"name": "Avinash Dwivedi",
+				"profile_path": "/rLl6B0BIDWddw5Q4kuLKANzGoo0.jpg",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 4395940,
+				"name": "Chirag Garg",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 1640319,
+				"name": "Amit Ray",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1640321,
+				"name": "Subrata Chakraborty",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1816095,
+				"name": "Mitesh Soni",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1364352,
+				"name": "Meghna Manchanda Sen",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1544699,
+				"name": "Sanchit Balhara",
+				"profile_path": "/uoT1EOft58kNXQCChW083XDvFSy.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2224392,
+				"name": "Ankit Balhara",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 1834558,
+				"name": "Ganesh Gangadharan",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 1810275,
+				"name": "Vikram Dahiya",
+				"job": "Action Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1871955,
+				"name": "Kirti Kolwankar",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2325125,
+				"name": "Maria Tharakan",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1364353,
+				"name": "Shanoo Sharma",
+				"profile_path": "/78wQF7xfirzblKvSnx0ljopD8lc.jpg",
+				"job": "Casting Director",
+				"department": "Production",
+				"gender": 1
+			}
+		]
+	}
+}
