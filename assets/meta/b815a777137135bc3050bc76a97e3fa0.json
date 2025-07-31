@@ -1,0 +1,525 @@
+{
+	"id": 1124838,
+	"title": "Kingdom",
+	"fcg_title": "Kingdom",
+	"original_title": "కింగ్డమ్‌",
+	"original_language": "te",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "Soori, a modest police constable, is unintentionally dragged into a dangerous undercover spy operation in Sri Lanka for the Indian government . His journey is intimately linked to his estranged brother Siva, and the risks involved on their reunion.",
+	"backdrop_path": "/ssDPH5LjnOcmDf17Jt0g2Amevvx.jpg",
+	"poster_path": "/339qTJigODEQ6HY5n8SYhlvCeOI.jpg",
+	"release_date": "2025-07-30",
+	"credits": {
+		"cast": [
+			{
+				"id": 1508809,
+				"order": 0,
+				"name": "Vijay Deverakonda",
+				"profile_path": "/8oVIWyIoFUal8SJFnmCUtkkm1HP.jpg",
+				"character": "Suri",
+				"gender": 2
+			},
+			{
+				"id": 4485095,
+				"order": 1,
+				"name": "Bhagyashri Borse",
+				"profile_path": "/a0PbRhcwWREoz4qwszuuQSb4zqw.jpg",
+				"gender": 1
+			},
+			{
+				"id": 1546410,
+				"order": 2,
+				"name": "Satyadev Kancharana",
+				"profile_path": "/uIf1HM99iDVf9vdJwXPMgggOHkA.jpg",
+				"character": "Siva",
+				"gender": 2
+			},
+			{
+				"id": 2238388,
+				"order": 3,
+				"name": "Venkitesh V P",
+				"profile_path": "/f7IZ6HMWgn4n6LkrdmThNQL7LZv.jpg",
+				"character": "Murugan",
+				"gender": 2
+			},
+			{
+				"id": 3327037,
+				"order": 4,
+				"name": "Ronit Kamra",
+				"profile_path": "/A90xgEIR02s85z5SzMlOUZ8z0YB.jpg",
+				"character": "Jr Suri"
+			},
+			{
+				"id": 2262427,
+				"order": 5,
+				"name": "B. S. Avinash",
+				"profile_path": "/dhAScRQuHfOuUCEBM38NFUoyP4C.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1101394,
+				"order": 6,
+				"name": "Baburaj",
+				"profile_path": "/nuJ7GhTfuBrlGBWeMPIYr59O8kP.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1293574,
+				"order": 7,
+				"name": "Ayyappa P. Sharma",
+				"profile_path": "/go5pwNsJo03NLVmHLf06rOz3FNT.jpg",
+				"gender": 2
+			},
+			{
+				"id": 3468333,
+				"order": 8,
+				"name": "Bhanu Prakashan",
+				"character": "Young Suri"
+			},
+			{
+				"id": 4328373,
+				"order": 9,
+				"name": "Sriram Reddy Polasane",
+				"character": "David"
+			},
+			{
+				"id": 3283791,
+				"order": 10,
+				"name": "Manikanta Varanasi",
+				"profile_path": "/jrZWTzG6Lj8cUR5qCwEw0u3QwmM.jpg",
+				"character": "Jogi",
+				"gender": 2
+			},
+			{
+				"id": 2428522,
+				"order": 11,
+				"name": "Keshav Deepak",
+				"profile_path": "/ervxSrVBSSDvaCJ2JbHMajwJuAF.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1196109,
+				"order": 12,
+				"name": "Rajkumar Kasireddy",
+				"profile_path": "/u7kPoGR1d3Xuo633V4hIBdhiLdm.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1040951,
+				"order": 13,
+				"name": "Manish Chaudhary",
+				"profile_path": "/1l4vmA0IJQLieebZWOOCAFu4ra6.jpg",
+				"gender": 2
+			},
+			{
+				"id": 2035060,
+				"order": 14,
+				"name": "Mahesh Achanta",
+				"profile_path": "/2TO7x9It2iSwd3nmWTnyyA7QECR.jpg",
+				"gender": 2
+			},
+			{
+				"id": 2372812,
+				"order": 15,
+				"name": "Ravi Krishna",
+				"profile_path": "/vtqotENMFoZa9ThHfVBGOxK9KdX.jpg"
+			},
+			{
+				"id": 3922986,
+				"order": 16,
+				"name": "Navya Swamy",
+				"profile_path": "/7uH91kYtHG63enJkyvfJTxlZhkq.jpg",
+				"gender": 1
+			},
+			{
+				"id": 3018627,
+				"order": 17,
+				"name": "Bhoomi Shetty"
+			}
+		],
+		"crew": [
+			{
+				"id": 1943117,
+				"name": "Gowtam Tinnanuri",
+				"profile_path": "/yA5HYmJGGwMXqMRAXrzHbkJNAfv.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1943117,
+				"name": "Gowtam Tinnanuri",
+				"profile_path": "/yA5HYmJGGwMXqMRAXrzHbkJNAfv.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1081464,
+				"name": "Anirudh Ravichander",
+				"profile_path": "/4RqfmPhND0cKe83kCohjCW06Q02.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1606574,
+				"name": "Girish Gangadharan",
+				"profile_path": "/l0prBtRT58P3uHVYPMivXnJwIFT.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 3355377,
+				"name": "Sai Soujanya",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1790294,
+				"name": "Suryadevara Naga Vamsi",
+				"profile_path": "/hLJpBV45WFqS3sYxS3zmBhcHAoq.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1526585,
+				"name": "Naveen Nooli",
+				"profile_path": "/dTYIRplqzKtT6LB8uONcIcsJz6I.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 2035066,
+				"name": "Kolla Avinash",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1071571,
+				"name": "Jomon T. John",
+				"profile_path": "/q8p2iKw928tQ7ssuHx7gsPQQG8N.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1873193,
+				"name": "Neeraja Kona",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1643578,
+				"name": "Sachin Sudhakaran",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1643577,
+				"name": "Hari Haran",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2866092,
+				"name": "Vijay Binni",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2111277,
+				"name": "Chetan D'Souza",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 1690843,
+				"name": "Yannick Ben",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2041626,
+				"name": "Real Satheesh",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 4428437,
+				"name": "Ranga",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 5356560,
+				"name": "Vasudeva Rao M.",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 5356562,
+				"name": "Sri Vastav",
+				"job": "Co-Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5356564,
+				"name": "Basheer",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5356565,
+				"name": "B. V. Raveendra",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5356569,
+				"name": "Muthayam Vijay Kumar",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5356570,
+				"name": "Mahesh Talluri",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5356571,
+				"name": "Geetha Sapuru",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5356572,
+				"name": "Nallandula Jagadeesh",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5251722,
+				"name": "Manoj Rishie",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 5356573,
+				"name": "MS Vihari",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5356575,
+				"name": "Akhil Raj",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5356577,
+				"name": "Parth Bane",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5198747,
+				"name": "Aesthetic Kunjamma",
+				"job": "Publicist",
+				"department": "Production"
+			},
+			{
+				"id": 5321611,
+				"name": "Shrikaran Beecharaju",
+				"profile_path": "/iWHd7A0CyuKsHMc2ZprEIO0CJE0.jpg",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 5356568,
+				"name": "Tirumala Reddy Akki",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2293444,
+				"name": "Krishna Kanth",
+				"profile_path": "/2MmRxA4GD4H6nHgCrAQQhuvJLHW.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1081464,
+				"name": "Anirudh Ravichander",
+				"profile_path": "/4RqfmPhND0cKe83kCohjCW06Q02.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5416995,
+				"name": "Anumita Nadesan",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 5496756,
+				"name": "Girish Dasika",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5356565,
+				"name": "B. V. Raveendra",
+				"job": "Casting Director",
+				"department": "Production"
+			},
+			{
+				"id": 5496759,
+				"name": "David Kumar Bapannally",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 5496762,
+				"name": "K. Naresh Goud",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 3243911,
+				"name": "Vineeth Kumar Kunchala",
+				"job": "Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5496764,
+				"name": "Matthias Barbier",
+				"job": "Stunts",
+				"department": "Crew"
+			},
+			{
+				"id": 2929053,
+				"name": "Louis Bujeau",
+				"job": "Stunts",
+				"department": "Crew"
+			},
+			{
+				"id": 4980350,
+				"name": "Charly Schmitt",
+				"job": "Stunts",
+				"department": "Crew"
+			},
+			{
+				"id": 3255616,
+				"name": "Sebastien Colaert",
+				"job": "Stunts",
+				"department": "Crew"
+			},
+			{
+				"id": 3995813,
+				"name": "Lucas Martinelli",
+				"job": "Stunts",
+				"department": "Crew"
+			},
+			{
+				"id": 1372951,
+				"name": "Raimundo Querido",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 3660147,
+				"name": "Titouan Richard",
+				"job": "Stunts",
+				"department": "Crew"
+			},
+			{
+				"id": 5496770,
+				"name": "Nithin Prabhakar",
+				"job": "Drone Pilot",
+				"department": "Camera"
+			},
+			{
+				"id": 5496772,
+				"name": "Sudev Surendran",
+				"job": "Second Unit Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 5392397,
+				"name": "Srinu Bainaboyina",
+				"job": "Associate Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 5552969,
+				"name": "Vishnu Ramagiri",
+				"job": "Associate Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 5552971,
+				"name": "Srinivas Nadiminti",
+				"job": "Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 5392399,
+				"name": "Thallapelli Pavan Goud",
+				"job": "Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 2277769,
+				"name": "Santosh Kiran",
+				"job": "Online Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 2227379,
+				"name": "Siva Kiran",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2375983,
+				"name": "Siddharth Basrur",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 3517938,
+				"name": "Vinay Sridhar",
+				"job": "Sound Mixer",
+				"department": "Sound"
+			}
+		]
+	}
+}
