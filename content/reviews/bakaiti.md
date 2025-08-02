@@ -1,7 +1,7 @@
 +++
 title = "Bakaiti"
 date = 2025-08-02T08:40:27+05:30
-draft = true
+draft = false
 mreviews = ["Bakaiti"]
 critics = ['Shubhra Gupta']
 publication = ''
