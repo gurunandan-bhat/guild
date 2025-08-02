@@ -1,7 +1,7 @@
 +++
 title = "Mahavatar Narsimha"
 date = 2025-08-02T20:51:11+05:30
-draft = true
+draft = false
 mreviews = ["Mahavatar Narsimha"]
 critics = ['Keyur Seta']
 publication = 'The Common Man Speaks'
