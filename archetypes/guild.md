@@ -1,5 +1,5 @@
-{{ $title := replace (replaceRE `-\d+$` "" .File.ContentBaseName)  "-" " " | title }}
 +++
+{{ $title := replace (replaceRE `-\d+$` "" .File.ContentBaseName)  "-" " " | title }}
 date = {{ .Date }}
 draft = false
 weight =
