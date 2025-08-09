@@ -1,0 +1,804 @@
+{
+	"id": 1125257,
+	"title": "Freakier Friday",
+	"fcg_title": "Freakier Friday",
+	"original_title": "Freakier Friday",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 14,
+			"name": "Fantasy"
+		},
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 10751,
+			"name": "Family"
+		}
+	],
+	"overview": "Years after Tess and Anna endured an identity crisis, Anna now has a daughter of her own and a soon-to-be stepdaughter. As they navigate the myriad challenges that come when two families merge, Tess and Anna discover lightning might indeed strike twice.",
+	"backdrop_path": "/dcLV5rEXuQRW0ZlB7IMLArHMyWh.jpg",
+	"poster_path": "/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg",
+	"release_date": "2025-08-06",
+	"credits": {
+		"cast": [
+			{
+				"id": 49265,
+				"order": 0,
+				"name": "Lindsay Lohan",
+				"profile_path": "/mw6Cb1CztwCt1wuxljnFtt8Giqh.jpg",
+				"character": "Anna Coleman",
+				"gender": 1
+			},
+			{
+				"id": 8944,
+				"order": 1,
+				"name": "Jamie Lee Curtis",
+				"profile_path": "/hOQXeDjTlPoTKc0TvJuNue7ZIuG.jpg",
+				"character": "Tess Coleman",
+				"gender": 1
+			},
+			{
+				"id": 1651362,
+				"order": 2,
+				"name": "Julia Butters",
+				"profile_path": "/uWwwXvhcQDULR2zyi4Np5T10Viz.jpg",
+				"character": "Harper Coleman",
+				"gender": 1
+			},
+			{
+				"id": 2705566,
+				"order": 3,
+				"name": "Sophia Hammons",
+				"profile_path": "/7g5oz3NMbQQogw4zxnA4O96AC9n.jpg",
+				"character": "Lily Reyes",
+				"gender": 1
+			},
+			{
+				"id": 19728,
+				"order": 4,
+				"name": "Mark Harmon",
+				"profile_path": "/7M6M2Fbb5dZxY1wBhS5AYBw98PX.jpg",
+				"character": "Ryan",
+				"gender": 2
+			},
+			{
+				"id": 1368795,
+				"order": 5,
+				"name": "Manny Jacinto",
+				"profile_path": "/8PENhKW8wG7LwBaJfGvskOXtlKR.jpg",
+				"character": "Eric Reyes",
+				"gender": 2
+			},
+			{
+				"id": 2602879,
+				"order": 6,
+				"name": "Maitreyi Ramakrishnan",
+				"profile_path": "/aIF0m7ZHXWA2wsfFOrfbbJ2w2ue.jpg",
+				"character": "Ella",
+				"gender": 1
+			},
+			{
+				"id": 61904,
+				"order": 7,
+				"name": "Christina Vidal",
+				"profile_path": "/xzc2Gf8hAK0TKNuDdCsBy90ITjo.jpg",
+				"character": "Maddie",
+				"gender": 1
+			},
+			{
+				"id": 159985,
+				"order": 8,
+				"name": "Haley Hudson",
+				"profile_path": "/yyB5RFaG83XdwqbqFEBptwi9SuG.jpg",
+				"character": "Peg",
+				"gender": 1
+			},
+			{
+				"id": 62747,
+				"order": 9,
+				"name": "Chad Michael Murray",
+				"profile_path": "/jIkzUQUVLkgn3HFMFRJBDAD0OLj.jpg",
+				"character": "Jake",
+				"gender": 2
+			},
+			{
+				"id": 2267887,
+				"order": 10,
+				"name": "X Mayo",
+				"profile_path": "/7rmo3N6EOzsKxvlk78NJLjEboys.jpg",
+				"character": "Principal Waldman",
+				"gender": 1
+			},
+			{
+				"id": 112288,
+				"order": 11,
+				"name": "Lucille Soong",
+				"profile_path": "/3PBNmz6zcUWtCEdENMvzhHWtZaz.jpg",
+				"character": "Grandma Chiang",
+				"gender": 1
+			},
+			{
+				"id": 74073,
+				"order": 12,
+				"name": "Rosalind Chao",
+				"profile_path": "/vTt8RYw8VJXNru7AMP49Q6FcvzM.jpg",
+				"character": "Mama P",
+				"gender": 1
+			},
+			{
+				"id": 503103,
+				"order": 13,
+				"name": "Vanessa Bayer",
+				"profile_path": "/8IUjlVY8l7S7BEVhfHzKNgVGpUX.jpg",
+				"character": "Madame Jen",
+				"gender": 1
+			},
+			{
+				"id": 2720083,
+				"order": 14,
+				"name": "Jordan E. Cooper",
+				"character": "Jett",
+				"gender": 2
+			},
+			{
+				"id": 83873,
+				"order": 15,
+				"name": "June Diane Raphael",
+				"profile_path": "/lAwKmADejWaxNCwraNJO6tbfItb.jpg",
+				"character": "Veronica",
+				"gender": 1
+			},
+			{
+				"id": 1561275,
+				"order": 16,
+				"name": "Mary Sohn",
+				"profile_path": "/OxTVZnB7WeDDTK5lwwZrXjSun8.jpg",
+				"character": "Vivian",
+				"gender": 1
+			},
+			{
+				"id": 1952255,
+				"order": 17,
+				"name": "Santina Muha",
+				"profile_path": "/mjrDAzO7C6rIEkV3sgrC6PjKvmx.jpg",
+				"character": "Judy (INS Agent)"
+			},
+			{
+				"id": 537,
+				"order": 18,
+				"name": "Stephen Tobolowsky",
+				"profile_path": "/uL8yfcm0dCFYFQt052kczVQVvac.jpg",
+				"character": "Mr. Elton Bates",
+				"gender": 2
+			},
+			{
+				"id": 2426324,
+				"order": 19,
+				"name": "Aryan Simhadri",
+				"profile_path": "/sK32LsmxWLeLGqcN7WojSjVfMp5.jpg",
+				"character": "Jai",
+				"gender": 2
+			},
+			{
+				"id": 552139,
+				"order": 20,
+				"name": "George Wallace",
+				"profile_path": "/ggukkf32UYeAZchFCAY7X6Z9szI.jpg",
+				"character": "George Wallace",
+				"gender": 2
+			},
+			{
+				"id": 2088734,
+				"order": 21,
+				"name": "Sherry Cola",
+				"profile_path": "/jR2utyh3YLEY0YQm0wHPuCZWRsM.jpg",
+				"character": "Sherry Cola",
+				"gender": 1
+			},
+			{
+				"id": 3727615,
+				"order": 22,
+				"name": "Kylah Davila",
+				"profile_path": "/gRzkjkcEIOPU8991GpGIE4ZFh1u.jpg",
+				"character": "Athena"
+			},
+			{
+				"id": 5573329,
+				"order": 23,
+				"name": "Nell Murphy",
+				"character": "Beta Girl"
+			},
+			{
+				"id": 3743780,
+				"order": 24,
+				"name": "Noen Perez",
+				"profile_path": "/aokiUcwDJlZcTditvVfkRaSLG98.jpg",
+				"character": "Julian",
+				"gender": 2
+			},
+			{
+				"id": 137169,
+				"order": 25,
+				"name": "Ryan Malgarini",
+				"profile_path": "/9vKGj0b3PZmpMyufyLzBsCOLDn7.jpg",
+				"character": "Harry",
+				"gender": 2
+			},
+			{
+				"id": 1371260,
+				"order": 26,
+				"name": "Valentina Garcia",
+				"profile_path": "/7ZOogsZoj6JHxnUpAaB5AcYbAxz.jpg",
+				"character": "Ms. Kathleen",
+				"gender": 1
+			},
+			{
+				"id": 1389727,
+				"order": 27,
+				"name": "Jimmy Bellinger",
+				"profile_path": "/vDJlTDp1sCuRNeXoDrCfrW6bQPQ.jpg",
+				"character": "Cayden",
+				"gender": 2
+			},
+			{
+				"id": 1504965,
+				"order": 28,
+				"name": "Ahmed Bharoocha",
+				"character": "Starbucks Employee",
+				"gender": 2
+			},
+			{
+				"id": 3191966,
+				"order": 29,
+				"name": "David Miranda",
+				"profile_path": "/hFcsWF7cKQFBYOSaolbvZkoqNPv.jpg",
+				"character": "Rizz Kid",
+				"gender": 2
+			},
+			{
+				"id": 1972151,
+				"order": 30,
+				"name": "Helena Grace Donald",
+				"profile_path": "/aNi0JwN1TW5pmHoSXirKXZ4J7NI.jpg",
+				"character": "Kristin",
+				"gender": 1
+			},
+			{
+				"id": 71451,
+				"order": 31,
+				"name": "Steve Crystal",
+				"character": "Dad (SUV)"
+			},
+			{
+				"id": 2000658,
+				"order": 32,
+				"name": "Chloe Fineman",
+				"profile_path": "/pzGIb2jkjeXGhOJryPf2n2w13lI.jpg",
+				"character": "GiGi",
+				"gender": 1
+			},
+			{
+				"id": 55422,
+				"order": 33,
+				"name": "Elaine Hendrix",
+				"profile_path": "/ajnxlCCO0IYQeaL2KOJwjFWkFG0.jpg",
+				"character": "Blake Kale",
+				"gender": 1
+			},
+			{
+				"id": 970238,
+				"order": 34,
+				"name": "Kiran Deol",
+				"profile_path": "/xEEztROnzKLIBb9We6qby9FpsVr.jpg",
+				"character": "Deva",
+				"gender": 1
+			},
+			{
+				"id": 3127828,
+				"order": 35,
+				"name": "Venk Modur",
+				"character": "Venk",
+				"gender": 2
+			},
+			{
+				"id": 1590223,
+				"order": 36,
+				"name": "Reasha Honaker",
+				"character": "Bess",
+				"gender": 1
+			},
+			{
+				"id": 1449238,
+				"order": 37,
+				"name": "Danielle Bux",
+				"profile_path": "/9Uo37SR37A7RSDLQvgnwcUbctE0.jpg",
+				"character": "Romy",
+				"gender": 1
+			},
+			{
+				"id": 3963866,
+				"order": 38,
+				"name": "Jaden Carson Baker",
+				"profile_path": "/yvDn97RJONcr75Y4saSJrSNxQy0.jpg",
+				"character": "Simon",
+				"gender": 2
+			},
+			{
+				"id": 5573331,
+				"order": 39,
+				"name": "Jai Ganatra",
+				"character": "Anand"
+			},
+			{
+				"id": 5573332,
+				"order": 40,
+				"name": "Eli Wolfensohn",
+				"character": "Mime Pusher"
+			},
+			{
+				"id": 5573333,
+				"order": 41,
+				"name": "Micah Wolfensohn",
+				"character": "Culinary Club Kid"
+			},
+			{
+				"id": 1720657,
+				"order": 42,
+				"name": "A.J. Danna",
+				"profile_path": "/m3uE8oTC39iw5yvIl87jYlMmrFd.jpg",
+				"character": "Mime",
+				"gender": 2
+			},
+			{
+				"id": 5573334,
+				"order": 43,
+				"name": "Emiliana Gavoni",
+				"character": "Jade Drake"
+			},
+			{
+				"id": 5573335,
+				"order": 44,
+				"name": "Julien Worsham",
+				"character": "Nate Seabass"
+			},
+			{
+				"id": 5573336,
+				"order": 45,
+				"name": "Naomi Fogarty",
+				"character": "Olivia"
+			},
+			{
+				"id": 5573337,
+				"order": 46,
+				"name": "Neel Mathoda-Shahi",
+				"character": "Miles"
+			},
+			{
+				"id": 2081033,
+				"order": 47,
+				"name": "Katherine Curcio",
+				"character": "Ms. Clark"
+			},
+			{
+				"id": 5573338,
+				"order": 48,
+				"name": "Aracely ORtiz",
+				"character": "Cely"
+			},
+			{
+				"id": 1798209,
+				"order": 49,
+				"name": "Kimberly Bigsby",
+				"profile_path": "/sXIPUnd8B0RFC7LLpAO418Xqgy3.jpg",
+				"character": "Beth",
+				"gender": 1
+			},
+			{
+				"id": 3584299,
+				"order": 50,
+				"name": "Bruce Seymour",
+				"character": "Angry Passenger"
+			},
+			{
+				"id": 5573339,
+				"order": 51,
+				"name": "Akshya",
+				"character": "Ajay"
+			},
+			{
+				"id": 3267964,
+				"order": 52,
+				"name": "Jonathan Rabon",
+				"character": "Dancer"
+			},
+			{
+				"id": 2086735,
+				"order": 53,
+				"name": "China Taylor",
+				"profile_path": "/7WzzECvkqXsIhhqVJfKjyxWkATB.jpg",
+				"character": "Dancer",
+				"gender": 1
+			},
+			{
+				"id": 5573342,
+				"order": 54,
+				"name": "Cedric Reboya",
+				"character": "Dancer"
+			},
+			{
+				"id": 1445446,
+				"order": 55,
+				"name": "Ricky Munoz",
+				"character": "Dancer"
+			},
+			{
+				"id": 5453471,
+				"order": 56,
+				"name": "Monique Watson",
+				"character": "Dancer"
+			},
+			{
+				"id": 5573344,
+				"order": 57,
+				"name": "Chloe Mihacevich",
+				"character": "Dancer"
+			},
+			{
+				"id": 5573345,
+				"order": 58,
+				"name": "Luz Celeste Remigo-Frias",
+				"character": "Dancer"
+			},
+			{
+				"id": 1575803,
+				"order": 59,
+				"name": "Chris Carlberg",
+				"character": "Pink Slip Drummer Ethan"
+			},
+			{
+				"id": 1526,
+				"order": 60,
+				"name": "Danny Rubin",
+				"profile_path": "/mAytkefumw5xIdoNStelFMwjrlE.jpg",
+				"character": "Pink Slip Bass Player Scott",
+				"gender": 2
+			},
+			{
+				"id": 3652608,
+				"order": 61,
+				"name": "Naomi McPherson",
+				"profile_path": "/2ojfCsqRVmUeb9ohpo1d3Q8jJSE.jpg",
+				"character": "Ella's Keyboard Player",
+				"gender": 3
+			},
+			{
+				"id": 3652607,
+				"order": 62,
+				"name": "Katie Gavin",
+				"profile_path": "/jXi09U6RK9iNXe6aAElCqMgCxwm.jpg",
+				"character": "Ella's Guitar Player",
+				"gender": 1
+			},
+			{
+				"id": 3652609,
+				"order": 63,
+				"name": "Josette Maskin",
+				"profile_path": "/iVPw07t4O5YZHDGBzDwxWQ1O0v5.jpg",
+				"character": "Ella's Guitar Player",
+				"gender": 3
+			},
+			{
+				"id": 5573348,
+				"order": 64,
+				"name": "Suzy Shinn",
+				"character": "Ella's Bass Player"
+			},
+			{
+				"id": 5573349,
+				"order": 65,
+				"name": "Max Kuehun",
+				"character": "Ella's Drummer"
+			},
+			{
+				"id": 3148538,
+				"order": 66,
+				"name": "Fiora Cutler",
+				"character": "Party Band Singer"
+			},
+			{
+				"id": 5573350,
+				"order": 67,
+				"name": "Stephanie Yu",
+				"character": "Party Band Bass Player"
+			},
+			{
+				"id": 4636142,
+				"order": 68,
+				"name": "Darla Hawn",
+				"character": "Party Band Drummer"
+			},
+			{
+				"id": 1575805,
+				"order": 69,
+				"name": "Amir Derakh",
+				"character": "Party Band Guitar Player",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 69510,
+				"name": "Ann Marie Sanderlin",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 64830,
+				"name": "Andrew Gunn",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1239766,
+				"name": "Nisha Ganatra",
+				"profile_path": "/6vfke1SDPxNfQGaRZIZVHxjr6G8.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 2109201,
+				"name": "Kristin Burr",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1351242,
+				"name": "Nathan Kelly",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 49265,
+				"name": "Lindsay Lohan",
+				"profile_path": "/mw6Cb1CztwCt1wuxljnFtt8Giqh.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 8944,
+				"name": "Jamie Lee Curtis",
+				"profile_path": "/hOQXeDjTlPoTKc0TvJuNue7ZIuG.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1108652,
+				"name": "Matthew Clark",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 989751,
+				"name": "Kay Lee",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1338157,
+				"name": "Natalie O'Brien",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1414984,
+				"name": "Adruitha Lee",
+				"profile_path": "/rBaJQex09HKKBqh2SQOhjP6gR37.jpg",
+				"job": "Hair Department Head",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1825887,
+				"name": "Mallory Thompson",
+				"profile_path": "/eOOduyzyYIJuNNWJn2wXbjtOmcH.jpg",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 2272449,
+				"name": "Hayley Wright",
+				"profile_path": "/4a7LgC3FxQzfCpstqUueHqYDDmd.jpg",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 92499,
+				"name": "Casey O'Neill",
+				"profile_path": "/aoT1prEjm2i4BYk2UUwYYhUtwTZ.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1634438,
+				"name": "Allan Padelford",
+				"job": "Stunt Driver",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3210016,
+				"name": "Cody Mackie",
+				"profile_path": "/hVgh0irVPjlxM8M3JAXqDw0UMFC.jpg",
+				"job": "Stunt Driver",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2762067,
+				"name": "Jason Tubbs",
+				"job": "Stunt Driver",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2186479,
+				"name": "Jordan Weiss",
+				"profile_path": "/p0GRa6lnXEtCQdlNuyzobS3B5qB.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 20540,
+				"name": "Randi Hiller",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1639377,
+				"name": "Joshua Bramer",
+				"job": "Property Master",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1565007,
+				"name": "Pud Cusack",
+				"job": "Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1533071,
+				"name": "Jeremy Hays",
+				"job": "Special Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1398970,
+				"name": "David Emmerichs",
+				"job": "\"A\" Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 1398970,
+				"name": "David Emmerichs",
+				"job": "Steadicam Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 2170658,
+				"name": "Janice Min",
+				"job": "\"B\" Camera Operator",
+				"department": "Camera",
+				"gender": 1
+			},
+			{
+				"id": 1463715,
+				"name": "Gregory Doi",
+				"job": "Chief Lighting Technician",
+				"department": "Lighting",
+				"gender": 2
+			},
+			{
+				"id": 1688593,
+				"name": "Michael C. Price",
+				"job": "Key Grip",
+				"department": "Camera"
+			},
+			{
+				"id": 1568251,
+				"name": "Eleanor Infante",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1589504,
+				"name": "Amie Doherty",
+				"profile_path": "/uO9Uic5Ai6d12NWOZYsNzlCJUEy.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 2112461,
+				"name": "Elyse Hollander",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 2186479,
+				"name": "Jordan Weiss",
+				"profile_path": "/p0GRa6lnXEtCQdlNuyzobS3B5qB.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 1485215,
+				"name": "Mary Rodgers",
+				"profile_path": "/gwYhUhQ6Y7SeG05XFyG6stuoL1Y.jpg",
+				"job": "Book",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 38415,
+				"name": "Mario Iscovich",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1745940,
+				"name": "Brandi Kalish",
+				"job": "Art Department Coordinator",
+				"department": "Art"
+			},
+			{
+				"id": 60537,
+				"name": "Jennifer Caputo",
+				"profile_path": "/wTaNQKVT98EeFZ3mbzeHVJoqctO.jpg",
+				"job": "Stunt Driver",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 2762038,
+				"name": "Ilyana Eberhardt",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1457917,
+				"name": "Nico Woulard",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 5599809,
+				"name": "Lyberti Evans",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			}
+		]
+	}
+}

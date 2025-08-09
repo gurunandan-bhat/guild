@@ -1,0 +1,603 @@
+{
+	"id": 1078605,
+	"title": "Weapons",
+	"fcg_title": "Weapons",
+	"original_title": "Weapons",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 27,
+			"name": "Horror"
+		},
+		{
+			"id": 9648,
+			"name": "Mystery"
+		}
+	],
+	"overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+	"backdrop_path": "/kyqM6padQzZ1eYxv84i9smNvZAG.jpg",
+	"poster_path": "/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+	"release_date": "2025-08-06",
+	"credits": {
+		"cast": [
+			{
+				"id": 936970,
+				"order": 0,
+				"name": "Julia Garner",
+				"profile_path": "/ud1RXbvW70J89iqeic7no8olxvb.jpg",
+				"character": "Justine Gandy",
+				"gender": 1
+			},
+			{
+				"id": 16851,
+				"order": 1,
+				"name": "Josh Brolin",
+				"profile_path": "/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg",
+				"character": "Archer Graff",
+				"gender": 2
+			},
+			{
+				"id": 71375,
+				"order": 2,
+				"name": "Alden Ehrenreich",
+				"profile_path": "/bx86TPUmeHp0QkijQb16r2qIwEr.jpg",
+				"character": "Paul Morgan",
+				"gender": 2
+			},
+			{
+				"id": 30082,
+				"order": 3,
+				"name": "Benedict Wong",
+				"profile_path": "/yYfLyrC2CE6vBWSJfkpuVKL2POM.jpg",
+				"character": "Marcus",
+				"gender": 2
+			},
+			{
+				"id": 15033,
+				"order": 4,
+				"name": "Justin Long",
+				"profile_path": "/7TGXeHw4o86IBm6xknQotpludXK.jpg",
+				"character": "Gary",
+				"gender": 2
+			},
+			{
+				"id": 23882,
+				"order": 5,
+				"name": "Amy Madigan",
+				"profile_path": "/6veWp9aOoo9dueAqlkljQ2lFcjz.jpg",
+				"character": "Gladys Lilly",
+				"gender": 1
+			},
+			{
+				"id": 2407997,
+				"order": 6,
+				"name": "Cary Christopher",
+				"profile_path": "/5ylpGyUKJBE0wglRdzJ1QWWENZC.jpg",
+				"character": "Alex Lilly",
+				"gender": 2
+			},
+			{
+				"id": 148992,
+				"order": 7,
+				"name": "Austin Abrams",
+				"profile_path": "/9pSpSAk9NsYC5puqAVsmSK3OSeu.jpg",
+				"character": "James",
+				"gender": 2
+			},
+			{
+				"id": 1105322,
+				"order": 8,
+				"name": "Whitmer Thomas",
+				"profile_path": "/rQwPfifWZTEWnX9nnzR5axKgOD3.jpg",
+				"character": "Mr. Lilly",
+				"gender": 2
+			},
+			{
+				"id": 2438324,
+				"order": 9,
+				"name": "Callie Schuttera",
+				"profile_path": "/rStZupJY2T9bRr8Y1kg4CEgnHUX.jpg",
+				"character": "Mrs. Lilly",
+				"gender": 1
+			},
+			{
+				"id": 18271,
+				"order": 10,
+				"name": "Toby Huss",
+				"profile_path": "/lFW4D9TgMgtHPTD4SM3eKFpMT67.jpg",
+				"character": "Captain Ed",
+				"gender": 2
+			},
+			{
+				"id": 83873,
+				"order": 11,
+				"name": "June Diane Raphael",
+				"profile_path": "/lAwKmADejWaxNCwraNJO6tbfItb.jpg",
+				"character": "Donna Morgan",
+				"gender": 1
+			},
+			{
+				"id": 2476129,
+				"order": 12,
+				"name": "Scarlett Sher",
+				"profile_path": "/2WeiAAqlcfZpmMcJmIPpTSG8zjB.jpg",
+				"character": "Narrator",
+				"gender": 1
+			},
+			{
+				"id": 3143736,
+				"order": 13,
+				"name": "Anny Jules",
+				"profile_path": "/jtfpYuJM5qln7S5GmSobakagMwL.jpg",
+				"character": "Parent #1"
+			},
+			{
+				"id": 2463892,
+				"order": 14,
+				"name": "Ali Burch",
+				"character": "Parent #2"
+			},
+			{
+				"id": 2917462,
+				"order": 15,
+				"name": "Michael Gene Conti",
+				"character": "Parent #3"
+			},
+			{
+				"id": 168658,
+				"order": 16,
+				"name": "Melissa Ponzio",
+				"profile_path": "/eeVIHZE0Y7A0TGiL3DITdXU4JT.jpg",
+				"character": "Archer's Wife",
+				"gender": 1
+			},
+			{
+				"id": 2634434,
+				"order": 17,
+				"name": "Luke Speakman",
+				"profile_path": "/lTngUURRsuiguNGzubZZhjNB86r.jpg",
+				"character": "Matthew Graff",
+				"gender": 2
+			},
+			{
+				"id": 3119213,
+				"order": 18,
+				"name": "Eric Jepson",
+				"profile_path": "/odKwJwAeJiFBuZiuTeCNPR9bLpE.jpg",
+				"character": "Officer",
+				"gender": 2
+			},
+			{
+				"id": 1265330,
+				"order": 19,
+				"name": "Aaron Quick Nelson",
+				"profile_path": "/sSNCIkGSIRQciVTVotmjs0GEequ.jpg",
+				"character": "Foreman",
+				"gender": 2
+			},
+			{
+				"id": 1601679,
+				"order": 20,
+				"name": "Clayton Farris",
+				"profile_path": "/pLfJfxA2hsSIcKX76EooFixCEBU.jpg",
+				"character": "Terry",
+				"gender": 2
+			},
+			{
+				"id": 1920692,
+				"order": 21,
+				"name": "Ashley Ames",
+				"profile_path": "/cdCCwAUNzRyPb6vnroHQKqy0ePu.jpg",
+				"character": "Bystander",
+				"gender": 1
+			},
+			{
+				"id": 5306940,
+				"order": 22,
+				"name": "Aubrey Brockwell",
+				"character": "Classmate"
+			},
+			{
+				"id": 1084721,
+				"order": 23,
+				"name": "Jason Turner",
+				"profile_path": "/vSSr1oX6YyUUuVPkxbzV4bBqqIr.jpg",
+				"character": "Counselor",
+				"gender": 2
+			},
+			{
+				"id": 2027042,
+				"order": 24,
+				"name": "Carrie Gibson",
+				"profile_path": "/mAzEqxagUYim7m2Edl9jJcH8xH3.jpg",
+				"character": "Marge",
+				"gender": 1
+			},
+			{
+				"id": 1922620,
+				"order": 25,
+				"name": "Carl Kennedy",
+				"profile_path": "/lQorgOBuvKDKTcoiIbCWhfMMumc.jpg",
+				"character": "Grown Up",
+				"gender": 2
+			},
+			{
+				"id": 2231953,
+				"order": 26,
+				"name": "Jared Simon",
+				"profile_path": "/3vDxTcO0hVH0rFYMuNtnKlevnGi.jpg",
+				"character": "Doctor",
+				"gender": 2
+			},
+			{
+				"id": 1757731,
+				"order": 27,
+				"name": "Robert Hendren",
+				"profile_path": "/oZSCc6NocZp4OlNREWzdxmf7YPx.jpg",
+				"character": "Detective",
+				"gender": 2
+			},
+			{
+				"id": 4548755,
+				"order": 28,
+				"name": "Mohammed Fahmy",
+				"character": "Pawn Broker"
+			},
+			{
+				"id": 1635144,
+				"order": 29,
+				"name": "Trey McGriff",
+				"profile_path": "/iuGh6AGdnfLdPEB93bQxnGiq48W.jpg",
+				"character": "Parent",
+				"gender": 2
+			},
+			{
+				"id": 3210112,
+				"order": 30,
+				"name": "Derek Chouinard",
+				"profile_path": "/7R5yzKaD1LvpXvDEjTWu96ptqCO.jpg",
+				"character": "PTA Parent",
+				"gender": 2
+			},
+			{
+				"id": 4141962,
+				"order": 31,
+				"name": "Drew Broderick",
+				"character": "PTA Parent"
+			},
+			{
+				"id": 4151186,
+				"order": 32,
+				"name": "Joey Shear",
+				"character": "PTA Parent"
+			},
+			{
+				"id": 74225,
+				"order": 33,
+				"name": "Jaymes Butler",
+				"profile_path": "/i22INNLIiq0h3W26UwdcLed1O4N.jpg",
+				"gender": 2
+			},
+			{
+				"id": 2987140,
+				"order": 34,
+				"name": "Sarah Kopkin",
+				"profile_path": "/dxKEKHU2oBM98F4IB8C1mzqwgou.jpg",
+				"gender": 1
+			},
+			{
+				"id": 3138960,
+				"order": 35,
+				"name": "Sergio Duque"
+			},
+			{
+				"id": 3443720,
+				"order": 36,
+				"name": "Jonathan Auguste",
+				"gender": 2
+			},
+			{
+				"id": 5612853,
+				"order": 37,
+				"name": "Keith Paul Carpenter",
+				"character": "Frantic Parent (uncredited)"
+			}
+		],
+		"crew": [
+			{
+				"id": 84833,
+				"name": "Zach Cregger",
+				"profile_path": "/aUogFaUip4SAf8FOlqsQCCkX9jq.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 84833,
+				"name": "Zach Cregger",
+				"profile_path": "/aUogFaUip4SAf8FOlqsQCCkX9jq.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1276439,
+				"name": "J.D. Lifshitz",
+				"profile_path": "/wsKG7zRaVG17DT22QQag0Fzz4HN.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1123422,
+				"name": "Miri Yoon",
+				"profile_path": "/An8iX130gWK8SSPV72Bq8t83se5.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 84833,
+				"name": "Zach Cregger",
+				"profile_path": "/aUogFaUip4SAf8FOlqsQCCkX9jq.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 21036,
+				"name": "Roy Lee",
+				"profile_path": "/fMY0MiVyrGaK44ejqWzT2txcRVI.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1276440,
+				"name": "Raphael Margules",
+				"profile_path": "/3Dqpx0s7zOZ086aTzlLMmb1AdJT.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 57430,
+				"name": "Richard Brener",
+				"profile_path": "/i1nFbAKpbtjxBr2vkY5WeYRs250.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1098783,
+				"name": "Tom Hammock",
+				"profile_path": "/mCB9AEVpATXxweHESls50ZXYOLo.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1458711,
+				"name": "Larkin Seiple",
+				"profile_path": "/ksCies1gs06R1Nc4Ct0Rira3LNm.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2540961,
+				"name": "John C. Hoffler Jr.",
+				"job": "Second Assistant \"A\" Camera",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2071754,
+				"name": "Emily Kacere",
+				"job": "Unit Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 1763798,
+				"name": "Alex Bickel",
+				"job": "Colorist",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1635187,
+				"name": "James Peterson",
+				"job": "Production Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 16851,
+				"name": "Josh Brolin",
+				"profile_path": "/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1400362,
+				"name": "Michelle Morrissey",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1543198,
+				"name": "Cameron Beasley",
+				"job": "Supervising Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 1856994,
+				"name": "Leo Satkovich",
+				"job": "Makeup Department Head",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1407340,
+				"name": "Melizah Anguiano Wheat",
+				"job": "Hair Department Head",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 2132378,
+				"name": "Filipe Messeder",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2132378,
+				"name": "Filipe Messeder",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1635196,
+				"name": "Laurence Chavez",
+				"profile_path": "/egig2qLfKqdq10cexZABDwKjdnF.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1179562,
+				"name": "Michael Fuchs",
+				"job": "\"A\" Camera Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1179562,
+				"name": "Michael Fuchs",
+				"job": "Steadicam Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1665616,
+				"name": "Matt Curtis",
+				"profile_path": "/ijoE4C3RQvaLqaDSxkDiEgpQXNv.jpg",
+				"job": "Title Designer",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 2026825,
+				"name": "Nathan Krochmal",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1824491,
+				"name": "Justin Nathaniel Kistler",
+				"job": "Assistant Art Director",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 3129306,
+				"name": "Jenny Wentling",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 1449077,
+				"name": "Gretchen Gattuso",
+				"job": "Set Decoration",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1002919,
+				"name": "Trish Summerville",
+				"profile_path": "/dlgLaH2ZuCL3bHAWZgrudeI3oHL.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1764803,
+				"name": "Sean Tanner",
+				"job": "Gaffer",
+				"department": "Lighting",
+				"gender": 2
+			},
+			{
+				"id": 84833,
+				"name": "Zach Cregger",
+				"profile_path": "/aUogFaUip4SAf8FOlqsQCCkX9jq.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2379292,
+				"name": "Ryan Holladay",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 2379291,
+				"name": "Hays Holladay",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 1496396,
+				"name": "Joe Murphy",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1990729,
+				"name": "Yuval Levy",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 3322857,
+				"name": "Noelle Jean-Baptiste",
+				"job": "Set Decoration Buyer",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 4445623,
+				"name": "Andrew Lary",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4445624,
+				"name": "Anthony Tittanegro",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4445622,
+				"name": "Pete Chiappetta",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 7467,
+				"name": "David Fincher",
+				"profile_path": "/tpEczFclQZeKAiCeKZZ0adRvtfz.jpg",
+				"job": "Thanks",
+				"department": "Crew",
+				"gender": 2
+			}
+		]
+	}
+}
