@@ -1,7 +1,7 @@
 +++
 title = "Mothevari Love Story"
 date = 2025-08-09T21:39:03+05:30
-draft = true
+draft = false
 mreviews = ["Mothevari Love Story"]
 critics = ['Srivathsan Nadadhur']
 publication = 'M9 News'
