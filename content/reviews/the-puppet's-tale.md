@@ -1,8 +1,9 @@
 +++
-title = "The Puppet's Tale"
+title = "Putulnaacher Itikotha"
 date = 2025-02-04T22:45:02+05:30
 draft = false
-mreviews = ["The Puppet's Tale"]
+translatedTitle = "The Puppet's Tale"
+mreviews = ["Putulnaacher Itikotha"]
 critics = ['Aditya Shrikrishna']
 publication = 'OTT Play'
 subtitle = "Captures The Anxiety Of A Man and A Country — On The Edge"
