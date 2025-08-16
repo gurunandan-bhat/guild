@@ -1,8 +1,8 @@
 +++
-title = "Mayasabha"
+title = "Mayasabha - Rise of the Titans"
 date = 2025-08-15T16:50:08+05:30
 draft = false
-mreviews = ["Mayasabha"]
+mreviews = ["Mayasabha - Rise of the Titans"]
 critics = ['Prathyush Parasuraman']
 publication = ''
 subtitle = "Deva Katta's Political Drama Hampered By Weak Writing and Stiff Acting"
