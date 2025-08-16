@@ -4,7 +4,7 @@ draft = false
 weight = 252
 title = 'Prathyush Parasuraman'
 organizations = ['The Hollywood Reporter India']
-img = '/images/members/Prathyush_parasuraman.jpg'
+img = '/images/members/Prathyush_Parasuraman.jpg'
 
 [soc_media]
 twitter = 'https://x.com/pruhthyush'
