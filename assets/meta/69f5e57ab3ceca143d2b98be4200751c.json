@@ -1,0 +1,833 @@
+{
+	"id": 1151031,
+	"title": "Bring Her Back",
+	"fcg_title": "Bring Her Back",
+	"original_title": "Bring Her Back",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 27,
+			"name": "Horror"
+		}
+	],
+	"overview": "Following the death of their father, a brother and sister are introduced to their new sibling by their foster mother, only to learn that she has a terrifying secret.",
+	"backdrop_path": "/2IIKts2A9vnUdM9tTC76B8tDmuZ.jpg",
+	"poster_path": "/tObSf1VzzHt9xB0csanFtb3DRjf.jpg",
+	"release_date": "2025-05-28",
+	"credits": {
+		"cast": [
+			{
+				"id": 1840063,
+				"order": 0,
+				"name": "Billy Barratt",
+				"profile_path": "/h8XlTs26su2Rg3oLtShERYEnVc6.jpg",
+				"character": "Andy",
+				"gender": 2
+			},
+			{
+				"id": 39658,
+				"order": 1,
+				"name": "Sally Hawkins",
+				"profile_path": "/1dtDq82dM2YQ17lBL4ZKPJo5LKw.jpg",
+				"character": "Laura",
+				"gender": 1
+			},
+			{
+				"id": 3253214,
+				"order": 2,
+				"name": "Mischa Heywood",
+				"profile_path": "/j2UwxVdyhK7q58A3fdTFalQB7jf.jpg",
+				"character": "Cathy",
+				"gender": 1
+			},
+			{
+				"id": 4741316,
+				"order": 3,
+				"name": "Jonah Wren Phillips",
+				"profile_path": "/zBy4aBLg10Qz8di9P12mBpnf97F.jpg",
+				"character": "Oliver",
+				"gender": 2
+			},
+			{
+				"id": 216979,
+				"order": 4,
+				"name": "Stephen Phillips",
+				"profile_path": "/cHHJDSm18g18s5t44nKBmq6FQtF.jpg",
+				"character": "Phil",
+				"gender": 2
+			},
+			{
+				"id": 1560405,
+				"order": 5,
+				"name": "Sally-Anne Upton",
+				"profile_path": "/iwaFfln6gKuedwF5FjgAO60KJDd.jpg",
+				"character": "Wendy",
+				"gender": 1
+			},
+			{
+				"id": 4741323,
+				"order": 6,
+				"name": "Sora Wong",
+				"profile_path": "/lh2fvJyAn5pX9EQU1jMUMxUl5d1.jpg",
+				"character": "Piper",
+				"gender": 1
+			},
+			{
+				"id": 5012628,
+				"order": 7,
+				"name": "Kathryn Adams",
+				"character": "Anna"
+			},
+			{
+				"id": 4222366,
+				"order": 8,
+				"name": "Brian Godfrey",
+				"character": "Ivan"
+			},
+			{
+				"id": 1811482,
+				"order": 9,
+				"name": "Brendan Bacon",
+				"profile_path": "/uTBjeGPq3JJKbVyWYR5XtEkotvU.jpg",
+				"character": "Anton",
+				"gender": 2
+			},
+			{
+				"id": 1445877,
+				"order": 10,
+				"name": "Olga Miller",
+				"profile_path": "/387I7r2u6zPAKCmCR2GxNumnPQf.jpg",
+				"character": "Macia",
+				"gender": 1
+			},
+			{
+				"id": 5428687,
+				"order": 11,
+				"name": "Nicola Tiele",
+				"character": "Berta"
+			},
+			{
+				"id": 3648553,
+				"order": 12,
+				"name": "Frances Cassar",
+				"character": "Katrina"
+			},
+			{
+				"id": 4566852,
+				"order": 13,
+				"name": "Asha O'Connell",
+				"character": "Naomi"
+			},
+			{
+				"id": 5428700,
+				"order": 14,
+				"name": "Arianny Ross",
+				"character": "Kimmy"
+			},
+			{
+				"id": 5428701,
+				"order": 15,
+				"name": "Amya Mollison",
+				"character": "Samantha"
+			},
+			{
+				"id": 5428706,
+				"order": 16,
+				"name": "Keith Warrior",
+				"character": "Funeral Guest"
+			},
+			{
+				"id": 5428707,
+				"order": 17,
+				"name": "Ryan Linton Brown",
+				"character": "Tari Demon"
+			},
+			{
+				"id": 112666,
+				"order": 18,
+				"name": "Nathan O'Keefe",
+				"profile_path": "/3itlxZbzgO8lgow1DD2VAcysV9v.jpg",
+				"character": "Doctor",
+				"gender": 2
+			},
+			{
+				"id": 5428709,
+				"order": 19,
+				"name": "Nikou Javadi",
+				"character": "Nurse"
+			},
+			{
+				"id": 5428713,
+				"order": 20,
+				"name": "Ben Jacobs",
+				"character": "Real Oliver"
+			},
+			{
+				"id": 3115932,
+				"order": 21,
+				"name": "Sophie Wilde",
+				"profile_path": "/3ImqawPfIsu95THFeCYGQw2500H.jpg",
+				"character": "Middle Aged Mum #4",
+				"gender": 1
+			},
+			{
+				"id": 5428714,
+				"order": 22,
+				"name": "Kira Wong",
+				"character": "Young Piper"
+			},
+			{
+				"id": 3060002,
+				"order": 23,
+				"name": "Luana Pohe",
+				"profile_path": "/wgBwl6XOUMXVr22rlMI3XaiGpUo.jpg",
+				"character": "DCP Receptionist"
+			},
+			{
+				"id": 5428715,
+				"order": 24,
+				"name": "Jessie Prifti",
+				"character": "DCP Single Mum"
+			},
+			{
+				"id": 5428716,
+				"order": 25,
+				"name": "Alexander Prifti",
+				"character": "DCP Waiting Kid"
+			},
+			{
+				"id": 1226938,
+				"order": 26,
+				"name": "Scott Mills",
+				"profile_path": "/rpPLcMpN4TFugVHjVIIRcOPqOXc.jpg",
+				"character": "DCP Security",
+				"gender": 2
+			},
+			{
+				"id": 5428717,
+				"order": 27,
+				"name": "Kahran Mckenzie",
+				"character": "DCP Security"
+			},
+			{
+				"id": 2386170,
+				"order": 28,
+				"name": "Bree Peters",
+				"profile_path": "/19lMvyMpbalEsFpAoC5H3B09jaU.jpg",
+				"character": "Goalball Coach",
+				"gender": 1
+			},
+			{
+				"id": 5339998,
+				"order": 29,
+				"name": "Ruth Natalie Fallon",
+				"character": "Young Woman 1"
+			},
+			{
+				"id": 4187087,
+				"order": 30,
+				"name": "Helene Philippou",
+				"character": "Young Woman 2"
+			},
+			{
+				"id": 5428720,
+				"order": 31,
+				"name": "Elana Lipapis",
+				"character": "Girl From Car Who Doesn't Get Seen"
+			},
+			{
+				"id": 5428723,
+				"order": 32,
+				"name": "Calum Scrivens",
+				"character": "Sargeant Jai Lauder"
+			},
+			{
+				"id": 5257128,
+				"order": 33,
+				"name": "Alina Bellchambers",
+				"character": "Constable Kiera Gray"
+			}
+		],
+		"crew": [
+			{
+				"id": 1972016,
+				"name": "Samantha Jennings",
+				"profile_path": "/9pSZ56COjFRSWMdYPEQHn4r413T.jpg",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1364805,
+				"name": "Kristina Ceyton",
+				"profile_path": "/alDHdCaDnFvo0JXlkDM4CtqLuK6.jpg",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2046119,
+				"name": "Aaron McLisky",
+				"profile_path": "/hVa2CeNN01Oksm4cYc6Q26oZT6S.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2070453,
+				"name": "Danny Philippou",
+				"profile_path": "/zzf84gR6R6D5ZJDLY8jQH5tsfDc.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2070453,
+				"name": "Danny Philippou",
+				"profile_path": "/zzf84gR6R6D5ZJDLY8jQH5tsfDc.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2070452,
+				"name": "Michael Philippou",
+				"profile_path": "/zpkBlS9F4FGbNxaOQY2AuvL18Q8.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 3764010,
+				"name": "Bill Hinzman",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1323512,
+				"name": "Cornel Wilczek",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1935682,
+				"name": "Anna Cahill",
+				"profile_path": "/wC1FgzH8afa1nsnL8DQlAuX0S22.jpg",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2885507,
+				"name": "Matteo Medos",
+				"job": "Swing",
+				"department": "Art"
+			},
+			{
+				"id": 3648662,
+				"name": "Laura Ockenden",
+				"job": "Art Department Coordinator",
+				"department": "Art"
+			},
+			{
+				"id": 1401740,
+				"name": "Zeb Simpson",
+				"job": "Video Assist Operator",
+				"department": "Crew"
+			},
+			{
+				"id": 2699096,
+				"name": "Kelly Graham",
+				"job": "Casting Associate",
+				"department": "Production"
+			},
+			{
+				"id": 4868216,
+				"name": "Erica Ockenden",
+				"job": "Supervising Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 3648644,
+				"name": "Troy Dignon",
+				"job": "Property Master",
+				"department": "Art"
+			},
+			{
+				"id": 3156428,
+				"name": "Peter Giuliani",
+				"job": "Gaffer",
+				"department": "Lighting"
+			},
+			{
+				"id": 2789447,
+				"name": "Alex Yakimov",
+				"job": "Stunt Double",
+				"department": "Crew"
+			},
+			{
+				"id": 3157777,
+				"name": "Tori Wendt",
+				"job": "Standby Property Master",
+				"department": "Art"
+			},
+			{
+				"id": 1554064,
+				"name": "Judd Wild",
+				"profile_path": "/6uHVZ7oYwJLb7IsxVm795mosY3F.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1401667,
+				"name": "Michael Bell",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 4868217,
+				"name": "Nicole Frazier",
+				"job": "Props",
+				"department": "Art"
+			},
+			{
+				"id": 79377,
+				"name": "Richard Boué",
+				"job": "Stunts",
+				"department": "Crew"
+			},
+			{
+				"id": 4868218,
+				"name": "Craig Morgan",
+				"job": "Stunt Double",
+				"department": "Crew"
+			},
+			{
+				"id": 3345678,
+				"name": "Max Nadilo",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1445877,
+				"name": "Olga Miller",
+				"profile_path": "/387I7r2u6zPAKCmCR2GxNumnPQf.jpg",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 4589985,
+				"name": "Zhou Yeye",
+				"profile_path": "/ap1oYlYFBtDZu890pkfFT46SIJa.jpg",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 3428638,
+				"name": "Jason Rodrigues",
+				"job": "Steadicam Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 2701249,
+				"name": "Charlie Whitaker",
+				"job": "First Assistant \"A\" Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 1490393,
+				"name": "Andrew Kotatko",
+				"profile_path": "/qkb2pvtcx21H83IkM8pCtGqWkqo.jpg",
+				"job": "Music Supervisor",
+				"department": "Sound"
+			},
+			{
+				"id": 1980633,
+				"name": "Carly Maple",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4377241,
+				"name": "Jess Parker",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 37281,
+				"name": "Nikki Barrett",
+				"profile_path": "/ssE4q12qbvB8BSxs8AXFRqEQ4tT.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1410552,
+				"name": "Justine Angus",
+				"profile_path": "/rRfzshvhe2eV0Hp7TsDzzIsaado.jpg",
+				"job": "ADR Editor",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1410552,
+				"name": "Justine Angus",
+				"profile_path": "/rRfzshvhe2eV0Hp7TsDzzIsaado.jpg",
+				"job": "Dialogue Editor",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1402909,
+				"name": "Emma Bortignon",
+				"job": "Supervising Sound Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 3854978,
+				"name": "Aidyn Davis",
+				"job": "Boom Operator",
+				"department": "Sound"
+			},
+			{
+				"id": 4192459,
+				"name": "Jace Hooper",
+				"job": "Boom Operator",
+				"department": "Sound"
+			},
+			{
+				"id": 2148997,
+				"name": "Oliver McLoughlin",
+				"job": "Boom Operator",
+				"department": "Sound"
+			},
+			{
+				"id": 1980643,
+				"name": "Nick Steele",
+				"job": "Sound Recordist",
+				"department": "Sound"
+			},
+			{
+				"id": 1961727,
+				"name": "Tim Riach",
+				"job": "Special Effects",
+				"department": "Crew"
+			},
+			{
+				"id": 5257184,
+				"name": "Nate Charles Karagiannis-Troisi",
+				"job": "Visual Effects",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 4509789,
+				"name": "James Haskard",
+				"job": "Lighting Technician",
+				"department": "Lighting"
+			},
+			{
+				"id": 3119858,
+				"name": "Scott Heysen",
+				"job": "Data Wrangler",
+				"department": "Camera"
+			},
+			{
+				"id": 2885341,
+				"name": "Ben Hunt",
+				"job": "Digital Imaging Technician",
+				"department": "Camera"
+			},
+			{
+				"id": 5257190,
+				"name": "Brad Sax",
+				"job": "Lighting Technician",
+				"department": "Lighting"
+			},
+			{
+				"id": 3048683,
+				"name": "Bec Taylor",
+				"job": "Second Assistant \"B\" Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 5257194,
+				"name": "Rebecca King",
+				"job": "Script Supervisor",
+				"department": "Directing"
+			},
+			{
+				"id": 4308882,
+				"name": "Sarah Vaughan",
+				"job": "Script Supervisor",
+				"department": "Directing"
+			},
+			{
+				"id": 2720752,
+				"name": "James Dubay",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2607041,
+				"name": "Emma Marshall",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 3286078,
+				"name": "Rachael Havercroft",
+				"job": "Post Production Supervisor",
+				"department": "Crew"
+			},
+			{
+				"id": 1311620,
+				"name": "Larry Van Duynhoven",
+				"job": "Prosthetic Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1919842,
+				"name": "Mariel McClorey",
+				"job": "Prosthetic Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5257200,
+				"name": "Lenny Irwin",
+				"job": "Prosthetic Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1588673,
+				"name": "Jac Charlton",
+				"job": "Prosthetics",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5257206,
+				"name": "Robert Charlton",
+				"job": "Prosthetics",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1325186,
+				"name": "Vanessa Cerne",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1410558,
+				"name": "Olivia Iacobelli",
+				"job": "Costume Supervisor",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2148307,
+				"name": "Kate O'Boyle",
+				"job": "Costume Assistant",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2910949,
+				"name": "Philippa O'Brien",
+				"job": "Key Costumer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1963076,
+				"name": "Maria Humphreys",
+				"job": "Location Manager",
+				"department": "Production"
+			},
+			{
+				"id": 3977726,
+				"name": "Scott McCarten",
+				"job": "Location Coordinator",
+				"department": "Production"
+			},
+			{
+				"id": 2164729,
+				"name": "Francesco Cadoni",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2788719,
+				"name": "Jack James Troisi",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 5339998,
+				"name": "Ruth Natalie Fallon",
+				"job": "Stunts",
+				"department": "Crew"
+			},
+			{
+				"id": 5340001,
+				"name": "Ella McCarten",
+				"job": "Unit Swing",
+				"department": "Production"
+			},
+			{
+				"id": 1839053,
+				"name": "Lachlan Harris",
+				"job": "Sound Effects Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2096101,
+				"name": "Eddy Taylor",
+				"job": "Concept Artist",
+				"department": "Art"
+			},
+			{
+				"id": 5340023,
+				"name": "Daniel Wilson",
+				"job": "Assistant Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 3648650,
+				"name": "Karen Macey-Mort",
+				"job": "Animal Wrangler",
+				"department": "Crew"
+			},
+			{
+				"id": 5340044,
+				"name": "Dan Gill",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2070453,
+				"name": "Danny Philippou",
+				"profile_path": "/zzf84gR6R6D5ZJDLY8jQH5tsfDc.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2070452,
+				"name": "Michael Philippou",
+				"profile_path": "/zpkBlS9F4FGbNxaOQY2AuvL18Q8.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5471960,
+				"name": "Emily Benham",
+				"job": "Compositor",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 3156903,
+				"name": "Maddy Worthington",
+				"job": "Set Decoration",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1452257,
+				"name": "Paul Katte",
+				"job": "Prosthetic Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1452258,
+				"name": "Nick Nicolaou",
+				"job": "Prosthetic Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5562096,
+				"name": "Winbi Trang Nguyen",
+				"job": "Prosthetic Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2757673,
+				"name": "Finnegan Spencer",
+				"job": "Title Designer",
+				"department": "Art"
+			},
+			{
+				"id": 1872829,
+				"name": "Cameron Grant",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 2967683,
+				"name": "Lee Yee",
+				"job": "Sound Effects Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 2168799,
+				"name": "Jennifer Leonforte",
+				"job": "Sound Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 2737712,
+				"name": "Sam Rogers",
+				"job": "Foley Artist",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5210338,
+				"name": "Lara Schneider",
+				"job": "Foley Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 1962918,
+				"name": "Ryan Squires",
+				"job": "Foley Recordist",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 4588209,
+				"name": "Matt Lapthorne",
+				"job": "Foley Supervisor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1971967,
+				"name": "Pete Smith",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1402909,
+				"name": "Emma Bortignon",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1886734,
+				"name": "Christian Scallan",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 2437333,
+				"name": "Geoff Lamb",
+				"job": "Editor",
+				"department": "Editing"
+			}
+		]
+	}
+}
