@@ -1,3 +1,3 @@
 {{ range .Sections }}
-    {{- .Pages | jsonify (dict "prefix" "" "indent" "\t") }}
+    {{- .Pages | jsonify }}
 {{ end }}
