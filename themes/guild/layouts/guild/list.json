@@ -1,3 +1,7 @@
-{{ range .Pages }}
-    {{- . | jsonify (dict "prefix" "" "indent" "\t") }}
-{{ end }}
+{{- $guild := slice }}
+{{- range .Sections }}
+    {{- range .Pages }}
+        {{- $guild = append . $guild }}
+    {{- end }}
+{{- end }}
+{{- $guild | jsonify (dict "prefix" "" "indent" "\t") }}
