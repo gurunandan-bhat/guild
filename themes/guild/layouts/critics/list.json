@@ -5,4 +5,4 @@
     {{- $cJson = merge $cJson (dict "ReviewCount" ($reviews | len)) }}
     {{- $critics = append $critics (slice $cJson) }}
 {{- end }}
-{{- $critics | jsonify }}
+{{- $critics | jsonify (dict "prefix" "" "indent" "\t") }}

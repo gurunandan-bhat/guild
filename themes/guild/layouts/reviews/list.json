@@ -4,4 +4,4 @@
     {{- $pageMap = merge $pageMap (dict "Params" .Params "Summary" .Summary "Content" .RawContent) }}
     {{- $reviews = append $pageMap $reviews }}
 {{- end }}
-{{- $reviews | jsonify }}
+{{- $reviews | jsonify (dict "prefix" "" "indent" "\t") }}

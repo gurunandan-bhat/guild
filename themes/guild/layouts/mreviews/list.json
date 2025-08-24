@@ -1,1 +1,1 @@
-{{- .Pages | jsonify }}
+{{- .Pages | jsonify (dict "prefix" "" "indent" "\t") }}
