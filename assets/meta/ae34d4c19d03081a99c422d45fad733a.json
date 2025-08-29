@@ -1,0 +1,364 @@
+{
+	"id": 1267905,
+	"title": "The Roses",
+	"fcg_title": "The Roses",
+	"original_title": "The Roses",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Life seems easy for picture-perfect couple Ivy and Theo: successful careers, a loving marriage, great kids. But beneath the façade of their supposed ideal life, a storm is brewing – as Theo's career nosedives while Ivy's own ambitions take off, a tinderbox of fierce competition and hidden resentment ignites.",
+	"backdrop_path": "/A5m0wi9rm4kxf9T5wFn3pBqaLtp.jpg",
+	"poster_path": "/98n5HnCJ5LnXKIMNP9SBfVNyxCE.jpg",
+	"release_date": "2025-08-27",
+	"credits": {
+		"cast": [
+			{
+				"id": 71580,
+				"order": 0,
+				"name": "Benedict Cumberbatch",
+				"profile_path": "/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg",
+				"character": "Theo",
+				"gender": 2
+			},
+			{
+				"id": 39187,
+				"order": 1,
+				"name": "Olivia Colman",
+				"profile_path": "/lawJUdbLb1YW0niaYjiVGR9IBG8.jpg",
+				"character": "Ivy",
+				"gender": 1
+			},
+			{
+				"id": 62861,
+				"order": 2,
+				"name": "Andy Samberg",
+				"profile_path": "/jMXU5oG3i93SH1yhkpbBGskFiJl.jpg",
+				"character": "Barry",
+				"gender": 2
+			},
+			{
+				"id": 1240487,
+				"order": 3,
+				"name": "Kate McKinnon",
+				"profile_path": "/7o26OzpEPAUma65jGQZop9d52gy.jpg",
+				"character": "Amy",
+				"gender": 1
+			},
+			{
+				"id": 19,
+				"order": 4,
+				"name": "Allison Janney",
+				"profile_path": "/hpBKWV1jjoXQbr1s0iUZTSvw582.jpg",
+				"character": "Eleanor",
+				"gender": 1
+			},
+			{
+				"id": 1475239,
+				"order": 5,
+				"name": "Ncuti Gatwa",
+				"profile_path": "/vLFh9kdB2G06ugwYmRNpxiXhbN0.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1470911,
+				"order": 6,
+				"name": "Jamie Demetriou",
+				"profile_path": "/nRhjzDgxQ8PzdUX1MTGhSmWwm8D.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1432528,
+				"order": 7,
+				"name": "Zoë Chao",
+				"profile_path": "/p8KqD4o4F17wQ8nJYky0DHzKYcn.jpg",
+				"gender": 1
+			},
+			{
+				"id": 1228899,
+				"order": 8,
+				"name": "Belinda Bromilow",
+				"profile_path": "/wogUw8gWAjfKYK9CM1pVOdohvvA.jpg",
+				"character": "Janice",
+				"gender": 1
+			},
+			{
+				"id": 1375002,
+				"order": 9,
+				"name": "Sunita Mani",
+				"profile_path": "/xQo4rkMEphSAt8F9D1OyWv0GBLx.jpg",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 6737,
+				"name": "Jay Roach",
+				"profile_path": "/48uTxNDRlnP56quVewyByotKAen.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 4627966,
+				"name": "Jonathan R. Adler",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1497322,
+				"name": "Michael Adler",
+				"profile_path": "/aYMEJIL6XbpxSyFTFMqZhu2nmUz.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1782631,
+				"name": "Adam Ackland",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3022688,
+				"name": "Ed Sinclair",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 6737,
+				"name": "Jay Roach",
+				"profile_path": "/48uTxNDRlnP56quVewyByotKAen.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2148541,
+				"name": "Leah Clarke",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1555795,
+				"name": "Michelle Graham",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 4222791,
+				"name": "Tom Carver",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3390,
+				"name": "Warren Adler",
+				"profile_path": "/3gevS3KqNn8KQME48ZD2UYM4x4g.jpg",
+				"job": "Novel",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1610285,
+				"name": "Joel Venti",
+				"job": "Storyboard Artist",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 10231,
+				"name": "Florian Hoffmeister",
+				"profile_path": "/dcU260q4gxPG3JWu5AfpxsNwXIR.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 60193,
+				"name": "Mark Ricker",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 10395,
+				"name": "Jon Poll",
+				"profile_path": "/pFJizsdnopXmNziTPz5Lbj1se5r.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 2750901,
+				"name": "PC Williams",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1187171,
+				"name": "Wakana Yoshihara",
+				"profile_path": "/kylBe196ud1b8DtB1L4te2IJJfB.jpg",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2014534,
+				"name": "Gareth Wingrove",
+				"job": "Special Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1187171,
+				"name": "Wakana Yoshihara",
+				"profile_path": "/kylBe196ud1b8DtB1L4te2IJJfB.jpg",
+				"job": "Hair Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1278131,
+				"name": "Paul Kennington",
+				"profile_path": "/zd73bf0gF9ws8jvgrcg1DNNBnxa.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1796987,
+				"name": "Rachael Evelyn",
+				"profile_path": "/89fAPQEyxYBlrmmHBTaV7TKewxb.jpg",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 4114395,
+				"name": "Jessica Laws",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1534734,
+				"name": "Joe Payne",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5040605,
+				"name": "Sophie Graham",
+				"job": "Third Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1273154,
+				"name": "Ossie McLean",
+				"job": "\"A\" Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 1273154,
+				"name": "Ossie McLean",
+				"job": "Steadicam Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 1948042,
+				"name": "Mark Taylor",
+				"job": "Gaffer",
+				"department": "Lighting",
+				"gender": 2
+			},
+			{
+				"id": 77723,
+				"name": "Tony McNamara",
+				"profile_path": "/rlp4SPxehpOeLZV9E6xQdMnzLw8.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1665616,
+				"name": "Matt Curtis",
+				"profile_path": "/ijoE4C3RQvaLqaDSxkDiEgpQXNv.jpg",
+				"job": "Title Designer",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1327762,
+				"name": "Judy Farr",
+				"profile_path": "/oCTteF0d9nXq8NQchTQ9V4BOOhW.jpg",
+				"job": "Set Decoration",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 4681973,
+				"name": "Coco Bond",
+				"profile_path": "/6C0MI5QvMLQXNUSX8akxgy0mlSD.jpg",
+				"job": "Location Assistant",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 10572,
+				"name": "Theodore Shapiro",
+				"profile_path": "/6tKiHkv6Mlc6yhh8gRN1koovdoI.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 71580,
+				"name": "Benedict Cumberbatch",
+				"profile_path": "/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 39187,
+				"name": "Olivia Colman",
+				"profile_path": "/lawJUdbLb1YW0niaYjiVGR9IBG8.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1463184,
+				"name": "Cait Collins",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1957169,
+				"name": "Katherine Pomfret",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 16363,
+				"name": "Nina Gold",
+				"profile_path": "/emeKuabMDN3C8x8ibby7FNtjRgu.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			}
+		]
+	}
+}
