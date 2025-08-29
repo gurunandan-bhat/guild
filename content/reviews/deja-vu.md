@@ -1,7 +1,7 @@
 +++
 title = "Deja Vu"
 date = 2025-08-23T17:51:26+05:30
-draft = true
+draft = false
 mreviews = ["Deja Vu"]
 critics = ['Tatsam Mukherjee']
 publication = ''
