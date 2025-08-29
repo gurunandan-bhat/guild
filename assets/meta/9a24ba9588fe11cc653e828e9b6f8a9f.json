@@ -1,0 +1,256 @@
+{
+	"id": 1238198,
+	"title": "Songs of Paradise",
+	"fcg_title": "Songs of Paradise",
+	"original_title": "Songs of Paradise",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 10402,
+			"name": "Music"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 10751,
+			"name": "Family"
+		}
+	],
+	"overview": "A young musician, Rumi, seeks the truth behind Noor Begum, a reclusive icon of Kashmiri music. Once Zeba, the valley’s first female radio singer, Noor’s journey from silence to song broke social barriers. As Rumi unearths her past, Songs of Paradise reveals a legacy of defiance, resilience, and the power of a voice that refused to be forgotten.",
+	"backdrop_path": "/6Rzc5iXP6iUTxkGhcMlslDyNfBO.jpg",
+	"poster_path": "/bnfP3bX21VC536U9vdzDDWQM3pH.jpg",
+	"release_date": "2025-08-29",
+	"credits": {
+		"cast": [
+			{
+				"id": 1514871,
+				"order": 0,
+				"name": "Saba Azad",
+				"profile_path": "/ggpfAbnADJ9PpdTZJiJwJ5pEoC7.jpg",
+				"gender": 1
+			},
+			{
+				"id": 6520,
+				"order": 1,
+				"name": "Soni Razdan",
+				"profile_path": "/yOkPrW9Dnut5FqePGz34PdTpF2s.jpg",
+				"gender": 1
+			},
+			{
+				"id": 2055748,
+				"order": 2,
+				"name": "Zain Khan Durrani",
+				"profile_path": "/adRdk8Jt3LoBxFiZitFQ2G7Pl9y.jpg",
+				"gender": 2
+			},
+			{
+				"id": 2696773,
+				"order": 3,
+				"name": "Taaruk Raina",
+				"profile_path": "/74VPM6NtL9mho7WcVzjNqUWQWaN.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1246564,
+				"order": 4,
+				"name": "Sheeba Chaddha",
+				"profile_path": "/yWBQeR47GmnGJn33w4c8QzakkSh.jpg",
+				"gender": 1
+			},
+			{
+				"id": 239728,
+				"order": 5,
+				"name": "Shishir Sharma",
+				"profile_path": "/fNyJckJRkWhMassWL6YlkPMFfvK.jpg",
+				"gender": 2
+			},
+			{
+				"id": 6498,
+				"order": 6,
+				"name": "Lillete Dubey",
+				"profile_path": "/qeAlaycZ3ATHr2P6LV1V5LeC4hV.jpg",
+				"gender": 1
+			},
+			{
+				"id": 2122526,
+				"order": 7,
+				"name": "Chittaranjan Tripathy",
+				"profile_path": "/mthWq1JgVtlw1BmWWJkO7iGOOZ.jpg",
+				"gender": 2
+			},
+			{
+				"id": 2825878,
+				"order": 8,
+				"name": "Armaan Khera"
+			},
+			{
+				"id": 2169527,
+				"order": 9,
+				"name": "Bashir Lone"
+			},
+			{
+				"id": 1904881,
+				"order": 10,
+				"name": "Lalit Parimoo",
+				"profile_path": "/2J84ZbWkdullgItZndctUvYBWSe.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1423932,
+				"order": 11,
+				"name": "Mir Sarwar",
+				"profile_path": "/vyyRELWNWFOWKq9ubWIqWpF6KCj.jpg",
+				"gender": 2
+			},
+			{
+				"id": 3658638,
+				"order": 12,
+				"name": "Ahmad Ibn Umar",
+				"gender": 2
+			},
+			{
+				"id": 4508806,
+				"order": 13,
+				"name": "Rehmat Rattan"
+			},
+			{
+				"id": 4694452,
+				"order": 14,
+				"name": "Adiba Bhat",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 78917,
+				"name": "Ritesh Sidhwani",
+				"profile_path": "/zEL6Jj03CgjrhIkuDha8ZmPMSQk.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1937603,
+				"name": "Danish Renzu",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2100118,
+				"name": "Somanwita Bhattacharya",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 4508792,
+				"name": "Shafat Qazi",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 78916,
+				"name": "Farhan Akhtar",
+				"profile_path": "/nYx5T3tkghBPvmI29J2iJlZOFyV.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1410612,
+				"name": "Vincenzo Condorelli",
+				"job": "Cinematography",
+				"department": "Crew"
+			},
+			{
+				"id": 78918,
+				"name": "Kassim Jagmagia",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1937603,
+				"name": "Danish Renzu",
+				"job": "Story",
+				"department": "Writing"
+			},
+			{
+				"id": 94564,
+				"name": "Niranjan Iyengar",
+				"profile_path": "/wWLGmEijsfokLUfyRDNLgYqxfqK.jpg",
+				"job": "Additional Dialogue",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 4508795,
+				"name": "Samina Massoodi",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1937603,
+				"name": "Danish Renzu",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1937603,
+				"name": "Danish Renzu",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 1937605,
+				"name": "Sunayana Kachroo",
+				"job": "Co-Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 1118109,
+				"name": "Hemanti Sarkar",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 2207417,
+				"name": "Kanchan Kalra",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3409162,
+				"name": "Protiqe Mojoomdar",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1462432,
+				"name": "Peter Gregson",
+				"profile_path": "/wTPgFdPc4d8y3HcCknF2IG1ZPKc.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5655142,
+				"name": "Masrat un Nisa",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 3026059,
+				"name": "Abhay Sopori",
+				"job": "Music",
+				"department": "Sound"
+			},
+			{
+				"id": 5090695,
+				"name": "Myrra Jain",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up"
+			}
+		]
+	}
+}
