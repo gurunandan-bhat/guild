@@ -1,0 +1,101 @@
+{
+	"id": 230020,
+	"name": "Half CA",
+	"fcg_title": "Half CA S02",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Two CA Aspirants from two different ends of the spectrum of the course, Archie and Niraj embark on the journey of one of the toughest courses and face the obstacles it has to offer.",
+	"backdrop_path": "/42fhi4xrnK72Z9Ak8GO09G8QJJb.jpg",
+	"poster_path": "/4ckzFeoUzaBYR23uv0f3C6BfeH5.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 87305,
+				"order": 0,
+				"name": "Ahsaas Channa",
+				"profile_path": "/qFOpBSn7qMVaU621ueNdoNKcCz5.jpg",
+				"character": "Archie",
+				"gender": 1
+			},
+			{
+				"id": 2281318,
+				"order": 1,
+				"name": "Gyanendra Tripathi",
+				"profile_path": "/iNGSxhZolTUNbtWvMaof6LOgRcZ.jpg",
+				"character": "Niraj",
+				"gender": 2
+			},
+			{
+				"id": 3446295,
+				"order": 2,
+				"name": "Anmol Kajani",
+				"character": "Vishal"
+			},
+			{
+				"id": 2248442,
+				"order": 5,
+				"name": "Prit Kamani",
+				"profile_path": "/e8yqqnYAm3y2XI6JxbV2iehFM1n.jpg",
+				"character": "Tejas",
+				"gender": 2
+			},
+			{
+				"id": 4189407,
+				"order": 6,
+				"name": "Rohan Joshi",
+				"character": "Parth"
+			},
+			{
+				"id": 3200250,
+				"order": 8,
+				"name": "Aishwarya Ojha",
+				"character": "Kavya"
+			}
+		],
+		"crew": [
+			{
+				"id": 3932305,
+				"name": "Pratish Mehta",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 3633513,
+				"name": "Tatsat Pandey",
+				"job": "Story",
+				"department": "Writing"
+			},
+			{
+				"id": 1485516,
+				"name": "Arunabh Kumar",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2306071,
+				"name": "Harish Peddinti",
+				"job": "Story",
+				"department": "Writing"
+			},
+			{
+				"id": 3616442,
+				"name": "Vijay Koshy",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2489740,
+				"name": "Khushbu Baid",
+				"profile_path": "/3bMRI8Ynui4cmjIpSX27R4s85NI.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 1
+			}
+		]
+	}
+}
