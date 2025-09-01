@@ -3,11 +3,11 @@
     "tabWidth": 4,
     "overrides": [
         {
-            "files": ["*.html", "*-go.json"],
+            "files": ["*.html", "list.json", "term.json", "single.json"],
             "options": {
                 "parser": "go-template",
-                "goTemplateBracketSpacing": false,
-                "bracketSameLine": false
+                "goTemplateBracketSpacing": true,
+                "bracketSameLine": true
             }
         },
         {
