@@ -1,8 +1,8 @@
 +++
-title = "Lokah: Chapter 1 Chandra"
+title = "Lokah Chapter 1: Chandra"
 date = 2025-08-28T23:18:19+05:30
 draft = false
-mreviews = ["Lokah: Chapter 1 Chandra"]
+mreviews = ["Lokah Chapter 1: Chandra"]
 critics = ['Janani K']
 publication = ''
 subtitle = "Promising world-building hampered by cliches"
