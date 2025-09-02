@@ -165,7 +165,9 @@
             </div>
             <div class="row">
                 {{ range $reviews }}
-                    <div class="col me-1" style="background-color: #ebe4ed;">
+                    <div
+                        class="col-lg-3 pe-2"
+                        style="background-color: #ebe4ed;">
                         {{ $scoreImg := partial "fcg-rating.html" (dict "title" .LinkTitle "size" "medium") }}
                         {{ partial "short-meta.html" (dict "review" . "type" "short" "scoreImg" $scoreImg) }}
                     </div>
