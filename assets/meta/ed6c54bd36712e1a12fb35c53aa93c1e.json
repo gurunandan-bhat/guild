@@ -1,0 +1,380 @@
+{
+	"id": 1249926,
+	"title": "Ghaati",
+	"fcg_title": "Ghaati",
+	"original_title": "ఘాటి",
+	"original_language": "te",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		}
+	],
+	"overview": "Follows the story of an empowered woman who gets entangled with weed trade due to circumstances.",
+	"backdrop_path": "/jd6n96P6xgCDcjBsuLdem3VMYoF.jpg",
+	"poster_path": "/d0thFjveYHvUjvnAhY5fjmnp5fM.jpg",
+	"release_date": "2025-09-04",
+	"credits": {
+		"cast": [
+			{
+				"id": 88167,
+				"order": 0,
+				"name": "Anushka Shetty",
+				"profile_path": "/zpe6Es8kdNOXuPdXiJvqxzsmN6z.jpg",
+				"gender": 1
+			},
+			{
+				"id": 1124440,
+				"order": 1,
+				"name": "Vikram Prabhu",
+				"profile_path": "/hjmWQSqvbv2BAGPE6yOPtdNYQqt.jpg",
+				"character": "Desi Raju",
+				"gender": 2
+			},
+			{
+				"id": 141701,
+				"order": 2,
+				"name": "Ramya Krishnan",
+				"profile_path": "/7Ex7OHhtotLXOAza1VOcUplPb7O.jpg",
+				"gender": 1
+			},
+			{
+				"id": 465273,
+				"order": 3,
+				"name": "Jagapati Babu",
+				"profile_path": "/bm72k6FmDxhxtZsl1xvxoz88Hkm.jpg",
+				"gender": 2
+			},
+			{
+				"id": 2109334,
+				"order": 4,
+				"name": "Ravindra Vijay",
+				"profile_path": "/2mw4VbANE3QtI9dzQXdrG74RizL.jpg",
+				"gender": 2
+			},
+			{
+				"id": 565865,
+				"order": 5,
+				"name": "VTV Ganesh",
+				"profile_path": "/5JomvpPx6PrExYcZAbHM1MoHjoZ.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1667008,
+				"order": 6,
+				"name": "Larissa Bonesi",
+				"profile_path": "/mbje300uEFAftPWet9GBlPncVWg.jpg",
+				"gender": 1
+			},
+			{
+				"id": 509737,
+				"order": 7,
+				"name": "John Vijay",
+				"profile_path": "/1H4uUEI32DmZWfTGmWnXyu0BrU7.jpg",
+				"gender": 2
+			},
+			{
+				"id": 3054864,
+				"order": 8,
+				"name": "Sudhasri Madhusmita",
+				"profile_path": "/bFZcWPBfykjqB3Kv6xIJCBnrPVz.jpg"
+			},
+			{
+				"id": 3911001,
+				"order": 9,
+				"name": "Devika Priyadarshini"
+			}
+		],
+		"crew": [
+			{
+				"id": 1013089,
+				"name": "Radha Krishna Jagarlamudi",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1543647,
+				"name": "Vamsi Krishna Reddy",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1978442,
+				"name": "Rajiv Reddy Pochareddy",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2490726,
+				"name": "Manojh Reddy Katasani",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 3535237,
+				"name": "Chanakya Reddy Toorupu",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 2195694,
+				"name": "Aishwarya Rajeev",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 237968,
+				"name": "Raju Sundaram",
+				"profile_path": "/zNnOzgKlosRdmO4bG8aDMAYEWWs.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3311592,
+				"name": "Ram Krishan",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1574268,
+				"name": "Sai Madhav Burra",
+				"profile_path": "/fcfz3yN5fqZqS96gGSgKm3Gq7hm.jpg",
+				"job": "Dialogue",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1543646,
+				"name": "Pramod Uppalapati",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1007281,
+				"name": "Thotta Tharani",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 4608145,
+				"name": "Chintakindi Srinivas Rao",
+				"job": "Story",
+				"department": "Writing"
+			},
+			{
+				"id": 1013089,
+				"name": "Radha Krishna Jagarlamudi",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2244046,
+				"name": "G. Sreesan",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2195691,
+				"name": "Suhasini Panguluri",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5500391,
+				"name": "Venkat Swami Nakka",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 5500395,
+				"name": "Seshu Kumar M.",
+				"job": "Co-Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2304209,
+				"name": "Raghav Tammareddy",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 5500401,
+				"name": "Bhavani Vara Prasad CH.",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2105163,
+				"name": "Ujwal W Dhankute",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2115635,
+				"name": "Anil Kumar Vanga",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2115634,
+				"name": "Uday Bhanu Avirineni",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2200190,
+				"name": "Vamsi Shekar",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 110297,
+				"name": "Vidyasagar",
+				"profile_path": "/f0mzntGkD90Brbg0db7w8WCPGIT.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2225007,
+				"name": "Lipsika Bhashyam",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1013089,
+				"name": "Radha Krishna Jagarlamudi",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1648217,
+				"name": "E.S. Murthy",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 4508045,
+				"name": "Vishnu Vardhan K",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 3033636,
+				"name": "D. S. Kannan",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 2123951,
+				"name": "Ramana Salwa",
+				"profile_path": "/qREzuSqLzflpLYyqwv9f3arPg50.jpg",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 1667230,
+				"name": "Tapas Nayak",
+				"job": "Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 2215851,
+				"name": "M Sandeep",
+				"job": "Additional Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 2399114,
+				"name": "Nikhil Nadella",
+				"job": "Additional Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 5609866,
+				"name": "Ramana Jagarlamudi",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5609867,
+				"name": "Satyadev Jayanthi",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5609868,
+				"name": "Thanmayee Adi",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5609869,
+				"name": "Dedeep Ganapathineedi",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5609870,
+				"name": "Ranadheer Siddavaram",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5609871,
+				"name": "Navya Nagesh",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5609873,
+				"name": "R. Venkata Rahul",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5609874,
+				"name": "Seeta Madhur",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5609875,
+				"name": "Prathyusha Bandari",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5609877,
+				"name": "Madhav Pakki",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5669759,
+				"name": "Sai Babu Jagarlamudi",
+				"job": "Producer",
+				"department": "Production"
+			}
+		]
+	}
+}
