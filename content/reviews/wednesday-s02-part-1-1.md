@@ -1,11 +1,11 @@
 +++
-title = "Wednesday S02 Part 1"
+title = "Wednesday S02"
 date = 2025-08-06T12:55:22+05:30
 draft = false
-mreviews = ["Wednesday S02 Part 1"]
+mreviews = ["Wednesday S02"]
 critics = ['Sonal Pandya']
 publication = ''
-subtitle = "Jenna Ortega Starrer Returns For Sophomore Year Full Of Exciting Twists, Mysteries"
+subtitle = "Jenna Ortega Starrer Returns For Sophomore Year Full Of Exciting Twists, Mysteries (Part 1)"
 opening = "The sardonic teenager Wednesday Addams is back for another year at Nevermore Academy, where strange things continue to plague her."
 img = 'wednesday-s02-part-1-1.webp'
 media = 'print'

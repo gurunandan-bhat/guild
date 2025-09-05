@@ -1,11 +1,11 @@
 +++
-title = "Wednesday S02 Part 1"
+title = "Wednesday S02"
 date = 2025-08-09T12:54:32+05:30
 draft = false
-mreviews = ["Wednesday S02 Part 1"]
+mreviews = ["Wednesday S02"]
 critics = ['Rahul Desai']
 publication = 'OTT Play'
-subtitle = "Thank God It’s (Finally) Friday"
+subtitle = "Thank God It’s (Finally) Friday (Part 1)"
 opening = "Not the most satisfying watch, especially because the belated comeback feels like a cash-grabbing dash to reproduce more rather than course-correcting a greedy formula."
 img = 'wednesday-s02-part-1-2.png'
 media = 'print'
