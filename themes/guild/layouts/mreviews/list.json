@@ -1,1 +1,8 @@
-{{- .Pages | jsonify (dict "prefix" "" "indent" "\t") }}
+{{- $films := slice }}
+{{- range .Pages }}
+    {{- $pageMap := (jsonify . ) | transform.Unmarshal }}
+    {{- $score := partial "fcg-rating-raw.html" .LinkTitle }}
+    {{- $pageMap = merge $pageMap (dict "AverageScore" (div $score 10.0)) }}
+    {{- $films = append $pageMap $films }}
+{{- end }}
+{{- $films | jsonify (dict "prefix" "" "indent" "\t") }}

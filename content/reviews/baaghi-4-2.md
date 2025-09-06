@@ -1,8 +1,8 @@
 +++
-title = "Baghi 4"
+title = "Baaghi 4"
 date = 2025-09-05T18:17:05+05:30
 draft = false
-mreviews = ["Baghi 4"]
+mreviews = ["Baaghi 4"]
 critics = ['Deepak Dua']
 publication = ''
 subtitle = "चीज़ी स्लीज़ी क्वीज़ी ‘बागी 4’"

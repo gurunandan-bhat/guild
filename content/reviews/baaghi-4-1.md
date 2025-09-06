@@ -1,8 +1,8 @@
 +++
-title = "Baghi 4"
+title = "Baaghi 4"
 date = 2025-09-05T18:14:30+05:30
 draft = false
-mreviews = ["Baghi 4"]
+mreviews = ["Baaghi 4"]
 critics = ['Priyanka Roy']
 publication = ''
 subtitle = "Blood banks in Mumbai and creativity in Bollywood have run dry, both courtesy Baaghi 4"

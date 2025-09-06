@@ -1,8 +1,8 @@
 +++
-title = "Baghi 4"
+title = "Baaghi 4"
 date = 2025-09-05T18:24:42+05:30
 draft = false
-mreviews = ["Baghi 4"]
+mreviews = ["Baaghi 4"]
 critics = ['Upma Singh']
 publication = ''
 subtitle = "सिनेमा के नाम पर वहम है टाइगर का ये बागी अवतार"

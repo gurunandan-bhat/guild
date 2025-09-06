@@ -1,8 +1,8 @@
 +++
-title = "Baghi 4"
+title = "Baaghi 4"
 date = 2025-09-05T19:04:42+05:30
 draft = false
-mreviews = ["Baghi 4"]
+mreviews = ["Baaghi 4"]
 critics = ['Saibal Chatterjee']
 publication = ''
 subtitle = "Fourth Baaghi Is Strictly For Tiger Shroff Fans"

@@ -1,8 +1,8 @@
 +++
-title = "Baghi 4"
+title = "Baaghi 4"
 date = 2025-09-05T19:17:41+05:30
 draft = false
-mreviews = ["Baghi 4"]
+mreviews = ["Baaghi 4"]
 critics = ['Rahul Desai']
 publication = ''
 subtitle = "Tiger's 'Animal' Takes A Catnap"

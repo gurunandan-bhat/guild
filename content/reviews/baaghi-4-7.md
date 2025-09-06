@@ -1,8 +1,8 @@
 +++
-title = 'Baghi 4'
+title = 'Baaghi 4'
 date = 2025-09-05T19:44:52+05:30
 draft = false
-mreviews = ["Baghi 4"]
+mreviews = ["Baaghi 4"]
 critics = ['Bhawana Somaaya']
 subtitle = "A 92.7 FM Review"
 opening = ""

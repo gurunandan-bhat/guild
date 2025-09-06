@@ -1,8 +1,8 @@
 +++
-title = "Baghi 4"
+title = "Baaghi 4"
 date = 2025-09-05T18:20:40+05:30
 draft = false
-mreviews = ["Baghi 4"]
+mreviews = ["Baaghi 4"]
 critics = ['Sanyukta Thakare']
 publication = ''
 subtitle = "Bollywood Needs To Stop Making These Actions Films"
