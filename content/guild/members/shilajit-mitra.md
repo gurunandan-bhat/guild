@@ -4,7 +4,7 @@ draft = false
 weight = 360
 title = 'Shilajit Mitra'
 organizations = ['The Hollywood Reporter India']
-img = '/images/members/shilajit-mitra.jpeg'
+img = '/images/members/Shilajit Mitra.png'
 
 [soc_media]
 facebook = 'https://www.facebook.com/shilajit.mitra.5'
