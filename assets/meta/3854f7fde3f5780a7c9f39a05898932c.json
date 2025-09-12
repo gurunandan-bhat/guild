@@ -1,197 +1,197 @@
 {
-	"id": 1234603,
-	"title": "The Fable",
-	"fcg_title": "Jugnuma",
-	"original_title": "The Fable",
-	"original_language": "hi",
-	"genres": [
-		{
-			"id": 18,
-			"name": "Drama"
-		}
-	],
-	"overview": "Spring 1989. High up in the Indian Himalayas, where even the birds fly low to avoid getting lost in the clouds, the soft-spoken Dev owns a sprawling estate of several orchards and lives in a colonial-style house with his family. He spends a lot of his time building human-sized wings which he puts on to take a quick morning flight over his land. One day, while walking through the estate, he discovers a single burnt apple tree. A few days later, more trees are burnt. Dev and his manager monitor the workers on the plantations and this leads to unrest. A group of nomads comes under suspicion and a corrupt police officer gets involved, while loyal men camp out in the orchards to keep a vigilant watch at night. Despite all these measures, a massive fire breaks out a week later and engulfs an entire mountainside of trees. In his search for the culprit, Dev resorts to armed violence. The slow burning of the orchards forces him to face the truth about himself and his family.",
-	"backdrop_path": "/AbnqeiraJNrhl1P6mRmtXHaxk3Z.jpg",
-	"poster_path": "/gtoTPNqPQDrlb22UI6hYeyWxDfT.jpg",
-	"release_date": "2025-09-12",
-	"credits": {
-		"cast": [
-			{
-				"id": 35782,
-				"order": 0,
-				"name": "Manoj Bajpayee",
-				"profile_path": "/hBiAldG2BGMVoZUPbvK3FNDSw22.jpg",
-				"character": "Dev",
-				"gender": 2
-			},
-			{
-				"id": 1296866,
-				"order": 1,
-				"name": "Priyanka Bose",
-				"profile_path": "/2sISoCre8JbMZgx8ZWjLF02X4FN.jpg",
-				"character": "Nandini",
-				"gender": 1
-			},
-			{
-				"id": 85594,
-				"order": 2,
-				"name": "Deepak Dobriyal",
-				"profile_path": "/cImSPlrxucfiGS3ICvpFD5XSs64.jpg",
-				"character": "Mohan",
-				"gender": 2
-			},
-			{
-				"id": 6501,
-				"order": 3,
-				"name": "Tillotama Shome",
-				"profile_path": "/53kVIXddZaPy6mnKdZZFuOXLUII.jpg",
-				"character": "Radha",
-				"gender": 1
-			},
-			{
-				"id": 4527621,
-				"order": 4,
-				"name": "Hiral Sidhu",
-				"character": "Vanya"
-			},
-			{
-				"id": 4419324,
-				"order": 5,
-				"name": "Awan Pookot",
-				"character": "Juju"
-			},
-			{
-				"id": 3662266,
-				"order": 6,
-				"name": "Viking",
-				"character": "Colonel Bopanna"
-			},
-			{
-				"id": 4527623,
-				"order": 7,
-				"name": "Ravi Bisht",
-				"character": "Keshav"
-			}
-		],
-		"crew": [
-			{
-				"id": 1499624,
-				"name": "Raam Reddy",
-				"profile_path": "/sMeWdUz3fRQpQ42zv41CYW8RLLb.jpg",
-				"job": "Director",
-				"department": "Directing",
-				"gender": 2
-			},
-			{
-				"id": 4530727,
-				"name": "Siddharth Kapoor",
-				"job": "Editor",
-				"department": "Editing"
-			},
-			{
-				"id": 1499624,
-				"name": "Raam Reddy",
-				"profile_path": "/sMeWdUz3fRQpQ42zv41CYW8RLLb.jpg",
-				"job": "Screenplay",
-				"department": "Writing",
-				"gender": 2
-			},
-			{
-				"id": 1499624,
-				"name": "Raam Reddy",
-				"profile_path": "/sMeWdUz3fRQpQ42zv41CYW8RLLb.jpg",
-				"job": "Editor",
-				"department": "Editing",
-				"gender": 2
-			},
-			{
-				"id": 1499624,
-				"name": "Raam Reddy",
-				"profile_path": "/sMeWdUz3fRQpQ42zv41CYW8RLLb.jpg",
-				"job": "Original Music Composer",
-				"department": "Sound",
-				"gender": 2
-			},
-			{
-				"id": 4487495,
-				"name": "Sunil Ramakrishna Borkar",
-				"job": "Director of Photography",
-				"department": "Camera"
-			},
-			{
-				"id": 1124934,
-				"name": "Guneet Monga",
-				"profile_path": "/AkYxwPiaOOD6GvKTMEAyKfpjkUU.jpg",
-				"job": "Executive Producer",
-				"department": "Production",
-				"gender": 1
-			},
-			{
-				"id": 85670,
-				"name": "Anurag Kashyap",
-				"profile_path": "/8QnTVaQbRz9nuwbrTm57MYRDAJc.jpg",
-				"job": "Executive Producer",
-				"department": "Production",
-				"gender": 2
-			},
-			{
-				"id": 1505913,
-				"name": "Varun Grover",
-				"profile_path": "/afL2IEMcIo2YOayQnr5X7GfhhBp.jpg",
-				"job": "Dialogue",
-				"department": "Writing",
-				"gender": 2
-			},
-			{
-				"id": 1499625,
-				"name": "Pratap Reddy",
-				"job": "Producer",
-				"department": "Production"
-			},
-			{
-				"id": 947267,
-				"name": "Sunmin Park",
-				"job": "Producer",
-				"department": "Production"
-			},
-			{
-				"id": 1745008,
-				"name": "Achin Jain",
-				"job": "Executive Producer",
-				"department": "Production"
-			},
-			{
-				"id": 1208685,
-				"name": "Ranjan Singh",
-				"job": "Executive Producer",
-				"department": "Production"
-			},
-			{
-				"id": 1893017,
-				"name": "Sachin Lovalekar",
-				"job": "Costume Designer",
-				"department": "Costume \u0026 Make-Up"
-			},
-			{
-				"id": 1735820,
-				"name": "Tess Joseph",
-				"job": "Casting Director",
-				"department": "Production",
-				"gender": 1
-			},
-			{
-				"id": 1499628,
-				"name": "Nithin Lukose",
-				"job": "Sound Designer",
-				"department": "Sound"
-			},
-			{
-				"id": 4880929,
-				"name": "Himanshu Kamble",
-				"profile_path": "/r3PF0YxF3o4wvEhmmqlOomnZGSZ.jpg",
-				"job": "Colorist",
-				"department": "Editing"
-			}
-		]
-	}
+    "id": 1234603,
+    "title": "The Fable",
+    "fcg_title": "Jugnuma",
+    "original_title": "The Fable",
+    "original_language": "hi",
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "overview": "Dev owns orchards and lives on a sprawling estate. After finding burnt trees Dev monitors workers and Nomads fall under suspicion. Despite night guards, a huge fire engulfs the mountainside. Dev uses violence in his search.",
+    "backdrop_path": "/AbnqeiraJNrhl1P6mRmtXHaxk3Z.jpg",
+    "poster_path": "/gtoTPNqPQDrlb22UI6hYeyWxDfT.jpg",
+    "release_date": "2025-09-12",
+    "credits": {
+        "cast": [
+            {
+                "id": 35782,
+                "order": 0,
+                "name": "Manoj Bajpayee",
+                "profile_path": "/hBiAldG2BGMVoZUPbvK3FNDSw22.jpg",
+                "character": "Dev",
+                "gender": 2
+            },
+            {
+                "id": 1296866,
+                "order": 1,
+                "name": "Priyanka Bose",
+                "profile_path": "/2sISoCre8JbMZgx8ZWjLF02X4FN.jpg",
+                "character": "Nandini",
+                "gender": 1
+            },
+            {
+                "id": 85594,
+                "order": 2,
+                "name": "Deepak Dobriyal",
+                "profile_path": "/cImSPlrxucfiGS3ICvpFD5XSs64.jpg",
+                "character": "Mohan",
+                "gender": 2
+            },
+            {
+                "id": 6501,
+                "order": 3,
+                "name": "Tillotama Shome",
+                "profile_path": "/53kVIXddZaPy6mnKdZZFuOXLUII.jpg",
+                "character": "Radha",
+                "gender": 1
+            },
+            {
+                "id": 4527621,
+                "order": 4,
+                "name": "Hiral Sidhu",
+                "character": "Vanya"
+            },
+            {
+                "id": 4419324,
+                "order": 5,
+                "name": "Awan Pookot",
+                "character": "Juju"
+            },
+            {
+                "id": 3662266,
+                "order": 6,
+                "name": "Viking",
+                "character": "Colonel Bopanna"
+            },
+            {
+                "id": 4527623,
+                "order": 7,
+                "name": "Ravi Bisht",
+                "character": "Keshav"
+            }
+        ],
+        "crew": [
+            {
+                "id": 1499624,
+                "name": "Raam Reddy",
+                "profile_path": "/sMeWdUz3fRQpQ42zv41CYW8RLLb.jpg",
+                "job": "Director",
+                "department": "Directing",
+                "gender": 2
+            },
+            {
+                "id": 4530727,
+                "name": "Siddharth Kapoor",
+                "job": "Editor",
+                "department": "Editing"
+            },
+            {
+                "id": 1499624,
+                "name": "Raam Reddy",
+                "profile_path": "/sMeWdUz3fRQpQ42zv41CYW8RLLb.jpg",
+                "job": "Screenplay",
+                "department": "Writing",
+                "gender": 2
+            },
+            {
+                "id": 1499624,
+                "name": "Raam Reddy",
+                "profile_path": "/sMeWdUz3fRQpQ42zv41CYW8RLLb.jpg",
+                "job": "Editor",
+                "department": "Editing",
+                "gender": 2
+            },
+            {
+                "id": 1499624,
+                "name": "Raam Reddy",
+                "profile_path": "/sMeWdUz3fRQpQ42zv41CYW8RLLb.jpg",
+                "job": "Original Music Composer",
+                "department": "Sound",
+                "gender": 2
+            },
+            {
+                "id": 4487495,
+                "name": "Sunil Ramakrishna Borkar",
+                "job": "Director of Photography",
+                "department": "Camera"
+            },
+            {
+                "id": 1124934,
+                "name": "Guneet Monga",
+                "profile_path": "/AkYxwPiaOOD6GvKTMEAyKfpjkUU.jpg",
+                "job": "Executive Producer",
+                "department": "Production",
+                "gender": 1
+            },
+            {
+                "id": 85670,
+                "name": "Anurag Kashyap",
+                "profile_path": "/8QnTVaQbRz9nuwbrTm57MYRDAJc.jpg",
+                "job": "Executive Producer",
+                "department": "Production",
+                "gender": 2
+            },
+            {
+                "id": 1505913,
+                "name": "Varun Grover",
+                "profile_path": "/afL2IEMcIo2YOayQnr5X7GfhhBp.jpg",
+                "job": "Dialogue",
+                "department": "Writing",
+                "gender": 2
+            },
+            {
+                "id": 1499625,
+                "name": "Pratap Reddy",
+                "job": "Producer",
+                "department": "Production"
+            },
+            {
+                "id": 947267,
+                "name": "Sunmin Park",
+                "job": "Producer",
+                "department": "Production"
+            },
+            {
+                "id": 1745008,
+                "name": "Achin Jain",
+                "job": "Executive Producer",
+                "department": "Production"
+            },
+            {
+                "id": 1208685,
+                "name": "Ranjan Singh",
+                "job": "Executive Producer",
+                "department": "Production"
+            },
+            {
+                "id": 1893017,
+                "name": "Sachin Lovalekar",
+                "job": "Costume Designer",
+                "department": "Costume \u0026 Make-Up"
+            },
+            {
+                "id": 1735820,
+                "name": "Tess Joseph",
+                "job": "Casting Director",
+                "department": "Production",
+                "gender": 1
+            },
+            {
+                "id": 1499628,
+                "name": "Nithin Lukose",
+                "job": "Sound Designer",
+                "department": "Sound"
+            },
+            {
+                "id": 4880929,
+                "name": "Himanshu Kamble",
+                "profile_path": "/r3PF0YxF3o4wvEhmmqlOomnZGSZ.jpg",
+                "job": "Colorist",
+                "department": "Editing"
+            }
+        ]
+    }
 }
