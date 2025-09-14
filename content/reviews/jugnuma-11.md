@@ -1,5 +1,6 @@
 +++
 title = 'Jugnuma'
+translatedTitle = "The Fable"
 date = 2025-09-14T06:50:30+05:30
 draft = false
 mreviews = ["Jugnuma"]
