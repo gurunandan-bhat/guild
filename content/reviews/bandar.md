@@ -1,5 +1,6 @@
 +++
 title = 'Bandar'
+translatedTitle = "Monkey In A Cage"
 date = 2025-09-15T22:46:19+05:30
 draft = false
 mreviews = ["Bandar"]
