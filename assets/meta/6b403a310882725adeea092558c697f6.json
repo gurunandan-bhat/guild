@@ -1,0 +1,377 @@
+{
+	"id": 1272162,
+	"title": "Poetic License",
+	"fcg_title": "Poetic License",
+	"original_title": "Poetic License",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		}
+	],
+	"overview": "Liz, a former therapist and soon-to-be empty nester, becomes the unexpected point of tension between two inseparable best friends and college seniors, Sam and Ari. Liz is forced to re-examine her life as the boys’ friendship unravels in a fierce competition for her affection.",
+	"backdrop_path": "/4xIJ9QSzBRXwSMk6WbdZOkWUyJH.jpg",
+	"poster_path": "/cQE08yzryRtmoAZEnQZGmG95pfs.jpg",
+	"release_date": "2025-09-06",
+	"credits": {
+		"cast": [
+			{
+				"id": 2914688,
+				"order": 0,
+				"name": "Andrew Barth Feldman",
+				"profile_path": "/17rLE4Q4gKejJp1TsByGnzMpK00.jpg",
+				"character": "Sam Soloman",
+				"gender": 2
+			},
+			{
+				"id": 2764542,
+				"order": 1,
+				"name": "Cooper Hoffman",
+				"profile_path": "/8Y0AfdcpgzL4SHpKjspkDFBd6zN.jpg",
+				"character": "Ari Zimmer",
+				"gender": 2
+			},
+			{
+				"id": 41087,
+				"order": 2,
+				"name": "Leslie Mann",
+				"profile_path": "/gUOCQBjjjGnWkxjMOc1LmrC0U1k.jpg",
+				"character": "Liz Cassidy",
+				"gender": 1
+			},
+			{
+				"id": 2064124,
+				"order": 3,
+				"name": "Nico Parker",
+				"profile_path": "/gt0NJClVSCPCEfcPgcLj3f85uLa.jpg",
+				"character": "Dora Cassidy",
+				"gender": 1
+			},
+			{
+				"id": 1104567,
+				"order": 4,
+				"name": "Maisy Stella",
+				"profile_path": "/rXLaLZSdaCBpDJ4sS2stE2IK7nO.jpg",
+				"gender": 1
+			},
+			{
+				"id": 5384,
+				"order": 5,
+				"name": "Method Man",
+				"profile_path": "/mYJFxOcrda410rS5JHPf0nPuimZ.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1572541,
+				"order": 6,
+				"name": "Martha Kelly",
+				"profile_path": "/ac7HoARDIHdYNqpzgJBzpmKHXHR.jpg",
+				"gender": 1
+			},
+			{
+				"id": 2348730,
+				"order": 7,
+				"name": "Will Price",
+				"profile_path": "/7Gv2bTLOxuPSkcIMRuPpEXcHFn4.jpg",
+				"gender": 2
+			},
+			{
+				"id": 3837926,
+				"order": 8,
+				"name": "Jake Bongiovi",
+				"character": "Julian Bende",
+				"gender": 2
+			},
+			{
+				"id": 5436219,
+				"order": 9,
+				"name": "Angelina David",
+				"profile_path": "/gldE2y4AfVT0kGiwZKLyE5r5Fvu.jpg",
+				"character": "Student",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 41090,
+				"name": "Maude Apatow",
+				"profile_path": "/xWj49QAsGlC92YcguaEEYvoMEsg.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 4643810,
+				"name": "Raffi Donatich",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 41090,
+				"name": "Maude Apatow",
+				"profile_path": "/xWj49QAsGlC92YcguaEEYvoMEsg.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1125157,
+				"name": "Josh Church",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4523966,
+				"name": "Olivia Rosenbloom",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1447938,
+				"name": "Kevin C. Lang",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1085524,
+				"name": "Jeffrey Waldron",
+				"profile_path": "/os2mPy0JS2EYFCZHI2mb2kYRBiD.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 13227,
+				"name": "Jay Cassidy",
+				"profile_path": "/f63siBS3qKfoOPZHS74r3zFhWGW.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1468752,
+				"name": "Jeff Morrow",
+				"profile_path": "/ci4nRNuH0QrpjkXK3QTXAjB4SsP.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 41039,
+				"name": "Judd Apatow",
+				"profile_path": "/7iD2D263nT0ZOF6vuUojQYQ5cbf.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5624198,
+				"name": "Thalia Daniel",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1619915,
+				"name": "Will Greenfield",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5198964,
+				"name": "Benjamin Hung",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 13227,
+				"name": "Jay Cassidy",
+				"profile_path": "/f63siBS3qKfoOPZHS74r3zFhWGW.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1738508,
+				"name": "Jamal Daniel",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1776162,
+				"name": "David Gendron",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1292995,
+				"name": "Ali Jazayeri",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5624205,
+				"name": "Stefan Klink",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2077657,
+				"name": "Harrison Kreiss",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3278073,
+				"name": "Michelle Upton",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1587962,
+				"name": "Renee Witt",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 66495,
+				"name": "Jason Baldwin Stewart",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 2514807,
+				"name": "Jocelyn Pierce",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1530870,
+				"name": "Lisa Rodgers",
+				"job": "Post Production Supervisor",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 4648867,
+				"name": "Magnolia Lowe",
+				"job": "Key Hair Stylist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2075760,
+				"name": "Sally Sue Beisel",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 2157249,
+				"name": "Chad Goyette",
+				"job": "Second Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1406292,
+				"name": "Amanda Steeley",
+				"job": "Costume Supervisor",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 4857420,
+				"name": "Monica Blackmon",
+				"job": "Set Costumer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1646748,
+				"name": "Meredith Mantik",
+				"profile_path": "/1CzuI6zBXFuRD4Rnqwz72iHPhcP.jpg",
+				"job": "First Assistant Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 5624210,
+				"name": "Jimnard Campbell",
+				"job": "Production Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 2155085,
+				"name": "Kayla Gueho",
+				"job": "Location Manager",
+				"department": "Production"
+			},
+			{
+				"id": 4099288,
+				"name": "David Richard Martin",
+				"job": "Assistant Location Manager",
+				"department": "Production"
+			},
+			{
+				"id": 5624212,
+				"name": "Kyle Snipes",
+				"job": "Location Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 5624213,
+				"name": "Tariq Yasin",
+				"job": "Location Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 17863,
+				"name": "Linda Cohen",
+				"job": "Music Supervisor",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 2191305,
+				"name": "Nicole Weisberg",
+				"job": "Music Supervisor",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1485878,
+				"name": "Ben Zales",
+				"job": "Music Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 4510965,
+				"name": "Monica Woolsey",
+				"job": "Production Coordinator",
+				"department": "Production"
+			},
+			{
+				"id": 5624214,
+				"name": "Chelsea Nichole Maull",
+				"job": "Clearances Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 5400716,
+				"name": "Zach Collins",
+				"job": "Set Production Assistant",
+				"department": "Crew"
+			},
+			{
+				"id": 5624216,
+				"name": "Natalie Justus",
+				"job": "Producer's Assistant",
+				"department": "Production"
+			}
+		]
+	}
+}
