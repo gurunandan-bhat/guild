@@ -1,8 +1,8 @@
 +++
-title = 'Kumaara Sambhavam'
+title = 'Kumaara Sambavam'
 date = 2025-09-20T16:49:04+05:30
 draft = false
-mreviews = ["Kumaara Sambhavam"]
+mreviews = ["Kumaara Sambavam"]
 critics = ['Avinash Ramachandran']
 subtitle = ""
 media = 'video'
