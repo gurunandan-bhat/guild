@@ -7,6 +7,7 @@ critics = ['Sucharita Tyagi']
 subtitle = "Homebound is essential viewing"
 media = 'video'
 source = 'f2mPP2F8v_U'
+score = 8
 +++
 
 {{< youtube id="f2mPP2F8v_U" loading="lazy" >}}
