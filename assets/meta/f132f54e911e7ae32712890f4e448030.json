@@ -1,0 +1,820 @@
+{
+	"id": 1202479,
+	"title": "Opus",
+	"fcg_title": "Opus",
+	"original_title": "Opus",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 27,
+			"name": "Horror"
+		},
+		{
+			"id": 9648,
+			"name": "Mystery"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "A young writer is invited to the remote compound of a legendary pop star who mysteriously disappeared thirty years ago. Surrounded by the star's cult of sycophants and intoxicated journalists, she finds herself in the middle of his twisted plan.",
+	"backdrop_path": "/3kzw6Rw7TBujqtchJS2TSP3O2US.jpg",
+	"poster_path": "/m0du9dsiOVeb0SgfqR8ZAEPRxww.jpg",
+	"release_date": "2025-03-13",
+	"credits": {
+		"cast": [
+			{
+				"id": 2195140,
+				"order": 0,
+				"name": "Ayo Edebiri",
+				"profile_path": "/V9TNVjNkAJIiCHLTzcnHLktnPf.jpg",
+				"character": "Ariel Ecton",
+				"gender": 1
+			},
+			{
+				"id": 6949,
+				"order": 1,
+				"name": "John Malkovich",
+				"profile_path": "/bAvm8SQrYBkjy31tPh3QWkeqtII.jpg",
+				"character": "Alfred Moretti",
+				"gender": 2
+			},
+			{
+				"id": 3196,
+				"order": 2,
+				"name": "Juliette Lewis",
+				"profile_path": "/vvitS2sZSM9RupCf5B0sZYNS6wT.jpg",
+				"character": "Clara Armstrong",
+				"gender": 1
+			},
+			{
+				"id": 152416,
+				"order": 3,
+				"name": "Murray Bartlett",
+				"profile_path": "/eN20zfcRB2F51bmUbTK9byQCpb9.jpg",
+				"character": "Stan Sullivan",
+				"gender": 2
+			},
+			{
+				"id": 1928381,
+				"order": 4,
+				"name": "Melissa Chambers",
+				"profile_path": "/1d2rGqa7lDmHDxAIYiVqPPe3mgn.jpg",
+				"character": "Bianca Tyson",
+				"gender": 1
+			},
+			{
+				"id": 25147,
+				"order": 5,
+				"name": "Tony Hale",
+				"profile_path": "/ar4uapp4w5wMkThZcqWUNMSTO8z.jpg",
+				"character": "Soledad Yusef",
+				"gender": 2
+			},
+			{
+				"id": 3096097,
+				"order": 6,
+				"name": "Stephanie Suganami",
+				"profile_path": "/5ekTR5ZNxglymhMiGd8nuYoWZuv.jpg",
+				"character": "Emily Katz",
+				"gender": 1
+			},
+			{
+				"id": 156605,
+				"order": 7,
+				"name": "Mark Sivertsen",
+				"profile_path": "/MXbRFhkhmu1qpAD2vqyPaAfuNt.jpg",
+				"character": "Bill Lotto",
+				"gender": 2
+			},
+			{
+				"id": 1654001,
+				"order": 8,
+				"name": "Amber Midthunder",
+				"profile_path": "/f8VWGyaIS38NkDIzQ2hapXKt0N5.jpg",
+				"character": "Belle",
+				"gender": 1
+			},
+			{
+				"id": 1112417,
+				"order": 9,
+				"name": "Tatanka Means",
+				"profile_path": "/Aq7VrwQeUeDNn0y74m7bxDBOAGj.jpg",
+				"character": "Najee",
+				"gender": 2
+			},
+			{
+				"id": 4431448,
+				"order": 10,
+				"name": "Aspen Martinez",
+				"profile_path": "/icjXC3waTfVT1wrXugC4Up4POhQ.jpg",
+				"character": "Maude"
+			},
+			{
+				"id": 2097834,
+				"order": 11,
+				"name": "Peter Diseth",
+				"profile_path": "/9TtMmiS6UBu8Qjruu6Py1rTjBlV.jpg",
+				"character": "Jorg",
+				"gender": 2
+			},
+			{
+				"id": 2588672,
+				"order": 12,
+				"name": "Tamera Tomakili",
+				"profile_path": "/ieeRXWmL2ezgZrah2DaMUDrU5pH.jpg",
+				"character": "Rachel Malick",
+				"gender": 1
+			},
+			{
+				"id": 5311575,
+				"order": 13,
+				"name": "Rose Marley Meizlesh",
+				"character": "Levelist #1"
+			},
+			{
+				"id": 2505545,
+				"order": 14,
+				"name": "Jasper Keen",
+				"profile_path": "/1oLshmHilSHy89wjpWckDLQqkJG.jpg",
+				"character": "Lee",
+				"gender": 2
+			},
+			{
+				"id": 2569691,
+				"order": 15,
+				"name": "Young Mazino",
+				"profile_path": "/cRuVRx1DMe2hBkz5pssVqdpCtaQ.jpg",
+				"character": "Kent",
+				"gender": 2
+			},
+			{
+				"id": 78602,
+				"order": 16,
+				"name": "Jean Effron",
+				"profile_path": "/htL5hKeqy5SisADbrfJwAZ1LPVx.jpg",
+				"character": "Receptionist",
+				"gender": 1
+			},
+			{
+				"id": 5196114,
+				"order": 17,
+				"name": "Justin Perry",
+				"character": "Magazine Editor",
+				"gender": 2
+			},
+			{
+				"id": 2602364,
+				"order": 18,
+				"name": "Aimee McGuire",
+				"profile_path": "/yYldEoRbVJBummWnXGcWWOcciGi.jpg",
+				"character": "Magazine Editor",
+				"gender": 1
+			},
+			{
+				"id": 5196113,
+				"order": 19,
+				"name": "Chris Highlands",
+				"profile_path": "/77tmJ0tSUSw3k3z56MvchwzYkMH.jpg",
+				"character": "Magazine Editor",
+				"gender": 2
+			},
+			{
+				"id": 1660024,
+				"order": 20,
+				"name": "Andrew McMaster",
+				"character": "Ellington"
+			},
+			{
+				"id": 4195065,
+				"order": 21,
+				"name": "Lily Joy Winder",
+				"character": "Makeup Artist"
+			},
+			{
+				"id": 2388180,
+				"order": 22,
+				"name": "Orion Carrington",
+				"profile_path": "/992sbzfw3hhwNhXTUDyH19nm9PQ.jpg",
+				"character": "Journalist",
+				"gender": 2
+			},
+			{
+				"id": 3868086,
+				"order": 23,
+				"name": "Jeremiah Core",
+				"character": "Middle Age Man"
+			},
+			{
+				"id": 3512294,
+				"order": 24,
+				"name": "Marjorie W. Conner",
+				"character": "Elderly Woman"
+			},
+			{
+				"id": 4466851,
+				"order": 25,
+				"name": "Lex Lotito",
+				"character": "Young Mom",
+				"gender": 1
+			},
+			{
+				"id": 4787618,
+				"order": 26,
+				"name": "Gabriel Armijo",
+				"profile_path": "/iEQ2ptMnU0ZDMZErD2xvX3sPWek.jpg",
+				"character": "Fraternity Member",
+				"gender": 2
+			},
+			{
+				"id": 1404646,
+				"order": 27,
+				"name": "Casey Messer",
+				"profile_path": "/aMdVeY6tu92Kdj2UU9AMM1fSOil.jpg",
+				"character": "GDA Host",
+				"gender": 1
+			},
+			{
+				"id": 4150728,
+				"order": 28,
+				"name": "Samantha Christine",
+				"character": "Levelist #2"
+			},
+			{
+				"id": 5916,
+				"order": 29,
+				"name": "Rosario Dawson",
+				"profile_path": "/1mm7JGHIUX3GRRGXEV9QCzsI0ao.jpg",
+				"character": "Billie Holiday (voice)",
+				"gender": 1
+			},
+			{
+				"id": 5063915,
+				"order": 30,
+				"name": "Tristan Manyhorses",
+				"character": "Puppeteer"
+			},
+			{
+				"id": 5344468,
+				"order": 31,
+				"name": "Ryan Cowles",
+				"character": "Puppeteer"
+			},
+			{
+				"id": 1792344,
+				"order": 32,
+				"name": "Sean McCormick",
+				"character": "Puppeteer",
+				"gender": 2
+			},
+			{
+				"id": 109708,
+				"order": 33,
+				"name": "Bill Burr",
+				"profile_path": "/fP2UJs7RiSafEHxDFYVjVFSesda.jpg",
+				"character": "Bill Burr (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 77069,
+				"order": 34,
+				"name": "Lenny Kravitz",
+				"profile_path": "/pIoGuEUax5aeH3PKuaYK9wKEeoj.jpg",
+				"character": "Moretti Superfan #1 (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2315295,
+				"order": 35,
+				"name": "Lil Nas X",
+				"profile_path": "/yJ7Umwc2t6aSDYIs7ztsDrYMec8.jpg",
+				"character": "Moretti Superfan #2 (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2317703,
+				"order": 36,
+				"name": "Sarah May Sommers",
+				"profile_path": "/5ey1mAKNKi4QzcWQpdTg9oIcgfz.jpg",
+				"character": "Karaoke Singer (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 1527964,
+				"order": 37,
+				"name": "Michael E. Stogner",
+				"character": "Levelist / Artist (uncredited)"
+			},
+			{
+				"id": 4694547,
+				"order": 38,
+				"name": "John Freelykirk",
+				"character": "Levelist (uncredited)"
+			},
+			{
+				"id": 5196112,
+				"order": 39,
+				"name": "Justin Peach",
+				"profile_path": "/v7cz0claZfRhTgGCsLx84wwHth1.jpg",
+				"character": "Odd Man / Levelist (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 4126013,
+				"order": 40,
+				"name": "Crystal Mayes",
+				"profile_path": "/mgA9YysAJgAjZpPUNikeELQ87QF.jpg",
+				"character": "Mother Levelist (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 5196115,
+				"order": 41,
+				"name": "Joellyn Baca",
+				"character": "Levelist - Mother (uncredited)",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 4369678,
+				"name": "Sara Newkirk Simon",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2031402,
+				"name": "Joshua Bachove",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 224234,
+				"name": "The-Dream",
+				"profile_path": "/knyfXGGVIHfz2GtbDRn1OSEOtA6.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2488639,
+				"name": "Mark Anthony Green",
+				"profile_path": "/xNBoPcX0xhXKoriOGKbSJInOndC.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2241707,
+				"name": "Collin Creighton",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1607734,
+				"name": "Brad Weston",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2488639,
+				"name": "Mark Anthony Green",
+				"profile_path": "/xNBoPcX0xhXKoriOGKbSJInOndC.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 224234,
+				"name": "The-Dream",
+				"profile_path": "/knyfXGGVIHfz2GtbDRn1OSEOtA6.jpg",
+				"job": "Songs",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 4365197,
+				"name": "Jelani Johnson",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1731486,
+				"name": "Charles D. King",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4613,
+				"name": "Nile Rodgers",
+				"profile_path": "/g3ApsaEiNiuwL1k51xIXwOgvQiE.jpg",
+				"job": "Songs",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1731545,
+				"name": "Poppy Hanks",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4613,
+				"name": "Nile Rodgers",
+				"profile_path": "/g3ApsaEiNiuwL1k51xIXwOgvQiE.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3910463,
+				"name": "Ashley Keel",
+				"job": "Set Costumer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2320391,
+				"name": "Ernie Gilbert",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1552845,
+				"name": "Tommy Maddox-Upshaw",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 210157,
+				"name": "Angelique Midthunder",
+				"profile_path": "/8IUR1WPpEdHpT3Ds49fvtX0y8KC.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 36623,
+				"name": "Marcia Calosio",
+				"job": "Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 1657806,
+				"name": "Shirley Kurata",
+				"profile_path": "/8BQ78DILG9XfP0vyQ2i6jbGkIdj.jpg",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1637350,
+				"name": "Jennifer M. Quinteros",
+				"job": "Makeup Department Head",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1637347,
+				"name": "Chase Heard",
+				"job": "Hair Department Head",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2071753,
+				"name": "Madeline McCue",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5063885,
+				"name": "Shannon McChristy",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3944764,
+				"name": "Allie Swift",
+				"job": "Key Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1141810,
+				"name": "Chance Romero",
+				"job": "Production Supervisor",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1652431,
+				"name": "Todd Amateau",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 4679414,
+				"name": "Beatriz Loera",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2071765,
+				"name": "Chelsey Danielsen",
+				"job": "Property Master",
+				"department": "Art"
+			},
+			{
+				"id": 2840742,
+				"name": "April Boeckner",
+				"job": "Art Department Coordinator",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 5063887,
+				"name": "Jessie Casias",
+				"job": "Construction Foreman",
+				"department": "Art"
+			},
+			{
+				"id": 2244294,
+				"name": "Alan Chao",
+				"job": "Graphic Designer",
+				"department": "Art"
+			},
+			{
+				"id": 5063889,
+				"name": "Ashley Crandall",
+				"job": "Assistant Property Master",
+				"department": "Art"
+			},
+			{
+				"id": 2210167,
+				"name": "Alec Gray",
+				"job": "Storyboard Artist",
+				"department": "Art"
+			},
+			{
+				"id": 5063890,
+				"name": "Micah Hallock",
+				"job": "Propmaker",
+				"department": "Crew"
+			},
+			{
+				"id": 5063892,
+				"name": "Tobias Harding",
+				"job": "Propmaker",
+				"department": "Crew"
+			},
+			{
+				"id": 5063893,
+				"name": "Logan Maloney",
+				"job": "Propmaker",
+				"department": "Crew"
+			},
+			{
+				"id": 5063896,
+				"name": "Michael Maloney",
+				"job": "Construction Coordinator",
+				"department": "Art"
+			},
+			{
+				"id": 2052455,
+				"name": "Josiah O'Neil",
+				"job": "Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 5063898,
+				"name": "Amos Overson",
+				"job": "Propmaker",
+				"department": "Crew"
+			},
+			{
+				"id": 3693221,
+				"name": "Mercy Quinones",
+				"job": "Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 5063899,
+				"name": "Uttam Rai",
+				"job": "Propmaker",
+				"department": "Crew"
+			},
+			{
+				"id": 2052459,
+				"name": "Joshua Swanson",
+				"job": "Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 5063905,
+				"name": "Amrit Twibell",
+				"job": "Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 5063907,
+				"name": "David White",
+				"job": "Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 5063908,
+				"name": "Zack Zamora",
+				"job": "Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 1377835,
+				"name": "Phillip Bladh",
+				"job": "Production Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1759814,
+				"name": "Ben Greaves",
+				"job": "Production Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 4329044,
+				"name": "Emily Jane Price",
+				"job": "Sound",
+				"department": "Sound"
+			},
+			{
+				"id": 4679439,
+				"name": "Trevor Turner",
+				"job": "Boom Operator",
+				"department": "Sound"
+			},
+			{
+				"id": 4126012,
+				"name": "Opal Fleischmann",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects",
+				"gender": 1
+			},
+			{
+				"id": 2589320,
+				"name": "Eric Sibley",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2155376,
+				"name": "Aaron Estrada",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1335375,
+				"name": "Ed Duran",
+				"profile_path": "/mzPJkVKg7ve3whmvyf2TyDIuewr.jpg",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2477513,
+				"name": "Juliene Joyner",
+				"profile_path": "/zmgmxFZmlZdgJbUp0PqDqu4asGC.jpg",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 5063915,
+				"name": "Tristan Manyhorses",
+				"job": "Stunts",
+				"department": "Crew"
+			},
+			{
+				"id": 1622612,
+				"name": "Crystal Michelle",
+				"profile_path": "/t3mxMt7ym75NV2e2wXThIU5Pgbv.jpg",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1619101,
+				"name": "Derick Pritchard",
+				"profile_path": "/chPp9cHZNBOKml8DSlaRflsiv5S.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2840777,
+				"name": "Dorian Blanco",
+				"job": "Second Assistant \"B\" Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 2691474,
+				"name": "Daniel Duerre",
+				"job": "Camera Loader",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1865424,
+				"name": "Kevin Emmons",
+				"job": "Second Unit Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 4483692,
+				"name": "Elijah Gomez",
+				"job": "Lighting Technician",
+				"department": "Lighting"
+			},
+			{
+				"id": 1414890,
+				"name": "Matt Harshbarger",
+				"job": "\"A\" Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 2046819,
+				"name": "Rob Salviotti",
+				"job": "First Assistant \"B\" Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 3868044,
+				"name": "Jason Schultz",
+				"job": "Drone Operator",
+				"department": "Crew"
+			},
+			{
+				"id": 3868061,
+				"name": "Spencer Valdez",
+				"job": "Drone Pilot",
+				"department": "Camera"
+			},
+			{
+				"id": 2631071,
+				"name": "Riley Adamson",
+				"job": "Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 3889068,
+				"name": "Nathan Bancroft",
+				"job": "Location Manager",
+				"department": "Production"
+			},
+			{
+				"id": 2960434,
+				"name": "Anastasia M. Cummings",
+				"job": "Script Supervisor",
+				"department": "Directing"
+			},
+			{
+				"id": 5063934,
+				"name": "Adriana Valenzuela",
+				"job": "Production Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 2688081,
+				"name": "Bryan Benning",
+				"job": "Production Coordinator",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1208226,
+				"name": "Danny Bensi",
+				"profile_path": "/7v866kBI1mvFlu01QlcXS9gAefD.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 984513,
+				"name": "Saunder Jurriaans",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1182914,
+				"name": "Terel Gibson",
+				"profile_path": "/ytrVgfS3iJgPUGkSCSCUMcG88nR.jpg",
+				"job": "Additional Editor",
+				"department": "Editing",
+				"gender": 2
+			}
+		]
+	}
+}
