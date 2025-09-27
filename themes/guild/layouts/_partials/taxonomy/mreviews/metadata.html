@@ -42,7 +42,7 @@
 {{ $crew := $metadata.credits.crew }}
 {{ $director := slice }}
 {{ $camera := "" }}
-{{ $editor := "" }}
+{{ $editor := slice }}
 {{ $writer := slice }}
 {{ range $crew }}
     {{ if eq .job "Director" }}
@@ -50,12 +50,13 @@
     {{ else if eq .job "Director of Photography" }}
         {{ $camera = .name }}
     {{ else if eq .job "Editor" }}
-        {{ $editor = .name }}
+        {{ $editor = append .name $editor }}
     {{ else if (and (eq .department "Writing") (eq .job "Writer")) }}
         {{ $writer = append .name $writer }}
     {{ end }}
 {{ end }}
 {{ $all_directors := delimit $director ", " }}
+{{ $all_editors := delimit $editor ", " }}
 {{ $all_writers := delimit $writer ", " }}
 <div class="container">
     <div class="row mb-5">
@@ -103,7 +104,7 @@
                                     <td class="attribute">{{ . }}</td>
                                 </tr>
                             {{ end }}
-                            {{ with $editor }}
+                            {{ with $all_editors }}
                                 <tr>
                                     <th scope="row">Editor:</th>
                                     <td class="attribute">{{ . }}</td>
