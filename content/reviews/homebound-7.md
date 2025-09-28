@@ -10,6 +10,7 @@ opening = "Lit up by endearing performances of Ishaan Khatter and Vishal Jethwa,
 img = 'homebound-7.webp'
 media = 'print'
 source = "https://www.thehindu.com/entertainment/movies/homebound-movie-review-neeraj-ghaywan-ishaan-khatter-vishal-jethwa-janhvi-kapoor-oscars/article70092538.ece?fbclid=PAb21jcANCV9lleHRuA2FlbQIxMQABp1QNRNEytXZsqRYcyGVQ6RYoCzmpLXCBpjmIrbvwogx1hiuxwmFz9W4pJ-bz_aem_0HMIzKDqA0VgoE5v-2xotw"
+score = 7.5
 +++
 
 In May 2020, the newspaper image of a wiry Saiyub holding an unconscious Amrit in his lap on a scorched highway in Madhya Pradesh came across as an antidote to the raging virus. Fate has its own destiny. It was not just a melancholic picture of abiding friendship, Saiyub took Amrit home when a section of the media was projecting Muslims as super spreaders. Journalist Basharat Peer tracked the story of two friends to their village in eastern Uttar Pradesh for The New York Times.
