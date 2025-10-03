@@ -1,12 +1,12 @@
 +++
-title = "Kantara Chapter 1"
+title = "Kantara A Legend: Chapter 1"
 date = 2025-10-02T19:09:33+05:30
 draft = false
-mreviews = ["Kantara Chapter 1"]
+mreviews = ["Kantara A Legend: Chapter 1"]
 critics = ['Subha J Rao']
 publication = 'OTT Play'
 subtitle = "All Sound & Little Fury"
-opening = "Kantara: Chapter 1 is a visual spectacle with some good performances, but the film suffers from its incohesive writing, simply because the scale takes over in the pursuit to become a pan-India legend."
+opening = "Kantara A Legend: Chapter 1 is a visual spectacle with some good performances, but the film suffers from its incohesive writing, simply because the scale takes over in the pursuit to become a pan-India legend."
 img = 'kantara-chapter-1-2.webp'
 media = 'print'
 source = "https://www.ottplay.com/features/kantara-chapter-1-rishab-shetty-film-all-sound-little-fury/d50a8d73f0936"
