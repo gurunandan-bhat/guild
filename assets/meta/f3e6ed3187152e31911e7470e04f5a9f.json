@@ -1,0 +1,653 @@
+{
+	"id": 1244890,
+	"title": "Sharp Corner",
+	"fcg_title": "Sharp Corner",
+	"original_title": "Sharp Corner",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 53,
+			"name": "Thriller"
+		},
+		{
+			"id": 35,
+			"name": "Comedy"
+		}
+	],
+	"overview": "A dedicated family man becomes obsessed with saving the lives of the car accident victims on the sharp corner in front of his house – an obsession that could cost him everything.",
+	"backdrop_path": "/ooKfBbatLLSMbzfPbQ4wjl6d4KH.jpg",
+	"poster_path": "/hPK7H70vQVpT3qn9zedKqizXVdx.jpg",
+	"release_date": "2024-09-06",
+	"credits": {
+		"cast": [
+			{
+				"id": 11107,
+				"order": 0,
+				"name": "Ben Foster",
+				"profile_path": "/p5FlM9OOStD9I0Nm3GGlhaiAC5r.jpg",
+				"character": "Josh McCall",
+				"gender": 2
+			},
+			{
+				"id": 71189,
+				"order": 1,
+				"name": "Cobie Smulders",
+				"profile_path": "/1b0mYokcGsfFRge4bjXlS5ihtek.jpg",
+				"character": "Rachel Davis-McCall",
+				"gender": 1
+			},
+			{
+				"id": 4317843,
+				"order": 2,
+				"name": "William Kosovic",
+				"profile_path": "/cvZfGqmFkehA32phRUxXi83lPgM.jpg",
+				"character": "Max McCall"
+			},
+			{
+				"id": 1168928,
+				"order": 3,
+				"name": "Gavin Drea",
+				"profile_path": "/6UjJETk9PHdZuBCkMkhE7d7SAXV.jpg",
+				"character": "Erikson",
+				"gender": 2
+			},
+			{
+				"id": 4242971,
+				"order": 4,
+				"name": "Emily Jewer",
+				"character": "Collins"
+			},
+			{
+				"id": 2079478,
+				"order": 5,
+				"name": "Susan Leblanc-Crawford",
+				"character": "Memorial Mom",
+				"gender": 1
+			},
+			{
+				"id": 3181613,
+				"order": 6,
+				"name": "Sebastien Labelle",
+				"profile_path": "/eMCoKchBpOTngV1AD6tf4uhxXId.jpg",
+				"character": "Memorial Dad",
+				"gender": 2
+			},
+			{
+				"id": 5684464,
+				"order": 7,
+				"name": "Rudy Harris",
+				"character": "Teen Boy - Kyle Curry"
+			},
+			{
+				"id": 5440139,
+				"order": 8,
+				"name": "Isabelle MacNeil",
+				"character": "Teen Girl"
+			},
+			{
+				"id": 3158596,
+				"order": 9,
+				"name": "Eugene Sampang",
+				"character": "Alan"
+			},
+			{
+				"id": 90467,
+				"order": 10,
+				"name": "Andrew Shaver",
+				"profile_path": "/6W89t1kbnI9dWUVUT0fwTotufsd.jpg",
+				"character": "Ben",
+				"gender": 2
+			},
+			{
+				"id": 209064,
+				"order": 11,
+				"name": "Leah Johnston",
+				"profile_path": "/lmyr52VJpuEuESTpT449U3J7YUi.jpg",
+				"character": "Kate"
+			},
+			{
+				"id": 4441840,
+				"order": 12,
+				"name": "Stephanie MacDonald",
+				"character": "Amy"
+			},
+			{
+				"id": 3342952,
+				"order": 13,
+				"name": "Bob Mann",
+				"profile_path": "/mJXB4kubDwhPkjQNCaMBsKQJ8nl.jpg",
+				"character": "Stephen",
+				"gender": 2
+			},
+			{
+				"id": 5440138,
+				"order": 14,
+				"name": "Ryan Willis",
+				"character": "Carnival Worker"
+			},
+			{
+				"id": 5440134,
+				"order": 15,
+				"name": "Steve Lawrence",
+				"character": "Howard Cousins"
+			},
+			{
+				"id": 1868402,
+				"order": 16,
+				"name": "Gita Miller",
+				"profile_path": "/4eTcCAdP7wzl875gThk2oCZwv2S.jpg",
+				"character": "Alicia Cousins",
+				"gender": 1
+			},
+			{
+				"id": 142743,
+				"order": 17,
+				"name": "Mark A. Owen",
+				"character": "CPR Instructor",
+				"gender": 2
+			},
+			{
+				"id": 2593562,
+				"order": 18,
+				"name": "Rena Kossatz",
+				"character": "Dr. Kathleen Barrett"
+			},
+			{
+				"id": 2748071,
+				"order": 19,
+				"name": "Sam Vigneault",
+				"character": "Bystander"
+			},
+			{
+				"id": 1580790,
+				"order": 20,
+				"name": "Trina Corkum",
+				"profile_path": "/9pOiKOcFFIPihojx6Lwl2lDFpxe.jpg",
+				"character": "Man on Fire's Wife",
+				"gender": 1
+			},
+			{
+				"id": 5684467,
+				"order": 21,
+				"name": "Thomas MacLennan",
+				"character": "Firefighter"
+			},
+			{
+				"id": 5684468,
+				"order": 22,
+				"name": "Adam Smith",
+				"character": "Brutish Cop"
+			},
+			{
+				"id": 3580499,
+				"order": 23,
+				"name": "Alexandra McDonald",
+				"profile_path": "/pnyvgLOfBHFugJFe4k7s4DMpokJ.jpg",
+				"character": "TV Reporter",
+				"gender": 1
+			},
+			{
+				"id": 130365,
+				"order": 24,
+				"name": "Jonathan Watton",
+				"profile_path": "/vs8Uq0e9ij3JQwcFApeXWSLdThy.jpg",
+				"character": "Dr. Peter Murphy",
+				"gender": 2
+			},
+			{
+				"id": 2521190,
+				"order": 25,
+				"name": "Reid Price",
+				"profile_path": "/iHpnlsDrcoGR8oG6bgg2L8md3dV.jpg",
+				"character": "Drew",
+				"gender": 2
+			},
+			{
+				"id": 1795960,
+				"order": 26,
+				"name": "Allison Wilson-Forbes",
+				"profile_path": "/oQTLLYtqoCBHBlfKKGQKtHRp7UY.jpg",
+				"character": "Eva",
+				"gender": 1
+			},
+			{
+				"id": 190944,
+				"order": 27,
+				"name": "Alexandra Castillo",
+				"profile_path": "/bD6f4PJSYSORPZqsM3pqZnhRTQK.jpg",
+				"character": "Tamara Jones-Reed",
+				"gender": 1
+			},
+			{
+				"id": 4288570,
+				"order": 28,
+				"name": "Wayne Burns",
+				"profile_path": "/v4f0uol1PimzW3PxUa5SKTG58EK.jpg",
+				"character": "Tim",
+				"gender": 2
+			},
+			{
+				"id": 3158569,
+				"order": 29,
+				"name": "David Light",
+				"character": "Chad"
+			},
+			{
+				"id": 2773218,
+				"order": 30,
+				"name": "Julia Dyan-Porter",
+				"profile_path": "/rfFRHwAFbcIK2zrhKdino8UyGql.jpg",
+				"character": "Melissa",
+				"gender": 1
+			},
+			{
+				"id": 1195402,
+				"order": 31,
+				"name": "Kevin Kincaid",
+				"character": "Sports Team Coach",
+				"gender": 2
+			},
+			{
+				"id": 3130881,
+				"order": 32,
+				"name": "Baheran Zewde",
+				"character": "Sports Team Captain"
+			},
+			{
+				"id": 180683,
+				"order": 33,
+				"name": "Dan Lett",
+				"profile_path": "/johOG5hLcJTIn47TzYYW9FN6TNp.jpg",
+				"character": "David Chapman (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 5440136,
+				"order": 34,
+				"name": "Ned the Dog",
+				"character": "Drake (uncredited)"
+			}
+		],
+		"crew": [
+			{
+				"id": 109981,
+				"name": "Susan Mullen",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 4536242,
+				"name": "Russell Wangersky",
+				"job": "Story",
+				"department": "Writing"
+			},
+			{
+				"id": 1577771,
+				"name": "Jason Levangie",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1085903,
+				"name": "Jason Buxton",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1085903,
+				"name": "Jason Buxton",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 985636,
+				"name": "Paul Barkin",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1085903,
+				"name": "Jason Buxton",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1684799,
+				"name": "Marc Tetreault",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1015899,
+				"name": "Adrian Love",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 59938,
+				"name": "Noah Segal",
+				"profile_path": "/dSf7zf1dBn44mbOd2XcWTak8Rww.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 63357,
+				"name": "Stephen McKeon",
+				"profile_path": "/brRqLMgIQdYfl9PlXUfgysZ45Pa.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1560200,
+				"name": "Guy Godfree",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1381925,
+				"name": "Jorge Weisz",
+				"profile_path": "/x4O7s1IPvz3qHUkkS3i45k5vrXb.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1233109,
+				"name": "Bob Munroe",
+				"job": "Senior Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 53648,
+				"name": "Eyde Belasco",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2719458,
+				"name": "Jesse Griffiths",
+				"job": "Additional Casting",
+				"department": "Production"
+			},
+			{
+				"id": 2135588,
+				"name": "Erin Hennessey",
+				"job": "Additional Casting",
+				"department": "Production"
+			},
+			{
+				"id": 5684454,
+				"name": "Jennifer Stewart",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 2732674,
+				"name": "Sarah Haydon Roy",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5684456,
+				"name": "Angela Bateman",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1338133,
+				"name": "David McCallum",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5684457,
+				"name": "Ian Wilson",
+				"job": "Supervising Sound Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 2663336,
+				"name": "Cameron MacLaren",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1464834,
+				"name": "Laurie May",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5253348,
+				"name": "Kristen Figeroid",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 70732,
+				"name": "Marc Schaberg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5684458,
+				"name": "Peter Graham",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4269517,
+				"name": "Brandon Fidanque",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4564462,
+				"name": "Donald Johnston",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 209064,
+				"name": "Leah Johnston",
+				"profile_path": "/lmyr52VJpuEuESTpT449U3J7YUi.jpg",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5684460,
+				"name": "Sheila Johnston",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1973054,
+				"name": "Ken Dhaliwal",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5684461,
+				"name": "Robert Munroe",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 586521,
+				"name": "Rob Cotterill",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 59004,
+				"name": "Walter Josten",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3014488,
+				"name": "Patrick Josten",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2627240,
+				"name": "Peter Jarowey",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 128517,
+				"name": "Richard Goldberg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3910438,
+				"name": "Kristin Harris",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2963810,
+				"name": "Jordan Wagner",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2887377,
+				"name": "Niamh Fagan",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1684799,
+				"name": "Marc Tetreault",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 586521,
+				"name": "Rob Cotterill",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2754827,
+				"name": "Marie David",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1413891,
+				"name": "Randy Boliver",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 3143999,
+				"name": "Kayla Flinn",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 1327722,
+				"name": "Shelley Cook",
+				"profile_path": "/wv54qkRAFWjaeL6gfmtp3pgp3ZU.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 5684476,
+				"name": "Mike Crowtz",
+				"job": "Stunt Double",
+				"department": "Crew"
+			},
+			{
+				"id": 5684480,
+				"name": "Scotty Cook",
+				"job": "Stunt Driver",
+				"department": "Crew"
+			},
+			{
+				"id": 538297,
+				"name": "Robert Racki",
+				"profile_path": "/hDUayMccO9BiC0JtGt1yX4395vW.jpg",
+				"job": "Stunt Driver",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2663336,
+				"name": "Cameron MacLaren",
+				"job": "Production Supervisor",
+				"department": "Production"
+			},
+			{
+				"id": 2437271,
+				"name": "Maureen Dorey",
+				"job": "Story Editor",
+				"department": "Writing"
+			},
+			{
+				"id": 5684489,
+				"name": "Gillian Everill",
+				"job": "Story Consultant",
+				"department": "Writing"
+			},
+			{
+				"id": 1559369,
+				"name": "Yoann Malnati",
+				"job": "Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 1559369,
+				"name": "Yoann Malnati",
+				"job": "Steadycam",
+				"department": "Crew"
+			},
+			{
+				"id": 1583218,
+				"name": "Paul Begin",
+				"job": "First Assistant Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 2756844,
+				"name": "Kevin Kumar-Misir",
+				"job": "Second Assistant Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 3630927,
+				"name": "Gareth Roberts",
+				"job": "\"B\" Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 5684497,
+				"name": "Christopher Ball",
+				"job": "\"B\" Camera Operator",
+				"department": "Camera"
+			}
+		]
+	}
+}
