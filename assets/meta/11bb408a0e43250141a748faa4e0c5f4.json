@@ -1,0 +1,133 @@
+{
+	"id": 301735,
+	"name": "Veduvan",
+	"fcg_title": "Veduvan",
+	"original_language": "ta",
+	"genres": [
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 9648,
+			"name": "Mystery"
+		}
+	],
+	"overview": "Sooraj, a struggling Tamil actor, is approached by a director to star in a biopic about Encounter Specialist Arun. As he dives deeper, he discovers there is much more to Arun’s story.",
+	"backdrop_path": "/nQ4ynMJ7b3X09mev3Om6BV5XKlv.jpg",
+	"poster_path": "/clk0TLQGdDtsqnv1SfJBlzOc67O.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 2118212,
+				"order": 0,
+				"name": "Kanna Ravi",
+				"profile_path": "/75Z5x7i9u09eED0a8gFKBpTzAbp.jpg",
+				"character": "Sooraj/Arun",
+				"gender": 2
+			},
+			{
+				"id": 2298670,
+				"order": 1,
+				"name": "Sanjeev",
+				"character": "Aadhi",
+				"gender": 2
+			},
+			{
+				"id": 5716002,
+				"order": 2,
+				"name": "Sravnitha Srikanth",
+				"character": "Pallavi"
+			},
+			{
+				"id": 5716003,
+				"order": 3,
+				"name": "Vinusha Devi",
+				"character": "Shanthi"
+			},
+			{
+				"id": 4152412,
+				"order": 4,
+				"name": "Rekha Nair",
+				"character": "Yashoda"
+			},
+			{
+				"id": 1341244,
+				"order": 5,
+				"name": "Lavanya",
+				"profile_path": "/xauCa5B5mfNxduVFUepHveQUcoQ.jpg",
+				"character": "Vennila",
+				"gender": 1
+			},
+			{
+				"id": 5716004,
+				"order": 6,
+				"name": "Aishwarya Raghupathi",
+				"character": "Shanthi"
+			}
+		],
+		"crew": [
+			{
+				"id": 5715993,
+				"name": "Pavan",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 5715993,
+				"name": "Pavan",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2355728,
+				"name": "Sreenidhi Sagar",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5715996,
+				"name": "Vibin Baskar",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 5042158,
+				"name": "Srinivaasan Devarajan",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 237981,
+				"name": "Suraj Kavee",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 5715993,
+				"name": "Pavan",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 5715998,
+				"name": "Srisasikumar K",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 5715999,
+				"name": "Chandru K S R",
+				"job": "Creative Producer",
+				"department": "Writing"
+			},
+			{
+				"id": 2256723,
+				"name": "S. Sethuramalingam",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			}
+		]
+	}
+}
