@@ -1,0 +1,475 @@
+{
+	"id": 1321108,
+	"title": "Dude",
+	"fcg_title": "Dude",
+	"original_title": "டியூட்",
+	"original_language": "ta",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 10749,
+			"name": "Romance"
+		}
+	],
+	"overview": "Childhood friends Agan and Kural are inseparable. When Kural encounters romantic troubles, Agan must balance his hidden feelings for her with his desire to ensure her happiness.",
+	"backdrop_path": "/kDRkOFPkjYjubhiIcvurBKuLSRI.jpg",
+	"poster_path": "/bfsfrUzyIiGz3i4MMpcuvDGNEaZ.jpg",
+	"release_date": "2025-10-17",
+	"credits": {
+		"cast": [
+			{
+				"id": 2274937,
+				"order": 0,
+				"name": "Pradeep Ranganathan",
+				"profile_path": "/9xihfKNyRbDtiV6p2iB1FRcNdNL.jpg",
+				"character": "Agan",
+				"gender": 2
+			},
+			{
+				"id": 237683,
+				"order": 1,
+				"name": "R. Sarathkumar",
+				"profile_path": "/x2Bx2mxOvgvRzaLFlpKNGmKYkK2.jpg",
+				"character": "Minister Adhiyaman",
+				"gender": 2
+			},
+			{
+				"id": 2191938,
+				"order": 2,
+				"name": "Mamitha Baiju",
+				"profile_path": "/tGEFW7uGdYrvZ2f3FP8JH5Yh5L2.jpg",
+				"character": "Kural",
+				"gender": 1
+			},
+			{
+				"id": 2918872,
+				"order": 3,
+				"name": "Hridhu Haroon",
+				"profile_path": "/9Dz4Liv3a4EcQkNk3fCfIGheZCB.jpg",
+				"character": "Paari",
+				"gender": 2
+			},
+			{
+				"id": 1744060,
+				"order": 4,
+				"name": "Neha Shetty",
+				"profile_path": "/qjU2jiwvU3DnXZ67M1IXe4HRZ3K.jpg",
+				"character": "Amudha",
+				"gender": 1
+			},
+			{
+				"id": 467845,
+				"order": 5,
+				"name": "Rohini",
+				"profile_path": "/oeT5DXeqsTY17DtJLTGpQec91fr.jpg",
+				"gender": 1
+			},
+			{
+				"id": 2262423,
+				"order": 6,
+				"name": "Ramachandra Raju",
+				"profile_path": "/kU1a4H8o1IQA25Lyq3cW70aufhT.jpg",
+				"character": "Gaja",
+				"gender": 2
+			},
+			{
+				"id": 5325198,
+				"order": 7,
+				"name": "Dravid Selvam",
+				"gender": 2
+			},
+			{
+				"id": 5140276,
+				"order": 8,
+				"name": "Aishwarya Sharma",
+				"profile_path": "/dyj581yl9XHWaRGLF0M1Tm758ZV.jpg",
+				"gender": 1
+			},
+			{
+				"id": 1638503,
+				"order": 9,
+				"name": "Satya",
+				"profile_path": "/fWHqfjiqnORU6R2fqwiJnowujdP.jpg",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 3904109,
+				"name": "Keerthiswaran",
+				"profile_path": "/bRIfql74hpdLoX4HqaycK3eR0FC.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 3904109,
+				"name": "Keerthiswaran",
+				"profile_path": "/bRIfql74hpdLoX4HqaycK3eR0FC.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1648660,
+				"name": "Naveen Yerneni",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1648659,
+				"name": "Y. Ravi Shankar",
+				"profile_path": "/stZ6Fzi96nUlWyomx7hhXcqBQiX.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1240965,
+				"name": "Niketh Bommi",
+				"profile_path": "/xsCrPnSnTV6FK71nTSeRHxEa9p3.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1640338,
+				"name": "Poornima Ramaswamy",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 2111266,
+				"name": "Latha Tharun",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 3935949,
+				"name": "Barath Vikraman",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1709656,
+				"name": "Suresh Chandra",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2200190,
+				"name": "Vamsi Shekar",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 4229933,
+				"name": "Viyaki",
+				"job": "Publicist",
+				"department": "Production"
+			},
+			{
+				"id": 5040583,
+				"name": "Sai Abhyankkar",
+				"profile_path": "/qcFxJm7fKOdcpcBpjHwVTP6hGq2.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3369139,
+				"name": "Anil Yerneni",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5652013,
+				"name": "Anusha Vishwanathan",
+				"job": "Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 1690843,
+				"name": "Yannick Ben",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2342661,
+				"name": "Dinesh Subbarayan",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3483391,
+				"name": "P. L. Subentar",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 4666215,
+				"name": "Ashok Mocharla",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 3363308,
+				"name": "Nagu Talari",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1643578,
+				"name": "Sachin Sudhakaran",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1643577,
+				"name": "Hari Haran",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1667230,
+				"name": "Tapas Nayak",
+				"job": "Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1882106,
+				"name": "Krish Chidambaram",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5655512,
+				"name": "K. C. Perumal",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4502603,
+				"name": "Anirudh Ramesh",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5655516,
+				"name": "Tamilselvan Sankar",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5655518,
+				"name": "Karthick Sekar",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5655520,
+				"name": "Giriprasath",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5655521,
+				"name": "N. Nagaraj",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5655529,
+				"name": "P. Govinda Rao",
+				"job": "Assistant Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 5655535,
+				"name": "Lokesh Raj",
+				"job": "Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 5655539,
+				"name": "Aathieswaran Rajakumar",
+				"job": "Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 3036124,
+				"name": "M. Dinesh",
+				"job": "Still Photographer",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 5409826,
+				"name": "Sabari Ramiro",
+				"job": "Title Designer",
+				"department": "Art"
+			},
+			{
+				"id": 4428432,
+				"name": "Rangaraj Perumal",
+				"job": "Production Controller",
+				"department": "Crew"
+			},
+			{
+				"id": 2257755,
+				"name": "E. Suresh Nambiraj",
+				"job": "Production Controller",
+				"department": "Crew"
+			},
+			{
+				"id": 1670840,
+				"name": "Suresh Ravi",
+				"job": "Colorist",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 4833983,
+				"name": "PRO Sathish",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2273453,
+				"name": "Arivu",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5040583,
+				"name": "Sai Abhyankkar",
+				"profile_path": "/qcFxJm7fKOdcpcBpjHwVTP6hGq2.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2274937,
+				"name": "Pradeep Ranganathan",
+				"profile_path": "/9xihfKNyRbDtiV6p2iB1FRcNdNL.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 4646577,
+				"name": "Paal Dabba",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 2102992,
+				"name": "Vivek",
+				"profile_path": "/24f6DLah5ek1nMZzDRdgCpNSYVo.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5741379,
+				"name": "Dharma P. Kamalahasan",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 5741380,
+				"name": "Vaishnavi Ramji",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 5741382,
+				"name": "Subiksha Srinivasan",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 5741383,
+				"name": "Archana Palani",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 5741385,
+				"name": "Sanjay Semvi",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 2081011,
+				"name": "Tippu",
+				"profile_path": "/6WYtvgbvTWNAMtVYdXGzRWHA2z3.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1430631,
+				"name": "Mohit Chauhan",
+				"profile_path": "/olwXSLxlsEyyA1rEoGxEcfWQf6e.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5741387,
+				"name": "Ramkumar Sundaram",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 4799569,
+				"name": "Adesh Krishna",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 5655524,
+				"name": "Yogi Chowdary Kotapati",
+				"job": "Focus Puller",
+				"department": "Camera"
+			},
+			{
+				"id": 5655531,
+				"name": "Dwarak Bharadwaj",
+				"job": "Second Assistant Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 5752549,
+				"name": "Pradeep Raja",
+				"job": "Third Assistant Camera",
+				"department": "Camera"
+			}
+		]
+	}
+}
