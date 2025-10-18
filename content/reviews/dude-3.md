@@ -7,6 +7,7 @@ critics = ['Sudhir Srinivasan']
 subtitle = "The Long Review"
 media = 'video'
 source = '0WMGGuyWBjE'
+score = 7
 +++
 
 {{< youtube id="0WMGGuyWBjE" loading="lazy" >}}
