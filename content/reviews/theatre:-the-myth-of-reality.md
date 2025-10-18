@@ -1,7 +1,7 @@
 +++
 title = "Theatre: The Myth of Reality"
 date = 2025-10-18T09:48:03+05:30
-draft = true
+draft = false
 mreviews = ["Theatre: The Myth of Reality"]
 critics = ['Tusshar Sasi']
 publication = ''
