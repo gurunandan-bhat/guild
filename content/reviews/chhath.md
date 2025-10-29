@@ -1,7 +1,7 @@
 +++
 title = "Chhath"
 date = 2025-10-28T09:23:31+05:30
-draft = true
+draft = false
 mreviews = ["Chhath"]
 critics = ['Deepak Dua']
 publication = ''
