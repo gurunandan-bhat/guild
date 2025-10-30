@@ -1,0 +1,375 @@
+{
+	"id": 1272166,
+	"title": "Ballad of a Small Player",
+	"fcg_title": "Ballad of a Small Player",
+	"original_title": "Ballad of a Small Player",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 9648,
+			"name": "Mystery"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Amid the glittering casinos of Macau, a gambler running from his past — and his debts — becomes fascinated by an enigmatic woman at the baccarat table.",
+	"backdrop_path": "/cc48kfehVAkgG73BsPcFLMoxa8h.jpg",
+	"poster_path": "/940EMczEOLhoFSPXAFxUf5CVIQn.jpg",
+	"release_date": "2025-10-15",
+	"credits": {
+		"cast": [
+			{
+				"id": 72466,
+				"order": 0,
+				"name": "Colin Farrell",
+				"profile_path": "/lZ3dU4uFEV4BccAEvjJUBIY2OaB.jpg",
+				"character": "Lord Doyle",
+				"gender": 2
+			},
+			{
+				"id": 123701,
+				"order": 1,
+				"name": "Fala Chen",
+				"profile_path": "/nsucfzPlPHeYVXhIS2b8ZtKr4wJ.jpg",
+				"character": "Dao Ming",
+				"gender": 1
+			},
+			{
+				"id": 3063,
+				"order": 2,
+				"name": "Tilda Swinton",
+				"profile_path": "/dzjT4LKgs7eOma84GsPy78DsGNH.jpg",
+				"character": "Cynthia Blithe",
+				"gender": 1
+			},
+			{
+				"id": 87840,
+				"order": 3,
+				"name": "Deanie Ip",
+				"profile_path": "/cbLmEQf2bzjEB4tOcoCPOVTZLeb.jpg",
+				"character": "Grandma",
+				"gender": 1
+			},
+			{
+				"id": 15739,
+				"order": 4,
+				"name": "Alex Jennings",
+				"profile_path": "/4nbbUmAwoOCarkR5FHJjzw2STPE.jpg",
+				"character": "Adrian Lippett",
+				"gender": 2
+			},
+			{
+				"id": 162367,
+				"order": 5,
+				"name": "Jason Tobin",
+				"profile_path": "/bXYxZkchxjozc8gPiImMOouG2ZA.jpg",
+				"character": "Mr. Huang",
+				"gender": 2
+			},
+			{
+				"id": 1356253,
+				"order": 6,
+				"name": "Adrienne Lau",
+				"profile_path": "/WSwaCa040mwd7gwWxeSmcgOgrT.jpg",
+				"character": "Casino Manager",
+				"gender": 1
+			},
+			{
+				"id": 66717,
+				"order": 7,
+				"name": "Anthony Wong Chau-Sang",
+				"profile_path": "/7UYRnOZXSmJFcQGPBUSFbyY07zZ.jpg",
+				"character": "Alfred da Souza",
+				"gender": 2
+			},
+			{
+				"id": 4615699,
+				"order": 8,
+				"name": "Jessica Lai",
+				"character": "Royale Casino Receptionist",
+				"gender": 1
+			},
+			{
+				"id": 5783034,
+				"order": 9,
+				"name": "Margaret Cheung",
+				"character": "Royale Casino Assistant Manager",
+				"gender": 1
+			},
+			{
+				"id": 5704586,
+				"order": 10,
+				"name": "Alan K. Chang",
+				"character": "Bellman Kai"
+			},
+			{
+				"id": 5704587,
+				"order": 11,
+				"name": "Selena Fong",
+				"character": "Rainbow Casino Croupier"
+			},
+			{
+				"id": 5476227,
+				"order": 12,
+				"name": "Christina Yong",
+				"character": "Rainbow Casino Waitress",
+				"gender": 1
+			},
+			{
+				"id": 4879066,
+				"order": 13,
+				"name": "Suen Tsz-Wai",
+				"character": "Grandma Bodyguard",
+				"gender": 2
+			},
+			{
+				"id": 3238146,
+				"order": 14,
+				"name": "Suki Wong",
+				"character": "Young Widow"
+			},
+			{
+				"id": 3041003,
+				"order": 15,
+				"name": "Kwok Wai-Yan",
+				"character": "Cab Driver"
+			},
+			{
+				"id": 5704591,
+				"order": 16,
+				"name": "Willy Wong",
+				"character": "Limousine Driver",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 221522,
+				"name": "Edward Berger",
+				"profile_path": "/st8iwTbaPHmX0lOiyGFC4sIcA8H.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1054729,
+				"name": "Matthew James Wilkinson",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 221522,
+				"name": "Edward Berger",
+				"profile_path": "/st8iwTbaPHmX0lOiyGFC4sIcA8H.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3216479,
+				"name": "Lawrence Osborne",
+				"job": "Novel",
+				"department": "Writing"
+			},
+			{
+				"id": 2365857,
+				"name": "Mike Goodridge",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 17608,
+				"name": "Rowan Joffé",
+				"profile_path": "/ltJx7a8nrSpnx0jZCUXvmy5cfj4.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1908839,
+				"name": "James Bowsher",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2020574,
+				"name": "Elle Gibbons",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2806059,
+				"name": "Mark Nolting",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1023809,
+				"name": "Volker Bertelmann",
+				"profile_path": "/6iZPE8RAh3twac8yHYPWRpWWPZ9.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1103587,
+				"name": "James Friend",
+				"profile_path": "/1965gWiNN5N4T0APbwBD4yaSwIe.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1155165,
+				"name": "Nick Emerson",
+				"profile_path": "/5zCiaaKu6TY1OphFgNF6QCcUJdE.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 16363,
+				"name": "Nina Gold",
+				"profile_path": "/emeKuabMDN3C8x8ibby7FNtjRgu.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1533490,
+				"name": "Martin Ware",
+				"profile_path": "/fcnAQLz5W1eMHeYrMiKkW27FXaE.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1527431,
+				"name": "Jonathan Houlding",
+				"profile_path": "/cFi9f8WOclWJHaeyGruB8VO5DJA.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 6033,
+				"name": "Lisy Christl",
+				"profile_path": "/eo5pNuGUjIQwNiidDogbqXfKA9.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 5199,
+				"name": "Benedict Hoermann",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1903908,
+				"name": "Harlon Haveland",
+				"job": "Gaffer",
+				"department": "Lighting"
+			},
+			{
+				"id": 2073945,
+				"name": "Siobhan Boyes",
+				"job": "Post Production Supervisor",
+				"department": "Crew"
+			},
+			{
+				"id": 2128556,
+				"name": "Alex Gavigan",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1578004,
+				"name": "Daniel Bishop",
+				"job": "\"A\" Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 1578004,
+				"name": "Daniel Bishop",
+				"job": "Steadicam Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 1330586,
+				"name": "Morag Ross",
+				"profile_path": "/ve64qIlQHviwyDkIEhDbi9TvhKM.jpg",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 5704592,
+				"name": "Andrea Voss",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 36402,
+				"name": "Heike Merker",
+				"profile_path": "/8IEwV5D80UDoXBPxR3TlyYVzkHr.jpg",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 17608,
+				"name": "Rowan Joffé",
+				"profile_path": "/ltJx7a8nrSpnx0jZCUXvmy5cfj4.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3216479,
+				"name": "Lawrence Osborne",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1159030,
+				"name": "Luke Rivett",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 42401,
+				"name": "Jeanne Tremsal",
+				"profile_path": "/5HtKa60U7WEtiZq2TDHuJHPLtsR.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1143389,
+				"name": "Ben Baird",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1653510,
+				"name": "Sophia Hardman",
+				"job": "Foley Mixer",
+				"department": "Sound",
+				"gender": 1
+			}
+		]
+	}
+}
