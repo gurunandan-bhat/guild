@@ -1,0 +1,227 @@
+{
+	"id": 1422096,
+	"title": "Good Boy",
+	"fcg_title": "Good Boy",
+	"original_title": "Good Boy",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 27,
+			"name": "Horror"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "A loyal dog moves to a rural family home with his owner Todd, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most.",
+	"backdrop_path": "/mPtPJzBkwksUoMEKpkZqxBrlKpZ.jpg",
+	"poster_path": "/pvMHRi09ur2L1drXh2dXFtuMFgl.jpg",
+	"release_date": "2025-10-01",
+	"credits": {
+		"cast": [
+			{
+				"id": 5725560,
+				"order": 0,
+				"name": "Indy",
+				"profile_path": "/pLuhIFBlhkEjfl8AZKroGbs5AdT.jpg",
+				"character": "Indy",
+				"gender": 2
+			},
+			{
+				"id": 3739081,
+				"order": 1,
+				"name": "Shane Jensen",
+				"profile_path": "/8BNJL3MwvYEUTg187SmhQACVq3Z.jpg",
+				"character": "Todd",
+				"gender": 2
+			},
+			{
+				"id": 31268,
+				"order": 2,
+				"name": "Larry Fessenden",
+				"profile_path": "/imQGskBT7IjqHLVJDQFLR1h1UPH.jpg",
+				"character": "Grandpa",
+				"gender": 2
+			},
+			{
+				"id": 4747687,
+				"order": 3,
+				"name": "Arielle Friedman",
+				"character": "Vera",
+				"gender": 1
+			},
+			{
+				"id": 94435,
+				"order": 4,
+				"name": "Stuart Rudin",
+				"profile_path": "/2jhEJ2zLnRL0iuG5i3fYw4FObgl.jpg",
+				"character": "Richard",
+				"gender": 2
+			},
+			{
+				"id": 3238178,
+				"order": 5,
+				"name": "Anya Krawcheck",
+				"profile_path": "/ffP9mfsovkmgqnsUYKwbVejtG5q.jpg",
+				"character": "Doctor",
+				"gender": 1
+			},
+			{
+				"id": 5326803,
+				"order": 6,
+				"name": "Max",
+				"character": "Bandit",
+				"gender": 2
+			},
+			{
+				"id": 5725666,
+				"order": 7,
+				"name": "Hunter Goetz",
+				"character": "Weatherman / Narrator"
+			},
+			{
+				"id": 3378836,
+				"order": 8,
+				"name": "Noah Manzoor",
+				"profile_path": "/72X2vD3v3tjAvmtyjjglbTnMuxS.jpg",
+				"character": "Mikey",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 2831618,
+				"name": "Ben Leonberg",
+				"profile_path": "/zceHRa8Kr45IHnncZJGnIBnjmkc.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 5300372,
+				"name": "Kari Fischer",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2831618,
+				"name": "Ben Leonberg",
+				"profile_path": "/zceHRa8Kr45IHnncZJGnIBnjmkc.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5300376,
+				"name": "Sam Boase-Miller",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 1968703,
+				"name": "Alex Cannon",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 2831618,
+				"name": "Ben Leonberg",
+				"profile_path": "/zceHRa8Kr45IHnncZJGnIBnjmkc.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5300378,
+				"name": "Wade Grebnoel",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1483095,
+				"name": "Brian Goodheart",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1483095,
+				"name": "Brian Goodheart",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 4718766,
+				"name": "Kelly Oostman",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 4100126,
+				"name": "Michael J. Cacioppo",
+				"job": "Post Production Supervisor",
+				"department": "Crew"
+			},
+			{
+				"id": 5326806,
+				"name": "Erik Saras",
+				"job": "Music Producer",
+				"department": "Sound"
+			},
+			{
+				"id": 5326808,
+				"name": "Curtis Roberts",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 3123508,
+				"name": "Alison Diviney",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 5638602,
+				"name": "Ege Gunes",
+				"job": "Orchestrator",
+				"department": "Sound"
+			},
+			{
+				"id": 2831619,
+				"name": "Scott Riehs",
+				"profile_path": "/2YLZHeBwAUTxINZE5bN4zDrvOaQ.jpg",
+				"job": "Second Unit Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2331964,
+				"name": "Brian Neris",
+				"job": "Sound Recordist",
+				"department": "Sound"
+			},
+			{
+				"id": 4409142,
+				"name": "Jan Klier",
+				"job": "Visual Effects",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 4764896,
+				"name": "BJ Downs",
+				"job": "Additional Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 2518032,
+				"name": "Jeff Sousa",
+				"job": "Colorist",
+				"department": "Editing"
+			}
+		]
+	}
+}
