@@ -1,0 +1,287 @@
+{
+	"id": 997113,
+	"title": "Hedda",
+	"fcg_title": "Hedda",
+	"original_title": "Hedda",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		},
+		{
+			"id": 10749,
+			"name": "Romance"
+		}
+	],
+	"overview": "Hedda Gabler finds herself torn between the lingering ache of a past love and the quiet suffocation of her present life. Over the course of one charged night, long-repressed desires and hidden tensions erupt—pulling her and everyone around her into a spiral of manipulation, passion, and betrayal.",
+	"backdrop_path": "/cKZcDKawR79igCgDMSXlpkn8hLR.jpg",
+	"poster_path": "/ecflk7AZf0ij205yDswjlvdxlCO.jpg",
+	"release_date": "2025-10-22",
+	"credits": {
+		"cast": [
+			{
+				"id": 62561,
+				"order": 0,
+				"name": "Tessa Thompson",
+				"profile_path": "/fycqdiiM6dsNSbnONBVVQ57ILV1.jpg",
+				"character": "Hedda",
+				"gender": 1
+			},
+			{
+				"id": 681,
+				"order": 1,
+				"name": "Nina Hoss",
+				"profile_path": "/j4j3eenfrg0XgW0dVReFAdPNPE0.jpg",
+				"character": "Eileen",
+				"gender": 1
+			},
+			{
+				"id": 17606,
+				"order": 2,
+				"name": "Imogen Poots",
+				"profile_path": "/7uMFX0ecPZT2tc8L5DFFNbUckc9.jpg",
+				"character": "Thea",
+				"gender": 1
+			},
+			{
+				"id": 1356645,
+				"order": 3,
+				"name": "Nicholas Pinnock",
+				"profile_path": "/ufGrGvx2JPLfFbMrNXAQWZoSI38.jpg",
+				"character": "Roland",
+				"gender": 2
+			},
+			{
+				"id": 1364004,
+				"order": 4,
+				"name": "Tom Bateman",
+				"profile_path": "/iG70djxLDYTRFZm8M8O8KPpfDvZ.jpg",
+				"character": "George",
+				"gender": 2
+			},
+			{
+				"id": 1250809,
+				"order": 5,
+				"name": "Finbar Lynch",
+				"profile_path": "/wVC4vFBjOiwZqTlLXFOWyjY5N6x.jpg",
+				"character": "Professor Greenwood",
+				"gender": 2
+			},
+			{
+				"id": 2517398,
+				"order": 6,
+				"name": "Mirren Mack",
+				"profile_path": "/3xOiyeum1KDzlPqnfrPeEQh8kOE.jpg",
+				"character": "Tabitha",
+				"gender": 1
+			},
+			{
+				"id": 2266752,
+				"order": 7,
+				"name": "Jamael Westman",
+				"profile_path": "/2bfbMy9iMXEoN7BWQsQT8ff37XL.jpg",
+				"character": "David",
+				"gender": 2
+			},
+			{
+				"id": 2134546,
+				"order": 8,
+				"name": "Saffron Hocking",
+				"profile_path": "/59fibQb4J3zcvC9awsVS2B0y6ga.jpg",
+				"character": "Jane",
+				"gender": 1
+			},
+			{
+				"id": 72309,
+				"order": 9,
+				"name": "Kathryn Hunter",
+				"profile_path": "/ni98cNE8kOAj6kcpEVmIfi8iAsw.jpg",
+				"character": "Bertie",
+				"gender": 1
+			},
+			{
+				"id": 1534393,
+				"order": 10,
+				"name": "Michelle Crane",
+				"character": "Joan"
+			},
+			{
+				"id": 1075144,
+				"order": 11,
+				"name": "Sam Hoare",
+				"profile_path": "/ksTGg94YKyfQwa7QMgWj7sTBDyV.jpg",
+				"character": "Detective Logan",
+				"gender": 2
+			},
+			{
+				"id": 1746486,
+				"order": 12,
+				"name": "Stacey Gough",
+				"profile_path": "/wzMYlxXbr43k7ELv0I7YgOvZGli.jpg",
+				"character": "Detective Smith"
+			},
+			{
+				"id": 510105,
+				"order": 13,
+				"name": "Mark Oosterveen",
+				"profile_path": "/9ZrZhGRLCGTptMOij6cZSQ74Vn7.jpg",
+				"character": "Professor Dunbar",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1795072,
+				"name": "Nia DaCosta",
+				"profile_path": "/zRyaLNXLT2gKgPvLreyg3GeEIdD.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 1008333,
+				"name": "Henrik Ibsen",
+				"profile_path": "/7dh8HZGcyATPbl563SJ0x1SVoef.jpg",
+				"job": "Theatre Play",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 54926,
+				"name": "Sean Bobbitt",
+				"profile_path": "/cC0YL1Kk08o6DVcBrzojMeAGIlc.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 59533,
+				"name": "Lindsay Pugh",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1795072,
+				"name": "Nia DaCosta",
+				"profile_path": "/zRyaLNXLT2gKgPvLreyg3GeEIdD.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1292033,
+				"name": "Gabrielle Nadig",
+				"profile_path": "/qWMzAoKSlvBT4ZRQNqnzQPlRUri.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 62561,
+				"name": "Tessa Thompson",
+				"profile_path": "/fycqdiiM6dsNSbnONBVVQ57ILV1.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1872080,
+				"name": "Kishori Rajan",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1333644,
+				"name": "Michael S. Constable",
+				"profile_path": "/jAvif4tsXklSJMuE5TCNkLOVFK2.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1795072,
+				"name": "Nia DaCosta",
+				"profile_path": "/zRyaLNXLT2gKgPvLreyg3GeEIdD.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 2307796,
+				"name": "Oliver Ferris",
+				"profile_path": "/TWOZddlpBAMjKd0oNxdgbgPiKZ.jpg",
+				"job": "Foley Artist",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1422406,
+				"name": "Cara Brower",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 10710,
+				"name": "Andrew Ackland-Snow",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 3169992,
+				"name": "Varpu Kronholm",
+				"profile_path": "/rxe3Jh8ewv6ZpxUy33shRTKAVcs.jpg",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1154242,
+				"name": "Jacob Secher Schulsinger",
+				"profile_path": "/zrCyHvp1Lr6IMsBuHmWq35GSXat.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 967387,
+				"name": "Jeremy Kleiner",
+				"profile_path": "/rRccbqvpL5HU73n1CLmJs9fyzzc.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 20458,
+				"name": "Dede Gardner",
+				"profile_path": "/uQ0Zgn4MZe5q1fMTb0m9Vi5ZqNK.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 287,
+				"name": "Brad Pitt",
+				"profile_path": "/9OfnD7lxgIj3BNQpJFnwxnwl6w5.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1178828,
+				"name": "Hildur Guðnadóttir",
+				"profile_path": "/xkJTSLeYZkOqouzflrUNgLSC1lL.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 1
+			}
+		]
+	}
+}
