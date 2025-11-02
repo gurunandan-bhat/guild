@@ -1,7 +1,7 @@
 +++
 title = "Single Salma"
 date = 2025-11-02T00:10:49+05:30
-draft = true
+draft = false
 mreviews = ["Single Salma"]
 critics = ['Upma Singh']
 publication = ''
