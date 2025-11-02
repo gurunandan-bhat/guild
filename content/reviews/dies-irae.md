@@ -1,11 +1,11 @@
 +++
-title = "Dies Irae"
+title = "Diés Iraé"
 date = 2025-11-02T00:03:41+05:30
-draft = true
-mreviews = ["Dies Irae"]
+draft = false
+mreviews = ["Diés Iraé"]
 critics = ['Tusshar Sasi']
 publication = ''
-subtitle = "Indian horror takes a brave new roaddies-irae"
+subtitle = "Indian horror takes a brave new road"
 opening = ""
 img = 'dies-irae.webp'
 media = 'print'

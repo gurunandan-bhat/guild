@@ -1,8 +1,8 @@
 +++
-title = "Dies Irae"
+title = "Diés Iraé"
 date = 2025-11-02T00:05:38+05:30
-draft = true
-mreviews = ["Dies Irae"]
+draft = false
+mreviews = ["Diés Iraé"]
 critics = ['Aditya Shrikrishna']
 publication = 'OTT Play'
 subtitle = "Diés Iraé Proves Horror Can Be Minimalist — & Still Terrifying"
