@@ -1,8 +1,8 @@
 +++
-title = "Down Cemetry Road"
+title = "Down Cemetery Road"
 date = 2025-10-29T14:34:38+05:30
 draft = false
-mreviews = ["Down Cemetry Road"]
+mreviews = ["Down Cemetery Road"]
 critics = ['Sonal Pandya']
 publication = ''
 subtitle = "Emma Thompson, Ruth Wilson's British Conspiracy Thriller Ticks All The Right Boxes"
