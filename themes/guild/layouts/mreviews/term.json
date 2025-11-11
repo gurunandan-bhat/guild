@@ -19,7 +19,7 @@
     {{- with index .Params "subtitle" }}
         {{- $subtitle = . }}
     {{- end }}
-    {{- $pageMap = merge $pageMap (dict "Params" .Params "Critic" $critic "Media" $media "Source" $source "SubTitle" $subtitle "Summary" .Summary "Content" .RawContent) }}
+    {{- $pageMap = merge $pageMap (dict "Params" .Params "Critic" $critic "Media" $media "Source" $source "SubTitle" $subtitle "Summary" .Summary "Content"  (strings.Truncate 100 .RawContent)) }}
     {{- $reviews = append $pageMap $reviews }}
 {{- end }}
 {{- $reviews | jsonify }}
