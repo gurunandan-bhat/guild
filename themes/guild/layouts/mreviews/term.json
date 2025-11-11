@@ -1,7 +1,25 @@
 {{- $reviews := slice }}
 {{- range .Pages }}
     {{- $pageMap := (jsonify . ) | transform.Unmarshal }}
-    {{- $pageMap = merge $pageMap (dict "Params" .Params "Summary" .Summary "Content" .RawContent) }}
+    {{- $critic := "" }}
+    {{- $media := "" }}
+    {{- $source := "" }}
+    {{- $subtitle := "" }}
+    {{- with index .Params "critics" }}
+        {{- with index . 0 }}
+            {{- $critic = . }}
+        {{- end }}
+    {{- end }}
+    {{- with index .Params "source" }}
+        {{- $source = . }}
+    {{- end }}
+    {{- with index .Params "media" }}
+        {{- $media = . }}
+    {{- end }}
+    {{- with index .Params "subtitle" }}
+        {{- $subtitle = . }}
+    {{- end }}
+    {{- $pageMap = merge $pageMap (dict "Params" .Params "Critic" $critic "Media" $media "Source" $source "SubTitle" $subtitle "Summary" .Summary "Content" .RawContent) }}
     {{- $reviews = append $pageMap $reviews }}
 {{- end }}
 {{- $reviews | jsonify }}
