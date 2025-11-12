@@ -1,4 +1,4 @@
-{{ $jsFiles := (slice "js/bootstrap.bundle.js") }}
+{{ $jsFiles := (slice "js/bootstrap.bundle.min.js") }}
 {{ range $jsFiles }}
     {{- with resources.Get . }}
         {{- if eq hugo.Environment "development" }}
