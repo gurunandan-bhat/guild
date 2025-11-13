@@ -5,6 +5,7 @@
     {{- $media := "" }}
     {{- $source := "" }}
     {{- $subtitle := "" }}
+    {{- $img := "" }}
     {{- with index .Params "critics" }}
         {{- with index . 0 }}
             {{- $critic = . }}
@@ -19,7 +20,20 @@
     {{- with index .Params "subtitle" }}
         {{- $subtitle = . }}
     {{- end }}
-    {{- $pageMap = merge $pageMap (dict "Params" .Params "Critic" $critic "Media" $media "Source" $source "SubTitle" $subtitle "Summary" .Summary "Content"  (strings.Truncate 100 .RawContent)) }}
+    {{- with index .Params "img" }}
+        {{- $img = . }}
+    {{- end }}
+    {{- $pageMap = merge $pageMap (dict
+        "ReviewPath" .Path
+        "Params" .Params
+        "Critic" $critic
+        "Media" $media
+        "Source" $source
+        "SubTitle" $subtitle
+        "Summary" .Summary
+        "Content" .RawContent
+        "Image" $img)
+    }}
     {{- $reviews = append $pageMap $reviews }}
 {{- end }}
-{{- $reviews | jsonify }}
+{{- $reviews | jsonify (dict "prefix" "" "indent" "\t") }}
