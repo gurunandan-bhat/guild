@@ -1,0 +1,321 @@
+{
+	"id": 1250508,
+	"title": "Kaantha",
+	"fcg_title": "Kaantha",
+	"original_title": "காந்தா",
+	"original_language": "ta",
+	"genres": [
+		{
+			"id": 36,
+			"name": "History"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Set in the backdrop of a film set, in the 1950’s in post colonial Madras, the film is centred around the professional rivalry between a film-maker trying to make his seminal film and the top reigning actor who the director once introduced. The rivalry spirals around the leading actress, a debutante and as the relationship between the three.",
+	"backdrop_path": "/id996nsidt35c8otLx5I9bTH6Kg.jpg",
+	"poster_path": "/a6A0CvOMUUbQNfgkRSPqf5JMpsU.jpg",
+	"release_date": "2025-11-13",
+	"credits": {
+		"cast": [
+			{
+				"id": 1115225,
+				"order": 0,
+				"name": "Dulquer Salmaan",
+				"profile_path": "/ivvenbVsYGsWYyvrld6XCPEHaRD.jpg",
+				"character": "T. K. Mahadevan",
+				"gender": 2
+			},
+			{
+				"id": 4485095,
+				"order": 1,
+				"name": "Bhagyashri Borse",
+				"profile_path": "/z1q1PEKFHVdKrBzD1Wk2q2WQMrj.jpg",
+				"character": "Kumari",
+				"gender": 1
+			},
+			{
+				"id": 585397,
+				"order": 2,
+				"name": "Samuthirakani",
+				"profile_path": "/hicCPOdDfSRCEYkeb9g53FOY19A.jpg",
+				"character": "A. P. Kodandaraman",
+				"gender": 2
+			},
+			{
+				"id": 2109334,
+				"order": 3,
+				"name": "Ravindra Vijay",
+				"profile_path": "/2mw4VbANE3QtI9dzQXdrG74RizL.jpg",
+				"character": "Martin Prabhakaran",
+				"gender": 2
+			},
+			{
+				"id": 215910,
+				"order": 4,
+				"name": "Rana Daggubati",
+				"profile_path": "/dCQE1CoWWc6RoXUTxOKjAXO8KDr.jpg",
+				"character": "Phoenix",
+				"gender": 2
+			},
+			{
+				"id": 1124450,
+				"order": 5,
+				"name": "Gayathrie Shankar",
+				"profile_path": "/bJgZlSd5WCIi7kp3IZKS0FDjIL2.jpg",
+				"character": "Devi",
+				"gender": 1
+			},
+			{
+				"id": 238022,
+				"order": 6,
+				"name": "Vaiyapuri",
+				"profile_path": "/dXWg4R0zuJEOuEIPZo0ibu355aA.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1328506,
+				"order": 7,
+				"name": "Java Sundaresan",
+				"profile_path": "/mRnPQXMjz7VFveDJc8iyBDZQhXs.jpg",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1779955,
+				"name": "Selvamani Selvaraj",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 215910,
+				"name": "Rana Daggubati",
+				"profile_path": "/dCQE1CoWWc6RoXUTxOKjAXO8KDr.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1115225,
+				"name": "Dulquer Salmaan",
+				"profile_path": "/ivvenbVsYGsWYyvrld6XCPEHaRD.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1457455,
+				"name": "Dani Sanchez-Lopez",
+				"profile_path": "/cYIGvFdy3XSGlwxa7CpDg0IohyC.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2167359,
+				"name": "Jhanu Chanthar",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 81090,
+				"name": "Anthony",
+				"profile_path": "/zNKpopeEnQUqmHBdqqAYRfkcBhZ.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 4606141,
+				"name": "Prashanth Potluri",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5222719,
+				"name": "Jom Varghese",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1652641,
+				"name": "T. Ramalingam",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 3301068,
+				"name": "Poojita Tadikonda",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2035068,
+				"name": "Archana Rao",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5198747,
+				"name": "Aesthetic Kunjamma",
+				"job": "Publicist",
+				"department": "Production"
+			},
+			{
+				"id": 2200190,
+				"name": "Vamsi Shekar",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1709656,
+				"name": "Suresh Chandra",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2547526,
+				"name": "Himanshu Baluni",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5496639,
+				"name": "Lakshmi Bharani Parimi",
+				"job": "Storyboard Designer",
+				"department": "Art"
+			},
+			{
+				"id": 4284048,
+				"name": "Alla Venkat",
+				"job": "Title Designer",
+				"department": "Art"
+			},
+			{
+				"id": 1589241,
+				"name": "Richie Yau",
+				"job": "Second Unit Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 5590910,
+				"name": "Nishanth Katari",
+				"job": "First Assistant Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 5590911,
+				"name": "Sujith Varma",
+				"job": "Second Assistant Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 5590913,
+				"name": "Hitesh Sadrani",
+				"job": "Gaffer",
+				"department": "Lighting"
+			},
+			{
+				"id": 3066012,
+				"name": "Sai Krishna Koppolu",
+				"job": "Digital Imaging Technician",
+				"department": "Camera"
+			},
+			{
+				"id": 4328443,
+				"name": "Adarsh Ravu",
+				"job": "Online Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 3526994,
+				"name": "Harmann Kaur",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2051076,
+				"name": "Allwin Rego",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 2261669,
+				"name": "Glen Castinho",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 5591503,
+				"name": "Saikrishna Gadwal",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5591504,
+				"name": "Sujai James",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5591506,
+				"name": "Sravan Palaparthi",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2081716,
+				"name": "Pradeep Kumar",
+				"profile_path": "/yBVwrel9rodFEdmeI8TNzbids5K.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5765341,
+				"name": "Deepika Karthik Kumar",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 3028274,
+				"name": "Thamizh Prabha",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1779955,
+				"name": "Selvamani Selvaraj",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 2259689,
+				"name": "Sanjay Maurya",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 1504453,
+				"name": "Jakes Bejoy",
+				"profile_path": "/173WUCFwv0vcQySIoj6hASPOkI6.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			}
+		]
+	}
+}
