@@ -1,8 +1,8 @@
 +++
-title = 'De De Pyar De 2'
+title = 'De De Pyaar De 2'
 date = 2025-11-14T17:56:37+05:30
 draft = false
-mreviews = ["De De Pyar De 2"]
+mreviews = ["De De Pyaar De 2"]
 critics = ['Anupama Chopra']
 subtitle = "Despite the film's performative progressiveness about modern relationships, it's riddled with double standards"
 media = 'video'

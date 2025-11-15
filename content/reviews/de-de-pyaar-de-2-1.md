@@ -1,8 +1,8 @@
 +++
-title = 'De De Pyar De 2'
+title = 'De De Pyaar De 2'
 date = 2025-11-14T17:46:06+05:30
 draft = false
-mreviews = ["De De Pyar De 2"]
+mreviews = ["De De Pyaar De 2"]
 critics = ['Ajay Brahmatmaj']
 subtitle = ""
 media = 'video'
