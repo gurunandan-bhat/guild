@@ -1,7 +1,7 @@
 +++
 title = "Gondhal"
 date = 2025-11-17T09:23:56+05:30
-draft = true
+draft = false
 mreviews = ["Gondhal"]
 critics = ['Keyur Seta']
 publication = 'The Common Man Speaks'
