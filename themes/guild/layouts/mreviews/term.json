@@ -24,7 +24,7 @@
         {{- $img = . }}
     {{- end }}
     {{- $pageMap = merge $pageMap (dict
-        "ReviewPath" .Path
+        "ReviewPath" (urlize .Path)
         "Params" .Params
         "Critic" $critic
         "Media" $media
