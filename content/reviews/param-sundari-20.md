@@ -1,11 +1,11 @@
 +++
 title = "Param Sundari"
-date = 2025-10-28T17:54:14+05:30
+date = 2025-10-28T10:00:30+05:30
 draft = false
 mreviews = ["Param Sundari"]
-critics = ['Akhil Arora']
+critics = ['Rohan Naahar']
 subtitle = "A Spotify Review"
-score = 1
+score = 2
 +++
 
 {{< spotify id="3A77PqbGA2E45lgxGrB5gc" height="250" >}}
