@@ -1,7 +1,7 @@
 +++
 title = "Auto Queens"
 date = 2025-11-20T00:04:42+05:30
-draft = true
+draft = false
 mreviews = ["Auto Queens"]
 critics = ['Aditya Shrikrishna']
 publication = 'The NEWS Minute'
