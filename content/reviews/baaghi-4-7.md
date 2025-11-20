@@ -10,4 +10,4 @@ img = 'baghi-4-7.jpg'
 media = 'audio'
 +++
 
-{{< audio path="<https://fcgreviews.s3.ap-south-1.amazonaws.com/Bhawan+Somaaya+-+Baaghi+4+-+92.7.mp3>" caption="92.7FM" >}}
+{{< audio path="<https://fcgreviews.s3.ap-south-1.amazonaws.com/audio-reviews/Bhawan+Somaaya+-+Baaghi+4+-+92.7.mp3>" caption="92.7FM" >}}

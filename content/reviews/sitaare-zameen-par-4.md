@@ -11,4 +11,4 @@ media = 'audio'
 score = 6
 +++
 
-{{< audio path="<https://fcgreviews.s3.ap-south-1.amazonaws.com/Bhawna+Somaaya+-+Sitaare+Zameen+Par+-+92.7.mp3>" caption="92.7FM" >}}
+{{< audio path="<https://fcgreviews.s3.ap-south-1.amazonaws.com/audio-reviews/Bhawna+Somaaya+-+Sitaare+Zameen+Par+-+92.7.mp3>" caption="92.7FM" >}}

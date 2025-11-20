@@ -11,4 +11,4 @@ media = 'audio'
 score = 7
 +++
 
-{{< audio path="<https://fcgreviews.s3.ap-south-1.amazonaws.com/Stutee_Ghosh_Special+ops+2+review_21_7_25.mp3>" caption="Fever FM" >}}
+{{< audio path="<https://fcgreviews.s3.ap-south-1.amazonaws.com/audio-reviews/Stutee_Ghosh_Special+ops+2+review_21_7_25.mp3>" caption="Fever FM" >}}
