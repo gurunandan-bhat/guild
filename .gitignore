@@ -1,5 +1,5 @@
 node_modules/
-public/*
+public/**/*
 !public/mreviews/index.json
 .DS_Store
 .DS_Store/
