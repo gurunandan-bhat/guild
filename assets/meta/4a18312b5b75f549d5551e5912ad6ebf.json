@@ -1,0 +1,309 @@
+{
+	"id": 1314278,
+	"title": "Mask",
+	"fcg_title": "Mask",
+	"original_title": "மாஸ்க்",
+	"original_language": "ta",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"backdrop_path": "/wBIL8UN2i2UtxRwPRT05riwhEk2.jpg",
+	"poster_path": "/apEDL4eZ5xrEnFeQJvxST6Rm8Ub.jpg",
+	"release_date": "2025-11-21",
+	"credits": {
+		"cast": [
+			{
+				"id": 1662669,
+				"order": 0,
+				"name": "Kavin Raj",
+				"profile_path": "/85YJoi6JZcX1LQoXKRS43oKucYe.jpg",
+				"character": "Velu",
+				"gender": 2
+			},
+			{
+				"id": 580225,
+				"order": 1,
+				"name": "Andrea Jeremiah",
+				"profile_path": "/2AgkEtyffeAU5ikwbpvpjfnDWMt.jpg",
+				"character": "Bhoomi",
+				"gender": 1
+			},
+			{
+				"id": 1913620,
+				"order": 2,
+				"name": "Ruhani Sharma",
+				"profile_path": "/epmEZVlfYhHXNsOzTdcA0hJ35Y5.jpg",
+				"character": "Rathi",
+				"gender": 1
+			},
+			{
+				"id": 550172,
+				"order": 3,
+				"name": "Vetrimaaran",
+				"profile_path": "/dEb8XJGaIqWf2eLaj4ecUlC3b2Z.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1336133,
+				"order": 4,
+				"name": "Kalloori Vinoth",
+				"profile_path": "/fiFrfHAEC2Ib7Nd523cvr2vASIC.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1378577,
+				"order": 5,
+				"name": "Nelson Dilipkumar",
+				"profile_path": "/n0T7BQnWXPr4yhezpVzoqklxwTe.jpg",
+				"character": "Narrator",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 4817860,
+				"name": "Vikranan Ashok",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 550172,
+				"name": "Vetrimaaran",
+				"profile_path": "/dEb8XJGaIqWf2eLaj4ecUlC3b2Z.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3062919,
+				"name": "R. Ramar",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1769672,
+				"name": "Poorthi Pravin",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4817860,
+				"name": "Vikranan Ashok",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 584950,
+				"name": "G. V. Prakash Kumar",
+				"profile_path": "/ArX3l6CdNo0sGI8b6PFYveR9Azm.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2531431,
+				"name": "Jacki",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 482079,
+				"name": "R. D. Rajasekhar",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 5357535,
+				"name": "M. Vijay Iyyappan",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 587735,
+				"name": "Peter Hein",
+				"profile_path": "/881LTUkVppdwtFaBDLgd70SEEBe.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2243247,
+				"name": "Vicky",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1686888,
+				"name": "Viji Satish",
+				"job": "Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 3930599,
+				"name": "Prathap",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 1737324,
+				"name": "Harihara Suthan",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 4229933,
+				"name": "Viyaki",
+				"job": "Publicist",
+				"department": "Production"
+			},
+			{
+				"id": 3370264,
+				"name": "Sai Santhosh",
+				"job": "Still Photographer",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2257744,
+				"name": "S. Ganesan",
+				"job": "Production Executive",
+				"department": "Production"
+			},
+			{
+				"id": 5357551,
+				"name": "T. Prem",
+				"job": "Still Photographer",
+				"department": "Camera"
+			},
+			{
+				"id": 1641716,
+				"name": "Riaz K. Ahmed",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 5357553,
+				"name": "Mathan Kumar",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5357555,
+				"name": "Sathesh Kumar",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5357557,
+				"name": "Balaji Kannaiyan",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5357558,
+				"name": "Atchuthan GJ",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5357559,
+				"name": "Narasimman V.",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5357561,
+				"name": "Aruna M.",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5357562,
+				"name": "Rithish Varan",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 580225,
+				"name": "Andrea Jeremiah",
+				"profile_path": "/2AgkEtyffeAU5ikwbpvpjfnDWMt.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1642059,
+				"name": "S P Chokkalingam",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5715430,
+				"name": "Azhagiri Udayan",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5715432,
+				"name": "Lingeshwaran J.",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5715435,
+				"name": "Priyanka Muthulaksmi",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2336764,
+				"name": "Kaber Vasuki",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 3539920,
+				"name": "Karumathur Manimaran",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 1169201,
+				"name": "Manimaran",
+				"profile_path": "/iWLk96PdsmTSCziDYw6OPmxN4b4.jpg",
+				"job": "Co-Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2257699,
+				"name": "K. S. Rajasekaran",
+				"job": "Colorist",
+				"department": "Editing",
+				"gender": 2
+			}
+		]
+	}
+}
