@@ -1,5 +1,7 @@
 node_modules/
-public/
+public/*
+! public/mreviews/
+! public/mreviews/index.json
 .DS_Store
 .DS_Store/
 .hugo_build.lock
