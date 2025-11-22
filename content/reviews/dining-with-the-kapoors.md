@@ -1,8 +1,8 @@
 +++
-title = "Dining With The Kapoors"
+title = "Dining With the Kapoors"
 date = 2025-11-21T15:04:50+05:30
-draft = true
-mreviews = ["Dining With The Kapoors"]
+draft = false
+mreviews = ["Dining With the Kapoors"]
 critics = ['Priyanka Roy']
 publication = ''
 subtitle = "Reveals that the Kapoors are just another fun and boisterous family who love their food"

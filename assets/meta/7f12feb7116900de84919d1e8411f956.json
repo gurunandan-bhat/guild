@@ -1,14 +1,144 @@
 {
-	"id": 293449,
-	"name": "Dining with the Kapoors",
+	"id": 1585058,
+	"title": "Dining With the Kapoors",
 	"fcg_title": "Dining With the Kapoors",
+	"original_title": "Dining With the Kapoors",
 	"original_language": "hi",
 	"genres": [
 		{
-			"id": 10764,
-			"name": "Reality"
+			"id": 99,
+			"name": "Documentary"
+		},
+		{
+			"id": 10751,
+			"name": "Family"
 		}
 	],
-	"overview": "Journey into Bollywood's beloved Kapoor family, where cinema heritage meets culinary passion. Through intimate stories and shared memories, discover how food, film, and family traditions shaped generations of this legendary dynasty.",
-	"credits": {}
+	"overview": "Delve into the intimate world of the Kapoor dynasty, one of Hindi cinema's most illustrious families, as they share their treasured memories, laughter and culinary delights.",
+	"backdrop_path": "/q9oqwKqH64QdETKTm5XLxKFp3nV.jpg",
+	"poster_path": "/zhAzX7XII33BnEIc7mXsLOiBmKI.jpg",
+	"release_date": "2025-11-21",
+	"credits": {
+		"cast": [
+			{
+				"id": 35747,
+				"order": 0,
+				"name": "Saif Ali Khan",
+				"profile_path": "/85uKiFDEcIqzLh0GwqYvecXw4uA.jpg",
+				"character": "Saif Ali Khan",
+				"gender": 2
+			},
+			{
+				"id": 4615862,
+				"order": 1,
+				"name": "Riddhima Kapoor Sahni",
+				"profile_path": "/otehbzxJ5UQzHGa2WabQfbqzwng.jpg",
+				"character": "Riddhima Kapoor Sahni"
+			},
+			{
+				"id": 37233,
+				"order": 2,
+				"name": "Kareena Kapoor Khan",
+				"profile_path": "/pJZJJ93NwJq3kb3RWtaZBYVga1x.jpg",
+				"character": "Kareena Kapoor Khan",
+				"gender": 1
+			},
+			{
+				"id": 85034,
+				"order": 3,
+				"name": "Ranbir Kapoor",
+				"profile_path": "/ymYNHV9luwgyrw17NXHqbOWTQkg.jpg",
+				"character": "Ranbir Kapoor",
+				"gender": 2
+			},
+			{
+				"id": 76233,
+				"order": 4,
+				"name": "Karisma Kapoor",
+				"profile_path": "/fqSzKXcBzTP0BxWUh3poExOApmd.jpg",
+				"character": "Karisma Kapoor",
+				"gender": 1
+			},
+			{
+				"id": 1336890,
+				"order": 5,
+				"name": "Armaan Jain",
+				"profile_path": "/7L3EWp9YDtWUOjoYp72sIJ5qnv8.jpg",
+				"character": "Armaan Jain"
+			},
+			{
+				"id": 3548777,
+				"order": 6,
+				"name": "Agastya Nanda",
+				"profile_path": "/9ZVhllk4Uuufyjazw8vAyxLyFSH.jpg",
+				"character": "Agastya Nanda",
+				"gender": 2
+			},
+			{
+				"id": 3864965,
+				"order": 7,
+				"name": "Zahan Kapoor",
+				"profile_path": "/x9B0LJ8IRKlfBuFI7AjtScAoyU.jpg",
+				"character": "Zahan Kapoor",
+				"gender": 2
+			},
+			{
+				"id": 88812,
+				"order": 8,
+				"name": "Neetu Singh",
+				"profile_path": "/sErXXqb3YkKCYAvlFv7FrZHHxhg.jpg",
+				"character": "Neetu Singh",
+				"gender": 1
+			},
+			{
+				"id": 142627,
+				"order": 9,
+				"name": "Randhir Kapoor",
+				"profile_path": "/92PWRkXqGP6hkIY5eeOnaS1WAcm.jpg",
+				"character": "Randhir Kapoor",
+				"gender": 2
+			},
+			{
+				"id": 4615862,
+				"order": 10,
+				"name": "Riddhima Kapoor Sahni",
+				"profile_path": "/otehbzxJ5UQzHGa2WabQfbqzwng.jpg"
+			}
+		],
+		"crew": [
+			{
+				"id": 1802846,
+				"name": "Smriti Mundhra",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 2323768,
+				"name": "Geeta Singh",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1802846,
+				"name": "Smriti Mundhra",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 4436960,
+				"name": "Armaan Jain",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 1802846,
+				"name": "Smriti Mundhra",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 1
+			}
+		]
+	}
 }
