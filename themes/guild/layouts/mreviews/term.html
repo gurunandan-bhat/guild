@@ -1,7 +1,7 @@
 {{ define "main" }}
     {{ $extLinkIcon := index site.Data.svgicons.icons "externalLink" | safeHTML }}
-
-
+    {{- $red := "\033[0;31m" }}
+    {{- $reset := "\033[0m" }}
     <div class="container-fluid">
         <div style="height: 50px;"></div>
     </div>
@@ -18,7 +18,7 @@
             {{ partial "taxonomy/mreviews/metadata.html" (dict "meta" . "fullTitle" $fullTitle "scoreImg" $scoreImg) }}
         {{ else }}
             {{ if hugo.IsDevelopment }}
-                {{ warnf "mreviews/term: Unable to get global resource %s" $title }}
+                {{ warnf "%smreviews/term: Unable to get global resource %s%s" $red $title $reset }}
             {{ end }}
         {{ end }}
     </div>
