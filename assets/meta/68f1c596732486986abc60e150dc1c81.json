@@ -1,0 +1,214 @@
+{
+	"id": 1494406,
+	"title": "Kaisi Ye Paheli",
+	"fcg_title": "Kaisi Ye Paheli",
+	"original_title": "कैसी ये पहेली",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 9648,
+			"name": "Mystery"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "In a sleepy hill town in northeast India, a lonely mother tries to reconnect with her estranged policeman son by channeling her inner detective to help him solve a murder.",
+	"backdrop_path": "/IaI6DjHP0w4iqud9GtRB8jK51x.jpg",
+	"poster_path": "/3Z9bXM0ZDsQgoFkeK9KI2cFaGJm.jpg",
+	"release_date": "2025-11-28",
+	"credits": {
+		"cast": [
+			{
+				"id": 2359361,
+				"order": 0,
+				"name": "Sukant Goel",
+				"profile_path": "/tpHr9khY5XIwFOFB8LbLgSelCY9.jpg",
+				"character": "Uttam",
+				"gender": 2
+			},
+			{
+				"id": 1541397,
+				"order": 1,
+				"name": "Sadhana Singh",
+				"character": "Uttam's mother"
+			},
+			{
+				"id": 226769,
+				"order": 2,
+				"name": "Rajit Kapoor",
+				"profile_path": "/mATIzHiXTeW6xB8IoJVLTD5NDMn.jpg",
+				"character": "Detective Bondo",
+				"gender": 2
+			},
+			{
+				"id": 1179623,
+				"order": 3,
+				"name": "Chittaranjan Giri",
+				"profile_path": "/guaB9EP5Md4MgX1FUKN5eSLhzvl.jpg",
+				"character": "Tamang"
+			},
+			{
+				"id": 3860498,
+				"order": 4,
+				"name": "Rahul Nawach Mukhia",
+				"character": "Gogoi"
+			},
+			{
+				"id": 1971375,
+				"order": 5,
+				"name": "Nishu Dikshit",
+				"character": "Rasika"
+			},
+			{
+				"id": 5534977,
+				"order": 6,
+				"name": "Rinchen Sherpa",
+				"character": "Limbu"
+			},
+			{
+				"id": 5593351,
+				"order": 7,
+				"name": "Bindhiya Dhamala",
+				"character": "Jhini"
+			},
+			{
+				"id": 5534983,
+				"order": 8,
+				"name": "Rajendra Maskey",
+				"character": "Pradhan"
+			},
+			{
+				"id": 5534986,
+				"order": 9,
+				"name": "Ujjaini Deb",
+				"character": "Sanjukta"
+			},
+			{
+				"id": 5534987,
+				"order": 10,
+				"name": "Rohit Karmakar",
+				"character": "Shamik"
+			},
+			{
+				"id": 5534988,
+				"order": 11,
+				"name": "Den Sherpa",
+				"character": "Moyur"
+			}
+		],
+		"crew": [
+			{
+				"id": 1971373,
+				"name": "Ananyabrata Chakravorty",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1971373,
+				"name": "Ananyabrata Chakravorty",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1971375,
+				"name": "Nishu Dikshit",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4807889,
+				"name": "Prakhar Khare",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 4602153,
+				"name": "Leena Patoli",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 5490232,
+				"name": "Deepak Agarwal",
+				"job": "Casting Director",
+				"department": "Production"
+			},
+			{
+				"id": 5493688,
+				"name": "Varun Arsid",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 4446282,
+				"name": "Vandana Ramakrishna",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 2120222,
+				"name": "Souvik Phukan",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 5493695,
+				"name": "Pankaj Soram",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 5493698,
+				"name": "Avijit Jana",
+				"job": "Gaffer",
+				"department": "Lighting"
+			},
+			{
+				"id": 5493699,
+				"name": "Mujahid Khan",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 5493701,
+				"name": "Take Pictures",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2477876,
+				"name": "Parul Singh",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5490232,
+				"name": "Deepak Agarwal",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5493708,
+				"name": "Raj Sitaula",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2639732,
+				"name": "Mauli Singh",
+				"job": "Publicist",
+				"department": "Production"
+			},
+			{
+				"id": 3552024,
+				"name": "Neelesh Mandalapu",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			}
+		]
+	}
+}
