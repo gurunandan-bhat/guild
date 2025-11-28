@@ -1,8 +1,8 @@
 +++
-title = "Tere Ishq Mein"
+title = "Tere Ishk Mein"
 date = 2025-11-28T18:12:52+05:30
 draft = false
-mreviews = ["Tere Ishq Mein"]
+mreviews = ["Tere Ishk Mein"]
 critics = ['Priyanka Roy']
 publication = ''
 subtitle = "A toxic tale of male entitlement garbed as an intense love story"

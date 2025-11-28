@@ -1,8 +1,8 @@
 +++
-title = "Tere Ishq Mein"
+title = "Tere Ishk Mein"
 date = 2025-11-28T18:10:22+05:30
 draft = false
-mreviews = ["Tere Ishq Mein"]
+mreviews = ["Tere Ishk Mein"]
 critics = ['Shomini Sen']
 publication = ''
 subtitle = "Dhanush, Kriti Sanon’s film is a big RED flag that celebrates toxicity of all kinds"

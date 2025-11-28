@@ -1,8 +1,8 @@
 +++
-title = 'Tere Ishq Mein'
+title = 'Tere Ishk Mein'
 date = 2025-11-28T18:14:54+05:30
 draft = false
-mreviews = ["Tere Ishq Mein"]
+mreviews = ["Tere Ishk Mein"]
 critics = ['Anmol Jamwal']
 subtitle = ""
 media = 'video'
