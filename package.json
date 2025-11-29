@@ -1,11 +1,11 @@
 {
 	"devDependencies": {
-		"prettier": "^3.1.1",
+		"prettier": "^3.7.2",
 		"prettier-plugin-go-template": "^0.0.15"
 	},
 	"dependencies": {
-		"bootstrap": "^5.3.3",
-		"bootstrap-icons": "^1.11.3",
+		"bootstrap": "^5.3.8",
+		"bootstrap-icons": "^1.13.1",
 		"tiny-slider": "^2.9.4"
 	}
 }
