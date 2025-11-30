@@ -1,13 +1,13 @@
 +++
-title = "Vilayath Buddha"
+title = "Vilaayath Budha"
 date = 2025-11-24T00:14:53+05:30
 draft = false
-mreviews = ["Vilayath Buddha"]
+mreviews = ["Vilaayath Budha"]
 critics = ['Vishal Menon']
 publication = ''
 subtitle = "One Too Many Subplots In Prithviraj’s Shaky Mess"
-opening = "With too many narrative tracks overstaying their welcome, 'Vilayath Buddha' never quite manages to achieve the lived-in feeling of the world Indugopan created with his two previous films"
-img = 'vilayath-buddha.webp'
+opening = "With too many narrative tracks overstaying their welcome, 'Vilaayath Budha' never quite manages to achieve the lived-in feeling of the world Indugopan created with his two previous films"
+img = 'vilaayath-budha.webp'
 media = 'print'
 source = "https://www.hollywoodreporterindia.com/reviews/theatrical/vilayath-buddha-movie-review-one-too-many-subplots-in-prithvirajs-shaky-mess"
 +++
