@@ -1,7 +1,7 @@
 +++
 title = 'Perfect Family'
 date = 2025-11-30T11:39:13+05:30
-draft = true
+draft = false
 mreviews = ["Perfect Family"]
 critics = ['Rohit Khilnani']
 subtitle = ""
