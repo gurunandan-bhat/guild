@@ -10,6 +10,7 @@ opening = "Sivaranjini J’s debut film, screened at the Malayalam Cinema Today 
 img = 'victoria.jpg'
 media = 'print'
 source = "https://www.thehindu.com/news/national/kerala/iffk-2024-victoria-a-crafty-portrayal-of-a-womans-inner-turmoil/article68985268.ece"
+score = 7.5
 +++
 
 The spark that initiates a work of art can come from anywhere. For Sivaranjini J., it came from the unusual sight of a rooster sitting inside a beauty parlour near her home in Angamaly. Victoria, her debut film which was screened at the Malayalam Cinema Today section at the 29th International Film Festival of Kerala on Saturday, is set almost entirely a beauty parlour.
