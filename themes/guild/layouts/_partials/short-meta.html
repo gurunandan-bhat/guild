@@ -1,6 +1,7 @@
 {{ $review := index . "review" }}
 {{ $type := index . "type" }}
 {{ $scoreImg := index . "scoreImg" }}
+{{ $score := partial "fcg-rating-raw" $review.LinkTitle }}
 {{ $showCast := index . "showCast" }}
 {{ $pageImage := $review.Params.img }}
 {{ $languages := site.Data.languages.languages }}
@@ -48,7 +49,7 @@
                         <img
                             src="{{ . }}"
                             class="img-fluid d-block mx-auto"
-                            alt="FCG Rating for the film" />
+                            alt="FCG Rating for the film {{ $review.Title }}: {{ $score }}/100" />
                     {{ end }}
                 </div>
                 <div class="col-8">

@@ -1,5 +1,6 @@
 {{ $page := . }}
 {{ $scoreImg := partial "fcg-rating.html" (dict "title" $page.LinkTitle) }}
+{{ $score := partial "fcg-rating-raw" $page.LinkTitle }}
 {{ $pageImage := $page.Params.img }}
 {{ $languages := site.Data.languages.languages }}
 {{ $reviewLink := partial "taxonomy/mreviews/reviewLink-raw.html" $page.LinkTitle }}
@@ -21,7 +22,10 @@
             <div class="col-4">
                 <div class="text-center">
                     {{ with $scoreImg }}
-                        <img src="{{ . }}" class="img-fluid d-block mx-auto" />
+                        <img
+                            src="{{ . }}"
+                            class="img-fluid d-block mx-auto"
+                            alt="FCG Rating for {{ $page.Title }}: {{ $score }}/100" />
                     {{ end }}
                 </div>
             </div>
