@@ -1,0 +1,521 @@
+{
+	"id": 1371185,
+	"title": "Song Sung Blue",
+	"fcg_title": "Song Sung Blue",
+	"original_title": "Song Sung Blue",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 10402,
+			"name": "Music"
+		},
+		{
+			"id": 10749,
+			"name": "Romance"
+		}
+	],
+	"overview": "Based on a true story, two down-on-their-luck musicians form a joyous Neil Diamond tribute band, proving it's never too late to find love and follow your dreams.",
+	"backdrop_path": "/7PDe2oJu8BHsu9hJ02FjOXT20a1.jpg",
+	"poster_path": "/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+	"release_date": "2025-12-25",
+	"credits": {
+		"cast": [
+			{
+				"id": 6968,
+				"order": 0,
+				"name": "Hugh Jackman",
+				"profile_path": "/oX6CpXmnXCHLyqsa4NEed1DZAKx.jpg",
+				"character": "Mike Sardina",
+				"gender": 2
+			},
+			{
+				"id": 11661,
+				"order": 1,
+				"name": "Kate Hudson",
+				"profile_path": "/s79lH1QzEg2fkXULKBxRmU9aNr8.jpg",
+				"character": "Claire Sardina",
+				"gender": 1
+			},
+			{
+				"id": 11486,
+				"order": 2,
+				"name": "Michael Imperioli",
+				"profile_path": "/jfoEHR6BRMg8emtujXdM3G4JHIm.jpg",
+				"character": "Mark Shurilla",
+				"gender": 2
+			},
+			{
+				"id": 26473,
+				"order": 3,
+				"name": "Fisher Stevens",
+				"profile_path": "/wWC6wbLV56RJGtyytMmmGvi054t.jpg",
+				"character": "Dr. Dave Watson",
+				"gender": 2
+			},
+			{
+				"id": 26485,
+				"order": 4,
+				"name": "Jim Belushi",
+				"profile_path": "/wIvFYH110ER7ukwR0qryQJJDQYH.jpg",
+				"character": "Tom D'Amato",
+				"gender": 2
+			},
+			{
+				"id": 933578,
+				"order": 5,
+				"name": "Ella Anderson",
+				"profile_path": "/hmyZS475t1RxljUgG67q5FBL2wU.jpg",
+				"character": "Rachel",
+				"gender": 1
+			},
+			{
+				"id": 2463999,
+				"order": 6,
+				"name": "King Princess",
+				"character": "Angelina",
+				"gender": 3
+			},
+			{
+				"id": 62385,
+				"order": 7,
+				"name": "Mustafa Shakir",
+				"profile_path": "/eeBtCxmlmHguKbeUr2Usx2Jdnj9.jpg",
+				"character": "Sex Machine",
+				"gender": 2
+			},
+			{
+				"id": 5000216,
+				"order": 8,
+				"name": "Hudson Hilbert Hensley",
+				"profile_path": "/uprOzXwjjwdRqdTkk3BGXgfRS9K.jpg",
+				"character": "Dayna",
+				"gender": 2
+			},
+			{
+				"id": 1493342,
+				"order": 9,
+				"name": "Shyaporn Theerakulstit",
+				"profile_path": "/oTT0xrCatZ6Qqw31gsx9TTiZzUI.jpg",
+				"character": "Somechai",
+				"gender": 2
+			},
+			{
+				"id": 3897114,
+				"order": 10,
+				"name": "John Beckwith",
+				"character": "Eddie Vedder"
+			}
+		],
+		"crew": [
+			{
+				"id": 53267,
+				"name": "Craig Brewer",
+				"profile_path": "/Cbsn9TlW7vKOxHUodKVNPtLrlq.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 53267,
+				"name": "Craig Brewer",
+				"profile_path": "/Cbsn9TlW7vKOxHUodKVNPtLrlq.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 53267,
+				"name": "Craig Brewer",
+				"profile_path": "/Cbsn9TlW7vKOxHUodKVNPtLrlq.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2043,
+				"name": "John Davis",
+				"profile_path": "/kpXOBMUBZe8XpHYk7s0721kjjIk.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1099832,
+				"name": "Erika Hampson",
+				"profile_path": "/fQ3iH69mqhwkRddk9Vl8YvtbGyA.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1209148,
+				"name": "Greg Kohs",
+				"profile_path": "/gEkw0Ayv0d72q0UetkuqSVTnIHW.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1522988,
+				"name": "John Fox",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1209148,
+				"name": "Greg Kohs",
+				"profile_path": "/gEkw0Ayv0d72q0UetkuqSVTnIHW.jpg",
+				"job": "Original Film Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1024910,
+				"name": "Lindsay Graham Ahanonu",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 4197,
+				"name": "Clay A. Griffith",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 95960,
+				"name": "Ernesto Martinez",
+				"profile_path": "/83cpIzxh2f1jNPPXhbvgNwWYGCm.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1578994,
+				"name": "Anouck Sullivan",
+				"job": "Makeup Department Head",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1579393,
+				"name": "Alicia Zavarella",
+				"job": "Hair Department Head",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2161306,
+				"name": "Vic Coram",
+				"job": "Unit Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 280800,
+				"name": "H.H. Cooper",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4102331,
+				"name": "Eric Calatayud",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1551352,
+				"name": "David J. Schwartz",
+				"job": "Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2040715,
+				"name": "Daniel McCabe",
+				"job": "Gaffer",
+				"department": "Lighting",
+				"gender": 2
+			},
+			{
+				"id": 1424696,
+				"name": "David J. Thompson",
+				"job": "\"A\" Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 1424696,
+				"name": "David J. Thompson",
+				"job": "Steadicam Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 1814699,
+				"name": "Trygge Toven",
+				"job": "Music Supervisor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2056245,
+				"name": "Ashley Pynn",
+				"profile_path": "/yrJMsZzvbgyr25Cl7fu5nNBKBF2.jpg",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1550725,
+				"name": "Chris Cenatiempo",
+				"profile_path": "/9po0q1c33g3iu6vpAYnTxBVqQt1.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 53640,
+				"name": "Amy Vincent",
+				"profile_path": "/eucWoHenDcY9hUU9BPxRbNJaqI4.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 1
+			},
+			{
+				"id": 53641,
+				"name": "Billy Fox",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1397725,
+				"name": "Lisa K. Sessions",
+				"job": "Set Decoration",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 53639,
+				"name": "Scott Bomar",
+				"profile_path": "/9bPBaYclUvKWdmB9p7xdMlHHEQo.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 280800,
+				"name": "H.H. Cooper",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1667750,
+				"name": "John Carrafa",
+				"profile_path": "/9q54HknOv4izFjrJw2lqx3W6ehH.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 206398,
+				"name": "John Cenatiempo",
+				"profile_path": "/6cEyUFyS5Tw2LGY0HkjpMjMZDmG.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1436624,
+				"name": "Angela Stauffer",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1527000,
+				"name": "Emilia Spirito",
+				"job": "Assistant Art Director",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1395678,
+				"name": "Rumiko Ishii",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 2158151,
+				"name": "Julian J. Delacruz",
+				"job": "\"B\" Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 69717,
+				"name": "Henry Cline",
+				"job": "\"C\" Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 2217584,
+				"name": "Adelina Atashi",
+				"job": "Key Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1461605,
+				"name": "Pamela S. Westmore",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 2504160,
+				"name": "Debra L. Ferullo",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1953014,
+				"name": "Courtney Jarrell",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5792790,
+				"name": "Jenn Vasilopoulos",
+				"job": "Key Hair Stylist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1635162,
+				"name": "Sean Flanigan",
+				"profile_path": "/fPwyDOkYb6UhO8VawfqNxTrYviM.jpg",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1407009,
+				"name": "Johnny Villanueva",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 3257557,
+				"name": "Michael Anthony Sampson",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1824496,
+				"name": "Brittany Romney",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1684985,
+				"name": "Greg Aharoni",
+				"job": "Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 2379959,
+				"name": "Eugene Hitt",
+				"job": "Special Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 4122572,
+				"name": "Stephen Powers",
+				"job": "Special Effects Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 4208082,
+				"name": "Robert Dell'arena",
+				"job": "Special Effects Technician",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3299707,
+				"name": "Alexandra Presas",
+				"job": "Casting Associate",
+				"department": "Production"
+			},
+			{
+				"id": 1625316,
+				"name": "Jacob Ribicoff",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1625316,
+				"name": "Jacob Ribicoff",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1123080,
+				"name": "Eric Strausser",
+				"job": "Foley Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 92376,
+				"name": "Marko Costanzo",
+				"job": "Foley Artist",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1039164,
+				"name": "George A. Lara",
+				"job": "Foley Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1407734,
+				"name": "Luke DiTommaso",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 4126012,
+				"name": "Opal Fleischmann",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects",
+				"gender": 1
+			},
+			{
+				"id": 1468572,
+				"name": "Alex Lemke",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1468573,
+				"name": "Michael Huber",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 40142,
+				"name": "Robert Fernandez",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			}
+		]
+	}
+}
