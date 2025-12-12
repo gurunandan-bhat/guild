@@ -1,0 +1,586 @@
+{
+	"id": 1235246,
+	"title": "Christmas Karma",
+	"fcg_title": "Christmas Karma",
+	"original_title": "Christmas Karma",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 14,
+			"name": "Fantasy"
+		},
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "In modern-day London, an unkind British-Indian businessman is compelled by three ghosts to reflect on his life and to consider the needs of those around him.",
+	"backdrop_path": "/jkUOx81LDsn4BvXsv5WbkKm3vnx.jpg",
+	"poster_path": "/axkX8p8OyvGTsr8q2MXO3EjMwqO.jpg",
+	"release_date": "2025-11-14",
+	"credits": {
+		"cast": [
+			{
+				"id": 208099,
+				"order": 0,
+				"name": "Kunal Nayyar",
+				"profile_path": "/4e2zbGYxBTHHzDDGKo5SnNyOUx3.jpg",
+				"character": "Eshaan Sood",
+				"gender": 2
+			},
+			{
+				"id": 1502483,
+				"order": 1,
+				"name": "Leo Suter",
+				"profile_path": "/vRFLpAz9k01M4TwEvgXao8AkXFf.jpg",
+				"character": "Bob Cratchit",
+				"gender": 2
+			},
+			{
+				"id": 3327515,
+				"order": 2,
+				"name": "Charithra Chandran",
+				"profile_path": "/xLFgJmfXjd2Nnbjx3ZtavReGwjK.jpg",
+				"character": "Bea Fernandez",
+				"gender": 1
+			},
+			{
+				"id": 133981,
+				"order": 3,
+				"name": "Pixie Lott",
+				"profile_path": "/7lOzQfp5IcOpJT8V09lr6544jf.jpg",
+				"character": "Mary Cratchit",
+				"gender": 1
+			},
+			{
+				"id": 19923,
+				"order": 4,
+				"name": "Hugh Bonneville",
+				"profile_path": "/skbxj8MUuNiI39ZkP38uEirU0bC.jpg",
+				"character": "Jacob Marley",
+				"gender": 2
+			},
+			{
+				"id": 52605,
+				"order": 5,
+				"name": "Eva Longoria",
+				"profile_path": "/1u26GLWK1DE7gBugyI9P3OMFq4A.jpg",
+				"character": "The Ghost of Christmas Past",
+				"gender": 1
+			},
+			{
+				"id": 88966,
+				"order": 6,
+				"name": "Billy Porter",
+				"profile_path": "/3BrMhoTURtBpbPZjNxYILmxfqJP.jpg",
+				"character": "The Ghost of Christmas Present",
+				"gender": 2
+			},
+			{
+				"id": 46279,
+				"order": 7,
+				"name": "Boy George",
+				"profile_path": "/7OFcmMshgwxMPbxB0UHs4qkz8nT.jpg",
+				"character": "The Ghost of Christmas Future",
+				"gender": 2
+			},
+			{
+				"id": 3433933,
+				"order": 8,
+				"name": "Bilal Hasna",
+				"profile_path": "/4Iv2G2tKWvv8BEAcJ9AU75jpG2L.jpg",
+				"character": "Eddie Sood",
+				"gender": 2
+			},
+			{
+				"id": 41042,
+				"order": 9,
+				"name": "Danny Dyer",
+				"profile_path": "/jkRpiR5pwkyeiIBdQF8og9D4reP.jpg",
+				"character": "The London Cabbie",
+				"gender": 2
+			},
+			{
+				"id": 78018,
+				"order": 10,
+				"name": "Allan Corduner",
+				"profile_path": "/9bZTEBUjY02UeooNnghZXxKfiO7.jpg",
+				"character": "Mr Fezzywig",
+				"gender": 2
+			},
+			{
+				"id": 1219469,
+				"order": 11,
+				"name": "Tracy-Ann Oberman",
+				"profile_path": "/v1Rw6nfWYA9QaIjfLaVJTBdj2id.jpg",
+				"character": "Mrs Fezzywig",
+				"gender": 1
+			},
+			{
+				"id": 429541,
+				"order": 12,
+				"name": "Rufus Jones",
+				"profile_path": "/sGgwNVXCvDOC4x9CtJqQAFida8N.jpg",
+				"character": "Rupert Holly",
+				"gender": 2
+			},
+			{
+				"id": 2171786,
+				"order": 13,
+				"name": "Sonia Goswami",
+				"profile_path": "/3fFeh8Tt2BpLiqSwOuNspByVVkK.jpg",
+				"character": "Bea's Mother",
+				"gender": 1
+			},
+			{
+				"id": 1229053,
+				"order": 14,
+				"name": "Jeff Mirza",
+				"profile_path": "/xgRKoMFBQGavRT65OBMxcABVe1G.jpg",
+				"character": "Bea's Father",
+				"gender": 2
+			},
+			{
+				"id": 1616922,
+				"order": 15,
+				"name": "Tanveer Ghani",
+				"profile_path": "/zE1v5KwV84Q7aAdkUJLoPblfM2o.jpg",
+				"character": "Bea's Husband",
+				"gender": 2
+			},
+			{
+				"id": 5694294,
+				"order": 16,
+				"name": "Freddie Marshall-Ellis",
+				"character": "Tiny Tim"
+			},
+			{
+				"id": 3590333,
+				"order": 17,
+				"name": "Charlie Hodson-Prior",
+				"profile_path": "/kc1R79aL5I25ArFNqCLmQKUvk6j.jpg",
+				"character": "Peter Cratchit",
+				"gender": 2
+			},
+			{
+				"id": 5040474,
+				"order": 18,
+				"name": "Finn Guegan",
+				"profile_path": "/pUoXBQqKjBwA0AvHV8f52kByokB.jpg",
+				"character": "Older Cratchit Brother"
+			},
+			{
+				"id": 2952051,
+				"order": 19,
+				"name": "Olivia Brody",
+				"profile_path": "/cRq9YhRThyHwsUnJ68Lg76fBkGa.jpg",
+				"character": "Cratchit Sister",
+				"gender": 1
+			},
+			{
+				"id": 58776,
+				"order": 20,
+				"name": "Nitin Ganatra",
+				"profile_path": "/gFvTl8vphafRHdqlEPWmVnV6DYT.jpg",
+				"character": "Parduman Singh",
+				"gender": 2
+			},
+			{
+				"id": 1020044,
+				"order": 21,
+				"name": "Neelam Bakshi",
+				"profile_path": "/2LuMTuck33xm4GlygfZpKcDlzxa.jpg",
+				"character": "Gulab Singh",
+				"gender": 1
+			},
+			{
+				"id": 5694297,
+				"order": 22,
+				"name": "Gayatri Jeyachandran",
+				"character": "Chila Singh"
+			},
+			{
+				"id": 5694298,
+				"order": 23,
+				"name": "Jash Patel",
+				"character": "Ravi Singh"
+			},
+			{
+				"id": 62230,
+				"order": 24,
+				"name": "Shobu Kapoor",
+				"profile_path": "/xYw04alDmANRMeSw9Xi7wt5HQwm.jpg",
+				"character": "Mrs Joshi",
+				"gender": 1
+			},
+			{
+				"id": 1294985,
+				"order": 25,
+				"name": "Shubham Saraf",
+				"profile_path": "/7LsYeGYP4mTfKOvG2l7BVDEB0o6.jpg",
+				"character": "Raj",
+				"gender": 2
+			},
+			{
+				"id": 1918073,
+				"order": 26,
+				"name": "Anil Desai",
+				"profile_path": "/zZs4eskm8yn9o5H2mHXqmMwjpgL.jpg",
+				"character": "Young Sood's Father",
+				"gender": 2
+			},
+			{
+				"id": 5694302,
+				"order": 27,
+				"name": "Vaishali Morjaria",
+				"character": "Young Sood's Grandmother"
+			},
+			{
+				"id": 5694304,
+				"order": 28,
+				"name": "Inara Ansari",
+				"character": "Young Sood's Sister"
+			},
+			{
+				"id": 1217017,
+				"order": 29,
+				"name": "Josh Taylor",
+				"profile_path": "/52f7XtfSsscBOT2eMRTaCf0jNoL.jpg",
+				"character": "Young Jacob Marley",
+				"gender": 2
+			},
+			{
+				"id": 1248490,
+				"order": 30,
+				"name": "Shaznay Lewis",
+				"profile_path": "/xwIayx14tAlKTUvxn15J9rpkX6a.jpg",
+				"character": "Carol",
+				"gender": 1
+			},
+			{
+				"id": 1514177,
+				"order": 31,
+				"name": "Ben Bailey Smith",
+				"profile_path": "/7fZMM4HAVyYscZ2boJXzvLwl45w.jpg",
+				"character": "Cocky Ken",
+				"gender": 2
+			},
+			{
+				"id": 95022,
+				"order": 32,
+				"name": "Trudie Styler",
+				"profile_path": "/jC8HeF4UX1lpNAcRtjy97mCGBQE.jpg",
+				"character": "Meredith",
+				"gender": 1
+			},
+			{
+				"id": 211395,
+				"order": 33,
+				"name": "Olivia Poulet",
+				"profile_path": "/eNvUae0kqviL1NT8DT6bNDe32Xy.jpg",
+				"character": "Charlotte",
+				"gender": 1
+			},
+			{
+				"id": 2700284,
+				"order": 34,
+				"name": "Kumiko Chadha Berges",
+				"character": "Sam"
+			},
+			{
+				"id": 5009146,
+				"order": 35,
+				"name": "Mofé Akande",
+				"character": "Joy"
+			},
+			{
+				"id": 5694301,
+				"order": 36,
+				"name": "Mia Lomer",
+				"character": "Rachel Fezzywig"
+			},
+			{
+				"id": 1441509,
+				"order": 37,
+				"name": "Malkith Singh",
+				"character": "Self",
+				"gender": 2
+			},
+			{
+				"id": 2797311,
+				"order": 38,
+				"name": "Genesis Lynea",
+				"profile_path": "/vHxiIIybt3ZPdIJ8PQ93mcNsOoC.jpg",
+				"character": "Soul Sista",
+				"gender": 1
+			},
+			{
+				"id": 5694287,
+				"order": 39,
+				"name": "Joy Farrukh",
+				"character": "Soul Sista"
+			}
+		],
+		"crew": [
+			{
+				"id": 6220,
+				"name": "Gurinder Chadha",
+				"profile_path": "/giMqMKMIu9e9ieQoHRoqZqnWGwr.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 6220,
+				"name": "Gurinder Chadha",
+				"profile_path": "/giMqMKMIu9e9ieQoHRoqZqnWGwr.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 3557,
+				"name": "Charles Dickens",
+				"profile_path": "/vuy9knaprX05bT4WNJki5iDPfsK.jpg",
+				"job": "Novel",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 53277,
+				"name": "Celine Rattray",
+				"profile_path": "/pAZFm7lHRgNwEPLYnbWTtSsf2Rn.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1996005,
+				"name": "Josh Cunliffe",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 6220,
+				"name": "Gurinder Chadha",
+				"profile_path": "/giMqMKMIu9e9ieQoHRoqZqnWGwr.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1826146,
+				"name": "Amory Leader",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 95022,
+				"name": "Trudie Styler",
+				"profile_path": "/jC8HeF4UX1lpNAcRtjy97mCGBQE.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 474,
+				"name": "Jina Jay",
+				"profile_path": "/6IG0L5UgQ8jzDkiCI6Umy9qAq9x.jpg",
+				"job": "Casting Director",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1760390,
+				"name": "Jennifer Eriksson",
+				"profile_path": "/snwtHd8a6ygfL6Welxzk1ccPzUx.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1379046,
+				"name": "Richard Kondal",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5009147,
+				"name": "Sophia Pedlow",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2810572,
+				"name": "Louise Collins",
+				"job": "Casting Director",
+				"department": "Production"
+			},
+			{
+				"id": 1285669,
+				"name": "Michael Ralph",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 2801110,
+				"name": "Felix Leech",
+				"profile_path": "/3pTismSnSyqkm8WeQuBglPMDl46.jpg",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 43384,
+				"name": "Hannah Leader",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 6226,
+				"name": "Zygi Kamasa",
+				"profile_path": "/fOIHGCwhlbGHVIMj5lwzQDtm7lE.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 6222,
+				"name": "Paul Mayeda Berges",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1164263,
+				"name": "Gary Barlow",
+				"profile_path": "/88Zz8fSBn6QpmIvvaKHsL24cK73.jpg",
+				"job": "Songs",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 34954,
+				"name": "Nitin Sawhney",
+				"job": "Songs",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1248490,
+				"name": "Shaznay Lewis",
+				"profile_path": "/xwIayx14tAlKTUvxn15J9rpkX6a.jpg",
+				"job": "Songs",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 5694277,
+				"name": "Ben Cullum",
+				"job": "Songs",
+				"department": "Sound"
+			},
+			{
+				"id": 2526110,
+				"name": "Panjabi MC",
+				"profile_path": "/mmw9rgpYOUkacisuoZWE3yotBBv.jpg",
+				"job": "Songs",
+				"department": "Sound"
+			},
+			{
+				"id": 34954,
+				"name": "Nitin Sawhney",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1248490,
+				"name": "Shaznay Lewis",
+				"profile_path": "/xwIayx14tAlKTUvxn15J9rpkX6a.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1164263,
+				"name": "Gary Barlow",
+				"profile_path": "/88Zz8fSBn6QpmIvvaKHsL24cK73.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1298996,
+				"name": "Niels Reedtz Johansen",
+				"profile_path": "/AfTz37WewYMZAif3wzmZhGRQeGj.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1889587,
+				"name": "Bronwyn Franklin",
+				"job": "Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 1312190,
+				"name": "Claire Finlay-Thompson",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 2475411,
+				"name": "David Goldsmith",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 6220,
+				"name": "Gurinder Chadha",
+				"profile_path": "/giMqMKMIu9e9ieQoHRoqZqnWGwr.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 6222,
+				"name": "Paul Mayeda Berges",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1441509,
+				"name": "Malkith Singh",
+				"job": "Songs",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 208099,
+				"name": "Kunal Nayyar",
+				"profile_path": "/4e2zbGYxBTHHzDDGKo5SnNyOUx3.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 208099,
+				"name": "Kunal Nayyar",
+				"profile_path": "/4e2zbGYxBTHHzDDGKo5SnNyOUx3.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			}
+		]
+	}
+}
