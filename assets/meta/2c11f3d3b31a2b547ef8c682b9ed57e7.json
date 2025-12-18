@@ -1,0 +1,112 @@
+{
+	"id": 82596,
+	"name": "Emily in Paris",
+	"fcg_title": "Emily in Paris S05",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 35,
+			"name": "Comedy"
+		}
+	],
+	"overview": "New passions. New fashions. New Emily? A plucky American marketing whiz spreads her wings in life and love after landing her dream job in Paris.",
+	"backdrop_path": "/2p1qKfuUqvB1slMwNTjGYdWKS3K.jpg",
+	"poster_path": "/qYGIf2QAhSIa5Xbf72QvLtte2e8.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 112561,
+				"order": 0,
+				"name": "Lily Collins",
+				"profile_path": "/vyyd5W91mre33g7INz0yPzmVC2i.jpg",
+				"character": "Emily Cooper",
+				"gender": 1
+			},
+			{
+				"id": 20530,
+				"order": 1,
+				"name": "Philippine Leroy-Beaulieu",
+				"profile_path": "/1wt9AWB8HQz23VDmcZA0tVQn0vx.jpg",
+				"character": "Sylvie Grateau",
+				"gender": 1
+			},
+			{
+				"id": 1285023,
+				"order": 2,
+				"name": "Ashley Park",
+				"profile_path": "/aFw4TmHuaAIpz9nCvtadtO1AYGZ.jpg",
+				"character": "Mindy Chen",
+				"gender": 1
+			},
+			{
+				"id": 2417980,
+				"order": 3,
+				"name": "Lucas Bravo",
+				"profile_path": "/uO6vMlJBMASyOQMisvnPehjsfJB.jpg",
+				"character": "Gabriel",
+				"gender": 2
+			},
+			{
+				"id": 1460731,
+				"order": 4,
+				"name": "Camille Razat",
+				"profile_path": "/KHg73Wl3kiqQCh4O02yXuxwxrE.jpg",
+				"character": "Camille de Lalisse",
+				"gender": 1
+			},
+			{
+				"id": 1746088,
+				"order": 5,
+				"name": "Samuel Arnold",
+				"profile_path": "/r5cHeGdcOXHfNjeGamlJG1WQLRS.jpg",
+				"character": "Julien",
+				"gender": 2
+			},
+			{
+				"id": 2320594,
+				"order": 6,
+				"name": "Bruno Gouery",
+				"profile_path": "/w0JGP6mtph0PAaRmXagD9PcpQ5M.jpg",
+				"character": "Luc",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1252207,
+				"name": "Tony Hernandez",
+				"profile_path": "/t27d9MElkdjLnrGoEDXknUPoejj.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 47915,
+				"name": "Darren Star",
+				"profile_path": "/lh6yexxHGKpLViBUBCWvBzP8kIq.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1252208,
+				"name": "Lilly Burns",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 41549,
+				"name": "Andrew Fleming",
+				"profile_path": "/fgqJC8aCiH00Y1g3cfzYpBUBCD3.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			}
+		]
+	}
+}
