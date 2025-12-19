@@ -1,7 +1,7 @@
 +++
 title = "Daayam"
 date = 2025-12-19T08:58:02+05:30
-draft = true
+draft = false
 mreviews = ["Daayam"]
 critics = ['Saibal Chatterjee']
 publication = ''
