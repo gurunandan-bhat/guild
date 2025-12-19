@@ -1,8 +1,8 @@
 +++
-title = "Avatar: Fire And Ash"
+title = "Avatar: Fire and Ash"
 date = 2025-12-18T19:47:19+05:30
 draft = false
-mreviews = ["Avatar: Fire And Ash"]
+mreviews = ["Avatar: Fire and Ash"]
 critics = ['Renuka Vyavahare']
 publication = ''
 subtitle = "Spellbinding visuals aside, the clan-war–riddled Avatar threequel is repetitive and exhausting"
