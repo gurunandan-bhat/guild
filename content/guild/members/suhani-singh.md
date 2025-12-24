@@ -8,6 +8,7 @@ img = '/images/members/SuhaniSingh.png'
 
 [soc_media]
 twitter = 'https://twitter.com/suhani84'
+instagram = 'https://www.instagram.com/suhani84'
 +++
 
 Suhani Singh is a journalist with over two decades of experience. Currently, she’s the Deputy Editor with India Today magazine, India’s leading news weekly, where she has been covering the entertainment industry as well reporting on culture and sports beats.

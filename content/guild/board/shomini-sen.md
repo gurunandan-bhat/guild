@@ -9,6 +9,7 @@ img = '/images/members/Shomini Sen.png'
 [soc_media]
 facebook = 'https://www.facebook.com/Shomini-Sen-737117746377475/'
 twitter = 'https://twitter.com/shominisen'
+instagram = 'https://www.instagram.com/shomini'
 +++
 
 Shomini Sen is a film critic and entertainment editor for WION with over 15 years of experience in film writing. She has previously worked with News18.com and Zeenews.com . She reviews and writes about Hindi, English and Bengali films.
