@@ -1,0 +1,656 @@
+{
+	"id": 1234731,
+	"title": "Anaconda",
+	"fcg_title": "Anaconda",
+	"original_title": "Anaconda",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 12,
+			"name": "Adventure"
+		},
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 27,
+			"name": "Horror"
+		}
+	],
+	"overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
+	"backdrop_path": "/yo41R39airbREp0PYfG30Ofxtgt.jpg",
+	"poster_path": "/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
+	"release_date": "2025-12-24",
+	"credits": {
+		"cast": [
+			{
+				"id": 22226,
+				"order": 0,
+				"name": "Paul Rudd",
+				"profile_path": "/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg",
+				"character": "Ronald Griffen 'Griff' Jr.",
+				"gender": 2
+			},
+			{
+				"id": 70851,
+				"order": 1,
+				"name": "Jack Black",
+				"profile_path": "/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg",
+				"character": "Doug McCallister",
+				"gender": 2
+			},
+			{
+				"id": 1784612,
+				"order": 2,
+				"name": "Daniela Melchior",
+				"profile_path": "/zLqPkfenHtuHSrXmEVmQ8Piqjdp.jpg",
+				"character": "Ana Almeida",
+				"gender": 1
+			},
+			{
+				"id": 9030,
+				"order": 3,
+				"name": "Thandiwe Newton",
+				"profile_path": "/hZQLvxj7nV7pBrRyWTvWVz1CDi8.jpg",
+				"character": "Claire Simons",
+				"gender": 1
+			},
+			{
+				"id": 18324,
+				"order": 4,
+				"name": "Steve Zahn",
+				"profile_path": "/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg",
+				"character": "Kenny Trent",
+				"gender": 2
+			},
+			{
+				"id": 3126,
+				"order": 5,
+				"name": "Ione Skye",
+				"profile_path": "/KuUCBslsXwhH5wPsL4fVP297FM.jpg",
+				"character": "Malie McCallister",
+				"gender": 1
+			},
+			{
+				"id": 87341,
+				"order": 6,
+				"name": "Selton Mello",
+				"profile_path": "/sBVDTAAEDJuVBTKzVGA0PrqeD17.jpg",
+				"character": "Santiago Braga",
+				"gender": 2
+			},
+			{
+				"id": 1232323,
+				"order": 7,
+				"name": "Ben Lawson",
+				"profile_path": "/yxIkefVB8N8svOpjIbFmXBQPa0P.jpg",
+				"character": "Brant Markham - TV MD",
+				"gender": 2
+			},
+			{
+				"id": 9778,
+				"order": 8,
+				"name": "Ice Cube",
+				"profile_path": "/9EghwabQ1wIQT4oN69qtPlzqGn4.jpg",
+				"character": "Ice Cube",
+				"gender": 2
+			},
+			{
+				"id": 21722,
+				"order": 9,
+				"name": "John Billingsley",
+				"profile_path": "/uQzAvv4LUt57GBrYzDj5Ao1vhUT.jpg",
+				"character": "Jerry",
+				"gender": 2
+			},
+			{
+				"id": 129685,
+				"order": 10,
+				"name": "Rui Ricardo Diaz",
+				"profile_path": "/zjFqxdsijCYiWHvEwaztRP1eQet.jpg",
+				"character": "João",
+				"gender": 2
+			},
+			{
+				"id": 4078880,
+				"order": 11,
+				"name": "Sebastian Sero",
+				"profile_path": "/c87XzTcaC7dLCGoIdcDkIKnPOiP.jpg",
+				"character": "Charlie",
+				"gender": 2
+			},
+			{
+				"id": 5896952,
+				"order": 12,
+				"name": "Diego Arnary",
+				"character": "Paulo"
+			},
+			{
+				"id": 5894376,
+				"order": 13,
+				"name": "Dan Silveira",
+				"character": "Timo"
+			},
+			{
+				"id": 5896953,
+				"order": 14,
+				"name": "Anna Francesca Armenia",
+				"character": "Bride",
+				"gender": 1
+			},
+			{
+				"id": 1510004,
+				"order": 15,
+				"name": "Jarred Blakiston",
+				"profile_path": "/slwXUIBB8nqyJKM66yM4MhwJvhI.jpg",
+				"character": "Groom",
+				"gender": 2
+			},
+			{
+				"id": 1242533,
+				"order": 16,
+				"name": "John Voce",
+				"profile_path": "/ht2RAEM1NloM62Mzx4NacsUftp7.jpg",
+				"character": "Groom’s Dad",
+				"gender": 2
+			},
+			{
+				"id": 933684,
+				"order": 17,
+				"name": "Lisa Kay",
+				"profile_path": "/1LeGYRf9ighFrX8PuVI6bsHIEHy.jpg",
+				"character": "Groom’s Mom",
+				"gender": 1
+			},
+			{
+				"id": 2896645,
+				"order": 18,
+				"name": "Ron Smyck",
+				"profile_path": "/a1KEvCRpoeWbmDM13C9qCGtopkD.jpg",
+				"character": "Director",
+				"gender": 2
+			},
+			{
+				"id": 3694940,
+				"order": 19,
+				"name": "Renee Herbert",
+				"profile_path": "/sG7b47X6y3m5TSqJzXzG3xLBcNp.jpg",
+				"character": "Set PA",
+				"gender": 1
+			},
+			{
+				"id": 5768037,
+				"order": 20,
+				"name": "Romeo Ellard",
+				"character": "Young Griff"
+			},
+			{
+				"id": 5897176,
+				"order": 21,
+				"name": "Reagan George",
+				"character": "Young Kenny"
+			},
+			{
+				"id": 5897177,
+				"order": 22,
+				"name": "Aimee Bah",
+				"character": "Young Claire",
+				"gender": 1
+			},
+			{
+				"id": 4116040,
+				"order": 23,
+				"name": "Jack Waters",
+				"character": "Young Doug"
+			},
+			{
+				"id": 1661479,
+				"order": 24,
+				"name": "Yasmin Kassim",
+				"profile_path": "/pv9ShbsTlCwmZAseUI4aud6CTkW.jpg",
+				"character": "Kate Lentz (Bank Manager)",
+				"gender": 1
+			},
+			{
+				"id": 5897180,
+				"order": 25,
+				"name": "Gabriel Jose",
+				"character": "1st Assistant Director"
+			},
+			{
+				"id": 5897182,
+				"order": 26,
+				"name": "Cooper Matthews",
+				"character": "Kid Actor"
+			},
+			{
+				"id": 5897183,
+				"order": 27,
+				"name": "Jankester Ayala",
+				"character": "2nd Assistant Director"
+			},
+			{
+				"id": 2022181,
+				"order": 28,
+				"name": "Cheree Cassidy",
+				"profile_path": "/yrHWfZSTSo7tl5wtJVJRBjVegzm.jpg",
+				"character": "Makeup Artist - Donna",
+				"gender": 1
+			},
+			{
+				"id": 4624618,
+				"order": 29,
+				"name": "Paul Borges",
+				"character": "Henchman"
+			},
+			{
+				"id": 16866,
+				"order": 30,
+				"name": "Jennifer Lopez",
+				"profile_path": "/169kOiv7jkEfHxIC5wrZNszkPv1.jpg",
+				"character": "Jennifer Lopez (uncredited)",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 1211000,
+				"name": "Tom Gormican",
+				"profile_path": "/3OIo7pq87kh7Zg03szRuKFvLRSR.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 54844,
+				"name": "Brad Fuller",
+				"profile_path": "/qlJSn1kbOe6jZwJAkJGuyNh5tGi.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 54843,
+				"name": "Andrew Form",
+				"profile_path": "/yo3V5C3RUm43NaLhKISU9UIIFjm.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1211000,
+				"name": "Tom Gormican",
+				"profile_path": "/3OIo7pq87kh7Zg03szRuKFvLRSR.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1219572,
+				"name": "Kevin Etten",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1392722,
+				"name": "Reg Garside",
+				"job": "Gaffer",
+				"department": "Lighting"
+			},
+			{
+				"id": 2799624,
+				"name": "Keir Beck",
+				"job": "Second Unit Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2799624,
+				"name": "Keir Beck",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 1915159,
+				"name": "Dane Cody",
+				"job": "Production Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1454936,
+				"name": "Brian Cox",
+				"job": "Special Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1662340,
+				"name": "Cedric Martin",
+				"job": "\"A\" Camera Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1662340,
+				"name": "Cedric Martin",
+				"job": "Steadicam Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 17847,
+				"name": "Samson Mucke",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 17847,
+				"name": "Samson Mucke",
+				"job": "Unit Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 1635506,
+				"name": "Christopher Bruce",
+				"job": "Set Decoration",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1725653,
+				"name": "Sharon Robbins",
+				"job": "Hair Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1725653,
+				"name": "Sharon Robbins",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1418814,
+				"name": "Ricky Schamburg",
+				"job": "\"B\" Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 1335195,
+				"name": "Frazer Churchill",
+				"profile_path": "/gq1n84xhYTEae2yUSvP0Pm0yy0J.jpg",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1367498,
+				"name": "Scott Puckett",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1639821,
+				"name": "David Fleming",
+				"profile_path": "/dsWDTd4TOTY3vyCiDrsLwg3PZXj.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 6742,
+				"name": "Craig Alpert",
+				"profile_path": "/bYDRvNYRtQW5H9qEqimbJDudcXt.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 995462,
+				"name": "Gregory Plotkin",
+				"profile_path": "/sUGMMdWoLobZE4DuaXhLTOPVkby.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 75942,
+				"name": "Steven Jones-Evans",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1172516,
+				"name": "Alice Babidge",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1452995,
+				"name": "Stewart Alves",
+				"job": "Animation Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1395449,
+				"name": "Fiona Chilton",
+				"job": "Executive Visual Effects Producer",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 4776236,
+				"name": "Sunit Saha",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 3754406,
+				"name": "Ryan Makepeace",
+				"job": "Travel Coordinator",
+				"department": "Production"
+			},
+			{
+				"id": 1715666,
+				"name": "Ben Snow",
+				"profile_path": "/mclJMzaoaGLFPZhYjAKuLY2NwnK.jpg",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1404531,
+				"name": "Justin Martin",
+				"job": "CG Supervisor",
+				"department": "Crew"
+			},
+			{
+				"id": 1552808,
+				"name": "Mark Rodahl",
+				"job": "CG Supervisor",
+				"department": "Crew"
+			},
+			{
+				"id": 2005484,
+				"name": "Dan Breckwoldt",
+				"job": "Compositing Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 3350532,
+				"name": "Xenia Moliner Roldan",
+				"job": "Visual Effects Production Manager",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2613421,
+				"name": "Colin Shen Min Lim",
+				"job": "VFX Editor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 5897082,
+				"name": "Daniel Lucas",
+				"job": "Visual Effects Production Assistant",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 5897083,
+				"name": "Rhys Jenkins",
+				"job": "Visual Effects Production Assistant",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 57437,
+				"name": "Hans Bauer",
+				"job": "Original Film Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 11080,
+				"name": "Jim Cash",
+				"job": "Original Film Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 11081,
+				"name": "Jack Epps Jr.",
+				"profile_path": "/gHOLWfXR46DkrA0m4R3bW9ky6DL.jpg",
+				"job": "Original Film Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 76845,
+				"name": "Nigel Bluck",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1219572,
+				"name": "Kevin Etten",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1211000,
+				"name": "Tom Gormican",
+				"profile_path": "/3OIo7pq87kh7Zg03szRuKFvLRSR.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2137396,
+				"name": "Alex Ginno",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2069725,
+				"name": "Erin Vitali",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 33302,
+				"name": "Richard Bluck",
+				"job": "Second Unit Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1527926,
+				"name": "Matt Toll",
+				"job": "Second Unit Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 928414,
+				"name": "Rachel Tenner",
+				"profile_path": "/rc7y4ymAuhItKVVok7EJxxJTTZB.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1585741,
+				"name": "Colin Ware",
+				"job": "Special Effects Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2547594,
+				"name": "Josh Muzaffer",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2969953,
+				"name": "Marieke Spence",
+				"job": "Second Assistant Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 1668685,
+				"name": "Jimmy Waitman",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2911018,
+				"name": "Jayden Irving",
+				"profile_path": "/pHbpTlMFauOVW00TPB5HIwjX7PM.jpg",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2993591,
+				"name": "Alex Time",
+				"profile_path": "/5tiQsKd7zRIbKSN9cnrsByEVo7O.jpg",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 42267,
+				"name": "Randy Thom",
+				"profile_path": "/oWv5U4r7NcIlQjs0IxMWE3dsx2l.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1369374,
+				"name": "Kyle Arzt",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1445838,
+				"name": "Leff Lefferts",
+				"profile_path": "/6fEZUflQtYCHoGxCkimBIuu1aTm.jpg",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1378171,
+				"name": "Kevin O'Connell",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			}
+		]
+	}
+}
