@@ -1,0 +1,353 @@
+{
+	"id": 1196946,
+	"title": "Ikkis",
+	"fcg_title": "Ikkis",
+	"original_title": "इक्कीस",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 36,
+			"name": "History"
+		},
+		{
+			"id": 10752,
+			"name": "War"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Against the backdrop of the 1971 war, Arun Khetrapal defies all odds to become a Second Lieutenant and India's youngest Param Vir Chakra recipient.",
+	"backdrop_path": "/wbhoYwvqgadchfMgUOfOp87QZDS.jpg",
+	"poster_path": "/8PWu0V10nMqG5SrA13wLRXTD2fH.jpg",
+	"release_date": "2026-01-01",
+	"credits": {
+		"cast": [
+			{
+				"id": 3548777,
+				"order": 0,
+				"name": "Agastya Nanda",
+				"profile_path": "/9ZVhllk4Uuufyjazw8vAyxLyFSH.jpg",
+				"character": "Arun Khetarpal",
+				"gender": 2
+			},
+			{
+				"id": 85655,
+				"order": 1,
+				"name": "Dharmendra",
+				"profile_path": "/qRT0nOpxt14osa76nTrNduawX0l.jpg",
+				"character": "Lt. M.L. Khetarpal",
+				"gender": 2
+			},
+			{
+				"id": 973402,
+				"order": 2,
+				"name": "Jaideep Ahlawat",
+				"profile_path": "/uILn4y8EWbMdeu71laMsh8zHY0M.jpg",
+				"gender": 2
+			},
+			{
+				"id": 4675710,
+				"order": 3,
+				"name": "Simar Bhatia",
+				"character": "Kiran Kochar",
+				"gender": 1
+			},
+			{
+				"id": 1566624,
+				"order": 4,
+				"name": "Ekavali Khanna",
+				"profile_path": "/2ABFzaRjpsntfTFeLgZd43q0DbI.jpg",
+				"character": "Maryam Nisar",
+				"gender": 1
+			},
+			{
+				"id": 5314290,
+				"order": 5,
+				"name": "Shree Bishnoi",
+				"profile_path": "/8pCvomGI15M1UWTwn7GCC1KrZJX.jpg",
+				"character": "SWR Parag Singh",
+				"gender": 2
+			},
+			{
+				"id": 229123,
+				"order": 6,
+				"name": "Sikandar Kher",
+				"profile_path": "/sULXachczStfQLegNVmxcvuUTWZ.jpg",
+				"character": "RIS Sagat Singh",
+				"gender": 2
+			},
+			{
+				"id": 5648954,
+				"order": 7,
+				"name": "Madhusudan Bishnoi",
+				"character": "Bishwanath Singh",
+				"gender": 2
+			},
+			{
+				"id": 110708,
+				"order": 8,
+				"name": "Suhasini Mulay",
+				"profile_path": "/9mD9ASIlw56LIRIEGSXHmIovu4D.jpg",
+				"character": "Maheshwari Khetarpal",
+				"gender": 1
+			},
+			{
+				"id": 1386199,
+				"order": 9,
+				"name": "Vivaan Shah",
+				"profile_path": "/irI6L7HbaLPuw9U6FwmITlcnCu.jpg",
+				"character": "Vijendra Malhotra",
+				"gender": 2
+			},
+			{
+				"id": 37234,
+				"order": 10,
+				"name": "Rahul Dev",
+				"profile_path": "/wjADAt1yCyQML0qQIQiGLP9xNUm.jpg",
+				"character": "Hanut Singh",
+				"gender": 2
+			},
+			{
+				"id": 85594,
+				"order": 11,
+				"name": "Deepak Dobriyal",
+				"profile_path": "/cImSPlrxucfiGS3ICvpFD5XSs64.jpg",
+				"character": "Jahangir",
+				"gender": 2
+			},
+			{
+				"id": 86019,
+				"order": 12,
+				"name": "Asrani",
+				"profile_path": "/zoZRnIHNkCRq4gKZGaQhbtPrIDj.jpg",
+				"character": "Asghar",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 85665,
+				"name": "Sriram Raghavan",
+				"profile_path": "/wSm4CkL6LxdDxg7t1kBzy0Gi8Fs.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 85665,
+				"name": "Sriram Raghavan",
+				"profile_path": "/wSm4CkL6LxdDxg7t1kBzy0Gi8Fs.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2048190,
+				"name": "Vaibhav Vishant",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 102246,
+				"name": "Dinesh Vijan",
+				"profile_path": "/mYKpPjxkGvyCXMhId8HXZKAyePb.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1745013,
+				"name": "Mayur Sharma",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1744509,
+				"name": "Rohit Chaturvedi",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2255860,
+				"name": "Sharada Karki",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2384413,
+				"name": "Poonam Shivdasani",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2066412,
+				"name": "Binny Padda",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 85664,
+				"name": "Pooja Ladha Surti",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 2149976,
+				"name": "Arijit Biswas",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 35738,
+				"name": "Anil Mehta",
+				"profile_path": "/qzdQGvYWcGpj53Dwmvbc03mMd6E.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1561322,
+				"name": "Monisha R Baldawa",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 1279371,
+				"name": "Sachin Sanghvi",
+				"profile_path": "/eU5IcGfWX8Ttv3hLNZnFbkno3Ev.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1279372,
+				"name": "Jigar Saraiya",
+				"profile_path": "/r9vcvfVmc7aybWEB3vHYJiUSNJP.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2156672,
+				"name": "Sujeet Sawant",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1823135,
+				"name": "Mustafa Stationwala",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 2156673,
+				"name": "Sriram Iyengar",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 2118234,
+				"name": "Tushar Jadhav",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 2126910,
+				"name": "Manolo Mantero",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2321892,
+				"name": "Vishal Anand",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1599798,
+				"name": "Amitabh Bhattacharya",
+				"profile_path": "/FsOarFNY9tnqKcs3TI1BFvhIla.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5771435,
+				"name": "Sonali Sen Ghosh",
+				"job": "Researcher",
+				"department": "Production"
+			},
+			{
+				"id": 3341675,
+				"name": "Jaspal Dogra",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1423195,
+				"name": "Ashish Nikam",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3477047,
+				"name": "Ashish Chauhan",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2045859,
+				"name": "Antara Banerjee",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2037412,
+				"name": "Naved Farooqui",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1911375,
+				"name": "Vijay Ganguly",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2624217,
+				"name": "Aleksandr Samokhvalov",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 2614171,
+				"name": "Amritpal Singh",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 3588939,
+				"name": "Biswadeep Chatterjee",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 2041617,
+				"name": "Shrikant Desai",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2810082,
+				"name": "Shipra Acharya",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up"
+			}
+		]
+	}
+}
