@@ -10,6 +10,7 @@ opening = "Led by a breakout performance from Agastya Nanda and a moving duet on
 img = 'ikkis-6.jpg'
 media = 'print'
 source = "https://www.thehindu.com/entertainment/movies/ikkis-movie-review-dharmendra-agastya-nanda-jaideep-ahlawat-sriram-raghavan-makes-an-evocative-plea-for-peace-in-polarised-times/article70460062.ece"
+score = 7
 +++
 
 These are interesting times in popular Hindi cinema, as a battle of perspectives rages at the turnstiles. Filmmakers known for overtly jingoistic tentpoles are turning to dark espionage dramas to convey their political intent, while those celebrated for their noirish, intricate thrillers are turning to patriotic dramas with predictable plotlines, in what seems like a well-argued counterpoint.
