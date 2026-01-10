@@ -1,0 +1,535 @@
+{
+	"id": 1022453,
+	"title": "The Rajasaab",
+	"fcg_title": "The Raja Saab",
+	"original_title": "ది రాజాసాబ్",
+	"original_language": "te",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 27,
+			"name": "Horror"
+		},
+		{
+			"id": 14,
+			"name": "Fantasy"
+		}
+	],
+	"overview": "A young heir embraces both his royal heritage and rebellious spirit as he rises to power, establishing unprecedented rules during his reign as Raja Saab.",
+	"backdrop_path": "/kCwmLYy9ZMto1eMH8BI9KcVVIH2.jpg",
+	"poster_path": "/nvK6gYa4diCnQkDVN42uoYXPrdT.jpg",
+	"release_date": "2026-01-08",
+	"credits": {
+		"cast": [
+			{
+				"id": 237045,
+				"order": 0,
+				"name": "Prabhas",
+				"profile_path": "/u6RVP8ukgLaymeoi5VmX0JRAcCn.jpg",
+				"character": "Rajasaab",
+				"gender": 2
+			},
+			{
+				"id": 85881,
+				"order": 1,
+				"name": "Sanjay Dutt",
+				"profile_path": "/oq4pnvWhl1HxKpp0KVlSfAr3Tiu.jpg",
+				"character": "Pekamedala Kanakaraju",
+				"gender": 2
+			},
+			{
+				"id": 1830991,
+				"order": 2,
+				"name": "Nidhhi Agerwal",
+				"profile_path": "/ptGhRQJPWdQhVVGMrSZvLXHWKlO.jpg",
+				"character": "Bessy",
+				"gender": 1
+			},
+			{
+				"id": 1289455,
+				"order": 3,
+				"name": "Malavika Mohanan",
+				"profile_path": "/9ZRM7Tk080MKfrLiblQnsV4QAc1.jpg",
+				"character": "Bhairavi",
+				"gender": 1
+			},
+			{
+				"id": 1641604,
+				"order": 4,
+				"name": "Riddhi Kumar",
+				"profile_path": "/kHFRGsX0HS3Viblm7Htns4lyJYn.jpg",
+				"character": "Priya",
+				"gender": 1
+			},
+			{
+				"id": 35779,
+				"order": 5,
+				"name": "Boman Irani",
+				"profile_path": "/5J7GiiNar9bg9rGYeA2L30JXE2W.jpg",
+				"character": "Dr. Padmabhushan",
+				"gender": 2
+			},
+			{
+				"id": 94567,
+				"order": 6,
+				"name": "Zarina Wahab",
+				"profile_path": "/nY28L0JFjTlpIWdwt9qxO1p2HNn.jpg",
+				"character": "Gangamma",
+				"gender": 1
+			},
+			{
+				"id": 585397,
+				"order": 7,
+				"name": "Samuthirakani",
+				"profile_path": "/hicCPOdDfSRCEYkeb9g53FOY19A.jpg",
+				"character": "Ganagaraju",
+				"gender": 2
+			},
+			{
+				"id": 565865,
+				"order": 8,
+				"name": "VTV Ganesh",
+				"profile_path": "/5JomvpPx6PrExYcZAbHM1MoHjoZ.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1412713,
+				"order": 9,
+				"name": "Saptagiri",
+				"profile_path": "/h8G2HkmuwDuEgJEIAoUBvN8dSwN.jpg",
+				"character": "RIP",
+				"gender": 2
+			},
+			{
+				"id": 213431,
+				"order": 10,
+				"name": "Supreet",
+				"profile_path": "/3HZopNIG3zeaSpbGjEvsdmoXjaR.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1751759,
+				"order": 11,
+				"name": "Prabhas Sreenu",
+				"profile_path": "/nggCOeeye2bNm1tTodz0cgJPL2W.jpg",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1179683,
+				"name": "Maruthi Dasari",
+				"profile_path": "/lTMtTzNxi6U9kouoJDbEARsHoVJ.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2459948,
+				"name": "T G Vishwa Prasad",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2459949,
+				"name": "Vivek Kuchibhotla",
+				"profile_path": "/vN4Rx7Rs1azGKJRXE9izBJzr3aS.jpg",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1179683,
+				"name": "Maruthi Dasari",
+				"profile_path": "/lTMtTzNxi6U9kouoJDbEARsHoVJ.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1488793,
+				"name": "Kotagiri Venkateswara Rao",
+				"profile_path": "/3oTREXmvPlgnEO9vvMxRLIItSbn.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1756349,
+				"name": "Ram Chella",
+				"profile_path": "/nfgskgmIN8dqHR3JBZunJgx2X5W.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1965140,
+				"name": "Lakshman Chella",
+				"profile_path": "/nfgskgmIN8dqHR3JBZunJgx2X5W.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2129754,
+				"name": "R. C. Kamalakannan",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 2045456,
+				"name": "Sriniwas Kumar Naidu",
+				"job": "Creative Producer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1715414,
+				"name": "Kharthik Palani",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1999852,
+				"name": "Raja Subramanian",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3545008,
+				"name": "Sunil Shah",
+				"job": "Associate Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1439810,
+				"name": "Rajeevan",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 2162375,
+				"name": "King Solomon",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 585344,
+				"name": "S. Thaman",
+				"profile_path": "/y2VYUPTSWr580Fx8hxUNcUTViUa.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1643578,
+				"name": "Sachin Sudhakaran",
+				"profile_path": "/uCr5Q0tx3MkVFFQC1XlNCUrRAeq.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1643577,
+				"name": "Hari Haran",
+				"profile_path": "/p8eA1lehNhAsXeYI9o35IOXY7B4.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2399115,
+				"name": "Anil Kumar Upadyaula",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 5507813,
+				"name": "Shambhu Kumar Rai Sanjay",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5306300,
+				"name": "Sushil Kumar Swami",
+				"job": "Prosthetic Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5507815,
+				"name": "Amogh Korgaonkar",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1998591,
+				"name": "Sai Kumar Pampana",
+				"profile_path": "/lK5PpmmtIrqy9qZhxDJJ6ZjEIJz.jpg",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 5507817,
+				"name": "Shikha Bisht",
+				"job": "Additional Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 5507819,
+				"name": "Lingapogu Abhishikth",
+				"job": "VFX Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 5507820,
+				"name": "Ravi Varma Janagama",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5507821,
+				"name": "Jacys Cheng-Yu Lin",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 5507824,
+				"name": "Sreeram Nagineni",
+				"job": "VFX Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 5507825,
+				"name": "Santosh Reddi",
+				"job": "Visual Effects Compositor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 5507826,
+				"name": "Vijay Bhasker Reddy Sanagali",
+				"job": "VFX Production Coordinator",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 5507827,
+				"name": "Katta Srujan",
+				"job": "VFX Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 3100043,
+				"name": "R.K. Suchithan",
+				"job": "VFX Editor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 4284048,
+				"name": "Alla Venkat",
+				"job": "VFX Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 4487497,
+				"name": "Manoj Mishra",
+				"job": "Steadicam Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 5507829,
+				"name": "Vegi Naresh",
+				"job": "Key Grip",
+				"department": "Camera"
+			},
+			{
+				"id": 5507830,
+				"name": "Bhim Samba",
+				"job": "Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 5482235,
+				"name": "Chintu Sarangi",
+				"job": "Steadicam Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 5507831,
+				"name": "Sunil Kumar Tripathy",
+				"job": "Steadicam Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 5498705,
+				"name": "Bobby Kasimedha",
+				"job": "Animation",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 3324291,
+				"name": "R. Srikanth Patnaik",
+				"job": "Online Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 3969071,
+				"name": "Peter Grainger",
+				"job": "Post Production Assistant",
+				"department": "Crew"
+			},
+			{
+				"id": 3586776,
+				"name": "Swetha Thanay",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3302441,
+				"name": "Thota Vijay Bhaskar",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 3597920,
+				"name": "Kishore Surapaneni",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 1711015,
+				"name": "Surya Kambhampati",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2283479,
+				"name": "S. B. Yugeandhran",
+				"job": "Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1765046,
+				"name": "Vamsi Kaka",
+				"profile_path": "/7Q71Q3MvVHRn7z9uwkjyFWsgR9w.jpg",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 5512721,
+				"name": "Hiya Maruthi Dasari",
+				"job": "VFX Editor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2205758,
+				"name": "Ishan Saksena",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1653866,
+				"name": "Run Jashuva",
+				"job": "Fight Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2252787,
+				"name": "Venkat Nag",
+				"job": "Fight Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3287796,
+				"name": "GSK Media-Suresh Kumar",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1959933,
+				"name": "Satya Giduturi",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 2227379,
+				"name": "Siva Kiran",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2970388,
+				"name": "Gulabi Srinu",
+				"job": "Co-Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2293444,
+				"name": "Krishna Kanth",
+				"profile_path": "/2MmRxA4GD4H6nHgCrAQQhuvJLHW.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2156687,
+				"name": "Vishal Mishra",
+				"profile_path": "/rgTiKOQ016nV05FxiWpvjqurWAC.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2225048,
+				"name": "Sruthi Ranjani",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 2091064,
+				"name": "Sanjith Hegde",
+				"profile_path": "/kK9HH6Usw6s5RRYkmZ2L9JmNiOf.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2163267,
+				"name": "Blaaze",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2035076,
+				"name": "Ramajogayya Sastry",
+				"profile_path": "/y9sxtSdukV0GS4JyJQMq67BnHDr.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5684558,
+				"name": "Krithi Prasad",
+				"job": "Producer",
+				"department": "Production"
+			}
+		]
+	}
+}
