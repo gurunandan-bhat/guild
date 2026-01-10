@@ -1,8 +1,8 @@
 +++
-title = "Lalo"
+title = "Laalo"
 date = 2026-01-10T09:29:01+05:30
-draft = true
-mreviews = ["Lalo"]
+draft = false
+mreviews = ["Laalo"]
 critics = ['Deepak Dua']
 publication = ''
 subtitle = "आस्था और कर्म का मार्ग दिखलाती ‘लालो’"
