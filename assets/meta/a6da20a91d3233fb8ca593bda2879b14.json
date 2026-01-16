@@ -1,0 +1,234 @@
+{
+	"id": 1457939,
+	"title": "Rahu Ketu",
+	"fcg_title": "Rahu Ketu",
+	"original_title": "राहु केतु",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 12,
+			"name": "Adventure"
+		},
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 14,
+			"name": "Fantasy"
+		}
+	],
+	"overview": "In the magical world of writer Churu Lal Sharma, his unlucky creations Rahu and Ketu spring to life, causing hilarious chaos instead of fighting corruption. When the mischievous Meenu Taxi steals Churu's mystical notebook, the bumbling duo are dragged into absurd adventures that land them in the middle of a drug mafia.",
+	"backdrop_path": "/qTwn0p318YB4oXvQSIhSrhuTcpj.jpg",
+	"poster_path": "/vmAVhMEgQ7puyRyaJMNCUe2QJWN.jpg",
+	"release_date": "2026-01-16",
+	"credits": {
+		"cast": [
+			{
+				"id": 1040492,
+				"order": 0,
+				"name": "Pulkit Samrat",
+				"profile_path": "/rS6AGPGqQfyKO3QSOeXZQQAIQgT.jpg",
+				"character": "Ketu",
+				"gender": 2
+			},
+			{
+				"id": 1179459,
+				"order": 1,
+				"name": "Varun Sharma",
+				"profile_path": "/rRGTgMkR3eNRFaAEzdKr3JoLZ5j.jpg",
+				"character": "Rahu",
+				"gender": 2
+			},
+			{
+				"id": 1879516,
+				"order": 2,
+				"name": "Shalini Pandey",
+				"profile_path": "/x0VLQqGuQocLALiauiZV2wge3OI.jpg",
+				"character": "Meenu Taxi",
+				"gender": 1
+			},
+			{
+				"id": 81983,
+				"order": 3,
+				"name": "Chunky Pandey",
+				"profile_path": "/2dG7abdDNs3MVmrAa6HEBFKhch4.jpg",
+				"character": "Moderchai",
+				"gender": 2
+			},
+			{
+				"id": 127790,
+				"order": 4,
+				"name": "Piyush Mishra",
+				"profile_path": "/2nDekGUGEjPJ6Kymme0wp55emwl.jpg",
+				"character": "Foofa",
+				"gender": 2
+			},
+			{
+				"id": 225150,
+				"order": 5,
+				"name": "Manu Rishi Chadha",
+				"profile_path": "/p1TKO8kY78V8bNLoNBlRkIrr7TJ.jpg",
+				"character": "Churu Lal Sharma",
+				"gender": 2
+			},
+			{
+				"id": 117729,
+				"order": 6,
+				"name": "Amit Sial",
+				"profile_path": "/mNdS2NKi1HS7wiGvjjoGSQY7dNU.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1543145,
+				"order": 7,
+				"name": "Sumit Gulati",
+				"profile_path": "/ynR8l2MUHwVsrZ9IgVKKDJg5HWg.jpg",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1947404,
+				"name": "Vipul Vig",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1947404,
+				"name": "Vipul Vig",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 1424747,
+				"name": "Suraj Singh",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5668554,
+				"name": "Umesh Kumar bansal",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3727227,
+				"name": "Varsha Kukreja",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3727224,
+				"name": "Priyank Jain",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 930292,
+				"name": "Manoj Soni",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 2075167,
+				"name": "Vikram Montrose",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 1673371,
+				"name": "Abhijit Vaghani",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 993882,
+				"name": "Amitosh Nagpal",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 3934229,
+				"name": "Abhinav Shekhar",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 4158593,
+				"name": "Bhrigu Parashar",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 1434497,
+				"name": "Udai Prakash Singh",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 232526,
+				"name": "Manan Sagar",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 2255942,
+				"name": "Jia Bhagia",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1736904,
+				"name": "Mallika Chauhan",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1170143,
+				"name": "Remo D'Souza",
+				"profile_path": "/iCCUtRN2ucH8hIRwTr1DKurln7c.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2031843,
+				"name": "Rahul Shetty",
+				"job": "Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 2048190,
+				"name": "Vaibhav Vishant",
+				"job": "Casting Director",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1556254,
+				"name": "Sanjay Chaturvedi",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2149909,
+				"name": "Ashirwad Hadkar",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 3555080,
+				"name": "Parass Kanani",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 2
+			}
+		]
+	}
+}
