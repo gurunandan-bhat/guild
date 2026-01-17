@@ -7,6 +7,7 @@ critics = ['Anupama Chopra']
 subtitle = "A welcome change from both gritty spy thrillers and glamorous globe-trotting ones"
 media = 'video'
 source = '7-gzvvQ1dFw'
+score = 7
 +++
 
 {{< youtube id="7-gzvvQ1dFw" loading="lazy" >}}

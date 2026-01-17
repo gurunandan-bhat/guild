@@ -7,6 +7,7 @@ critics = ['Avinash Ramachandran']
 subtitle = ""
 media = 'video'
 source = 'khtdbi8tlCQ'
+score = 5
 +++
 
 {{< youtube id="khtdbi8tlCQ" loading="lazy" >}}
