@@ -1,0 +1,626 @@
+{
+	"id": 1306368,
+	"title": "The Rip",
+	"fcg_title": "The Rip",
+	"original_title": "The Rip",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		}
+	],
+	"overview": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone — and everything — into question.",
+	"backdrop_path": "/3F2EXWF1thX0BdrVaKvnm6mAhqh.jpg",
+	"poster_path": "/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg",
+	"release_date": "2026-01-13",
+	"credits": {
+		"cast": [
+			{
+				"id": 1892,
+				"order": 0,
+				"name": "Matt Damon",
+				"profile_path": "/elSlNgV8xVifsbHpFsqrPGxJToZ.jpg",
+				"character": "Lieutenant Dane Dumars",
+				"gender": 2
+			},
+			{
+				"id": 880,
+				"order": 1,
+				"name": "Ben Affleck",
+				"profile_path": "/8guQqUQ9qsGooDbv7JwOOZX2UUJ.jpg",
+				"character": "Detective Sergeant J.D. Byrne",
+				"gender": 2
+			},
+			{
+				"id": 215055,
+				"order": 2,
+				"name": "Steven Yeun",
+				"profile_path": "/fOMFO2Xx4duzpNgS9Q5ytO44yGb.jpg",
+				"character": "Detective Mike Ro",
+				"gender": 2
+			},
+			{
+				"id": 964679,
+				"order": 3,
+				"name": "Teyana Taylor",
+				"profile_path": "/foj8l6GGlZxZXcW6pU5wnNxDjSx.jpg",
+				"character": "Detective Numa Baptistie",
+				"gender": 1
+			},
+			{
+				"id": 5887,
+				"order": 4,
+				"name": "Catalina Sandino Moreno",
+				"profile_path": "/78V4H40NXJ6dzqFZaEe1fBelw56.jpg",
+				"character": "Detective Lolo Salazar",
+				"gender": 1
+			},
+			{
+				"id": 2542319,
+				"order": 5,
+				"name": "Sasha Calle",
+				"profile_path": "/yLZY25AQOC2xKzsWqteyJTcWPK3.jpg",
+				"character": "Desiree \"Desi\" Lopez Molina",
+				"gender": 1
+			},
+			{
+				"id": 3497,
+				"order": 6,
+				"name": "Kyle Chandler",
+				"profile_path": "/66n7XNj1dyYkzCBWR3Lq8Vz4PJ1.jpg",
+				"character": "DEA Agent Mateo \"Matty\" Nix",
+				"gender": 2
+			},
+			{
+				"id": 78110,
+				"order": 7,
+				"name": "Scott Adkins",
+				"profile_path": "/9NRr2a1riIn5CWn5McZLJlk4vxR.jpg",
+				"character": "FBI Agent Del Byrne",
+				"gender": 2
+			},
+			{
+				"id": 2271371,
+				"order": 8,
+				"name": "Daisuke Tsuji",
+				"profile_path": "/nhJfIy1TH4knV2J8ILDWztz75aI.jpg",
+				"character": "FBI Agent Logan Casiano",
+				"gender": 2
+			},
+			{
+				"id": 21316,
+				"order": 9,
+				"name": "Nestor Carbonell",
+				"profile_path": "/4Xn03t2qDEMR2ecM7BtLwpvs3J0.jpg",
+				"character": "Major Thom Vallejo",
+				"gender": 2
+			},
+			{
+				"id": 52850,
+				"order": 10,
+				"name": "Lina Esco",
+				"profile_path": "/wznqU0k7art3jux3umSwMMbrLWv.jpg",
+				"character": "Captain Jackie Velez",
+				"gender": 1
+			},
+			{
+				"id": 1472892,
+				"order": 11,
+				"name": "Alex Hernandez",
+				"profile_path": "/9St75rKolzCNpTXNRiBUM7YANn4.jpg",
+				"character": "Hialeah Patrolman Warwick",
+				"gender": 2
+			},
+			{
+				"id": 1383989,
+				"order": 12,
+				"name": "Cliff Chamberlain",
+				"profile_path": "/2yTzF2kdRSVmnEAwQtT442BNJje.jpg",
+				"character": "Hialeah Patrolman Junger",
+				"gender": 2
+			},
+			{
+				"id": 20191,
+				"order": 13,
+				"name": "Jose Pablo Cantillo",
+				"profile_path": "/qtNesvN1bAQ779gJBt3LYDsm8f7.jpg",
+				"character": "DEA Agent Dayo Reyes",
+				"gender": 2
+			},
+			{
+				"id": 1893964,
+				"order": 14,
+				"name": "Marco Morales",
+				"profile_path": "/dbiTftvSZUxmxQrKncqFiICG6ai.jpg",
+				"character": "Cartel Lookout",
+				"gender": 2
+			},
+			{
+				"id": 8666,
+				"order": 15,
+				"name": "Sal Lopez",
+				"profile_path": "/8m7m6qGjYz8TD3NhP8hGfbhgL8f.jpg",
+				"character": "Mr. Zeltzin",
+				"gender": 2
+			},
+			{
+				"id": 3192942,
+				"order": 16,
+				"name": "Angel Rosario Jr.",
+				"profile_path": "/tZulbvbOY5WMI5TZd4T2J6BwfAg.jpg",
+				"character": "Grizzled Carter Man",
+				"gender": 2
+			},
+			{
+				"id": 2258527,
+				"order": 17,
+				"name": "Jayson Merrill",
+				"character": "Lead DEA Official"
+			},
+			{
+				"id": 5942990,
+				"order": 18,
+				"name": "Rani Balsamo",
+				"character": "DEA Official"
+			},
+			{
+				"id": 5942992,
+				"order": 19,
+				"name": "John P. Brady",
+				"character": "DEA Official"
+			},
+			{
+				"id": 5942993,
+				"order": 20,
+				"name": "Joseph Ross",
+				"character": "DEA Official"
+			},
+			{
+				"id": 1845012,
+				"order": 21,
+				"name": "David Anthony Buglione",
+				"profile_path": "/4YdmlEZEeOsdGOpTFWxMuWHEbG6.jpg",
+				"character": "FBI Tactical Sniper",
+				"gender": 2
+			},
+			{
+				"id": 4220128,
+				"order": 22,
+				"name": "Isabella Aparicio",
+				"character": "Little Girl Jackie",
+				"gender": 1
+			},
+			{
+				"id": 5304724,
+				"order": 23,
+				"name": "Christopher Silvestri",
+				"character": "DEA Agent"
+			},
+			{
+				"id": 5423001,
+				"order": 24,
+				"name": "Rockne Carnahan",
+				"character": "DEA Medical Staff"
+			},
+			{
+				"id": 5942997,
+				"order": 25,
+				"name": "Chris Casiano",
+				"character": "TNT Detective Al Pardo"
+			},
+			{
+				"id": 3578725,
+				"order": 26,
+				"name": "Lourdes Hernández",
+				"profile_path": "/rQiwZkJG8zMjMCBEuDU7CDyIXFq.jpg",
+				"character": "TNT Detective Hernandez",
+				"gender": 1
+			},
+			{
+				"id": 5943000,
+				"order": 27,
+				"name": "Jovan Perez",
+				"character": "TNT Detective J. Perez"
+			},
+			{
+				"id": 5943001,
+				"order": 28,
+				"name": "Jesse Valdivia",
+				"character": "TNT Detective Valdivia"
+			},
+			{
+				"id": 2311932,
+				"order": 29,
+				"name": "Joel Perez",
+				"profile_path": "/2pWgSAO7qvnBO9smMNwGcCKGgp.jpg",
+				"character": "TNT Detective Perez",
+				"gender": 2
+			},
+			{
+				"id": 5943005,
+				"order": 30,
+				"name": "Edward E. Thornton",
+				"character": "TNT Dog Handler"
+			},
+			{
+				"id": 40223,
+				"order": 31,
+				"name": "Joe Carnahan",
+				"profile_path": "/e6cnnUqh6mGIjnRFI4xFc30AqVr.jpg",
+				"character": "Threatening Phone Voice",
+				"gender": 2
+			},
+			{
+				"id": 5943009,
+				"order": 32,
+				"name": "Wilbur The Dog",
+				"character": "Wilbur the Money Dog"
+			},
+			{
+				"id": 2287027,
+				"order": 33,
+				"name": "Kathleen Deming",
+				"profile_path": "/2MnresvScSgUATf0GKabdmT23II.jpg",
+				"character": "Ringleader (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 3742734,
+				"order": 34,
+				"name": "Scot Teller",
+				"character": "(uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 4125913,
+				"order": 35,
+				"name": "Allie Moreno",
+				"character": "(uncredited)"
+			},
+			{
+				"id": 5873639,
+				"order": 36,
+				"name": "Chyril Paulann",
+				"character": "(uncredited)"
+			},
+			{
+				"id": 5079731,
+				"order": 37,
+				"name": "Shawn Michael",
+				"profile_path": "/ARdmPSBWlQADDs0RaFo3vs989F.jpg",
+				"character": "(uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2734263,
+				"order": 38,
+				"name": "Iván Amaro Bullón",
+				"profile_path": "/dLSmHD0Oc0fBrd2ejLGY6gyFMkC.jpg",
+				"character": "Miami Sheriff (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1461323,
+				"order": 39,
+				"name": "Dave Ferrier",
+				"profile_path": "/3oXselCo9Z4e0RfkSm1Mxx3Io46.jpg",
+				"character": "Prisoner (uncredited)"
+			},
+			{
+				"id": 11866,
+				"order": 40,
+				"name": "Joshua Jackson",
+				"profile_path": "/mH2a5YFd8J7upjjWwEzM75vitA2.jpg",
+				"character": "société secrete",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 880,
+				"name": "Ben Affleck",
+				"profile_path": "/8guQqUQ9qsGooDbv7JwOOZX2UUJ.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 40223,
+				"name": "Joe Carnahan",
+				"profile_path": "/e6cnnUqh6mGIjnRFI4xFc30AqVr.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1892,
+				"name": "Matt Damon",
+				"profile_path": "/elSlNgV8xVifsbHpFsqrPGxJToZ.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 16494,
+				"name": "Jesse Rosenthal",
+				"job": "Supervising Art Director",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1549078,
+				"name": "Marvin Williams",
+				"job": "Second Unit First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 62908,
+				"name": "Clinton Shorter",
+				"profile_path": "/nBuj9p4kXJwyqbsjbxkjo3kzxLB.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 66984,
+				"name": "Juan Miguel Azpiroz",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 6479,
+				"name": "Sharon Bialy",
+				"profile_path": "/uOex6LpaQYncD0sQfVYD1frI5uJ.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 5389,
+				"name": "Judy Becker",
+				"profile_path": "/nA1fRUw5vEfZO6EHObcAK3Q3OHu.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 2258527,
+				"name": "Jayson Merrill",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1546115,
+				"name": "Willie D. Burton",
+				"profile_path": "/scUZhjN7gsFGquUUBFdrVU34t9y.jpg",
+				"job": "Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2527540,
+				"name": "Sasha Veneziano",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1306225,
+				"name": "Kelli Jones",
+				"profile_path": "/5nLEHXmmyZHZPwewPzmHLbj18kc.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1526544,
+				"name": "Stacey Panepinto",
+				"job": "Makeup Department Head",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1630616,
+				"name": "Rebecca Woodfork",
+				"job": "Hair Department Head",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2304490,
+				"name": "Alyssa Morris",
+				"job": "Casting Associate",
+				"department": "Production"
+			},
+			{
+				"id": 1742289,
+				"name": "Michael McGrale",
+				"profile_path": "/hh7jWfVGx6js17Wq90pqb6PK95Q.jpg",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4807995,
+				"name": "Luciana Damon",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2385493,
+				"name": "Dani Bernfeld",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 95849,
+				"name": "Kevin Halloran",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1519661,
+				"name": "Michael Joe",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5502283,
+				"name": "Gage Hanlon",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1547218,
+				"name": "Alexander Linde",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 2378502,
+				"name": "Walter Pluff Jr.",
+				"job": "Set Decoration",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 5886,
+				"name": "Carrie Stewart",
+				"job": "Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 1357064,
+				"name": "Greg Baldi",
+				"profile_path": "/jQEo6eJ4liTIMSvXhjpHy7NWRbR.jpg",
+				"job": "Second Unit Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 40223,
+				"name": "Joe Carnahan",
+				"profile_path": "/e6cnnUqh6mGIjnRFI4xFc30AqVr.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1742289,
+				"name": "Michael McGrale",
+				"profile_path": "/hh7jWfVGx6js17Wq90pqb6PK95Q.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4901079,
+				"name": "Walt Perez",
+				"profile_path": "/olv6UjrvjhOBV4JADclRTL9ivyB.jpg",
+				"job": "Grip",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2160201,
+				"name": "Landon Bootsma",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 4875609,
+				"name": "Petra McElvenny",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects",
+				"gender": 1
+			},
+			{
+				"id": 40223,
+				"name": "Joe Carnahan",
+				"profile_path": "/e6cnnUqh6mGIjnRFI4xFc30AqVr.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 3034493,
+				"name": "Anthony Kerum",
+				"job": "Catering",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2022652,
+				"name": "Glenn D. Feig",
+				"job": "Legal Services",
+				"department": "Crew"
+			},
+			{
+				"id": 5947575,
+				"name": "Mandy Blandford",
+				"job": "Legal Services",
+				"department": "Crew"
+			},
+			{
+				"id": 5947576,
+				"name": "Weston K. O'Connor",
+				"job": "Legal Services",
+				"department": "Crew"
+			},
+			{
+				"id": 415719,
+				"name": "Kevin Hale",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 5947578,
+				"name": "Candace Sundine",
+				"job": "Legal Services",
+				"department": "Crew"
+			},
+			{
+				"id": 5947579,
+				"name": "Alison Dement",
+				"job": "Legal Services",
+				"department": "Crew"
+			},
+			{
+				"id": 4506177,
+				"name": "Vincent Gomes",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 959387,
+				"name": "Sherry Thomas",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 3554788,
+				"name": "Blake Hawes",
+				"job": "Set Production Assistant",
+				"department": "Crew",
+				"gender": 2
+			}
+		]
+	}
+}
