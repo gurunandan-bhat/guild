@@ -1,7 +1,7 @@
 +++
 title = 'Shamayita Chakraborty'
 date = 2024-09-30T14:34:57+05:30
-draft = false
+draft = true
 weight = 355
 organizations = ['Deutsche Welle']
 img = '/images/members/Shamayita.jpg'

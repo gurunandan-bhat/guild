@@ -1,7 +1,7 @@
 +++
 title = 'Parineeta'
 date = 2024-08-04T13:19:41+05:30
-draft = false
+draft = true
 mreviews = ['Parineeta']
 critics = ['Shamayita Chakraborty']
 publication = ''

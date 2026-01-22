@@ -1,7 +1,7 @@
 +++
 title = 'Bohurupi'
 date = 2024-10-10T18:32:12+05:30
-draft = false
+draft = true
 mreviews = ['Bohurupi']
 critics = ['Shamayita Chakraborty']
 subtitle = 'Shiboprosad Mukherjee and Abir Chatterjee gift us a wholesome entertainer'

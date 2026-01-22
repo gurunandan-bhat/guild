@@ -1,7 +1,7 @@
 +++
 title = 'Chaalchitro: The Frame Fatale'
 date = 2024-12-22T08:56:45+05:30
-draft = false
+draft = true
 mreviews = ['Chaalchitro: The Frame Fatale']
 critics = ['Shamayita Chakraborty']
 publication = ''

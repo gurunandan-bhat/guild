@@ -1,7 +1,7 @@
 +++
 title = 'Tekka'
 date = 2024-10-16T08:29:17+05:30
-draft = false
+draft = true
 mreviews = ['Tekka']
 critics = ['Shamayita Chakraborty']
 subtitle = "Rukmini Maitra and Dev shine in this hostage drama"
