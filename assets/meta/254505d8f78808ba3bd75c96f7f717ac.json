@@ -1,0 +1,630 @@
+{
+	"id": 1315303,
+	"title": "Primate",
+	"fcg_title": "Primate",
+	"original_title": "Primate",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 27,
+			"name": "Horror"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "Lucy, a college student, along with her friends, spend their vacation at her family's home in Hawaii, which includes her pet chimpanzee, Ben. However, when Ben contracts rabies after being bitten by a rabid animal, the group must fight for their lives in order to avoid the now-violent chimp.",
+	"backdrop_path": "/isx3gXPkrt37ERtW47hhTdJD0Pg.jpg",
+	"poster_path": "/z97hrgI5wbGbZvSVkBfAeBnFKAg.jpg",
+	"release_date": "2026-01-01",
+	"credits": {
+		"cast": [
+			{
+				"id": 1295282,
+				"order": 0,
+				"name": "Johnny Sequoyah",
+				"profile_path": "/taFfjOB4lPAx75kJo9yFylKT1ek.jpg",
+				"character": "Lucy",
+				"gender": 1
+			},
+			{
+				"id": 2600509,
+				"order": 1,
+				"name": "Jessica Alexander",
+				"profile_path": "/61DzjStCt7NXwyUf3ALTAo47nCI.jpg",
+				"character": "Hannah",
+				"gender": 1
+			},
+			{
+				"id": 1571661,
+				"order": 2,
+				"name": "Troy Kotsur",
+				"profile_path": "/24K3og12jGBGL9dqH5OYFdjF9wu.jpg",
+				"character": "Adam",
+				"gender": 2
+			},
+			{
+				"id": 4979358,
+				"order": 3,
+				"name": "Victoria Wyant",
+				"profile_path": "/et8teE6ZMqdWGWYj3aDIMD6Yhvt.jpg",
+				"character": "Kate",
+				"gender": 1
+			},
+			{
+				"id": 3675179,
+				"order": 4,
+				"name": "Gia Hunter",
+				"profile_path": "/fK7xZRr1qhCjby0njwhsfgLyW0P.jpg",
+				"character": "Erin"
+			},
+			{
+				"id": 2745054,
+				"order": 5,
+				"name": "Benjamin Cheng",
+				"profile_path": "/onxgW3w20YHlNhB8CBQ714zytOL.jpg",
+				"character": "Nick",
+				"gender": 2
+			},
+			{
+				"id": 4799831,
+				"order": 6,
+				"name": "Charlie Mann",
+				"profile_path": "/t6U480woJ4xFkginrqjUKbDJTqh.jpg",
+				"character": "Drew",
+				"gender": 2
+			},
+			{
+				"id": 3645292,
+				"order": 7,
+				"name": "Tienne Simon",
+				"profile_path": "/964o0kGA0zoj2DVpjX8q188ZDcK.jpg",
+				"character": "Brad",
+				"gender": 2
+			},
+			{
+				"id": 2718121,
+				"order": 8,
+				"name": "Miguel Hernando Torres Umba",
+				"profile_path": "/jLlbDBqTMtD8ErKk1uu7aT8tvI0.jpg",
+				"character": "Ben",
+				"gender": 2
+			},
+			{
+				"id": 4979364,
+				"order": 9,
+				"name": "Amina Abdi",
+				"character": "Susan",
+				"gender": 1
+			},
+			{
+				"id": 5922538,
+				"order": 10,
+				"name": "Rob Chalk",
+				"character": "Interpreter"
+			},
+			{
+				"id": 3552560,
+				"order": 11,
+				"name": "Joe Abercrombie",
+				"profile_path": "/6W39foTbWS9c7H17aHTUcmZ2Abd.jpg",
+				"character": "Book Publisher",
+				"gender": 2
+			},
+			{
+				"id": 5922544,
+				"order": 12,
+				"name": "Nick Romano",
+				"character": "Police Officer"
+			},
+			{
+				"id": 1091324,
+				"order": 13,
+				"name": "Rob Delaney",
+				"profile_path": "/xirfT1znRkkughLiPemKu3NhkKQ.jpg",
+				"character": "Lambert",
+				"gender": 2
+			},
+			{
+				"id": 1243782,
+				"order": 14,
+				"name": "Ben Pronsky",
+				"profile_path": "/d4I1Y8LiELi6mY8A9RLX0ZHfdlL.jpg",
+				"character": "Ben (voice) (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1840384,
+				"order": 15,
+				"name": "Stuart Whelan",
+				"profile_path": "/7Y7OIn5UHrBelChQihLdlzhNhti.jpg",
+				"character": "Passenger (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 1399750,
+				"order": 16,
+				"name": "Kae Alexander",
+				"profile_path": "/5eAodRRhfZrCtLkNApxM1eOdQRd.jpg",
+				"character": "(uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 4209656,
+				"order": 17,
+				"name": "Albert Magashi",
+				"profile_path": "/8aAR1IFcrQPeZlYmPQ0k28nxR32.jpg",
+				"character": "(uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 5698233,
+				"order": 18,
+				"name": "Kieran Deane",
+				"character": "Airport Goer (uncredited)"
+			}
+		],
+		"crew": [
+			{
+				"id": 100734,
+				"name": "Johannes Roberts",
+				"profile_path": "/8hHny6atmFXcuNl2m1AP3fIOayz.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 100734,
+				"name": "Johannes Roberts",
+				"profile_path": "/8hHny6atmFXcuNl2m1AP3fIOayz.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1301112,
+				"name": "Ernest Riera",
+				"profile_path": "/oAYkN7NUZXCA9TFToxua6fydp9e.jpg",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 47365,
+				"name": "Walter Hamada",
+				"profile_path": "/cykm5UtrpVYMY6gc5CfFt6eXZXG.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1965841,
+				"name": "Bradley Pilz",
+				"profile_path": "/goscl4VJGY9Idxt0fEOjKrulR9E.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1173417,
+				"name": "John Hodges",
+				"profile_path": "/ia4sa638RYOh50JV8AJ5Z1rqvQb.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1330113,
+				"name": "Stephen Murphy",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1186025,
+				"name": "Peter Gvozdas",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 962163,
+				"name": "Simon Bowles",
+				"profile_path": "/tDHtEYWrCaMEkDC2wRpIdAwI9Ac.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 15733,
+				"name": "Tina Jones",
+				"job": "Set Decoration",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 6380,
+				"name": "Verity Hawkes",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1663950,
+				"name": "Darren Chesney",
+				"job": "Unit Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 1640830,
+				"name": "Adrian Bell",
+				"job": "Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1476052,
+				"name": "Vicki Dee Rock",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1829835,
+				"name": "Shawn White",
+				"job": "Gaffer",
+				"department": "Lighting",
+				"gender": 2
+			},
+			{
+				"id": 60335,
+				"name": "Nick Dent",
+				"job": "Supervising Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 1576849,
+				"name": "Dan Kenyon",
+				"profile_path": "/vPdBYJQ3IIGdvvM6pAQgonJ9DEU.jpg",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 1576849,
+				"name": "Dan Kenyon",
+				"profile_path": "/vPdBYJQ3IIGdvvM6pAQgonJ9DEU.jpg",
+				"job": "Supervising Sound Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 1463450,
+				"name": "Jason Billington",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1453989,
+				"name": "Matt Everitt",
+				"job": "Animation Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1570036,
+				"name": "Jon Beacham",
+				"job": "\"A\" Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 4445622,
+				"name": "Pete Chiappetta",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4445623,
+				"name": "Andrew Lary",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4445624,
+				"name": "Anthony Tittanegro",
+				"profile_path": "/3KPNXBg7a1jw97234n98weScLmF.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5067040,
+				"name": "Nathan Samdahl",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 100734,
+				"name": "Johannes Roberts",
+				"profile_path": "/8hHny6atmFXcuNl2m1AP3fIOayz.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 72854,
+				"name": "Adrian Johnston",
+				"profile_path": "/jfJaMUHqp4H6b3CMpbBt1Z8tA4e.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2396394,
+				"name": "John Adkins",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 5698207,
+				"name": "Alexandria Kerr",
+				"job": "Standby Art Director",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 4689877,
+				"name": "Alasdair McKay",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 2837287,
+				"name": "David Tinto",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1487711,
+				"name": "Remo Tozzi",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 5698247,
+				"name": "Ellie Forey",
+				"job": "Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 3360200,
+				"name": "Matthew Moss",
+				"job": "Production Supervisor",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1549080,
+				"name": "Ralph Bertelle",
+				"job": "Executive In Charge Of Production",
+				"department": "Production"
+			},
+			{
+				"id": 5699002,
+				"name": "Zoe Ozwell",
+				"job": "Third Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 3978813,
+				"name": "Guy Trevellyan",
+				"profile_path": "/weMZXmW8cGwmdEmSMrCu4oShZzo.jpg",
+				"job": "Third Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2624660,
+				"name": "Charlie Vaughan",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1800431,
+				"name": "David Allcock",
+				"job": "Storyboard Artist",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 5699008,
+				"name": "Miles Ascough",
+				"job": "Sculptor",
+				"department": "Art"
+			},
+			{
+				"id": 2836302,
+				"name": "Louis Burnett",
+				"job": "Graphic Designer",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 2880199,
+				"name": "Gary Dempsey",
+				"job": "Painter",
+				"department": "Art"
+			},
+			{
+				"id": 1394118,
+				"name": "Miranda Diamond",
+				"job": "Draughtsman",
+				"department": "Art"
+			},
+			{
+				"id": 3258581,
+				"name": "Josephine Farr",
+				"job": "Art Department Coordinator",
+				"department": "Art"
+			},
+			{
+				"id": 5699023,
+				"name": "Fionnlagh 'Foo' Finlayson",
+				"job": "Graphic Designer",
+				"department": "Art"
+			},
+			{
+				"id": 5143735,
+				"name": "John Hajdukiewicz",
+				"job": "Property Master",
+				"department": "Art"
+			},
+			{
+				"id": 1373702,
+				"name": "Terry Heggarty",
+				"job": "Standby Painter",
+				"department": "Art"
+			},
+			{
+				"id": 2032965,
+				"name": "Marco Iozzi",
+				"job": "Concept Artist",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 5699034,
+				"name": "Katie Mazurek",
+				"job": "Draughtsman",
+				"department": "Art"
+			},
+			{
+				"id": 4366049,
+				"name": "Giulia Mazzocchi",
+				"job": "Art Department Assistant",
+				"department": "Art"
+			},
+			{
+				"id": 1406188,
+				"name": "Russell Oxley",
+				"job": "Scenic Artist",
+				"department": "Crew"
+			},
+			{
+				"id": 5143738,
+				"name": "Abby Sumrie",
+				"job": "Assistant Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 3541438,
+				"name": "Florence Tasker",
+				"job": "Graphic Designer",
+				"department": "Art"
+			},
+			{
+				"id": 1948032,
+				"name": "Jesse Dodd",
+				"job": "ADR Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 2077813,
+				"name": "Zack Goldsborough",
+				"job": "Sound Recordist",
+				"department": "Sound"
+			},
+			{
+				"id": 2972151,
+				"name": "Sang Jun Kim",
+				"job": "ADR Supervisor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1462843,
+				"name": "Sean Madsen",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1345597,
+				"name": "Tobias Poppe",
+				"profile_path": "/eWdCqu3yKKWUrNOqAVQxJ29piVC.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1345597,
+				"name": "Tobias Poppe",
+				"profile_path": "/eWdCqu3yKKWUrNOqAVQxJ29piVC.jpg",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1640815,
+				"name": "Adam Ridge",
+				"job": "Boom Operator",
+				"department": "Sound"
+			},
+			{
+				"id": 2780933,
+				"name": "Johanna Sutherland",
+				"job": "Second Assistant Sound",
+				"department": "Sound"
+			},
+			{
+				"id": 1878288,
+				"name": "Chris Whiteside",
+				"job": "ADR Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 2265419,
+				"name": "Jonathan Barrass",
+				"job": "Special Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 5699082,
+				"name": "Danny Corbould",
+				"job": "Special Effects",
+				"department": "Crew"
+			},
+			{
+				"id": 4027633,
+				"name": "Molly Jones",
+				"job": "Special Effects",
+				"department": "Crew"
+			},
+			{
+				"id": 5143742,
+				"name": "George Niven-Brown",
+				"job": "Special Effects Assistant",
+				"department": "Crew"
+			},
+			{
+				"id": 4308912,
+				"name": "George Waite",
+				"job": "Special Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 54777,
+				"name": "Jennifer L. Smith",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1034748,
+				"name": "Tricia Wood",
+				"profile_path": "/hSYw8hshMtY06XzuX2ZAuYluO03.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			}
+		]
+	}
+}
