@@ -7,6 +7,7 @@ critics = ['Anmol Jamwal']
 subtitle = "Dhai Kilo needs a rest"
 media = 'video'
 source = 'H2xmQiNeRUA'
+score = 6
 +++
 
 {{< youtube id="H2xmQiNeRUA" loading="lazy" >}}
