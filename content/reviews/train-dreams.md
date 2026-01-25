@@ -13,4 +13,4 @@ source = "https://thewire.in/film/train-dreams-confronts-ecological-conservation
 score = 8
 +++
 
-It takes a special kind of film to be aware of its surroundings. It is one thing to fetishise nature and invite comparison to the sweeping scale of a Terrence Mallick film but Clint Bentley’s Train Dreams does something interesting with the vessel of a meandering Mallick film. It cuts and splices the essential bits of a man’s journey fuelled by cosmic wonder: the meaning of it all. And it does that using a specific means: a voiceover (by Will Patton). 
+It takes a special kind of film to be aware of its surroundings. It is one thing to fetishise nature and invite comparison to the sweeping scale of a Terrence Mallick film but Clint Bentley’s Train Dreams does something interesting with the vessel of a meandering Mallick film. It cuts and splices the essential bits of a man’s journey fuelled by cosmic wonder: the meaning of it all. And it does that using a specific means: a voiceover (by Will Patton).
