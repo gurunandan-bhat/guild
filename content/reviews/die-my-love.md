@@ -7,6 +7,7 @@ critics = ['Sucharita Tyagi']
 subtitle = "A film that hits too close to home"
 media = 'video'
 source = '4QrpevdA6eU'
+score = 8
 +++
 
 {{< youtube id="4QrpevdA6eU" loading="lazy" >}}
