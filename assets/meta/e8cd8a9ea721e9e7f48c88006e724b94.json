@@ -1,0 +1,261 @@
+{
+	"id": 198178,
+	"name": "Wonder Man",
+	"fcg_title": "Wonder Man",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 10765,
+			"name": "Sci-Fi \u0026 Fantasy"
+		}
+	],
+	"overview": "Simon and Trevor, two actors at opposite ends of their careers, chase life-changing roles.",
+	"backdrop_path": "/AhXZ7rf0yhEYrzCcWe0ZsYqW0bg.jpg",
+	"poster_path": "/6yy9nQlFt2l6UVWzrfhszFCaZ5C.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 1639847,
+				"order": 0,
+				"name": "Yahya Abdul-Mateen II",
+				"profile_path": "/79VdVjUoiYGcgjOT9UmE5XIpoZM.jpg",
+				"character": "Simon Williams",
+				"gender": 2
+			},
+			{
+				"id": 2267887,
+				"order": 1,
+				"name": "X Mayo",
+				"profile_path": "/7rmo3N6EOzsKxvlk78NJLjEboys.jpg",
+				"character": "Janelle Jackson",
+				"gender": 1
+			},
+			{
+				"id": 31960,
+				"order": 2,
+				"name": "Zlatko Burić",
+				"profile_path": "/2b9ErKvUwblnByewNMXqBtFEIzQ.jpg",
+				"character": "Von Kovak",
+				"gender": 2
+			},
+			{
+				"id": 457386,
+				"order": 3,
+				"name": "Arian Moayed",
+				"profile_path": "/pb1IfMgMuZ2AIcNCV0kKLdgUjpo.jpg",
+				"character": "Agent Cleary",
+				"gender": 2
+			},
+			{
+				"id": 52442,
+				"order": 4,
+				"name": "Olivia Thirlby",
+				"profile_path": "/x9ZlUX617wi9li2TJ5UuYpHzPfN.jpg",
+				"character": "Vivian",
+				"gender": 1
+			},
+			{
+				"id": 1687573,
+				"order": 5,
+				"name": "Byron Bowers",
+				"profile_path": "/9p7pTLQwumAqGNKgQOhJesaR5FD.jpg",
+				"character": "DeMarr 'Doorman' Davis",
+				"gender": 2
+			},
+			{
+				"id": 2282,
+				"order": 6,
+				"name": "Ben Kingsley",
+				"profile_path": "/vQtBqpF2HDdzbfXHDzR4u37i1Ac.jpg",
+				"character": "Trevor Slattery",
+				"gender": 2
+			},
+			{
+				"id": 5962272,
+				"order": 7,
+				"name": "Hadi Ali",
+				"character": "Self"
+			}
+		],
+		"crew": [
+			{
+				"id": 1144604,
+				"name": "Destin Daniel Cretton",
+				"profile_path": "/s8uAUG9egZlRIU0PKNkTkIz9E6g.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 10850,
+				"name": "Kevin Feige",
+				"profile_path": "/lN1z04L1BGSQLefI81uwm5h6JrW.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 7624,
+				"name": "Stan Lee",
+				"profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg",
+				"job": "Characters",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 18877,
+				"name": "Don Heck",
+				"profile_path": "/i6LYusY0feetOUeyUx4eftNCmpt.jpg",
+				"job": "Characters",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 18866,
+				"name": "Jack Kirby",
+				"job": "Characters",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1256726,
+				"name": "Brad Winderbaum",
+				"profile_path": "/5cDwxRkPuRRiHw6TVlaIobnX5aC.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1237529,
+				"name": "Andrew Guest",
+				"profile_path": "/s4844Z9kRkNlw9yCth1tKkpzAhC.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 51922,
+				"name": "Carmen Cuba",
+				"profile_path": "/994fHTwOhrpvO8mnroGaGHZ2s11.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1154553,
+				"name": "Jonathan Schwartz",
+				"profile_path": "/vyp240KypKNXPbimx3vgUsJvYTj.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1578989,
+				"name": "Joy Cretton",
+				"profile_path": "/te7xgqHTHKPtoJH0gu2BxB4T6hj.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 24192,
+				"name": "Dave Jordan",
+				"profile_path": "/btzUgkKCllxClxIgLhmhZ1qaPw.jpg",
+				"job": "Music Supervisor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1117748,
+				"name": "Stephen Broussard",
+				"profile_path": "/ejtbqJKFgppX1iGlBl3L4P1kB9H.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3701299,
+				"name": "Brian Gay",
+				"profile_path": "/pmMEKA9V4phaziMD4bbs9Vsg7PV.jpg",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1509356,
+				"name": "Trevor Waterson",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 80802,
+				"name": "Jennifer Booth",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2861543,
+				"name": "Bonnie Muñoz",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1331704,
+				"name": "Peng Zhang",
+				"profile_path": "/zqTT45yVwdgaR5mCSJ1uoQXUF90.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1302430,
+				"name": "Joel P. West",
+				"profile_path": "/kwtYx5xHdN38hwds7eElpGQksBn.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1588422,
+				"name": "Cindy Chao",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1588423,
+				"name": "Michele Yu",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 2391815,
+				"name": "John Haley",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 5754990,
+				"name": "Jason Ramsey",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2753113,
+				"name": "Justine von Winterfeldt",
+				"job": "Music Supervisor",
+				"department": "Sound",
+				"gender": 1
+			}
+		]
+	}
+}
