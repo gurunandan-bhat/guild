@@ -1,0 +1,490 @@
+{
+	"id": 1236153,
+	"title": "Mercy",
+	"fcg_title": "Mercy",
+	"original_title": "Mercy",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 878,
+			"name": "Science Fiction"
+		},
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.",
+	"backdrop_path": "/mHC8tSRYfAKGh2jaSNQMSzGdbOW.jpg",
+	"poster_path": "/1LzdlxK9ctsnx7nXoGF1ImHKddl.jpg",
+	"release_date": "2026-01-19",
+	"credits": {
+		"cast": [
+			{
+				"id": 73457,
+				"order": 0,
+				"name": "Chris Pratt",
+				"profile_path": "/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg",
+				"character": "Chris Raven",
+				"gender": 2
+			},
+			{
+				"id": 933238,
+				"order": 1,
+				"name": "Rebecca Ferguson",
+				"profile_path": "/lJloTOheuQSirSLXNA3JHsrMNfH.jpg",
+				"character": "Judge Maddox",
+				"gender": 1
+			},
+			{
+				"id": 3119545,
+				"order": 2,
+				"name": "Kali Reis",
+				"profile_path": "/qJcXQKgaq11aNNPPok0m4yfP2Og.jpg",
+				"character": "Jacqueline 'Jaq' Diallo",
+				"gender": 1
+			},
+			{
+				"id": 82809,
+				"order": 3,
+				"name": "Annabelle Wallis",
+				"profile_path": "/b6PltW1e18BdmRz3nKZ7ID9uZ24.jpg",
+				"character": "Nicole Raven (née Martin)",
+				"gender": 1
+			},
+			{
+				"id": 1293892,
+				"order": 4,
+				"name": "Chris Sullivan",
+				"profile_path": "/gKZ9xSFrDzUPv27iAkMpH6Qf0Sk.jpg",
+				"character": "Robert 'Rob' Nelson",
+				"gender": 2
+			},
+			{
+				"id": 1164259,
+				"order": 5,
+				"name": "Kylie Rogers",
+				"profile_path": "/dBAnJCb2a7H8gukcP7PqyBRGOUM.jpg",
+				"character": "Britt Raven",
+				"gender": 1
+			},
+			{
+				"id": 1583044,
+				"order": 6,
+				"name": "Jeff Pierre",
+				"profile_path": "/mKaKc7dviX6q0d7EJpzyHgtdBC7.jpg",
+				"character": "Patrick Burke",
+				"gender": 2
+			},
+			{
+				"id": 21660,
+				"order": 7,
+				"name": "Rafi Gavron",
+				"profile_path": "/avCWoO9fLwEhbT6cvu0TJcSj49g.jpg",
+				"character": "Holt Charles",
+				"gender": 2
+			},
+			{
+				"id": 41561,
+				"order": 8,
+				"name": "Kenneth Choi",
+				"profile_path": "/3606Uo4fiUtV9Y6eOwpM48qpSgJ.jpg",
+				"character": "Ray Vale",
+				"gender": 2
+			},
+			{
+				"id": 18053,
+				"order": 9,
+				"name": "Jamie McBride",
+				"character": "Dan Vogel",
+				"gender": 2
+			},
+			{
+				"id": 5951627,
+				"order": 10,
+				"name": "Ross Gosla",
+				"character": "David Webb"
+			},
+			{
+				"id": 32654,
+				"order": 11,
+				"name": "Mark Daneri",
+				"profile_path": "/wTDm4zmREXxDK1QVh5vl13OqabU.jpg",
+				"character": "Jeff Martin",
+				"gender": 2
+			},
+			{
+				"id": 2753503,
+				"order": 12,
+				"name": "Haydn Dalton",
+				"character": "Bill Peterson"
+			},
+			{
+				"id": 1392535,
+				"order": 13,
+				"name": "Michael C. Mahon",
+				"profile_path": "/k0ZJ5AdIsLOcireMfduMtOYJ9UO.jpg",
+				"character": "Booking Sergeant",
+				"gender": 2
+			},
+			{
+				"id": 3210444,
+				"order": 14,
+				"name": "Noah Fearnley",
+				"profile_path": "/cJDTFKsgQoc7LM6IHFmAP1t9vDz.jpg",
+				"character": "Tattoed Sleazebag",
+				"gender": 2
+			},
+			{
+				"id": 3492602,
+				"order": 15,
+				"name": "Konstantin Podprugin",
+				"profile_path": "/m0IdxqTyKuSEfHn0dN35QOxuLHB.jpg",
+				"character": "Alexander Varga",
+				"gender": 2
+			},
+			{
+				"id": 5951630,
+				"order": 16,
+				"name": "Cully Pratt",
+				"character": "Mercy Court Security Guard"
+			},
+			{
+				"id": 1709053,
+				"order": 17,
+				"name": "Philicia Saunders",
+				"profile_path": "/be8PPcNfeSlZD86UXWqTzVOt8oQ.jpg",
+				"character": "Molly",
+				"gender": 1
+			},
+			{
+				"id": 5951631,
+				"order": 18,
+				"name": "Jay Jackson",
+				"character": "News Anchor"
+			},
+			{
+				"id": 3376107,
+				"order": 19,
+				"name": "Mahmoud Mahmoud",
+				"character": "Police Officer",
+				"gender": 2
+			},
+			{
+				"id": 1832074,
+				"order": 20,
+				"name": "Anja Akstin",
+				"profile_path": "/awoaybv7hjX9avmfO36NBupD6yS.jpg",
+				"character": "SWAT Officer"
+			},
+			{
+				"id": 5039171,
+				"order": 21,
+				"name": "Katario Dupreè Young",
+				"profile_path": "/15PDjeNjju5bouCN6z4TR0S3pIY.jpg",
+				"character": "Officer Jacobs",
+				"gender": 2
+			},
+			{
+				"id": 5951633,
+				"order": 22,
+				"name": "Evgenia Sinitsin",
+				"character": "Young Britt (8)"
+			},
+			{
+				"id": 12371,
+				"order": 23,
+				"name": "Richard Cetrone",
+				"profile_path": "/lZQqNU3QUcnIssWhIfatePfU6M7.jpg",
+				"character": "Officer Beech",
+				"gender": 2
+			},
+			{
+				"id": 2970897,
+				"order": 24,
+				"name": "Renata Ribeiro",
+				"character": "Journalist",
+				"gender": 1
+			},
+			{
+				"id": 2381494,
+				"order": 25,
+				"name": "Mike Tarnofsky",
+				"character": "Captain Havelock",
+				"gender": 2
+			},
+			{
+				"id": 2410745,
+				"order": 26,
+				"name": "John Bubniak",
+				"profile_path": "/jrzNIAXcpuenLaqT8DgcfhuS1Tr.jpg",
+				"character": "Officer Reed",
+				"gender": 2
+			},
+			{
+				"id": 5951637,
+				"order": 27,
+				"name": "Tom Rezvan",
+				"character": "Governor"
+			},
+			{
+				"id": 5951640,
+				"order": 28,
+				"name": "Kory Ison",
+				"character": "Lead Paramedic"
+			},
+			{
+				"id": 1870476,
+				"order": 29,
+				"name": "Veronica Rosa Ray",
+				"profile_path": "/fSKm3BGTz90j34KUvOY9xBIriCn.jpg",
+				"character": "Female Police Officer",
+				"gender": 1
+			},
+			{
+				"id": 4146238,
+				"order": 30,
+				"name": "George Cambio",
+				"character": "Mercy Chair Victim"
+			}
+		],
+		"crew": [
+			{
+				"id": 23430,
+				"name": "Timur Bekmambetov",
+				"profile_path": "/w4C8qeeWRvD7rbIj3elTvhdxjT.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1581193,
+				"name": "Marco van Belle",
+				"profile_path": "/5495A33ZVQQl9sEKa95MpMfC8gN.jpg",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 1993720,
+				"name": "Majd Nassif",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3896422,
+				"name": "Robert Amidon",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 23430,
+				"name": "Timur Bekmambetov",
+				"profile_path": "/w4C8qeeWRvD7rbIj3elTvhdxjT.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 282,
+				"name": "Charles Roven",
+				"profile_path": "/5fxOnoI6jKicdLBtbeumKxxV9Jp.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1389138,
+				"name": "Jody Blose",
+				"job": "Script Supervisor",
+				"department": "Directing"
+			},
+			{
+				"id": 2074669,
+				"name": "Anthony Franco",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3165942,
+				"name": "Julian Howarth",
+				"job": "Production Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2272449,
+				"name": "Hayley Wright",
+				"profile_path": "/4a7LgC3FxQzfCpstqUueHqYDDmd.jpg",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1463658,
+				"name": "Hannah Betts",
+				"profile_path": "/90zcpWAKLSP9wOtaAKGu2ejRVXl.jpg",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1303,
+				"name": "Alex McDowell",
+				"profile_path": "/cW4ME9TIh4ivnrhlxTZ65en9nsb.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 60222,
+				"name": "Chris Farmer",
+				"job": "Supervising Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 1223078,
+				"name": "Mark Moran",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1223078,
+				"name": "Mark Moran",
+				"job": "Unit Production Manager",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2229739,
+				"name": "Khalid Mohtaseb",
+				"profile_path": "/c33uWPtBKaZNwe8YVYlwhJWQoVm.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1432296,
+				"name": "Austin Keeling",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 5347579,
+				"name": "Lam T. Nguyen",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 5543117,
+				"name": "Benoît Chieusse",
+				"job": "Compositing Artist",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 2739262,
+				"name": "Guy Norris",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 2175160,
+				"name": "James McGrady",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1797241,
+				"name": "Axel Bonami",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1823949,
+				"name": "Simon Maddison",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2753832,
+				"name": "Chris Keller",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2010392,
+				"name": "Giacomo Mineo",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1934882,
+				"name": "Sarah McLauchlan",
+				"job": "Executive Visual Effects Producer",
+				"department": "Crew"
+			},
+			{
+				"id": 1739794,
+				"name": "Linda Luong",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1790957,
+				"name": "Alizée Plourde",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2071601,
+				"name": "Josh Hensley",
+				"job": "Chief Lighting Technician",
+				"department": "Lighting",
+				"gender": 2
+			},
+			{
+				"id": 5918856,
+				"name": "Laura Krause",
+				"job": "Concept Artist",
+				"department": "Art"
+			},
+			{
+				"id": 561,
+				"name": "John Papsidera",
+				"profile_path": "/egwEVyrAmdWhtuLqE5fcThZf41E.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 563,
+				"name": "Dody Dorn",
+				"profile_path": "/d3RESRZlLhsOIUQNIWxVqaO21q3.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 71882,
+				"name": "Todd Williams",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 10851,
+				"name": "Ramin Djawadi",
+				"profile_path": "/6O0Rew78fRUAa80KC2clejmJF26.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			}
+		]
+	}
+}
