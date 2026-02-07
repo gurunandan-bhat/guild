@@ -1,0 +1,441 @@
+{
+	"id": 1406657,
+	"title": "Scarlet",
+	"fcg_title": "Scarlet",
+	"original_title": "果てしなきスカーレット",
+	"original_language": "ja",
+	"genres": [
+		{
+			"id": 16,
+			"name": "Animation"
+		},
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 878,
+			"name": "Science Fiction"
+		}
+	],
+	"overview": "After failing to avenge her father's murder, Princess Scarlet, wakes up in the \"Land of the Dead.\" In this world filled with madness, if she does not achieve her revenge against her nemesis and reach the \"No End Place,\" she will become \"Void\" and cease to exist. Can Scarlet find a way to live at the end of her endless journey?",
+	"backdrop_path": "/1veW9CaejBZDHmWVmcgfYAUvirT.jpg",
+	"poster_path": "/f4ptIplTKUz80AcKpnHtdSxRKd4.jpg",
+	"release_date": "2025-11-21",
+	"credits": {
+		"cast": [
+			{
+				"id": 559416,
+				"order": 0,
+				"name": "Mana Ashida",
+				"profile_path": "/GkmFEAuslzWJ4yYhj9KahmmGdE.jpg",
+				"character": "Scarlet (voice)",
+				"gender": 1
+			},
+			{
+				"id": 124402,
+				"order": 1,
+				"name": "Masaki Okada",
+				"profile_path": "/j8yU6eLFPzxuucMjb8UapQly9cT.jpg",
+				"character": "Hijiri (voice)",
+				"gender": 2
+			},
+			{
+				"id": 27782,
+				"order": 2,
+				"name": "Yutaka Matsushige",
+				"profile_path": "/4Oqr7tzPAECgSBah9JaoyRScDhV.jpg",
+				"character": "Cornelius (voice)",
+				"gender": 2
+			},
+			{
+				"id": 552575,
+				"order": 3,
+				"name": "Kotaro Yoshida",
+				"profile_path": "/uu27aDu5iCBHiJ3GFtOGWm9FBTP.jpg",
+				"character": "Voltemand (voice)",
+				"gender": 2
+			},
+			{
+				"id": 18056,
+				"order": 4,
+				"name": "Koji Yakusho",
+				"profile_path": "/rF3pmX1yqoMXJLgRkgaLc7PGv68.jpg",
+				"character": "Claudius (voice)",
+				"gender": 2
+			},
+			{
+				"id": 9717,
+				"order": 5,
+				"name": "Masachika Ichimura",
+				"profile_path": "/5Nc3qemEM26pTff5bJ9KF7qdhGU.jpg",
+				"character": "Amulet (voice)",
+				"gender": 2
+			},
+			{
+				"id": 147897,
+				"order": 6,
+				"name": "Yuki Saito",
+				"profile_path": "/r8EPNacz8ENsvEz7l4tNFIiL8wE.jpg",
+				"character": "Gertrude (voice)",
+				"gender": 1
+			},
+			{
+				"id": 1018944,
+				"order": 7,
+				"name": "Shota Sometani",
+				"profile_path": "/sEEfyEfEbd9TQB9gFlvDTQJov76.jpg",
+				"character": "Guildenstern (voice)",
+				"gender": 2
+			},
+			{
+				"id": 111640,
+				"order": 8,
+				"name": "Munetaka Aoki",
+				"profile_path": "/l5GdFPBBz717Kiimyqp5ieaglVo.jpg",
+				"character": "Rosencrantz (voice)",
+				"gender": 2
+			},
+			{
+				"id": 552339,
+				"order": 9,
+				"name": "Kazuhiro Yamaji",
+				"profile_path": "/fgGTdhTiWViGmjl2kABHWzLIpZ0.jpg",
+				"character": "Polonius (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1015822,
+				"order": 10,
+				"name": "Tokio Emoto",
+				"profile_path": "/3rJvkwGgA4IQWh5kxKEWjungq8m.jpg",
+				"character": "Laertes (voice)",
+				"gender": 2
+			},
+			{
+				"id": 551651,
+				"order": 11,
+				"name": "Kayoko Shiraishi",
+				"profile_path": "/oEqbsQCfVnnaF1Zy56uDSraSr4P.jpg",
+				"character": "(voice)",
+				"gender": 1
+			},
+			{
+				"id": 4019094,
+				"order": 12,
+				"name": "Noa Shiroyama",
+				"profile_path": "/vAf5G6JubjgaZgl2EHXgYd8Fly.jpg",
+				"character": "(voice)",
+				"gender": 1
+			},
+			{
+				"id": 554418,
+				"order": 13,
+				"name": "Michio Hazama",
+				"profile_path": "/vjHAu5T8n04uhJ9CSaEAkXwEABQ.jpg",
+				"character": "Caravan leader (voice)",
+				"gender": 2
+			},
+			{
+				"id": 93803,
+				"order": 14,
+				"name": "Mamoru Miyano",
+				"profile_path": "/nuok8ueG7k9hPZ09Tpr8e7Qn0ah.jpg",
+				"character": "Gravedigger 1 (voice)",
+				"gender": 2
+			},
+			{
+				"id": 135524,
+				"order": 15,
+				"name": "Kenjiro Tsuda",
+				"profile_path": "/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg",
+				"character": "Gravedigger 2 (voice)",
+				"gender": 2
+			},
+			{
+				"id": 85286,
+				"order": 16,
+				"name": "Toshio Furukawa",
+				"profile_path": "/zZjO0NxIbEhYW3507gXVnvWeRkG.jpg",
+				"character": "Innkeeper (voice)",
+				"gender": 2
+			},
+			{
+				"id": 226738,
+				"order": 17,
+				"name": "Kazuki Namioka",
+				"profile_path": "/A3xhZlyPTRQ8MqtQNcTm1X8JqkT.jpg",
+				"character": "(voice)",
+				"gender": 2
+			},
+			{
+				"id": 1254052,
+				"order": 18,
+				"name": "Koki Uchiyama",
+				"profile_path": "/sllSm3iZZWVLTBrDZQRtWrZUfEj.jpg",
+				"character": "(voice)",
+				"gender": 2
+			},
+			{
+				"id": 1243817,
+				"order": 19,
+				"name": "Shirou Saitou",
+				"profile_path": "/yJSrzULl9EuXI25E8REdIPY1Lkm.jpg",
+				"character": "(voice)",
+				"gender": 2
+			},
+			{
+				"id": 1452028,
+				"order": 20,
+				"name": "Reina Ueda",
+				"profile_path": "/cddK6dQtVCg6ToQRpETbRYRJK4G.jpg",
+				"character": "(voice)",
+				"gender": 1
+			},
+			{
+				"id": 1588597,
+				"order": 21,
+				"name": "Atsumi Tanezaki",
+				"profile_path": "/6tM8GU7QvrdUCvR4kxqVUZivtvO.jpg",
+				"character": "(voice)",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 81718,
+				"name": "Mamoru Hosoda",
+				"profile_path": "/MBrgo5yaOdV454lUgDJsqvbdxP.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 81720,
+				"name": "Yuichiro Saito",
+				"profile_path": "/qztZs8DH4Zt6wn9TT0TsNjC8Axb.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3431436,
+				"name": "Toshimi Tanio",
+				"profile_path": "/ctY36VoF55U0VGgNDLcsDJbF6uo.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 78376,
+				"name": "Nozomu Takahashi",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 81718,
+				"name": "Mamoru Hosoda",
+				"profile_path": "/MBrgo5yaOdV454lUgDJsqvbdxP.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2160175,
+				"name": "Keiichi Sawa",
+				"job": "Production Director",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 81718,
+				"name": "Mamoru Hosoda",
+				"profile_path": "/MBrgo5yaOdV454lUgDJsqvbdxP.jpg",
+				"job": "Original Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2759730,
+				"name": "Daijo Kudo",
+				"profile_path": "/frFLsK53vS5XReB95pi90qliwbu.jpg",
+				"job": "Production Supervisor",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1537404,
+				"name": "Taichi Ueda",
+				"job": "Production Supervisor",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 115940,
+				"name": "Nobuyuki Iinuma",
+				"profile_path": "/meMlQJXMDRLP5ELqSFaOYxO4jVh.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2160168,
+				"name": "Kei Kushiyama",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4309034,
+				"name": "Sachi Sahara",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2676307,
+				"name": "Tomoko Ogiwara",
+				"profile_path": "/dZXAOCvmPtfmp8glLM5ThqxTFLA.jpg",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1456822,
+				"name": "Takaaki Yamashita",
+				"job": "Animation Director",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 2159508,
+				"name": "Ryo Horibe",
+				"job": "CGI Director",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 3097886,
+				"name": "Yohei Shimozawa",
+				"job": "CGI Director",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1615888,
+				"name": "Yasushi Kawamura",
+				"profile_path": "/l13bWGENgqO1rEA6sw99Aus1kmP.jpg",
+				"job": "CGI Director",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 40337,
+				"name": "Nobutaka Ike",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 3070799,
+				"name": "Kinichi Ohkubo",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 2160616,
+				"name": "Kaoru Takino",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1727971,
+				"name": "Osamu Mikasa",
+				"job": "Color Designer",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 3741701,
+				"name": "Akiko Saito",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 1
+			},
+			{
+				"id": 552535,
+				"name": "Anri Jojo",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 111232,
+				"name": "Daisuke Iga",
+				"job": "Costumer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 67935,
+				"name": "Shigeru Nishiyama",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1170059,
+				"name": "Taisei Iwasaki",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 559416,
+				"name": "Mana Ashida",
+				"profile_path": "/GkmFEAuslzWJ4yYhj9KahmmGdE.jpg",
+				"job": "Theme Song Performance",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 5820844,
+				"name": "Kosuke Kobayashi",
+				"job": "Sound Effects",
+				"department": "Sound"
+			},
+			{
+				"id": 2160441,
+				"name": "Taka Chiyo",
+				"job": "Music Supervisor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1332328,
+				"name": "Satoshi Mashida",
+				"job": "Casting Director",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1879429,
+				"name": "Eisuke Imanishi",
+				"job": "Casting Director",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1615783,
+				"name": "Jin Kim",
+				"profile_path": "/yD5UpN5ieLZ8SJKqwaGYNlLcqbI.jpg",
+				"job": "Character Designer",
+				"department": "Visual Effects",
+				"gender": 2
+			}
+		]
+	}
+}
