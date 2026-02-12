@@ -6,7 +6,7 @@
     {{- $source := "" }}
     {{- $subtitle := "" }}
     {{- $img := "" }}
-    {{- $score := "" }}
+    {{- $score := 0 }}
     {{- with index .Params "critics" }}
         {{- with index . 0 }}
             {{- $critic = . }}
