@@ -6,6 +6,7 @@
     {{- $source := "" }}
     {{- $subtitle := "" }}
     {{- $img := "" }}
+    {{- $score := "" }}
     {{- with index .Params "critics" }}
         {{- with index . 0 }}
             {{- $critic = . }}
@@ -23,6 +24,9 @@
     {{- with index .Params "img" }}
         {{- $img = . }}
     {{- end }}
+    {{- with index .Params "score" }}
+        {{- $score = . }}
+    {{- end }}
     {{- $pageMap = merge $pageMap (dict
         "ReviewPath" (urlize .Path)
         "Params" .Params
@@ -32,7 +36,8 @@
         "SubTitle" $subtitle
         "Summary" .Summary
         "Content" .RawContent
-        "Image" $img)
+        "Image" $img
+        "Score" $score)
     }}
     {{- $reviews = append $pageMap $reviews }}
 {{- end }}
