@@ -4,9 +4,10 @@ date = 2026-02-14T08:21:54+05:30
 draft = false
 mreviews = ["O'Romeo"]
 critics = ['Anmol Jamwal']
-subtitle = ""
+subtitle = "Et tu Bhardwaj?"
 media = 'video'
 source = 'jt_cqIYSLX8'
+score = 3
 +++
 
 {{< youtube id="jt_cqIYSLX8" loading="lazy" >}}
