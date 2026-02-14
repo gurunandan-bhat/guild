@@ -1,8 +1,8 @@
 +++
-title = "O Romeo"
+title = "O'Romeo"
 date = 2026-02-13T18:04:54+05:30
 draft = false
-mreviews = ["O Romeo"]
+mreviews = ["O'Romeo"]
 critics = ['Bharathi Pradhan']
 publication = ''
 subtitle = "Bloody Overindulgence"

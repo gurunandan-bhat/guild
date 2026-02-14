@@ -1,0 +1,192 @@
+{
+	"id": 1403737,
+	"title": "Funky",
+	"fcg_title": "Funky",
+	"original_title": "ఫంకీ",
+	"original_language": "te",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 10749,
+			"name": "Romance"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "A debut director who falls in love with his producer's daughter",
+	"backdrop_path": "/hv1K6dYUg3ddlAQuuyfCIxZnG2K.jpg",
+	"poster_path": "/rdERpnR0TgBKxxCTzRsvuilXVe6.jpg",
+	"release_date": "2026-02-13",
+	"credits": {
+		"cast": [
+			{
+				"id": 1893251,
+				"order": 0,
+				"name": "Vishwak Sen",
+				"profile_path": "/ffWsFHwde7M3W2IiIfn01htpALX.jpg",
+				"character": "Komal",
+				"gender": 2
+			},
+			{
+				"id": 2578168,
+				"order": 1,
+				"name": "Kayadu Lohar",
+				"profile_path": "/pHaMPnrfnWvTPZA4IOmZk8BHY0U.jpg",
+				"gender": 1
+			},
+			{
+				"id": 736815,
+				"order": 2,
+				"name": "Naresh",
+				"profile_path": "/yT9Sgp7y8h3xhlmgzafUwlIXy1H.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1275608,
+				"order": 3,
+				"name": "Easwari Rao",
+				"profile_path": "/fjyvQ45YZcovy2Egj2eux8UiuHU.jpg",
+				"gender": 1
+			},
+			{
+				"id": 1999839,
+				"order": 4,
+				"name": "Muralidhar Goud",
+				"profile_path": "/3KldPSnn08WhuwoUR9GhZ9OnsI2.jpg",
+				"gender": 2
+			},
+			{
+				"id": 3459657,
+				"order": 5,
+				"name": "Ravi Anthony",
+				"gender": 2
+			},
+			{
+				"id": 3239503,
+				"order": 6,
+				"name": "Pammi Sai",
+				"profile_path": "/7kZ6bLXdztpSObESzgMRnpmcVxm.jpg",
+				"gender": 2
+			},
+			{
+				"id": 591153,
+				"order": 7,
+				"name": "Raghu Babu",
+				"profile_path": "/9aE6s9wqHgRcBY7wiUfkEZMgJNK.jpg",
+				"gender": 2
+			},
+			{
+				"id": 85595,
+				"order": 8,
+				"name": "Sampath Raj",
+				"profile_path": "/oQgoihP26Hyg6gMFVpACRAygZli.jpg",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1975896,
+				"name": "Anudeep",
+				"profile_path": "/5JUcvDyerQBoGXtSmBo9wuJA5et.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1790294,
+				"name": "Suryadevara Naga Vamsi",
+				"profile_path": "/hLJpBV45WFqS3sYxS3zmBhcHAoq.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1975896,
+				"name": "Anudeep",
+				"profile_path": "/5JUcvDyerQBoGXtSmBo9wuJA5et.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1526585,
+				"name": "Naveen Nooli",
+				"profile_path": "/dTYIRplqzKtT6LB8uONcIcsJz6I.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 3582395,
+				"name": "Mohan Sato",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 3355377,
+				"name": "Sai Soujanya",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1351359,
+				"name": "Bheems Ceciroleo",
+				"profile_path": "/7hvcYmXPX2AvMf8k8xWhNdn9qZe.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3310467,
+				"name": "Suresh Sarangam",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1797136,
+				"name": "Jonny Shaik",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 5741795,
+				"name": "Nandipati Murali",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5741796,
+				"name": "P. Hari Shankar Nath",
+				"job": "Co-Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1920931,
+				"name": "Ramakrishna Reddy",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5892527,
+				"name": "A Arun Kumar",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 2091064,
+				"name": "Sanjith Hegde",
+				"profile_path": "/kK9HH6Usw6s5RRYkmZ2L9JmNiOf.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			}
+		]
+	}
+}
