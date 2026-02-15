@@ -1,13 +1,13 @@
 +++
-title = 'Nishaanchi'
+critics = ["Ajay Brahmatmaj"]
 date = 2025-09-20T14:35:14+05:30
 draft = false
+media = "video"
 mreviews = ["Nishaanchi"]
-critics = ['Ajay Brahmatmaj']
+scores = [5]
+source = "c3I5IueU-pI"
 subtitle = ""
-media = 'video'
-source = 'c3I5IueU-pI'
-score = 5
+title = "Nishaanchi"
 +++
 
 {{< youtube id="c3I5IueU-pI" loading="lazy" >}}

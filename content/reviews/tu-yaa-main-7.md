@@ -1,13 +1,13 @@
 +++
-title = 'Tu Yaa Main'
+critics = ["Anupama Chopra"]
 date = 2026-02-14T08:20:23+05:30
 draft = false
+media = "video"
 mreviews = ["Tu Yaa Main"]
-critics = ['Anupama Chopra']
+scores = [4]
+source = "1BUENavqIfs"
 subtitle = "Too lightweight to deliver real insight or genuine terror"
-media = 'video'
-source = '1BUENavqIfs'
-score = 4
+title = "Tu Yaa Main"
 +++
 
 {{< youtube id="1BUENavqIfs" loading="lazy" >}}

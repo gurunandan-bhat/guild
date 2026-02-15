@@ -1,16 +1,16 @@
 +++
-title = 'Kiss Wagon'
+critics = ["Aswathy Gopalakrishnan"]
 date = 2024-02-06T23:50:05+05:30
 draft = true
-mreviews = ['Kiss Wagon']
-critics = ['Aswathy Gopalakrishnan']
-publication = 'Film Companion'
-subtitle = "A Meditation On Love, Civilisation, Violence And Religion"
+img = "kiss-wagon.png"
+media = "print"
+mreviews = ["Kiss Wagon"]
 opening = "Kiss Wagon bears the unmistakable hallmark of an idiosyncratic work meant to be fully decoded only by its creator"
-img = 'kiss-wagon.png'
-media = 'print'
+publication = "Film Companion"
+scores = [9]
 source = "https://www.filmcompanion.in/reviews/malayalam-review/kiss-wagon-review-a-delightful-and-radical-meditation-on-love-civilisation-violence-and-religion-iffr-midhun-murali"
-score = 9
+subtitle = "A Meditation On Love, Civilisation, Violence And Religion"
+title = "Kiss Wagon"
 +++
 
 This January, Malayalam cinema saw the convergence of its two extremes. A big-budget drama

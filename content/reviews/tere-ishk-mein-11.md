@@ -1,13 +1,13 @@
 +++
-title = 'Tere Ishk Mein'
+critics = ["Anupama Chopra"]
 date = 2025-11-29T17:58:39+05:30
 draft = false
+media = "video"
 mreviews = ["Tere Ishk Mein"]
-critics = ['Anupama Chopra']
+scores = [2]
+source = "OLXK3y5p2-c"
 subtitle = "Inanity disguised as profundity"
-media = 'video'
-source = 'OLXK3y5p2-c'
-score = 2
+title = "Tere Ishk Mein"
 +++
 
 {{< youtube id="OLXK3y5p2-c" loading="lazy" >}}

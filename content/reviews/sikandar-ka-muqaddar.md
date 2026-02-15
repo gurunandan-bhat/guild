@@ -1,16 +1,16 @@
 +++
-title = 'Sikandar Ka Muqaddar'
+critics = ["Upma Singh"]
 date = 2024-11-29T17:04:09+05:30
 draft = false
-mreviews = ['Sikandar Ka Muqaddar']
-critics = ['Upma Singh']
-publication = ''
-subtitle = "सस्पेंस-थ्रिलर के शौकीन हैं तो एक बार यह फिल्म देख सकते हैं।"
+img = "sikandar-ka-muqaddar.webp"
+media = "print"
+mreviews = ["Sikandar Ka Muqaddar"]
 opening = ""
-img = 'sikandar-ka-muqaddar.webp'
-media = 'print'
+publication = ""
+scores = [4]
 source = "https://navbharattimes.indiatimes.com/entertainment/movie-review/sikandar-ka-muqaddar-movie-review-in-hindi-starring-jimmy-shergill-avinash-tiwary-tamannaah-bhatia-directed-by-neeraj-pandey/moviereview/115799162.cms"
-score = 4
+subtitle = "सस्पेंस-थ्रिलर के शौकीन हैं तो एक बार यह फिल्म देख सकते हैं।"
+title = "Sikandar Ka Muqaddar"
 +++
 
 सिनेमा की दुनिया में हाइस्‍ट यानी चोरी-डकैती पर बुनी चोर-पुलिस वाली कहानी फिल्मकारों के पसंदीदा विषयों में रही है। इस विषय पर 'द इटैलियन जॉब', 'ओशन सीरीज', 'नाऊ यू सी मी' से लेकर आइकॉनिक 'मनी हाइस्ट' जैसी विदेशी फिल्में और वेब सीरीज बन चुकी हैं। देश में भी 'ज्वेल थीफ', 'आंखें' (2002) और 'धूम फ्रेंचाइजी' जैसी यादगार फिल्में बनी हैं। अब इसी विषय पर डायरेक्टर नीरज पांडे अपनी नई फिल्म 'सिकंदर का मुकद्दर' लेकर आए हैं। नीरज खुद इससे पहले पुलिस को चकमा देकर रुपये उड़ा लेने वालों की टीम पर फिल्म 'स्पेशल 26' बना चुके हैं।

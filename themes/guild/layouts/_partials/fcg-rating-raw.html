@@ -2,14 +2,16 @@
 {{- $colReset := "\033[0m" }}
 {{ $title := . }}
 {{ $reviews := index site.Taxonomies.mreviews (lower $title) }}
-{{ $score := 0 }}
+{{ $score := 0.0 }}
 {{ $outOf := 0 }}
 {{ range $reviews }}
     {{ $path := .Path }}
-    {{ $s := (.Params.score | default 0) }}
+    {{ $s := .Params.scores }}
     {{ with $s }}
-        {{ $score = add $score (cast.ToFloat .) }}
-        {{ $outOf = add $outOf 1 }}
+        {{ range $s }}
+            {{ $score = add $score (cast.ToFloat .) }}
+            {{ $outOf = add $outOf 1 }}
+        {{ end }}
     {{ end }}
 {{ end }}
 {{ $oldScore := $score }}

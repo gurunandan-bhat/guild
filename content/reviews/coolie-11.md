@@ -1,13 +1,13 @@
 +++
-title = 'Coolie'
+critics = ["Sudhir Srinivasan"]
 date = 2025-08-15T09:52:03+05:30
 draft = false
+media = "video"
 mreviews = ["Coolie"]
-critics = ['Sudhir Srinivasan']
+scores = [5]
+source = "liGCl5bqUV0"
 subtitle = "The Long Review"
-media = 'video'
-source = 'liGCl5bqUV0'
-score = 5
+title = "Coolie"
 +++
 
 {{< youtube id="liGCl5bqUV0" loading="lazy" >}}

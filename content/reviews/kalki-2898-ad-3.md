@@ -1,11 +1,11 @@
 +++
-title = "Kalki 2898 AD"
+critics = ["Akhil Arora"]
 date = 2024-08-27T13:12:07+05:30
 draft = false
 mreviews = ["Kalki 2898 AD"]
-critics = ['Akhil Arora']
+scores = [2]
 subtitle = "A Spotify Review"
-score = 2
+title = "Kalki 2898 AD"
 +++
 
 {{< spotify id="2NzO6sq3rEfhzOIhhWao4h" height="250" >}}

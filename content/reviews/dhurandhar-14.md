@@ -1,13 +1,13 @@
 +++
-title = 'Dhurandhar'
+critics = ["Anmol Jamwal"]
 date = 2025-12-08T08:38:36+05:30
 draft = false
+media = "video"
 mreviews = ["Dhurandhar"]
-critics = ['Anmol Jamwal']
+scores = [6.5]
+source = "AoU9VlgaDxs"
 subtitle = "The SPYVERSE just got some homework"
-media = 'video'
-source = 'AoU9VlgaDxs'
-score = 6.5
+title = "Dhurandhar"
 +++
 
 {{< youtube id="AoU9VlgaDxs" loading="lazy" >}}

@@ -1,13 +1,13 @@
 +++
-title = 'Son of Sardar 2'
+critics = ["Ajay Brahmatmaj"]
 date = 2025-08-01T17:25:47+05:30
 draft = false
+media = "video"
 mreviews = ["Son of Sardar 2"]
-critics = ['Ajay Brahmatmaj']
+scores = [2]
+source = "eDhWQQmdQ08"
 subtitle = ""
-media = 'video'
-source = 'eDhWQQmdQ08'
-score = 2
+title = "Son of Sardar 2"
 +++
 
 {{< youtube id="eDhWQQmdQ08" loading="lazy" >}}

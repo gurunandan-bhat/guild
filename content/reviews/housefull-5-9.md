@@ -1,16 +1,16 @@
 +++
-title = "Housefull 5"
+critics = ["Upma Singh"]
 date = 2025-06-06T20:52:29+05:30
 draft = false
+img = "housefull-5-9.webp"
+media = "print"
 mreviews = ["Housefull 5"]
-critics = ['Upma Singh']
-publication = ''
-subtitle = "सितारों की भरमार के बाद भी नहीं चमकी ये कमजोर कॉमिडी"
 opening = ""
-img = 'housefull-5-9.webp'
-media = 'print'
+publication = ""
+scores = [4]
 source = "https://navbharattimes.indiatimes.com/entertainment/movie-review/housefull-5-movie-review-in-hindi-starring-akshay-kumar-abhishek-bachchan-riteish-deshmukh-jacqueline-fernandez-sonam-bajwa-nana-patekar/moviereview/121670936.cms"
-score = 4
+subtitle = "सितारों की भरमार के बाद भी नहीं चमकी ये कमजोर कॉमिडी"
+title = "Housefull 5"
 +++
 
 अक्षय कुमार, अभिषेक बच्चन, जैकी श्रॉफ, संजय दत्त, नाना पाटेकर, रितेश देशमुख और ऐसे करीब एक दर्जन और सितारे, अक्सर अपनी फिल्‍मों में स्टार पावर पर भरोसा करने वाले निर्माता साजिद नाडियाडवाला ने अपनी चर्चित कॉमिडी फ्रैंचाइजी 'हाउसफुल' के 5वें संस्करण में स्टार्स की कतार लगा दी है। कॉमेडी के साथ-साथ इस बार मर्डर मिस्ट्री का छौंका भी लगाया है। उस पर रोमांच को दोगुना करने के लिए दो-दो क्लाइमैक्स (हाउसफुल 5A और हाउसफुल 5B) भी ले आए हैं। लेकिन इन सबके बावजूद वह यह भूल गए हैं कि आज के दौर में असल स्टार कहानी होती है। लिहाजा करीब डेढ़ दर्जन सितारों की मौजूदगी भी उनकी इस पुराने स्टाइल की कमजोर कहानी को चमकदार नहीं बना पाती। शायद, यही वजह है कि सुबह साढ़े 8 बजे के शो में जब मैं पहुंची तो वहां मेरे अलावा कोई और नहीं था और शो कैंसल करना पड़ा। किसी तरह, अगले शो में 7-8 लोग जुट गए तो फिल्म देखने का अवसर मिल पाया।

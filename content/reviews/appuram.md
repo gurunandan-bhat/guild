@@ -1,16 +1,16 @@
 +++
-title = 'Appuram'
+critics = ["Aswathy Gopalakrishnan"]
 date = 2024-12-21T08:12:22+05:30
 draft = true
-mreviews = ['Appuram']
-critics = ['Aswathy Gopalakrishnan']
-publication = 'Dhruvam'
-subtitle = ""
+img = "appuram.jpg"
+media = "print"
+mreviews = ["Appuram"]
 opening = ""
-img = 'appuram.jpg'
-media = 'print'
+publication = "Dhruvam"
+scores = [7]
 source = "https://dhruvam.wordpress.com/2024/12/20/review-appuram-the-other-side-malayalam-2024/?sfnsn=wiwspwa"
-score = 7
+subtitle = ""
+title = "Appuram"
 +++
 
 _Appuram/The Other Side_ unfolds like flashcards, like shards of memory that Janaki

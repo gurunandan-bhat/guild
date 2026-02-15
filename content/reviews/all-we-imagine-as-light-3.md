@@ -1,16 +1,16 @@
 +++
-title = 'All We Imagine as Light'
+critics = ["Shubhra Gupta"]
 date = 2024-11-24T18:15:54+05:30
 draft = false
-mreviews = ['All We Imagine as Light']
-critics = ['Shubhra Gupta']
-publication = ''
-subtitle = "Payal Kapadia’s lyrical ode to working-class Mumbai and female friendship"
+img = "all-we-imagine-as-light-3.webp"
+media = "print"
+mreviews = ["All We Imagine as Light"]
 opening = "The wonderful Kani Kusruti turns yearning into a full-time job, and just for her, this film which releases in India today, is worth every minute of your time."
-img = 'all-we-imagine-as-light-3.webp'
-media = 'print'
+publication = ""
+scores = [8]
 source = "https://indianexpress.com/article/entertainment/movie-review/all-we-imagine-as-light-movie-review-payal-kapadia-lyrical-ode-to-working-class-mumbai-female-friendship-9683261"
-score = 8
+subtitle = "Payal Kapadia’s lyrical ode to working-class Mumbai and female friendship"
+title = "All We Imagine as Light"
 +++
 
 A woman leans on a pole in her compartment, for support, for balance, swaying with the rhythm of the train. She looks exhausted, after a long day at work. We take in, like she does, the way the city looks at night, bars of refracted light and darkness dancing across her face. This image, which comes early in Payal Kapadia’s lyrical ode to working-class Mumbai and female friendship, becomes a marker of the themes the film explores, and it stays with you.

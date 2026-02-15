@@ -1,11 +1,11 @@
 +++
-title = "Amar Singh Chamkila"
+critics = ["Akhil Arora"]
 date = 2024-04-12T10:10:30+05:30
 draft = false
 mreviews = ["Amar Singh Chamkila"]
-critics = ['Akhil Arora']
+scores = [7]
 subtitle = "A Spotify Review"
-score = 7
+title = "Amar Singh Chamkila"
 +++
 
 {{< spotify id="2q9n1qzYiHqDGB5k26OyWS" height="250" >}}

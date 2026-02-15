@@ -1,16 +1,16 @@
 +++
-title = 'Despatch'
+critics = ["Rahul Desai"]
 date = 2024-12-12T13:00:15+05:30
 draft = false
-mreviews = ['Despatch']
-critics = ['Rahul Desai']
-publication = ''
-subtitle = "Manoj Bajpayee Powers An Ugly And Effective Newsroom Drama"
+img = "despatch-2.webp"
+media = "print"
+mreviews = ["Despatch"]
 opening = "Director Kanu Behl’s film dismantles the wokeness of press procedurals"
-img = 'despatch-2.webp'
-media = 'print'
+publication = ""
+scores = [7]
 source = "https://www.hollywoodreporterindia.com/reviews/streaming/despatch-movie-review-manoj-bajpayee-powers-an-ugly-and-effective-newsroom-drama"
-score = 7
+subtitle = "Manoj Bajpayee Powers An Ugly And Effective Newsroom Drama"
+title = "Despatch"
 +++
 
 Despatch starts off as a journalist story. It’s 2012. Joy Bag (Manoj Bajpayee) is a veteran crime reporter for a Mumbai-based newspaper. Joy is in a joyless marriage with Shweta (Shahana Goswami), and he plans a future with Prerna (Arrchita Agarwaal), a colleague he’s been having an affair with; he is in search of his next big headline.

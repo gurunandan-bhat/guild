@@ -1,16 +1,16 @@
 +++
-title = 'The Sabarmati Report'
+critics = ["Bharathi Pradhan"]
 date = 2024-11-16T09:01:38+05:30
 draft = false
-mreviews = ['The Sabarmati Report']
-critics = ['Bharathi Pradhan']
-publication = ''
-subtitle = "Conspiracy Uncovered, Story Incomplete"
+img = "the-sabarmati-report.jpg"
+media = "print"
+mreviews = ["The Sabarmati Report"]
 opening = ""
-img = 'the-sabarmati-report.jpg'
-media = 'print'
+publication = ""
+scores = [5]
 source = "https://lehren.com/entertainment/reviews/the-sabarmati-report-movie-review-conspiracy-uncovered-story-incomplete/205828/"
-score = 5
+subtitle = "Conspiracy Uncovered, Story Incomplete"
+title = "The Sabarmati Report"
 +++
 
 The communal bloodshed that tainted Gujarat in 2002 has been told and retold on film, in books, on TV debates.

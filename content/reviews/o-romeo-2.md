@@ -1,13 +1,13 @@
 +++
-title = "O'Romeo"
+critics = ["Rohit Khilnani"]
 date = 2026-02-14T08:05:51+05:30
 draft = false
+media = "video"
 mreviews = ["O'Romeo"]
-critics = ['Rohit Khilnani']
+scores = [3]
+source = "GsviXjPJj-o"
 subtitle = ""
-media = 'video'
-source = 'GsviXjPJj-o'
-score = 3
+title = "O'Romeo"
 +++
 
 {{< youtube id="GsviXjPJj-o" loading="lazy" >}}

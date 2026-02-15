@@ -1,13 +1,13 @@
 +++
-title = 'Kalamkaval'
+critics = ["Avinash Ramachandran"]
 date = 2025-12-08T08:45:18+05:30
 draft = false
+media = "video"
 mreviews = ["Kalamkaval"]
-critics = ['Avinash Ramachandran']
+scores = [7]
+source = "GN2-TSz8oJc"
 subtitle = ""
-media = 'video'
-source = 'GN2-TSz8oJc'
-score = 7
+title = "Kalamkaval"
 +++
 
 {{< youtube id="GN2-TSz8oJc" loading="lazy" >}}

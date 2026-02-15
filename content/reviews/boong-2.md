@@ -1,13 +1,13 @@
 +++
-title = 'Boong'
+critics = ["Sucharita Tyagi"]
 date = 2025-09-22T09:55:50+05:30
 draft = false
+media = "video"
 mreviews = ["Boong"]
-critics = ['Sucharita Tyagi']
+scores = [7]
+source = "Be21hj_3DGI"
 subtitle = "Palpable tension reverberates throughout the film."
-media = 'video'
-source = 'Be21hj_3DGI'
-score = 7
+title = "Boong"
 +++
 
 {{< youtube id="Be21hj_3DGI" loading="lazy" >}}

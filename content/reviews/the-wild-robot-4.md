@@ -1,15 +1,15 @@
 +++
-title = 'The Wild Robot'
+critics = ["Rahul Desai"]
 date = 2024-10-20T18:32:13+05:30
 draft = false
-mreviews = ['The Wild Robot']
-critics = ['Rahul Desai']
-subtitle = "A Heartfelt ‘Factory Reset’ Of Storytelling"
+img = "the-wild-robot-4.webp"
+media = "print"
+mreviews = ["The Wild Robot"]
 opening = "The Wild Robot takes you back to the early days of Finding Nemo and Wall-E, where the joy is rooted in the innocence of imagination rather than the responsibility of the movie-going experience."
-img = 'the-wild-robot-4.webp'
-media = 'print'
+scores = [8]
 source = "https://www.ottplay.com/features/the-wild-robot-a-heartfelt-factory-reset-of-storytelling/071e6ed7f6634"
-score = 8
+subtitle = "A Heartfelt ‘Factory Reset’ Of Storytelling"
+title = "The Wild Robot"
 +++
 
 THE WILD ROBOT is about an all-purpose robot that turns sentient in the wilderness. After washing up on a forest island, Rozzum “Rozz” 7134 learns to feel and discern once it mothers an orphaned goose and befriends a red fox. I’d say it becomes human, but in the context of where we are today, “it grows a heart” is more accurate.

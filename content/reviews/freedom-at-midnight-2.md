@@ -1,16 +1,16 @@
 +++
-title = 'Freedom at Midnight'
+critics = ["Rahul Desai"]
 date = 2024-11-15T13:52:00+05:30
 draft = false
-mreviews = ['Freedom at Midnight']
-critics = ['Rahul Desai']
-publication = ''
-subtitle = "A Brave And Bulky Historical Thriller"
+img = "freedom-at-midnight-2.webp"
+media = "print"
+mreviews = ["Freedom at Midnight"]
 opening = "Nikkhil Advani’s 7-episode Partition drama is ambitious, campy and politically expressive."
-img = 'freedom-at-midnight-2.webp'
-media = 'print'
+publication = ""
+scores = [6]
 source = "https://www.hollywoodreporterindia.com/reviews/streaming/freedom-at-midnight-review-a-brave-and-bulky-historical-thriller"
-score = 6
+subtitle = "A Brave And Bulky Historical Thriller"
+title = "Freedom at Midnight"
 +++
 
 As children, most of us learn to see 1947 as India’s finest moment. The event is simple: India gained freedom from the greedy British Raj and that’s that. As teenagers, we start to sense that perhaps it wasn’t all smooth and happy. With independence came the pressure to move out and grow up. But it doesn’t matter much because, either way, colonialism ended. As we get older, however, a full and bittersweet picture emerges: a nation is free, only to be violently divided into two on the basis of religion. It was never as simple as the British leaving or a newly born country celebrating its revolutionaries. This fuller picture has been molded — and revised — into shapeless stories by a future reeling from its scars. History is what happened, but these days, history is what we choose to believe.

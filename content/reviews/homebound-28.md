@@ -1,11 +1,11 @@
 +++
-title = "Homebound"
+critics = ["Rohan Naahar"]
 date = 2025-10-11T10:03:00+05:30
 draft = false
 mreviews = ["Homebound"]
-critics = ['Rohan Naahar']
+scores = [9]
 subtitle = "A Spotify Review"
-score = 9
+title = "Homebound"
 +++
 
 {{< spotify id="2zZgQKDlwtHwOHGrPsP3ch" height="250" >}}

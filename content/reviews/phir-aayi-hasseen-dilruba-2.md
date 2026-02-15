@@ -1,11 +1,11 @@
 +++
-title = "Phir Aayi Hasseen Dilruba"
+critics = ["Akhil Arora"]
 date = 2024-08-09T13:03:51+05:30
 draft = false
 mreviews = ["Phir Aayi Hasseen Dilruba"]
-critics = ['Akhil Arora']
+scores = [2]
 subtitle = "A Spotify Review"
-score = 2
+title = "Phir Aayi Hasseen Dilruba"
 +++
 
 {{< spotify id="7qKjUNFslTNbubS9K6QbSk" height="250" >}}

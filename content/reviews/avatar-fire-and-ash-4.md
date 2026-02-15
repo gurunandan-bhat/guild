@@ -1,13 +1,13 @@
 +++
-title = 'Avatar: Fire and Ash'
+critics = ["Rohit Khilnani"]
 date = 2025-12-19T19:54:39+05:30
 draft = false
+media = "video"
 mreviews = ["Avatar: Fire and Ash"]
-critics = ['Rohit Khilnani']
+scores = [9]
+source = "zeP015HjzZc"
 subtitle = ""
-media = 'video'
-source = 'zeP015HjzZc'
-score = 9
+title = "Avatar: Fire and Ash"
 +++
 
 {{< youtube id="zeP015HjzZc" loading="lazy" >}}

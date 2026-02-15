@@ -1,16 +1,16 @@
 +++
-title = "Kis Kisko Pyaar Karoon 2"
+critics = ["Deepak Dua"]
 date = 2025-12-13T00:07:02+05:30
 draft = false
+img = "kis-kisko-pyaar-karoon-2-2.jpg"
+media = "print"
 mreviews = ["Kis Kisko Pyaar Karoon 2"]
-critics = ['Deepak Dua']
-publication = ''
-subtitle = "इस सर्कस में है टाइमपास कॉमेडी"
 opening = ""
-img = 'kis-kisko-pyaar-karoon-2-2.jpg'
-media = 'print'
+publication = ""
+scores = [4]
 source = "https://www.cineyatra.com/kis-kisko-pyaar-karoon-2-movie-review-by-deepak-dua/"
-score = 4
+subtitle = "इस सर्कस में है टाइमपास कॉमेडी"
+title = "Kis Kisko Pyaar Karoon 2"
 +++
 
 10 साल से ऊपर हो गए जब कॉमेडी के लिए चर्चित कपिल शर्मा बतौर हीरो अपनी पहली फिल्म ‘किस किस को प्यार करूं’ लेकर आए थे। उस फिल्म में उन्होंने एक ऐसे युवक की भूमिका निभाई थी जिसे मजबूरी में तीन शादियां करनी पड़ती हैं और अब वह अपनी पसंद की लड़की से चौथा ब्याह रचाने जा रहा है। उस फिल्म में रोमांस की हल्की खुशबू के साथ कॉमेडी का तड़का था और दर्शकों ने उस फिल्म पर अपनी पसंदगी का ठप्पा भी लगाया था। यह फिल्म ‘किस किस को प्यार करूं 2’ उसी कड़ी की अगली फिल्म है। लेकिन यह उसका सीक्वेल नहीं है बल्कि लगभग उसी कहानी पर फिर से बनाई गई फिल्म है-कुछ अलग तड़के के साथ

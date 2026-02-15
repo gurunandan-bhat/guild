@@ -1,13 +1,13 @@
 +++
-title = 'Haq'
+critics = ["Rohit Vats"]
 date = 2025-11-11T19:30:16+05:30
 draft = false
+media = "video"
 mreviews = ["Haq"]
-critics = ['Rohit Vats']
+scores = [9]
+source = "TE1JtCyAC3s"
 subtitle = "A logical film with great emotional depth."
-media = 'video'
-source = 'TE1JtCyAC3s'
-score = 9
+title = "Haq"
 +++
 
 {{< youtube id="TE1JtCyAC3s" loading="lazy" >}}

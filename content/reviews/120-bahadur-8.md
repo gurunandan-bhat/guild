@@ -1,13 +1,13 @@
 +++
-title = '120 Bahadur'
+critics = ["Ajay Brahmatmaj"]
 date = 2025-11-21T19:35:36+05:30
 draft = false
+media = "video"
 mreviews = ["120 Bahadur"]
-critics = ['Ajay Brahmatmaj']
+scores = [6]
+source = "nKycolJZAJc"
 subtitle = ""
-media = 'video'
-source = 'nKycolJZAJc'
-score = 6
+title = "120 Bahadur"
 +++
 
 {{< youtube id="nKycolJZAJc" loading="lazy" >}}

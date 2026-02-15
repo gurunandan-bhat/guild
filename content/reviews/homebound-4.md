@@ -1,13 +1,13 @@
 +++
-title = 'Homebound'
+critics = ["Rohit Khilnani"]
 date = 2025-09-25T08:42:05+05:30
 draft = false
+media = "video"
 mreviews = ["Homebound"]
-critics = ['Rohit Khilnani']
+scores = [9]
+source = "ccX5s7Mvyhk"
 subtitle = ""
-media = 'video'
-source = 'ccX5s7Mvyhk'
-score = 9
+title = "Homebound"
 +++
 
 {{< youtube id="ccX5s7Mvyhk" loading="lazy" >}}

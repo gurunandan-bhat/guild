@@ -1,15 +1,15 @@
 +++
-title = 'Do Patti'
+critics = ["Anuj Kumar"]
 date = 2024-10-29T14:57:48+05:30
 draft = false
-mreviews = ['Do Patti']
-critics = ['Anuj Kumar']
-subtitle = "Kriti Sanon, Kajol struggle to power this thriller on domestic abuse"
+img = "do-patti-15.jpeg"
+media = "print"
+mreviews = ["Do Patti"]
 opening = "Attempting to follow the flowchart of being engaging and meaningful, director Shashanka Chaturvedi loses his grip on the crime thriller"
-img = 'do-patti-15.jpeg'
-media = 'print'
+scores = [4]
 source = "https://www.thehindu.com/entertainment/movies/do-patti-movie-review-kriti-sanon-kajol-struggle-to-power-this-thriller-on-domestic-abuse/article68795318.ece"
-score = 4
+subtitle = "Kriti Sanon, Kajol struggle to power this thriller on domestic abuse"
+title = "Do Patti"
 +++
 
 For a long time, one believed that a compelling cinematic narrative shows more than it tells, and expresses more than it explains. However, the recent content spurt on OTT platforms seems bent on cerebrating the opposite. Do Patti is yet another addition to the long list of films that skip theatres for a streaming service. It reduces the art of storytelling to a mere artifice for meaningful cinema. These films end up delivering the message but little else.

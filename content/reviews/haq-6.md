@@ -1,13 +1,13 @@
 +++
-title = 'Haq'
+critics = ["Ajay Brahmatmaj"]
 date = 2025-11-07T19:40:53+05:30
 draft = false
+media = "video"
 mreviews = ["Haq"]
-critics = ['Ajay Brahmatmaj']
+scores = [8]
+source = "i7o1rh-3_VQ"
 subtitle = ""
-media = 'video'
-source = 'i7o1rh-3_VQ'
-score = 8
+title = "Haq"
 +++
 
 {{< youtube id="i7o1rh-3_VQ" loading="lazy" >}}

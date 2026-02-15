@@ -1,12 +1,12 @@
 +++
-title = 'All We Imagine as Light'
+critics = ["Akhil Arora"]
 date = 2025-01-12T12:52:10+05:30
 draft = false
 mreviews = ["All We Imagine as Light"]
-critics = ['Akhil Arora']
-subtitle = "All We Imagine As Light: A Spotify Review"
 opening = ""
-score = 9
+scores = [9]
+subtitle = "All We Imagine As Light: A Spotify Review"
+title = "All We Imagine as Light"
 +++
 
 {{< spotify id="3tHefFQH4os4jHX4HCbgZK" height="250" >}}

@@ -1,16 +1,16 @@
 +++
-title = 'All We Imagine as Light'
+critics = ["Ishita Sengupta"]
 date = 2024-11-26T08:39:39+05:30
 draft = false
-mreviews = ['All We Imagine as Light']
-critics = ['Ishita Sengupta']
-publication = 'OTT Play'
-subtitle = "A Moving Ode To Mumbai & Sisterhood"
+img = "all-we-imagine-as-light-6.png"
+media = "print"
+mreviews = ["All We Imagine as Light"]
 opening = "Payal Kapadia's All We Imagine as Light is one of those life-altering gems that is transcendental and a moving memoir of mundane, transformative and a crushing reiteration of community sustenance."
-img = 'all-we-imagine-as-light-6.png'
-media = 'print'
+publication = "OTT Play"
+scores = [10]
 source = "https://www.ottplay.com/features/all-we-imagine-as-light-payal-kapadia-film-moving-ode-to-mumbai-sisterhood/cb9a47bb68175"
-score = 10
+subtitle = "A Moving Ode To Mumbai & Sisterhood"
+title = "All We Imagine as Light"
 +++
 
 Three women, monsoon and a severe city. If Payal Kapadia’s iridescent All We Imagine as Light was a novel, there would be dried flowers stuck between its pages. Since it is a film, the intangible feeling is imbued with visual tactility. It is present in the way Prabha (Kani Kusruti), a middle-aged woman, holds a totem of cold technology within the warmth of her embrace. It is embossed on the face of Parvaty (Chhaya Kadam), a woman in the middle of a crisis, as she listens to a fiery political speech about reclaiming what is hers. And it drips from the text messages a young Anu (Divya Prabha) sends to her lover: “I am sending you kisses through the clouds so that when it rains my kisses touch your lips.” Kapadia’s film is suffused with such ache that if you extend your hand you can touch it.

@@ -1,13 +1,13 @@
 +++
-title = "O'Romeo"
+critics = ["Anmol Jamwal"]
 date = 2026-02-14T08:21:54+05:30
 draft = false
+media = "video"
 mreviews = ["O'Romeo"]
-critics = ['Anmol Jamwal']
+scores = [3]
+source = "jt_cqIYSLX8"
 subtitle = "Et tu Bhardwaj?"
-media = 'video'
-source = 'jt_cqIYSLX8'
-score = 3
+title = "O'Romeo"
 +++
 
 {{< youtube id="jt_cqIYSLX8" loading="lazy" >}}

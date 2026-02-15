@@ -1,16 +1,16 @@
 +++
-title = 'Citadel: Honey Bunny'
+critics = ["Rahul Desai"]
 date = 2024-11-07T13:41:14+05:30
 draft = false
-mreviews = ['Citadel: Honey Bunny']
-critics = ['Rahul Desai']
-publication = ''
-subtitle = "Will The Real Raj & DK Please Stand Up?"
+img = "citadel-honey-bunny-2.webp"
+media = "print"
+mreviews = ["Citadel: Honey Bunny"]
 opening = "The Indian spy drama is shackled by the Hollywood franchise it expands"
-img = 'citadel-honey-bunny-2.webp'
-media = 'print'
+publication = ""
+scores = [5]
 source = "https://www.hollywoodreporterindia.com/reviews/streaming/citadel-honey-bunny-review-will-the-real-raj-dk-please-stand-up"
-score = 5
+subtitle = "Will The Real Raj & DK Please Stand Up?"
+title = "Citadel: Honey Bunny"
 +++
 
 Citadel: Honey Bunny is a catchy title. In fact, you can almost hear it. “Honey Bunny” instantly evokes the viral Idea Cellular ad jingle from 2012: you’re my pumpkin pumpkin/hello honey bunny. But there’s more to the earworm than a Pulp Fiction tribute or a term of endearment. The commercial itself showed a traveler infecting different parts of the country with a tune; the cutesy lyrics, too, felt like the collective sound of couples staying connected across regions. It’s not a stretch to suggest that Citadel: Honey Bunny — whose pan-world premise features a pan-Indian adventure of a couple named Honey (Samantha Ruth Prabhu) and Bunny (Varun Dhawan) — is a long-form descendent of the jingle. It’s totally on brand for director duo Raj & DK, who thrive on affectionate pop-cultural nods, cinephilia and retro references.

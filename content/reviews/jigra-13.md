@@ -1,15 +1,15 @@
 +++
-title = 'Jigra'
+critics = ["Deepak Dua"]
 date = 2024-10-13T22:35:00+05:30
 draft = false
-mreviews = ['Jigra']
-critics = ['Deepak Dua']
-subtitle = 'सिर्फ ‘जिगरा’ है, दिमाग नहीं'
-opening = ''
-img = 'jigra-13.jpg'
-media = 'print'
-source = 'https://www.cineyatra.com/jigra-movie-review-by-deepak-dua/'
-score = 2
+img = "jigra-13.jpg"
+media = "print"
+mreviews = ["Jigra"]
+opening = ""
+scores = [2]
+source = "https://www.cineyatra.com/jigra-movie-review-by-deepak-dua/"
+subtitle = "सिर्फ ‘जिगरा’ है, दिमाग नहीं"
+title = "Jigra"
 +++
 
 भारत से अमीर परिवार के दो लड़के एक बिज़नेस ट्रिप पर एक छोटे-से देश में गए हैं। वहां एक लड़के की जेब से ड्रग्स मिलती है और इल्ज़ाम दूसरे लड़के पर आ जाता है। उस देश में इस अपराध की एक ही सज़ा है-मौत। लेकिन उस लड़के की बहन आ पहुंची है उसे बचाने। कानून का सहारा उसके काम नहीं आता तो वह जेल तोड़ने का इरादा कर लेती है। तोड़ पाती है वह जेल? बचा पाती है अपने भाई को? कैसे करेगी वह इतना बड़ा काम?

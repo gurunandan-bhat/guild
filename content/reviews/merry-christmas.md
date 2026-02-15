@@ -1,11 +1,11 @@
 +++
-title = "Merry Christmas"
+critics = ["Akhil Arora"]
 date = 2024-03-11T11:54:12+05:30
 draft = false
 mreviews = ["Merry Christmas"]
-critics = ['Akhil Arora']
+scores = [4]
 subtitle = "A Spotify Review"
-score = 4
+title = "Merry Christmas"
 +++
 
 {{< spotify id="2GpCtKqGsdyN2PVVGwNEEl" height="250" >}}

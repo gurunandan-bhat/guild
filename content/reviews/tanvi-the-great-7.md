@@ -1,13 +1,13 @@
 +++
-title = 'Tanvi the Great'
+critics = ["Ajay Brahmatmaj"]
 date = 2025-07-19T23:14:27+05:30
 draft = false
+media = "video"
 mreviews = ["Tanvi the Great"]
-critics = ['Ajay Brahmatmaj']
+scores = [5]
+source = "AG5CkheVoN8"
 subtitle = ""
-media = 'video'
-source = 'AG5CkheVoN8'
-score = 5
+title = "Tanvi the Great"
 +++
 
 {{< youtube id="AG5CkheVoN8" loading="lazy" >}}

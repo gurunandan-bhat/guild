@@ -1,16 +1,16 @@
 +++
-title = 'Girls Will Be Girls'
+critics = ["Shilajit Mitra"]
 date = 2024-12-19T11:14:46+05:30
 draft = false
-mreviews = ['Girls Will Be Girls']
-critics = ['Shilajit Mitra']
-publication = ''
-subtitle = "A textured, eloquent coming-of-age story"
+img = "girls-will-be-girls-7.jpg"
+media = "print"
+mreviews = ["Girls Will Be Girls"]
 opening = "As mother and daughter, Kani Kusruti and debutante Preeti Panigrahi dance a complex waltz in Shuchi Talati’s psychologically attuned boarding school drama"
-img = 'girls-will-be-girls-7.jpg'
-media = 'print'
+publication = ""
+scores = [8]
 source = "https://www.thehindu.com/entertainment/movies/girls-will-be-girls-movie-review-a-textured-eloquent-coming-of-age-story/article69000127.ece"
-score = 8
+subtitle = "A textured, eloquent coming-of-age story"
+title = "Girls Will Be Girls"
 +++
 
 “I won’t allow anything more than a friendship,” decrees Anila (Kani Kusruti), a very mom thing to say. She is sizing up a tall, sweet boy, Srinivas (Kesav Binoy Kiron), who’s drawn her daughter’s affections at their elite, hillside boarding school. The girl, Mira (Preeti Panigrahi), stands at the door and listens. The camera mimics her watchful gaze. It is a simple domestic intervention, yet it thrums with suspense.

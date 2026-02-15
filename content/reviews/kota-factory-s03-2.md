@@ -1,11 +1,11 @@
 +++
-title = "Kota Factory S03"
+critics = ["Akhil Arora"]
 date = 2024-06-20T10:15:32+05:30
 draft = false
 mreviews = ["Kota Factory S03"]
-critics = ['Akhil Arora']
+scores = [5]
 subtitle = "A Spotify Review"
-score = 5
+title = "Kota Factory S03"
 +++
 
 {{< spotify id="6zBKzLbNRzDIbEHV2uUm0j" height="250" >}}

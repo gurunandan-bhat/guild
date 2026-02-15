@@ -1,13 +1,13 @@
 +++
-title = 'Dude'
+critics = ["Anmol Jamwal"]
 date = 2025-10-20T19:24:14+05:30
 draft = false
+media = "video"
 mreviews = ["Dude"]
-critics = ['Anmol Jamwal']
+scores = [6]
+source = "CMHtNvM5aak"
 subtitle = "Pradeep Is here to stay"
-media = 'video'
-source = 'CMHtNvM5aak'
-score = 6
+title = "Dude"
 +++
 
 {{< youtube id="CMHtNvM5aak" loading="lazy" end=566 >}}

@@ -1,16 +1,16 @@
 +++
-title = "The Ba***ds of Bollywood"
+critics = ["Upma Singh"]
 date = 2025-09-19T08:09:23+05:30
 draft = false
+img = "the-bads-of-bollywood.png"
+media = "print"
 mreviews = ["The Ba***ds of Bollywood"]
-critics = ['Upma Singh']
-publication = ''
-subtitle = "बॉलिवुड को मनोरंजक प्रेम पत्र है आर्यन की यह सीरीज"
 opening = ""
-img = 'the-bads-of-bollywood.png'
-media = 'print'
+publication = ""
+scores = [6.5]
 source = "https://navbharattimes.indiatimes.com/entertainment/web-series/review/the-bads-of-bollywood-web-series-review-in-hindi-directed-by-aryan-khan-starring-lakshya-lalwani-raghav-juyal/moviereview/123978684.cms"
-score = 6.5
+subtitle = "बॉलिवुड को मनोरंजक प्रेम पत्र है आर्यन की यह सीरीज"
+title = "The Ba***ds of Bollywood"
 +++
 
 बॉलिवुड के बादशाह शाहरुख खान के बेटे आर्यन खान की डायरेक्टोरियल डेब्यू वेब सीरीज 'द बैड्स ऑफ बॉलिवुड' जब से अनाउंस हुई है, तभी से लोगों को उसका इंतजार था। अब यह सीरीज आ चुकी है और कहना गलत न होगा कि आर्यन ने पर्दे के पीछे से धमाकेदार एंट्री मारी है। उनकी यह सीरीज नेपोटिजम, इनसाइडर-आउटसाइडर, ड्रग्स, मूवी माफिया, कॉन्ट्रैक्ट कल्चर, पावर के खेल जैसे उन सारे मुद्दों को पूरी साफगोई से दिखाती है, जिसके लिए बॉलिवुड जाना जाता है या यूं कहिए कि बदनाम है। बिलाल सिद्दीकी और मानव चौहान के साथ मिलकर लिखी इस सीरीज के लिए आर्यन ने बॉलिवुड की उसी दुनिया को चुना है, जहां वे जन्मे और पले-बढ़े। वैसे, देखा जाए तो कहानी कोई बहुत अलहदा किस्म की नहीं है। देखी-दिखाई-सुनी-सुनाई सी लगती है, लेकिन इसी वजह से एक रिलेटेबिलिटी फैक्टर महसूस होता है।

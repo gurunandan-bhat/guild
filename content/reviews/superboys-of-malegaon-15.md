@@ -1,11 +1,11 @@
 +++
-title = "Superboys of Malegaon"
+critics = ["Akhil Arora"]
 date = 2025-02-28T13:59:39+05:30
 draft = false
 mreviews = ["Superboys of Malegaon"]
-critics = ['Akhil Arora']
+scores = [5]
 subtitle = "A Spotify Review"
-score = 5
+title = "Superboys of Malegaon"
 +++
 
 {{< spotify id="3tGmRgjOCIIq06HXxyUM9u" height="250" >}}

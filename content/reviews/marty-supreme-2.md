@@ -1,13 +1,13 @@
 +++
-title = 'Marty Supreme'
+critics = ["Sucharita Tyagi"]
 date = 2026-01-26T06:23:15+05:30
 draft = false
+media = "video"
 mreviews = ["Marty Supreme"]
-critics = ['Sucharita Tyagi']
+scores = [7]
+source = "S0Jq_N58SMc"
 subtitle = "Whirlwind!"
-media = 'video'
-source = 'S0Jq_N58SMc'
-score = 7
+title = "Marty Supreme"
 +++
 
 {{< youtube id="S0Jq_N58SMc" loading="lazy" >}}

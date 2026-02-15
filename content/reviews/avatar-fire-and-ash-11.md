@@ -1,11 +1,11 @@
 +++
-title = "Avatar: Fire and Ash"
+critics = ["Rohan Naahar"]
 date = 2025-12-22T18:04:39+05:30
 draft = false
 mreviews = ["Avatar: Fire and Ash"]
-critics = ['Rohan Naahar']
+scores = [6]
 subtitle = "A Spotify Review"
-score = 6
+title = "Avatar: Fire and Ash"
 +++
 
 {{< spotify id="4eoSZ1lQTtaX0zZ5aYfOZX" height="250" >}}

@@ -1,11 +1,11 @@
 +++
-title = "Songs of Paradise"
+critics = ["Akhil Arora"]
 date = 2025-09-04T22:51:38+05:30
 draft = false
 mreviews = ["Songs of Paradise"]
-critics = ['Akhil Arora']
+scores = [4]
 subtitle = "Th Long Take: A Spotify Review"
-score = 4
+title = "Songs of Paradise"
 +++
 
 {{< spotify id="6S4Md5CjgqH1LsgjY8UfIV" height="250" >}}

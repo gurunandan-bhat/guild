@@ -1,15 +1,15 @@
 +++
-title = 'Yek Number'
+critics = ["Keyur Seta"]
 date = 2024-10-10T22:59:35+05:30
 draft = false
-critics = ['Keyur Seta']
-mreviews = ['Yek Number']
-subtitle = 'Ambitious propaganda that turns unintentionally hilarious'
-opening = ''
-img = 'yek-number.jpeg'
-media = 'print'
-source = 'https://thecommonmanspeaks.com/yek-number-review/'
-score = 3
+img = "yek-number.jpeg"
+media = "print"
+mreviews = ["Yek Number"]
+opening = ""
+scores = [3]
+source = "https://thecommonmanspeaks.com/yek-number-review/"
+subtitle = "Ambitious propaganda that turns unintentionally hilarious"
+title = "Yek Number"
 +++
 
 A couple of weeks ago, we saw the release of Dharmaveer 2, in which a deceased political hero, Anand Dighe, was used to glorify and popularize Maharashtra’s current Chief Minister Eknath Shinde. Now, the same kind of propaganda has become the core of another Marathi movie. Titled Yek Number, the film aims to glorify Raj Thackeray, the chief of Maharashtra Navnirman Sena (MNS).

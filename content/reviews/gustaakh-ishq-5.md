@@ -1,13 +1,13 @@
 +++
-title = 'Gustaakh Ishq'
+critics = ["Anupama Chopra"]
 date = 2025-11-29T18:00:31+05:30
 draft = false
+media = "video"
 mreviews = ["Gustaakh Ishq"]
-critics = ['Anupama Chopra']
+scores = [5]
+source = "oZ2HbdkRn2M"
 subtitle = "Screenplay flatlines early with unexplained loose ends"
-media = 'video'
-source = 'oZ2HbdkRn2M'
-score = 5
+title = "Gustaakh Ishq"
 +++
 
 {{< youtube id="oZ2HbdkRn2M" loading="lazy" >}}

@@ -1,16 +1,16 @@
 +++
-title = 'The Remarkable Life of Ibelin'
+critics = ["Rahul Desai"]
 date = 2024-10-31T10:59:42+05:30
 draft = false
-mreviews = ['The Remarkable Life of Ibelin']
-critics = ['Rahul Desai']
-subtitle = "The Retroactive Stillness Of Grief"
+img = "the-remarkable-life-of-ibelin.png"
+media = "print"
+mreviews = ["The Remarkable Life of Ibelin"]
 opening = "Director Benjamin Ree uses the investigative form of a true-crime drama. Except, the twist in this documentary is that the victim was actually a survivor — the grand revelation is life, not death"
-img = 'the-remarkable-life-of-ibelin.png'
-publication = 'OTTPlay'
-media = 'print'
+publication = "OTTPlay"
+scores = [8]
 source = "https://www.ottplay.com/features/the-remarkable-life-of-ibelin-the-retroactive-stillness-of-grief/6c52eb2ab840"
-score = 8
+subtitle = "The Retroactive Stillness Of Grief"
+title = "The Remarkable Life of Ibelin"
 +++
 
 Benjamin Ree’s The Remarkable Life of Ibelin starts off as a documentary about death. We see the tombstone of Mats Steen, a Norwegian boy whose body and soul were at war. A mix of VHS footage and family interviews then reveals that Mats had duchenne muscular dystrophy (DMD), a degenerative disease that reduced his 25 years to a hellish survival story. His mind yearned for the momentum his muscles never had. Subsequent clips show his body shrinking on landmarks and vacations, the end inching closer.

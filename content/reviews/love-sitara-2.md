@@ -1,15 +1,15 @@
 +++
-title = 'Love Sitara'
+critics = ["Shilajit Mitra"]
 date = 2024-10-14T00:21:48+05:30
 draft = false
-mreviews = ['Love Sitara']
-critics = ['Shilajit Mitra']
-subtitle = 'Pre-wedding blues with Sobhita Dhulipala'
-opening = 'Sobhita Dhulipala and Rajeev Siddhartha are a couple gearing up for their wedding in this uneven relationship drama '
-img = 'love-sitara-2.jpeg'
-media = 'print'
-source = 'https://www.thehindu.com/entertainment/movies/love-sitara-movie-review-pre-wedding-blues-with-sobhita-dhulipala/article68689328.ece'
-score = 6.5
+img = "love-sitara-2.jpeg"
+media = "print"
+mreviews = ["Love Sitara"]
+opening = "Sobhita Dhulipala and Rajeev Siddhartha are a couple gearing up for their wedding in this uneven relationship drama "
+scores = [6.5]
+source = "https://www.thehindu.com/entertainment/movies/love-sitara-movie-review-pre-wedding-blues-with-sobhita-dhulipala/article68689328.ece"
+subtitle = "Pre-wedding blues with Sobhita Dhulipala"
+title = "Love Sitara"
 +++
 
 Love, Sitara begins with a nod to Anna Karenina: “All happy families are alike; each unhappy family is unhappy in its own way,” says Sitara (Sobhita Dhulipala). Unlike Leo Tolstoy’s great novel — whose opening line these words are — the writing in Vandana Kataria’s film isn’t as quotable, though it tries hard. You can assemble a slim volume of pithy self-help slogans from Abbas and Hussain Dalal’s dialogue: “Happiness lies in honesty.” “Dysfunction means they are making an effort.” “I’ll fix myself, before I can fix my relationships.”

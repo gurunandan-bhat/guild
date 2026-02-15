@@ -6,7 +6,7 @@ draft = false
 mreviews = ["{{ $title }}"]
 critics = ['']
 subtitle = "A Spotify Review"
-score = 
+scores = []
 +++
 
 {{< spotify id="" height="250" >}}

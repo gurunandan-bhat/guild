@@ -1,13 +1,13 @@
 +++
-title = 'A House of Dynamite'
+critics = ["Rohit Khilnani"]
 date = 2025-11-03T08:30:53+05:30
 draft = false
+media = "video"
 mreviews = ["A House of Dynamite"]
-critics = ['Rohit Khilnani']
+scores = [8]
+source = "bHzNdbKeAIs"
 subtitle = ""
-media = 'video'
-source = 'bHzNdbKeAIs'
-score = 8
+title = "A House of Dynamite"
 +++
 
 {{< youtube id="bHzNdbKeAIs" loading="lazy" >}}

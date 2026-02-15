@@ -1,13 +1,13 @@
 +++
-title = 'Ikkis'
+critics = ["Ajay Brahmatmaj"]
 date = 2026-01-01T22:48:03+05:30
 draft = false
+media = "video"
 mreviews = ["Ikkis"]
-critics = ['Ajay Brahmatmaj']
+scores = [7]
+source = "lq-feQVlr40"
 subtitle = ""
-media = 'video'
-source = 'lq-feQVlr40'
-score = 7
+title = "Ikkis"
 +++
 
 {{< youtube id="lq-feQVlr40" loading="lazy" >}}

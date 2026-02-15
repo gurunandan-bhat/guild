@@ -1,13 +1,13 @@
 +++
-title = 'Kaalidhar Laapata'
+critics = ["Anupama Chopra"]
 date = 2025-07-05T08:57:53+05:30
 draft = false
+media = "video"
 mreviews = ["Kaalidhar Laapata"]
-critics = ['Anupama Chopra']
+scores = [5]
+source = "C0761je2HoE"
 subtitle = "The film offers hope and showcases the quiet power of second chances"
-media = 'video'
-source = 'C0761je2HoE'
-score = 5
+title = "Kaalidhar Laapata"
 +++
 
 {{< youtube id="C0761je2HoE" loading="lazy" >}}

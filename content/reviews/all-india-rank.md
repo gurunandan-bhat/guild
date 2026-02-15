@@ -1,11 +1,11 @@
 +++
-title = "All India Rank"
+critics = ["Akhil Arora"]
 date = 2024-02-24T09:39:44+05:30
 draft = false
 mreviews = ["All India Rank"]
-critics = ['Akhil Arora']
+scores = [6]
 subtitle = "A Spotify Review"
-score = 6
+title = "All India Rank"
 +++
 
 {{< spotify id="5IC6e7dcWi4fTo2aGD1mbH" height="250" >}}

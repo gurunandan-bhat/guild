@@ -1,13 +1,13 @@
 +++
-title = 'Saiyaara'
+critics = ["Anmol Jamwal"]
 date = 2025-07-23T12:00:20+05:30
 draft = false
+media = "video"
 mreviews = ["Saiyaara"]
-critics = ['Anmol Jamwal']
+scores = [6.5]
+source = "xFeKHLQ5zLU"
 subtitle = "The memory of young love still leaves a sting"
-media = 'video'
-source = 'xFeKHLQ5zLU'
-score = 6.5
+title = "Saiyaara"
 +++
 
 {{< youtube id="xFeKHLQ5zLU" loading="lazy" >}}

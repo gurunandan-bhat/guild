@@ -1,13 +1,13 @@
 +++
-title = 'Metro... in Dino'
+critics = ["Ajay Brahmatmaj"]
 date = 2025-07-04T21:28:16+05:30
 draft = false
+media = "video"
 mreviews = ["Metro... in Dino"]
-critics = ['Ajay Brahmatmaj']
+scores = [8]
+source = "UUs4TbpwH8c"
 subtitle = ""
-media = 'video'
-source = 'UUs4TbpwH8c'
-score = 8
+title = "Metro... in Dino"
 +++
 
 {{< youtube id="UUs4TbpwH8c" loading="lazy" >}}

@@ -1,14 +1,14 @@
 +++
-title = 'Sthal'
-translatedTitle = 'A Match'
+critics = ["Sucharita Tyagi"]
 date = 2025-03-09T09:47:40+05:30
 draft = false
-mreviews = ['Sthal']
-critics = ['Sucharita Tyagi']
-subtitle = 'Marathi Film Shining Again'
-media = 'video'
-source = 'Rlu11CysnpU'
-score = 7
+media = "video"
+mreviews = ["Sthal"]
+scores = [7]
+source = "Rlu11CysnpU"
+subtitle = "Marathi Film Shining Again"
+title = "Sthal"
+translatedTitle = "A Match"
 +++
 
 {{< youtube id="Rlu11CysnpU" loading="lazy" >}}

@@ -9,7 +9,7 @@ subtitle = ""
 opening = ""
 img = '{{ .File.ContentBaseName }}.'
 media = 'audio'
-score =
+scores = []
 +++
 
 {{< audio path="" caption="" >}}

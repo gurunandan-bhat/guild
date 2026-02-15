@@ -1,11 +1,11 @@
 +++
-title = "Madgaon Express"
+critics = ["Akhil Arora"]
 date = 2024-05-20T19:38:50+05:30
 draft = false
 mreviews = ["Madgaon Express"]
-critics = ['Akhil Arora']
+scores = [5]
 subtitle = "A Spotify Review"
-score = 5
+title = "Madgaon Express"
 +++
 
 {{< spotify id="0ddHlCPJEM6LZ2umyGXmUV" height="250" >}}

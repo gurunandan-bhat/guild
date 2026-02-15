@@ -1,13 +1,13 @@
 +++
-title = 'Bhool Chuk Maaf'
+critics = ["Anmol Jamwal"]
 date = 2025-05-30T08:45:36+05:30
 draft = false
+media = "video"
 mreviews = ["Bhool Chuk Maaf"]
-critics = ['Anmol Jamwal']
+scores = [4]
+source = "hZw05CdlmfA"
 subtitle = "Time loop theory squandered terribly"
-media = 'video'
-source = 'hZw05CdlmfA'
-score = 4
+title = "Bhool Chuk Maaf"
 +++
 
 {{< youtube id="hZw05CdlmfA" loading="lazy" >}}

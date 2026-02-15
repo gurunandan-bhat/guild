@@ -1,16 +1,16 @@
 +++
-title = "Jewel Thief - The Heist Begins"
+critics = ["Saibal Chatterjee"]
 date = 2025-04-26T08:04:03+05:30
 draft = false
+img = "jewel-thief-the-heist-begins-10.webp"
+media = "print"
 mreviews = ["Jewel Thief - The Heist Begins"]
-critics = ['Saibal Chatterjee']
-publication = ''
-subtitle = "Saif Ali Khan And Jaideep Ahlawat Star In A Stylish Snoozefest"
 opening = "Performances of the lead cast is steady but never enough for a film that needed much more"
-img = 'jewel-thief-the-heist-begins-10.webp'
-media = 'print'
+publication = ""
+scores = [3]
 source = "https://www.ndtv.com/entertainment/jewel-thief-the-heist-begins-review-saif-ali-khan-and-jaideep-ahlawat-star-in-a-stylish-snoozefest-1-5-stars-8252394"
-score = 3
+subtitle = "Saif Ali Khan And Jaideep Ahlawat Star In A Stylish Snoozefest"
+title = "Jewel Thief - The Heist Begins"
 +++
 
 A red diamond brings the worst out of two men—a criminal kingpin and a globetrotting con artist—in Jewel Thief - The Heist Begins. The trouble is, it does not spare the film either.

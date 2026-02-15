@@ -1,16 +1,16 @@
 +++
-title = "Sunny Sanskari Ki Tulsi Kumari"
+critics = ["Bharathi Pradhan"]
 date = 2025-10-02T23:55:46+05:30
 draft = false
+img = "sunny-sanskari-ki-tulsi-kumari-2.webp"
+media = "print"
 mreviews = ["Sunny Sanskari Ki Tulsi Kumari"]
-critics = ['Bharathi Pradhan']
-publication = ''
-subtitle = "Neither Sunny Nor Funny"
 opening = ""
-img = 'sunny-sanskari-ki-tulsi-kumari-2.webp'
-media = 'print'
+publication = ""
+scores = [4]
 source = "https://lehren.com/sunny-sanskari-ki-tulsi-kumari-movie-review-neither-sunny-nor-funny/"
-score = 4
+subtitle = "Neither Sunny Nor Funny"
+title = "Sunny Sanskari Ki Tulsi Kumari"
 +++
 
 What are the items you would look for in a new Shashank Khaitan film? Let’s tick them off.

@@ -1,11 +1,11 @@
 +++
-title = "Dune: Part Two"
+critics = ["Akhil Arora"]
 date = 2024-03-05T11:49:07+05:30
 draft = false
 mreviews = ["Dune: Part Two"]
-critics = ['Akhil Arora']
+scores = [7]
 subtitle = "A Spotify Review"
-score = 7
+title = "Dune: Part Two"
 +++
 
 {{< spotify id="25NwFpdeBueL61rR7GF91D" height="250" >}}

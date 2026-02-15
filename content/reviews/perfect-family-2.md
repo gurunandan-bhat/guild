@@ -1,13 +1,13 @@
 +++
-title = 'Perfect Family'
+critics = ["Rohit Khilnani"]
 date = 2025-11-30T11:39:13+05:30
 draft = false
+media = "video"
 mreviews = ["Perfect Family"]
-critics = ['Rohit Khilnani']
+scores = [6]
+source = "GaUg-Oh22PM"
 subtitle = ""
-media = 'video'
-source = 'GaUg-Oh22PM'
-score = 6
+title = "Perfect Family"
 +++
 
 {{< youtube id="GaUg-Oh22PM" loading="lazy" >}}

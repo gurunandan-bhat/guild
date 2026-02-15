@@ -1,13 +1,13 @@
 +++
-title = 'Mission: Impossible - The Final Reckoning'
+critics = ["Sucharita Tyagi"]
 date = 2025-05-17T06:32:36+05:30
 draft = false
+media = "video"
 mreviews = ["Mission: Impossible - The Final Reckoning"]
-critics = ['Sucharita Tyagi']
+scores = [7]
+source = "a7d2s36T7X0"
 subtitle = "Tom Cruise pushes himself harder than ever. "
-media = 'video'
-source = 'a7d2s36T7X0'
-score = 7
+title = "Mission: Impossible - The Final Reckoning"
 +++
 
 {{< youtube id="a7d2s36T7X0" loading="lazy" >}}

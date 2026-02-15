@@ -1,15 +1,15 @@
 +++
-title = 'Vicky Vidya Ka Woh Wala Video'
+critics = ["Renuka Vyavahare"]
 date = 2024-10-11T12:32:06+05:30
 draft = false
-mreviews = ['Vicky Vidya Ka Woh Wala Video']
-critics = ['Renuka Vyavahare']
-subtitle = 'Tiring pursuit of a sex tape'
-opening = 'Newlyweds Vicky (Rajkummar Rao) and Vidya (Triptii Dimri), decide to record their honeymoon video for self pleasure and gratification. Chaos ensues when the CD gets stolen.'
-img = 'vicky-vidya-ka-woh-wala-video-3.webp'
-media = 'print'
-source = 'https://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews/vicky-vidya-ka-woh-wala-video/movie-review/114136020.cms'
-score = 4
+img = "vicky-vidya-ka-woh-wala-video-3.webp"
+media = "print"
+mreviews = ["Vicky Vidya Ka Woh Wala Video"]
+opening = "Newlyweds Vicky (Rajkummar Rao) and Vidya (Triptii Dimri), decide to record their honeymoon video for self pleasure and gratification. Chaos ensues when the CD gets stolen."
+scores = [4]
+source = "https://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews/vicky-vidya-ka-woh-wala-video/movie-review/114136020.cms"
+subtitle = "Tiring pursuit of a sex tape"
+title = "Vicky Vidya Ka Woh Wala Video"
 +++
 
 Set in the late 90’s, the pre-Instagram era, when ‘get ready with me’ reels were non-existent, privacy had a different meaning. Without having the platform to post their private life anywhere, couples voluntarily recording their intimate moments was still a rare phenomenon. So on paper, the film’s script sounds promising. What happens when this private video belonging to a middle-class couple from Rishikesh goes missing? What are the repercussions and can they retrieve it?

@@ -1,11 +1,11 @@
 +++
-title = "Mission: Impossible - The Final Reckoning"
+critics = ["Akhil Arora"]
 date = 2025-05-23T14:11:39+05:30
 draft = false
 mreviews = ["Mission: Impossible - The Final Reckoning"]
-critics = ['Akhil Arora']
+scores = [6]
 subtitle = "A Spotify Review"
-score = 6
+title = "Mission: Impossible - The Final Reckoning"
 +++
 
 {{< spotify id="1o7mqr60QeFRPcxXRn4Y4l" height="250" >}}

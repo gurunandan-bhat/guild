@@ -1,16 +1,16 @@
 +++
-title = 'Kanguva'
+critics = ["Manoj Kumar"]
 date = 2024-11-14T11:59:49+05:30
 draft = false
-mreviews = ['Kanguva']
-critics = ['Manoj Kumar']
-publication = ''
-subtitle = "Suriya leads this grand spectacle with heart amidst primal chaos"
+img = "kanguva.jpeg"
+media = "print"
+mreviews = ["Kanguva"]
 opening = "Set against a primitive landscape, Kanguva tells the story of a warrior-leader who balances his people’s survival instincts with his own vision of compassion and integrity."
-img = 'kanguva.jpeg'
-media = 'print'
+publication = ""
+scores = [6]
 source = "https://www.desimartini.com/reviews/movies/kanguva-review-suriya-leads-this-grand-spectacle-with-heart-amidst-primal-chaos/c58ab13b9d333/"
-score = 6
+subtitle = "Suriya leads this grand spectacle with heart amidst primal chaos"
+title = "Kanguva"
 +++
 
 A characteristic in all of director Siva's movies that I strongly dislike is the lack of subtlety in emotions and reactions. Everything is loud—and sometimes even louder than Boyapati Srinu's films. But if you can look past this trait, Kanguva might just be one of the most cinematic spectacles you’ve experienced in theatres in a long time.

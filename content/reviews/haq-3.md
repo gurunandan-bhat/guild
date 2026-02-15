@@ -1,13 +1,13 @@
 +++
-title = 'Haq'
+critics = ["Anupama Chopra"]
 date = 2025-11-07T19:22:00+05:30
 draft = false
+media = "video"
 mreviews = ["Haq"]
-critics = ['Anupama Chopra']
+scores = [7]
+source = "l445qrntYUE"
 subtitle = "Navigates delicate questions about faith, secular law, and gender relationships with sturdy storytelling"
-media = 'video'
-source = 'l445qrntYUE'
-score = 7
+title = "Haq"
 +++
 
 {{< youtube id="l445qrntYUE" loading="lazy" >}}

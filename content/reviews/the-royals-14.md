@@ -1,13 +1,13 @@
 +++
-title = 'The Royals'
+critics = ["Rohit Khilnani"]
 date = 2025-05-14T08:07:04+05:30
 draft = false
+media = "video"
 mreviews = ["The Royals"]
-critics = ['Rohit Khilnani']
+scores = [6]
+source = "gAsbIA1IOnU"
 subtitle = ""
-media = 'video'
-source = 'gAsbIA1IOnU'
-score = 6
+title = "The Royals"
 +++
 
 {{< youtube id="gAsbIA1IOnU" loading="lazy" >}}

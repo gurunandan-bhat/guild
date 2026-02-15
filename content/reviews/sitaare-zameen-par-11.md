@@ -1,13 +1,13 @@
 +++
-title = 'Sitaare Zameen Par'
+critics = ["Anmol Jamwal"]
 date = 2025-06-21T08:30:06+05:30
 draft = false
+media = "video"
 mreviews = ["Sitaare Zameen Par"]
-critics = ['Anmol Jamwal']
+scores = [7]
+source = "O8rIvHMinls"
 subtitle = "I missed this tenderness in Hindi cinema"
-media = 'video'
-source = 'O8rIvHMinls'
-score = 7
+title = "Sitaare Zameen Par"
 +++
 
 {{< youtube id="O8rIvHMinls" loading="lazy" >}}

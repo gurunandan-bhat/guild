@@ -1,13 +1,13 @@
 +++
-title = 'The Royals'
+critics = ["Sucharita Tyagi"]
 date = 2025-05-09T22:34:20+05:30
 draft = false
+media = "video"
 mreviews = ["The Royals"]
-critics = ['Sucharita Tyagi']
+scores = [3]
+source = "IykBDFDLScM"
 subtitle = "Largely Unwatchable"
-media = 'video'
-source = 'IykBDFDLScM'
-score = 3
+title = "The Royals"
 +++
 
 {{< youtube id="IykBDFDLScM" loading="lazy" >}}

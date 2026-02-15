@@ -1,13 +1,13 @@
 +++
-title = 'They Call Him OG'
+critics = ["Sudhir Srinivasan"]
 date = 2025-09-26T08:26:08+05:30
 draft = false
+media = "video"
 mreviews = ["They Call Him OG"]
-critics = ['Sudhir Srinivasan']
+scores = [4.5]
+source = "POZwQm0_uiE"
 subtitle = "Driven by star power, swagger, and an audacious aesthetic."
-media = 'video'
-source = 'POZwQm0_uiE'
-score = 4.5
+title = "They Call Him OG"
 +++
 
 {{< youtube id="POZwQm0_uiE" loading="lazy" >}}

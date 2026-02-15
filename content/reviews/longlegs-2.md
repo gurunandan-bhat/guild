@@ -1,11 +1,11 @@
 +++
-title = "Longlegs"
+critics = ["Akhil Arora"]
 date = 2024-07-18T20:21:32+05:30
 draft = false
 mreviews = ["Longlegs"]
-critics = ['Akhil Arora']
+scores = [8]
 subtitle = "A Spotify Review"
-score = 8
+title = "Longlegs"
 +++
 
 {{< spotify id="0ywFTBOTWzA1rZXbqE9JDj" height="250" >}}

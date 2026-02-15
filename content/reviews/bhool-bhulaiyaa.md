@@ -1,15 +1,15 @@
 +++
-title = 'Bhool Bhulaiyaa 3'
+critics = ["Bharathi Pradhan"]
 date = 2024-11-01T18:41:37+05:30
 draft = false
-mreviews = ['Bhool Bhulaiyaa 3']
-critics = ['Bharathi Pradhan']
-subtitle = "Meandering Before Surprising"
+img = "bhool-bhulaiyaa.jpg"
+media = "print"
+mreviews = ["Bhool Bhulaiyaa 3"]
 opening = ""
-img = 'bhool-bhulaiyaa.jpg'
-media = 'print'
+scores = [6]
 source = "https://lehren.com/entertainment/reviews/bhool-bhulaiyaa-3-movie-review-meandering-before-surprising/204893/"
-score = 6
+subtitle = "Meandering Before Surprising"
+title = "Bhool Bhulaiyaa 3"
 +++
 
 Sometimes, a film takes off with an unpredictably thoughtful ending. The beginning and the middle get written to lead up to it. Director Anees Bazmee and writer Aakash Kaushik seem to have had an unexpected climax in mind before they sat down to take the audience through a maze, keeping alive the question, “Who’s Manjulika?” With the return of Vidya Balan (Mallika) to the franchise, the entry of Madhuri Dixit (Mandira) and the tussle between them, the guessing game goes on.

@@ -1,13 +1,13 @@
 +++
-title = 'Kohrra 2'
+critics = ["Sucharita Tyagi"]
 date = 2026-02-12T09:15:34+05:30
 draft = false
+media = "video"
 mreviews = ["Kohrra 2"]
-critics = ['Sucharita Tyagi']
+scores = [8]
+source = "1MNss7615OI"
 subtitle = "The answers are all around, you just have to ask the soul of Punjab itself."
-media = 'video'
-source = '1MNss7615OI'
-score = 8
+title = "Kohrra 2"
 +++
 
 {{< youtube id="1MNss7615OI" loading="lazy" >}}

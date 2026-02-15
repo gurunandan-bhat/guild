@@ -1,15 +1,15 @@
 +++
-title = 'Bougainvillea'
+critics = ["Manoj Kumar"]
 date = 2024-10-17T20:10:59+05:30
 draft = false
-mreviews = ['Bougainvillea']
-critics = ['Manoj Kumar']
-subtitle = "Amal Neerad's film has flaws and a gut-wrenching twist"
+img = "bougainvillea.jpeg"
+media = "print"
+mreviews = ["Bougainvillea"]
 opening = "Bougainvillea tells the story of Reethu Thomas, an amnesiac woman whose fractured memory places her at the centre of a high-stakes investigation."
-img = 'bougainvillea.jpeg'
-media = 'print'
+scores = [6]
 source = "https://www.desimartini.com/reviews/movies/bougainvillea-review-amal-neerads-film-has-flaws-and-a-gut-wrenching-twist/43c5a65d5d956/"
-score = 6
+subtitle = "Amal Neerad's film has flaws and a gut-wrenching twist"
+title = "Bougainvillea"
 +++
 
 Director Amal Neerad's latest movie Bougainvillea is a slow-burning thriller that offers more strengths than weaknesses in its entertainment value. Set against the backdrop of an unreliable memory, the film borrows elements from classics like Memento and The Usual Suspects, while crafting a uniquely Malayalam narrative.

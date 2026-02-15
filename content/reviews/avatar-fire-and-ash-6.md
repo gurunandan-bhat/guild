@@ -1,13 +1,13 @@
 +++
-title = 'Avatar: Fire and Ash'
+critics = ["Sucharita Tyagi"]
 date = 2025-12-20T08:24:40+05:30
 draft = false
+media = "video"
 mreviews = ["Avatar: Fire and Ash"]
-critics = ['Sucharita Tyagi']
+scores = [6.5]
+source = "QcjCAuxsz_0"
 subtitle = "Massive, beautiful, exhausting, sincere, and yet..."
-media = 'video'
-source = 'QcjCAuxsz_0'
-score = 6.5
+title = "Avatar: Fire and Ash"
 +++
 
 {{< youtube id="QcjCAuxsz_0" loading="lazy" >}}

@@ -1,13 +1,13 @@
 +++
-title = 'Do You Wanna Partner'
+critics = ["Suchin Mehrotra"]
 date = 2025-09-13T00:31:44+05:30
 draft = false
+media = "video"
 mreviews = ["Do You Wanna Partner"]
-critics = ['Suchin Mehrotra']
+scores = [3]
+source = "-GR_jPW3Tlg"
 subtitle = "A tedious, hollow experience "
-media = 'video'
-source = '-GR_jPW3Tlg'
-score = 3
+title = "Do You Wanna Partner"
 +++
 
 {{< youtube id="-GR_jPW3Tlg" loading="lazy" >}}

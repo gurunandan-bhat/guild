@@ -1,16 +1,16 @@
 +++
-title = "Dashavatar"
+critics = ["Mihir Bhanage"]
 date = 2025-09-13T00:20:53+05:30
 draft = false
+img = "dashavatar.jpeg"
+media = "print"
 mreviews = ["Dashavatar"]
-critics = ['Mihir Bhanage']
-publication = ''
-subtitle = "Dilip Prabhavalkar is the rakhandar of this visual spectacle"
 opening = ""
-img = 'dashavatar.jpeg'
-media = 'print'
+publication = ""
+scores = [7]
 source = "https://timesofindia.indiatimes.com/entertainment/marathi/movie-reviews/dashavatar/movie-review/123850452.cms"
-score = 7
+subtitle = "Dilip Prabhavalkar is the rakhandar of this visual spectacle"
+title = "Dashavatar"
 +++
 
 In the Konkan region of Maharashtra, Dashavatar presentations continue to be a huge draw. The traditional theatre form is centred around the ten incarnations of Lord Vishnu, and its performers command immense respect and popularity. Subodh Khanolkar’s Dashavatar is the story of one such performer – Babuli Mestri (Dilip Prabhavalkar).

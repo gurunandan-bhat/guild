@@ -1,16 +1,16 @@
 +++
-title = "The Diplomat"
+critics = ["Bharathi Pradhan"]
 date = 2025-03-15T08:06:49+05:30
 draft = false
+img = "the-diplomat.jpg"
+media = "print"
 mreviews = ["The Diplomat"]
-critics = ['Bharathi Pradhan']
-publication = ''
-subtitle = "Raw, Real, Rocky"
 opening = ""
-img = 'the-diplomat.jpg'
-media = 'print'
+publication = ""
+scores = [6]
 source = "https://lehren.com/entertainment/reviews/the-diplomat-movie-review-raw-real-rocky/212787"
-score = 6
+subtitle = "Raw, Real, Rocky"
+title = "The Diplomat"
 +++
 
 Clad in a full black burqa and looking like Kashmiri jihadi Ashiya Andrabi, a young woman desperately seeks asylum and help from the Indian High Commission in Islamabad. Is Uzma Ahmed (Sadia Khateeb) a plant, a suicide bomber or a genuine case for humanitarian aid from the Indian Embassy?

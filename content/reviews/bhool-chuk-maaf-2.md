@@ -1,13 +1,13 @@
 +++
-title = 'Bhool Chuk Maaf'
+critics = ["Bhawana Somaaya"]
 date = 2025-05-23T14:15:48+05:30
 draft = false
+media = "video"
 mreviews = ["Bhool Chuk Maaf"]
-critics = ['Bhawana Somaaya']
+scores = [4]
+source = "rgwI0oyNH0k"
 subtitle = ""
-media = 'video'
-source = 'rgwI0oyNH0k'
-score = 4
+title = "Bhool Chuk Maaf"
 +++
 
 {{< youtube id="rgwI0oyNH0k" loading="lazy" >}}

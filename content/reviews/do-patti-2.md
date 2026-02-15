@@ -1,15 +1,15 @@
 +++
-title = 'Do Patti'
+critics = ["Shubhra Gupta"]
 date = 2024-10-25T15:20:00+05:30
 draft = false
-mreviews = ['Do Patti']
-critics = ['Shubhra Gupta']
-subtitle = "Shallow Kajol-Kriti Sanon film fails to deliver on its promise"
+img = "do-patti-2.webp"
+media = "print"
+mreviews = ["Do Patti"]
 opening = "There’s enough in Kriti Sanon-Kajol film for a juicy, substantive drama. But the unpacking turns more into an unravelling, mainly because the writing is shallow, and the characters lack depth.d"
-img = 'do-patti-2.webp'
-media = 'print'
+scores = [3]
 source = "https://indianexpress.com/article/entertainment/movie-review/do-patti-movie-review-shallow-kajol-kriti-sanon-film-fails-to-deliver-on-its-promise-9638164/"
-score = 3
+subtitle = "Shallow Kajol-Kriti Sanon film fails to deliver on its promise"
+title = "Do Patti"
 +++
 
 ‘Do Patti’ comes armed with much promise. It is the first offering of a brand new female-led production house, with producer-actor Kriti and writer Kanika Dhillon having created an interesting ensemble led by Kajol, popular TV actor Shaheer Sheikh, Tanvi Azmi, Brijendra Kala and Vivek Mushran. What’s not to like? Turns out, quite a lot.

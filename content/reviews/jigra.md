@@ -1,15 +1,15 @@
 +++
-title = 'Jigra'
+critics = ["Bharathi Pradhan"]
 date = 2024-10-11T18:09:42+05:30
 draft = false
-mreviews = ['Jigra']
-critics = ['Bharathi Pradhan']
-subtitle = 'Gumrah Goes Feminist'
+img = "jigra.jpg"
+media = "print"
+mreviews = ["Jigra"]
 opening = ""
-img = 'jigra.jpg'
-media = 'print'
-source = 'https://lehren.com/entertainment/reviews/jigra-review-gumrah-goes-feminist/203756/'
-score = 4
+scores = [4]
+source = "https://lehren.com/entertainment/reviews/jigra-review-gumrah-goes-feminist/203756/"
+subtitle = "Gumrah Goes Feminist"
+title = "Jigra"
 +++
 
 Perhaps Karan Johar, Alia Bhatt and director Vasan Bala, who co-writes with Debashish Irengbam, hope that nobody remembers Gumrah (1993), the Sanjay Dutt-Sridevi starrer which Mahesh Bhatt directed for Dharma Productions’ founder Yash Johar. In 1993, it was a besotted Sanjay Dutt who’d helped Sridevi break out of a Bangkok prison where she faced a death sentence after being framed by her boyfriend for drug trafficking. Bhatt had helped himself to the theme from the 1989 TV series Bangkok Hilton where an estranged father helps his daughter break out of a Bangkok prison in similar circumstances as Sridevi in Gumrah.

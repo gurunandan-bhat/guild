@@ -1,13 +1,13 @@
 +++
-title = 'Kantara A Legend: Chapter 1'
+critics = ["Anmol Jamwal"]
 date = 2025-10-03T17:52:22+05:30
 draft = false
+media = "video"
 mreviews = ["Kantara A Legend: Chapter 1"]
-critics = ['Anmol Jamwal']
+scores = [8]
+source = "JiW6pKjVXe8"
 subtitle = "An epic sight to behold"
-media = 'video'
-source = 'JiW6pKjVXe8'
-score = 8
+title = "Kantara A Legend: Chapter 1"
 +++
 
 {{< youtube id="JiW6pKjVXe8" loading="lazy" >}}

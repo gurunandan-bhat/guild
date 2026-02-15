@@ -1,11 +1,11 @@
 +++
-title = "Jewel Thief - The Heist Begins"
+critics = ["Akhil Arora"]
 date = 2025-04-29T14:05:05+05:30
 draft = false
 mreviews = ["Jewel Thief - The Heist Begins"]
-critics = ['Akhil Arora']
+scores = [2]
 subtitle = "A Spotify Review"
-score = 2
+title = "Jewel Thief - The Heist Begins"
 +++
 
 {{< spotify id="1mU5uhensuoRNDVMTAxy2n" height="250" >}}

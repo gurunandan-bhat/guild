@@ -1,11 +1,11 @@
 +++
-title = "Raat Akeli Hai: The Bansal Murders"
+critics = ["Rohan Naahar"]
 date = 2025-12-26T18:08:13+05:30
 draft = false
 mreviews = ["Raat Akeli Hai: The Bansal Murders"]
-critics = ['Rohan Naahar']
+scores = [8]
 subtitle = "A Spotify Review"
-score = 8
+title = "Raat Akeli Hai: The Bansal Murders"
 +++
 
 {{< spotify id="5E8tPVo1FxhcFNLxl4HS20" height="250" >}}

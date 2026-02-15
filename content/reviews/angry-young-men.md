@@ -1,15 +1,15 @@
 +++
-title = 'Angry Young Men'
+critics = ["Suparna Sharma"]
 date = 2024-10-14T09:09:24+05:30
 draft = false
-mreviews = ['Angry Young Men']
-critics = ['Suparna Sharma']
-subtitle = 'An entertaining home video that mollycoddles Salim-Javed duo'
-opening = 'Salim Khan, 88, and Javed Akhtar, 79, are the stars of this multi-starrer'
-img = 'angry-young-men.jpg'
-media = 'print'
-source = 'https://www.theweek.in/review/movies/2024/08/20/angry-young-men-an-entertaining-home-video-that-mollycoddles-salim-javed-duo.html'
-score = 6
+img = "angry-young-men.jpg"
+media = "print"
+mreviews = ["Angry Young Men"]
+opening = "Salim Khan, 88, and Javed Akhtar, 79, are the stars of this multi-starrer"
+scores = [6]
+source = "https://www.theweek.in/review/movies/2024/08/20/angry-young-men-an-entertaining-home-video-that-mollycoddles-salim-javed-duo.html"
+subtitle = "An entertaining home video that mollycoddles Salim-Javed duo"
+title = "Angry Young Men"
 +++
 
 Angry Young Men, a three-part series directed by Namrata Rao, is crafted like the many Bollywood blockbusters that its protagonists — Salim Khan and Javed Akhtar — wrote together. Starring their wives, children, colleagues, friends and fans, the series is devoted to not just telling the story of a very successful and almost epochal collaboration, but also to cast them as the best writers Indian cinema has ever had.

@@ -1,13 +1,13 @@
 +++
-title = 'Homebound'
+critics = ["Bhawana Somaaya"]
 date = 2025-09-26T22:39:55+05:30
 draft = false
+media = "video"
 mreviews = ["Homebound"]
-critics = ['Bhawana Somaaya']
+scores = [8]
+source = "KqgoCdvLo7k"
 subtitle = ""
-media = 'video'
-source = 'KqgoCdvLo7k'
-score = 8
+title = "Homebound"
 +++
 
 {{< youtube id="KqgoCdvLo7k" loading="lazy" >}}

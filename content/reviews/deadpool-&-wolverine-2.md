@@ -1,11 +1,11 @@
 +++
-title = "Deadpool & Wolverine"
+critics = ["Akhil Arora"]
 date = 2024-11-17T16:16:22+05:30
 draft = false
 mreviews = ["Deadpool & Wolverine"]
-critics = ['Akhil Arora']
+scores = [6]
 subtitle = "A Spotify Review"
-score = 6
+title = "Deadpool & Wolverine"
 +++
 
 {{< spotify id="7xb5ohUwwNsBIjYFcPNXQY" height="250" >}}

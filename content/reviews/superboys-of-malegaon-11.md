@@ -1,13 +1,13 @@
 +++
-title = 'Superboys of Malegaon'
+critics = ["Sucharita Tyagi"]
 date = 2025-03-11T21:21:40+05:30
 draft = false
-mreviews = ['Superboys of Malegaon']
-critics = ['Sucharita Tyagi']
-subtitle = 'A despondent tale wrapped in a feel-good package.'
-media = 'video'
-source = 'O403YDNk2lc'
-score = 8
+media = "video"
+mreviews = ["Superboys of Malegaon"]
+scores = [8]
+source = "O403YDNk2lc"
+subtitle = "A despondent tale wrapped in a feel-good package."
+title = "Superboys of Malegaon"
 +++
 
 {{< youtube id="O403YDNk2lc" loading="lazy" >}}

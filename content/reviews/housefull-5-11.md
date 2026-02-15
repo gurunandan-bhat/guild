@@ -1,13 +1,13 @@
 +++
-title = 'Housefull 5'
+critics = ["Anmol Jamwal"]
 date = 2025-06-07T08:22:40+05:30
 draft = false
+media = "video"
 mreviews = ["Housefull 5"]
-critics = ['Anmol Jamwal']
+scores = [2.5]
+source = "9vfBSnB_Yxg"
 subtitle = "Profanity and Sex as an excuse for storytelling"
-media = 'video'
-source = '9vfBSnB_Yxg'
-score = 2.5
+title = "Housefull 5"
 +++
 
 {{< youtube id="9vfBSnB_Yxg" loading="lazy" >}}

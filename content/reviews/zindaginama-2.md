@@ -1,15 +1,15 @@
 +++
-title = 'Zindaginama'
+critics = ["Upma Singh"]
 date = 2024-10-15T17:59:22+05:30
 draft = false
-mreviews = ['Zindaginama']
-critics = ['Upma Singh']
-subtitle = ""
+img = "zindaginama-2.webp"
+media = "print"
+mreviews = ["Zindaginama"]
 opening = ""
-img = 'zindaginama-2.webp'
-media = 'print'
+scores = [4]
 source = "https://navbharattimes.indiatimes.com/entertainment/web-series/review/zindaginama-web-series-review-in-hindi-starring-shreyas-talpade-shweta-basu-prasad-priya-bapat-shruti-seth-sony-liv/moviereview/114143257.cms"
-score = 4
+subtitle = ""
+title = "Zindaginama"
 +++
 
 मेंटल हेल्थ हमारे समाज में लंबे समय तक एक टैबू रहा है। हालांकि, अब कुछ साल से इसके बारे में खुलकर बातें होने लगी हैं। विश्व मानसिक स्वास्थ्य दिवस (10 अक्टूबर) पर आई एंथॉलजी सीरीज 'ज़िंदगीनामा' इसी मेंटल हेल्थ के प्रति जागरूकता की ओर एक मजबूत कदम है। यह सीरीज 35-40 मिनट की छह कहानियों का गुलदस्ता है, जो ईटिंग डिसऑर्डर, गेमिंग एडिक्शन, सिजोफ्रेनिया, ओसीडी, पीटीएसडी, जेंडर डिस्फोरिया जैसी अलग-अलग मानसिक समस्याओं के प्रति लोगों का ध्यान आकर्षित करती है।

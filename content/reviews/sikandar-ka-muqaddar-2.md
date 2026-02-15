@@ -1,16 +1,16 @@
 +++
-title = 'Sikandar Ka Muqaddar'
+critics = ["Rahul Desai"]
 date = 2024-11-29T17:07:01+05:30
 draft = false
-mreviews = ['Sikandar Ka Muqaddar']
-critics = ['Rahul Desai']
-publication = ''
-subtitle = "Suspense Meets Nonsense In Neeraj Pandey’s Thriller"
+img = "sikandar-ka-muqaddar-2.webp"
+media = "print"
+mreviews = ["Sikandar Ka Muqaddar"]
 opening = "The Netflix film, starring Jimmy Shergill, Tamannaah Bhatia and Avinash Tiwary, embarks on a brisk walk to nowhere."
-img = 'sikandar-ka-muqaddar-2.webp'
-media = 'print'
+publication = ""
+scores = [4]
 source = "https://www.hollywoodreporterindia.com/reviews/streaming/sikandar-ka-muqaddar-movie-review-suspense-meets-nonsense-in-neeraj-pandeys-thriller"
-score = 4
+subtitle = "Suspense Meets Nonsense In Neeraj Pandey’s Thriller"
+title = "Sikandar Ka Muqaddar"
 +++
 
 For Tarantino, it’s the foot shot. For Rohit Shetty, it’s the drone shot. And for Neeraj Pandey, it’s the walking-talking shot: unbroken over-the-shoulder and full-frontal shots of self-serious men striding in and out of spaces, between rooms and corridors, between people and objects. Cops walk. Robbers walk. Waiters walk. Dogs walk. Thoughts walk. The air walks. No cinematographer finishes a schedule unfit. Basically, walking equals narrative momentum. Pandey is a master at making it look like something is always happening even when nothing is — but not in a good way.

@@ -1,16 +1,16 @@
 +++
-title = 'Citadel: Honey Bunny'
+critics = ["Shubhra Gupta"]
 date = 2024-11-07T13:43:47+05:30
 draft = false
-mreviews = ['Citadel: Honey Bunny']
-critics = ['Shubhra Gupta']
-publication = ''
-subtitle = "Samantha Ruth Prabhu explodes off the screen in Raj and DK’s clunky series"
+img = "citadel-honey-bunny-3.webp"
+media = "print"
+mreviews = ["Citadel: Honey Bunny"]
 opening = "So, where does that leave Varun Dhawan? Why, readying for his Terminator avatar, which looks as if it is going to kick-start the next season. But in this one, it is Samantha Ruth Prabhu all the way."
-img = 'citadel-honey-bunny-3.webp'
-media = 'print'
+publication = ""
+scores = [5]
 source = "https://indianexpress.com/article/entertainment/web-series/citadel-honey-bunny-review-samantha-ruth-prabhu-explodes-off-the-screen-in-raj-dks-clunky-series-9657604/"
-score = 5
+subtitle = "Samantha Ruth Prabhu explodes off the screen in Raj and DK’s clunky series"
+title = "Citadel: Honey Bunny"
 +++
 
 First things first: all hail the arrival of Samantha Ruth Prabhu, Indian cinema’s first real female action star who demands our attention from the get-go and never loses it through the six part series, Citadel: Honey Bunny. She’s coiled, ready for action, exploding off the screen whenever the script demands it of her, and the demand stays consistently high. As the family woman-cum-spry spy, who will do anything to protect her daughter, Samantha’s Honey is the best part of this enterprise, directed and written by Raj and DK (Sita Menon also gets writing and directing credit), and executive produced by the Russo Bros.

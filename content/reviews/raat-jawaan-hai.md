@@ -1,15 +1,15 @@
 +++
-title = 'Raat Jawaan Hai'
+critics = ["Rahul Desai"]
 date = 2024-10-11T10:55:49+05:30
 draft = false
-mreviews = ['Raat Jawaan Hai']
-critics = ['Rahul Desai']
-subtitle = 'A Heartening Update on the Modern Buddy Movie'
-opening = 'The feel-goodness of Raat Jawaan Hai is an organic product of its environment, but it has no neat resolutions or reckonings. Unlike in most young-adult stories, no conflict is curated; not everything is a lifequake.'
-img = 'raat-jawaan-hai.webp'
-media = 'print'
-source = 'https://www.hollywoodreporterindia.com/reviews/streaming/raat-jawaan-hai-review-a-heartening-update-on-the-modern-buddy-movie'
-score = 8
+img = "raat-jawaan-hai.webp"
+media = "print"
+mreviews = ["Raat Jawaan Hai"]
+opening = "The feel-goodness of Raat Jawaan Hai is an organic product of its environment, but it has no neat resolutions or reckonings. Unlike in most young-adult stories, no conflict is curated; not everything is a lifequake."
+scores = [8]
+source = "https://www.hollywoodreporterindia.com/reviews/streaming/raat-jawaan-hai-review-a-heartening-update-on-the-modern-buddy-movie"
+subtitle = "A Heartening Update on the Modern Buddy Movie"
+title = "Raat Jawaan Hai"
 +++
 
 Raat Jawaan Hai unfolds as an uncharacteristically warm and vibrant answer to a question popular Hindi cinema is too streamlined to ask: what happens after the end credits of the quintessential buddy comedy have rolled? Call it “Little Things for young parents” or “Dil Chahta Hai for reluctant adults”, but the fact that Raat Jawaan Hai fuses two seemingly exclusive genres of life — the friendship triangle and the marital drama — is, in itself, a minor triumph.

@@ -1,13 +1,13 @@
 +++
-title = 'Parasakthi'
+critics = ["Avinash Ramachandran"]
 date = 2026-01-17T09:37:35+05:30
 draft = false
+media = "video"
 mreviews = ["Parasakthi"]
-critics = ['Avinash Ramachandran']
+scores = [5]
+source = "khtdbi8tlCQ"
 subtitle = ""
-media = 'video'
-source = 'khtdbi8tlCQ'
-score = 5
+title = "Parasakthi"
 +++
 
 {{< youtube id="khtdbi8tlCQ" loading="lazy" >}}

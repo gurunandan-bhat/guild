@@ -1,15 +1,15 @@
 +++
-title = 'Lucky Baskhar'
+critics = ["Manoj Kumar"]
 date = 2024-10-31T19:02:36+05:30
 draft = false
-mreviews = ['Lucky Baskhar']
-critics = ['Manoj Kumar']
-subtitle = "Dulquer Salmaan elevates a solid, safe take on ambition"
+img = "lucky-baskhar-2.jpeg"
+media = "print"
+mreviews = ["Lucky Baskhar"]
 opening = "Lucky Baskhar follows the story of Baskhar Kumar (Dulquer Salmaan), a diligent bank employee in late 1980s Mumbai who embraces a morally ambiguous path to gain financial security."
-img = 'lucky-baskhar-2.jpeg'
-media = 'print'
+scores = [6]
 source = "https://www.desimartini.com/reviews/movies/lucky-baskhar-review-dulquer-salmaan-elevates-a-solid-safe-take-on-ambition/7d8b4b1acb975/"
-score = 6
+subtitle = "Dulquer Salmaan elevates a solid, safe take on ambition"
+title = "Lucky Baskhar"
 +++
 
 While promoting his latest movie, Lucky Baskhar, director Venky Atluri claimed that one of his biggest strengths is his talent in screenwriting. However, those closely following his filmography would tell you that his ability to assemble a stellar cast is his greatest asset. He once again showcases this strength with Lucky Baskhar.

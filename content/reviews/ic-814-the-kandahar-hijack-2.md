@@ -1,15 +1,15 @@
 +++
-title = 'IC 814 the Kandahar Hijack'
+critics = ["Upma Singh"]
 date = 2024-10-15T18:01:43+05:30
 draft = false
-mreviews = ['IC 814 the Kandahar Hijack']
-critics = ['Upma Singh']
-subtitle = ""
+img = "ic-814-the-kandahar-hijack-2.webp"
+media = "print"
+mreviews = ["IC 814 the Kandahar Hijack"]
 opening = ""
-img = 'ic-814-the-kandahar-hijack-2.webp'
-media = 'print'
+scores = [6]
 source = "https://navbharattimes.indiatimes.com/entertainment/web-series/review/ic-814-the-kandahar-hijack-web-series-review-in-hindi-naseeruddin-shah-pankaj-kapur-vijay-varma-manoj-pahwa-arvind-swamy-dia-mirza-netflix/moviereview/112915047.cms"
-score = 6
+subtitle = ""
+title = "IC 814 the Kandahar Hijack"
 +++
 
 भारतीय इतिहास में 1999 के कंधार प्लेन हाईजैक की घटना आज भी एक काले अध्याय की तरह याद की जाती है। सारी दुनिया जब नई सदी Y2K के आने के उत्साह में मगन थी, क्रिसमस से एक दिन पहले 24 दिसंबर 1999 को करीब 175 लोगों को लेकर काठमांडू से दिल्ली के लिए रवाना हुए इंडियन एयरलाइंस के हवाई जहाज IC 814 को आतंकियों ने हाईजैक कर लिया। हाईजैकर्स के कब्जे वाला यह प्लेन पहले अमृतसर और फिर लाहौर और दुबई होते हुए कंधार में लैंड हुआ। सात दिन बाद भारतीय जेलों में बंद तीन आतंकियों मौलाना मसूद अजहर, मुश्ताक अहमद जरगर और अहमद उमर सईद शेख को छोड़ने के बदले इन यात्रियों की सुरक्षित घर वापसी करवाई गई। अब इसी घटनाक्रम पर आधारित वेब सीरीज 'IC 814: द कंधार हाईजैक' से चर्चित निर्देशक अनुभव सिन्‍हा ने ओटीटी पर दस्तक दी है।

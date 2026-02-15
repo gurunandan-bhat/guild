@@ -1,13 +1,13 @@
 +++
-title = 'Bad Girl'
+critics = ["Ajay Brahmatmaj"]
 date = 2025-09-26T15:28:40+05:30
 draft = false
+media = "video"
 mreviews = ["Bad Girl"]
-critics = ['Ajay Brahmatmaj']
+scores = [7]
+source = "J-vns8LXw9Q"
 subtitle = ""
-media = 'video'
-source = 'J-vns8LXw9Q'
-score = 7
+title = "Bad Girl"
 +++
 
 {{< youtube id="J-vns8LXw9Q" loading="lazy" >}}

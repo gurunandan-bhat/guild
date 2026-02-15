@@ -1,15 +1,15 @@
 +++
-title = 'Raat Jawaan Hai'
+critics = ["Upma Singh"]
 date = 2024-10-15T17:56:50+05:30
 draft = false
-mreviews = ['Raat Jawaan Hai']
-critics = ['Upma Singh']
-subtitle = ""
+img = "raat-jawaan-hai-5.jpg"
+media = "print"
+mreviews = ["Raat Jawaan Hai"]
 opening = ""
-img = 'raat-jawaan-hai-5.jpg'
-media = 'print'
+scores = [8]
 source = "https://navbharattimes.indiatimes.com/entertainment/web-series/review/raat-jawaan-hai-review-in-hindi-starring-sumeet-vyas-barun-sobti-anjali-anand-priya-bapat/moviereview/114154878.cms"
-score = 8
+subtitle = ""
+title = "Raat Jawaan Hai"
 +++
 
 आम सी कहावत है कि मां-बाप बनने के बाद आपकी अपनी जिंदगी, अपनी खुशी बेमाने हो जाती है। तब बच्चा, उसकी जरूरतें, उसकी खुशियां ही सबसे ऊपर होती हैं। काफी हद तक होता भी ऐसा ही है, पर पैरंटिंग के नए मायने समझाने वाली वेब सीरीज रात जवान है आपसे कहती है कि नहीं बॉस, एक अच्छा पैरंट बनने के लिए अपनी खुशियों की कुर्बानी देना जरूरी नहीं है। थोड़ी मशक्कत जरूर करनी पड़ेगी, मगर आप अपने करियर, खुशियों, बच्चों सबको साथ लेकर भी चल सकते हैं। खास बात यह है कि ख्याति आनंद पुथरन की लिखी और सुमित व्यास (परमानेंट रूममेट्स, ट्रिपलिंग) निर्देशित यह प्यारी सी फील गुड कहानी ये बड़ी-बड़ी बातें बिना किसी लेक्चरबाजी के मजे-मजे में कह जाती है।

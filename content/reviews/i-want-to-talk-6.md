@@ -1,16 +1,16 @@
 +++
-title = 'I Want to Talk'
+critics = ["Renuka Vyavahare"]
 date = 2024-11-25T17:10:33+05:30
 draft = false
-mreviews = ['I Want to Talk']
-critics = ['Renuka Vyavahare']
-publication = ''
-subtitle = "Silence speaks volumes in this true story on unwavering resilience"
+img = "i-want-to-talk-6.webp"
+media = "print"
+mreviews = ["I Want to Talk"]
 opening = "There's a certain stillness to the film but it's not a sob story. It reminds you that you are way more stronger than you think you are."
-img = 'i-want-to-talk-6.webp'
-media = 'print'
+publication = ""
+scores = [7]
 source = "https://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews/i-want-to-talk/movie-review/115540132.cms"
-score = 7
+subtitle = "Silence speaks volumes in this true story on unwavering resilience"
+title = "I Want to Talk"
 +++
 
 In denial initially, this traumatic health crisis, numbs the pain of everything else in comparison including a broken marriage and financial downfall. What follows is countless hospital visits and an unpredictable future which tests the relationship Arjun shares with his daughter Reya.

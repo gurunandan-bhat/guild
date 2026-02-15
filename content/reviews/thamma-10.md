@@ -1,13 +1,13 @@
 +++
-title = 'Thamma'
+critics = ["Rohit Khilnani"]
 date = 2025-10-22T10:33:22+05:30
 draft = false
+media = "video"
 mreviews = ["Thamma"]
-critics = ['Rohit Khilnani']
+scores = [8]
+source = "ihg-VMovUNo"
 subtitle = ""
-media = 'video'
-source = 'ihg-VMovUNo'
-score = 8
+title = "Thamma"
 +++
 
 {{< youtube id="ihg-VMovUNo" loading="lazy" >}}

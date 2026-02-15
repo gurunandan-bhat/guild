@@ -1,16 +1,16 @@
 +++
-title = "Mission: Impossible - The Final Reckoning"
+critics = ["Priyanka Roy"]
 date = 2025-05-18T16:55:27+05:30
 draft = false
+img = "mission-impossible-the-final-reckoning-9.jpg"
+media = "print"
 mreviews = ["Mission: Impossible - The Final Reckoning"]
-critics = ['Priyanka Roy']
-publication = ''
-subtitle = "An uneven ride and far from the sendoff Ethan Hunt deserves."
 opening = ""
-img = 'mission-impossible-the-final-reckoning-9.jpg'
-media = 'print'
+publication = ""
+scores = [6]
 source = "https://t2online.in/screen/hollywood/mission-impossible-the-final-reckoning-is-an-uneven-ride-and-far-from-the-sendoff-ethan-hunt-deserves.-a-t2online-review/1456306"
-score = 6
+subtitle = "An uneven ride and far from the sendoff Ethan Hunt deserves."
+title = "Mission: Impossible - The Final Reckoning"
 +++
 
 This is the end  

@@ -1,15 +1,15 @@
 +++
-title = 'CTRL'
+critics = ["Tatsam Mukherjee"]
 date = 2024-10-05T08:21:03+05:30
 draft = false
-mreviews = ['CTRL']
-critics = ['Tatsam Mukherjee']
-subtitle = 'A Digital Screen Thriller Is A Tepid Look at the Evils of Big Tech'
-opening = 'Vikramaditya Motwane’s film is a weak Black Mirror episode at best.'
-img = 'ctrl-12.jpg'
-source = 'https://thewire.in/film/ctrl-a-digital-screen-thriller-is-a-tepid-look-at-the-evils-of-big-tech'
-media = 'print'
-score = 4
+img = "ctrl-12.jpg"
+media = "print"
+mreviews = ["CTRL"]
+opening = "Vikramaditya Motwane’s film is a weak Black Mirror episode at best."
+scores = [4]
+source = "https://thewire.in/film/ctrl-a-digital-screen-thriller-is-a-tepid-look-at-the-evils-of-big-tech"
+subtitle = "A Digital Screen Thriller Is A Tepid Look at the Evils of Big Tech"
+title = "CTRL"
 +++
 
 There’s one significant challenge to making ‘screen-life films’ (films that unfold almost entirely on digital screens). Once you commit to its visual grammar, you’re tied to them till there’s a good reason to break out of it. No matter what, all your exposition needs to happen on the small screen, key plot points need to be hashed out during video calls, and the filmmakers need to keep imagining newer screens – ranging from iPad, mobile phones, CCTVs, GoPros, webcams, paparazzi lenses, TV screens etc.

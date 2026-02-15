@@ -1,13 +1,13 @@
 +++
-title = 'Kingdom'
+critics = ["Sudhir Srinivasan"]
 date = 2025-08-02T08:29:31+05:30
 draft = false
+media = "video"
 mreviews = ["Kingdom"]
-critics = ['Sudhir Srinivasan']
+scores = [5]
+source = "QD4YT3FxhOc"
 subtitle = "The Long Review"
-media = 'video'
-source = 'QD4YT3FxhOc'
-score = 5
+title = "Kingdom"
 +++
 
 {{< youtube id="QD4YT3FxhOc" loading="lazy" >}}

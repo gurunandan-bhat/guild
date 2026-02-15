@@ -1,11 +1,11 @@
 +++
-title = "Raat Akeli Hai: The Bansal Murders"
+critics = ["Akhil Arora"]
 date = 2025-12-24T19:03:58+05:30
 draft = false
 mreviews = ["Raat Akeli Hai: The Bansal Murders"]
-critics = ['Akhil Arora']
+scores = [4]
 subtitle = "A Spotify Review"
-score = 4
+title = "Raat Akeli Hai: The Bansal Murders"
 +++
 
 {{< spotify id="5E8tPVo1FxhcFNLxl4HS20" height="250" >}}

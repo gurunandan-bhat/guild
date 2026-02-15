@@ -1,11 +1,11 @@
 +++
-title = "Sitaare Zameen Par"
+critics = ["Akhil Arora"]
 date = 2025-08-06T14:01:55+05:30
 draft = false
 mreviews = ["Sitaare Zameen Par"]
-critics = ['Akhil Arora']
+scores = [1]
 subtitle = "The Long Take - A Spotify Review"
-score = 1
+title = "Sitaare Zameen Par"
 +++
 
 {{< spotify id="19ebUAQyKkdLJy2IljKYaV" height="250" >}}

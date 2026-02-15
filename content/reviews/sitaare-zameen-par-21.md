@@ -1,13 +1,13 @@
 +++
-title = 'Sitaare Zameen Par'
+critics = ["Rohit Khilnani"]
 date = 2025-06-20T11:54:54+05:30
 draft = false
+media = "video"
 mreviews = ["Sitaare Zameen Par"]
-critics = ['Rohit Khilnani']
+scores = [6]
+source = "xOstGv0LQH0"
 subtitle = ""
-media = 'video'
-source = 'xOstGv0LQH0'
-score = 6
+title = "Sitaare Zameen Par"
 +++
 
 {{< youtube id="xOstGv0LQH0" loading="lazy" >}}

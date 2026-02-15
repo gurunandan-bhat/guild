@@ -1,13 +1,13 @@
 +++
-title = 'Deva'
+critics = ["Anmol Jamwal"]
 date = 2025-02-02T13:02:40+05:30
 draft = false
-mreviews = ['Deva']
-critics = ['Anmol Jamwal']
-subtitle = ''
-media = 'video'
-source = 'fLo8sVxJ8CY'
-score = 6
+media = "video"
+mreviews = ["Deva"]
+scores = [6]
+source = "fLo8sVxJ8CY"
+subtitle = ""
+title = "Deva"
 +++
 
 {{< youtube id="fLo8sVxJ8CY" loading="lazy" >}}

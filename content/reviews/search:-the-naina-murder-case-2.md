@@ -1,13 +1,13 @@
 +++
-title = 'Search: The Naina Murder Case'
+critics = ["Rohit Khilnani"]
 date = 2025-10-10T18:37:13+05:30
 draft = false
+media = "video"
 mreviews = ["Search: The Naina Murder Case"]
-critics = ['Rohit Khilnani']
+scores = [8]
+source = "dYDzyu-6sPo"
 subtitle = ""
-media = 'video'
-source = 'dYDzyu-6sPo'
-score = 8
+title = "Search: The Naina Murder Case"
 +++
 
 {{< youtube id="dYDzyu-6sPo" loading="lazy" >}}

@@ -1,16 +1,16 @@
 +++
-title = 'Bandaa Singh Chaudhary'
+critics = ["Deepak Dua"]
 date = 2024-11-04T10:09:17+05:30
 draft = false
-mreviews = ['Bandaa Singh Chaudhary']
-critics = ['Deepak Dua']
-publication = ''
-subtitle = "हर ’बंदा’ सिनेमा का ‘चौधरी’ नहीं होता"
+img = "bandaa-singh-chaudhary.jpg"
+media = "print"
+mreviews = ["Bandaa Singh Chaudhary"]
 opening = ""
-img = 'bandaa-singh-chaudhary.jpg'
-media = 'print'
+publication = ""
+scores = [2]
 source = "https://www.cineyatra.com/bandaa-singh-chaudhary-movie-review-by-deepak-dua/"
-score = 2
+subtitle = "हर ’बंदा’ सिनेमा का ‘चौधरी’ नहीं होता"
+title = "Bandaa Singh Chaudhary"
 +++
 
 अस्सी के दशक के पंजाब के बारे में मुमकिन है नई पीढ़ी के लोग खुल कर न जानते हों। उन्हें यह न पता हो कि सांझे चूल्हों और साझी विरासत वाली पंजाब की धरती पर उन दिनों फसलों की हरियाली से ज़्यादा बेकसूरों के खून की लाली दिखती थी। कुछ लोग थे जो परायों के बहकावे में आकर अपनों को ही मार रहे थे। जहां एक तरफ हिन्दुओं को चुन-चुन कर मारा जा रहा था और उन्हें पंजाब छोड़ने पर मजबूर किया जा रहता वहीं दूसरी तरफ सिक्ख भी पूरी तरह से सुरक्षित नहीं थे। लेकिन उस माहौल में बंदा सिंह चौधरी जैसे कुछ लोग थे जिन्होंने पलायन करने, डरने या मरने की बजाय मुकाबला करने का रास्ता चुना था। यह फिल्म ’बंदा सिंह चौधरी’ उस एक बंदे के बहाने से ऐसे लोगों के जुझारूपन की कहानी दिखाती है।

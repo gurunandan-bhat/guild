@@ -1,13 +1,13 @@
 +++
-title = 'Thug Life'
+critics = ["Anmol Jamwal"]
 date = 2025-06-07T08:24:37+05:30
 draft = false
+media = "video"
 mreviews = ["Thug Life"]
-critics = ['Anmol Jamwal']
+scores = [4]
+source = "GBYmJCSbzfo"
 subtitle = "When legends break your heart!"
-media = 'video'
-source = 'GBYmJCSbzfo'
-score = 4
+title = "Thug Life"
 +++
 
 {{< youtube id="GBYmJCSbzfo" loading="lazy" >}}

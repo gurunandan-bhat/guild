@@ -1,11 +1,11 @@
 +++
-title = "Alappuzha Gymkhana"
+critics = ["Akhil Arora"]
 date = 2025-06-19T22:54:03+05:30
 draft = false
 mreviews = ["Alappuzha Gymkhana"]
-critics = ['Akhil Arora']
+scores = [6]
 subtitle = "A Spotify Review"
-score = 6
+title = "Alappuzha Gymkhana"
 +++
 
 {{< spotify id="6cWufOZiHl2dRbEP9OklXe" height="250" >}}

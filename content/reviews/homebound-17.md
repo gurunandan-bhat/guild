@@ -1,13 +1,13 @@
 +++
-title = 'Homebound'
+critics = ["Anmol Jamwal"]
 date = 2025-09-27T09:58:33+05:30
 draft = false
+media = "video"
 mreviews = ["Homebound"]
-critics = ['Anmol Jamwal']
+scores = [8.5]
+source = "YRP7xMcijDU"
 subtitle = "The Hindi Cinema that I fell in love with"
-media = 'video'
-source = 'YRP7xMcijDU'
-score = 8.5
+title = "Homebound"
 +++
 
 {{< youtube id="YRP7xMcijDU" loading="lazy" >}}

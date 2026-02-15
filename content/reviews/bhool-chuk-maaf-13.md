@@ -1,13 +1,13 @@
 +++
-title = 'Bhool Chuk Maaf'
+critics = ["Ajay Brahmatmaj"]
 date = 2025-05-24T12:53:05+05:30
 draft = false
+media = "video"
 mreviews = ["Bhool Chuk Maaf"]
-critics = ['Ajay Brahmatmaj']
+scores = [5]
+source = "OVUlhRRs5Z4"
 subtitle = ""
-media = 'video'
-source = 'OVUlhRRs5Z4'
-score = 5
+title = "Bhool Chuk Maaf"
 +++
 
 {{< youtube id="OVUlhRRs5Z4" loading="lazy" >}}

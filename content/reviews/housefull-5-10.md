@@ -1,13 +1,13 @@
 +++
-title = 'Housefull 5'
+critics = ["Bhawana Somaaya"]
 date = 2025-06-07T08:17:48+05:30
 draft = false
+media = "video"
 mreviews = ["Housefull 5"]
-critics = ['Bhawana Somaaya']
+scores = [4]
+source = "Ssz93sB1A3o"
 subtitle = ""
-media = 'video'
-source = 'Ssz93sB1A3o'
-score = 4
+title = "Housefull 5"
 +++
 
 {{< youtube id="Ssz93sB1A3o" loading="lazy" >}}

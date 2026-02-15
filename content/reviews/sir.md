@@ -1,15 +1,15 @@
 +++
-title = 'Sir'
+critics = ["Kirubhakar Purushothaman"]
 date = 2024-10-19T13:33:12+05:30
 draft = false
-mreviews = ['Sir']
-critics = ['Kirubhakar Purushothaman']
-subtitle = "Vemal’s Period Movie Belongs To The Era It Is Set In"
+img = "sir.png"
+media = "print"
+mreviews = ["Sir"]
 opening = "Directed by actor-director Bose Venkat, Sir is about a family’s relentless and devastating crusade for rural education. Like many such Tamil films, it has 'only' its heart at the right place."
-img = 'sir.png'
-media = 'print'
+scores = [4]
 source = "https://www.news18.com/movies/sir-movie-review-vemals-period-movie-belongs-to-the-era-it-is-set-in-9090828.html"
-score = 4
+subtitle = "Vemal’s Period Movie Belongs To The Era It Is Set In"
+title = "Sir"
 +++
 
 Sir is one of those formulaic Tamil movies with a strong cause or message it wants to put across and doesn’t mind doing so at the cost of being a didactic and dated. The style, writing, brevity, and everything that makes up for a superior form take a backseat in Sir as Bose Venkat prefers coming across as an activist to a fine filmmaker. While Sir has a noble cause at its core, the execution makes it a yarnfest, and instead of getting the catharsis such social commentary aims to provide, the film invokes a sense of guilt for feeling so.

@@ -1,11 +1,11 @@
 +++
-title = "Jigra"
+critics = ["Akhil Arora"]
 date = 2024-12-23T16:13:33+05:30
 draft = false
 mreviews = ["Jigra"]
-critics = ['Akhil Arora']
+scores = [6]
 subtitle = "A Spotify Review"
-score = 6
+title = "Jigra"
 +++
 
 {{< spotify id="2S8hmN3utSD0Mpdwz7oWcq" height="250" >}}

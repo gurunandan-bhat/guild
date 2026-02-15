@@ -1,16 +1,16 @@
 +++
-title = "Happy Patel: Khatarnak Jasoos"
+critics = ["Deepak Dua"]
 date = 2026-01-17T01:32:03+05:30
 draft = false
+img = "happy-patel-khatarnak-jasoos-2.jpg"
+media = "print"
 mreviews = ["Happy Patel: Khatarnak Jasoos"]
-critics = ['Deepak Dua']
-publication = ''
-subtitle = "शोर करता बोर करता ‘हैप्पी पटेल’"
 opening = ""
-img = 'happy-patel-khatarnak-jasoos-2.jpg'
-media = 'print'
+publication = ""
+scores = [2]
 source = "https://www.cineyatra.com/happy-patel-khatarnak-jasoos-movie-review-by-deepak-dua/"
-score = 2
+subtitle = "शोर करता बोर करता ‘हैप्पी पटेल’"
+title = "Happy Patel: Khatarnak Jasoos"
 +++
 
 इस फिल्म ‘हैप्पी पटेल-खतरनाक जासूस’ (Happy Patel-Khatarnak Jasoos) पर रिसर्च की जानी चाहिए। मैं खुद बहुत उत्सुकता से यह जानना चाहूंगा कि इस फिल्म के लेखकों वीर दास और अमोघ रणदिवे में से किस के दिमाग में इस कहानी का आइडिया पहली बार आया होगा? कैसे उन्होंने उस कहानी पर इस तरह की ऐसी स्क्रिप्ट लिखी होगी? कैसे आमिर खान जैसा निर्माता इस पर दांव लगाने को तैयार हो गया होगा? आखिर क्या दिखा होगा आमिर को उस स्क्रिप्ट में, उस स्क्रिप्ट पर बनी फिल्म में? ऐसा नहीं है कि इस फिल्म ‘हैप्पी पटेल-खतरनाक जासूस’ (Happy Patel-Khatarnak Jasoos) में कहानी नहीं है। बिल्कुल है और ऐसी है कि यदि उसे सलीके से फैलाया जाए तो उस पर तीन-चार घंटे की फिल्म बन सकती है। लेकिन दिक्कत यही है कि इस फिल्म में से वह ‘सलीका’ ही तो गायब है जो किसी कहानी को रोचक बनाता है। यही कारण है कि सिर्फ दो घंटे की यह फिल्म ज़बर्दस्त शोर से शुरू होकर महाबोर करते हुए शोर में ही खत्म हो जाती है।

@@ -1,15 +1,15 @@
 +++
-title = 'Do Patti'
+critics = ["Upma Singh"]
 date = 2024-10-29T06:33:52+05:30
 draft = false
-mreviews = ['Do Patti']
-critics = ['Upma Singh']
-subtitle = "यह कहानी है, दो जुड़वा बहनों सौम्या और शैली (कृति सेनन) की"
+img = "do-patti-6.webp"
+media = "print"
+mreviews = ["Do Patti"]
 opening = "सस्पेंस की चादर में लिपटी यह संवेदनशील विषय वाली फिल्म एक बार जरूर देखी जा सकती है"
-img = 'do-patti-6.webp'
-media = 'print'
+scores = [4]
 source = "https://navbharattimes.indiatimes.com/entertainment/movie-review/do-patti-movie-review-in-hindi-starring-kajol-kriti-sanon-shaheer-sheikh-on-netflix/moviereview/114574975.cms"
-score = 4
+subtitle = "यह कहानी है, दो जुड़वा बहनों सौम्या और शैली (कृति सेनन) की"
+title = "Do Patti"
 +++
 
 पति-पत्नी के रिश्ते में जब प्यार की जगह हिंसा ले ले, तो चोट पूरे परिवार और खासकर बच्चों को लगती है। घरेलू हिंसा का यह जख्म कभी-कभी इतना गहरा होता है कि पूरा घर बिखर जाता है। विडंबना देखिए, हिंसा के इतने खतरनाक रूप को 'घरेलू' कहा जाता है, जिस कारण घर से बाहर के ज्यादातर लोग पति-पत्नी के इस आपसी मामले में दखल तक नहीं देते। घरेलू हिंसा की इसी कड़वी सच्‍चाई को दो बहनों की राइवलरी के मसालेदार पैकेजिंग में लपेटकर पेश करती है, एक्ट्रेस कृति सेनन और राइटर कनिका ढिल्लों के बैनर की डेब्यू फिल्म 'दो पत्ती'।

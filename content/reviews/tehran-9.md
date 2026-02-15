@@ -1,11 +1,11 @@
 +++
-title = "Tehran"
+critics = ["Akhil Arora"]
 date = 2025-08-22T12:55:04+05:30
 draft = false
 mreviews = ["Tehran"]
-critics = ['Akhil Arora']
+scores = [2]
 subtitle = "The Long Take: A Spotify Review"
-score = 2
+title = "Tehran"
 +++
 
 {{< spotify id="3EXCZqMhHZZ4IBkeV1f9Dd" height="250" >}}

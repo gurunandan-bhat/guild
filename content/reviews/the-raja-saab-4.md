@@ -1,13 +1,13 @@
 +++
-title = 'The Raja Saab'
+critics = ["Anmol Jamwal"]
 date = 2026-01-10T10:04:03+05:30
 draft = false
+media = "video"
 mreviews = ["The Raja Saab"]
-critics = ['Anmol Jamwal']
+scores = [2]
+source = "EtxPwZM2uWU"
 subtitle = "Prabhas needs to stop doing favours "
-media = 'video'
-source = 'EtxPwZM2uWU'
-score = 2
+title = "The Raja Saab"
 +++
 
 {{< youtube id="EtxPwZM2uWU" loading="lazy" >}}

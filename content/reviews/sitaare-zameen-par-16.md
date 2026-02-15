@@ -1,13 +1,13 @@
 +++
-title = 'Sitaare Zameen Par'
+critics = ["Sucharita Tyagi"]
 date = 2025-06-21T21:04:33+05:30
 draft = false
+media = "video"
 mreviews = ["Sitaare Zameen Par"]
-critics = ['Sucharita Tyagi']
+scores = [6]
+source = "j94U68Qf_-U"
 subtitle = "So how do *YOU* feel about Sitaare Zameen Par?"
-media = 'video'
-source = 'j94U68Qf_-U'
-score = 6
+title = "Sitaare Zameen Par"
 +++
 
 {{< youtube id="j94U68Qf_-U" loading="lazy" >}}

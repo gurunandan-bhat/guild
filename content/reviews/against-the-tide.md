@@ -1,16 +1,16 @@
 +++
-title = 'Against the Tide'
+critics = ["Poulomi Das"]
 date = 2024-11-16T10:33:01+05:30
 draft = false
-mreviews = ['Against the Tide']
-critics = ['Poulomi Das']
-publication = 'HyperAllergic'
-subtitle = "A Tale of Two Indigenous Fishermen in Mumbai"
+img = "against-the-tide.webp"
+media = "print"
+mreviews = ["Against the Tide"]
 opening = "Against the Tide examines Mumbai’s Koli community’s drift between tradition and progress."
-img = 'against-the-tide.webp'
-media = 'print'
+publication = "HyperAllergic"
+scores = [9]
 source = "https://hyperallergic.com/803829/a-tale-of-two-indigenous-fishermen-in-mumbai-against-the-tide-sarvnik-kaur/"
-score = 9
+subtitle = "A Tale of Two Indigenous Fishermen in Mumbai"
+title = "Against the Tide"
 +++
 
 The story of Mumbai, India’s largest city, is linked inextricably with the story of the Kolis, the lower-caste, Indigenous fisherfolk community whose koliwadas (villages) dot the coastline. Until the 1800s, what we know as Mumbai today used to be an archipelago of seven islands, harmoniously inhabited by Koli communities. These islands turned into a city due to human intervention — a product of several land reclamation projects that also enabled the displacement of Mumbai’s original inhabitants.

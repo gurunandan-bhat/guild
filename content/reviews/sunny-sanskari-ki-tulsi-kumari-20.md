@@ -1,11 +1,11 @@
 +++
-title = "Sunny Sanskari Ki Tulsi Kumari"
+critics = ["Akhil Arora"]
 date = 2025-12-01T20:03:15+05:30
 draft = false
 mreviews = ["Sunny Sanskari Ki Tulsi Kumari"]
-critics = ['Akhil Arora']
+scores = [1]
 subtitle = "A Spotify Review"
-score = 1
+title = "Sunny Sanskari Ki Tulsi Kumari"
 +++
 
 {{< spotify id="0Oc9iIRO7desoxAkgXQsx8" height="250" >}}

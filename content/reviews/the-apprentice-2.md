@@ -1,15 +1,15 @@
 +++
-title = 'The Apprentice'
+critics = ["Shomini Sen"]
 date = 2024-10-19T13:30:38+05:30
 draft = false
-mreviews = ['The Apprentice']
-critics = ['Shomini Sen']
-subtitle = "Jeremy Strong delivers stand out performance in Abbasi's film on Donald Trump"
+img = "the-apprentice-2.png"
+media = "print"
+mreviews = ["The Apprentice"]
 opening = "The Apprentice shows Trump (played stupendously well by Sebastian Stan) in his usual megalomaniac, ruthless avatar – an image that Trump has over the years created – painstakingly, if I may add so – but also humanises him to a certain extent."
-img = 'the-apprentice-2.png'
-media = 'print'
+scores = [9]
 source = "https://www.wionews.com/entertainment/hollywood/news-the-apprentice-review-jeremy-strong-delivers-stand-out-performance-in-abbasis-film-on-donald-trump-768733"
-score = 9
+subtitle = "Jeremy Strong delivers stand out performance in Abbasi's film on Donald Trump"
+title = "The Apprentice"
 +++
 
 Former United States president and presidential candidate Donald Trump went on a rant recently on filmmaker Ali Abbasi's latest film The Apprentice, which narrates the Republican's initial years as a real estate giant in New York and his relationship with attorney Roy Cohn. Perhaps, Trump's reaction stems from information that is fed to him because had he watched the film, he may have only objected to certain aspects of Abbasi's provocative film and not ranted about it in its entirety.

@@ -1,11 +1,11 @@
 +++
-title = "Angry Young Men"
+critics = ["Akhil Arora"]
 date = 2024-08-19T13:09:32+05:30
 draft = false
 mreviews = ["Angry Young Men"]
-critics = ['Akhil Arora']
+scores = [4]
 subtitle = "A Spotify Review"
-score = 4
+title = "Angry Young Men"
 +++
 
 {{< spotify id="6eE5aui1y9iBRlcayBc3PX" height="250" >}}

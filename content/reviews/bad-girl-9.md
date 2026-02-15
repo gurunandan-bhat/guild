@@ -1,13 +1,13 @@
 +++
-title = 'Bad Girl'
+critics = ["Rohit Khilnani"]
 date = 2025-09-30T08:24:33+05:30
 draft = false
+media = "video"
 mreviews = ["Bad Girl"]
-critics = ['Rohit Khilnani']
+scores = [8]
+source = "DAi521auZ0A"
 subtitle = ""
-media = 'video'
-source = 'DAi521auZ0A'
-score = 8
+title = "Bad Girl"
 +++
 
 {{< youtube id="DAi521auZ0A" loading="lazy" >}}

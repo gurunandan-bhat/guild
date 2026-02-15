@@ -1,13 +1,13 @@
 +++
-title = 'Stolen'
+critics = ["Sudhir Srinivasan"]
 date = 2025-06-16T17:15:33+05:30
 draft = false
+media = "video"
 mreviews = ["Stolen"]
-critics = ['Sudhir Srinivasan']
+scores = [8]
+source = "S-NMhxQBki4"
 subtitle = "The Long Review: Stolen"
-media = 'video'
-source = 'S-NMhxQBki4'
-score = 8
+title = "Stolen"
 +++
 
 {{< youtube id="S-NMhxQBki4" loading="lazy" >}}

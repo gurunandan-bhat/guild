@@ -1,11 +1,11 @@
 +++
-title = "LSD2: Love, Sex Aur Dhoka 2"
+critics = ["Akhil Arora"]
 date = 2024-06-16T11:06:01+05:30
 draft = false
 mreviews = ["LSD2: Love, Sex Aur Dhoka 2"]
-critics = ['Akhil Arora']
+scores = [2]
 subtitle = "A Spotify Review"
-score = 2
+title = "LSD2: Love, Sex Aur Dhoka 2"
 +++
 
 {{< spotify id="4NFQbBaxshD6Os40KslE7P" height="250" >}}

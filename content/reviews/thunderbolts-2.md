@@ -1,13 +1,13 @@
 +++
-title = 'Thunderbolts*'
+critics = ["Sucharita Tyagi"]
 date = 2025-05-01T16:30:39+05:30
 draft = false
+media = "video"
 mreviews = ["Thunderbolts*"]
-critics = ['Sucharita Tyagi']
+scores = [7]
+source = "_ZARlyC9bE8"
 subtitle = "Thunderbolts isn’t earth shattering but..."
-media = 'video'
-source = '_ZARlyC9bE8'
-score = 7
+title = "Thunderbolts*"
 +++
 
 {{< youtube id="_ZARlyC9bE8" loading="lazy" >}}

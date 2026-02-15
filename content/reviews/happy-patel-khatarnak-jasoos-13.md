@@ -1,13 +1,13 @@
 +++
-title = 'Happy Patel: Khatarnak Jasoos'
+critics = ["Rohit Khilnani"]
 date = 2026-01-19T17:04:07+05:30
 draft = false
+media = "video"
 mreviews = ["Happy Patel: Khatarnak Jasoos"]
-critics = ['Rohit Khilnani']
+scores = [6]
+source = "ZAqYyGk4J-Q"
 subtitle = ""
-media = 'video'
-source = 'ZAqYyGk4J-Q'
-score = 6
+title = "Happy Patel: Khatarnak Jasoos"
 +++
 
 {{< youtube id="ZAqYyGk4J-Q" loading="lazy" >}}

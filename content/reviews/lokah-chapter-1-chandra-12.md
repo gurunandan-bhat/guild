@@ -1,11 +1,11 @@
 +++
-title = "Lokah Chapter 1: Chandra"
+critics = ["Rohan Naahar"]
 date = 2025-11-10T09:54:41+05:30
 draft = false
 mreviews = ["Lokah Chapter 1: Chandra"]
-critics = ['Rohan Naahar']
+scores = [3]
 subtitle = "A Spotify Review"
-score = 3
+title = "Lokah Chapter 1: Chandra"
 +++
 
 {{< spotify id="2KR2xrucYcFU0c7FE4gvz4" height="250" >}}

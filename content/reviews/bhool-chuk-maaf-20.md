@@ -1,13 +1,13 @@
 +++
-title = 'Bhool Chuk Maaf'
+critics = ["Rohit Khilnani"]
 date = 2025-05-23T11:46:47+05:30
 draft = false
+media = "video"
 mreviews = ["Bhool Chuk Maaf"]
-critics = ['Rohit Khilnani']
+scores = [3]
+source = "MHAfGtsDWls"
 subtitle = ""
-media = 'video'
-source = 'MHAfGtsDWls'
-score = 3
+title = "Bhool Chuk Maaf"
 +++
 
 {{< youtube id="MHAfGtsDWls" loading="lazy" >}}

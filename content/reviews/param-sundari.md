@@ -1,16 +1,16 @@
 +++
-title = "Param Sundari"
+critics = ["Bharathi Pradhan"]
 date = 2025-08-29T19:28:51+05:30
 draft = false
+img = "param-sundari.webp"
+media = "print"
 mreviews = ["Param Sundari"]
-critics = ['Bharathi Pradhan']
-publication = ''
-subtitle = "Namaskaram To A Param Cliché"
 opening = ""
-img = 'param-sundari.webp'
-media = 'print'
+publication = ""
+scores = [2]
 source = "https://lehren.com/param-sundari-movie-review-namaskaram-to-a-param-cliche/"
-score = 2
+subtitle = "Namaskaram To A Param Cliché"
+title = "Param Sundari"
 +++
 
 A pamphlet from the Kerala Tourism department will mention

@@ -1,13 +1,13 @@
 +++
-title = 'Bayaan'
+critics = ["Sucharita Tyagi"]
 date = 2025-09-15T22:58:32+05:30
 draft = false
+media = "video"
 mreviews = ["Bayaan"]
-critics = ['Sucharita Tyagi']
+scores = [6]
+source = "UEkGWG3bZCg"
 subtitle = "Tends to get patchy, occasionally tripping on clunky dialogue and rushed writing "
-media = 'video'
-source = 'UEkGWG3bZCg'
-score = 6
+title = "Bayaan"
 +++
 
 {{< youtube id="UEkGWG3bZCg" loading="lazy" >}}

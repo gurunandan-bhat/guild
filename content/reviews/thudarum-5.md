@@ -1,13 +1,13 @@
 +++
-title = 'Thudarum'
+critics = ["Anupama Chopra"]
 date = 2025-06-12T22:47:01+05:30
 draft = false
+media = "video"
 mreviews = ["Thudarum"]
-critics = ['Anupama Chopra']
+scores = [7]
+source = "hG-G8IDs_Sk"
 subtitle = "Works because it's essentially Mohanlal creating his own subgenre"
-media = 'video'
-source = 'hG-G8IDs_Sk'
-score = 7
+title = "Thudarum"
 +++
 
 {{< youtube id="hG-G8IDs_Sk" loading="lazy" >}}

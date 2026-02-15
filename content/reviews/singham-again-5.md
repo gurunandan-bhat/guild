@@ -1,15 +1,15 @@
 +++
-title = 'Singham Again'
+critics = ["Ishita Sengupta"]
 date = 2024-11-01T21:26:28+05:30
 draft = false
-mreviews = ['Singham Again']
-critics = ['Ishita Sengupta']
-subtitle = "A Modern-Day, Cop-Addled Reimagination Of The Ramayana"
+img = "singham-again-5.png"
+media = "print"
+mreviews = ["Singham Again"]
 opening = ""
-img = 'singham-again-5.png'
-media = 'print'
+scores = [1]
 source = "https://www.ottplay.com/features/singham-again-a-modern-day-cop-addled-reimagination-of-the-ramayana/ec04adb7ce879"
-score = 1
+subtitle = "A Modern-Day, Cop-Addled Reimagination Of The Ramayana"
+title = "Singham Again"
 +++
 
 Of all the improbable things in Rohit Shetty’s Singham Again, like a car flying over a helicopter, like the same car landing without a scratch, like gifted actors dialling down their craft to match the trite script, like six people writing that script, like Ajay Devgn mistaking walking for acting, like the film mistaking walking for acting, the one that sticks out the most is Shetty assembling half the Hindi film industry (an exaggeration but you get the drift) to combat Arjun Kapoor.

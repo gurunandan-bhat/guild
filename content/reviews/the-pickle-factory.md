@@ -1,16 +1,16 @@
 +++
-title = 'The Pickle Factory'
+critics = ["Rahul Desai"]
 date = 2025-01-02T20:57:11+05:30
 draft = false
-mreviews = ['The Pickle Factory']
-critics = ['Rahul Desai']
-publication = ''
-subtitle = "Tanya Maniktala, Ritwik Bhowmik Star In A Dull and Immature Workplace Comedy"
+img = "the-pickle-factory.webp"
+media = "print"
+mreviews = ["The Pickle Factory"]
 opening = "Despite a promising cast, the 10-episode show remains frustratingly low on genre humour and feel-goodness."
-img = 'the-pickle-factory.webp'
-media = 'print'
+publication = ""
+scores = [4]
 source = "https://www.hollywoodreporterindia.com/reviews/streaming/the-pickle-factory-series-review-tanya-maniktala-ritwik-bhowmik-star-in-a-dull-and-immature-workplace-comedy"
-score = 4
+subtitle = "Tanya Maniktala, Ritwik Bhowmik Star In A Dull and Immature Workplace Comedy"
+title = "The Pickle Factory"
 +++
 
 The Pickle Factory is what happens when The Office (U.S.) and Better Life Foundation (India) reluctantly get married (arranged) and have a pious, Doordarshan-loving child that refuses to grow up. It’s the kind of stagey and adolescent workplace comedy that went out of fashion years ago. You want it to work, of course, for several reasons. The 10-episode show revolves around the quirky employees of a family-run pickle company; imagine the readymade Hindi ‘achaar’ proverbs.

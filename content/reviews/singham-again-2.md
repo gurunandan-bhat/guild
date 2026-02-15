@@ -1,13 +1,13 @@
 +++
-title = 'Singham Again'
+critics = ["Rohit Khilnani"]
 date = 2024-11-01T18:35:12+05:30
 draft = false
-mreviews = ['Singham Again']
-critics = ['Rohit Khilnani']
-subtitle = ''
-media = 'video'
-source = '0ft4jpJofro'
-score = 8
+media = "video"
+mreviews = ["Singham Again"]
+scores = [8]
+source = "0ft4jpJofro"
+subtitle = ""
+title = "Singham Again"
 +++
 
 {{< youtube id="0ft4jpJofro" loading="lazy" >}}

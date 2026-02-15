@@ -1,14 +1,14 @@
 +++
-title = 'Jugnuma'
-translatedTitle = "The Fable"
+critics = ["Sucharita Tyagi"]
 date = 2025-09-14T06:50:30+05:30
 draft = false
+media = "video"
 mreviews = ["Jugnuma"]
-critics = ['Sucharita Tyagi']
+scores = [7]
+source = "eF5QkYpdrGI"
 subtitle = "Might leave you with some unanswered questions."
-media = 'video'
-source = 'eF5QkYpdrGI'
-score = 7
+title = "Jugnuma"
+translatedTitle = "The Fable"
 +++
 
 {{< youtube id="eF5QkYpdrGI" loading="lazy" >}}

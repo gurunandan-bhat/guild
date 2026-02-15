@@ -1,13 +1,13 @@
 +++
-title = 'Lokah Chapter 1: Chandra'
+critics = ["Avinash Ramachandran"]
 date = 2025-09-07T08:36:23+05:30
 draft = false
+media = "video"
 mreviews = ["Lokah Chapter 1: Chandra"]
-critics = ['Avinash Ramachandran']
+scores = [8.5]
+source = "I1msbGMlRaw"
 subtitle = ""
-media = 'video'
-source = 'I1msbGMlRaw'
-score = 8.5
+title = "Lokah Chapter 1: Chandra"
 +++
 
 {{< youtube id="I1msbGMlRaw" loading="lazy" >}}

@@ -1,13 +1,13 @@
 +++
-title = 'Costao'
+critics = ["Ajay Brahmatmaj"]
 date = 2025-05-01T12:20:48+05:30
 draft = false
+media = "video"
 mreviews = ["Costao"]
-critics = ['Ajay Brahmatmaj']
+scores = [5]
+source = "-QK6b7h_yng"
 subtitle = ""
-media = 'video'
-source = '-QK6b7h_yng'
-score = 5
+title = "Costao"
 +++
 
 {{< youtube id="-QK6b7h_yng" loading="lazy" >}}

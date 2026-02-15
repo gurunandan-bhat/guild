@@ -1,13 +1,13 @@
 +++
-title = 'Akhanda 2'
+critics = ["Anmol Jamwal"]
 date = 2025-12-13T00:09:56+05:30
 draft = false
+media = "video"
 mreviews = ["Akhanda 2"]
-critics = ['Anmol Jamwal']
+scores = [3]
+source = "dTrXTQnfSAU"
 subtitle = "3 hours of WhatsApp forwards and pseudoscience"
-media = 'video'
-source = 'dTrXTQnfSAU'
-score = 3
+title = "Akhanda 2"
 +++
 
 {{< youtube id="dTrXTQnfSAU" loading="lazy" >}}

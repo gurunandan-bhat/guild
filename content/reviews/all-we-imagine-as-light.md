@@ -1,16 +1,16 @@
 +++
-title = 'All We Imagine as Light'
+critics = ["Upma Singh"]
 date = 2024-11-23T08:35:34+05:30
 draft = false
-mreviews = ['All We Imagine as Light']
-critics = ['Upma Singh']
-publication = ''
-subtitle = "रंगीनियत से परे वाली स्याह मुंबई के नाम प्रेम गीत"
+img = "all-we-imagine-as-light.webp"
+media = "print"
+mreviews = ["All We Imagine as Light"]
 opening = ""
-img = 'all-we-imagine-as-light.webp'
-media = 'print'
+publication = ""
+scores = [8]
 source = "https://navbharattimes.indiatimes.com/entertainment/movie-review/all-we-imagine-as-light-movie-review-in-hindi-starring-kani-kusruti-divya-prabha-chhaya-kadam-directed-by-payal-kapadia/moviereview/115552575.cms"
-score = 8
+subtitle = "रंगीनियत से परे वाली स्याह मुंबई के नाम प्रेम गीत"
+title = "All We Imagine as Light"
 +++
 
 बॉलीवुड की फिल्मों में मुंबई को हमेशा खूब रोमांटिसाइज किया गया है। मसलन, बड़ी-बड़ी इमारतें, बाहें खोले समंदर, चकाचौंध भरी जिंदगी, प्यार का अहसास दिलाती बारिश, लेकिन इस सारी चमक-दमक के बीच यहां बहुत से ऐसे लोग हैं, जो अपने हिस्से की रोशनी के लिए रोज संघर्ष करते हैं। जो यहां की तमाम भीड़ में भी अकेले हैं। ये वो हैं, जो रोज उठते हैं, काम पर जाते हैं और लौटकर आ जाते हैं। इनकी जिंदगी इस भागते शहर में भी ठहरी हुई है। पायल कपाड़िया की कान फिल्म फेस्टिवल में प्रतिष्ठित 'ग्रां प्री अवॉर्ड' जीतकर इतिहास रचने वाली फिल्म 'ऑल वी इमेजिन एज लाइट' रंगीनियत से परे वाली इसी स्याह मुंबई के नाम प्रेम गीत है।

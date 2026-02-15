@@ -1,13 +1,13 @@
 +++
-title = 'The Ba***ds of Bollywood'
+critics = ["Rohit Khilnani"]
 date = 2025-09-20T14:31:52+05:30
 draft = false
+media = "video"
 mreviews = ["The Ba***ds of Bollywood"]
-critics = ['Rohit Khilnani']
+scores = [8]
+source = "buMWGpP4l8k"
 subtitle = ""
-media = 'video'
-source = 'buMWGpP4l8k'
-score = 8
+title = "The Ba***ds of Bollywood"
 +++
 
 {{< youtube id="buMWGpP4l8k" loading="lazy" >}}

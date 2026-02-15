@@ -1,11 +1,11 @@
 +++
-title = "The Girlfriend"
+critics = ["Rohan Naahar"]
 date = 2025-12-05T20:01:24+05:30
 draft = false
 mreviews = ["The Girlfriend"]
-critics = ['Rohan Naahar']
+scores = [3]
 subtitle = "A Spotify Review"
-score = 3
+title = "The Girlfriend"
 +++
 
 {{< spotify id="3C44LjuUCgHNjyyNm1HT7G" height="250" >}}

@@ -1,11 +1,11 @@
 +++
-title = "Murder Mubarak"
+critics = ["Akhil Arora"]
 date = 2024-03-20T12:13:32+05:30
 draft = false
 mreviews = ["Murder Mubarak"]
-critics = ['Akhil Arora']
+scores = [4]
 subtitle = "A Spotify Review"
-score = 4
+title = "Murder Mubarak"
 +++
 
 {{< spotify id="45ImSDI1v7wfLna0Vz44ni" height="250" >}}

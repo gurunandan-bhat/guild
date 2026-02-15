@@ -1,11 +1,11 @@
 +++
-title = "CTRL"
+critics = ["Akhil Arora"]
 date = 2024-10-04T09:10:40+05:30
 draft = false
 mreviews = ["CTRL"]
-critics = ['Akhil Arora']
+scores = [3]
 subtitle = "A Spotify Review"
-score = 3
+title = "CTRL"
 +++
 
 {{< spotify id="3gzSkjYJbS7BXQPQTJwnJY" height="250" >}}

@@ -1,16 +1,16 @@
 +++
-title = 'All We Imagine as Light'
+critics = ["Renuka Vyavahare"]
 date = 2024-11-24T18:18:28+05:30
 draft = false
-mreviews = ['All We Imagine as Light']
-critics = ['Renuka Vyavahare']
-publication = ''
-subtitle = "An enchanting ode to hope, desire & sisterhood"
+img = "all-we-imagine-as-light-4.webp"
+media = "print"
+mreviews = ["All We Imagine as Light"]
 opening = "There’s a certain tenderness and ease to the flow in storytelling that feels cathartic."
-img = 'all-we-imagine-as-light-4.webp'
-media = 'print'
+publication = ""
+scores = [8]
 source = "https://timesofindia.indiatimes.com/entertainment/malayalam/movie-reviews/all-we-imagine-as-light/movie-review/115540272.cms"
-score = 8
+subtitle = "An enchanting ode to hope, desire & sisterhood"
+title = "All We Imagine as Light"
 +++
 
 Payal Kapadia’s enchanting ode to sisterhood and the glaring contrasts of Mumbai has a tranquil charm to it. There’s a certain tenderness and ease to the flow in storytelling that makes you see the city in a new light, even if you have been a Mumbaikar all your life. Watching Kapadia’s three protagonists setting themselves free from societal and psychological shackles to embrace their desires, gives you that warm fuzzy feeling.

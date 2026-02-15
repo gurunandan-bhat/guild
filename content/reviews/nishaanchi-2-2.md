@@ -1,11 +1,11 @@
 +++
-title = "Nishaanchi 2"
+critics = ["Akhil Arora"]
 date = 2025-11-24T19:56:53+05:30
 draft = false
 mreviews = ["Nishaanchi 2"]
-critics = ['Akhil Arora']
+scores = [8]
 subtitle = "A Spotify Review"
-score = 8
+title = "Nishaanchi 2"
 +++
 
 {{< spotify id="3XjtSXbh9EdJQB9GOVL1kI" height="250" >}}

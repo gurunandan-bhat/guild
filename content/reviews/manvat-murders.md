@@ -1,15 +1,15 @@
 +++
-title = 'Manvat Murders'
+critics = ["Bharathi Pradhan"]
 date = 2024-10-04T11:22:12+05:30
 draft = false
-mreviews = ['Manvat Murders']
-subtitle = 'Women &amp; Crime &mdash; Raw, Real &amp; Ruthless'
-opening = ''
-img = 'manvat-murders.jpg'
-source = 'https://lehren.com/entertainment/reviews/manvat-murders-review-women-crime-raw-real-ruthless/203246/'
-critics = ['Bharathi Pradhan']
-media = 'print'
-score = 7
+img = "manvat-murders.jpg"
+media = "print"
+mreviews = ["Manvat Murders"]
+opening = ""
+scores = [7]
+source = "https://lehren.com/entertainment/reviews/manvat-murders-review-women-crime-raw-real-ruthless/203246/"
+subtitle = "Women &amp; Crime &mdash; Raw, Real &amp; Ruthless"
+title = "Manvat Murders"
 +++
 
 The ritualistic Manwat Murders which brutally claimed the lives of innocent children and women and shook Maharashtra in the 70s, does it again. Amol Palekar had already put it effectively on screen in Akriet (1981).

@@ -1,15 +1,15 @@
 +++
-title = 'Vicky Vidya Ka Woh Wala Video'
+critics = ["Anuj Kumar"]
 date = 2024-10-25T15:29:52+05:30
 draft = false
-mreviews = ['Vicky Vidya Ka Woh Wala Video']
-critics = ['Anuj Kumar']
-subtitle = "Rajkummar Rao enlivens this long title with a short shelf life"
+img = "vicky-vidya-ka-woh-wala-video-9.jpg"
+media = "print"
+mreviews = ["Vicky Vidya Ka Woh Wala Video"]
 opening = "Promising to be a laugh riot, Raaj Shaandilyaa’s bouquet of comic characters doesn’t bloom to its potential"
-img = 'vicky-vidya-ka-woh-wala-video-9.jpg'
-media = 'print'
+scores = [5]
 source = "https://www.thehindu.com/entertainment/movies/vicky-vidya-ka-woh-wala-video-movie-review-rajkummar-rao-enlivens-this-long-title-with-a-short-shelf-life/article68744127.ece"
-score = 5
+subtitle = "Rajkummar Rao enlivens this long title with a short shelf life"
+title = "Vicky Vidya Ka Woh Wala Video"
 +++
 
 Coming from a background in writing low-brow comedy skits for television, director Raaj Shaandilyaa has this knack for creating funny characters rooted in mofussil towns that generate mirth by engaging in rollicking repartees. His broad humour emanates from deep observation and understanding of the cultural mores of a conservative society coming to terms with socio-economic liberalisation in the 1990s. However, Shaandilya’s skill to combine the comic sketches into a wholesome screenplay is still a work in progress, resulting in a disappointing outcome.

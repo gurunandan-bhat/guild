@@ -1,13 +1,13 @@
 +++
-title = 'DNA'
+critics = ["Sudhir Srinivasan"]
 date = 2025-06-23T10:15:00+05:30
 draft = false
+media = "video"
 mreviews = ["DNA"]
-critics = ['Sudhir Srinivasan']
+scores = [4.5]
+source = "UesVodBjAk4"
 subtitle = "The Long Review: DNA"
-media = 'video'
-source = 'UesVodBjAk4'
-score = 4.5
+title = "DNA"
 +++
 
 {{< youtube id="UesVodBjAk4" loading="lazy" >}}

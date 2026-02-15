@@ -1,13 +1,13 @@
 +++
-title = 'Materialists'
+critics = ["Sucharita Tyagi"]
 date = 2025-06-13T18:31:16+05:30
 draft = false
+media = "video"
 mreviews = ["Materialists"]
-critics = ['Sucharita Tyagi']
+scores = [9]
+source = "nrcs8QC1nYY"
 subtitle = "Pedro Pascal Has A Hold On Me!"
-media = 'video'
-source = 'nrcs8QC1nYY'
-score = 9
+title = "Materialists"
 +++
 
 {{< youtube id="nrcs8QC1nYY" loading="lazy" >}}

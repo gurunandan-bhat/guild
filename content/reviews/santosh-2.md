@@ -1,16 +1,16 @@
 +++
-title = 'Santosh'
+critics = ["Sonal Pandya"]
 date = 2024-11-18T00:29:55+05:30
 draft = false
-mreviews = ['Santosh']
-critics = ['Sonal Pandya']
-publication = ''
-subtitle = "Shahana Goswami, Sunita Rajwar Are Compelling In Powerful Police Drama"
+img = "santosh-2.webp"
+media = "print"
+mreviews = ["Santosh"]
 opening = "Director Sandhya Suri's first feature is a searing take on religion, caste, corruption, politics, and more as seen through the eyes of two female police officers."
-img = 'santosh-2.webp'
-media = 'print'
+publication = ""
+scores = [9]
 source = "https://www.timesnownews.com/entertainment-news/reviews/santosh-movie-review-shahana-goswami-sunita-rajwar-are-compelling-in-powerful-police-drama-review-114732605"
-score = 9
+subtitle = "Shahana Goswami, Sunita Rajwar Are Compelling In Powerful Police Drama"
+title = "Santosh"
 +++
 
 Documentarian Sandhya Suri's feature debut, Santosh, revolves around a widow who is trying to find her feet after her husband's untimely death. The simple narrative evolves into a more complex police procedural that will leave you unsettled by the end of it. Starring Shahana Goswami and Sunita Rajwar, Santosh had its world premiere in the Un Certain Regard section at the Cannes Film Festival this year. It is also the UK's official Oscar entry for Best International Feature for 2025.

@@ -1,13 +1,13 @@
 +++
-title = 'Nishaanchi'
+critics = ["Rohit Khilnani"]
 date = 2025-09-20T14:30:26+05:30
 draft = false
+media = "video"
 mreviews = ["Nishaanchi"]
-critics = ['Rohit Khilnani']
+scores = [7]
+source = "weuof-HaemY"
 subtitle = ""
-media = 'video'
-source = 'weuof-HaemY'
-score = 7
+title = "Nishaanchi"
 +++
 
 {{< youtube id="weuof-HaemY" loading="lazy" >}}

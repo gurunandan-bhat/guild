@@ -1,13 +1,13 @@
 +++
-title = 'Border 2'
+critics = ["Anupama Chopra"]
 date = 2026-01-25T18:58:34+05:30
 draft = false
+media = "video"
 mreviews = ["Border 2"]
-critics = ['Anupama Chopra']
+scores = [5]
+source = "yUT-JuMx7vI"
 subtitle = "The war scenes grow repetitive even as the emotional ones hit the high notes."
-media = 'video'
-source = 'yUT-JuMx7vI'
-score = 5
+title = "Border 2"
 +++
 
 {{< youtube id="yUT-JuMx7vI" loading="lazy" >}}

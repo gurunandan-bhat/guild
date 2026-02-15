@@ -1,11 +1,11 @@
 +++
-title = "The Diplomat"
+critics = ["Akhil Arora"]
 date = 2025-05-12T14:14:50+05:30
 draft = false
 mreviews = ["The Diplomat"]
-critics = ['Akhil Arora']
+scores = [2]
 subtitle = "A Spotify Review"
-score = 2
+title = "The Diplomat"
 +++
 
 {{< spotify id="3Zv5dmsUnCjw0iDL5mJNPT" height="250" >}}

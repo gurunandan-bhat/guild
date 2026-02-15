@@ -1,13 +1,13 @@
 +++
-title = 'Kannappa'
+critics = ["Anmol Jamwal"]
 date = 2025-06-29T16:40:19+05:30
 draft = false
+media = "video"
 mreviews = ["Kannappa"]
-critics = ['Anmol Jamwal']
+scores = [2]
+source = "EYYeCDT0Cg4"
 subtitle = "3 hours of devotion needed better direction"
-media = 'video'
-source = 'EYYeCDT0Cg4'
-score = 2
+title = "Kannappa"
 +++
 
 {{< youtube id="EYYeCDT0Cg4" loading="lazy" start=363 >}}

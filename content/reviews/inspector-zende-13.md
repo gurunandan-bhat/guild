@@ -1,11 +1,11 @@
 +++
-title = "Inspector Zende"
+critics = ["Akhil Arora"]
 date = 2025-09-11T12:30:40+05:30
 draft = false
 mreviews = ["Inspector Zende"]
-critics = ['Akhil Arora']
+scores = [5]
 subtitle = "The Long Take: A Spotify Review"
-score = 5
+title = "Inspector Zende"
 +++
 
 {{< spotify id="5rJ92Yi6AegzNZtfHTAKAl" height="250" >}}

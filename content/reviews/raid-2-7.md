@@ -1,13 +1,13 @@
 +++
-title = 'Raid 2'
+critics = ["Ajay Brahmatmaj"]
 date = 2025-05-01T16:55:46+05:30
 draft = false
+media = "video"
 mreviews = ["Raid 2"]
-critics = ['Ajay Brahmatmaj']
+scores = [5]
+source = "JkTE1QGQ4Eo"
 subtitle = ""
-media = 'video'
-source = 'JkTE1QGQ4Eo'
-score = 5
+title = "Raid 2"
 +++
 
 {{< youtube id="JkTE1QGQ4Eo" loading="lazy" >}}

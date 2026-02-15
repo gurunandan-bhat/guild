@@ -1,15 +1,15 @@
 +++
-title = 'Vicky Vidya Ka Woh Wala Video'
+critics = ["Deepak Dua"]
 date = 2024-10-11T22:43:52+05:30
 draft = false
-mreviews = ['Vicky Vidya Ka Woh Wala Video']
-critics = ['Deepak Dua']
-subtitle = 'विकी विद्या के वीडियो का कॉमेडी वाला रायता'
-opening = ''
-img = 'vicky-vidya-ka-woh-wala-video-5.jpg'
-media = 'print'
-source = 'https://www.cineyatra.com/vicky-vidya-ka-woh-wala-video-movie-review-by-deepak-dua/'
-score = 5
+img = "vicky-vidya-ka-woh-wala-video-5.jpg"
+media = "print"
+mreviews = ["Vicky Vidya Ka Woh Wala Video"]
+opening = ""
+scores = [5]
+source = "https://www.cineyatra.com/vicky-vidya-ka-woh-wala-video-movie-review-by-deepak-dua/"
+subtitle = "विकी विद्या के वीडियो का कॉमेडी वाला रायता"
+title = "Vicky Vidya Ka Woh Wala Video"
 +++
 
 1997 का ऋषिकेश शहर। विकी-विद्या शादी के बाद हनीमून के लिए गोआ गए जहां इन्होंने अपने अंतरंग पलों का एक वीडियो बनाया। घर लौट कर उस वीडियो की सीडी देखी, खुश हुए और सो गए। उसी रात एक चोर इनके घर से सीडी प्लेयर चुरा ले गया। उसी में थी वह सीडी जिसमें था इनका ‘वो वाला वीडियो’। अब अगर वह वीडियो दुनिया के सामने आ गया तो…? यहां से शुरू हुई तलाश। तो क्या इन्हें मिल पाया वह चोर…? वह सीडी प्लेयर…? वह वीडियो…?

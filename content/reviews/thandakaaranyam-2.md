@@ -1,13 +1,13 @@
 +++
-title = 'Thandakaaranyam'
+critics = ["Sudhir Srinivasan"]
 date = 2025-09-20T08:32:48+05:30
 draft = false
+media = "video"
 mreviews = ["Thandakaaranyam"]
-critics = ['Sudhir Srinivasan']
+scores = [4]
+source = "t9QMoNM-8zA"
 subtitle = "Balances activism with artistry"
-media = 'video'
-source = 't9QMoNM-8zA'
-score = 4
+title = "Thandakaaranyam"
 +++
 
 {{< youtube id="t9QMoNM-8zA" loading="lazy" >}}

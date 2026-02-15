@@ -1,13 +1,13 @@
 +++
-title = 'Bougainvillea'
+critics = ["Vishal Menon"]
 date = 2024-10-18T08:02:23+05:30
 draft = false
-mreviews = ['Bougainvillea']
-critics = ['Vishal Menon']
-subtitle = ''
-media = 'video'
-source = '_eQDsBPZvzI'
-score = 7
+media = "video"
+mreviews = ["Bougainvillea"]
+scores = [7]
+source = "_eQDsBPZvzI"
+subtitle = ""
+title = "Bougainvillea"
 +++
 
 {{< youtube id="_eQDsBPZvzI" loading="lazy" >}}

@@ -1,16 +1,16 @@
 +++
-title = 'Despatch'
+critics = ["Deepak Dua"]
 date = 2024-12-17T01:08:06+05:30
 draft = false
-mreviews = ['Despatch']
-critics = ['Deepak Dua']
-publication = ''
-subtitle = "कुछ ढंग का ‘डिस्पैच’ करो भई"
+img = "despatch-9.jpg"
+media = "print"
+mreviews = ["Despatch"]
 opening = ""
-img = 'despatch-9.jpg'
-media = 'print'
+publication = ""
+scores = [3]
 source = "https://www.cineyatra.com/despatch-movie-review-by-deepak-dua/"
-score = 3
+subtitle = "कुछ ढंग का ‘डिस्पैच’ करो भई"
+title = "Despatch"
 +++
 
 इस फिल्म का बेहद कसा हुआ, तेज़ रफ्तार ट्रेलर दिखाता है कि मुंबई के एक अखबार ‘डिस्पैच’ का क्राइम रिर्पोटर जॉय बाग एक ऐसे मामले की तह तक जाने की कोशिशों में लगा है जिसमें हजारों करोड़ का घपला है और बड़े-बड़े लोग शामिल हैं। ज़ाहिर है कि इतना सब है तो खतरे भी बड़े हैं। जॉय बाग कर पाएगा इस काम को? कैसे करेगा वह इसे?

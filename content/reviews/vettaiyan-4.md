@@ -1,15 +1,15 @@
 +++
-title = 'Vettaiyan'
+critics = ["Kirubhakar Purushothaman"]
 date = 2024-10-11T08:08:34+05:30
 draft = false
-mreviews = ['Vettaiyan']
-critics = ['Kirubhakar Purushothaman']
-subtitle = 'Rajinikanth Is Superb But Out of Place in TJ Gnanavel’s Noble Attempt'
-opening = 'TJ Gnanavel’s simple and predictable film leaves us wondering why it needed such supergiants in the first place.'
-img = 'vettaiyan-4.jpeg'
-media = 'print'
-source = 'https://www.news18.com/movies/vettaiyan-movie-review-rajinikanth-is-superb-but-out-of-place-in-tj-gnanavels-noble-attempt-9081463.html'
-score = 5
+img = "vettaiyan-4.jpeg"
+media = "print"
+mreviews = ["Vettaiyan"]
+opening = "TJ Gnanavel’s simple and predictable film leaves us wondering why it needed such supergiants in the first place."
+scores = [5]
+source = "https://www.news18.com/movies/vettaiyan-movie-review-rajinikanth-is-superb-but-out-of-place-in-tj-gnanavels-noble-attempt-9081463.html"
+subtitle = "Rajinikanth Is Superb But Out of Place in TJ Gnanavel’s Noble Attempt"
+title = "Vettaiyan"
 +++
 
 All Rajinikanth films have some default settings. It doesn’t matter who directs him, they have to play by these rules or around it. Experimentations by the director are allowed but within the frame of the boilerplate. The success then comes down to how the proverbial ‘director’s touch’ syncs with the template of a superstar film.

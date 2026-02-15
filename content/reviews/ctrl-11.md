@@ -1,15 +1,15 @@
 +++
-title = 'CTRL'
+critics = ["Sukanya Verma"]
 date = 2024-10-05T08:21:03+05:30
 draft = false
-mreviews = ['CTRL']
-critics = ['Sukanya Verma']
-subtitle = 'Masterful Thriller'
-opening = 'Sukanya Verma recommends watching CTRL on a computer for an eerie, immersive, real-time experience.'
-img = 'ctrl-11.jpg'
-source = 'https://www.rediff.com/movies/review/ctrl-review/20241004.htm'
-media = 'print'
-score = 8
+img = "ctrl-11.jpg"
+media = "print"
+mreviews = ["CTRL"]
+opening = "Sukanya Verma recommends watching CTRL on a computer for an eerie, immersive, real-time experience."
+scores = [8]
+source = "https://www.rediff.com/movies/review/ctrl-review/20241004.htm"
+subtitle = "Masterful Thriller"
+title = "CTRL"
 +++
 
 Unsettling, isn't it? Our most reliable source of information and communication can be programmed to keep tabs on our mind and movement across the multiple devices that have become indispensable crutches of modern living. But then the Internet has always been a seductive, if not secure, space where all its gifts come with its share of dangers.

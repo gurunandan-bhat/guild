@@ -11,5 +11,5 @@ opening = ""
 img = '{{ .File.ContentBaseName }}.'
 media = 'print'
 source = ""
-score = 
+scores = []
 +++

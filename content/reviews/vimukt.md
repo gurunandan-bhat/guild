@@ -1,14 +1,14 @@
 +++
-title = 'Vimukt'
-translatedTitle = "In Search of the Sky"
+critics = ["Sucharita Tyagi"]
 date = 2025-09-15T22:48:50+05:30
 draft = false
+media = "video"
 mreviews = ["Vimukt"]
-critics = ['Sucharita Tyagi']
+scores = [6]
+source = "buHyetGT9TM"
 subtitle = "Despite the observational richness, Vimukt falters in pacing and basic storytelling."
-media = 'video'
-source = 'buHyetGT9TM'
-score = 6
+title = "Vimukt"
+translatedTitle = "In Search of the Sky"
 +++
 
 {{< youtube id="buHyetGT9TM" loading="lazy" >}}

@@ -1,15 +1,15 @@
 +++
-title = 'Singham Again'
+critics = ["Shubhra Gupta"]
 date = 2024-11-01T22:18:18+05:30
 draft = false
-mreviews = ['Singham Again']
-critics = ['Shubhra Gupta']
-subtitle = "Ajay Devgn film is loud, tedious and instantly forgettable"
+img = "singham-again-6.webp"
+media = "print"
+mreviews = ["Singham Again"]
 opening = "It’s all so same-old in Ajay Devgn-Rohit Shetty's Singham Again that even the new locations don’t help. Neither does all the blatant-referencing-and-copy-pasting of Ramayan"
-img = 'singham-again-6.webp'
-media = 'print'
+scores = [3]
 source = "https://indianexpress.com/article/entertainment/movie-review/singham-again-movie-review-ajay-devgn-film-is-loud-tedious-and-instantly-forgettable-9648358/"
-score = 3
+subtitle = "Ajay Devgn film is loud, tedious and instantly forgettable"
+title = "Singham Again"
 +++
 
 They say that the fount of all Indian fiction are the two epics, Ramayan and Mahabharat. Rohit Shetty seems to have taken this old saying to heart because Ajay Devgn’s eponymous Bajirao Singham is none other than a latter-day Maryada Purushottam Ram, his wife Avni (Kareena Kapoor Khan) is the faithful Sita, and all the other characters play their parallels in this version of Kalyug-ke-Ram Ki Katha. The result is loud and tedious, and instantly forgettable.

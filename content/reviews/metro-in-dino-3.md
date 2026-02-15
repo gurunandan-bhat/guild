@@ -1,13 +1,13 @@
 +++
-title = 'Metro... in Dino'
+critics = ["Anupama Chopra"]
 date = 2025-07-04T11:27:55+05:30
 draft = false
+media = "video"
 mreviews = ["Metro... in Dino"]
-critics = ['Anupama Chopra']
+scores = [6]
+source = "qbMDolC93d8"
 subtitle = "A mixed bag that veers between being delightful and drab"
-media = 'video'
-source = 'qbMDolC93d8'
-score = 6
+title = "Metro... in Dino"
 +++
 
 {{< youtube id="qbMDolC93d8" loading="lazy" >}}

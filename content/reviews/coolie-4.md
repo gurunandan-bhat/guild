@@ -1,13 +1,13 @@
 +++
-title = 'Coolie'
+critics = ["Avinash Ramachandran"]
 date = 2025-08-15T07:37:36+05:30
 draft = false
+media = "video"
 mreviews = ["Coolie"]
-critics = ['Avinash Ramachandran']
+scores = [6]
+source = "mWTc7-hYMrU"
 subtitle = ""
-media = 'video'
-source = 'mWTc7-hYMrU'
-score = 6
+title = "Coolie"
 +++
 
 {{< youtube id="mWTc7-hYMrU" loading="lazy" >}}

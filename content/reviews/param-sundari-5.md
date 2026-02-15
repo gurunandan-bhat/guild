@@ -1,13 +1,13 @@
 +++
-title = 'Param Sundari'
+critics = ["Bhawana Somaaya"]
 date = 2025-08-29T19:44:38+05:30
 draft = false
+media = "video"
 mreviews = ["Param Sundari"]
-critics = ['Bhawana Somaaya']
+scores = [3]
+source = "o-6pQj4CMvY"
 subtitle = ""
-media = 'video'
-source = 'o-6pQj4CMvY'
-score = 3
+title = "Param Sundari"
 +++
 
 {{< youtube id="o-6pQj4CMvY" loading="lazy" >}}

@@ -1,13 +1,13 @@
 +++
-title = 'Bad Girl'
+critics = ["Anupama Chopra"]
 date = 2025-09-06T00:02:56+05:30
 draft = false
+media = "video"
 mreviews = ["Bad Girl"]
-critics = ['Anupama Chopra']
+scores = [7.5]
+source = "7tgdnSQkBOM"
 subtitle = "A refreshingly honest portrait of a regular girl's messy, relatable journey"
-media = 'video'
-source = '7tgdnSQkBOM'
-score = 7.5
+title = "Bad Girl"
 +++
 
 {{< youtube id="7tgdnSQkBOM" loading="lazy" >}}

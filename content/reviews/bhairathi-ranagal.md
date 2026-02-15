@@ -1,16 +1,16 @@
 +++
-title = 'Bhairathi Ranagal'
+critics = ["Manoj Kumar"]
 date = 2024-11-15T19:37:54+05:30
 draft = false
-mreviews = ['Bhairathi Ranagal']
-critics = ['Manoj Kumar']
-publication = ''
-subtitle = "Shivarajkumar shines in a predictable origin story"
+img = "bhairathi-ranagal.jpeg"
+media = "print"
+mreviews = ["Bhairathi Ranagal"]
 opening = "Bhairathi Ranagal is an origin story that explores the transformation of an ordinary man into a feared leader."
-img = 'bhairathi-ranagal.jpeg'
-media = 'print'
+publication = ""
+scores = [5]
 source = "https://www.desimartini.com/reviews/movies/bhairathi-ranagal-review-shivarajkumar-shines-in-a-predictable-origin-story/3dbe4e4af4566/"
-score = 5
+subtitle = "Shivarajkumar shines in a predictable origin story"
+title = "Bhairathi Ranagal"
 +++
 
 Shivarajkumar's portrayal of Bhairathi Ranagal in the 2017 movie Mufti was a monumental success. His iconic look—featuring coloured khadi vestis and shirts—became a trendsetter, even inspiring Nandamuri Balakrishna's style in Veera Simha Reddy. It's no surprise that the filmmakers were tempted to delve deeper into the character and cater to the audience's appetite for more. After all, the market rarely gets it wrong, right? Fast forward seven years and director Narthan brings us Bhairathi Ranagal, the origin story of this beloved character.

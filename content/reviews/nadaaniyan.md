@@ -1,13 +1,13 @@
 +++
-title = 'Nadaaniyan'
+critics = ["Anupama Chopra"]
 date = 2025-03-08T00:13:19+05:30
 draft = false
-mreviews = ['Nadaaniyan']
-critics = ['Anupama Chopra']
-subtitle = 'A film that relies heavily on nostalgia and visual appeal but falls short in its narrative'
-media = 'video'
-source = 'XmsOYZb_0Cw'
-score = 2
+media = "video"
+mreviews = ["Nadaaniyan"]
+scores = [2]
+source = "XmsOYZb_0Cw"
+subtitle = "A film that relies heavily on nostalgia and visual appeal but falls short in its narrative"
+title = "Nadaaniyan"
 +++
 
 {{< youtube id="XmsOYZb_0Cw" loading="lazy" >}}

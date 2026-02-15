@@ -1,13 +1,13 @@
 +++
-title = 'The Smashing Machine'
+critics = ["Sucharita Tyagi"]
 date = 2025-10-11T08:28:06+05:30
 draft = false
+media = "video"
 mreviews = ["The Smashing Machine"]
-critics = ['Sucharita Tyagi']
+scores = [7]
+source = "WNrfBSs30-c"
 subtitle = "What LIGER could have been? "
-media = 'video'
-source = 'WNrfBSs30-c'
-score = 7
+title = "The Smashing Machine"
 +++
 
 {{< youtube id="WNrfBSs30-c" loading="lazy" >}}

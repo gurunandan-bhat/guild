@@ -1,11 +1,11 @@
 +++
-title = "The Electric State"
+critics = ["Akhil Arora"]
 date = 2025-03-18T14:01:38+05:30
 draft = false
 mreviews = ["The Electric State"]
-critics = ['Akhil Arora']
+scores = [2]
 subtitle = "A Spotify Review"
-score = 2
+title = "The Electric State"
 +++
 
 {{< spotify id="6h34UN8OXT0rGMGtsHqNti" height="250" >}}

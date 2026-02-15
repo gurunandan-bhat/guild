@@ -1,16 +1,16 @@
 +++
-title = 'Pushpa 2'
+critics = ["Nonika Singh"]
 date = 2024-12-07T20:39:34+05:30
 draft = false
-mreviews = ['Pushpa 2']
-critics = ['Nonika Singh']
-publication = ''
-subtitle = "Brand Pushpa rules, not the sequel"
+img = "pushpa-2-4.jpeg"
+media = "print"
+mreviews = ["Pushpa 2"]
 opening = "It opens on a Japanese port with a clever twist to the famous song ‘Mera joota hai Japani’, giving a miss to the second line that talks of the country, now an aggressor."
-img = 'pushpa-2-4.jpeg'
-media = 'print'
+publication = ""
+scores = [5]
 source = "https://www.tribuneindia.com/news/movie-review/brand-pushpa-rules-not-the-sequel"
-score = 5
+subtitle = "Brand Pushpa rules, not the sequel"
+title = "Pushpa 2"
 +++
 
 It opens on a Japanese port with a clever twist to the famous song ‘Mera joota hai Japani’, giving a miss to the second line that talks of the country, now an aggressor. But the aggression in the film is a given. What follows is a high-on-adrenaline action sequence almost like a climactic scene. So, where can Pushpa go from such a strong build-up? Well, back to where it began, right to Pushpa’s childhood and the indignities he suffered due to his illegitimate bearings.

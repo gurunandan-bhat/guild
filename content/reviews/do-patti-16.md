@@ -1,15 +1,15 @@
 +++
-title = 'Do Patti'
+critics = ["Sukanya Verma"]
 date = 2024-10-29T15:00:21+05:30
 draft = false
-mreviews = ['Do Patti']
-critics = ['Sukanya Verma']
-subtitle = "One By Two"
+img = "do-patti-16.jpg"
+media = "print"
+mreviews = ["Do Patti"]
 opening = "Do Patti collapses like a house of cards when it aims to be clever."
-img = 'do-patti-16.jpg'
-media = 'print'
+scores = [4]
 source = "https://www.rediff.com/movies/review/do-patti-review/20241025.htm"
-score = 4
+subtitle = "One By Two"
+title = "Do Patti"
 +++
 
 Dressed in the exact same attire as her newly wedded sister at her reception, the lookalike twin poses right next to the bride and groom as if fulfilling Bollywood's bawdy fantasy of saali aadhi gharwali in a tasteless, thunder-stealing move.

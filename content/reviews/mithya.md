@@ -1,16 +1,16 @@
 +++
-title = 'Mithya'
+critics = ["Aswathy Gopalakrishnan"]
 date = 2024-02-07T00:02:34+05:30
 draft = true
-mreviews = ['Mithya']
-critics = ['Aswathy Gopalakrishnan']
-publication = 'Film Companion'
-subtitle = "An Emotionally Rich Film About A Child Tending To His Wounds"
+img = "mithya.png"
+media = "print"
+mreviews = ["Mithya"]
 opening = "A stunning debut, the Kannada film does a delicate documentation of a child learning to overcome an emotional catastrophe"
-img = 'mithya.png'
-media = 'print'
+publication = "Film Companion"
+scores = [8]
 source = "https://www.filmcompanion.in/reviews/kannada-review/mithya-review-an-emotionally-rich-film-about-a-child-tending-to-his-wounds-kannada-movie-sumanth-bhat-rakshit-shetty"
-score = 8
+subtitle = "An Emotionally Rich Film About A Child Tending To His Wounds"
+title = "Mithya"
 +++
 
 Child Actors in Indian mainstream films, largely, follow an ancient repertoire. They emulate the sticky sweetness of store-bought fruit juice, hiding their characters' deeper flavours under their affected cadence and countenance. Rarely assigned with weightier emotions like rage or grief, their ‘cinematic’ is confined to giggles, pouts or pulling long faces. In mainstream imagination, child personas offer little intellectual stimulation to the audience; they come devoid of any deeper meaning to decipher.

@@ -1,13 +1,13 @@
 +++
-title = 'Lokah Chapter 1: Chandra'
+critics = ["Anmol Jamwal"]
 date = 2025-08-29T15:36:10+05:30
 draft = false
+media = "video"
 mreviews = ["Lokah Chapter 1: Chandra"]
-critics = ['Anmol Jamwal']
+scores = [8]
+source = "5Lpf3rWxLDo"
 subtitle = "Superhero films have not been any cooler"
-media = 'video'
-source = '5Lpf3rWxLDo'
-score = 8
+title = "Lokah Chapter 1: Chandra"
 +++
 
 {{< youtube id="5Lpf3rWxLDo" loading="lazy" >}}

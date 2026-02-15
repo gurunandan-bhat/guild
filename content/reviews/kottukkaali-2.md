@@ -1,11 +1,11 @@
 +++
-title = "Kottukkaali"
+critics = ["Akhil Arora"]
 date = 2024-09-30T09:06:54+05:30
 draft = false
 mreviews = ["Kottukkaali"]
-critics = ['Akhil Arora']
+scores = [3]
 subtitle = "A Spotify Review"
-score = 3
+title = "Kottukkaali"
 +++
 
 {{< spotify id="4jCFUfoG1F6UdzyIncAnPl" height="250" >}}

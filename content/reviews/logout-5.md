@@ -1,13 +1,13 @@
 +++
-title = 'Logout'
+critics = ["Ajay Brahmatmaj"]
 date = 2025-04-18T01:35:56+05:30
 draft = false
-mreviews = ['Logout']
-critics = ['Ajay Brahmatmaj']
-subtitle = ''
-media = 'video'
-source = 'iom8YPUdLl0'
-score = 7
+media = "video"
+mreviews = ["Logout"]
+scores = [7]
+source = "iom8YPUdLl0"
+subtitle = ""
+title = "Logout"
 +++
 
 {{< youtube id="iom8YPUdLl0" loading="lazy" >}}

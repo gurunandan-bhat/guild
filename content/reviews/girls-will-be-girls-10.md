@@ -1,16 +1,16 @@
 +++
-title = 'Girls Will Be Girls'
+critics = ["Shubhra Gupta"]
 date = 2024-12-20T09:10:26+05:30
 draft = false
-mreviews = ['Girls Will Be Girls']
-critics = ['Shubhra Gupta']
-publication = ''
-subtitle = "Kani Kusruti takes your breath away in one of the best films of 2024"
+img = "girls-will-be-girls-10.png"
+media = "print"
+mreviews = ["Girls Will Be Girls"]
 opening = "The three lead players carry the film -- Kesav Binoy Kiron adds the right dollop of barely-there smarm to his charm. When Panigrahi and Kusruti, are facing off, you can’t take your eyes off either."
-img = 'girls-will-be-girls-10.png'
-media = 'print'
+publication = ""
+scores = [7]
 source = "https://indianexpress.com/article/entertainment/movie-review/girls-will-be-girls-movie-review-kani-kusruti-takes-your-breath-away-in-one-of-the-best-films-of-2024-9733482/"
-score = 7
+subtitle = "Kani Kusruti takes your breath away in one of the best films of 2024"
+title = "Girls Will Be Girls"
 +++
 
 In an unspecified North Indian hilltown boarding school, a girl comes of age. That overused phrase ‘coming-of-age’ is a misnomer when it comes to mainstream Hindi cinema: the years between thirteen and eighteen are those where contradictory impulses leap between synapses, with mind and body taking off in opposite directions, and explorations of both taking you into spaces where you’ve never been before.

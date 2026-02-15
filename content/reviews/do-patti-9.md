@@ -1,15 +1,15 @@
 +++
-title = 'Do Patti'
+critics = ["Renuka Vyavahare"]
 date = 2024-10-29T14:15:46+05:30
 draft = false
-mreviews = ['Do Patti']
-critics = ['Renuka Vyavahare']
-subtitle = "The film touches upon substantial topics but lacks the sensibility or depth to make flawed seem fascinating."
+img = "do-patti-4.jpg"
+media = "print"
+mreviews = ["Do Patti"]
 opening = "When an attempted murder case unfolds in a sleepy hill town, investigating officer Vidya Jyoti (Kajol) suspects there’s more to the story than meets the eye. Can she decode fact from fiction?"
-img = 'do-patti-4.jpg'
-media = 'print'
+scores = [1]
 source = "https://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews/do-patti/ottmoviereview/114574905.cms"
-score = 1
+subtitle = "The film touches upon substantial topics but lacks the sensibility or depth to make flawed seem fascinating."
+title = "Do Patti"
 +++
 
 Twins Saumya and Shailee (Kriti Sanon in a double role, this is not a spoiler) are like chalk and cheese. One gets married to hot-headed Dhruv Sood, (television actor Shaheer Sheikh) the privileged man with a volatile temper and political connect who owns a paragliding business in the hills. All’s well on the surface until an unlikely crime makes police officer VJ (Kajol) question everything about this family.
