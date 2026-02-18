@@ -1,7 +1,7 @@
 version: 1
 env:
     variables:
-        DART_SASS_VERSION: 1.93.2
+        DART_SASS_VERSION: 1.97.3
         GO_VERSION: 1.26
         HUGO_VERSION: 0.155.3
         TZ: Asia/Kolkata
