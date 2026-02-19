@@ -2,7 +2,7 @@ version: 1
 env:
     variables:
         DART_SASS_VERSION: 1.97.3
-        GO_VERSION: 1.26
+        GO_VERSION: 1.26.0
         HUGO_VERSION: 0.155.3
         TZ: Asia/Kolkata
         HUGO_CACHEDIR: ${PWD}/.hugo
