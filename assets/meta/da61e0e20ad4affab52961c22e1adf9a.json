@@ -1,0 +1,379 @@
+{
+	"id": 1435606,
+	"title": "Assi",
+	"fcg_title": "Assi",
+	"original_title": "अस्सी",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "An investigative courtroom drama based on the alarming statistic of nearly eighty sexual assault cases reported daily in India. In just one day. Every day.",
+	"backdrop_path": "/1lhJYCkWU5HnnRFEza8GuJOdfPz.jpg",
+	"poster_path": "/wBs2SZKKaYZJDmq01maIjdZwUT0.jpg",
+	"release_date": "2026-02-20",
+	"credits": {
+		"cast": [
+			{
+				"id": 550167,
+				"order": 0,
+				"name": "Taapsee Pannu",
+				"profile_path": "/43e24aeOC8AZITo6ShaKKG9aV0Y.jpg",
+				"character": "Raavi",
+				"gender": 1
+			},
+			{
+				"id": 1399177,
+				"order": 1,
+				"name": "Kani Kusruti",
+				"profile_path": "/8WCuR3HcPYBeS2tQusFTEl596hM.jpg",
+				"character": "Parima",
+				"gender": 1
+			},
+			{
+				"id": 1307516,
+				"order": 2,
+				"name": "Mohammed Zeeshan Ayyub",
+				"profile_path": "/cF1j8Vt9YPlOBjy3lfmhuF11dmD.jpg",
+				"character": "Vinay",
+				"gender": 2
+			},
+			{
+				"id": 85874,
+				"order": 3,
+				"name": "Manoj Pahwa",
+				"profile_path": "/p7sufhnro3CM04au3L4KubTx43B.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1179628,
+				"order": 4,
+				"name": "Kumud Mishra",
+				"profile_path": "/pM4eD7eIEPk2Lx0c5C1K201qnp6.jpg",
+				"character": "Kartik",
+				"gender": 2
+			},
+			{
+				"id": 584324,
+				"order": 5,
+				"name": "Revathi",
+				"profile_path": "/sXS4erG255VJlP7XYAduNBNPyDL.jpg",
+				"gender": 1
+			},
+			{
+				"id": 6497,
+				"order": 6,
+				"name": "Naseeruddin Shah",
+				"profile_path": "/lFvGfKypi5NNyUjrsT8Y7ebWc7G.jpg",
+				"gender": 2
+			},
+			{
+				"id": 86892,
+				"order": 7,
+				"name": "Supriya Pathak",
+				"profile_path": "/cDvNa9XL425kBiyT4xqRGM8kK4H.jpg",
+				"gender": 1
+			},
+			{
+				"id": 1077058,
+				"order": 8,
+				"name": "Rajendra Sethi",
+				"profile_path": "/orlzlhXtTA4ZXDJRUXKAEcnnlvz.jpg",
+				"character": "Ashutosh Kataria"
+			},
+			{
+				"id": 1241437,
+				"order": 9,
+				"name": "Satyajit Sharma",
+				"profile_path": "/A8K7DtRUyi4CrD5lZt9m97WLyDH.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1276863,
+				"order": 10,
+				"name": "Seema Pahwa",
+				"profile_path": "/jtm1q6oLBzd7C9KIrXlOOcUyzRf.jpg",
+				"gender": 1
+			},
+			{
+				"id": 2318622,
+				"order": 11,
+				"name": "Jatin Goswami",
+				"profile_path": "/8N3uhXVc2TOTQeeKsRXukqu7epD.jpg",
+				"character": "Sanjay Narwal",
+				"gender": 2
+			},
+			{
+				"id": 4856696,
+				"order": 12,
+				"name": "Advik Jaiswal",
+				"gender": 2
+			},
+			{
+				"id": 3841763,
+				"order": 13,
+				"name": "Abhishant Rana"
+			}
+		],
+		"crew": [
+			{
+				"id": 126765,
+				"name": "Anubhav Sinha",
+				"profile_path": "/rWvTtDwSoKgTy3zSeZoMWGRkNmw.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 126765,
+				"name": "Anubhav Sinha",
+				"profile_path": "/rWvTtDwSoKgTy3zSeZoMWGRkNmw.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 83595,
+				"name": "Bhushan Kumar",
+				"profile_path": "/luUFnGoGwjwZ5CHAePRIQpAwT5b.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 141882,
+				"name": "Krishan Kumar",
+				"profile_path": "/gw2jzzkdRyIHglwieCiFSQ9cLZZ.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3537267,
+				"name": "Dhrub Dubey",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2119246,
+				"name": "Sagar Shirgaonkar",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2519169,
+				"name": "Shiv Chanana",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2295066,
+				"name": "Gaurav Solanki",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 1108802,
+				"name": "Mukesh Chhabra",
+				"profile_path": "/f5XI2wJs2JPcd5FSECsdcnkyOMW.jpg",
+				"job": "Casting Director",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 126765,
+				"name": "Anubhav Sinha",
+				"profile_path": "/rWvTtDwSoKgTy3zSeZoMWGRkNmw.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1725234,
+				"name": "Ewan Mulligan",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 5985633,
+				"name": "Amarjit Singh",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 4363843,
+				"name": "Apurva Bhagat",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 2119253,
+				"name": "Nikhil S Kovale",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 2007867,
+				"name": "Anita Kushwahar",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 5985634,
+				"name": "Sumit Sabharwal",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5985635,
+				"name": "Francois Da Silva",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 545521,
+				"name": "Ranjit Barot",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1183166,
+				"name": "Branko Neškov",
+				"profile_path": "/euXMeIyehJ5hQx72hSLatiQPCFW.jpg",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3165066,
+				"name": "Riyaz Shaikh",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3165068,
+				"name": "Habib Sayed",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 4165222,
+				"name": "Abhiishek Mehta",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 4137472,
+				"name": "Azaz Memon",
+				"job": "Post Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2553021,
+				"name": "Shilpan Veena Vyas",
+				"job": "Post Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3537271,
+				"name": "Sumit Tyagi",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4546094,
+				"name": "Vishal Tyagi",
+				"job": "Special Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 4497136,
+				"name": "Manish Tyagi",
+				"job": "Special Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1646129,
+				"name": "Vishakha Kullarwar",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4018377,
+				"name": "Joe Mansoori",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4322885,
+				"name": "Arun Indulkar",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3885802,
+				"name": "Raj Gupta",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4414391,
+				"name": "Shailesh Kamble",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2119257,
+				"name": "Amit Malviya",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1174417,
+				"name": "Rochak Kohli",
+				"profile_path": "/bJ77Ut5e1dwVsTXjEYFgtJFR8A6.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1174417,
+				"name": "Rochak Kohli",
+				"profile_path": "/bJ77Ut5e1dwVsTXjEYFgtJFR8A6.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1430631,
+				"name": "Mohit Chauhan",
+				"profile_path": "/olwXSLxlsEyyA1rEoGxEcfWQf6e.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 233065,
+				"name": "Kumaar",
+				"profile_path": "/9sHLGuvqvmfbeh9RiaYROVQ2VUy.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			}
+		]
+	}
+}
