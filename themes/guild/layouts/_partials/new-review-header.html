@@ -1,0 +1,45 @@
+{{ $review := .review }}
+{{ $short := .short }}
+{{ $critic := "" }}
+{{ with (site.GetPage $review.Path) }}
+    {{ $critic = index .Params.critics 0 }}
+{{ end }}
+{{ $criticPage := index (where (where site.RegularPages ".Type" "guild") ".Title" $critic) 0 }}
+<div class="row">
+    <!-- Card 1 -->
+    <div class="col-12">
+        <div class="media-card">
+            {{ with resources.Get $criticPage.Params.img }}
+                {{ with .Resize "60x webp" }}
+                    <img
+                        src="{{- .RelPermalink }}"
+                        alt="Fox in morning light"
+                        class="media-card__img rounded-circle" />
+                {{- end }}
+            {{- end }}
+            {{ $reviewsPageLink := index site.Taxonomies.critics (lower $critic) }}
+            <p class="media-card__label mb-2">
+                <a href="{{ $reviewsPageLink.Page.RelPermalink }}"
+                    >{{ $critic }}</a
+                >
+                <span class="organization">
+                    {{ with index $criticPage.Params.organizations 0 }}
+                        |
+                        {{ . }}
+                    {{ end }}
+                    {{ with $review.Params.publication }}
+                        Writing for
+                        <span class="bolder">{{ . }}</span>
+                    {{ end }}
+                </span>
+            </p>
+            <p class="media-card__title fw-bolder">
+                {{- if $short }}
+                    {{ $review.Params.Date.Format "Mon, January 2 2006" }}
+                {{- else }}
+                    {{ $review.Params.subtitle }}
+                {{- end }}
+            </p>
+        </div>
+    </div>
+</div>

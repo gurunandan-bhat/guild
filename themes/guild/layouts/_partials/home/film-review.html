@@ -11,8 +11,8 @@
             {{ with $reviewer }}
                 <div class="row">
                     <div class="col-lg-10">
-                        <div class="ms-3 py-2">
-                            {{ partial "review-header.html" $review }}
+                        <div class="ms-3 pt-2">
+                            {{ partial "new-review-header.html" (dict "review" $review "short" false) }}
                         </div>
                     </div>
                     <div class="col-lg-2">
@@ -35,7 +35,7 @@
                 class="accordion-collapse collapse"
                 data-bs-parent="{{- printf "#%s" $accordionID }}">
                 <div class="accordion-body">
-                    <p class="pub-date mb-2">
+                    <p class="pub-date mb-2 fw-bolder" style="color: #924c9d;">
                         {{ .Date.Format "Mon, January 2 2006" }}
                     </p>
                     {{ with .Params.opening }}

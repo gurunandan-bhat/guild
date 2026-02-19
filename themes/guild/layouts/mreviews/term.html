@@ -33,89 +33,65 @@
                 {{ template "_internal/pagination.html" . }}
             </div>
             {{ range $paginator.Pages }}
-                <div class="mb-3">
+                <div class="row my-4">
                     {{ if or (eq .Params.media "print") (eq .Params.media "audio") }}
-                        <div class="row mb-5">
-                            <div class="col-lg-4 offset-lg-1">
-                                {{ printf "<!-- Path:  %s -->" .Page | safeHTML }}
-                                {{ $imgPath := printf "images/reviews/%s" .Params.img }}
-                                {{ with resources.Get $imgPath }}
-                                    {{ with .Process "webp" }}
-                                        <img
-                                            src="{{ .RelPermalink }}"
-                                            class="img-fluid pt-1"
-                                            alt="Image of scene from the film {{ $fullTitle }}" />
-                                    {{ end }}
-                                {{ else }}
-                                    {{ if hugo.IsDevelopment }}
-                                        {{ warnf "mreviews/term: Image %s not found" $imgPath }}
-                                    {{ end }}
+                        <div class="col-lg-4 offset-lg-1 pb-3">
+                            {{ printf "<!-- Path:  %s -->" .Page | safeHTML }}
+                            {{ $imgPath := printf "images/reviews/%s" .Params.img }}
+                            {{ with resources.Get $imgPath }}
+                                {{ with .Process "webp" }}
+                                    <img
+                                        src="{{ .RelPermalink }}"
+                                        class="img-fluid pt-1"
+                                        alt="Image of scene from the film {{ $fullTitle }}" />
                                 {{ end }}
-                            </div>
-                            <div class="col-lg-6">
+                            {{ else }}
+                                {{ if hugo.IsDevelopment }}
+                                    {{ warnf "mreviews/term: Image %s not found" $imgPath }}
+                                {{ end }}
+                            {{ end }}
+                        </div>
+                        <div class="col-lg-6">
+                            <div
+                                class="border border-start-2 border-end-2 border-top-0 border-bottom-0">
                                 <div
-                                    class="border border-start-2 border-end-2 border-top-0 border-bottom-0">
-                                    <div
-                                        class="border border-3 border-top-0 border-start-0 border-end-0">
-                                        <div class="px-4">
-                                            <h2 class="mb-2">
-                                                {{ .Params.subtitle }}
-                                            </h2>
-                                            <div class="pb-1">
-                                                {{ partial "reviewer.html" (dict "reviewer" (index .Params.critics 0 ) "date" (.Date.Format "Mon, January 2 2006")) }}
-                                            </div>
-                                            {{ with .Params.publication }}
-                                                <p class="pub-date mb-1">
-                                                    (Written for {{ . }})
-                                                </p>
-                                            {{ end }}
-                                            {{ with .Params.opening }}
-                                                <p class="author">{{ . }}</p>
-                                            {{ end }}
-                                            <div class="small">
-                                                {{ .Summary }}
-                                            </div>
-                                            {{ with .Params.source }}
-                                                <p class="small">
-                                                    <a
-                                                        href="{{ . }}"
-                                                        target="_blank">
-                                                        {{ $extLinkIcon }}
-                                                        Continue reading
-                                                        &hellip;</a
-                                                    >
-                                                </p>
-                                            {{ end }}
+                                    class="border border-3 border-top-0 border-start-0 border-end-0">
+                                    <div class="px-4">
+                                        <h2 class="mb-2">
+                                            {{ .Params.subtitle }}
+                                        </h2>
+                                        {{- partial "new-review-header.html" (dict "review" . "short" true) }}
+                                        <div class="small">
+                                            {{ .Summary }}
                                         </div>
+                                        {{ with .Params.source }}
+                                            <p class="small">
+                                                <a
+                                                    href="{{ . }}"
+                                                    target="_blank">
+                                                    {{ $extLinkIcon }}
+                                                    Continue reading &hellip;</a
+                                                >
+                                            </p>
+                                        {{ end }}
                                     </div>
                                 </div>
                             </div>
                         </div>
                     {{ else }}
-                        <div class="row">
-                            <div class="col-lg-6 offset-lg-3">
-                                <div class="mb-5">
+                        <div class="col-lg-6 offset-lg-3">
+                            <div class="mb-5">
+                                <div
+                                    class="border border-start-2 border-end-2 border-top-0 border-bottom-0">
                                     <div
-                                        class="border border-start-2 border-end-2 border-top-0 border-bottom-0">
-                                        <div
-                                            class="border border-3 border-top-0 border-start-0 border-end-0">
-                                            <div class="p-2">
-                                                <h2 class="my-3">
-                                                    {{ .Params.subtitle }}
-                                                </h2>
-                                                <div class="mb-4">
-                                                    {{ partial "reviewer.html" (dict "reviewer" (index .Params.critics 0 ) "date" (.Date | time.Format ":date_long")) }}
-                                                    {{ with .Params.publication }}
-                                                        <p
-                                                            class="pub-date mb-1">
-                                                            (For {{ . }})
-                                                        </p>
-                                                    {{ end }}
-
-                                                </div>
-                                                <div class="small">
-                                                    {{ .Summary }}
-                                                </div>
+                                        class="border border-3 border-top-0 border-start-0 border-end-0">
+                                        <div class="p-2">
+                                            <h2 class="my-3">
+                                                {{ .Params.subtitle }}
+                                            </h2>
+                                            {{- partial "new-review-header.html" (dict "review" . "short" true) }}
+                                            <div class="small">
+                                                {{ .Summary }}
                                             </div>
                                         </div>
                                     </div>
