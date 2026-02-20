@@ -1,0 +1,626 @@
+{
+	"id": 1112552,
+	"title": "Kennedy",
+	"fcg_title": "Kennedy",
+	"original_title": "कैनेडी",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "An insomniac former cop, Kennedy has been presumed dead for years. Yet, in secret, he continues to serve a corrupt system while seeking redemption. Halfway between thriller and film noir, Kennedy chronicles a violent and bloody vendetta in the dark streets of Mumbai. At the rate of the murders, Kennedy's character reveals itself more and more and sinks into a spiral that seems to have no way out.",
+	"backdrop_path": "/AspsIxsgWYlV2hL2WD2FHQo9eVe.jpg",
+	"poster_path": "/oi8PrMckw1zOrkfVxwo0o6h7I27.jpg",
+	"release_date": "2023-05-24",
+	"credits": {
+		"cast": [
+			{
+				"id": 1427892,
+				"order": 0,
+				"name": "Rahul Bhat",
+				"profile_path": "/nE6Rgkbqvu67kHeX20qmmhhkohY.jpg",
+				"character": "Uday Shetty/Kennedy"
+			},
+			{
+				"id": 140771,
+				"order": 1,
+				"name": "Sunny Leone",
+				"profile_path": "/uESfwzFEkOWQj8q5VXF0oGkQhPL.jpg",
+				"character": "Charlie",
+				"gender": 1
+			},
+			{
+				"id": 1085906,
+				"order": 2,
+				"name": "Mohit Takalkar",
+				"profile_path": "/yVTTQPU8SURdRupsbQiZnVXZaKS.jpg",
+				"character": "Rasheed Khan"
+			},
+			{
+				"id": 1278971,
+				"order": 3,
+				"name": "Megha Burman",
+				"profile_path": "/4ZOCk7VfQh4ocEgLe9I7HGgLzh8.jpg",
+				"character": "Anuradha",
+				"gender": 1
+			},
+			{
+				"id": 5888804,
+				"order": 4,
+				"name": "Haripriya Manish Lodhia",
+				"character": "Aditi - 11 years old"
+			},
+			{
+				"id": 1586796,
+				"order": 5,
+				"name": "Shrikant Yadav",
+				"profile_path": "/6tnPShHr9SosqeFHY917RNMjUna.jpg",
+				"character": "Abhijit Kaale",
+				"gender": 2
+			},
+			{
+				"id": 3079717,
+				"order": 6,
+				"name": "Abhilash Thapliyal",
+				"profile_path": "/ioiEmkDWfPIdIuRD68zG6bJgHpq.jpg",
+				"character": "Roomie/Chandan"
+			},
+			{
+				"id": 3216200,
+				"order": 7,
+				"name": "Jeniffer Piccinato",
+				"profile_path": "/fOEKy6hoVRpTAvqrTQf8qzr9ByA.jpg",
+				"character": "Mrs. Lokhandwala",
+				"gender": 1
+			},
+			{
+				"id": 1467383,
+				"order": 8,
+				"name": "Benedict Garrett",
+				"profile_path": "/vrOSmltwMROMeGowHVhURnGLvWE.jpg",
+				"character": "London News Reporter",
+				"gender": 2
+			},
+			{
+				"id": 1954815,
+				"order": 9,
+				"name": "Aamir Dalvi",
+				"profile_path": "/kREo2kO0duHjT6nC2FvNFwcijH.jpg",
+				"character": "Saleem Kattawala"
+			},
+			{
+				"id": 5317429,
+				"order": 10,
+				"name": "Karishma Modi",
+				"character": "Gunjan"
+			},
+			{
+				"id": 85972,
+				"order": 11,
+				"name": "Kurush Deboo",
+				"profile_path": "/lH8PVl0Ph9xebEwj7vnEsFs7tN4.jpg",
+				"character": "Bookie",
+				"gender": 2
+			},
+			{
+				"id": 4414318,
+				"order": 12,
+				"name": "Vaisakh Shankar",
+				"character": "Kabir"
+			},
+			{
+				"id": 3080701,
+				"order": 13,
+				"name": "Dipti Joshi",
+				"character": "Home Minister"
+			},
+			{
+				"id": 1760249,
+				"order": 14,
+				"name": "Vijay Kadam",
+				"profile_path": "/m52Ni3Mt6OfdKuVyewoXVxZ8gmO.jpg",
+				"character": "Politico 2"
+			},
+			{
+				"id": 1945977,
+				"order": 15,
+				"name": "Vijay Nikam",
+				"character": "Politico 1"
+			},
+			{
+				"id": 2522926,
+				"order": 16,
+				"name": "Neelam Gupta",
+				"character": "Private Bank Manager"
+			},
+			{
+				"id": 1770294,
+				"order": 17,
+				"name": "Prasanna Ketkar",
+				"profile_path": "/r7bWysIC7qK6Ssm1EGyuh6PDpC1.jpg",
+				"character": "Commissioner of Police"
+			},
+			{
+				"id": 4306551,
+				"order": 18,
+				"name": "Aamir Aziz",
+				"character": "Mera Mehboob Singer"
+			},
+			{
+				"id": 5888829,
+				"order": 19,
+				"name": "Sandeep Rawal",
+				"character": "Bookie's Driver"
+			},
+			{
+				"id": 4301073,
+				"order": 20,
+				"name": "Sangeeta Balachandran",
+				"character": "Bookie's Widow"
+			},
+			{
+				"id": 5888831,
+				"order": 21,
+				"name": "Shivam Kothari",
+				"character": "Boyfriend/Chauffare Customer"
+			},
+			{
+				"id": 4358447,
+				"order": 22,
+				"name": "Abhishek Deswal",
+				"character": "Cashier Private Bank"
+			},
+			{
+				"id": 5653648,
+				"order": 23,
+				"name": "Sanjay Vichare",
+				"character": "Cop 1 - Charlie's Building"
+			},
+			{
+				"id": 2983444,
+				"order": 24,
+				"name": "Sanjeev Kumar Patil",
+				"character": "Cop 3 - Police's Restorbar",
+				"gender": 2
+			},
+			{
+				"id": 5888834,
+				"order": 25,
+				"name": "Sanjeev Durhi",
+				"character": "Cop 4 - Kennedy's Building"
+			},
+			{
+				"id": 4312901,
+				"order": 26,
+				"name": "Mangesh Khopkar",
+				"character": "Cop 5 - Anuradha's House"
+			},
+			{
+				"id": 3098206,
+				"order": 27,
+				"name": "Hetal Puniwala",
+				"character": "Corporate Man"
+			},
+			{
+				"id": 4657277,
+				"order": 28,
+				"name": "Chaitanya Solankar",
+				"character": "Food Stall Customer"
+			},
+			{
+				"id": 4089757,
+				"order": 29,
+				"name": "Dibanisha Banerjee",
+				"character": "Girlfriend/Chauffare Customer"
+			},
+			{
+				"id": 3017167,
+				"order": 30,
+				"name": "Gaurav Singh",
+				"profile_path": "/z9o488SAgcRqhKIp4hWWbPe7ZV8.jpg",
+				"character": "Goon 1",
+				"gender": 2
+			},
+			{
+				"id": 1182687,
+				"order": 31,
+				"name": "Murari Kumar",
+				"profile_path": "/cBrV3MhFOi6qhyPumrZFLabPLcy.jpg",
+				"character": "Goon 2",
+				"gender": 2
+			},
+			{
+				"id": 2614169,
+				"order": 32,
+				"name": "Kundan Roy",
+				"character": "Goon 3"
+			},
+			{
+				"id": 5278504,
+				"order": 33,
+				"name": "Sanjay Kota",
+				"character": "Guard - Bookie's Hideout"
+			},
+			{
+				"id": 4245017,
+				"order": 34,
+				"name": "Ranjan Kumar",
+				"character": "Guard - Charlie's Building"
+			},
+			{
+				"id": 3379299,
+				"order": 35,
+				"name": "K.K. Gautam",
+				"character": "Gunjan's Guard"
+			},
+			{
+				"id": 3754861,
+				"order": 36,
+				"name": "Ankur Jain",
+				"character": "Indian News Anchor - Male"
+			},
+			{
+				"id": 3488618,
+				"order": 37,
+				"name": "Nyshita Bajaj",
+				"character": "Aditi - 5 years old"
+			},
+			{
+				"id": 4306543,
+				"order": 38,
+				"name": "Swastik Tiwari",
+				"character": "Adi - 7 year old"
+			},
+			{
+				"id": 5888842,
+				"order": 39,
+				"name": "Shiva Chopra",
+				"character": "Jazz Club Manager"
+			},
+			{
+				"id": 3333501,
+				"order": 40,
+				"name": "Vihaan Chaudhary",
+				"character": "Mr. Lokhandwala"
+			},
+			{
+				"id": 2708330,
+				"order": 41,
+				"name": "Prammod Sanghi",
+				"profile_path": "/yKvDXewjTth0lkRJe6XIx6bbkwK.jpg",
+				"character": "Reporter"
+			},
+			{
+				"id": 1505913,
+				"order": 42,
+				"name": "Varun Grover",
+				"profile_path": "/sMDpSHcidPWWkLbYogzLb2XcyzH.jpg",
+				"character": "PPE Kit Man/Chauffare Customer",
+				"gender": 2
+			},
+			{
+				"id": 5856216,
+				"order": 43,
+				"name": "Nilesh Badhe",
+				"character": "Rashid's Driver"
+			},
+			{
+				"id": 2719436,
+				"order": 44,
+				"name": "Lokendra Rajawat",
+				"character": "Akbar"
+			},
+			{
+				"id": 5888849,
+				"order": 45,
+				"name": "Prianka Rane",
+				"character": "Akbar's Girlfriend"
+			},
+			{
+				"id": 4866872,
+				"order": 46,
+				"name": "Nishikant Dixit",
+				"character": "Travel Agent"
+			},
+			{
+				"id": 5888852,
+				"order": 47,
+				"name": "Virendra Kaith",
+				"character": "Mera Mehboob Drummer"
+			},
+			{
+				"id": 5888854,
+				"order": 48,
+				"name": "Nikhil Pachpande",
+				"character": "Mera Mehboob Pianist"
+			},
+			{
+				"id": 2051518,
+				"order": 49,
+				"name": "Ajinkya Jadhav",
+				"character": "Mera Mehboob Double Bass"
+			},
+			{
+				"id": 5888856,
+				"order": 50,
+				"name": "Ashton Colaço",
+				"character": "Mera Mehboob Saxophone Operator"
+			}
+		],
+		"crew": [
+			{
+				"id": 85670,
+				"name": "Anurag Kashyap",
+				"profile_path": "/8QnTVaQbRz9nuwbrTm57MYRDAJc.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1208685,
+				"name": "Ranjan Singh",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3414258,
+				"name": "Kabir Ahuja",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1890499,
+				"name": "Kavan Ahalpara",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2416515,
+				"name": "Viral Shah",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1510156,
+				"name": "Sylvester Fonseca",
+				"profile_path": "/F5EBHmg5uaTfR7X97gsAk9dUWz.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2296628,
+				"name": "Tanya Chhabria",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 2030395,
+				"name": "Gautam Kishanchandani",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1208687,
+				"name": "Kazvin Dangor",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 2074629,
+				"name": "Prashant Sawant",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4037258,
+				"name": "Manoj Limbachiya",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4056746,
+				"name": "Adrika Shetty",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4056747,
+				"name": "Deepak Kattar",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 2470515,
+				"name": "Akshay Indikar",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 3410860,
+				"name": "Abilash Kg",
+				"job": "Sound Effects Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 4056748,
+				"name": "Soustav Naskar",
+				"job": "Sound Recordist",
+				"department": "Sound"
+			},
+			{
+				"id": 3546146,
+				"name": "Sourabh Saha",
+				"job": "Sound Effects Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 1645941,
+				"name": "Kunal Sharma",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 4056750,
+				"name": "Kuldeep Mehta",
+				"job": "Visual Effects",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2560275,
+				"name": "Shashwat Dwivedi",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4306551,
+				"name": "Aamir Aziz",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 4306551,
+				"name": "Aamir Aziz",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 5888817,
+				"name": "Boyblanck",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 2155689,
+				"name": "Adam Klemens",
+				"job": "Conductor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 85670,
+				"name": "Anurag Kashyap",
+				"profile_path": "/8QnTVaQbRz9nuwbrTm57MYRDAJc.jpg",
+				"job": "Dialogue",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 85670,
+				"name": "Anurag Kashyap",
+				"profile_path": "/8QnTVaQbRz9nuwbrTm57MYRDAJc.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 85670,
+				"name": "Anurag Kashyap",
+				"profile_path": "/8QnTVaQbRz9nuwbrTm57MYRDAJc.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2560275,
+				"name": "Shashwat Dwivedi",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2449452,
+				"name": "Dino Shankar",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1785033,
+				"name": "Sunil Rodrigues",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 2138197,
+				"name": "Babu Tyagi",
+				"job": "Special Effects",
+				"department": "Crew"
+			},
+			{
+				"id": 2345491,
+				"name": "Abhishek Poogalia",
+				"job": "Script Supervisor",
+				"department": "Directing"
+			},
+			{
+				"id": 5899955,
+				"name": "Shaaz Rizvi",
+				"job": "Additional Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 4124941,
+				"name": "Prabhav Praful Katdare",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2141423,
+				"name": "Mrityunjay Singh",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1556268,
+				"name": "Makarand Surte",
+				"job": "Senior Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 2222170,
+				"name": "Devanshi Desai",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 4434732,
+				"name": "Nitin Minz",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2155689,
+				"name": "Adam Klemens",
+				"job": "Sound",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5899961,
+				"name": "Ashish S. Narula",
+				"job": "Music Supervisor",
+				"department": "Sound"
+			},
+			{
+				"id": 3790185,
+				"name": "Gautmik",
+				"job": "Post Production Supervisor",
+				"department": "Crew"
+			},
+			{
+				"id": 1824438,
+				"name": "Shariq Patel",
+				"job": "Producer",
+				"department": "Production"
+			}
+		]
+	}
+}
