@@ -1,0 +1,533 @@
+{
+	"id": 799882,
+	"title": "The Bluff",
+	"fcg_title": "The Bluff",
+	"original_title": "The Bluff",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 12,
+			"name": "Adventure"
+		}
+	],
+	"overview": "When her tranquil life on a remote island is shattered by the return of her vengeful former captain, a skilled ex-pirate must confront her bloody past and unleash her deadly talents to save her family from a ruthless siege.",
+	"backdrop_path": "/hYgUkH7TusddHRtelj53I6gFOWR.jpg",
+	"poster_path": "/sojEzvfxR2DBcDSJyAisX8TWjov.jpg",
+	"release_date": "2026-02-25",
+	"credits": {
+		"cast": [
+			{
+				"id": 77234,
+				"order": 0,
+				"name": "Priyanka Chopra Jonas",
+				"profile_path": "/9n2n3fUFI553HKH0CEAb2TPLtCx.jpg",
+				"character": "Ercell 'Bloody Mary' Bodden",
+				"gender": 1
+			},
+			{
+				"id": 1372,
+				"order": 1,
+				"name": "Karl Urban",
+				"profile_path": "/7Y96dAfg0HcFrcLjlD5eD9N0uj4.jpg",
+				"character": "Captain Connor",
+				"gender": 2
+			},
+			{
+				"id": 1100144,
+				"order": 2,
+				"name": "Ismael Cruz Cordova",
+				"profile_path": "/oXcrsQGndk60iFkNB8qFnMHlNzL.jpg",
+				"character": "T.H. Bodden",
+				"gender": 2
+			},
+			{
+				"id": 2592839,
+				"order": 3,
+				"name": "Safia Oakley-Green",
+				"profile_path": "/k4JrjdSIfwWF1Qd5KHChDfnXpF2.jpg",
+				"character": "Elizabeth Bodden",
+				"gender": 1
+			},
+			{
+				"id": 1576672,
+				"order": 4,
+				"name": "Pacharo Mzembe",
+				"profile_path": "/lXeEgdThQ8eqFiAv6HTwqJn6AU5.jpg",
+				"gender": 2
+			},
+			{
+				"id": 2096500,
+				"order": 5,
+				"name": "Greg Hatton",
+				"profile_path": "/j0jioHCWjJJEr41Vr2vHgRRtEMx.jpg",
+				"gender": 2
+			},
+			{
+				"id": 4819068,
+				"order": 6,
+				"name": "Gideon Mzembe",
+				"gender": 2
+			},
+			{
+				"id": 7242,
+				"order": 7,
+				"name": "Temuera Morrison",
+				"profile_path": "/AvtSC0f9QW7fMyFFNXEWDeQyfUk.jpg",
+				"character": "Lee",
+				"gender": 2
+			},
+			{
+				"id": 1751775,
+				"order": 8,
+				"name": "Angela Russo-Otstot",
+				"profile_path": "/outhE6HJdAv8V4hMRdeWwQotxEA.jpg",
+				"gender": 1
+			},
+			{
+				"id": 3103723,
+				"order": 9,
+				"name": "Vedanten Naidoo",
+				"profile_path": "/gF55JKge7cMTP2DNH0asEiWkoJJ.jpg",
+				"character": "Isaac",
+				"gender": 2
+			},
+			{
+				"id": 1816950,
+				"order": 10,
+				"name": "Zack Morris",
+				"profile_path": "/km2qdlhmuufC9My47lAFoJwuKGg.jpg",
+				"gender": 2
+			},
+			{
+				"id": 57795,
+				"order": 11,
+				"name": "David Field",
+				"profile_path": "/aYtVOMnak4JmlLGw63lJObLf1J.jpg",
+				"gender": 2
+			},
+			{
+				"id": 3517474,
+				"order": 12,
+				"name": "Ronnie James Hughes",
+				"gender": 2
+			},
+			{
+				"id": 5933062,
+				"order": 13,
+				"name": "Max McVeigh"
+			},
+			{
+				"id": 1230140,
+				"order": 14,
+				"name": "Harry Reid",
+				"profile_path": "/nKtvafmECgrx9Z98WiWxys3dWxr.jpg",
+				"gender": 2
+			},
+			{
+				"id": 5933065,
+				"order": 15,
+				"name": "Liam Bunting"
+			}
+		],
+		"crew": [
+			{
+				"id": 1483894,
+				"name": "Mariel Saldaña",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1751775,
+				"name": "Angela Russo-Otstot",
+				"profile_path": "/outhE6HJdAv8V4hMRdeWwQotxEA.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 19272,
+				"name": "Joe Russo",
+				"profile_path": "/o0OXjFzL10jCy89iAs7UzzSbyoK.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 19271,
+				"name": "Anthony Russo",
+				"profile_path": "/xbINBnWn28YygYWUJ1aSAw0xPRv.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1483893,
+				"name": "Cisely Saldaña",
+				"profile_path": "/pkldPdS7fU1RBC07hEz3AdE0nSh.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 59703,
+				"name": "Frank E. Flowers",
+				"profile_path": "/eguppPFKy8xfEOajWrbHugA0uJ.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 77234,
+				"name": "Priyanka Chopra Jonas",
+				"profile_path": "/9n2n3fUFI553HKH0CEAb2TPLtCx.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1585197,
+				"name": "Darrin Denlinger",
+				"job": "Storyboard Artist",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1357064,
+				"name": "Greg Baldi",
+				"profile_path": "/jQEo6eJ4liTIMSvXhjpHy7NWRbR.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1317,
+				"name": "Philip Ivey",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 2736484,
+				"name": "Scott Mulready",
+				"job": "Production Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1444239,
+				"name": "Robert Alonzo",
+				"profile_path": "/7OoQpZ0wdwo8G2zrzNiHhbdfalW.jpg",
+				"job": "Second Unit Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 590821,
+				"name": "Tara Macken",
+				"profile_path": "/fwvb2DyvJpl51ssaBSiotgBTyPM.jpg",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 7232,
+				"name": "Sarah Halley Finn",
+				"profile_path": "/jxECVz09YGZAg1AmdzfEkPm4xeY.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1830633,
+				"name": "Kyle Gardiner",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1463281,
+				"name": "Chris Castaldi",
+				"profile_path": "/8wndmlAfA7R5JuGwxTK7S4TB64O.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1412734,
+				"name": "Jennifer Cornwell",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2097601,
+				"name": "Ari Costa",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1397011,
+				"name": "Michael Disco",
+				"profile_path": "/f0QTlbrBQOhDtSl9flRJAnzb0r8.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1836502,
+				"name": "Jon Kuyper",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 9583,
+				"name": "Charlie Revai",
+				"job": "Supervising Art Director",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1335860,
+				"name": "Tarnia Nicol",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 2342042,
+				"name": "Patrick James Howe",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1816360,
+				"name": "Andrew Kattie",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 2925579,
+				"name": "Kate Rawlins",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 1659544,
+				"name": "Brian Nickless",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 2735604,
+				"name": "Rachel van Baarle",
+				"job": "Assistant Art Director",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 2155598,
+				"name": "Thomas Salpietro",
+				"job": "Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 1313928,
+				"name": "Antoinette Messam",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2065595,
+				"name": "Candice Preddy",
+				"job": "Unit Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 1492511,
+				"name": "Stephanie Whonsetler",
+				"job": "Executive In Charge Of Production",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 3118534,
+				"name": "Matt Haggerty",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2647144,
+				"name": "Jay Corry",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2559410,
+				"name": "Victoria Liu",
+				"job": "Third Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1775908,
+				"name": "Guy Campbell",
+				"job": "Second Unit First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2969953,
+				"name": "Marieke Spence",
+				"job": "Second Assistant Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 2402752,
+				"name": "Elliot Hartley",
+				"job": "Sound Supervisor",
+				"department": "Sound"
+			},
+			{
+				"id": 2704304,
+				"name": "Austin Roth",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1454936,
+				"name": "Brian Cox",
+				"job": "Special Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 3958,
+				"name": "James McQuaide",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 3958,
+				"name": "James McQuaide",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1392722,
+				"name": "Reg Garside",
+				"job": "Gaffer",
+				"department": "Lighting"
+			},
+			{
+				"id": 1394768,
+				"name": "Peter McCaffrey",
+				"profile_path": "/9a6nbtbt0c8R4OCBAaZMkPGDVEF.jpg",
+				"job": "Second Unit Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 2398101,
+				"name": "Jacqueline Gallagher",
+				"job": "Casting Associate",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2315984,
+				"name": "David Russell",
+				"profile_path": "/WpAbdpGRp13PsTHwdPh7ducgXq.jpg",
+				"job": "Storyboard Artist",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1422673,
+				"name": "Jason Lei Howden",
+				"profile_path": "/4SybBzMHKYfU6jKByLn7n4pFCFX.jpg",
+				"job": "Digital Compositor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 3754406,
+				"name": "Ryan Makepeace",
+				"job": "Travel Coordinator",
+				"department": "Production"
+			},
+			{
+				"id": 1018965,
+				"name": "Lisa Lassek",
+				"profile_path": "/mbtXqnNEiUA8ixsLTjuwo3XVBLa.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 3462466,
+				"name": "Lynn Gephart",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 450952,
+				"name": "Joe Ballarini",
+				"profile_path": "/hQ9zJG84u3zf375gDmV5GTK4VSE.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 59703,
+				"name": "Frank E. Flowers",
+				"profile_path": "/eguppPFKy8xfEOajWrbHugA0uJ.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 8691,
+				"name": "Zoe Saldaña",
+				"profile_path": "/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 450952,
+				"name": "Joe Ballarini",
+				"profile_path": "/hQ9zJG84u3zf375gDmV5GTK4VSE.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 59703,
+				"name": "Frank E. Flowers",
+				"profile_path": "/eguppPFKy8xfEOajWrbHugA0uJ.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2650970,
+				"name": "Kassee Whiting",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1531843,
+				"name": "Thorsten Schumacher",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			}
+		]
+	}
+}
