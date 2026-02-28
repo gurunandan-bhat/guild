@@ -1,0 +1,630 @@
+{
+	"id": 1220564,
+	"title": "The Secret Agent",
+	"fcg_title": "The Secret Agent",
+	"original_title": "O Agente Secreto",
+	"original_language": "pt",
+	"genres": [
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
+	"backdrop_path": "/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg",
+	"poster_path": "/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
+	"release_date": "2025-07-23",
+	"credits": {
+		"cast": [
+			{
+				"id": 52583,
+				"order": 0,
+				"name": "Wagner Moura",
+				"profile_path": "/6gcfwvOueJKhDpTP9KLGuWz0Hk4.jpg",
+				"character": "Armando Solimões / Marcelo Alves / Adult Fernando Solimões",
+				"gender": 2
+			},
+			{
+				"id": 2346588,
+				"order": 1,
+				"name": "Carlos Francisco",
+				"profile_path": "/ihf4bN4GuScyA2QwlzVCnPqOuOo.jpg",
+				"character": "Seu Alexandre",
+				"gender": 2
+			},
+			{
+				"id": 4497686,
+				"order": 2,
+				"name": "Tânia Maria",
+				"profile_path": "/m6pwRC7Jh9AqrKkGreQqwzasiWC.jpg",
+				"character": "Dona Sebastiana",
+				"gender": 1
+			},
+			{
+				"id": 2375667,
+				"order": 3,
+				"name": "Robério Diógenes",
+				"profile_path": "/dLYYDd4FwB8fMb5A7Q54UOfxdet.jpg",
+				"character": "Euclides Cavalcante",
+				"gender": 2
+			},
+			{
+				"id": 143500,
+				"order": 4,
+				"name": "Roney Villela",
+				"profile_path": "/y0S7k8ahQF8FAJ0ZCzK2BfTKbz0.jpg",
+				"character": "Augusto Borba",
+				"gender": 2
+			},
+			{
+				"id": 1475555,
+				"order": 5,
+				"name": "Gabriel Leone",
+				"profile_path": "/wvinAoGZiOGczIEtXWFmXGMl0QC.jpg",
+				"character": "Bobbi Borba",
+				"gender": 2
+			},
+			{
+				"id": 2652283,
+				"order": 6,
+				"name": "Alice Carvalho",
+				"profile_path": "/xj2BDbWC0ECOlT3tBaIG0su74Ea.jpg",
+				"character": "Fátima",
+				"gender": 1
+			},
+			{
+				"id": 583446,
+				"order": 7,
+				"name": "Hermila Guedes",
+				"profile_path": "/dJJh7sekL9dl77tviU5yEVXa1qo.jpg",
+				"character": "Claudia",
+				"gender": 1
+			},
+			{
+				"id": 1691901,
+				"order": 8,
+				"name": "Isabél Zuaa",
+				"profile_path": "/jpOLvpTvOmPheFsM8thqMHXuwK3.jpg",
+				"character": "Thereza Vitória",
+				"gender": 1
+			},
+			{
+				"id": 228057,
+				"order": 9,
+				"name": "Maria Fernanda Cândido",
+				"profile_path": "/wC2gTlttR4GnUB4YMJscIOY8hWk.jpg",
+				"character": "Elza / Sara Guébert",
+				"gender": 1
+			},
+			{
+				"id": 2346576,
+				"order": 10,
+				"name": "Thomás Aquino",
+				"profile_path": "/cTtrEWKpRijXbnSsGzof0E6XBnP.jpg",
+				"character": "Valdemar",
+				"gender": 2
+			},
+			{
+				"id": 4067166,
+				"order": 11,
+				"name": "Laura Lufési",
+				"profile_path": "/yWsxc5qPMSvmh2eWuSPTRMOImSN.jpg",
+				"character": "Flavia",
+				"gender": 1
+			},
+			{
+				"id": 3466387,
+				"order": 12,
+				"name": "Isadora Ruppert",
+				"profile_path": "/pFzB54w8OJoNEtnxM9r1XApQEsj.jpg",
+				"character": "Dani",
+				"gender": 1
+			},
+			{
+				"id": 3789835,
+				"order": 13,
+				"name": "Igor de Araújo",
+				"profile_path": "/2TehKBRUZoINtpEhXG2uRoTQKii.jpg",
+				"character": "Sergio"
+			},
+			{
+				"id": 3393101,
+				"order": 14,
+				"name": "Ítalo Martins",
+				"profile_path": "/w6e8raYkzlwP7KdYMQtd15vabY6.jpg",
+				"character": "Arlindo",
+				"gender": 2
+			},
+			{
+				"id": 1646,
+				"order": 15,
+				"name": "Udo Kier",
+				"profile_path": "/lIOGDMvrVHMgPXdhicLI41tY1zf.jpg",
+				"character": "Hans",
+				"gender": 2
+			},
+			{
+				"id": 1475559,
+				"order": 16,
+				"name": "João Vitor Silva",
+				"profile_path": "/bZpVz0lo3KRfct8W1Be32TMKuYW.jpg",
+				"character": "Haroldo",
+				"gender": 2
+			},
+			{
+				"id": 1010666,
+				"order": 17,
+				"name": "Luciano Chirolli",
+				"profile_path": "/aIRTY6gQBmvpaRBGM5z6wAxyQlm.jpg",
+				"character": "Henrique Ghirotti"
+			},
+			{
+				"id": 1782599,
+				"order": 18,
+				"name": "Geane Albuquerque",
+				"profile_path": "/2pT4r1t6KdWoe3QkQnZIcZmm2o1.jpg",
+				"character": "Elizangêla"
+			},
+			{
+				"id": 4800288,
+				"order": 19,
+				"name": "Fafa Dantas",
+				"character": "Das Dores"
+			},
+			{
+				"id": 2346581,
+				"order": 20,
+				"name": "Suzy Lopes",
+				"profile_path": "/9wFqEjLoVF2rvZM3gVckDgAnUKK.jpg",
+				"character": "Carmen",
+				"gender": 1
+			},
+			{
+				"id": 1267496,
+				"order": 21,
+				"name": "Gregorio Graziosi",
+				"character": "Salvatore"
+			},
+			{
+				"id": 3295590,
+				"order": 22,
+				"name": "Joálisson Cunha",
+				"profile_path": "/poSvEHjLNkY7ptLjCYKzYoUfWxT.jpg",
+				"character": "Gas Station Attendant",
+				"gender": 2
+			},
+			{
+				"id": 2542045,
+				"order": 23,
+				"name": "Aline Marta Maia",
+				"profile_path": "/m0HudTyhXwBN6ve66fP8MCFlqEi.jpg",
+				"character": "Dona Zuleika",
+				"gender": 1
+			},
+			{
+				"id": 1363243,
+				"order": 24,
+				"name": "Buda Lira",
+				"profile_path": "/m74o52kWp9USrOnANuUNNqgywCj.jpg",
+				"character": "Anísio",
+				"gender": 2
+			},
+			{
+				"id": 1759957,
+				"order": 25,
+				"name": "Wilson Rabelo",
+				"profile_path": "/rwFWrqYYtvCfDUZi3Rmfdr130ef.jpg",
+				"gender": 2
+			},
+			{
+				"id": 2399921,
+				"order": 26,
+				"name": "Erivaldo Oliveira",
+				"profile_path": "/bex041md0jd2V6idl7JYMmZRwRk.jpg",
+				"character": "Severino"
+			},
+			{
+				"id": 5366812,
+				"order": 27,
+				"name": "Enzo Nunes",
+				"character": "Fernando"
+			},
+			{
+				"id": 4480963,
+				"order": 28,
+				"name": "Márcio De Paula",
+				"character": "Police Officer"
+			},
+			{
+				"id": 2483247,
+				"order": 29,
+				"name": "Fabiana Pirro",
+				"character": "Doctor Inês",
+				"gender": 1
+			},
+			{
+				"id": 1677905,
+				"order": 30,
+				"name": "Rubens Santos",
+				"profile_path": "/eyNsZkTUhiz15B5Fp4UXJItAPnr.jpg",
+				"character": "Natalício",
+				"gender": 2
+			},
+			{
+				"id": 4225514,
+				"order": 31,
+				"name": "Kaiony Venâncio",
+				"profile_path": "/z0sjZwPwoTXQhfA2jghKSAPAgXI.jpg",
+				"character": "Vilmar",
+				"gender": 2
+			},
+			{
+				"id": 2922091,
+				"order": 32,
+				"name": "Licínio Januário",
+				"profile_path": "/1e5dE2kJ9YCRX4iKWiMVcbM9jGh.jpg",
+				"character": "Antônio",
+				"gender": 2
+			},
+			{
+				"id": 967080,
+				"order": 33,
+				"name": "Marcelo Valle",
+				"profile_path": "/4OzWWkxbCwdIBuwUs8ENLbGhdis.jpg",
+				"character": "João Carpinteiro",
+				"gender": 2
+			},
+			{
+				"id": 5366816,
+				"order": 34,
+				"name": "Robson Andrade",
+				"character": "Clóvis"
+			},
+			{
+				"id": 1016256,
+				"order": 35,
+				"name": "Albert Tenorio"
+			},
+			{
+				"id": 1723409,
+				"order": 36,
+				"name": "Edilson Silva",
+				"profile_path": "/xNBm4S1eTWayzrOjaxZUUXPSkM1.jpg",
+				"character": "Aristeu",
+				"gender": 2
+			},
+			{
+				"id": 1016257,
+				"order": 37,
+				"name": "Nivaldo Nascimento"
+			},
+			{
+				"id": 3618755,
+				"order": 38,
+				"name": "Cely Farias"
+			},
+			{
+				"id": 1694028,
+				"order": 39,
+				"name": "Beto Quirino",
+				"gender": 2
+			},
+			{
+				"id": 5957569,
+				"order": 40,
+				"name": "Mariza Moreira",
+				"character": "Mulher Possuída",
+				"gender": 1
+			},
+			{
+				"id": 6033456,
+				"order": 41,
+				"name": "Alexis Geller",
+				"character": "Susan Schaffer"
+			},
+			{
+				"id": 6033457,
+				"order": 42,
+				"name": "Anjoum Noorani",
+				"character": "Sanjay Jasieen"
+			}
+		],
+		"crew": [
+			{
+				"id": 1016214,
+				"name": "Kleber Mendonça Filho",
+				"profile_path": "/7jOzp98FiL6C22tphTHEPWAhK11.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1987781,
+				"name": "Evgenia Alexandrova",
+				"profile_path": "/bLTKCsgky2XzjJFHUfC8LVRNxkI.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 1
+			},
+			{
+				"id": 1016227,
+				"name": "Emilie Lesclaux",
+				"profile_path": "/iqlemRpaT7r9Xzowf7Fo1SO4KpJ.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1016214,
+				"name": "Kleber Mendonça Filho",
+				"profile_path": "/7jOzp98FiL6C22tphTHEPWAhK11.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3392341,
+				"name": "Mariana Jacob",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 2267210,
+				"name": "Werick Dino Garcia",
+				"job": "Lighting Design",
+				"department": "Lighting",
+				"gender": 2
+			},
+			{
+				"id": 1756310,
+				"name": "Rita Azevedo",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1056103,
+				"name": "Marisa Amenta",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1404630,
+				"name": "Moabe Filho",
+				"job": "Sound",
+				"department": "Sound"
+			},
+			{
+				"id": 1029923,
+				"name": "Eduardo Serrano",
+				"profile_path": "/aOC2m0knltMEfcux6Kk8S5JN7Xd.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1927762,
+				"name": "Gabriel Domingues",
+				"profile_path": "/69dNiSWi3TLbVisflOJXZmZ2SUB.jpg",
+				"job": "Casting",
+				"department": "Production"
+			},
+			{
+				"id": 1848264,
+				"name": "Matheus Farias",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1983055,
+				"name": "Pedrinho Moreira",
+				"job": "Sound",
+				"department": "Sound"
+			},
+			{
+				"id": 2406129,
+				"name": "Tijn Hazen",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 2406129,
+				"name": "Tijn Hazen",
+				"job": "Sound Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 1407213,
+				"name": "Cyril Holtz",
+				"profile_path": "/kGDW5wJhw0XCr60zwMDkca9cFjr.jpg",
+				"job": "Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1949998,
+				"name": "Dora Amorim",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1432933,
+				"name": "Thales Junqueira",
+				"profile_path": "/zXDvI00Bm6lQ6Yieb0HCcP6bSy5.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1409443,
+				"name": "Mateus Alves",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 1099992,
+				"name": "Tomaz Alves de Souza",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 1016214,
+				"name": "Kleber Mendonça Filho",
+				"profile_path": "/7jOzp98FiL6C22tphTHEPWAhK11.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 52583,
+				"name": "Wagner Moura",
+				"profile_path": "/6gcfwvOueJKhDpTP9KLGuWz0Hk4.jpg",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2362887,
+				"name": "Pethrus Tiburcio",
+				"profile_path": "/woE73mgFw8sRoAnQslOVr07f03S.jpg",
+				"job": "Second Assistant Director",
+				"department": "Directing",
+				"gender": 3
+			},
+			{
+				"id": 20488,
+				"name": "Nathanaël Karmitz",
+				"profile_path": "/vYGdxfNgMIgksgXOoP7VrTLvxmv.jpg",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1471572,
+				"name": "Elisha Karmitz",
+				"profile_path": "/onLS29iRWwDxZt4HPbq69q8IqTD.jpg",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3719499,
+				"name": "Fionnuala Jamison",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5240182,
+				"name": "Olivier Barbier",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1906179,
+				"name": "Erik Glijnis",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 54256,
+				"name": "Leontine Petit",
+				"profile_path": "/k8MW6seqfwyt3XzCYpQMOKQNH6n.jpg",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 3600995,
+				"name": "Fred Burle",
+				"profile_path": "/K03REYWgy1p8Qku9F9T8HaNX5S.jpg",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 28547,
+				"name": "Sol Bondy",
+				"profile_path": "/moAwkXNFSfTXLjU4KJYVYT3CK8p.jpg",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2475930,
+				"name": "Brent Travers",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1451497,
+				"name": "Olivier Père",
+				"profile_path": "/w3e88Dn1Usb6fNKNElkVfJBybla.jpg",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 32463,
+				"name": "Rémi Burah",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4713794,
+				"name": "Yasmine Talli",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3275591,
+				"name": "Julian Haisch",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1891223,
+				"name": "Martín Kalina",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3896747,
+				"name": "Nicolás Pérez Veiga",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2645535,
+				"name": "Alfredo Pérez Veiga",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1623009,
+				"name": "Fellipe Fernandes",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 3833803,
+				"name": "David Moura",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4775702,
+				"name": "Winston Araújo",
+				"job": "Producer",
+				"department": "Production"
+			}
+		]
+	}
+}
