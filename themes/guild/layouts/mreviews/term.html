@@ -61,6 +61,11 @@
                                             {{ .Params.subtitle }}
                                         </h2>
                                         {{- partial "new-review-header.html" (dict "review" . "short" true) }}
+                                        {{ with .Params.opening }}
+                                            <p class="author">
+                                                {{ . }}
+                                            </p>
+                                        {{ end }}
                                         <div class="small">
                                             {{ .Summary }}
                                         </div>
