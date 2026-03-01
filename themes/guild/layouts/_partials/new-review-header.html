@@ -18,28 +18,30 @@
                 {{- end }}
             {{- end }}
             {{ $reviewsPageLink := index site.Taxonomies.critics (lower $critic) }}
-            <p class="media-card__label mb-2">
-                <a href="{{ $reviewsPageLink.Page.RelPermalink }}"
-                    >{{ $critic }}</a
-                >
-                <span class="organization">
-                    {{ with index $criticPage.Params.organizations 0 }}
-                        |
-                        {{ . }}
-                    {{ end }}
-                    {{ with $review.Params.publication }}
-                        Writing for
-                        <span class="bolder">{{ . }}</span>
-                    {{ end }}
-                </span>
-            </p>
-            <p class="media-card__title fw-bolder">
-                {{- if $short }}
-                    {{ $review.Params.Date.Format "Mon, January 2 2006" }}
-                {{- else }}
-                    {{ $review.Params.subtitle }}
-                {{- end }}
-            </p>
+            <div style="overflow: hidden;">
+                <p class="media-card__label mb-2">
+                    <a href="{{ $reviewsPageLink.Page.RelPermalink }}"
+                        >{{ $critic }}</a
+                    >
+                    <span class="organization">
+                        {{ with index $criticPage.Params.organizations 0 }}
+                            |
+                            {{ . }}
+                        {{ end }}
+                        {{ with $review.Params.publication }}
+                            Writing for
+                            <span class="bolder">{{ . }}</span>
+                        {{ end }}
+                    </span>
+                </p>
+                <p class="media-card__title fw-bolder">
+                    {{- if $short }}
+                        {{ $review.Params.Date.Format "Mon, January 2 2006" }}
+                    {{- else }}
+                        {{ $review.Params.subtitle }}
+                    {{- end }}
+                </p>
+            </div>
         </div>
     </div>
 </div>
