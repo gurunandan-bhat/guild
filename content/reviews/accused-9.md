@@ -10,7 +10,7 @@ opening = ""
 img = 'accused-9.webp'
 media = 'print'
 source = "https://www.m9.news/ott-review/accused-web-series-review-this-metoo-thriller-is-a-mixed-bag/"
-scores = []
+scores = [4.5]
 +++
 
 Celebrated surgeon Geetika Sen sees her life collapse after anonymous allegations of sexual misconduct surface at her hospital. As an official inquiry begins and social media outrage intensifies, the mounting suspicion creates a severe crisis of trust between Geetika and her partner, Meera. While fighting to save her career, Geetika must navigate a web of secrets and past professional rivalries to prove her innocence.
