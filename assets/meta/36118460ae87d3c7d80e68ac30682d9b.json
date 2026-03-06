@@ -1,0 +1,72 @@
+{
+	"id": 313100,
+	"name": "Hello Bachhon",
+	"fcg_title": "Hello Bachhon",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "A physics teacher sets out to make quality education accessible to all students through online learning.",
+	"backdrop_path": "/akwxUU6YDiAixkx7t8AOSzxzkNG.jpg",
+	"poster_path": "/sBprJ6cIkWWKl4ABWgxNDKxe9kL.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 1427894,
+				"order": 0,
+				"name": "Vineet Kumar Singh",
+				"profile_path": "/8mDoHcQQ82f7FYK8B22VK9DLkLA.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1715408,
+				"order": 1,
+				"name": "Vikram Kochhar",
+				"profile_path": "/qzwC8ebdicpuoVjfsM3KQSG6J9O.jpg",
+				"gender": 2
+			},
+			{
+				"id": 897996,
+				"order": 2,
+				"name": "Girija Oak",
+				"profile_path": "/f10HPTExCVQ8mZXShctpWPsxxaw.jpg",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 3932305,
+				"name": "Pratish Mehta",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2306033,
+				"name": "Abhishek Yadav",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 5530866,
+				"name": "Ankit Yadav",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 3616442,
+				"name": "Vijay Koshy",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2306036,
+				"name": "Shreyansh Pandey",
+				"job": "Executive Producer",
+				"department": "Production"
+			}
+		]
+	}
+}
