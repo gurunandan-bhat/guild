@@ -16,7 +16,7 @@
 {{ end }}
 {{ $oldScore := $score }}
 {{ $oldOutOf := $outOf }}
-{{ $freeScores := site.Data.freescores }}
+{{ $freeScores := hugo.Data.freescores }}
 {{ with index $freeScores $title }}
     {{ range $key, $value := . }}
         {{ $score = add $score $value }}

@@ -4,7 +4,7 @@
 {{ $score := partial "fcg-rating-raw" $review.LinkTitle }}
 {{ $showCast := index . "showCast" }}
 {{ $pageImage := $review.Params.img }}
-{{ $languages := site.Data.languages.languages }}
+{{ $languages := hugo.Data.languages.languages }}
 {{ $reviewHref := partial "taxonomy/mreviews/reviewLink-raw.html" $review.LinkTitle }}
 
 {{ $imgLink := partial "backdrop.html" $review }}

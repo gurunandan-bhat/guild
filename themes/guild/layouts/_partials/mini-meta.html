@@ -2,7 +2,7 @@
 {{ $scoreImg := partial "fcg-rating.html" (dict "title" $page.LinkTitle) }}
 {{ $score := partial "fcg-rating-raw" $page.LinkTitle }}
 {{ $pageImage := $page.Params.img }}
-{{ $languages := site.Data.languages.languages }}
+{{ $languages := hugo.Data.languages.languages }}
 {{ $reviewLink := partial "taxonomy/mreviews/reviewLink-raw.html" $page.LinkTitle }}
 {{ $imgLink := partial "backdrop.html" $page }}
 {{ with partialCached "tmdb-meta.html" $page.Title $page.Title }}

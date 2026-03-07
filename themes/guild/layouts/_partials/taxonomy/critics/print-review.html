@@ -1,4 +1,4 @@
-{{ $extLinkIcon := index site.Data.svgicons.icons "externalLink" }}
+{{ $extLinkIcon := index hugo.Data.svgicons.icons "externalLink" }}
 {{ $critic := index .Params.critics 0 }}
 {{ $titleAnchor := lower (replace .Title " " "-") }}
 <div class="row mb-3">

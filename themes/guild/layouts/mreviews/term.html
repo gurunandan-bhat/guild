@@ -1,5 +1,5 @@
 {{ define "main" }}
-    {{ $extLinkIcon := index site.Data.svgicons.icons "externalLink" | safeHTML }}
+    {{ $extLinkIcon := index hugo.Data.svgicons.icons "externalLink" | safeHTML }}
     {{- $red := "\033[0;31m" }}
     {{- $reset := "\033[0m" }}
     <div class="container-fluid">

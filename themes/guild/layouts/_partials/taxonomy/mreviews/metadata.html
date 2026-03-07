@@ -21,7 +21,7 @@
     {{ end }}
 {{ end }}
 
-{{ $languages := site.Data.languages.languages }}
+{{ $languages := hugo.Data.languages.languages }}
 {{ $language := "" }}
 {{ with $metadata.original_language }}
     {{ $language = (index $languages .).english_name }}

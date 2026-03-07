@@ -37,7 +37,7 @@
     <div class="container mt-5 pt-5">
         <h2 class="fw-bold mb-5">Index of Reviews by Film</h2>
         <p class="text-center">
-            {{ range site.Data.alphabets.letters }}
+            {{ range hugo.Data.alphabets.letters }}
                 <span class="d-inline-block px-2 oswald-400 display">
                     {{ if isset $index . }}
                         <a href="#{{ . }}">{{ . }}</a>
@@ -53,7 +53,7 @@
             <h2 class="display">
                 {{ $firstChar }}
                 <a class="fira-sans-regular small" href="#top"
-                    >{{ index site.Data.svgicons.icons "backArrow" | safeHTML }}</a
+                    >{{ index hugo.Data.svgicons.icons "backArrow" | safeHTML }}</a
                 >
             </h2>
             <div class="row">
