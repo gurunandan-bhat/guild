@@ -1,0 +1,147 @@
+{
+	"id": 111110,
+	"name": "ONE PIECE",
+	"fcg_title": "One Piece S02",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 10759,
+			"name": "Action \u0026 Adventure"
+		},
+		{
+			"id": 10765,
+			"name": "Sci-Fi \u0026 Fantasy"
+		}
+	],
+	"overview": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
+	"backdrop_path": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
+	"poster_path": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 2177750,
+				"order": 0,
+				"name": "Iñaki Godoy",
+				"profile_path": "/93Z6KuFpqoDD1xN5kuswYQzbWe6.jpg",
+				"character": "Monkey D. Luffy",
+				"gender": 2
+			},
+			{
+				"id": 1568101,
+				"order": 1,
+				"name": "Emily Rudd",
+				"profile_path": "/y23GTdDPcryBVtSWjY9q2O9nzwV.jpg",
+				"character": "Nami",
+				"gender": 1
+			},
+			{
+				"id": 1566805,
+				"order": 2,
+				"name": "Mackenyu",
+				"profile_path": "/bacZSFemex2oUexBccrbIksGxGz.jpg",
+				"character": "Roronoa Zoro",
+				"gender": 2
+			},
+			{
+				"id": 2355316,
+				"order": 3,
+				"name": "Jacob Gibson",
+				"profile_path": "/c6uP24uFslQ3hnEgqPkojAbYuZn.jpg",
+				"character": "Usopp",
+				"gender": 2
+			},
+			{
+				"id": 1031249,
+				"order": 4,
+				"name": "Jeff Ward",
+				"profile_path": "/55Vj8VuALnptdxjJYCH6EdPyR0j.jpg",
+				"character": "Buggy the Clown",
+				"gender": 2
+			},
+			{
+				"id": 2498631,
+				"order": 5,
+				"name": "Taz Skylar",
+				"profile_path": "/3EXMkfzB8EXn3ZJPJvK6OfPWLfz.jpg",
+				"character": "Sanji",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1636831,
+				"name": "Joe Tracz",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1225826,
+				"name": "Steven Maeda",
+				"profile_path": "/a00n6nPpeC5bv6tG9fHv099W2d3.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1215767,
+				"name": "Marty Adelstein",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1405747,
+				"name": "Becky Clements",
+				"profile_path": "/r3I0VJ6pRr3wI499m2i00orCqcw.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 84840,
+				"name": "Eiichiro Oda",
+				"profile_path": "/4YkEwEiz0E7EKYZzW8Fy4EGTITO.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 25456,
+				"name": "Chris Symes",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1515079,
+				"name": "Marc Jobst",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 537105,
+				"name": "Tim Southam",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1570569,
+				"name": "Tetsu Fujimura",
+				"profile_path": "/mH1JhsObROaLBiAwNOaRkuVMDhU.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 84840,
+				"name": "Eiichiro Oda",
+				"profile_path": "/4YkEwEiz0E7EKYZzW8Fy4EGTITO.jpg",
+				"job": "Comic Book",
+				"department": "Writing",
+				"gender": 2
+			}
+		]
+	}
+}
