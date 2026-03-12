@@ -1,0 +1,90 @@
+{
+	"id": 1567479,
+	"title": "Adamya",
+	"fcg_title": "Adamya",
+	"original_title": "অদম্য",
+	"original_language": "bn",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "After a political assassination fails, 23-year-old Palash becomes a fugitive, hunted by the very system he once believed in. As he flees through the conflict-ridden Sundarbans, his understanding of ideology, resistance, and identity begins to shift. Caught between labels of extremist and revolutionary, anti-national and patriot, his journey becomes a gripping character study of belief, survival, and an unbroken spirit that refuses to die.",
+	"backdrop_path": "/3fvjXyzXarl7UGZgP25VwuEbva5.jpg",
+	"poster_path": "/6Ra6U2f3A60sDs9NBzywTv7cnse.jpg",
+	"release_date": "2026-02-13",
+	"credits": {
+		"cast": [
+			{
+				"id": 5981833,
+				"order": 0,
+				"name": "Aryuun Ghosh",
+				"profile_path": "/t3qCxP0R0bKCMC0fkKZxiqgVrLP.jpg",
+				"character": "Palash",
+				"gender": 2
+			},
+			{
+				"id": 2633620,
+				"order": 1,
+				"name": "Senjuti Roy Mukherjee",
+				"profile_path": "/2DpgUngJMK9Y47gXFIpsadjQy5y.jpg",
+				"character": "Palash's mother",
+				"gender": 1
+			},
+			{
+				"id": 5981835,
+				"order": 2,
+				"name": "Sourya Madrajee"
+			},
+			{
+				"id": 5981836,
+				"order": 3,
+				"name": "Subham Dutta"
+			},
+			{
+				"id": 5981838,
+				"order": 4,
+				"name": "Arjo Giri"
+			},
+			{
+				"id": 5981839,
+				"order": 5,
+				"name": "Relish Khan"
+			}
+		],
+		"crew": [
+			{
+				"id": 1151429,
+				"name": "Ranjan Ghosh",
+				"profile_path": "/7Xrke46RYThZyUPde1E6ZGeLh9X.jpg",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2693775,
+				"name": "Anjan Bose",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1151429,
+				"name": "Ranjan Ghosh",
+				"profile_path": "/7Xrke46RYThZyUPde1E6ZGeLh9X.jpg",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1151429,
+				"name": "Ranjan Ghosh",
+				"profile_path": "/7Xrke46RYThZyUPde1E6ZGeLh9X.jpg",
+				"job": "Story",
+				"department": "Writing"
+			}
+		]
+	}
+}
