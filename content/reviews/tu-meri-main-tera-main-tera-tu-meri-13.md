@@ -3,9 +3,9 @@ title = "Tu Meri Main Tera Main Tera Tu Meri"
 date = 2026-02-25T15:38:14+05:30
 draft = false
 mreviews = ["Tu Meri Main Tera Main Tera Tu Meri"]
-critics = ['Rohan Naahar']
+critics = ['Rohan Naahar', "Akhil Arora"]
 subtitle = "A Spotify Review"
-scores = [1]
+scores = [1, 1]
 +++
 
 {{< spotify id="0VqCuYUknNPvYXMyjpejOB" height="250" >}}

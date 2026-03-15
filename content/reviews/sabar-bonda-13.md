@@ -1,5 +1,5 @@
 +++
-critics = ["Akhil Arora"]
+critics = ["Akhil Arora", "Rohan Naahar"]
 date = 2026-02-13T19:56:46+05:30
 draft = false
 mreviews = ["Sabar Bonda"]

@@ -3,7 +3,7 @@ title = "Kennedy"
 date = 2026-02-25T11:54:20+05:30
 draft = false
 mreviews = ["Kennedy"]
-critics = ['Akhil Arora']
+critics = ['Akhil Arora', 'Rohan Naahar']
 subtitle = "A Spotify Review"
 scores = [3]
 +++

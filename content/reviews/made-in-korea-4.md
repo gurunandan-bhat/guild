@@ -3,9 +3,9 @@ title = "Made in Korea"
 date = 2026-03-14T16:54:51+05:30
 draft = false
 mreviews = ["Made in Korea"]
-critics = ['Rohan Naahar']
+critics = ['Rohan Naahar', "Akhil Arora"]
 subtitle = "A Spotify Review"
-scores = [1]
+scores = [1,1]
 +++
 
 {{< spotify id="26UFnNh43TOAwe80sRF8ki" height="250" >}}

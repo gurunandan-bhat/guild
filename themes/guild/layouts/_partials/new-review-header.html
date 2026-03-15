@@ -1,15 +1,20 @@
 {{ $review := .review }}
 {{ $short := .short }}
-{{ $critic := "" }}
+{{ $critics := slice }}
+
 {{ with (site.GetPage $review.Path) }}
-    {{ $critic = index .Params.critics 0 }}
+    {{ $critics = index .Params.critics }}
 {{ end }}
-{{ $criticPage := index (where (where site.RegularPages ".Type" "guild") ".Title" $critic) 0 }}
 <div class="row">
     <!-- Card 1 -->
     <div class="col-12">
         <div class="media-card">
-            {{ with resources.Get $criticPage.Params.img }}
+            {{- $imgPath := "/images/groups/the-long-take.jpeg" }}
+            {{- if eq (len $critics) 1 }}
+                {{ $criticPage := index (where (where site.RegularPages ".Type" "guild") ".Title" (index $critics 0)) 0 }}
+                {{- $imgPath = $criticPage.Params.img }}
+            {{- end }}
+            {{ with resources.Get $imgPath }}
                 {{ with .Resize "60x webp" }}
                     <img
                         src="{{- .RelPermalink }}"
@@ -17,22 +22,9 @@
                         class="media-card__img rounded-circle" />
                 {{- end }}
             {{- end }}
-            {{ $reviewsPageLink := index site.Taxonomies.critics (lower $critic) }}
             <div style="overflow: hidden;">
                 <p class="media-card__label mb-2">
-                    <a href="{{ $reviewsPageLink.Page.RelPermalink }}"
-                        >{{ $critic }}</a
-                    >
-                    <span class="organization">
-                        {{ with index $criticPage.Params.organizations 0 }}
-                            |
-                            {{ . }}
-                        {{ end }}
-                        {{ with $review.Params.publication }}
-                            Writing for
-                            <span class="bolder">{{ . }}</span>
-                        {{ end }}
-                    </span>
+                    {{- partial "inline/new-review-header/critic-links" (dict "critics" $critics "review" $review ) }}
                 </p>
                 <p class="media-card__title fw-bolder">
                     {{- if $short }}
@@ -45,3 +37,37 @@
         </div>
     </div>
 </div>
+
+{{- define "_partials/inline/new-review-header/critic-links.html" }}
+    {{- $critics := .critics }}
+    {{- $review := .review }}
+    {{- $line := slice }}
+    {{- $creditSlice := newScratch }}
+    {{- range $critics }}
+        {{ $criticPage := index (where (where site.RegularPages ".Type" "guild") ".Title" .) 0 }}
+        {{ $reviewsPageLink := index site.Taxonomies.critics (lower .) }}
+        {{- $link := $reviewsPageLink.Page.RelPermalink }}
+        {{- $org := $criticPage.Params.organizations }}
+        {{- $pub := $review.Params.publication }}
+        {{- $creditSlice.Add "credits" (slice (partial "inline/new-review-header/critic-credit.html" (dict "critic" . "link" $link "org" $org "pub" $pub))) }}
+    {{- end }}
+    {{ (delimit ($creditSlice.Get "credits") `, ` ` and `) | safeHTML }}
+{{- end }}
+
+{{- define "_partials/inline/new-review-header/critic-credit.html" }}
+    {{- $critic := .critic }}
+    {{- $link := .link }}
+    {{- $org := .org }}
+    {{- $pub := .pub }}
+    <a href="{{- $link }}">{{ $critic }}</a>
+    <span class="organization">
+        {{ with index $org 0 }}
+            |
+            {{ . }}
+        {{ end }}
+        {{ with $pub }}
+            writing for
+            <span class="bolder">{{ . }}</span>
+        {{ end }}
+    </span>
+{{- end }}

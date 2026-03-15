@@ -1,9 +1,9 @@
 +++
-critics = ["Akhil Arora"]
+critics = ["Akhil Arora", "Rohan Naahar"]
 date = 2026-01-07T19:00:16+05:30
 draft = false
 mreviews = ["Haq"]
-scores = [2]
+scores = [2, 1]
 subtitle = "A Spotify Review"
 title = "Haq"
 +++
