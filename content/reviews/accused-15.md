@@ -3,9 +3,9 @@ title = "Accused"
 date = 2026-03-02T18:49:31+05:30
 draft = false
 mreviews = ["Accused"]
-critics = ['Rohan Naahar']
+critics = ['Rohan Naahar', 'Akhil Arora']
 subtitle = "A Spotify Review"
-scores = [1]
+scores = [1, 2]
 +++
 
 {{< spotify id="2eLm1qcc5nIy0vmwrRs2hU" height="250" >}}
