@@ -46,10 +46,13 @@
     {{- range $critics }}
         {{ $criticPage := index (where (where site.RegularPages ".Type" "guild") ".Title" .) 0 }}
         {{ $reviewsPageLink := index site.Taxonomies.critics (lower .) }}
-        {{- $link := $reviewsPageLink.Page.RelPermalink }}
-        {{- $org := $criticPage.Params.organizations }}
-        {{- $pub := $review.Params.publication }}
-        {{- $creditSlice.Add "credits" (slice (partial "inline/new-review-header/critic-credit.html" (dict "critic" . "link" $link "org" $org "pub" $pub))) }}
+        {{- $creditSlice.Add "credits" (slice (partial "inline/new-review-header/critic-credit.html" (dict
+            "critic" .
+            "link" $reviewsPageLink.Page.RelPermalink
+            "org" $criticPage.Params.organizations
+            "pub" $review.Params.publication
+            )))
+        }}
     {{- end }}
     {{ (delimit ($creditSlice.Get "credits") `, ` ` and `) | safeHTML }}
 {{- end }}
