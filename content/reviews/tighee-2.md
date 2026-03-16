@@ -13,4 +13,4 @@ source = "https://indianexpress.com/article/entertainment/movie-review/tighee-re
 scores = [5]
 +++
 
-Tighee movie review: Marathi chamber drama Tighee (Three Of Us, or Us Three) features veteran Bharati Achrekar, familiar to Hindi film audiences through her impactful supporting roles, helming a story about simmering familial tensions, traumatic pasts, and the promise of a better future. She plays the terminally ill Hemlata — mother to two fractious daughters, Swati (Neha Pendse) and Sarika (Sonalee Kulkarni) — back home one last time.
+Marathi chamber drama Tighee (Three Of Us, or Us Three) features veteran Bharati Achrekar, familiar to Hindi film audiences through her impactful supporting roles, helming a story about simmering familial tensions, traumatic pasts, and the promise of a better future. She plays the terminally ill Hemlata — mother to two fractious daughters, Swati (Neha Pendse) and Sarika (Sonalee Kulkarni) — back home one last time.
