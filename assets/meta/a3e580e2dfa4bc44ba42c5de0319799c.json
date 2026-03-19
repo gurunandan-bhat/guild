@@ -1,0 +1,601 @@
+{
+	"id": 1582770,
+	"title": "Dhurandhar: The Revenge",
+	"fcg_title": "Dhurandhar: The Revenge",
+	"original_title": "धुरंधर: द रिवेंज",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
+	"backdrop_path": "/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
+	"poster_path": "/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+	"release_date": "2026-03-18",
+	"credits": {
+		"cast": [
+			{
+				"id": 224223,
+				"order": 0,
+				"name": "Ranveer Singh",
+				"profile_path": "/sRiwLmhduFghJo8U2coUafnDD4C.jpg",
+				"character": "Hamza Ali Mazari / Jaskirat Singh Rangi",
+				"gender": 2
+			},
+			{
+				"id": 52263,
+				"order": 1,
+				"name": "Arjun Rampal",
+				"profile_path": "/xaWBnRuImgOg2vEDX6mK6v3BwcW.jpg",
+				"character": "Major Iqbal",
+				"gender": 2
+			},
+			{
+				"id": 85519,
+				"order": 2,
+				"name": "R. Madhavan",
+				"profile_path": "/gaDrAdXxIrbBRCd9cX8YvJDEuLb.jpg",
+				"character": "Ajay Sanyal",
+				"gender": 2
+			},
+			{
+				"id": 85881,
+				"order": 3,
+				"name": "Sanjay Dutt",
+				"profile_path": "/oq4pnvWhl1HxKpp0KVlSfAr3Tiu.jpg",
+				"character": "SP Chaudhary Aslam",
+				"gender": 2
+			},
+			{
+				"id": 579817,
+				"order": 4,
+				"name": "Sara Arjun",
+				"profile_path": "/uyZIlCL6xwWlor6JYSmIYUiPE7M.jpg",
+				"character": "Yalina Jamali",
+				"gender": 1
+			},
+			{
+				"id": 110200,
+				"order": 5,
+				"name": "Rakesh Bedi",
+				"profile_path": "/dWLCiA3rqnaFPn9s0bk2MiSq5Mt.jpg",
+				"character": "Jameel Jamali",
+				"gender": 2
+			},
+			{
+				"id": 2985214,
+				"order": 6,
+				"name": "Danish Pandor",
+				"profile_path": "/vDAzq7SJtVlTIj10Oa55BV3Qszm.jpg",
+				"character": "Uzair Baloch"
+			},
+			{
+				"id": 1013936,
+				"order": 7,
+				"name": "Gaurav Gera",
+				"profile_path": "/l0kOZqfKusxfPp7wvkwDfNYT64K.jpg",
+				"character": "Mohammad Aalam"
+			},
+			{
+				"id": 1238310,
+				"order": 8,
+				"name": "Manav Gohil",
+				"profile_path": "/7E7FUlRJzzq6K3KWDo4H5UJlvqz.jpg",
+				"character": "Sushant Bansal",
+				"gender": 2
+			},
+			{
+				"id": 4678084,
+				"order": 9,
+				"name": "Ankit Sagar",
+				"profile_path": "/bO5OWuAhZRaYohtZnWWOMQDkEWI.jpg",
+				"character": "Javed Khanani"
+			},
+			{
+				"id": 1705304,
+				"order": 10,
+				"name": "Bimal Oberoi",
+				"profile_path": "/zAbX2B87d3XqsIq4Bus94HjPTU3.jpg",
+				"character": "Shirani"
+			},
+			{
+				"id": 1137399,
+				"order": 11,
+				"name": "Ashwin Dhar",
+				"profile_path": "/xuQSif47bN6GwSfSuRG7QMkOpab.jpg",
+				"character": "Arshad Pappu"
+			},
+			{
+				"id": 4235042,
+				"order": 12,
+				"name": "Danish Iqbal",
+				"profile_path": "/tOKa5BhjgtXXxw3IEBq6jRybH95.jpg",
+				"character": "Dawood Ibrahim",
+				"gender": 2
+			},
+			{
+				"id": 76790,
+				"order": 13,
+				"name": "Raj Zutshi",
+				"profile_path": "/aJmWL08uj2oVGd2cJmBuzNSO2LY.jpg",
+				"character": "General Samshad Hassan",
+				"gender": 2
+			},
+			{
+				"id": 3318529,
+				"order": 14,
+				"name": "Bhasha Sumbli",
+				"profile_path": "/bbQdL5MVtauZcbmO2O3TcvvFdap.jpg",
+				"character": "Veena"
+			},
+			{
+				"id": 1340979,
+				"order": 15,
+				"name": "Vijendar Singh",
+				"character": "Amarjit Singh Brar"
+			},
+			{
+				"id": 1115720,
+				"order": 16,
+				"name": "Yami Gautam Dhar",
+				"profile_path": "/wQwYuofypdW7JnglmyFbeWKu33j.jpg",
+				"gender": 1
+			},
+			{
+				"id": 150452,
+				"order": 17,
+				"name": "Saumya Tandon",
+				"profile_path": "/82wz6aMOxec67G7lrbuyZdw8oU6.jpg",
+				"character": "Ulfat",
+				"gender": 1
+			},
+			{
+				"id": 5909031,
+				"order": 18,
+				"name": "Akaisha Vats",
+				"character": "Uzair's Wife"
+			},
+			{
+				"id": 5249832,
+				"order": 19,
+				"name": "Mustafa Ahmed",
+				"profile_path": "/ZkfJjk9WADwQHmAm7i96l7TgW2.jpg",
+				"character": "Rizwan Shah"
+			},
+			{
+				"id": 5909040,
+				"order": 20,
+				"name": "Vivek Sinha",
+				"profile_path": "/4CzeMXS4R0g1M1JoB1Fi29QJeV8.jpg",
+				"character": "Zahoor Mistry (Zahid Akhund)"
+			},
+			{
+				"id": 5860809,
+				"order": 21,
+				"name": "Mushtaq Naika",
+				"character": "Altaf Khanani"
+			},
+			{
+				"id": 3790022,
+				"order": 22,
+				"name": "Carl A. Harte",
+				"character": "David Headley"
+			},
+			{
+				"id": 1547802,
+				"order": 23,
+				"name": "Faiz Khan",
+				"character": "Sajid Mir"
+			},
+			{
+				"id": 2452186,
+				"order": 24,
+				"name": "Vinod Tharani",
+				"character": "Azam Cheema",
+				"gender": 2
+			},
+			{
+				"id": 5909025,
+				"order": 25,
+				"name": "Sanjay Mehta",
+				"character": "Abdul Bhuttovi"
+			},
+			{
+				"id": 4473861,
+				"order": 26,
+				"name": "Udaybir Sandhu",
+				"character": "Pinda"
+			}
+		],
+		"crew": [
+			{
+				"id": 2152816,
+				"name": "Aditya Dhar",
+				"profile_path": "/2QpJoDkQDY6fykspjHc5m5Ws7ud.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1461570,
+				"name": "Lokesh Dhar",
+				"profile_path": "/giDMn8RDA8glyzA7GrN3lpmjITC.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2152816,
+				"name": "Aditya Dhar",
+				"profile_path": "/2QpJoDkQDY6fykspjHc5m5Ws7ud.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1658334,
+				"name": "Jyoti Deshpande",
+				"profile_path": "/fpbj5f3Uny0xdyPU8Qt5dMbi1PT.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2152816,
+				"name": "Aditya Dhar",
+				"profile_path": "/2QpJoDkQDY6fykspjHc5m5Ws7ud.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5548675,
+				"name": "Pankaj Rautela",
+				"job": "Casting",
+				"department": "Production"
+			},
+			{
+				"id": 2214303,
+				"name": "Shivkumar V. Panicker",
+				"profile_path": "/f1LbBl2sUURHPC4ABwozKOeAUy5.jpg",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 3350441,
+				"name": "Vikash Nowlakha",
+				"profile_path": "/9niQn9jpfngfbi0DztAy0da7IlY.jpg",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 2061230,
+				"name": "Sameer Sadhwani",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5548647,
+				"name": "Khushi Badiyani",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2835291,
+				"name": "Rohit Menon",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2304240,
+				"name": "Prerana Poddar",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5548651,
+				"name": "Hiren R. Bhadani",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5548655,
+				"name": "Sushant Vijay Shetge",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2355707,
+				"name": "Rohun Rege",
+				"job": "Second Unit Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2926879,
+				"name": "Rahul H. Gandhi",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2239032,
+				"name": "Sajjad Anwar",
+				"job": "Camera Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 5548667,
+				"name": "Brijesh Kumar Gupta",
+				"job": "Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 1646996,
+				"name": "Saini S. Johray",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 5541755,
+				"name": "Akash Bharankar",
+				"job": "Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 2255947,
+				"name": "Vishal Kapoor",
+				"job": "Visual Effects",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1911375,
+				"name": "Vijay Ganguly",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1790607,
+				"name": "Irshad Kamil",
+				"profile_path": "/20XNdVA9lA3NmyU1oUFVo39FokA.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2152816,
+				"name": "Aditya Dhar",
+				"profile_path": "/2QpJoDkQDY6fykspjHc5m5Ws7ud.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5824317,
+				"name": "Ojas Gautam",
+				"profile_path": "/vxhJJJXu1j2KKtL3gKYGtxMZ9PK.jpg",
+				"job": "Additional Writing",
+				"department": "Crew"
+			},
+			{
+				"id": 2214303,
+				"name": "Shivkumar V. Panicker",
+				"profile_path": "/f1LbBl2sUURHPC4ABwozKOeAUy5.jpg",
+				"job": "Additional Writing",
+				"department": "Crew"
+			},
+			{
+				"id": 1640326,
+				"name": "Preetisheel Singh",
+				"job": "Prosthetic Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 3588939,
+				"name": "Biswadeep Chatterjee",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 1911378,
+				"name": "Ramazan Bulut",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2111566,
+				"name": "Oh Se-yeong",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1434492,
+				"name": "Ejaz Gulab",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1690843,
+				"name": "Yannick Ben",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2472243,
+				"name": "Naseer Ahmed Khan",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3136357,
+				"name": "Aarsh Vora",
+				"profile_path": "/4VyOxTnGg32WBeIfODE8L5zhW17.jpg",
+				"job": "Creative Producer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 3790185,
+				"name": "Gautmik",
+				"job": "Post Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1560317,
+				"name": "Justin Jose",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2149909,
+				"name": "Ashirwad Hadkar",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 4243438,
+				"name": "Sumit Dhole",
+				"job": "Associate Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 4274727,
+				"name": "Juhi Gopalakishnan",
+				"job": "Associate Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 2045860,
+				"name": "Smriti Chauhan",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1785024,
+				"name": "Shashwat Sachdev",
+				"profile_path": "/otqlmbwKE7fuehNJDQkjjH94mus.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2358707,
+				"name": "Navtej Singh Rehal",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 6054722,
+				"name": "Khan Saab",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 2328056,
+				"name": "Jasmine Sandlas",
+				"profile_path": "/f1GekILMqwcKzuycSWY8S0R5onw.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 4445154,
+				"name": "Sudhir Yaduvanshi",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 5873438,
+				"name": "Reble",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 5873438,
+				"name": "Reble",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 6054723,
+				"name": "Token",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 6054723,
+				"name": "Token",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 5547129,
+				"name": "Dhruti Ranjan Sahoo",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2546383,
+				"name": "Prabal Pradhan",
+				"job": "Production Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 2408267,
+				"name": "Manas Bal",
+				"job": "Production Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1108802,
+				"name": "Mukesh Chhabra",
+				"profile_path": "/f5XI2wJs2JPcd5FSECsdcnkyOMW.jpg",
+				"job": "Casting Director",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1852111,
+				"name": "Satinder Sartaaj",
+				"profile_path": "/vNMUUdSfQUGRL3RbGvZs0tSLmwg.jpg",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 1852111,
+				"name": "Satinder Sartaaj",
+				"profile_path": "/vNMUUdSfQUGRL3RbGvZs0tSLmwg.jpg",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 6078211,
+				"name": "Vaibhav Gupta",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 6078213,
+				"name": "Shahzad Ali",
+				"job": "Playback Singer",
+				"department": "Sound"
+			}
+		]
+	}
+}
