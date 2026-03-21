@@ -29,4 +29,7 @@
 <meta name="description" content="{{- $description }}" />
 {{- partial "opengraph.html" $data }}
 {{- partial "twitter-card.html" $data }}
+{{- if eq .Path "/search" }}
+    <link rel="preconnect" href="https://challenges.cloudflare.com" />
+{{- end }}
 {{ partialCached "head/css.html" . }}

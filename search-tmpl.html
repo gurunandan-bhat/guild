@@ -1,0 +1,109 @@
+<!-- Results Section -->
+<div id="search-results-container" class="container mt-4" style="display:none;">
+    <div class="row">
+        <div class="col-md-8 offset-md-2">
+            <!-- Page navigator top -->
+            <div id="page-navigator-top"></div>
+            <!-- Results -->
+            <div id="search-results"></div>
+            <!-- Page navigator bottom -->
+            <div id="page-navigator-bottom"></div>
+        </div>
+    </div>
+</div>
+
+<!-- Error display -->
+<div id="search-error" class="container mt-4" style="display:none;">
+    <div class="row">
+        <div class="col-md-8 offset-md-2">
+            <div class="alert alert-danger" role="alert">
+                <span id="search-error-message"></span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Handlebars Templates -->
+<script id="result-item-template" type="text/x-handlebars-template">
+    {{#each hits}}
+    <div class="row mb-3">
+        <div class="col-md-3">
+            <img src="{{Poster}}" class="img-fluid w-100 mt-2 p-1 border" alt="{{LinkTitle}}" />
+        </div>
+        <div class="col-md-9">
+            <div class="card">
+                <div class="card-header">
+                    <h5>{{{LinkTitle}}}{{#if Genres}} ({{{Genres}}}){{/if}}</h5>
+                </div>
+                <div class="card-body">
+                    <table class="table table-sm card-table">
+                        {{#if AverageScore}}
+                        <tr>
+                            <th>FCG Rating</th>
+                            <td>{{AverageScore}}</td>
+                        </tr>
+                        {{/if}}
+                        {{#if Language}}
+                        <tr>
+                            <th>Language</th>
+                            <td>{{{Language}}}</td>
+                        </tr>
+                        {{/if}}
+                        {{#if Director}}
+                        <tr>
+                            <th>Director</th>
+                            <td>{{{Director}}}</td>
+                        </tr>
+                        {{/if}}
+                        {{#if Cast}}
+                        <tr>
+                            <th>Cast</th>
+                            <td>{{{Cast}}}</td>
+                        </tr>
+                        {{/if}}
+                        {{#if Reviewers}}
+                        <tr>
+                            <th>Reviewers</th>
+                            <td>{{{Reviewers}}}</td>
+                        </tr>
+                        {{/if}}
+                    </table>
+                    {{#if Overview}}
+                    <p class="mt-3">{{{Overview}}}</p>
+                    {{/if}}
+                    <a href="{{URLPath}}" target="_blank" rel="noopener">
+                        Read all reviews of {{{LinkTitle}}}
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <hr />
+    {{/each}}
+</script><script id="page-navigator-template" type="text/x-handlebars-template">
+    <div class="d-flex justify-content-center">
+        <div>
+            <h6 class="text-center">Displaying Page {{currentPage}} of {{totalPages}}</h6>
+            <ul class="pagination mb-3">
+                <li class="page-item {{#if isFirstPage}}disabled{{/if}}">
+                    <a class="page-link" href="#" data-goto-page="{{prevPage}}"
+                        {{#if isFirstPage}}aria-disabled="true" tabindex="-1"{{/if}}>
+                        Previous
+                    </a>
+                </li>
+                {{#each pageNumbers}}
+                <li class="page-item {{#if this.isActive}}active{{/if}}">
+                    <a class="page-link" href="#" data-goto-page="{{this.index}}">{{this.label}}</a>
+                </li>
+                {{/each}}
+                <li class="page-item {{#if isLastPage}}disabled{{/if}}">
+                    <a class="page-link" href="#"
+                        {{#if isLastPage}}aria-disabled="true" tabindex="-1"{{/if}}
+                        data-goto-page="{{nextPage}}">
+                        Next
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</script>

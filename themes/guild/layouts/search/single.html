@@ -1,0 +1,57 @@
+{{ define "main" }}
+    <div class="container">
+        <div style="margin-top: 75px;">
+            <div class="row mt-5">
+                <div class="col-lg-4 offset-lg-4 px-3 text-center">
+                    <h2 class="section-head text-center">FCG Search</h2>
+                    <form id="search-form" method="post">
+                        <div class="d-flex mb-3">
+                            <input
+                                id="qry"
+                                name="qry"
+                                class="form-control me-2"
+                                placeholder="Your query string here..."
+                                aria-label="Search"
+                                required />
+                            <button
+                                id="submit"
+                                class="btn btn-sm btn-outline-success"
+                                type="submit"
+                                disabled>
+                                Search
+                            </button>
+                        </div>
+                        <div
+                            class="cf-turnstile text-center px-5"
+                            data-sitekey="0x4AAAAAACtG4_fmCXPDKJ4q"
+                            data-theme="light"
+                            data-callback="onTurnstileSuccess"
+                            data-size="normal"></div>
+                    </form>
+                </div>
+            </div>
+            {{ with resources.Get "js/search.js" }}
+                {{ $opts := dict
+                    "minify" (cond hugo.IsDevelopment false true)
+                    "sourceMap" (cond hugo.IsDevelopment "linked" "none")
+                }}
+                {{ with . | js.Build $opts }}
+                    {{ if hugo.IsDevelopment }}
+                        <script src="{{ .RelPermalink }}"></script>
+                    {{ else }}
+                        {{ with . | fingerprint }}
+                            <script
+                                src="{{ .RelPermalink }}"
+                                integrity="{{ .Data.Integrity }}"
+                                crossorigin="anonymous"></script>
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+            <script
+                src="https://challenges.cloudflare.com/turnstile/v0/api.js"
+                async
+                defer></script>
+        </div>
+    </div>
+{{ end }}
