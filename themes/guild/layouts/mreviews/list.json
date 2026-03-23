@@ -2,7 +2,11 @@
 {{- range .Pages }}
     {{- $pageMap := (jsonify . ) | transform.Unmarshal }}
     {{- $score := partial "fcg-rating-raw.html" .LinkTitle }}
+    {{- $posterLink := partial "poster-link.html" .LinkTitle }}
     {{- $pageMap = merge $pageMap (dict "AverageScore" (div $score 10.0) "URLPath" (replaceRE `[:'\*()&,!]` "" .Path)) }}
+    {{- with $posterLink }}
+        {{- $pageMap = merge $pageMap (dict "LocalPosterPath" .) }}
+    {{- end }}
     {{- $films = append $pageMap $films }}
 {{- end }}
 {{- $films | jsonify (dict "prefix" "" "indent" "\t") }}
