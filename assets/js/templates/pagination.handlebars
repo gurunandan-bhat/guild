@@ -1,0 +1,51 @@
+<div class="d-flex justify-content-center mt-4">
+    <div>
+        <p class="text-center text-muted mb-2">
+            Page {{currentPage}} of {{totalPages}}
+        </p>
+        <ul class="pagination">
+
+            {{!-- Previous button --}}
+            <li class="page-item {{#if isFirstPage}}disabled{{/if}}">
+                    <a
+                    class="page-link"
+                    href="#"
+                    aria-label="Previous"
+                    role="button"
+                    {{#if isFirstPage}}aria-disabled="true" tabindex="-1"{{/if}}
+                    {{#unless isFirstPage}}data-goto-page="{{prevPage}}"{{/unless}}>
+                    <span aria-hidden="true">&laquo;</span>
+                </a>
+            </li>
+
+            {{!-- Page number slots (sliding window of 5) --}}
+            {{#each pageNumbers}}
+                <li class="page-item {{#if this.isActive}}active{{/if}}">
+                        <a
+                        class="page-link"
+                        href="#"
+                        aria-label="Page {{this.label}}"
+                        role="button"
+                        {{#if this.isActive}}aria-current="page"{{/if}}
+                        {{#unless this.isActive}}data-goto-page="{{this.index}}"{{/unless}}>
+                        {{this.label}}
+                    </a>
+                </li>
+            {{/each}}
+
+            {{!-- Next button --}}
+            <li class="page-item {{#if isLastPage}}disabled{{/if}}">
+                    <a
+                    class="page-link"
+                    href="#"
+                    aria-label="Next"
+                    role="button"
+                    {{#if isLastPage}}aria-disabled="true" tabindex="-1"{{/if}}
+                    {{#unless isLastPage}}data-goto-page="{{nextPage}}"{{/unless}}>
+                    <span aria-hidden="true">&raquo;</span>
+                </a>
+            </li>
+
+        </ul>
+    </div>
+</div>

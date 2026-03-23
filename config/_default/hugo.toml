@@ -4,6 +4,10 @@ title         = 'Film Critics Guild Reviews'
 theme         = 'guild'
 summaryLength = 30
 
+[params]
+    algoliaSearchEndpoint = 'https://z0njtycwm6.execute-api.ap-south-1.amazonaws.com/prod/search'
+    apiKey = "qkIQ6276FyaRzBlhxM3kN8BGd22TWNyN9LNK7qSC"
+
 [pagination]
 pagerSize = 6
 

@@ -16,42 +16,57 @@
                             <button
                                 id="submit"
                                 class="btn btn-sm btn-outline-success"
-                                type="submit"
-                                disabled>
+                                type="submit">
                                 Search
                             </button>
                         </div>
-                        <div
-                            class="cf-turnstile text-center px-5"
-                            data-sitekey="0x4AAAAAACtG4_fmCXPDKJ4q"
-                            data-theme="light"
-                            data-callback="onTurnstileSuccess"
-                            data-size="normal"></div>
+                        {{- if hugo.IsProduction }}
+                            <div
+                                class="cf-turnstile text-center px-5"
+                                data-sitekey="0x4AAAAAACtG4_fmCXPDKJ4q"
+                                data-theme="light"
+                                data-callback="onTurnstileSuccess"
+                                data-error-callback="onTurnstileError"
+                                data-size="normal"></div>
+                        {{- end }}
                     </form>
                 </div>
             </div>
-            {{ with resources.Get "js/search.js" }}
-                {{ $opts := dict
-                    "minify" (cond hugo.IsDevelopment false true)
-                    "sourceMap" (cond hugo.IsDevelopment "linked" "none")
-                }}
-                {{ with . | js.Build $opts }}
-                    {{ if hugo.IsDevelopment }}
-                        <script src="{{ .RelPermalink }}"></script>
-                    {{ else }}
-                        {{ with . | fingerprint }}
-                            <script
-                                src="{{ .RelPermalink }}"
-                                integrity="{{ .Data.Integrity }}"
-                                crossorigin="anonymous"></script>
-                        {{ end }}
-                    {{ end }}
-                {{ end }}
-            {{ end }}
-            <script
-                src="https://challenges.cloudflare.com/turnstile/v0/api.js"
-                async
-                defer></script>
         </div>
     </div>
+    <div class="container small">
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2">
+                <div id="output" class="search-results smaller"></div>
+            </div>
+        </div>
+    </div>
+    {{- $searchEndpoint := .Site.Params.algoliaSearchEndpoint }}
+    {{- $apiKey := .Site.Params.apiKey }}
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
+    {{ with resources.Get "js/search.js" }}
+        {{ $opts := dict
+            "minify" (cond hugo.IsDevelopment false true)
+            "sourceMap" (cond hugo.IsDevelopment "linked" "none")
+            "params" (dict "searchEndpoint" $searchEndpoint "isProduction" hugo.IsProduction "apiKey" $apiKey)
+        }}
+        {{ with . | js.Build $opts }}
+            {{ if hugo.IsDevelopment }}
+                <script src="{{ .RelPermalink }}"></script>
+            {{ else }}
+                {{ with . | fingerprint }}
+                    <script
+                        src="{{ .RelPermalink }}"
+                        integrity="{{ .Data.Integrity }}"
+                        crossorigin="anonymous"></script>
+                {{ end }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+    {{- if hugo.IsProduction }}
+        <script
+            src="https://challenges.cloudflare.com/turnstile/v0/api.js"
+            async
+            defer></script>
+    {{- end }}
 {{ end }}
