@@ -15,22 +15,21 @@ let currentMinScore = 0;
 let currentPage = 0;
 
 // -----------------------------------------------
-// Turnstile callbacks (production only)
+// Turnstile callbacks
 // -----------------------------------------------
-if (params.isProduction) {
-	window.onTurnstileSuccess = function (token) {
-		// Auto-trigger search if page loaded with ?qry= param
-		const qryElem = document.getElementById('qry');
-		if (qryElem && qryElem.value) {
-			doSearch(token, qryElem.value, currentMinScore, currentPage);
-		}
-	};
+window.onTurnstileSuccess = function (token) {
+	// Auto-trigger search if page loaded with ?qry= param
+	console.log('Token avaiable:', token);
+	// const qryElem = document.getElementById('qry');
+	// if (qryElem && qryElem.value) {
+	// 	doSearch(token, qryElem.value, currentMinScore, currentPage);
+	// }
+};
 
-	window.onTurnstileError = function (err) {
-		showError('Security check failed. Please refresh and try again.');
-		console.error('Turnstile error:', err);
-	};
-}
+window.onTurnstileError = function (err) {
+	showError('Security check failed. Please refresh and try again.');
+	console.error('Turnstile error:', err);
+};
 
 // -----------------------------------------------
 // Pre-populate query from URL params
@@ -42,11 +41,8 @@ if (urlQry) {
 	if (qryElem) {
 		qryElem.value = urlQry;
 	}
-	// In development, trigger search immediately since there is no Turnstile
-	if (!params.isProduction) {
-		doSearch('', urlQry, currentMinScore, currentPage);
-	}
-	// In production the search is triggered by onTurnstileSuccess above
+	const token = document.getElementsByName('cf-turnstile-response')[0].value;
+	doSearch(token, urlQry, currentMinScore, currentPage);
 }
 
 // -----------------------------------------------
@@ -68,8 +64,11 @@ if (searchForm) {
 		currentMinScore = 0;
 		currentPage = 0;
 
-		const token = params.isProduction ? document.getElementsByName('cf-turnstile-response')[0].value : '';
-
+		// const token = document.getElementsByName('cf-turnstile-response')[0].value || '';
+		const token = window.turnstile.getResponse();
+		if (!token) {
+			console.log('No token available');
+		}
 		doSearch(token, currentTerm, currentMinScore, currentPage);
 	});
 }
@@ -91,8 +90,8 @@ document.addEventListener('click', function (e) {
 
 	currentPage = page;
 
-	const token = params.isProduction ? document.getElementsByName('cf-turnstile-response')[0].value : '';
-
+	// const token = document.getElementsByName('cf-turnstile-response')[0].value;
+	const token = window.turnstile.getResponse();
 	doSearch(token, currentTerm, currentMinScore, currentPage);
 	window.scrollTo({ top: 0, behavior: 'smooth' });
 });
@@ -130,12 +129,12 @@ function doSearch(token, term, minScore, page) {
 		})
 		.catch(function (err) {
 			hideLoading();
+			console.log('Error from doSearch:', err);
 			showError(err.message || 'An unexpected error occurred.');
 		})
 		.finally(function () {
-			if (params.isProduction && window.turnstile) {
-				window.turnstile.reset();
-			}
+			console.log('Request completed');
+			window.turnstile.reset();
 		});
 }
 

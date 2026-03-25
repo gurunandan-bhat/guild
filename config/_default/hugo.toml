@@ -5,8 +5,10 @@ theme         = 'guild'
 summaryLength = 30
 
 [params]
+    maxCastLength = 10
     algoliaSearchEndpoint = 'https://z0njtycwm6.execute-api.ap-south-1.amazonaws.com/prod/search'
     apiKey = "qkIQ6276FyaRzBlhxM3kN8BGd22TWNyN9LNK7qSC"
+    turnstileSiteKey = "0x4AAAAAACtG4_fmCXPDKJ4q"
 
 [pagination]
 pagerSize = 6

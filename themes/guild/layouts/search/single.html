@@ -14,21 +14,19 @@
                                 aria-label="Search"
                                 required />
                             <button
-                                id="submit"
+                                id="submit-search"
                                 class="btn btn-sm btn-outline-success"
                                 type="submit">
                                 Search
                             </button>
                         </div>
-                        {{- if hugo.IsProduction }}
-                            <div
-                                class="cf-turnstile text-center px-5"
-                                data-sitekey="0x4AAAAAACtG4_fmCXPDKJ4q"
-                                data-theme="light"
-                                data-callback="onTurnstileSuccess"
-                                data-error-callback="onTurnstileError"
-                                data-size="normal"></div>
-                        {{- end }}
+                        <div
+                            class="cf-turnstile text-center px-5"
+                            data-sitekey="{{- .Site.Params.turnstileSiteKey -}}"
+                            data-callback="onTurnstileSuccess"
+                            data-error-callback="onTurnstileError"
+                            data-theme="light"
+                            data-size="normal"></div>
                     </form>
                 </div>
             </div>
@@ -43,12 +41,16 @@
     </div>
     {{- $searchEndpoint := .Site.Params.algoliaSearchEndpoint }}
     {{- $apiKey := .Site.Params.apiKey }}
+    <script
+        src="https://challenges.cloudflare.com/turnstile/v0/api.js"
+        async
+        defer></script>
     <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
     {{ with resources.Get "js/search.js" }}
         {{ $opts := dict
             "minify" (cond hugo.IsDevelopment false true)
             "sourceMap" (cond hugo.IsDevelopment "linked" "none")
-            "params" (dict "searchEndpoint" $searchEndpoint "isProduction" hugo.IsProduction "apiKey" $apiKey)
+            "params" (dict "searchEndpoint" $searchEndpoint "apiKey" $apiKey)
         }}
         {{ with . | js.Build $opts }}
             {{ if hugo.IsDevelopment }}
@@ -63,10 +65,4 @@
             {{ end }}
         {{ end }}
     {{ end }}
-    {{- if hugo.IsProduction }}
-        <script
-            src="https://challenges.cloudflare.com/turnstile/v0/api.js"
-            async
-            defer></script>
-    {{- end }}
 {{ end }}
