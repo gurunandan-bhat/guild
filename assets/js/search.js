@@ -18,16 +18,35 @@ let currentPage = 0;
 // Turnstile callbacks (production only)
 // -----------------------------------------------
 if (params.isProduction) {
-	window.turnstile = turnstile;
-	console.log('Turnstile', turnstile);
 	window.onTurnstileSuccess = function (token) {
-		console.log('Token:', token);
+		// Auto-trigger search if page loaded with ?qry= param
+		const qryElem = document.getElementById('qry');
+		if (qryElem && qryElem.value) {
+			doSearch(token, qryElem.value, currentMinScore, currentPage);
+		}
 	};
 
 	window.onTurnstileError = function (err) {
 		showError('Security check failed. Please refresh and try again.');
 		console.error('Turnstile error:', err);
 	};
+}
+
+// -----------------------------------------------
+// Pre-populate query from URL params
+// -----------------------------------------------
+const urlParams = new URLSearchParams(window.location.search);
+const urlQry = urlParams.get('qry');
+if (urlQry) {
+	const qryElem = document.getElementById('qry');
+	if (qryElem) {
+		qryElem.value = urlQry;
+	}
+	// In development, trigger search immediately since there is no Turnstile
+	if (!params.isProduction) {
+		doSearch('', urlQry, currentMinScore, currentPage);
+	}
+	// In production the search is triggered by onTurnstileSuccess above
 }
 
 // -----------------------------------------------
@@ -73,7 +92,7 @@ document.addEventListener('click', function (e) {
 	currentPage = page;
 
 	const token = params.isProduction ? document.getElementsByName('cf-turnstile-response')[0].value : '';
-	console.log('Token', token);
+
 	doSearch(token, currentTerm, currentMinScore, currentPage);
 	window.scrollTo({ top: 0, behavior: 'smooth' });
 });
