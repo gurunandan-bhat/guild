@@ -28,10 +28,11 @@
 {{ end }}
 
 {{ $castList := slice }}
+{{- $maxCastLength := site.Params.maxcastlength }}
 {{ with $metadata.credits.cast }}
     {{ $cast := . }}
     {{ $castLen := len $cast }}
-    {{ $min := math.Min 5 $castLen }}
+    {{ $min := math.Min $maxCastLength $castLen }}
     {{ $cS := slice }}
     {{ range seq 0 $min }}
         {{ $cS = append (index $cast .).name $cS }}
