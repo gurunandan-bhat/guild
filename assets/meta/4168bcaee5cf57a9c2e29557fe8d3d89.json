@@ -1,0 +1,484 @@
+{
+	"id": 202555,
+	"name": "Daredevil: Born Again",
+	"fcg_title": "Daredevil Born Again S02",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 10759,
+			"name": "Action \u0026 Adventure"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		}
+	],
+	"overview": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
+	"backdrop_path": "/qsVW888AvaRiQqhYj8hI2DtYNor.jpg",
+	"poster_path": "/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 23458,
+				"order": 0,
+				"name": "Charlie Cox",
+				"profile_path": "/jBHDZ8MA4I7krNQx4IfqdfPfleD.jpg",
+				"character": "Matt Murdock / Daredevil",
+				"gender": 2
+			},
+			{
+				"id": 7132,
+				"order": 1,
+				"name": "Vincent D'Onofrio",
+				"profile_path": "/5xHJKUsA8qGvTPO4q5sLZRmzbH2.jpg",
+				"character": "Wilson Fisk",
+				"gender": 2
+			},
+			{
+				"id": 212154,
+				"order": 2,
+				"name": "Deborah Ann Woll",
+				"profile_path": "/btTnyvRLXOH0pz2SLBwyKbmnFhX.jpg",
+				"character": "Karen Page",
+				"gender": 1
+			},
+			{
+				"id": 59237,
+				"order": 3,
+				"name": "Margarita Levieva",
+				"profile_path": "/zuTZk0JOWuad1SenmqD9tICJtLp.jpg",
+				"character": "Heather Glenn",
+				"gender": 1
+			},
+			{
+				"id": 26457,
+				"order": 4,
+				"name": "Matthew Lillard",
+				"profile_path": "/mIEKAfe0iC41RDXibbTy48LtNOi.jpg",
+				"character": "Mr. Charles",
+				"gender": 2
+			},
+			{
+				"id": 76855,
+				"order": 5,
+				"name": "Tony Dalton",
+				"profile_path": "/vWteTJu9Dyrax7gQq8ndTjx5s6V.jpg",
+				"character": "Jack Duquesne",
+				"gender": 2
+			},
+			{
+				"id": 1900369,
+				"order": 6,
+				"name": "Michael Gandolfini",
+				"profile_path": "/28b4ER8m7AJ40vsgocFIhwTKkzp.jpg",
+				"character": "Daniel Blake",
+				"gender": 2
+			},
+			{
+				"id": 292214,
+				"order": 7,
+				"name": "Nikki M. James",
+				"profile_path": "/gkEcIwnKcE5eY7u8dKJxEVnvWX8.jpg",
+				"character": "Kirsten Mcduffie",
+				"gender": 1
+			},
+			{
+				"id": 2399904,
+				"order": 8,
+				"name": "Arty Froushan",
+				"profile_path": "/zYNvzONSgyfnC4efHXh6zcrVj4d.jpg",
+				"character": "Buck Cashman",
+				"gender": 2
+			},
+			{
+				"id": 1352920,
+				"order": 9,
+				"name": "Genneya Walton",
+				"profile_path": "/eP3wMmU1drxDHW54t5hvDcIxs05.jpg",
+				"character": "BB Urich",
+				"gender": 1
+			},
+			{
+				"id": 171955,
+				"order": 10,
+				"name": "Zabryna Guevara",
+				"profile_path": "/7NlCmTZoauvyqjNdzTZv2auwOXg.jpg",
+				"character": "Sheila Rivera",
+				"gender": 1
+			},
+			{
+				"id": 47640,
+				"order": 11,
+				"name": "Clark Johnson",
+				"profile_path": "/k4EcCKRI7lqxrqYqVuffdSe9JBN.jpg",
+				"character": "Cherry",
+				"gender": 2
+			},
+			{
+				"id": 8786,
+				"order": 12,
+				"name": "Ayelet Zurer",
+				"profile_path": "/ea3MLLgsIdDhDLkjUCmkR0ZxjDC.jpg",
+				"character": "Vanessa Fisk",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 5283835,
+				"name": "Devon Kliger",
+				"job": "Story Editor",
+				"department": "Writing"
+			},
+			{
+				"id": 3013398,
+				"name": "Omar Najam",
+				"profile_path": "/l9P3AOPdpkm1NbkN8YD2ZByQOPN.jpg",
+				"job": "Staff Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1855404,
+				"name": "Jan Jericho",
+				"job": "Supervising Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 1553952,
+				"name": "Imogen Lee",
+				"job": "Set Decoration",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 4174545,
+				"name": "Michael Zambrano",
+				"job": "Hair Department Head",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1897232,
+				"name": "Devin Maggio",
+				"job": "Special Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 80161,
+				"name": "Iain B. MacDonald",
+				"profile_path": "/cxCwbSjnomHNGgvW2EP6YSr4hXv.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 23458,
+				"name": "Charlie Cox",
+				"profile_path": "/jBHDZ8MA4I7krNQx4IfqdfPfleD.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 7132,
+				"name": "Vincent D'Onofrio",
+				"profile_path": "/5xHJKUsA8qGvTPO4q5sLZRmzbH2.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1376574,
+				"name": "Heather Bellson",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 945090,
+				"name": "Jesse Wigutow",
+				"profile_path": "/fn6Eh96cUYNTVKktslnTyJUzr32.jpg",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1579316,
+				"name": "Chantelle M. Wells",
+				"profile_path": "/zggWzmsAyZIWk0NWiqrbhDS28wO.jpg",
+				"job": "Consulting Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1619971,
+				"name": "David Chambers",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1618836,
+				"name": "Danielle Dupre",
+				"profile_path": "/sQBwFVHY40P1KngSw1HS3EVrSWQ.jpg",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 4675019,
+				"name": "Hilary Smith",
+				"job": "Unit Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 5945379,
+				"name": "Eric Scott Rau",
+				"job": "Unit Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 3946896,
+				"name": "Liana Oja",
+				"job": "Associate Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1770856,
+				"name": "Taylor Stewart",
+				"profile_path": "/t18vL3Js8rBw9fxRGgj5AbCBcJv.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 989610,
+				"name": "Andrew Grush",
+				"profile_path": "/hGSZFzDJqLXchO7731gILeWdGpW.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1619971,
+				"name": "David Chambers",
+				"job": "Unit Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 3238729,
+				"name": "Braden Kimball",
+				"job": "Main Title Theme Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 77949,
+				"name": "John Paesano",
+				"profile_path": "/pHQM6fGdewxwoqzTEMmHonX4KFz.jpg",
+				"job": "Main Title Theme Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1411796,
+				"name": "Julie Schubert",
+				"job": "Original Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 7481,
+				"name": "Laray Mayfield",
+				"profile_path": "/yBshxhOfzKrcvoVaFdI6VpH1BJ.jpg",
+				"job": "Original Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 10850,
+				"name": "Kevin Feige",
+				"profile_path": "/lN1z04L1BGSQLefI81uwm5h6JrW.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 57027,
+				"name": "Louis D'Esposito",
+				"profile_path": "/mPy6hxHrHoEOWdljLyZM6DNBSPn.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 7624,
+				"name": "Stan Lee",
+				"profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg",
+				"job": "Characters",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1770815,
+				"name": "Bill Everett",
+				"job": "Characters",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1246914,
+				"name": "Dario Scardapane",
+				"profile_path": "/tA4ZCP3sB8HOfnA4N2t8LxlTz5d.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2867,
+				"name": "Michael Shaw",
+				"profile_path": "/cuJtxuk5lVihrteL7gaLymIm8UL.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1256726,
+				"name": "Brad Winderbaum",
+				"profile_path": "/5cDwxRkPuRRiHw6TVlaIobnX5aC.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1904613,
+				"name": "Emily Gunshor",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1550780,
+				"name": "Jonathan Borland",
+				"profile_path": "/osy8Xq5U42aL7cbdEKRaTFnaHp.jpg",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1550780,
+				"name": "Jonathan Borland",
+				"profile_path": "/osy8Xq5U42aL7cbdEKRaTFnaHp.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1381999,
+				"name": "Sana Amanat",
+				"profile_path": "/82RbDrWssbFC9cYXGlZQHhmvwR9.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1074560,
+				"name": "Justin Benson",
+				"profile_path": "/mch4MNcOxVsej3O5ifugkZTFzWI.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 583479,
+				"name": "Aaron Moorhead",
+				"profile_path": "/plvZ27ya8yxyyqSCHbwBMjFfJwS.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 60109,
+				"name": "Beth Bowling",
+				"job": "Casting",
+				"department": "Production"
+			},
+			{
+				"id": 60107,
+				"name": "Kim Miscia",
+				"job": "Casting",
+				"department": "Production"
+			},
+			{
+				"id": 1630899,
+				"name": "Gong Myung Lee",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1866312,
+				"name": "Fahed Alhabib",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 24192,
+				"name": "Dave Jordan",
+				"profile_path": "/btzUgkKCllxClxIgLhmhZ1qaPw.jpg",
+				"job": "Music Supervisor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2753113,
+				"name": "Justine von Winterfeldt",
+				"job": "Music Supervisor",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 3194388,
+				"name": "Eleena Khamedoost",
+				"job": "Supervising Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1509356,
+				"name": "Trevor Waterson",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1382000,
+				"name": "Brian Michael Bendis",
+				"profile_path": "/hPafqzHFJ69Pc1rGq7oXGylcfUV.jpg",
+				"job": "Consulting Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1607060,
+				"name": "Anele Onyekwere",
+				"profile_path": "/cmk1NRSDbWpcfdHbvpNKkUJdFKy.jpg",
+				"job": "Supervising Music Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1097213,
+				"name": "Mariusz Kubicki",
+				"profile_path": "/lvwXDvoEWYrtxaln0y64ULndqfS.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			}
+		]
+	}
+}
