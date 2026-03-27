@@ -41,7 +41,7 @@ if (urlQry) {
 	if (qryElem) {
 		qryElem.value = urlQry;
 	}
-	const token = document.getElementsByName('cf-turnstile-response')[0].value;
+	const token = window.turnstile.getResponse();
 	doSearch(token, urlQry, currentMinScore, currentPage);
 }
 
@@ -64,7 +64,6 @@ if (searchForm) {
 		currentMinScore = 0;
 		currentPage = 0;
 
-		// const token = document.getElementsByName('cf-turnstile-response')[0].value || '';
 		const token = window.turnstile.getResponse();
 		if (!token) {
 			console.log('No token available');
@@ -90,7 +89,6 @@ document.addEventListener('click', function (e) {
 
 	currentPage = page;
 
-	// const token = document.getElementsByName('cf-turnstile-response')[0].value;
 	const token = window.turnstile.getResponse();
 	doSearch(token, currentTerm, currentMinScore, currentPage);
 	window.scrollTo({ top: 0, behavior: 'smooth' });

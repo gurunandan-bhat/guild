@@ -11,6 +11,10 @@
 {{- $page := .page }}
 {{- $menuID := .menuID }}
 {{- $showSearch := .showSearch }}
+{{- $isSearchPage := false }}
+{{- if eq $page.Path "/search" }}
+    {{- $isSearchPage = true }}
+{{- end }}
 {{- with index site.Menus $menuID }}
     <nav class="navbar navbar-dark navbar-expand-lg fixed-top">
         <div class="container-fluid banner-holder">
@@ -33,31 +37,25 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto mb-lg-0 pe-3">
                     {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
+                    {{ if $showSearch }}
+                        <li class="nav-item px-1">
+                            {{- if $isSearchPage }}
+                                <a
+                                    aria-current="page"
+                                    class="nav-link active"
+                                    href="/search/"
+                                    >Search</a
+                                >
+                            {{- else }}
+                                <a class="nav-link" href="/search/">Search</a>
+                            {{- end }}
+                        </li>
+                    {{ end }}
                 </ul>
-                {{ if $showSearch }}
-                    <form
-                        class="d-flex"
-                        role="search"
-                        action="/search"
-                        method="get">
-                        <input
-                            name="qry"
-                            class="form-control me-2"
-                            type="search"
-                            placeholder="Search String"
-                            aria-label="Search" />
-                        <button
-                            class="btn btn-sm btn-outline-success"
-                            type="submit">
-                            Search
-                        </button>
-                    </form>
-                {{ end }}
             </div>
         </div>
     </nav>
 {{- end }}
-
 {{- define "_partials/inline/menu/walk.html" }}
     {{- $page := .page }}
     {{- range .menuEntries }}

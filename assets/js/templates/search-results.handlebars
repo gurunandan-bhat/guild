@@ -4,23 +4,26 @@
             <div class="col-md-3">
                 <img
                     src="{{LocalPosterPath}}"
-                    class="img-fluid w-100 mt-2 p-1 border"
+                    class="img-fluid w-100 p-1 border"
                     alt="{{LinkTitle}}"
                 />
             </div>
             <div class="col-md-9">
                 <div class="card">
                     <div class="card-header">
-                        <h5>
-                            {{{LinkTitle}}}{{#if Genres}} ({{{Genres}}}){{/if}}
-                        </h5>
+                        <h6>
+                            {{{LinkTitle}}}{{#if AverageScore}}
+                                <span class="small">(FCG Rating
+                                    {{AverageScore}})</span>
+                            {{/if}}
+                        </h6>
                     </div>
                     <div class="card-body">
                         <table class="table table-sm card-table">
-                            {{#if AverageScore}}
+                            {{#if Genres}}
                                 <tr>
-                                    <th>FCG Rating</th>
-                                    <td>{{AverageScore}}</td>
+                                    <th>Genres</th>
+                                    <td>{{Genres}}</td>
                                 </tr>
                             {{/if}}
                             {{#if Language}}
