@@ -1,4 +1,5 @@
 {{- $reviews := slice }}
+{{- $linkTitle := (index .Pages 0).LinkTitle }}
 {{- range .Pages }}
     {{- $pageMap := (jsonify . ) | transform.Unmarshal }}
     {{- $critic := "" }}
@@ -41,4 +42,6 @@
     }}
     {{- $reviews = append $pageMap $reviews }}
 {{- end }}
-{{- $reviews | jsonify (dict "prefix" "" "indent" "\t") }}
+{{- $result := dict "Metadata" (partial "taxonomy/mreviews/metadata-raw.html" $linkTitle) }}
+{{- $result = merge $result (dict "Reviews" $reviews) }}
+{{- $result | jsonify (dict "prefix" "" "indent" "\t") }}
