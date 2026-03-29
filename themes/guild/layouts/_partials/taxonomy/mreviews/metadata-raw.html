@@ -1,0 +1,85 @@
+{{- $linkTitle := . }}
+{{- $result := dict }}
+{{- $metadata := partialCached "tmdb-meta.html" $linkTitle $linkTitle }}
+{{- $rawScore := partialCached "fcg-rating-raw.html" $linkTitle $linkTitle }}
+{{- $posterPath := "" }}
+{{ with $metadata.poster_path }}
+    {{ with resources.Get (printf "meta/posters%s" .) }}
+        {{ with .Process "webp" }}
+            {{ $posterPath = .RelPermalink }}
+        {{ end }}
+    {{ else }}
+        {{ if hugo.IsDevelopment }}
+            {{ warnf "image not found for %s" $metadata.title }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+
+{{- $result := merge $result (dict "Title" $linkTitle "RawScore" $rawScore "PosterPath" $posterPath "Overview" $metadata.overview) }}
+
+{{- $genres := slice }}
+{{- $genreList := "" }}
+{{ with $metadata.genres }}
+    {{ range . }}
+        {{ $genres = append .name $genres }}
+    {{ end }}
+    {{- $genreList = delimit $genres ", " }}
+{{ end }}
+
+{{ $languages := hugo.Data.languages.languages }}
+{{ $language := "" }}
+{{ with $metadata.original_language }}
+    {{ $language = (index $languages .).english_name }}
+{{ end }}
+
+{{- $result = merge $result (dict "Genres" $genreList "Language" $language) }}
+
+{{ $castList := slice }}
+{{- $maxCastLength := site.Params.maxcastlength }}
+{{ with $metadata.credits.cast }}
+    {{ $cast := . }}
+    {{ $castLen := len $cast }}
+    {{ $min := math.Min $maxCastLength $castLen }}
+    {{ $cS := slice }}
+    {{ range seq 0 $min }}
+        {{ $cS = append (index $cast .).name $cS }}
+    {{ end }}
+    {{ $castList = delimit $cS ", " }}
+{{ end }}
+
+{{- $result = merge $result (dict "Cast" $castList ) }}
+
+{{ $crew := $metadata.credits.crew }}
+{{ $director := slice }}
+{{ $camera := slice }}
+{{ $editor := slice }}
+{{ $writer := slice }}
+{{ range $crew }}
+    {{ if eq .job "Director" }}
+        {{ $director = append .name $director }}
+    {{ else if eq .job "Director of Photography" }}
+        {{ $camera = append .name $camera }}
+    {{ else if eq .job "Editor" }}
+        {{ $editor = append .name $editor }}
+    {{ else if (and (eq .department "Writing") (eq .job "Writer")) }}
+        {{ $writer = append .name $writer }}
+    {{ end }}
+{{ end }}
+
+{{- with delimit $director ", " }}
+    {{- $result = merge $result (dict "Director" .) }}
+{{- end }}
+
+{{- with delimit $editor ", " }}
+    {{- $result = merge $result (dict "Editor" .) }}
+{{- end }}
+
+{{- with delimit $writer ", " }}
+    {{- $result = merge $result (dict "Writer" .) }}
+{{- end }}
+
+{{- with delimit $camera ", " }}
+    {{- $result = merge $result (dict "Camera" .) }}
+{{- end }}
+
+{{- return $result }}
