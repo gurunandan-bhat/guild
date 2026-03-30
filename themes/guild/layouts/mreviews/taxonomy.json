@@ -3,7 +3,7 @@
     {{- $pageMap := (jsonify . ) | transform.Unmarshal }}
     {{- $score := partial "fcg-rating-raw.html" .LinkTitle }}
     {{- $posterLink := partial "poster-link.html" .LinkTitle }}
-    {{- $pageMap = merge $pageMap (dict "AverageScore" (div $score 10.0) "URLPath" (replaceRE `[:'\*()&,!]` "" .Path)) }}
+    {{- $pageMap = merge $pageMap (dict "AverageScore" (div $score 10.0) "URLPath" (urlize .LinkTitle)) }}
     {{- with $posterLink }}
         {{- $pageMap = merge $pageMap (dict "LocalPosterPath" .) }}
     {{- end }}
