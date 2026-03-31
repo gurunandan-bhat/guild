@@ -5,7 +5,7 @@ draft = false
 mreviews = ["Mardaani 3"]
 critics = ['Akhil Arora', 'Rohan Naahar']
 subtitle = "A Spotify Review"
-scores = [4]
+scores = [4, 3.5]
 +++
 
 {{< spotify id="6qaz45BTLojYRnG0odnoho" height="250" >}}
