@@ -1,7 +1,7 @@
 +++
 date = 2024-09-25T12:19:31.451066+05:30
 draft = false
-weight = 80
+weight = 430
 title = 'Subha J Rao'
 organizations = ['Independent Film Critic']
 img = '/images/members/SubhaJRao.png'
