@@ -2,6 +2,7 @@
 {{- $result := dict }}
 {{- $metadata := partialCached "tmdb-meta.html" $linkTitle $linkTitle }}
 {{- $rawScore := partialCached "fcg-rating-raw.html" $linkTitle $linkTitle }}
+{{- $avgScore := div $rawScore 10.0 }}
 {{- $posterPath := "" }}
 {{ with $metadata.poster_path }}
     {{ with resources.Get (printf "meta/posters%s" .) }}
@@ -15,7 +16,14 @@
     {{ end }}
 {{ end }}
 
-{{- $result := merge $result (dict "Title" $linkTitle "RawScore" $rawScore "PosterPath" $posterPath "Overview" $metadata.overview) }}
+{{- $result := merge $result (dict
+    "LinkTitle" $linkTitle
+    "URLPath" (printf "/mreviews/%s" (urlize $linkTitle))
+    "AverageScore" $avgScore
+    "LocalPosterPath" $posterPath
+    "Poster" $metadata.poster_path
+    "Overview" $metadata.overview)
+}}
 
 {{- $genres := slice }}
 {{- $genreList := "" }}

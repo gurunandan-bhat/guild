@@ -1,17 +1,17 @@
 {{- $reviews := slice }}
 {{- $linkTitle := (index .Pages 0).LinkTitle }}
+{{- $reviewers := slice }}
 {{- range .Pages }}
     {{- $pageMap := (jsonify . ) | transform.Unmarshal }}
-    {{- $critic := "" }}
+    {{- $critics := slice }}
     {{- $media := "" }}
     {{- $source := "" }}
     {{- $subtitle := "" }}
     {{- $img := "" }}
     {{- $score := 0 }}
     {{- with index .Params "critics" }}
-        {{- with index . 0 }}
-            {{- $critic = . }}
-        {{- end }}
+        {{- $critics = . }}
+        {{- $reviewers = append $reviewers $critics }}
     {{- end }}
     {{- with index .Params "source" }}
         {{- $source = . }}
@@ -31,7 +31,7 @@
     {{- $pageMap = merge $pageMap (dict
         "ReviewPath" (urlize .Path)
         "Params" .Params
-        "Critic" $critic
+        "Critic" $critics
         "Media" $media
         "Source" $source
         "SubTitle" $subtitle
@@ -42,6 +42,8 @@
     }}
     {{- $reviews = append $pageMap $reviews }}
 {{- end }}
-{{- $result := dict "Metadata" (partial "taxonomy/mreviews/metadata-raw.html" $linkTitle) }}
+{{- $metadata := partial "taxonomy/mreviews/metadata-raw.html" $linkTitle }}
+{{- $metadata = merge $metadata (dict "Reviewers" (delimit $reviewers ", ")) }}
+{{- $result := dict "Metadata" $metadata }}
 {{- $result = merge $result (dict "Reviews" $reviews) }}
 {{- $result | jsonify (dict "prefix" "" "indent" "\t") }}
