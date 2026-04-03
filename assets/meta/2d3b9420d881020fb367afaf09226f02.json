@@ -1,0 +1,91 @@
+{
+	"id": 249771,
+	"name": "Maa Ka Sum",
+	"fcg_title": "Maa Ka Sum",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		}
+	],
+	"overview": "Agastya, a math prodigy, believes every problem has a formula - even love. When he sets out to find the perfect match for his mother, his algorithm-fueled adventure spirals into a hilarious tangle of bad dates, big feelings, and one unexpected discovery: sometimes love can't be calculated, only felt.",
+	"backdrop_path": "/ff4B8sHVJ0fVBTxbYUdIq7xvtqF.jpg",
+	"poster_path": "/aU1mdmehINpJ5nuHUq1dNyJMpYy.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 3136043,
+				"order": 0,
+				"name": "Mihir Ahuja",
+				"profile_path": "/ovn1rXL2piZpww1qItFoYX4R0YI.jpg",
+				"character": "Agastya",
+				"gender": 2
+			},
+			{
+				"id": 1873663,
+				"order": 1,
+				"name": "Angira Dhar",
+				"profile_path": "/hE7Im4q3EU07k1Rbf3slpd2K9qr.jpg",
+				"gender": 1
+			},
+			{
+				"id": 3084524,
+				"order": 2,
+				"name": "Ranveer Brar",
+				"profile_path": "/jl8gtoPYXWHOCWAPBptHPFlCKuj.jpg",
+				"gender": 2
+			},
+			{
+				"id": 99711,
+				"order": 3,
+				"name": "Mona Singh",
+				"profile_path": "/fBl5KYnlKY8HDUqlTs64xbDZtU8.jpg",
+				"gender": 1
+			},
+			{
+				"id": 1981896,
+				"order": 4,
+				"name": "Manish Anand",
+				"profile_path": "/h5prupJQVARbFXMG6wzuKs5QkC9.jpg"
+			}
+		],
+		"crew": [
+			{
+				"id": 3285517,
+				"name": "Sumrit Shahi",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 1700749,
+				"name": "Nicholas Kharkongor",
+				"profile_path": "/7zG7Ir8VZPNpZzOBQ21b0AlHMDi.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1700749,
+				"name": "Nicholas Kharkongor",
+				"profile_path": "/7zG7Ir8VZPNpZzOBQ21b0AlHMDi.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2966948,
+				"name": "Vinay Choudary",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 3193300,
+				"name": "Heena D’Souza",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 1
+			}
+		]
+	}
+}
