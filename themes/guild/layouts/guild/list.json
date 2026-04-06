@@ -1,7 +1,9 @@
 {{- $guild := slice }}
 {{- range .Sections }}
     {{- range .Pages }}
-        {{- $guild = append . $guild }}
+        {{- $pageMap := (jsonify . ) | transform.Unmarshal }}
+        {{- $pageMap = merge $pageMap (dict "ReviewURL" (urlize .LinkTitle)) }}
+        {{- $guild = append $pageMap $guild }}
     {{- end }}
 {{- end }}
 {{- $guild | jsonify (dict "prefix" "" "indent" "\t") }}
