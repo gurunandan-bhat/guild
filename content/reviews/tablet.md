@@ -8,7 +8,7 @@ mreviews = ["Tablet"]
 opening = "Premiered at BIFFes, The Tablet reveals Aravind Siva as a filmmaker of realism and restraint, where patience allows anxiety, care and hope to surface through everyday life."
 publication = "OTT Play"
 scores = [6.5]
-source = "https://www.ottplay.com/features/the-tablet-aravind-siva-debut-small-film-about-large-silences/3ef443bda4860"
+source = "https://www.OTT Play.com/features/the-tablet-aravind-siva-debut-small-film-about-large-silences/3ef443bda4860"
 subtitle = "A Small Film About Large Silences"
 title = "Tablet"
 +++

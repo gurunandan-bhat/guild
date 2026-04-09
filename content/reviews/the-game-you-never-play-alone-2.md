@@ -8,7 +8,7 @@ mreviews = ["The Game You Never Play Alone"]
 opening = "The Game wants to comment on the internet, cybercrime, privacy laws, misogyny and sexism, but really knows nothing about any of them. Shoddy filmmaking and performances only make it worse."
 publication = ""
 scores = [1]
-source = "https://www.ottplay.com/features/the-game-you-never-play-alone-tries-to-be-serious-but-ends-as-a-parody/fff7883219745"
+source = "https://www.OTT Play.com/features/the-game-you-never-play-alone-tries-to-be-serious-but-ends-as-a-parody/fff7883219745"
 subtitle = "Tries To Be Serious, But Ends As A Parody"
 title = "The Game You Never Play Alone"
 +++

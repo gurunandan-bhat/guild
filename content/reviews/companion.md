@@ -8,7 +8,7 @@ mreviews = ["Companion"]
 opening = "We often use the term 'human' as a moral antithesis to beasts and machines, but Companion is one of the few modern fables that shows how in fact ‘human’ might have been the derogatory state all along."
 publication = "OTT Play"
 scores = [7]
-source = "https://www.ottplay.com/features/companion-when-artificial-intelligence-is-the-only-intelligence/55182888ad309"
+source = "https://www.OTT Play.com/features/companion-when-artificial-intelligence-is-the-only-intelligence/55182888ad309"
 subtitle = "When Artificial Intelligence Is The Only Intelligence"
 title = "Companion"
 +++

@@ -9,7 +9,7 @@ subtitle = "Aditya Dhar Dials Up The Rage…& Propaganda"
 opening = ""
 img = 'dhurandhar-the-revenge-9.webp'
 media = 'print'
-source = "https://www.ottplay.com/features/in-dhurandhar-the-revenge-aditya-dhar-dials-up-the-rage-propaganda/2d57c03fc8778"
+source = "https://www.OTT Play.com/features/in-dhurandhar-the-revenge-aditya-dhar-dials-up-the-rage-propaganda/2d57c03fc8778"
 scores = [2]
 +++
 

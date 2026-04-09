@@ -8,7 +8,7 @@ mreviews = ["Mastiii 4"]
 opening = "With Mastiii 4, Milap Zaveri amps things up to horrid and sordid degrees. The film has set a new benchmark of treating every living being in a film with such vulgarity that it feels like contempt."
 publication = ""
 scores = [0.5]
-source = "https://www.ottplay.com/features/mastiii-4-vivek-oberoi-riteish-deshmukh-aftab-shivdasani-milap-zaveri-brain-dead-aimed-solely-at-killing-you/762bc723cd410"
+source = "https://www.OTT Play.com/features/mastiii-4-vivek-oberoi-riteish-deshmukh-aftab-shivdasani-milap-zaveri-brain-dead-aimed-solely-at-killing-you/762bc723cd410"
 subtitle = "Brain-Dead, Aimed Solely At Killing You"
 title = "Mastiii 4"
 +++

@@ -8,7 +8,7 @@ mreviews = ["Thunderbolts*"]
 opening = "The origin story of a new decade of people—fictional and real—hoping to move on from the Avengers into an era of uncertainty and promise."
 publication = "OTT Play"
 scores = [6]
-source = "https://www.ottplay.com/features/thunderbolts-marvel-cinematic-universe-goes-to-therapy/7c9114df06766"
+source = "https://www.OTT Play.com/features/thunderbolts-marvel-cinematic-universe-goes-to-therapy/7c9114df06766"
 subtitle = "The Marvel Cinematic Universe Goes To Therapy"
 title = "Thunderbolts*"
 +++

@@ -8,7 +8,7 @@ mreviews = ["Second Chance"]
 opening = "Subhadra Mahajan’s feature is as much about finding light at the end of the tunnel as it is about scouring light in the tunnel."
 publication = ""
 scores = [6.5]
-source = "https://www.ottplay.com/features/second-chance-subhadra-mahajan-poetic-feature-debut-about-revival-unlearning/58991e5848633?fbclid=PAQ0xDSwK6bh9leHRuA2FlbQIxMQABp6sQwnB3-xUCI9M7eDY-YrNwQPXfRkOcIv7cc06Gzy_0BaLwy7nufnrkEg3b_aem_Arj_XZ83zlByYmAq4uYEEw"
+source = "https://www.OTT Play.com/features/second-chance-subhadra-mahajan-poetic-feature-debut-about-revival-unlearning/58991e5848633?fbclid=PAQ0xDSwK6bh9leHRuA2FlbQIxMQABp6sQwnB3-xUCI9M7eDY-YrNwQPXfRkOcIv7cc06Gzy_0BaLwy7nufnrkEg3b_aem_Arj_XZ83zlByYmAq4uYEEw"
 subtitle = "A Poetic Feature Debut About Revival & Unlearning"
 title = "Second Chance"
 +++

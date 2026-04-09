@@ -8,7 +8,7 @@ mreviews = ["F1: The Movie"]
 opening = "Joseph Kosinski's F1 is an obituary posing as a hymn. It's designed to make us realise that this is the last gasp of superstardom in an age where influence is a profession rather than a halo."
 publication = "OTT Play"
 scores = [7]
-source = "https://www.ottplay.com/features/f1-the-movie-brad-pitt-in-loving-memory-of-the-blockbuster/845f299f4f516"
+source = "https://www.OTT Play.com/features/f1-the-movie-brad-pitt-in-loving-memory-of-the-blockbuster/845f299f4f516"
 subtitle = "In Loving Memory Of The Blockbuster"
 title = "F1: The Movie"
 +++

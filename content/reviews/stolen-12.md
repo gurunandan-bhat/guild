@@ -8,7 +8,7 @@ mreviews = ["Stolen"]
 opening = "Karan Tejpal's Stolen is a rare film about class that unfolds with its ear close to the ground. One that resists making empty statements by checking its privilege as part of the critique."
 publication = "OTT Play"
 scores = [8]
-source = "https://www.ottplay.com/features/stolen-abhishek-banerjee-breathless-survival-thriller/237bf30536489"
+source = "https://www.OTT Play.com/features/stolen-abhishek-banerjee-breathless-survival-thriller/237bf30536489"
 subtitle = "A Breathless Survival Thriller Headlined By A Spectacular Abhishek Banerjee"
 title = "Stolen"
 +++

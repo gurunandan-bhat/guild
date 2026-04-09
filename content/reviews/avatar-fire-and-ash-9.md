@@ -8,7 +8,7 @@ mreviews = ["Avatar: Fire and Ash"]
 opening = "James Cameron commits to his vision so hard and for so long, like a character from Inception who’s missed the kick only to get stuck in limbo on a deeper dream level. There is no way out now."
 publication = "OTT Play"
 scores = [3]
-source = "https://www.ottplay.com/features/avatar-fire-and-ash-wake-me-up-when-pandora-ends/ab1957c415910"
+source = "https://www.OTT Play.com/features/avatar-fire-and-ash-wake-me-up-when-pandora-ends/ab1957c415910"
 subtitle = "Wake Me Up When Pandora Ends"
 title = "Avatar: Fire and Ash"
 +++

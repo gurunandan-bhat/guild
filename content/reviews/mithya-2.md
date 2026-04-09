@@ -8,7 +8,7 @@ mreviews = ["Mithya"]
 opening = "Sumanth Bhat’s debut feature Mithya is an aching look at an orphaned child and his relationship with the world."
 publication = "OTT Play"
 scores = [9]
-source = "https://www.ottplay.com/features/mithya-the-many-shades-of-grief/b1d19bd1bb715"
+source = "https://www.OTT Play.com/features/mithya-the-many-shades-of-grief/b1d19bd1bb715"
 subtitle = "The Many Shades Of Grief"
 title = "Mithya"
 +++

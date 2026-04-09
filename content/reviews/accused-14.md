@@ -9,7 +9,7 @@ subtitle = "Netflix’s Post-MeToo Thriller Squanders Its Potential"
 opening = ""
 img = 'accused-14.webp'
 media = 'print'
-source = "https://www.ottplay.com/features/accused-post-metoo-netflix-thriller-squanders-its-potential/e2e3ae3424231"
+source = "https://www.OTT Play.com/features/accused-post-metoo-netflix-thriller-squanders-its-potential/e2e3ae3424231"
 scores = [4]
 +++
 

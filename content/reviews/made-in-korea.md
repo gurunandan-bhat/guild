@@ -9,7 +9,7 @@ subtitle = "Wants To Be Seoul-ful, But Falls Short"
 opening = 'The Priyanka Mohan-starrer on Netflix is a little like aegyo: cutesy enough about the "what", but never quite getting to the heart of the "why" and "how"'
 img = 'made-in-korea.webp'
 media = 'print'
-source = "https://www.ottplay.com/features/hallyu-doins-made-in-korea-wants-to-be-seoul-ful-but-falls-short/577dfe87de484"
+source = "https://www.OTT Play.com/features/hallyu-doins-made-in-korea-wants-to-be-seoul-ful-but-falls-short/577dfe87de484"
 scores = [3]
 +++
 

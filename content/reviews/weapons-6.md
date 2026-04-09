@@ -8,7 +8,7 @@ mreviews = ["Weapons"]
 opening = "Zach Cregger's Weapons appeals to our inherent quest for answers — for an endgame — from a horror film, and delights in the journey rather than the destination."
 publication = "OTT Play"
 scores = [8]
-source = "https://www.ottplay.com/features/weapons-the-adolescence-of-horror/91d0cd8ba9458"
+source = "https://www.OTT Play.com/features/weapons-the-adolescence-of-horror/91d0cd8ba9458"
 subtitle = "The Adolescence Of Horror"
 title = "Weapons"
 +++

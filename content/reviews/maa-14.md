@@ -8,7 +8,7 @@ mreviews = ["Maa"]
 opening = "A loose script tangled in myth and mythology gives Vishal Furia's Maa a confused core, while its orthodox fear of pregnancy dulls both the genre’s bite and its grasp on female anxiety."
 publication = "OTT Play"
 scores = [4]
-source = "https://www.ottplay.com/features/maa-little-to-be-scared-about-in-this-kajol-film/a6c5598680127"
+source = "https://www.OTT Play.com/features/maa-little-to-be-scared-about-in-this-kajol-film/a6c5598680127"
 subtitle = "Little To Be Scared About In This Kajol Film"
 title = "Maa"
 +++

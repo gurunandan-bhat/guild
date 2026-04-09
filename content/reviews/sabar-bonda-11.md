@@ -8,7 +8,7 @@ mreviews = ["Sabar Bonda"]
 opening = ""
 publication = "OTT Play"
 scores = [9]
-source = "https://www.ottplay.com/features/sundance-sabar-bonda-rohan-parashuram-kanawade-astounding-assured-debut/5d78630928471"
+source = "https://www.OTT Play.com/features/sundance-sabar-bonda-rohan-parashuram-kanawade-astounding-assured-debut/5d78630928471"
 subtitle = "An Astounding, Assured Debut"
 title = "Sabar Bonda"
 +++

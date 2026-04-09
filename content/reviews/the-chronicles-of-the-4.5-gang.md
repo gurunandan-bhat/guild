@@ -8,7 +8,7 @@ mreviews = ["The Chronicles of the 4.5 Gang"]
 opening = "Krishand’s narrative balances the style and pop glamour traditionally associated with the gangster genre with a more straightforward, truth-seeking tale of men confronting reality."
 publication = "OTT Play"
 scores = [6]
-source = "https://www.ottplay.com/features/the-chronicles-of-the-45-gang-is-uneven-but-solid-entertaining/69441beb84221"
+source = "https://www.OTT Play.com/features/the-chronicles-of-the-45-gang-is-uneven-but-solid-entertaining/69441beb84221"
 subtitle = "Uneven, Yet Entertainingly Solid"
 title = "The Chronicles of the 4.5 Gang"
 +++

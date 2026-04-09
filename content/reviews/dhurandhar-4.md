@@ -8,7 +8,7 @@ mreviews = ["Dhurandhar"]
 opening = ""
 publication = ""
 scores = [4]
-source = "https://www.ottplay.com/features/dhurandhar-review-aditya-dhar-movie-ranveer-singh-akshaye-khanna/107729167b805?fbclid=PAb21jcAOgB1VleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaftutKS6Z9YYrd1xvHB8r01CnLlS1Gbgwg1Lv9O8bsZZaYhPDjr0sPGBr__XQ_aem_36JRMDioiOoogXgf8gSHBQ"
+source = "https://www.OTT Play.com/features/dhurandhar-review-aditya-dhar-movie-ranveer-singh-akshaye-khanna/107729167b805?fbclid=PAb21jcAOgB1VleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaftutKS6Z9YYrd1xvHB8r01CnLlS1Gbgwg1Lv9O8bsZZaYhPDjr0sPGBr__XQ_aem_36JRMDioiOoogXgf8gSHBQ"
 subtitle = "Aditya Dhar Marries Spectacular Craft With Deeply Skewed Politics"
 title = "Dhurandhar"
 +++

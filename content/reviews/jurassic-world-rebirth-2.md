@@ -8,7 +8,7 @@ mreviews = ["Jurassic World Rebirth"]
 opening = ""
 publication = "OTT Play"
 scores = [4]
-source = "https://www.ottplay.com/features/jurassic-world-rebirth-who-let-the-dinos-out-again/f67ab7a438732"
+source = "https://www.OTT Play.com/features/jurassic-world-rebirth-who-let-the-dinos-out-again/f67ab7a438732"
 subtitle = "Who Let The Dinos Out (Again)?"
 title = "Jurassic World Rebirth"
 +++

@@ -3,7 +3,7 @@ date = 2024-09-25T12:19:31.455473+05:30
 draft = false
 weight = 390
 title = 'Sonal Pandya'
-organizations = ['Times Now, Zoom']
+organizations = ['Times Now', 'Zoom']
 img = '/images/members/sonal-pandya.jpeg'
 
 [soc_media]

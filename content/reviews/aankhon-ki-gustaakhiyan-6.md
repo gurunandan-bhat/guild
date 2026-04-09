@@ -8,7 +8,7 @@ mreviews = ["Aankhon Ki Gustaakhiyan"]
 opening = "Just as many films use metaphors, Santosh Singh’s Aankhon Ki Gustaakhiyan is a metaphor for the collective blindness of the Hindi film industry to quality, resulting in a film like itself."
 publication = ""
 scores = [4]
-source = "https://www.ottplay.com/features/aankhon-ki-gustaakhiyan-vikrant-massey-shanaya-kapoor-ruskin-bond-will-not-be-pleased/1b35f6577f613"
+source = "https://www.OTT Play.com/features/aankhon-ki-gustaakhiyan-vikrant-massey-shanaya-kapoor-ruskin-bond-will-not-be-pleased/1b35f6577f613"
 subtitle = "Ruskin Bond Will Not Be Pleased"
 title = "Aankhon Ki Gustaakhiyan"
 +++

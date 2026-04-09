@@ -7,7 +7,7 @@ media = "print"
 mreviews = ["Jigra"]
 opening = ""
 scores = [7.5]
-source = "https://www.ottplay.com/features/jigra-alia-bhatt-in-as-the-angry-young-woman/c753b582a2198"
+source = "https://www.OTT Play.com/features/jigra-alia-bhatt-in-as-the-angry-young-woman/c753b582a2198"
 subtitle = "Alia Bhatt In And As The Angry Young Woman"
 title = "Jigra"
 +++

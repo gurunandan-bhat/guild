@@ -8,7 +8,7 @@ mreviews = ["Diés Iraé"]
 opening = "Sadasivan stacks Diés Iraé with pulpy twists of Jenga blocks, where each reveal shakes up the larger plot. The film’s whole deal is to make us trust our assumptions and then pull the rug away from us."
 publication = "OTT Play"
 scores = [6]
-source = "https://www.ottplay.com/features/rahul-sadasivan-dies-irae-comepelling-minimalist-horror/d8c655f56a107"
+source = "https://www.OTT Play.com/features/rahul-sadasivan-dies-irae-comepelling-minimalist-horror/d8c655f56a107"
 subtitle = "Diés Iraé Proves Horror Can Be Minimalist — & Still Terrifying"
 title = "Diés Iraé"
 +++

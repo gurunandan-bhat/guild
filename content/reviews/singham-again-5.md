@@ -7,7 +7,7 @@ media = "print"
 mreviews = ["Singham Again"]
 opening = ""
 scores = [1]
-source = "https://www.ottplay.com/features/singham-again-a-modern-day-cop-addled-reimagination-of-the-ramayana/ec04adb7ce879"
+source = "https://www.OTT Play.com/features/singham-again-a-modern-day-cop-addled-reimagination-of-the-ramayana/ec04adb7ce879"
 subtitle = "A Modern-Day, Cop-Addled Reimagination Of The Ramayana"
 title = "Singham Again"
 +++

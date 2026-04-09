@@ -8,7 +8,7 @@ mreviews = ["The Fantastic Four - First Steps"]
 opening = "Matt Shakman’s star-studded reboot is a study of contrasts. As a modern superhero franchise, it’s too comicbook-ish to be an effective movie"
 publication = "OTT Play"
 scores = [5]
-source = "https://www.ottplay.com/features/the-fantastic-four-first-steps-a-bad-rebirth-a-good-newborn/a089c08ca8443"
+source = "https://www.OTT Play.com/features/the-fantastic-four-first-steps-a-bad-rebirth-a-good-newborn/a089c08ca8443"
 subtitle = "A Bad Rebirth, A Good Newborn"
 title = "The Fantastic Four - First Steps"
 +++

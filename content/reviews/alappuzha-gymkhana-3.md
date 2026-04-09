@@ -8,7 +8,7 @@ mreviews = ["Alappuzha Gymkhana"]
 opening = "Khalid Rahman’s film operates in that peculiar age where nothing appears serious, everything is bound in levity, and life is what one makes of it."
 publication = "OTT Play"
 scores = [7]
-source = "https://www.ottplay.com/features/alappuzha-gymkhana-khalid-rahman-naslen-film-a-crisis-of-misplaced-confidence/305e2b3b5f242"
+source = "https://www.OTT Play.com/features/alappuzha-gymkhana-khalid-rahman-naslen-film-a-crisis-of-misplaced-confidence/305e2b3b5f242"
 subtitle = "A Crisis Of Misplaced Confidence"
 title = "Alappuzha Gymkhana"
 +++

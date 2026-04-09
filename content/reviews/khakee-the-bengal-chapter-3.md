@@ -8,7 +8,7 @@ mreviews = ["Khakee: The Bengal Chapter"]
 opening = "Neeraj Pandey's show undercuts nuances and unfolds as an inflated cat-and-mouse thriller that could have been set anywhere and at any time. The lay of the land has little bearing on the proceedings."
 publication = ""
 scores = [6]
-source = "https://www.ottplay.com/features/khakee-the-bengal-chapter-a-toothless-political-thriller/d884c11e40626"
+source = "https://www.OTT Play.com/features/khakee-the-bengal-chapter-a-toothless-political-thriller/d884c11e40626"
 subtitle = "The Bengal Chapter Is A Toothless Political Thriller"
 title = "Khakee: The Bengal Chapter"
 +++

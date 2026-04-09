@@ -8,7 +8,7 @@ mreviews = ["Vettaiyan"]
 opening = "With Vettaiyan, filmmaker TJ Gnanavel concerns himself with several issues at once. It is like walking into a multi-cuisine restaurant and not a single dish is done well."
 publication = "OTT Play"
 scores = [5]
-source = "https://www.ottplay.com/features/vettaiyan-a-tiring-film-from-a-tired-rajinikanth/6c0e62b91f912"
+source = "https://www.OTT Play.com/features/vettaiyan-a-tiring-film-from-a-tired-rajinikanth/6c0e62b91f912"
 subtitle = "A Tiring Film From A Tired Rajinikanth"
 title = "Vettaiyan"
 +++

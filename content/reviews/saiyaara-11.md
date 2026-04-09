@@ -8,7 +8,7 @@ mreviews = ["Saiyaara"]
 opening = "With Saiyaara, Mohit Suri captures the feeling of sinking in love through the musicality of a heartbreak, and it has been a while since a Hindi film let itself fall."
 publication = "OTT Play"
 scores = [7]
-source = "https://www.ottplay.com/features/saiyaara-mohit-suri-ahaan-panday-aneet-padda-a-star-is-born/5858c21e8a616"
+source = "https://www.OTT Play.com/features/saiyaara-mohit-suri-ahaan-panday-aneet-padda-a-star-is-born/5858c21e8a616"
 subtitle = "A Star Is Born"
 title = "Saiyaara"
 +++

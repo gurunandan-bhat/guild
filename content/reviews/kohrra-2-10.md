@@ -9,7 +9,7 @@ subtitle = "The Mona Singh-Barun Sobti Show Is A Near-Perfect Second Chapter"
 opening = "Reprising the first season’s format, Kohrra 2 unfolds as a procedural focused on the crime, not the criminal, elevating a competent whodunnit into a social drama where one feeds into the other."
 img = 'kohrra-2-10.webp'
 media = 'print'
-source = "https://www.ottplay.com/features/kohrra-season-2-the-mona-singh-barun-sobti-show-is-a-near-perfect-second-chapter/995e880c1d848"
+source = "https://www.OTT Play.com/features/kohrra-season-2-the-mona-singh-barun-sobti-show-is-a-near-perfect-second-chapter/995e880c1d848"
 scores = [9]
 +++
 

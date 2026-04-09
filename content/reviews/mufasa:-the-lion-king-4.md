@@ -8,7 +8,7 @@ mreviews = ["Mufasa: The Lion King"]
 opening = "I’m not sure what happened during the four years of making Mufasa, but I don’t see the point of putting so much work, passion, sweat, and life into something that’s already been done before."
 publication = "OTT Play"
 scores = [4]
-source = "https://www.ottplay.com/features/mufasa-the-lion-king-disney-sized-waste-of-director-barry-jenkins/c36b7781c6400?sfnsn=wiwspwa"
+source = "https://www.OTT Play.com/features/mufasa-the-lion-king-disney-sized-waste-of-director-barry-jenkins/c36b7781c6400?sfnsn=wiwspwa"
 subtitle = "The Lion King Is A Disney-Sized Waste Of Director Barry Jenkins"
 title = "Mufasa: The Lion King"
 +++

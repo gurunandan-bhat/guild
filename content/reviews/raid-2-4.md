@@ -8,7 +8,7 @@ mreviews = ["Raid 2"]
 opening = "The apolitical stance of Raj Kumar Gupta's Raid 2 backfires on the commentary it tries to make; its cautious intent and framing shrink the story’s broad scope into the smallness of a single act."
 publication = ""
 scores = [2]
-source = "https://www.ottplay.com/features/raid-2-ajay-devgn-riteish-deshmukh-film-apolitical-tale-of-heroism/7e3375e6e0815"
+source = "https://www.OTT Play.com/features/raid-2-ajay-devgn-riteish-deshmukh-film-apolitical-tale-of-heroism/7e3375e6e0815"
 subtitle = "Ajay Devgn Is Listless In His Apolitical Tale Of Heroism"
 title = "Raid 2"
 +++

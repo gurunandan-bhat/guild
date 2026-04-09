@@ -8,7 +8,7 @@ mreviews = ["A Real Pain"]
 opening = "Jesse Eisenberg’s film, featuring a great Kieran Culkin performance, lives in the nuances of depression."
 publication = "OTT Play"
 scores = [8]
-source = "https://www.ottplay.com/features/a-real-pain-the-art-and-heart-of-suffering/19d2a9b250612"
+source = "https://www.OTT Play.com/features/a-real-pain-the-art-and-heart-of-suffering/19d2a9b250612"
 subtitle = "The Art, & Heart, Of Suffering"
 title = "A Real Pain"
 +++

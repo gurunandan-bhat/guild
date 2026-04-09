@@ -8,7 +8,7 @@ mreviews = ["Follower"]
 opening = "Harshad Nalawade's film tracks the senseless way social media trolls operate, fuelled by the misguided notion that unquestionable obedience is their greatest calling. Follower is about followers."
 publication = ""
 scores = [8]
-source = "https://www.ottplay.com/features/follower-urgent-film-about-political-compliance/7a5bd6b7ba583"
+source = "https://www.OTT Play.com/features/follower-urgent-film-about-political-compliance/7a5bd6b7ba583"
 subtitle = "An Urgent Film About Political Compliance"
 title = "Follower"
 +++

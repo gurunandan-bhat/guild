@@ -8,7 +8,7 @@ mreviews = ["Karate Kid: Legends"]
 opening = "Single-handedly undoes the nostalgia and cultural impact of every single Karate Kid story in the last four decades."
 publication = "OTT Play"
 scores = [2]
-source = "https://www.ottplay.com/features/karate-kid-legends-is-the-crown-jewel-of-hollywood-mediocrity/f8775c61cd246"
+source = "https://www.OTT Play.com/features/karate-kid-legends-is-the-crown-jewel-of-hollywood-mediocrity/f8775c61cd246"
 subtitle = "The Crown Jewel Of Hollywood Mediocrity"
 title = "Karate Kid: Legends"
 +++

@@ -8,7 +8,7 @@ mreviews = ["Sunny Sanskari Ki Tulsi Kumari"]
 opening = "This new Dharma film is an abysmal endeavour where all four characters have the personality of caterpillars and share deeper chemistry with their designer outfits than with each other."
 publication = "OTT Play"
 scores = [2]
-source = "https://www.ottplay.com/features/sunny-sanskari-ki-tulsi-kumari-varun-dhawan-janhvi-kapoor-is-the-most-anti-film-of-the-year/48504766be243"
+source = "https://www.OTT Play.com/features/sunny-sanskari-ki-tulsi-kumari-varun-dhawan-janhvi-kapoor-is-the-most-anti-film-of-the-year/48504766be243"
 subtitle = ""
 title = "Sunny Sanskari Ki Tulsi Kumari"
 +++

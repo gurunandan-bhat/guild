@@ -8,7 +8,7 @@ mreviews = ["Nilavukku Enmel Ennadi Kobam"]
 opening = "What brings Nilavuku En Mel Ennadi Kobam down is the lack of a compelling conceit. It slowly devolves into an idiot plot where if people could just talk, things would be over in no time."
 publication = "OTT Play"
 scores = [6]
-source = "https://www.ottplay.com/features/nilavuku-en-mel-ennadi-kobam-dhanush-fun-rom-com-that-could-have-been-better/3f2a1a7f8e552"
+source = "https://www.OTT Play.com/features/nilavuku-en-mel-ennadi-kobam-dhanush-fun-rom-com-that-could-have-been-better/3f2a1a7f8e552"
 subtitle = "A Fun Rom-Com That Could Have Been Better"
 title = "Nilavukku Enmel Ennadi Kobam"
 +++

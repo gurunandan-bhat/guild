@@ -8,7 +8,7 @@ mreviews = ["Metro... in Dino"]
 opening = ""
 publication = "OTT Play"
 scores = [7]
-source = "https://www.ottplay.com/features/metro-in-dino-anurag-basus-musical-throbs-with-longing/2e62ec8b55398"
+source = "https://www.OTT Play.com/features/metro-in-dino-anurag-basus-musical-throbs-with-longing/2e62ec8b55398"
 subtitle = "Anurag Basu’s Musical Throbs With Longing"
 title = "Metro... in Dino"
 +++

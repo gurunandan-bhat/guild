@@ -8,7 +8,7 @@ mreviews = ["The Girlfriend"]
 opening = "Rahul Ravindran's The Girlfriend is like the antidote to Arjun Reddy. It is the balm many young women need, it is a film telling them it sees them, and understands where they come from."
 publication = "OTT Play"
 scores = [8]
-source = "https://www.ottplay.com/features/the-girlfriend-a-superb-rashmika-mandanna-headlines-this-sensitive-take-on-toxic-relationships/14c8f762d9604"
+source = "https://www.OTT Play.com/features/the-girlfriend-a-superb-rashmika-mandanna-headlines-this-sensitive-take-on-toxic-relationships/14c8f762d9604"
 subtitle = "A Superb Rashmika Mandanna Headlines This Sensitive Take On Toxic Relationships"
 title = "The Girlfriend"
 +++

@@ -8,7 +8,7 @@ mreviews = ["Baby John"]
 opening = "With Baby John, Varun Dhawan joins the long line of male actors transitioning to action stars who willingly hack and chop. He does the same but with an abject insincerity that gleams from the screen."
 publication = ""
 scores = [1]
-source = "https://www.ottplay.com/features/baby-john-atlee-varun-dhawan-worst-film-of-the-year/7bbdd9295a786"
+source = "https://www.OTT Play.com/features/baby-john-atlee-varun-dhawan-worst-film-of-the-year/7bbdd9295a786"
 subtitle = "The Worst Film Of The Year"
 title = "Baby John"
 +++

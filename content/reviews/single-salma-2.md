@@ -8,7 +8,7 @@ mreviews = ["Single Salma"]
 opening = "Nachiket Samant's film subscribes to stereotypes without peddling them and perpetuates predictability without ruining them. This might sound easy, but maintaining such a balance is a feat."
 publication = "OTT Play"
 scores = [6]
-source = "https://www.ottplay.com/features/single-salma-is-a-surprisingly-effective-film-that-finds-charm-in-familiarity/09acad573f55"
+source = "https://www.OTT Play.com/features/single-salma-is-a-surprisingly-effective-film-that-finds-charm-in-familiarity/09acad573f55"
 subtitle = "A Surprisingly Effective Film That Finds Charm In Familiarity"
 title = "Single Salma"
 +++

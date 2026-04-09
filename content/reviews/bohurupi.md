@@ -6,7 +6,7 @@ mreviews = ['Bohurupi']
 critics = ['Shamayita Chakraborty']
 subtitle = 'Shiboprosad Mukherjee and Abir Chatterjee gift us a wholesome entertainer'
 opening = 'Directed by Shiboprosad Mukherjee and Nandita Roy, Bohurupi features Abir Chatterjee, Ritabhari Chakraborty, Koushani Mukherjee, and Shiboprosad.'
-source = 'https://www.ottplay.com/review/bohurupi-review-shiboprosad-mukherjee-and-abir-chatterjee-gift-us-a-wholesome-entertainer/56907efdc8187'
+source = 'https://www.OTT Play.com/review/bohurupi-review-shiboprosad-mukherjee-and-abir-chatterjee-gift-us-a-wholesome-entertainer/56907efdc8187'
 img = 'bohurupi.png'
 media = 'print'
 +++

@@ -8,7 +8,7 @@ mreviews = ["Marty Supreme"]
 opening = ""
 publication = "OTT Play"
 scores = [7]
-source = "https://www.ottplay.com/features/timothee-chalamet-marty-supreme-the-fascism-of-desire/9052903e65618"
+source = "https://www.OTT Play.com/features/timothee-chalamet-marty-supreme-the-fascism-of-desire/9052903e65618"
 subtitle = "The Fascism Of Desire"
 title = "Marty Supreme"
 +++

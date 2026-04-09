@@ -8,7 +8,7 @@ mreviews = ["Retro"]
 opening = "The weakest link in Karthik Subbaraj’s Retro is emotions. You see love, do not feel it; see oppression, not the fire or resignation in the eyes; see oppressors, not beyond their manic energy."
 publication = "OTT Play"
 scores = [6]
-source = "https://www.ottplay.com/features/retro-karthik-subbaraj-suriya-so-much-to-live-very-little-to-feel/2e68403850574"
+source = "https://www.OTT Play.com/features/retro-karthik-subbaraj-suriya-so-much-to-live-very-little-to-feel/2e68403850574"
 subtitle = "So Much To Love, Very Little To Feel"
 title = "Retro"
 +++

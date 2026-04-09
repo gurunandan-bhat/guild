@@ -8,7 +8,7 @@ mreviews = ["Poetic License"]
 opening = ""
 publication = "OTT Play"
 scores = [7]
-source = "https://www.ottplay.com/features/maude-apatows-poetic-license-is-effortlessly-charming/c97d4b1ca2395"
+source = "https://www.OTT Play.com/features/maude-apatows-poetic-license-is-effortlessly-charming/c97d4b1ca2395"
 subtitle = "Effortlessly Charming"
 title = "Poetic License"
 +++

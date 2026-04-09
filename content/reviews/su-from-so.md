@@ -8,7 +8,7 @@ mreviews = ["Su From So"]
 opening = "Director JP Thuminad creates a world that’s deeply immersive, and in a film that’s high on humour, he nudges you to be better"
 publication = "OTT Play"
 scores = [9]
-source = "https://www.ottplay.com/features/su-from-so-kannada-movie-review-much-laughter-lots-to-think-about-in-this-raj-b-shetty-production/3887392a2a848"
+source = "https://www.OTT Play.com/features/su-from-so-kannada-movie-review-much-laughter-lots-to-think-about-in-this-raj-b-shetty-production/3887392a2a848"
 subtitle = "Much Laughter & Lots To Think About, In This Raj B Shetty Production"
 title = "Su From So"
 +++

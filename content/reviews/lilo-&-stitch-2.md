@@ -8,7 +8,7 @@ mreviews = ["Lilo & Stitch"]
 opening = "This live-action remake of the timeless 2002 Disney feature-length cartoon is not Pixar-heavy or allegorical; it's just a simple fairytale about misfits uniting to belong in an America on the margins."
 publication = "OTT Play"
 scores = [6]
-source = "https://www.ottplay.com/features/lilo-and-stitch-rare-disney-remake-hard-to-dislike/87fa76b589431"
+source = "https://www.OTT Play.com/features/lilo-and-stitch-rare-disney-remake-hard-to-dislike/87fa76b589431"
 subtitle = "A Rare Disney Remake That’s Hard To Dislike"
 title = "Lilo & Stitch"
 +++

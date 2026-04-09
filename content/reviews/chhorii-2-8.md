@@ -8,7 +8,7 @@ mreviews = ["Chhorii 2"]
 opening = "Chhorii 2 is so obvious in its badness that it makes dismissing it a lesser problem. The real horror? A third part in the works — and Nushrratt Bharuccha's painfully grating return."
 publication = ""
 scores = [2]
-source = "https://www.ottplay.com/features/chhori-2-nushrratt-bharuccha-film-painfully-literal-take-on-feminism/b2d29667f0516"
+source = "https://www.OTT Play.com/features/chhori-2-nushrratt-bharuccha-film-painfully-literal-take-on-feminism/b2d29667f0516"
 subtitle = "A Painfully Literal Take On Feminism"
 title = "Chhorii 2"
 +++

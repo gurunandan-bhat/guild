@@ -8,7 +8,7 @@ mreviews = ["Maalik"]
 opening = "Pulkit's Maalik is like most Hindi films, taking a shot through gratuitous violence to earn billions at the box office. Brutality abounds in the story, and the purpose of it is brutality itself."
 publication = "OTT Play"
 scores = [2]
-source = "https://www.ottplay.com/features/maalik-rajkummar-rao-falls-flat-in-this-same-old-story/9917483aad124"
+source = "https://www.OTT Play.com/features/maalik-rajkummar-rao-falls-flat-in-this-same-old-story/9917483aad124"
 subtitle = "Rajkummar Rao Falls Flat In This Same Old Story"
 title = "Maalik"
 +++

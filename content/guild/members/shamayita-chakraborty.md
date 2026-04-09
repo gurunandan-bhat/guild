@@ -12,4 +12,4 @@ facebook = 'https://www.facebook.com/shamayita.chakraborty/'
 twitter = 'https://x.com/samchak'
 +++
 
-Shamayita is a journalist and film critic with over 15 years of experience. She has previously worked with Times Of India, OTTplay, Bangalore Mirror and Zee 24 Ghanta. She reviews and writes on Bengali, Hindi and English films and web series.
+Shamayita is a journalist and film critic with over 15 years of experience. She has previously worked with Times Of India, OTT Play, Bangalore Mirror and Zee 24 Ghanta. She reviews and writes on Bengali, Hindi and English films and web series.

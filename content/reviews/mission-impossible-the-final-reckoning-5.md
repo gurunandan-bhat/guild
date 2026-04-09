@@ -8,7 +8,7 @@ mreviews = ["Mission: Impossible - The Final Reckoning"]
 opening = "Tom Cruise stopped at nothing—until everything stopped at him. Accept the finality, and the reckoning ends. Refuse it, and we’re left watching the cinema of exhaustion play on."
 publication = "OTT Play"
 scores = [5]
-source = "https://www.ottplay.com/features/mission-impossible-the-final-reckoning-tom-cruise-the-endless-goodbye/877e0aa3cd41"
+source = "https://www.OTT Play.com/features/mission-impossible-the-final-reckoning-tom-cruise-the-endless-goodbye/877e0aa3cd41"
 subtitle = "The Endless Goodbye"
 title = "Mission: Impossible - The Final Reckoning"
 +++

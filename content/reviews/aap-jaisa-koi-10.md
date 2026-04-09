@@ -8,7 +8,7 @@ mreviews = ["Aap Jaisa Koi"]
 opening = "With Vivek Soni’s directorial feature Aap Jaisa Koi, both Dharma and Netflix (the streamer) operate on the lowest level of creativity. It unfolds as a masterclass in vacuity."
 publication = "OTT Play"
 scores = [5]
-source = "https://www.ottplay.com/features/aap-jaisa-koi-r-madhavan-fatima-sana-shaikh-leave-bengalis-alone/0cd0e18411174"
+source = "https://www.OTT Play.com/features/aap-jaisa-koi-r-madhavan-fatima-sana-shaikh-leave-bengalis-alone/0cd0e18411174"
 subtitle = "Leave Bengalis Alone"
 title = "Aap Jaisa Koi"
 +++

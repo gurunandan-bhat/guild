@@ -8,7 +8,7 @@ mreviews = ["Housefull 5"]
 opening = ""
 publication = "OTT Play"
 scores = [2]
-source = "https://www.ottplay.com/features/housefull-5-has-akshay-kumar-doing-akshay-kumar-things/6b1c2e433f468"
+source = "https://www.OTT Play.com/features/housefull-5-has-akshay-kumar-doing-akshay-kumar-things/6b1c2e433f468"
 subtitle = "Akshay Kumar Doing Akshay Kumar Things"
 title = "Housefull 5"
 +++

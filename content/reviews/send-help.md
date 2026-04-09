@@ -8,7 +8,7 @@ mreviews = ["Send Help"]
 opening = "At once a deliriously funny horror movie and a shockingly scary comedy. Somehow, both tones co-exist without losing the essence of either. It’s an uncanny balance."
 publication = "OTT Play"
 scores = [8]
-source = "https://www.ottplay.com/features/send-help-a-delicious-send-up-of-hollywood-survival-thrillers/6a43b09879428"
+source = "https://www.OTT Play.com/features/send-help-a-delicious-send-up-of-hollywood-survival-thrillers/6a43b09879428"
 subtitle = "A Delicious Send-Up Of Hollywood Survival Thrillers"
 title = "Send Help"
 +++

@@ -8,7 +8,7 @@ mreviews = ["Border 2"]
 opening = "We are living at a time when the merit of a film has come to be defined by not what it is but what it is not. Perhaps, this will be Border 2’s most resounding legacy."
 publication = "OTT Play"
 scores = [5]
-source = "https://www.ottplay.com/review/border-2-spiritual-sequel-saying-the-same-story/4eaee4ebe9691"
+source = "https://www.OTT Play.com/review/border-2-spiritual-sequel-saying-the-same-story/4eaee4ebe9691"
 subtitle = "Spiritual Sequel Saying The Same Story"
 title = "Border 2"
 +++

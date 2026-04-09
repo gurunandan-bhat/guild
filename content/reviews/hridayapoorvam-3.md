@@ -8,7 +8,7 @@ mreviews = ["Hridayapoorvam"]
 opening = "Quintessential Sathyan Anthikad — light on its feet, airy and like a warm beverage on a rainy afternoon."
 publication = ""
 scores = [6]
-source = "https://www.ottplay.com/features/hridayapoorvam-mohanlal-sathyan-anthikad-as-light-and-harmless-as-they-come/49906637f8464"
+source = "https://www.OTT Play.com/features/hridayapoorvam-mohanlal-sathyan-anthikad-as-light-and-harmless-as-they-come/49906637f8464"
 subtitle = "As Light And Harmless As They Come"
 title = "Hridayapoorvam"
 +++

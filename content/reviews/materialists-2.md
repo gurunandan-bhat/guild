@@ -8,7 +8,7 @@ mreviews = ["Materialists"]
 opening = "Celine Song’s Materialists moves beyond pure fiction into fiction-coded realism, becoming a romantic comedy that reveals why romantic comedies exist."
 publication = "OTT Play"
 scores = [7]
-source = "https://www.ottplay.com/features/materialists-pedro-pascal-chris-evans-dakota-johnson-how-can-you-not-be-romantic-about-love/cb20f3f896387"
+source = "https://www.OTT Play.com/features/materialists-pedro-pascal-chris-evans-dakota-johnson-how-can-you-not-be-romantic-about-love/cb20f3f896387"
 subtitle = "How Can You Not Be Romantic About Love?"
 title = "Materialists"
 +++

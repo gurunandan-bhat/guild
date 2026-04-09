@@ -8,7 +8,7 @@ mreviews = ["Thug Life"]
 opening = "It is hard to make out what interested Haasan and Ratnam in this head-scratcher of a film"
 publication = "OTT Play"
 scores = [5]
-source = "https://www.ottplay.com/features/thug-life-a-strange-lifeless-film-from-mani-ratnam-and-kamal-haasan/c300cf5447756"
+source = "https://www.OTT Play.com/features/thug-life-a-strange-lifeless-film-from-mani-ratnam-and-kamal-haasan/c300cf5447756"
 subtitle = "A Strange, Lifeless Film From Mani Ratnam And Kamal Haasan"
 title = "Thug Life"
 +++

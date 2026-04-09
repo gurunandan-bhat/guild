@@ -8,7 +8,7 @@ mreviews = ["Nadaaniyan"]
 opening = "Shauna Gautam’s debut feature Nadaaniyan's leads are so dull that even in a ranking of Hindi cinema’s most forgettable protagonists, Pia (Khushi Kapoor) and Arjun (Ibrahim Ali Khan) wouldn’t qualify."
 publication = ""
 scores = [1.5]
-source = "https://www.ottplay.com/features/nadaaniyan-khushi-kapoor-ibrahim-ali-khan-where-are-we-headed/de74bbfd5b778"
+source = "https://www.OTT Play.com/features/nadaaniyan-khushi-kapoor-ibrahim-ali-khan-where-are-we-headed/de74bbfd5b778"
 subtitle = "Where Are We Headed?"
 title = "Nadaaniyan"
 +++

@@ -8,7 +8,7 @@ mreviews = ["Firefly"]
 opening = "Some stories don’t just tell you what grief looks like — they let you sit with it, laugh through it, even hallucinate your way around it. Vamshi Krishna’s Firefly does all that and more."
 publication = "OTT Play"
 scores = [8]
-source = "https://www.ottplay.com/features/vamsi-krishna-firefly-treads-lightly-through-grief-and-finds-joy/0d18d8ad86747"
+source = "https://www.OTT Play.com/features/vamsi-krishna-firefly-treads-lightly-through-grief-and-finds-joy/0d18d8ad86747"
 subtitle = "Treads Lightly Through Grief — And Finds Joy"
 title = "Firefly"
 +++

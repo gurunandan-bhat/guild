@@ -8,7 +8,7 @@ mreviews = ["Sorry Baby"]
 opening = ""
 publication = "OTT Play"
 scores = [9]
-source = "https://www.ottplay.com/features/sundance-sorry-baby-a-sensational-debut-eva-victor/a4226f85fb755"
+source = "https://www.OTT Play.com/features/sundance-sorry-baby-a-sensational-debut-eva-victor/a4226f85fb755"
 subtitle = "A Sensational Debut By Eva Victor"
 title = "Sorry Baby"
 +++

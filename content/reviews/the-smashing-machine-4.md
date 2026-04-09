@@ -8,7 +8,7 @@ mreviews = ["The Smashing Machine"]
 opening = "Dwayne “The Rock” Johnson finally plays the role he was born to play — that of a champion wrestler and near-invincible strongman — only to challenge his stardom with a painfully human(e) performance."
 publication = "OTT Play"
 scores = [7]
-source = "https://www.ottplay.com/features/the-smashing-machine-thriving-between-a-rock-a-hard-place/0b2f63bcb2246"
+source = "https://www.OTT Play.com/features/the-smashing-machine-thriving-between-a-rock-a-hard-place/0b2f63bcb2246"
 subtitle = "Thriving Between A Rock & A Hard Place"
 title = "The Smashing Machine"
 +++

@@ -8,7 +8,7 @@ subtitle = "Rukmini Maitra and Dev shine in this hostage drama"
 opening = ""
 img = 'tekka.webp'
 media = 'print'
-source = "https://www.ottplay.com/review/tekka-review-rukmini-maitra-and-dev-shine-in-this-hostage-drama/d5d4a5b3a1744"
+source = "https://www.OTT Play.com/review/tekka-review-rukmini-maitra-and-dev-shine-in-this-hostage-drama/d5d4a5b3a1744"
 +++
 
 The film’s story is pretty much what you have seen in the trailer. For those who are uninitiated, here is the plot in brief. Iqlakh (Dev) loses his job, randomly kidnaps a young girl Avantika (Aameya) from her school, and takes her hostage. He demands to get his job back. Maya (Rukmini Maitra) from Kolkata Police comes to negotiate. Even after his company's maintenance manager (Anirban Bhattacharya) verbally promises to give his job back to him, he demands the owner of the firm Anubrata Adhikari (Paran Bandyopadhyay) to come personally. Meanwhile, in a turn of events, little Aratrika’s mother Ira (Swastika Mukherjee) hunts down Iqlakh’s house and takes hostage of his little boy.

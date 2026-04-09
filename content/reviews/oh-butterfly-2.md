@@ -9,7 +9,7 @@ subtitle = "Three's A Reckoning In Vijay Ranganathan's Assured Debut"
 opening = "The thriller turns a cottage, a couple and a third wheel into a pressure cooker of pride, shame and buried truths."
 img = 'oh-butterfly-2.webp'
 media = 'print'
-source = "https://www.ottplay.com/features/oh-butterfly-tamil-movie-review-vijay-ranganathan-thriller/d4725ab3b3625"
+source = "https://www.OTT Play.com/features/oh-butterfly-tamil-movie-review-vijay-ranganathan-thriller/d4725ab3b3625"
 scores = [6]
 +++
 

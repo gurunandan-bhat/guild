@@ -8,7 +8,7 @@ mreviews = ["The White Lotus S03"]
 opening = "The White Lotus 3 crafts a haunting fable of modern morality, where the truest connection ends not in escape, but in sacrifice. In dying, they resist the façade of survival — and become unforgettable."
 publication = "OTT Play"
 scores = [7]
-source = "https://www.ottplay.com/features/the-white-lotus-season-3-how-can-you-not-be-romantic-about-dying/5178059ef6347"
+source = "https://www.OTT Play.com/features/the-white-lotus-season-3-how-can-you-not-be-romantic-about-dying/5178059ef6347"
 subtitle = "How Can You Not Be Romantic About Dying?"
 title = "The White Lotus S03"
 +++

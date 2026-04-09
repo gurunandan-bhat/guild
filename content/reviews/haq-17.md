@@ -8,7 +8,7 @@ mreviews = ["Haq"]
 opening = "Haq, designed as one woman’s battle against the system, underlines the patriarchal readings of the Quran, the redundancy of triple talaq, and how women are forced to bear the brunt of religion."
 publication = "OTT Play"
 scores = [4]
-source = "https://www.ottplay.com/features/suparn-varma-yami-gautam-emraan-hashmi-haq-is-a-persuasive-film-on-the-shah-bano-case/e7c44f73ac82"
+source = "https://www.OTT Play.com/features/suparn-varma-yami-gautam-emraan-hashmi-haq-is-a-persuasive-film-on-the-shah-bano-case/e7c44f73ac82"
 subtitle = "Suparn Varma’s Haq Is A Persuasive Take On The Shah Bano Case"
 title = "Haq"
 +++

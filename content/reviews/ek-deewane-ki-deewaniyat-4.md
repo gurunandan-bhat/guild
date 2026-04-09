@@ -8,7 +8,7 @@ mreviews = ["Ek Deewane Ki Deewaniyat"]
 opening = "Ek Deewane Ki Deewaniyat is what happens when data drives filmmakers and reels inform filmmaking choices. It is what happens when content is baptised as storytelling."
 publication = "OTT Play"
 scores = [1]
-source = "https://www.ottplay.com/features/milap-zaveri-ek-deewane-ki-deewaniyat-is-really-really-terrible/8164e1879a707"
+source = "https://www.OTT Play.com/features/milap-zaveri-ek-deewane-ki-deewaniyat-is-really-really-terrible/8164e1879a707"
 subtitle = "Really, Really Terrible"
 title = "Ek Deewane Ki Deewaniyat"
 +++

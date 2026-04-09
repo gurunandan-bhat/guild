@@ -8,7 +8,7 @@ mreviews = ["Zootopia 2"]
 opening = "Blends animal puns, political fables and sly humour to attempt the near-impossible — giving snakes the redemption arc history denied them."
 publication = "OTT Play"
 scores = [7]
-source = "https://www.ottplay.com/features/zootopia-2-the-snaky-path-to-greatness/b7ab290251142?fbclid=PAb21jcAOWFrlleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaf2BqRvlBFwO_pzIqvlAVMQwP1XR7KFj4-oq7-OI_iWEyqqZW0TJ0ixPe5XEg_aem_1I00e4qw--czNGICLa2aFQ"
+source = "https://www.OTT Play.com/features/zootopia-2-the-snaky-path-to-greatness/b7ab290251142?fbclid=PAb21jcAOWFrlleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaf2BqRvlBFwO_pzIqvlAVMQwP1XR7KFj4-oq7-OI_iWEyqqZW0TJ0ixPe5XEg_aem_1I00e4qw--czNGICLa2aFQ"
 subtitle = "The Snaky Path To Greatness"
 title = "Zootopia 2"
 +++

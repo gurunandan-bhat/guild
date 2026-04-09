@@ -9,7 +9,7 @@ subtitle = "Saswata Chatterjee’s web series is too long"
 opening = "Kaantaye Kaantaye is a one-time watch for those who don’t know the story. You can give it a miss if you are an Agatha Christie fan"
 img = 'kaantaye-kaantaye.png'
 media = 'print'
-source = "https://www.ottplay.com/review/kaantaye-kaantaye-review-saswata-chatterjees-web-series-is-too-long/aac5acdc69330"
+source = "https://www.OTT Play.com/review/kaantaye-kaantaye-review-saswata-chatterjees-web-series-is-too-long/aac5acdc69330"
 +++
 
 After their daughter died in a car crash, advocate PK Basu (Saswata Chatterjee) and his wife Rani (Ananya Chatterjee) go to North Bengal to recover from their grief. They visit their family friends Sujata (Ayoshi Talukdar) and Kaushik (Somraj Maity) who open a homestay there. A series of murders take place in Kolkata and North Bengal. As a number of characters get stranded in the homestay, PK Basu catches the culprit.

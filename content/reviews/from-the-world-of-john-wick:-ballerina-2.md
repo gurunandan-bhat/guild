@@ -8,7 +8,7 @@ mreviews = ["From the World of John Wick: Ballerina"]
 opening = ""
 publication = "OTT Play"
 scores = [6]
-source = "https://www.ottplay.com/features/ballerina-movie-review-ana-de-armas-john-wick-universe/c735582929480"
+source = "https://www.OTT Play.com/features/ballerina-movie-review-ana-de-armas-john-wick-universe/c735582929480"
 subtitle = "The Adrenaline Of Grief"
 title = "From the World of John Wick: Ballerina"
 +++

@@ -8,7 +8,7 @@ mreviews = ["Good Fortune"]
 opening = "Good Fortune is fun when Keanu Reeves turns earnestness and bad writing into an art form. But as a Barbie-styled comment on modern American society, it comes across as performative and dishonest."
 publication = "OTT Play"
 scores = [5]
-source = "https://www.ottplay.com/features/good-fortune-keanu-reeves-seth-rogen-aziz-ansari-an-angelic-john-wick-rescues-a-flailing-master-of-none/0cfcdc42cb357"
+source = "https://www.OTT Play.com/features/good-fortune-keanu-reeves-seth-rogen-aziz-ansari-an-angelic-john-wick-rescues-a-flailing-master-of-none/0cfcdc42cb357"
 subtitle = "An Angelic John Wick Rescues A Flailing Master Of None"
 title = "Good Fortune"
 +++

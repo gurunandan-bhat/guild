@@ -8,7 +8,7 @@ mreviews = ["Kaantha"]
 opening = "As a sophomore effort, Kaantha is the most gorgeous-looking Tamil film of the year. Films about films can be tricky, and by focusing on the personal, Selvaraj delivers a memorable if uneven film."
 publication = "OTT Play"
 scores = [7]
-source = "https://www.ottplay.com/features/kaantha-selvamani-selvaraj-dulquer-salmaan-film-gorgeous-ferocious-duel-between-artist-ego/d67e1386ba929"
+source = "https://www.OTT Play.com/features/kaantha-selvamani-selvaraj-dulquer-salmaan-film-gorgeous-ferocious-duel-between-artist-ego/d67e1386ba929"
 subtitle = "Selvamani Selvaraj Film Is A Gorgeous, Ferocious Duel Between Artist & Ego"
 title = "Kaantha"
 +++

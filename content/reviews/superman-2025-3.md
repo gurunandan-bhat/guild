@@ -8,7 +8,7 @@ mreviews = ["Superman (2025)"]
 opening = ""
 publication = "OTT Play"
 scores = [5]
-source = "https://www.ottplay.com/features/superman-the-american-burden-of-being-human/a66d0338dd96?fbclid=PAQ0xDSwLeTldleHRuA2FlbQIxMQABp09f3DdVH0XaSIGtgR1BlmJtkgoEarig90Cn5AwnMtd6V0yAdKCQ72PkbEHP_aem_bA8ngUg5CXBfcwJGkQFYOw"
+source = "https://www.OTT Play.com/features/superman-the-american-burden-of-being-human/a66d0338dd96?fbclid=PAQ0xDSwLeTldleHRuA2FlbQIxMQABp09f3DdVH0XaSIGtgR1BlmJtkgoEarig90Cn5AwnMtd6V0yAdKCQ72PkbEHP_aem_bA8ngUg5CXBfcwJGkQFYOw"
 subtitle = "The American Burden Of Being Human"
 title = "Superman (2025)"
 +++

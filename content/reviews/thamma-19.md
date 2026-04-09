@@ -8,7 +8,7 @@ mreviews = ["Thamma"]
 opening = "The fifth outing in Maddock Films' horror-comedy multiverse, Thamma is a remarkably unremarkable feature. The film's individualism is consistently sacrificed at the altar of crowd-pleasing humour.tha"
 publication = "OTT Play"
 scores = [6]
-source = "https://www.ottplay.com/features/thamma-ayushmann-khurrana-rashmika-mandana-is-a-bloodless-vampire-film-with-no-teeth-or-bite/a413244231820"
+source = "https://www.OTT Play.com/features/thamma-ayushmann-khurrana-rashmika-mandana-is-a-bloodless-vampire-film-with-no-teeth-or-bite/a413244231820"
 subtitle = "A Bloodless Vampire Film With No Teeth Or Bite"
 title = "Thamma"
 +++

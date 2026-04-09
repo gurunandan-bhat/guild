@@ -8,7 +8,7 @@ mreviews = ["Wednesday S02"]
 opening = "Not the most satisfying watch, especially because the belated comeback feels like a cash-grabbing dash to reproduce more rather than course-correcting a greedy formula."
 publication = "OTT Play"
 scores = [4]
-source = "https://www.ottplay.com/features/wednesday-season-2-netflix-jenna-ortega-thank-god-its-friday/85ca9fb3a0458?s=09"
+source = "https://www.OTT Play.com/features/wednesday-season-2-netflix-jenna-ortega-thank-god-its-friday/85ca9fb3a0458?s=09"
 subtitle = "Thank God It’s (Finally) Friday (Part 1)"
 title = "Wednesday S02"
 +++

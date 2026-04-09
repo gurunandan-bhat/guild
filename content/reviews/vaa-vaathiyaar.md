@@ -8,7 +8,7 @@ mreviews = ["Vaa Vaathiyaar"]
 opening = "Nalan Kumaraswamy weaponises the idea of MGR, the screen hero, staging a pulpy vigilante drama that is as much about cinema’s myths as it is about the state’s abuse of power."
 publication = "OTT Play"
 scores = [6.5]
-source = "https://www.ottplay.com/features/vaa-vaathiyaar-is-a-fun-campy-vigilante-film/f88e82fc65241"
+source = "https://www.OTT Play.com/features/vaa-vaathiyaar-is-a-fun-campy-vigilante-film/f88e82fc65241"
 subtitle = "A Fun, Campy Vigilante Film"
 title = "Vaa Vaathiyaar"
 +++

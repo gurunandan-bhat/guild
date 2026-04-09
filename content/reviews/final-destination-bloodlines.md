@@ -6,9 +6,9 @@ img = "final-destination-bloodlines.webp"
 media = "print"
 mreviews = ["Final Destination Bloodlines"]
 opening = ""
-publication = "OTT PLay"
+publication = "OTT Play"
 scores = [7]
-source = "https://www.ottplay.com/features/final-destination-bloodlines-a-franchise-reboot-to-die-for/d86bf68126385"
+source = "https://www.OTT Play.com/features/final-destination-bloodlines-a-franchise-reboot-to-die-for/d86bf68126385"
 subtitle = "A Franchise Reboot To Die For"
 title = "Final Destination Bloodlines"
 +++

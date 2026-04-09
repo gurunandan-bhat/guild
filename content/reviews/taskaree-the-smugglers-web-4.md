@@ -8,7 +8,7 @@ mreviews = ["Taskaree: The Smuggler's Web"]
 opening = "Taskaree begins as a smart, textured look at the hidden machinery of smuggling, but its compulsion to outwit the viewer ultimately turns ingenuity into excess."
 publication = "OTT Play"
 scores = [5]
-source = "https://www.ottplay.com/features/emraam-hashmi-neeraj-pandey-taskaree-the-smugglers-web-is-fun-till-it-is-not/1c57feeb78222"
+source = "https://www.OTT Play.com/features/emraam-hashmi-neeraj-pandey-taskaree-the-smugglers-web-is-fun-till-it-is-not/1c57feeb78222"
 subtitle = "Fun Till It Is Not"
 title = "Taskaree: The Smuggler's Web"
 +++

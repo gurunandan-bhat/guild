@@ -8,7 +8,7 @@ mreviews = ["Kanguva"]
 opening = "If you thought Indian 2 was cringe, wait till you witness the first 40 minutes of Kanguva."
 publication = "OTT Play"
 scores = [3]
-source = "https://www.ottplay.com/features/suriyas-kanguva-is-a-flaming-mess/a36690e092237"
+source = "https://www.OTT Play.com/features/suriyas-kanguva-is-a-flaming-mess/a36690e092237"
 subtitle = "Suriya's Kanguva Is A Flaming Mess"
 title = "Kanguva"
 +++

@@ -9,7 +9,7 @@ subtitle = "Low-Stakes Love Story Squanders Potential"
 opening = "Keeps rising and falling, and this constant crest and trough robs much of the film’s urgency, which was unhurried to begin with."
 img = 'do-deewane-seher-mein-3.webp'
 media = 'print'
-source = "https://www.ottplay.com/features/do-deewane-seher-mein-siddhant-chaturvedi-mrunal-thakur-low-stakes-love-story-squanders-potential/0746ad6ac952"
+source = "https://www.OTT Play.com/features/do-deewane-seher-mein-siddhant-chaturvedi-mrunal-thakur-low-stakes-love-story-squanders-potential/0746ad6ac952"
 scores = [5]
 +++
 

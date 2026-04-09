@@ -8,7 +8,7 @@ mreviews = ["28 Years Later: The Bone Temple"]
 opening = "Nia DaCosta's masterfully written zombie thriller does the unthinkable: it strips the genre of its dangerous flights of fancy, reclaiming the Zombie as a monster of science, not faith."
 publication = "OTT Play"
 scores = [8]
-source = "https://www.ottplay.com/features/28-years-later-the-bone-temple-2026-begins-with-a-zombie-cold-masterpiece/f7ddc29e64436"
+source = "https://www.OTT Play.com/features/28-years-later-the-bone-temple-2026-begins-with-a-zombie-cold-masterpiece/f7ddc29e64436"
 subtitle = "2026 Begins With A Zombie-Cold Masterpiece"
 title = "28 Years Later: The Bone Temple"
 +++

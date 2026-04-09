@@ -8,7 +8,7 @@ mreviews = ["Bayaan"]
 opening = ""
 publication = "OTT Play"
 scores = [4]
-source = "https://www.ottplay.com/features/huma-qureshis-bayaan-is-a-frustrating-reiteration-of-the-godmen-culture-in-india/c43982727b205"
+source = "https://www.OTT Play.com/features/huma-qureshis-bayaan-is-a-frustrating-reiteration-of-the-godmen-culture-in-india/c43982727b205"
 subtitle = "A Frustrating Reiteration Of India's Godmen Culture"
 title = "Bayaan"
 +++

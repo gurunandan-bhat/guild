@@ -8,7 +8,7 @@ mreviews = ["Bad Girl"]
 opening = "Bad Girl is about engaging with the very real experiences of a young woman without slipping into a territory where pity and regret unite for a chokehold."
 publication = "OTT Play"
 scores = [8]
-source = "https://www.ottplay.com/features/bad-girl-a-magnificent-film-that-articulates-what-we-really-want-from-tamil-cinema/967ecb8a91471"
+source = "https://www.OTT Play.com/features/bad-girl-a-magnificent-film-that-articulates-what-we-really-want-from-tamil-cinema/967ecb8a91471"
 subtitle = "A Magnificent Film That Articulates What We Really Want From Tamil Cinema"
 title = "Bad Girl"
 +++

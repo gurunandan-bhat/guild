@@ -8,7 +8,7 @@ mreviews = ["Good Bad Ugly"]
 opening = "Nothing in Adhik Ravichandran's Good Bad Ugly is original, and more importantly, nothing truly feels sincere. It's a disservice not just to Ajith, but to his entire fandom."
 publication = "OTT Play"
 scores = [2]
-source = "https://www.ottplay.com/features/good-bad-ugly-ajith-kumar-film-is-parody-disguised-as-fan-service/1ad5ddc454890"
+source = "https://www.OTT Play.com/features/good-bad-ugly-ajith-kumar-film-is-parody-disguised-as-fan-service/1ad5ddc454890"
 subtitle = "Parody Disguised As Fan Service"
 title = "Good Bad Ugly"
 +++

@@ -9,7 +9,7 @@ subtitle = "Rage Overwhelms Anubhav Sinha’s Urgent Film"
 opening = "Assi is simmering with rage. While the morality is beyond scrutiny, the tactile consequence of the fury interrupts the filmmaking."
 img = 'assi-13.webp'
 media = 'print'
-source = "https://www.ottplay.com/features/assi-rage-overwhelms-anubhav-sinhas-urgent-film/187992fbac414"
+source = "https://www.OTT Play.com/features/assi-rage-overwhelms-anubhav-sinhas-urgent-film/187992fbac414"
 scores = [6]
 +++
 

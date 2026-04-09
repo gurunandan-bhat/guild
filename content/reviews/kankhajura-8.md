@@ -8,7 +8,7 @@ mreviews = ["Kankhajura"]
 opening = "The eight-episode series by Chandan Arora takes some interesting strands and instead of crafting a compelling psychological drama, dunks them in the excess of a thriller."
 publication = "OTT Play"
 scores = [4]
-source = "https://www.ottplay.com/features/kankhajura-is-a-toothless-series-about-vindication/ce39dbb318255"
+source = "https://www.OTT Play.com/features/kankhajura-is-a-toothless-series-about-vindication/ce39dbb318255"
 subtitle = "A Toothless Series About Vindication"
 title = "Kankhajura"
 +++

@@ -6,9 +6,9 @@ img = "vidaamuyarchi-2.png"
 media = "print"
 mreviews = ["Vidaamuyarchi"]
 opening = "Vidaamuyarchi is a genre film: a road action thriller where the thrills need to be earned. And it does a commendable job of establishing terrain as well as characters."
-publication = "OTTplay"
+publication = "OTT Play"
 scores = [5]
-source = "https://www.ottplay.com/features/vidaamuyarchi-ajith-trisha-thriller-doesnt-fully-commit-to-its-genre/deb998e80b636"
+source = "https://www.OTT Play.com/features/vidaamuyarchi-ajith-trisha-thriller-doesnt-fully-commit-to-its-genre/deb998e80b636"
 subtitle = "Ajith-Trisha Thriller Doesn’t Fully Commit To Its Genre"
 title = "Vidaamuyarchi"
 +++

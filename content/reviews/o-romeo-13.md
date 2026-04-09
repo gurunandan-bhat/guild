@@ -9,7 +9,7 @@ subtitle = "Vishal Bhardwaj’s Bloody Tale Of Love Has No Heart"
 opening = "Unlike other Bhardwaj films, which, almost always, hide yearning within pockets of brutality, O'Romeo unfolds as a love story suffused with blood, but the heart refuses to beat."
 img = 'o-romeo-13.webp'
 media = 'print'
-source = "https://www.ottplay.com/features/oromeo-vishal-bhardwajs-bloody-tale-of-love-has-no-heart/9490657a8a874"
+source = "https://www.OTT Play.com/features/oromeo-vishal-bhardwajs-bloody-tale-of-love-has-no-heart/9490657a8a874"
 scores = [5]
 +++
 

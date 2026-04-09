@@ -8,7 +8,7 @@ mreviews = ["Jewel Thief - The Heist Begins"]
 opening = "Jewel Thief could have been Ocean's Eleven, but sticks to being an unauthorised sequel of Race. I am not sure about anyone else, but Abbas-Mustan would not approve of this."
 publication = ""
 scores = [2]
-source = "https://www.ottplay.com/features/jewel-thief-saif-ali-khan-jaideep-ahlawat-a-heist-that-chokes-on-its-own-excess/e19aa0a0f3385?utm_source=Netcore&utm_campaign=Stream+Or+Skip:+April+26&utm_medium=Email&utm_content="
+source = "https://www.OTT Play.com/features/jewel-thief-saif-ali-khan-jaideep-ahlawat-a-heist-that-chokes-on-its-own-excess/e19aa0a0f3385?utm_source=Netcore&utm_campaign=Stream+Or+Skip:+April+26&utm_medium=Email&utm_content="
 subtitle = "A Heist That Chokes On Its Own Excess"
 title = "Jewel Thief - The Heist Begins"
 +++

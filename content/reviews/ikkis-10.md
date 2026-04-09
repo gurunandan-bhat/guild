@@ -8,7 +8,7 @@ mreviews = ["Ikkis"]
 opening = "Raghavan doesn't limit the story of a soldier to the act of his sacrifice. Instead, he offers the beats of his heart, the arc of his living, and the picture of his youth that perished too soon."
 publication = "OTT Play"
 scores = [8]
-source = "https://www.ottplay.com/features/ikkis-agastya-nanda-dharmendra-jaideep-ahlawat-sriram-raghavan-never-misses/cf7ca1be8e931"
+source = "https://www.OTT Play.com/features/ikkis-agastya-nanda-dharmendra-jaideep-ahlawat-sriram-raghavan-never-misses/cf7ca1be8e931"
 subtitle = "Sriram Raghavan Never Misses"
 title = "Ikkis"
 +++

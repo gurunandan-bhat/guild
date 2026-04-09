@@ -8,7 +8,7 @@ mreviews = ["L2: Empuraan"]
 opening = "As much as L2 is a film to celebrate Mohanlal, Prithviraj’s decision to manoeuvre this as an urgent reconciliation with the present-day Indian establishment will echo for years to come."
 publication = ""
 scores = [8]
-source = "https://www.ottplay.com/features/l2-empuraan-prithviraj-makes-an-entertaining-even-brave-sequel/d8377be34a611"
+source = "https://www.OTT Play.com/features/l2-empuraan-prithviraj-makes-an-entertaining-even-brave-sequel/d8377be34a611"
 subtitle = "Prithviraj Makes An Entertaining, Even Brave Sequel"
 title = "L2: Empuraan"
 +++

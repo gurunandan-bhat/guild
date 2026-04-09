@@ -8,7 +8,7 @@ mreviews = ["Suzhal: The Vortex S02"]
 opening = "Suzhal S2 amps up the intrigue with a gripping crime, a tighter plot, and compelling leads. But its tendency to over-explain and sidestep political sharpness holds it back from true excellence."
 publication = "OTT Play"
 scores = [5]
-source = "https://www.ottplay.com/features/suzhal-the-vortex-season-2-tightens-its-grip-but-loosens-its-edge/b285dfcdb079"
+source = "https://www.OTT Play.com/features/suzhal-the-vortex-season-2-tightens-its-grip-but-loosens-its-edge/b285dfcdb079"
 subtitle = "Tightens Its Grip, But Loosens Its Edge"
 title = "Suzhal: The Vortex S02"
 +++

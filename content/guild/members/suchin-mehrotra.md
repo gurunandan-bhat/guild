@@ -3,7 +3,7 @@ date = 2025-08-06T12:23:38+05:30
 draft = false
 weight = 85
 title = 'Suchin Mehrotra'
-organizations = ['The Hollywood Reporter']
+organizations = ['The Hollywood Reporter India']
 img = '/images/members/suchin-mehrotra.jpg'
 
 [soc_media]

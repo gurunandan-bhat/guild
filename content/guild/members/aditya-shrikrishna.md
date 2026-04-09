@@ -11,4 +11,4 @@ facebook = 'https://www.facebook.com/aditkrishna'
 twitter = 'http://www.twitter.com/gradwolf'
 +++
 
-Aditya Shrikrishna is a Independent Film Critic from Chennai. Aditya’s writings on cinema have appeared in The Hindu, Senses of Cinema, Frontline, OTTPlay, Mint Lounge, FiftyTwoDotIn, The New Indian Express, The Quint, The Federal, Vogue and Film Companion among others.
+Aditya Shrikrishna is a Independent Film Critic from Chennai. Aditya’s writings on cinema have appeared in The Hindu, Senses of Cinema, Frontline, OTT Play, Mint Lounge, FiftyTwoDotIn, The New Indian Express, The Quint, The Federal, Vogue and Film Companion among others.

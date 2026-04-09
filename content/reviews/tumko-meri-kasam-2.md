@@ -8,7 +8,7 @@ mreviews = ["Tumko Meri Kasam"]
 opening = "Vikram Bhatt's Tumko Meri Kasam is a vanity vehicle. This is not an anomaly but given the rut Hindi cinema is in, the existence of such a film only reinforces the pliability of the industry."
 publication = ""
 scores = [4]
-source = "https://www.ottplay.com/features/tumko-meri-kasam-vikram-bhatt-anupam-kher-sappy-courtroom-drama/31a2b50fae52"
+source = "https://www.OTT Play.com/features/tumko-meri-kasam-vikram-bhatt-anupam-kher-sappy-courtroom-drama/31a2b50fae52"
 subtitle = "A Sappy Courtroom Drama"
 title = "Tumko Meri Kasam"
 +++

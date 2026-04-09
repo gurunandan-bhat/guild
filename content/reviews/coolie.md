@@ -8,7 +8,7 @@ mreviews = ["Coolie"]
 opening = "Coolie misses the mark, an unfortunate result for a star like Rajinikanth in the 50th year of his career"
 publication = ""
 scores = [4]
-source = "https://www.ottplay.com/features/coolie-2025-movie-review-rajinikanth-lokesh-kanagaraj/8737c2097552"
+source = "https://www.OTT Play.com/features/coolie-2025-movie-review-rajinikanth-lokesh-kanagaraj/8737c2097552"
 subtitle = "The Lokesh Kanagaraj Formula Is A Massive Disappointment In Rajinikanth-Starrer"
 title = "Coolie"
 +++

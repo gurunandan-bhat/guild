@@ -8,7 +8,7 @@ mreviews = ["Thandel"]
 opening = "Naga Chaitanya and Sai Pallavi starrer Thandel is the best bad film in all the oldest ways possible. Apart from Pallavi, everyone and everything is artificial including the filmmaking."
 publication = "OTT Play"
 scores = [4]
-source = "https://www.ottplay.com/features/thandel-naga-chaitanya-sai-pallavi-dry-and-dated-melodrama/3c72f5f268715"
+source = "https://www.OTT Play.com/features/thandel-naga-chaitanya-sai-pallavi-dry-and-dated-melodrama/3c72f5f268715"
 subtitle = "Thandel Is A Dry & Dated Melodrama"
 title = "Thandel"
 +++

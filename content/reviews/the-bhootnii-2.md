@@ -8,7 +8,7 @@ mreviews = ["The Bhootnii"]
 opening = "Sidhaant Sachdev's film throws you off the cliff where, beyond the worlds of Stree and Khauf, lies a ditch. The Bhootnii can be found there, awaiting its victims: the film critics."
 publication = ""
 scores = [0.5]
-source = "https://www.ottplay.com/features/the-bhootnii-sanjay-dutt-mouni-roy-unimaginable-unbelievable-unfathomable/3931529521346"
+source = "https://www.OTT Play.com/features/the-bhootnii-sanjay-dutt-mouni-roy-unimaginable-unbelievable-unfathomable/3931529521346"
 subtitle = "Unimaginable, Unbelievable, Unfathomable"
 title = "The Bhootnii"
 +++

@@ -8,7 +8,7 @@ mreviews = ["The Ba***ds of Bollywood"]
 opening = "Khan’s debut work, imbued with a zany visual language and skillfully orchestrated action sequences, is more than its shiny outer shell"
 publication = "OTT Play"
 scores = [6]
-source = "https://www.ottplay.com/features/the-bads-of-bollywood-aka-the-bads-of-bollywood-aryan-khan-series-on-netflix-review/e03ffd626c848"
+source = "https://www.OTT Play.com/features/the-bads-of-bollywood-aka-the-bads-of-bollywood-aryan-khan-series-on-netflix-review/e03ffd626c848"
 subtitle = "Aryan Khan's Netflix Series Is Both Satire & Sobering Exposition On Stardom"
 title = "The Ba***ds of Bollywood"
 +++

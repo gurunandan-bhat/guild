@@ -8,7 +8,7 @@ mreviews = ["Dhadak 2"]
 opening = "Dhadak 2 borrows its beats from Pariyerum Perumal but vibrates with its own music. It is a tender task, situated between adapting and creating, performing and inhabiting, miming and mining."
 publication = "OTT Play"
 scores = [7]
-source = "https://www.ottplay.com/features/dhadak-2-shazia-iqbal-siddhant-chaturvedi-triptii-dimri-caste-drama-is-a-terrific-adaptation/79e432b2e1545"
+source = "https://www.OTT Play.com/features/dhadak-2-shazia-iqbal-siddhant-chaturvedi-triptii-dimri-caste-drama-is-a-terrific-adaptation/79e432b2e1545"
 subtitle = "Shazia Iqbal’s Caste Drama Offers Course Correction"
 title = "Dhadak 2"
 +++

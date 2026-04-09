@@ -8,7 +8,7 @@ mreviews = ["Adolescence"]
 opening = "The camera becomes the curious protagonist of this masterfully crafted Netflix miniseries"
 publication = "OTT Play"
 scores = [9]
-source = "https://www.ottplay.com/features/netflix-adolescence-series-review/43529cdd74678"
+source = "https://www.OTT Play.com/features/netflix-adolescence-series-review/43529cdd74678"
 subtitle = "One Cut Of The Dread"
 title = "Adolescence"
 +++

@@ -9,7 +9,7 @@ subtitle = "Kanchan Mullick shines in this creepy drama"
 opening = "Parambrata Chatterjee brings the second season of Bhaduri Moshai drama with Chiranjeet Chakraborty, Gaurab Chatterjee, Surangana Bandyopadhyay, Kanchan Mullick and others."
 img = 'nikosh-chhaya.png'
 media = 'print'
-source = "https://www.ottplay.com/review/nikosh-chhaya-review-kanchan-mullick-shines-in-this-creepy-drama/e8e8c06668342"
+source = "https://www.OTT Play.com/review/nikosh-chhaya-review-kanchan-mullick-shines-in-this-creepy-drama/e8e8c06668342"
 +++
 
 A couple of corpses disappear from a morgue. Police officer Amiya (Gaurab Chakrabarty) and his team start investigating. They learn about a little stinky monster, Genu, who reminds him of an old story. Amiya and Titas (Anindita Bose) remember that their old friend Sanjay (Anujoy Chatterjee) told them a story of a similar monster 10 years ago and both the descriptions match. That’s when Amiya seeks help from Bhaduri Moshai (Chiranjeet Chakraborty).

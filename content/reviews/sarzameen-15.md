@@ -8,7 +8,7 @@ mreviews = ["Sarzameen"]
 opening = "Every frame of Sarzameen is dunked in staleness, and the dialogues are woefully clunky. Kayoze Irani’s filmmaking is worryingly absent: there's no staging, no build-up, no arc, no inspired casting."
 publication = "OTT Play"
 scores = [2]
-source = "https://www.ottplay.com/features/sarzameen-kajol-prithviraj-sukumaran-ibrahim-ali-khan-ineffective-thriller-with-no-voice/67a0e9e504445"
+source = "https://www.OTT Play.com/features/sarzameen-kajol-prithviraj-sukumaran-ibrahim-ali-khan-ineffective-thriller-with-no-voice/67a0e9e504445"
 subtitle = "Ineffective Thriller With No Voice"
 title = "Sarzameen"
 +++

@@ -1,1 +1,7 @@
-{{- .Pages | jsonify (dict "prefix" "" "indent" "\t") }}
+{{- $reviews := slice }}
+{{- range .Pages }}
+    {{- $review := (jsonify . | transform.Unmarshal) }}
+    {{- $review = merge $review (dict "Publication" (index .Params "publication")) }}
+    {{- $reviews = append $review $reviews }}
+{{- end }}
+{{- $reviews | jsonify (dict "prefix" "" "indent" "\t") }}

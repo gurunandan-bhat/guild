@@ -8,7 +8,7 @@ mreviews = ["Baramulla"]
 opening = "Leaning on the supernatural, Baramulla is propagandist in intent but structured in gripping filmmaking. This distils the seductive craft and the dangers of an Aditya Dhar film."
 publication = "OTT Play"
 scores = [4]
-source = "https://www.ottplay.com/features/baramulla-is-an-effectively-misleading-supernatural-film/2bbf443b4f365"
+source = "https://www.OTT Play.com/features/baramulla-is-an-effectively-misleading-supernatural-film/2bbf443b4f365"
 subtitle = "Baramulla Is An Effectively Misleading Supernatural Film"
 title = "Baramulla"
 +++

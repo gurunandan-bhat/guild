@@ -9,7 +9,7 @@ subtitle = "Forget Shakespeare, watch it for Anujoy Chattopadhyay and Anirban Bh
 opening = "Directed by Arpan Garai and penned by Durbar Sharma, Talmar Romeo Juliet is a love story that broadly borrows the outline of Shakespeare’s tragedy."
 img = 'talmar-romeo-juliet.png'
 media = 'print'
-source = "https://www.ottplay.com/review/talmar-romeo-juliet-review-forget-shakespeare-watch-it-for-anujoy-chattopadhyay-and-anirban-bhattacharyas-duel/13e3838ef5697"
+source = "https://www.OTT Play.com/review/talmar-romeo-juliet-review-forget-shakespeare-watch-it-for-anujoy-chattopadhyay-and-anirban-bhattacharyas-duel/13e3838ef5697"
 +++
 
 Badal Majumder (Kamaleswar Mukhopadhyay) and Liyaqat’s (Joydeep Mukherjee) families harbour animosity for each other for years. Badal’s eldest son Somnath (Anujoy Chattopadhyay) and Liyaqat’s nephew pugnacious Mostaq (Anirban Bhattacharya) do not see eye to eye. However, Rana – Badal's younger son, and Jahanara – Liyaqat's daughter and the apple of his eye, love each other. All this drama takes place in a small town, Talma.

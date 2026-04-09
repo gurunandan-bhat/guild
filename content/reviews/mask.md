@@ -8,7 +8,7 @@ mreviews = ["Mask"]
 opening = "With incoherent filmmaking where neither the edit pattern nor the dialogues cohere, Vikarnan Ashok's Mask feels forced, clumsy and tasteless."
 publication = "OTT Play"
 scores = [2]
-source = "https://www.ottplay.com/features/mask-kavin-one-of-the-worst-tamil-films-of-2025/6aed453e16585"
+source = "https://www.OTT Play.com/features/mask-kavin-one-of-the-worst-tamil-films-of-2025/6aed453e16585"
 subtitle = "One Of The Worst Tamil Films Of 2025"
 title = "Mask"
 +++

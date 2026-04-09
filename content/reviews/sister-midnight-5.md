@@ -8,7 +8,7 @@ mreviews = ["Sister Midnight"]
 opening = "In a creatively barren phase for Hindi cinema, Sister Midnight is a rare spark. Defying market norms and genre traps, it reaffirms the joy of watching films and reiterates the medium's potency."
 publication = "OTT Play"
 scores = [7]
-source = "https://www.ottplay.com/features/sister-midnight-its-radhika-aptes-world-we-are-just-living-in-it/37a5dd74a2993"
+source = "https://www.OTT Play.com/features/sister-midnight-its-radhika-aptes-world-we-are-just-living-in-it/37a5dd74a2993"
 subtitle = "It’s Radhika Apte’s World & We Are Just Living In It"
 title = "Sister Midnight"
 +++

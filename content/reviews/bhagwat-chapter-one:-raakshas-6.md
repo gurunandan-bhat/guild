@@ -8,7 +8,7 @@ mreviews = ["Bhagwat Chapter One: Raakshas"]
 opening = "Bhagwat might come across as a reiteration of familiar tropes in the digital space, but the film, within its finite runtime, treats them with care and proves to be no less effective than the rest."
 publication = "OTT Play"
 scores = [6.5]
-source = "https://www.ottplay.com/features/bhagwat-chapter-one-raakshas-arshad-warsi-jitendra-kumar-is-an-effective-police-procedural/4feee69194557"
+source = "https://www.OTT Play.com/features/bhagwat-chapter-one-raakshas-arshad-warsi-jitendra-kumar-is-an-effective-police-procedural/4feee69194557"
 subtitle = "An Effective Police Procedural"
 title = "Bhagwat Chapter One: Raakshas"
 +++

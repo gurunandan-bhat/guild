@@ -8,7 +8,7 @@ mreviews = ["Train Dreams"]
 opening = "Train Dreams reclaims the importance of feeling like someone, not just anyone. Of knowing that no emotion is futile, no sadness is small, no memory is hollow, and no life is pointless."
 publication = "OTT Play"
 scores = [8]
-source = "https://www.ottplay.com/features/train-dreams-the-ruins-of-remaining/d5537b21a6653"
+source = "https://www.OTT Play.com/features/train-dreams-the-ruins-of-remaining/d5537b21a6653"
 subtitle = "The Ruins Of Remaining"
 title = "Train Dreams"
 +++

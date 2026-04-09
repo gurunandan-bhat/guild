@@ -8,7 +8,7 @@ mreviews = ["3BHK"]
 opening = "3 BHK doesn’t let any scene or moment breathe. It is as if the film wants to work like a flowchart: this happened then that happened and now here we are. Aditya Shrikrishna writes."
 publication = "OTT Play"
 scores = [5]
-source = "https://www.ottplay.com/features/3-bhk-movie-review-inauthentic-to-a-fault/f0d274f28c183"
+source = "https://www.OTT Play.com/features/3-bhk-movie-review-inauthentic-to-a-fault/f0d274f28c183"
 subtitle = "Director Sri Ganesh Makes A Film That's Inauthentic To A Fault"
 title = "3BHK"
 +++

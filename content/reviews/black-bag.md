@@ -8,7 +8,7 @@ mreviews = ["Black Bag"]
 opening = "In Soderbergh's London-set spy thriller, the very concept of espionage becomes a parable for the devaluation of trust in modern-day relationships."
 publication = "OTT Play"
 scores = [8]
-source = "https://www.ottplay.com/features/black-bag-michael-fassbender-cate-blanchett-love-story-by-steven-soderbergh/caee99a23a809"
+source = "https://www.OTT Play.com/features/black-bag-michael-fassbender-cate-blanchett-love-story-by-steven-soderbergh/caee99a23a809"
 subtitle = "A Love Story By Steven Soderbergh"
 title = "Black Bag"
 +++

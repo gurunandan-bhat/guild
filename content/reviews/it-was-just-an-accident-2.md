@@ -6,9 +6,9 @@ img = "it-was-just-an-accident-2.png"
 media = "print"
 mreviews = ["It Was Just an Accident"]
 opening = ""
-publication = "OTT PLay"
+publication = "OTT Play"
 scores = [8]
-source = "https://www.ottplay.com/features/jafar-panahis-it-was-just-an-accident-is-an-effective-study-of-compassion/d91458399d26"
+source = "https://www.OTT Play.com/features/jafar-panahis-it-was-just-an-accident-is-an-effective-study-of-compassion/d91458399d26"
 subtitle = "An Effective Study Of Compassion"
 title = "It Was Just an Accident"
 +++

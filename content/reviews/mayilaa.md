@@ -8,7 +8,7 @@ mreviews = ["Mayilaa"]
 opening = "Premiering at IFFR 2026, Mayilaa blends humour, ritual and neo-realist detail into a sharp portrait of a mother and daughter navigating loss, labour and dignity."
 publication = "OTT Play"
 scores = [7]
-source = "https://www.ottplay.com/features/mayilaa-semmalar-annam-debut-feature-intertwines-work-faith-fury/1a0f214664577"
+source = "https://www.OTT Play.com/features/mayilaa-semmalar-annam-debut-feature-intertwines-work-faith-fury/1a0f214664577"
 subtitle = "Semmalar Annam's Debut Feature Intertwines Work, Faith & Fury"
 title = "Mayilaa"
 +++

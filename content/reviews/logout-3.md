@@ -8,7 +8,7 @@ mreviews = ["Logout"]
 opening = "Logout looks at the addiction of social media through the lens of a parasocial relationship — where the fragile fame of content creators is turned around to focus on those who are influenced."
 publication = ""
 scores = [6]
-source = "https://www.ottplay.com/features/logout-terrific-babil-khan-holds-his-own-in-cyber-thriller/b2aff61547633"
+source = "https://www.OTT Play.com/features/logout-terrific-babil-khan-holds-his-own-in-cyber-thriller/b2aff61547633"
 subtitle = "A Terrific Babil Khan Holds His Own In This Cyber Thriller"
 title = "Logout"
 +++

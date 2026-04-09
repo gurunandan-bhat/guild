@@ -8,7 +8,7 @@ mreviews = ["Thandakaaranyam"]
 opening = "Despite a powerful premise and timely themes, the film is over-scored and underwritten. Moments never have room to breathe, resulting in a highlight reel that struggles to leave a lasting impact."
 publication = ""
 scores = [5]
-source = "https://www.ottplay.com/features/thandakaaranyam-athiyan-athirai-film-a-forest-of-missed-opportunities/f93d62d309828"
+source = "https://www.OTT Play.com/features/thandakaaranyam-athiyan-athirai-film-a-forest-of-missed-opportunities/f93d62d309828"
 subtitle = "A Forest Of Missed Opportunities"
 title = "Thandakaaranyam"
 +++

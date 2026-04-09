@@ -8,7 +8,7 @@ mreviews = ["Sikandar"]
 opening = "Watching a Salman Khan film today has come to resemble an act of parental bias as if he were an irate child and the rest of us exist to humour him"
 publication = ""
 scores = [2.5]
-source = "https://www.ottplay.com/features/sikandar-movie-review-salman-khan-rashmika-mandanna-ar-murugadoss/5c8f892d6f562"
+source = "https://www.OTT Play.com/features/sikandar-movie-review-salman-khan-rashmika-mandanna-ar-murugadoss/5c8f892d6f562"
 subtitle = "Sikandar Is The Quintessential Salman Khan Eid Film. Is That A Good Thing?"
 title = "Sikandar"
 +++

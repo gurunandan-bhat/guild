@@ -8,7 +8,7 @@ mreviews = ["Delulu Express"]
 opening = "In Delulu Express, Zakir Khan takes the scenic route through memory, melancholy and middle-class life."
 publication = ""
 scores = [8]
-source = "https://www.ottplay.com/features/delulu-express-zakir-khan-stand-up-special-review/3352068aa5506"
+source = "https://www.OTT Play.com/features/delulu-express-zakir-khan-stand-up-special-review/3352068aa5506"
 subtitle = "We're All Aboard Zakir Khan's Train of Thought"
 title = "Delulu Express"
 +++

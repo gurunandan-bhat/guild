@@ -8,7 +8,7 @@ mreviews = ["Narivetta"]
 opening = "Told through shifting vantage points and anchored by Tovino Thomas’s textured performance, Narivetta is a quiet but forceful meditation on complicity, masculinity, and state power."
 publication = "OTT Play"
 scores = [7]
-source = "https://www.ottplay.com/features/narivetta-tovino-thomas-anuraj-manohar-solid-play-of-vantage-points/f3dc84e620240"
+source = "https://www.OTT Play.com/features/narivetta-tovino-thomas-anuraj-manohar-solid-play-of-vantage-points/f3dc84e620240"
 subtitle = "A Solid Play Of Vantage Points"
 title = "Narivetta"
 +++

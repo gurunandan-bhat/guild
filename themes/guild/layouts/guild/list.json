@@ -1,8 +1,12 @@
 {{- $guild := slice }}
 {{- range .Sections }}
     {{- range .Pages }}
+        {{- $org := index .Params "organizations" }}
+        {{- if hasPrefix .Path "/guild/board" }}
+            {{- $org = slice (index $org 0) }}
+        {{- end }}
         {{- $pageMap := (jsonify . ) | transform.Unmarshal }}
-        {{- $pageMap = merge $pageMap (dict "ReviewURL" (urlize .LinkTitle)) }}
+        {{- $pageMap = merge $pageMap (dict "ReviewURL" (urlize .LinkTitle) "Organizations" $org) }}
         {{- $guild = append $pageMap $guild }}
     {{- end }}
 {{- end }}

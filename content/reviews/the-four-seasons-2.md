@@ -8,7 +8,7 @@ mreviews = ["The Four Seasons"]
 opening = "Explores time’s inevitable passage and its impact on people’s resistance to change, particularly in long-time friendships."
 publication = "OTT Play"
 scores = [7]
-source = "https://www.ottplay.com/features/the-four-seasons-a-friendship-poem-disguised-as-a-hollywood-rom-com/c46763e1f2368"
+source = "https://www.OTT Play.com/features/the-four-seasons-a-friendship-poem-disguised-as-a-hollywood-rom-com/c46763e1f2368"
 subtitle = "A Friendship Poem Disguised As A Hollywood Rom-Com"
 title = "The Four Seasons"
 +++

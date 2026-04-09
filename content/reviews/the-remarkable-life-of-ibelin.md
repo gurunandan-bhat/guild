@@ -6,9 +6,9 @@ img = "the-remarkable-life-of-ibelin.png"
 media = "print"
 mreviews = ["The Remarkable Life of Ibelin"]
 opening = "Director Benjamin Ree uses the investigative form of a true-crime drama. Except, the twist in this documentary is that the victim was actually a survivor — the grand revelation is life, not death"
-publication = "OTTPlay"
+publication = "OTT Play"
 scores = [8]
-source = "https://www.ottplay.com/features/the-remarkable-life-of-ibelin-the-retroactive-stillness-of-grief/6c52eb2ab840"
+source = "https://www.OTT Play.com/features/the-remarkable-life-of-ibelin-the-retroactive-stillness-of-grief/6c52eb2ab840"
 subtitle = "The Retroactive Stillness Of Grief"
 title = "The Remarkable Life of Ibelin"
 +++

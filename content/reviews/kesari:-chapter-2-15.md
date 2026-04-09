@@ -8,7 +8,7 @@ mreviews = ["Kesari: Chapter 2"]
 opening = "Kesari Chapter 2 is a revival of old-school politics where the antagonism against the British, the original outsider, confirms the communal unity of India."
 publication = ""
 scores = [4]
-source = "https://www.ottplay.com/features/kesari-chapter-2-akshay-kumar-hijcks-jallianwala-bagh-tragedy/11da48e3ee565"
+source = "https://www.OTT Play.com/features/kesari-chapter-2-akshay-kumar-hijcks-jallianwala-bagh-tragedy/11da48e3ee565"
 subtitle = "Akshay Kumar Hijacks Jallianwala Bagh Tragedy"
 title = "Kesari: Chapter 2"
 +++

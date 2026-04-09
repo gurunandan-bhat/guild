@@ -8,7 +8,7 @@ mreviews = ["All We Imagine as Light"]
 opening = "Payal Kapadia's All We Imagine as Light is one of those life-altering gems that is transcendental and a moving memoir of mundane, transformative and a crushing reiteration of community sustenance."
 publication = "OTT Play"
 scores = [10]
-source = "https://www.ottplay.com/features/all-we-imagine-as-light-payal-kapadia-film-moving-ode-to-mumbai-sisterhood/cb9a47bb68175"
+source = "https://www.OTT Play.com/features/all-we-imagine-as-light-payal-kapadia-film-moving-ode-to-mumbai-sisterhood/cb9a47bb68175"
 subtitle = "A Moving Ode To Mumbai & Sisterhood"
 title = "All We Imagine as Light"
 +++

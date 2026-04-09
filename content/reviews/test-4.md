@@ -8,7 +8,7 @@ mreviews = ["Test"]
 opening = "Test is a film that is happy to deliver a lot of drama with some cricket thrown in as novelty"
 publication = "OTT Play"
 scores = [5]
-source = "https://www.ottplay.com/features/test-an-entertaining-drama-that-tapers-off-by-the-end/c01e76afa0550"
+source = "https://www.OTT Play.com/features/test-an-entertaining-drama-that-tapers-off-by-the-end/c01e76afa0550"
 subtitle = "An Entertaining Drama That Tapers Off By The End"
 title = "Test"
 +++

@@ -8,7 +8,7 @@ mreviews = ["The Royals"]
 opening = "A hallowed congregation of abysmal writing and disinterested filmmaking, and the union is specifically designed to make only one unit suffer: the audience."
 publication = "OTT Play"
 scores = [4]
-source = "https://www.ottplay.com/features/the-royals-is-a-royal-bore/4886674eae378"
+source = "https://www.OTT Play.com/features/the-royals-is-a-royal-bore/4886674eae378"
 subtitle = "The Royals Is A Royal Bore"
 title = "The Royals"
 +++

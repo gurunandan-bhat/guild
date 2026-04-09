@@ -8,7 +8,7 @@ mreviews = ["Tourist Family"]
 opening = "Abishan Jeevinth's debut feature, Tourist Family is not satire but a light take on heavy problems like geopolitics, economic and migrant crisis."
 publication = "OTT Play"
 scores = [7]
-source = "https://www.ottplay.com/features/tourist-family-a-wonderful-balancing-act-of-humour-melodrama/263dd843ac44"
+source = "https://www.OTT Play.com/features/tourist-family-a-wonderful-balancing-act-of-humour-melodrama/263dd843ac44"
 subtitle = "A Wonderful Balancing Act of Humour & Melodrama"
 title = "Tourist Family"
 +++

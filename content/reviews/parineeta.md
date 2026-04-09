@@ -9,7 +9,7 @@ subtitle = "Gourav Chakrabarty and Debchandrima Singha Roy present unadulterated
 opening = "Aditi Roy has created an engaging unadulterated love story with Gourav Chakrabarty and Debchandrima Singha Roy with Saratchandra Chattopadhyay’s Parineeta"
 img = 'parineeta.jpg'
 media = 'print'
-source = "https://www.ottplay.com/review/parineeta-review-gourav-chakrabarty-and-debchandrima-singha-roy-present-unadulterated-old-school-romance/f734a85b30262"
+source = "https://www.OTT Play.com/review/parineeta-review-gourav-chakrabarty-and-debchandrima-singha-roy-present-unadulterated-old-school-romance/f734a85b30262"
 +++
 
 Neighbour duo Lolita (Debchandrima Singha Roy) and Shekhar (Gourav Chakrabarty) have unending claim on each other. Despite a marriage in haste, they parted ways because of Shekhar’s prejudices and Lolita’s pride. In Parineeta, Saratchandra Chattopadhyay's classic takes a makeover in Aditi Roy’s series on Hoichoi.

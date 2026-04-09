@@ -3,7 +3,7 @@ date = 2024-09-25T12:19:31.457381+05:30
 draft = false
 weight = 520
 title = 'Udita Jhunjhunwala'
-organizations = ['Mint, Scroll.in']
+organizations = ['Mint', 'Scroll.in']
 img = '/images/members/UDITA JHUNJHUNWALA.png'
 
 [soc_media]

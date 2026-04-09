@@ -8,7 +8,7 @@ mreviews = ["Kantara A Legend: Chapter 1"]
 opening = "Kantara A Legend: Chapter 1 is a visual spectacle with some good performances, but the film suffers from its incohesive writing, simply because the scale takes over in the pursuit to become a pan-India legend."
 publication = "OTT Play"
 scores = [6]
-source = "https://www.ottplay.com/features/kantara-chapter-1-rishab-shetty-film-all-sound-little-fury/d50a8d73f0936"
+source = "https://www.OTT Play.com/features/kantara-chapter-1-rishab-shetty-film-all-sound-little-fury/d50a8d73f0936"
 subtitle = "All Sound & Little Fury"
 title = "Kantara A Legend: Chapter 1"
 +++

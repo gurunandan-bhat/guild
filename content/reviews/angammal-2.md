@@ -8,7 +8,7 @@ mreviews = ["Angammal"]
 opening = "Blending Perumal Murugan’s observational honesty with echoes of K Balachander’s domestic grammar, Angammal becomes a nuanced portrait of pride, gender and generational change led by a superb Kailasam."
 publication = "OTT Play"
 scores = [7.5]
-source = "https://www.ottplay.com/features/angammal-geetha-kailasam-shines-in-a-lived-in-tale-of-tradition-and-change/073a42d6f8427"
+source = "https://www.OTT Play.com/features/angammal-geetha-kailasam-shines-in-a-lived-in-tale-of-tradition-and-change/073a42d6f8427"
 subtitle = "Geetha Kailasam Shines In A Lived-In Tale Of Tradition & Change"
 title = "Angammal"
 +++

@@ -7,7 +7,7 @@ media = "print"
 mreviews = ["The Wild Robot"]
 opening = "The Wild Robot takes you back to the early days of Finding Nemo and Wall-E, where the joy is rooted in the innocence of imagination rather than the responsibility of the movie-going experience."
 scores = [8]
-source = "https://www.ottplay.com/features/the-wild-robot-a-heartfelt-factory-reset-of-storytelling/071e6ed7f6634"
+source = "https://www.OTT Play.com/features/the-wild-robot-a-heartfelt-factory-reset-of-storytelling/071e6ed7f6634"
 subtitle = "A Heartfelt ‘Factory Reset’ Of Storytelling"
 title = "The Wild Robot"
 +++

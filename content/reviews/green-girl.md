@@ -8,7 +8,7 @@ mreviews = ["Green Girl"]
 opening = "In a conversation with Subha J Rao, 24-year-old filmmaker Sarthak Hegde discusses Green Girl, his film that explores religious intolerance in coastal Karnataka and its impact on a young couple.gree-girl"
 publication = "OTT Play"
 scores = [8]
-source = "https://www.ottplay.com/interview/green-girl-sarthak-hegde-sophistication-should-not-make-us-silent/637126315f690"
+source = "https://www.OTT Play.com/interview/green-girl-sarthak-hegde-sophistication-should-not-make-us-silent/637126315f690"
 subtitle = "Green Girl Director Sarthak Hegde: 'Sophistication Shouldn't Make Us Silent'"
 title = "Green Girl"
 +++

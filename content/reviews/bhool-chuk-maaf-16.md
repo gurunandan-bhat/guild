@@ -8,7 +8,7 @@ mreviews = ["Bhool Chuk Maaf"]
 opening = "Bhool Chuk Maaf could’ve been another smart Maddock social comedy, but it gets bogged down by lazy writing, stereotypes, and a climactic moral monologue that lands with a thud."
 publication = ""
 scores = [4]
-source = "https://www.ottplay.com/features/bhool-chuk-maaf-is-a-time-loop-film-that-gets-stuck-on-its-own-doing/cc7abc4745117"
+source = "https://www.OTT Play.com/features/bhool-chuk-maaf-is-a-time-loop-film-that-gets-stuck-on-its-own-doing/cc7abc4745117"
 subtitle = "Stuck In A Time Loop Of Its Own Making"
 title = "Bhool Chuk Maaf"
 +++

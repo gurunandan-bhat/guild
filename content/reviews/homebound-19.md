@@ -8,7 +8,7 @@ mreviews = ["Homebound"]
 opening = "Ghaywan’s Homebound archives a country suffering from an amnesia of feeling; the filmmaker reiterates what we have become only to recall who we are, and can be."
 publication = "OTT Play"
 scores = [8]
-source = "https://www.ottplay.com/features/homebound-neeraj-ghaywans-second-feature-film-is-an-achievement-of-the-highest-order/bbbdae68f2290"
+source = "https://www.OTT Play.com/features/homebound-neeraj-ghaywans-second-feature-film-is-an-achievement-of-the-highest-order/bbbdae68f2290"
 subtitle = "Neeraj Ghaywan’s Second Feature Film Is An Achievement Of The Highest Order"
 title = "Homebound"
 +++

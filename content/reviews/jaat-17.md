@@ -8,7 +8,7 @@ mreviews = ["Jaat"]
 opening = "Jaat is nothing more than 'Sunny Deol being Sunny Deol — again'."
 publication = ""
 scores = [2]
-source = "https://www.ottplay.com/features/jaat-movie-review-sunny-deol-randeep-hooda/2a5f2da1be454"
+source = "https://www.OTT Play.com/features/jaat-movie-review-sunny-deol-randeep-hooda/2a5f2da1be454"
 subtitle = "Sunny Deol Mistakes Rage For A Character Arc"
 title = "Jaat"
 +++

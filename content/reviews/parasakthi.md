@@ -8,7 +8,7 @@ mreviews = ["Parasakthi"]
 opening = "Sudha Kongara gives her revolutionary a powerful outline — but withholds a complete shape, choosing symbolism and safety over political complication."
 publication = "OTT Play"
 scores = [5]
-source = "https://www.ottplay.com/features/parasakthi-sivakarthikeyan-ravi-mohan-revolution-has-face-but-no-character/23a6f2c22b199"
+source = "https://www.OTT Play.com/features/parasakthi-sivakarthikeyan-ravi-mohan-revolution-has-face-but-no-character/23a6f2c22b199"
 subtitle = "The Revolution Has A Face, Not A Character"
 title = "Parasakthi"
 +++

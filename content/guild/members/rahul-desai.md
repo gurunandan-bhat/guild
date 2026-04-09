@@ -12,4 +12,4 @@ instagram = 'https://www.instagram.com/rahulnoless/'
 twitter = 'https://twitter.com/reelreptile'
 +++
 
-A film critic and columnist, Rahul Desai writes for The Hollywood Reporter India and OTTPlay. In his spare time, he runs a weekly movie podcast called IIF.
+A film critic and columnist, Rahul Desai writes for The Hollywood Reporter India and OTT Play. In his spare time, he runs a weekly movie podcast called IIF.

@@ -8,7 +8,7 @@ mreviews = ["Kapkapiii"]
 opening = "Based on the 2023 Malayalam film Romancham, Kapkapiii is a horror comedy. Except, the only horror is that it exists, and the comedy is that there is no horror."
 publication = ""
 scores = [0.5]
-source = "https://www.ottplay.com/features/kapkapiii-the-shreyas-talpade-film-has-a-script-missing/47ef1c011a228"
+source = "https://www.OTT Play.com/features/kapkapiii-the-shreyas-talpade-film-has-a-script-missing/47ef1c011a228"
 subtitle = "The Shreyas Talpade Film Has A Script Missing"
 title = "Kapkapiii"
 +++

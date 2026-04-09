@@ -9,7 +9,7 @@ subtitle = "Campy Crocodile Drama Has The Right Thrills"
 opening = "May well craft its own legacy for the personality it gives crocodiles — as if a reptilian union finally demanded better roles, and Bejoy Nambiar obliged. It pays off."
 img = 'tu-yaa-main-13.webp'
 media = 'print'
-source = "https://www.ottplay.com/features/tu-yaa-main-adarsh-gourav-shanaya-kapoor-campy-crocodile-drama-has-the-right-thrills/0e923d4cbe461"
+source = "https://www.OTT Play.com/features/tu-yaa-main-adarsh-gourav-shanaya-kapoor-campy-crocodile-drama-has-the-right-thrills/0e923d4cbe461"
 scores = [7]
 +++
 

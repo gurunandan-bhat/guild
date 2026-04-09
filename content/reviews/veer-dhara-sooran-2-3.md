@@ -8,7 +8,7 @@ mreviews = ["Veera Dheera Sooran 2"]
 opening = "Director SU Arun Kumar effectively crafts a complex story about love, loyalty and more that takes place in just one night."
 publication = "OTT Play"
 scores = [8.5]
-source = "https://www.ottplay.com/features/veera-dheera-sooran-part-2-marks-return-of-vikram-everyone-loves/d17ced369c22"
+source = "https://www.OTT Play.com/features/veera-dheera-sooran-part-2-marks-return-of-vikram-everyone-loves/d17ced369c22"
 subtitle = "The Return Of The Vikram Everyone Loves"
 title = "Veera Dheera Sooran 2"
 +++

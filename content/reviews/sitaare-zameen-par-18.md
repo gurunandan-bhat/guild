@@ -8,7 +8,7 @@ mreviews = ["Sitaare Zameen Par"]
 opening = "Much like Khan’s performance, where if looked closely one can notice a thought arriving at his brain, RS Prasanna’s film is dunked in bluntness. Everything is text, even the subtext."
 publication = "OTT Play"
 scores = [6]
-source = "https://www.ottplay.com/features/sitaare-zameen-par-an-overeager-aamir-khan-is-not-good-news/15a23b2f71197"
+source = "https://www.OTT Play.com/features/sitaare-zameen-par-an-overeager-aamir-khan-is-not-good-news/15a23b2f71197"
 subtitle = "An Overeager Aamir Khan Is Not Good News"
 title = "Sitaare Zameen Par"
 +++

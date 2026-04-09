@@ -9,7 +9,7 @@ subtitle = "The Sentimental Value of Hamnet: Genius Isn't Magic, It's Human"
 opening = ""
 img = 'hamnet-3.webp'
 media = 'print'
-source = "https://www.ottplay.com/features/the-sentimental-value-of-hamnet-on-shakespeare-grief-and-the-grammar-of-catharsis/3b5c8205f7868"
+source = "https://www.OTT Play.com/features/the-sentimental-value-of-hamnet-on-shakespeare-grief-and-the-grammar-of-catharsis/3b5c8205f7868"
 scores = [8]
 +++
 

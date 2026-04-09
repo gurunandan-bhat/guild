@@ -8,7 +8,7 @@ mreviews = ["Mistry"]
 opening = "In Mistry, director Rishab Seth reimagines the popular American drama Monk in an Indian setting but waters down everything that made the procedural drama fun, resulting in a damp squib of a series."
 publication = "OTT Play"
 scores = [4]
-source = "https://www.ottplay.com/features/mistry-is-a-soulless-adaptation-of-monk/aa69a6d509964"
+source = "https://www.OTT Play.com/features/mistry-is-a-soulless-adaptation-of-monk/aa69a6d509964"
 subtitle = "A Soulless Adaptation Of Monk"
 title = "Mistry"
 +++

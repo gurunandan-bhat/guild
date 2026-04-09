@@ -8,7 +8,7 @@ mreviews = ["Sinners"]
 opening = "Coogler compresses centuries' worth of the Black experience into a beautifully pulpy and poignant 137-minute motion picture about one wild night at a barrelhouse, bloodthirsty vampires — and music."
 publication = "OTT Play"
 scores = [9]
-source = "https://www.ottplay.com/features/sinners-ryan-coogler-summons-the-cinema-gods/34c8908e30431"
+source = "https://www.OTT Play.com/features/sinners-ryan-coogler-summons-the-cinema-gods/34c8908e30431"
 subtitle = "Ryan Coogler Summons The Cinema Gods"
 title = "Sinners"
 +++

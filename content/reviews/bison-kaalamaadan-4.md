@@ -8,7 +8,7 @@ mreviews = ["Bison Kaalamaadan"]
 opening = "Selvaraj stages Bison as a tale of rising above oppression, a peek into the human condition, the role of a family unit, and how everyone is made up of various shades from white to grey and black."
 publication = "OTT Play"
 scores = [7.5]
-source = "https://www.ottplay.com/features/bison-kaalamaadan-mari-selvaraj-dhruv-vikram-rousing-tale-of-bot-who-runs-from-strife-into-sport/6ae3045820359"
+source = "https://www.OTT Play.com/features/bison-kaalamaadan-mari-selvaraj-dhruv-vikram-rousing-tale-of-bot-who-runs-from-strife-into-sport/6ae3045820359"
 subtitle = "Mari Selvaraj Crafts A Rousing Tale Of A Boy Who Runs From Strife Into Sport"
 title = "Bison Kaalamaadan"
 +++
