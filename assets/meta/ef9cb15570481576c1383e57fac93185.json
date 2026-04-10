@@ -1,0 +1,566 @@
+{
+	"id": 1209511,
+	"title": "Love Insurance Kompany",
+	"fcg_title": "Love Insurance Kompany",
+	"original_title": "லவ் இன்சூரன்ஸ் கம்பெனி",
+	"original_language": "ta",
+	"genres": [
+		{
+			"id": 10749,
+			"name": "Romance"
+		},
+		{
+			"id": 878,
+			"name": "Science Fiction"
+		},
+		{
+			"id": 35,
+			"name": "Comedy"
+		}
+	],
+	"overview": "In a tech-chained world, a hero seeks love’s unshackled truth. Through their fight, humanity’s heart may beat free once more.",
+	"backdrop_path": "/woos7rldBAKG99HmcbNZNpMjwNk.jpg",
+	"poster_path": "/1IIUWMKzNVvI6YJX8BKE6EJ9bVd.jpg",
+	"release_date": "2026-04-10",
+	"credits": {
+		"cast": [
+			{
+				"id": 2274937,
+				"order": 0,
+				"name": "Pradeep Ranganathan",
+				"profile_path": "/yfATc50b77UwlNxz9OrokPYnwRj.jpg",
+				"character": "Vasudevan alias \"Vibe Vassey\"",
+				"gender": 2
+			},
+			{
+				"id": 544896,
+				"order": 1,
+				"name": "Krithi Shetty",
+				"profile_path": "/kXwPHRs4SdrUBPpbbnuslANEc11.jpg",
+				"character": "Dheema",
+				"gender": 1
+			},
+			{
+				"id": 292250,
+				"order": 2,
+				"name": "S. J. Suryah",
+				"profile_path": "/7Q8510XwxPU1193cteaFQsiq2rv.jpg",
+				"character": "Suriyan",
+				"gender": 2
+			},
+			{
+				"id": 1540764,
+				"order": 3,
+				"name": "Yogi Babu",
+				"profile_path": "/lTNb5POaftGHXzgN9aIegcehh89.jpg",
+				"character": "Jolly Prabhu",
+				"gender": 2
+			},
+			{
+				"id": 2149797,
+				"order": 4,
+				"name": "Gouri G Kishan",
+				"profile_path": "/mYfNk1j2yDFNcHCJ3WHHHz39QxI.jpg",
+				"character": "Kalki",
+				"gender": 1
+			},
+			{
+				"id": 581072,
+				"order": 5,
+				"name": "Anandaraj",
+				"profile_path": "/gZxzckfurzV0oQOME8b1ATNoMHD.jpg",
+				"character": "H.A (Echa) Subbu",
+				"gender": 2
+			},
+			{
+				"id": 2034303,
+				"order": 6,
+				"name": "Shah Ra",
+				"profile_path": "/ByWszUbMQCeHym9ova9b4q21BL.jpg",
+				"gender": 2
+			},
+			{
+				"id": 584856,
+				"order": 7,
+				"name": "Seeman",
+				"profile_path": "/AvWr2G6v0OZ3DL3cGF7PbWojag2.jpg",
+				"gender": 2
+			},
+			{
+				"id": 4762768,
+				"order": 8,
+				"name": "Muhammad Rasool",
+				"character": "Nifya Razul"
+			},
+			{
+				"id": 2261843,
+				"order": 9,
+				"name": "Sunil",
+				"profile_path": "/w92Vawfw4DcLYSLtUeFTm46KNIe.jpg"
+			},
+			{
+				"id": 5123532,
+				"order": 10,
+				"name": "Anam Kaur",
+				"character": "Young Dheema"
+			},
+			{
+				"id": 581065,
+				"order": 11,
+				"name": "Malavika",
+				"profile_path": "/9157JOet1G7L1uAGQmfgE5YO9aW.jpg",
+				"character": "Vala Meen",
+				"gender": 1
+			},
+			{
+				"id": 1081464,
+				"order": 12,
+				"name": "Anirudh Ravichander",
+				"profile_path": "/4RqfmPhND0cKe83kCohjCW06Q02.jpg",
+				"character": "Bro (Voice)",
+				"gender": 2
+			},
+			{
+				"id": 5940146,
+				"order": 13,
+				"name": "Edin Rose",
+				"character": "Dear"
+			},
+			{
+				"id": 4024889,
+				"order": 14,
+				"name": "Deepika Venkatachalam",
+				"profile_path": "/oBzg3FZ3b63IH05DHJMCqFsEX05.jpg",
+				"character": "Tamizhselvi",
+				"gender": 1
+			},
+			{
+				"id": 2102541,
+				"order": 15,
+				"name": "Riya Suman",
+				"profile_path": "/1NaEXnvUwkGuQLmoHmCRYZ3n98h.jpg",
+				"character": "Lakshmi",
+				"gender": 1
+			},
+			{
+				"id": 2022636,
+				"order": 16,
+				"name": "Amritha Aiyer",
+				"profile_path": "/sjhXrtTkB9Nh8qyjrH4UwBEL4K7.jpg",
+				"character": "Vandana",
+				"gender": 1
+			},
+			{
+				"id": 3363318,
+				"order": 17,
+				"name": "Abhishek Raaja",
+				"gender": 2
+			},
+			{
+				"id": 560039,
+				"order": 18,
+				"name": "Mysskin",
+				"profile_path": "/2g65eG5FBh9oOMAhxpfk5T6um6A.jpg",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1118774,
+				"name": "Vignesh Shivan",
+				"profile_path": "/axVrHgQD1089EyFvfdYP4VX1Tgi.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1700746,
+				"name": "Lalit Kumar",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1081464,
+				"name": "Anirudh Ravichander",
+				"profile_path": "/4RqfmPhND0cKe83kCohjCW06Q02.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1720580,
+				"name": "Praveen Raja",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 2187140,
+				"name": "Yuvraaj",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1669113,
+				"name": "Pradeep E. Ragav",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1118774,
+				"name": "Vignesh Shivan",
+				"profile_path": "/axVrHgQD1089EyFvfdYP4VX1Tgi.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4847781,
+				"name": "L. K. Vishnu Kumar",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1666865,
+				"name": "T. Muthuraj",
+				"profile_path": "/86jGL7jOgLuVf8pUxHtX1sZ2KKZ.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 91548,
+				"name": "Nayanthara",
+				"profile_path": "/5KubBeb2DkNXoU4lzzBdWzqzzlM.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2399145,
+				"name": "Rini Pant",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2112010,
+				"name": "Sandy",
+				"profile_path": "/hyZHicpeea7dtOBUo7nuCEYXsS2.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3794250,
+				"name": "D. Suresh Durai",
+				"job": "Still Photographer",
+				"department": "Camera"
+			},
+			{
+				"id": 4848809,
+				"name": "Shangreihan Keishing",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3929056,
+				"name": "A. Jayakumar",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1789203,
+				"name": "K S Mayilvaganan",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2235030,
+				"name": "Avinash Gowarikar",
+				"job": "Still Photographer",
+				"department": "Camera"
+			},
+			{
+				"id": 4848816,
+				"name": "Divz Venugopal",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5198747,
+				"name": "Aesthetic Kunjamma",
+				"profile_path": "/b72AAeSG8mV6J8SgYvfghPBoegN.jpg",
+				"job": "Publicist",
+				"department": "Production"
+			},
+			{
+				"id": 1118774,
+				"name": "Vignesh Shivan",
+				"profile_path": "/axVrHgQD1089EyFvfdYP4VX1Tgi.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 238013,
+				"name": "Ravi Varman",
+				"profile_path": "/mIhH5PYAfWLkEzanZh7UdnDPHXc.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1756347,
+				"name": "Shaik Jani Master",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 587735,
+				"name": "Peter Hein",
+				"profile_path": "/881LTUkVppdwtFaBDLgd70SEEBe.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 5433059,
+				"name": "K. P. Jagan",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5433060,
+				"name": "Parvathi Sridharan",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4026276,
+				"name": "Harish Lakshmanan",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1657723,
+				"name": "Ranganathan Raju",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1081464,
+				"name": "Anirudh Ravichander",
+				"profile_path": "/4RqfmPhND0cKe83kCohjCW06Q02.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1511165,
+				"name": "Sathyan Sooryan",
+				"job": "Second Unit Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 120424,
+				"name": "Nirav Shah",
+				"profile_path": "/1bWhByXY7534EqNW3McDY1aCmWB.jpg",
+				"job": "Second Unit Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2268249,
+				"name": "Prasath Somasekar",
+				"job": "Colorist",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 3561583,
+				"name": "H. Monesh",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 3081273,
+				"name": "V. K. Gubendiran",
+				"job": "Production Controller",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1667438,
+				"name": "Kaecha Kampakdee",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 2111277,
+				"name": "Chetan D'Souza",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 5652012,
+				"name": "Pavithra Rukmani",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5652013,
+				"name": "Anusha Vishwanathan",
+				"job": "Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 5652014,
+				"name": "Suren R.",
+				"job": "Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 5652016,
+				"name": "Divakar T. Lingam",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5652018,
+				"name": "Binu Sriram",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5652019,
+				"name": "Prasanna Yogeswaran",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2135836,
+				"name": "Balasubramani Marimuthu",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 5652020,
+				"name": "Antony Selvan",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5652021,
+				"name": "Deenan Kathiravan",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5652022,
+				"name": "Lenin Srikanth",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5652023,
+				"name": "Jessica Princy",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5652024,
+				"name": "Divya Thiravidamani",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5652041,
+				"name": "Ajith Kumar",
+				"job": "Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 5652042,
+				"name": "Bala Kumaran",
+				"job": "Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 5652861,
+				"name": "Bhavithra Ravi",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5657030,
+				"name": "Dinesh Martin",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5657032,
+				"name": "Parthiban Natarajan",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 2811488,
+				"name": "Rajeev Kumar Jasrotia",
+				"job": "Steadicam Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 5675941,
+				"name": "Balendu Shekhar",
+				"job": "Assistant Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 5675942,
+				"name": "Aman Singh",
+				"job": "Second Assistant Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 2314695,
+				"name": "Rokesh",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 3904065,
+				"name": "Heisenberg",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 2242717,
+				"name": "Mathichiyam Bala",
+				"profile_path": "/i89j6WPi43GkUJNMoTelcpU5jC3.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3269295,
+				"name": "Ananthakkrishnan",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 6122333,
+				"name": "Bhumi",
+				"job": "Playback Singer",
+				"department": "Sound"
+			}
+		]
+	}
+}
