@@ -116,8 +116,21 @@ function doSearch(token, term, minScore, page) {
 	})
 		.then(function (response) {
 			if (!response.ok) {
-				return response.json().then(function (err) {
-					throw new Error(err.error || 'Search failed. Please try again.');
+				return response.text().then(function (body) {
+					let parsed;
+					try {
+						parsed = JSON.parse(body);
+					} catch {
+						parsed = body;
+					}
+					console.error('Search error', {
+						status: response.status,
+						statusText: response.statusText,
+						url: response.url,
+						body: parsed,
+					});
+					const message = (parsed && parsed.error) || body || 'Search failed. Please try again.';
+					throw new Error(message);
 				});
 			}
 			return response.json();
