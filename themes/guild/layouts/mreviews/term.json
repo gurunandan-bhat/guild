@@ -36,7 +36,7 @@
         "Media" $media
         "Source" $source
         "SubTitle" $subtitle
-        "Summary" .Summary
+        "Summary" nil
         "Content" .RawContent
         "Image" $img
         "Score" $score)
