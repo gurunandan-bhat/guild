@@ -1,0 +1,386 @@
+{
+	"id": 85552,
+	"name": "Euphoria",
+	"fcg_title": "Euphoria S03",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
+	"backdrop_path": "/GN2KFXiHPVV6sIw4v2P2pqCJty.jpg",
+	"poster_path": "/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 505710,
+				"order": 0,
+				"name": "Zendaya",
+				"profile_path": "/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg",
+				"character": "Rue Bennett",
+				"gender": 1
+			},
+			{
+				"id": 2340180,
+				"order": 1,
+				"name": "Hunter Schafer",
+				"profile_path": "/6ZDieLlbm2m3jbYaxsHFo7cWWzJ.jpg",
+				"character": "Jules Vaughn",
+				"gender": 1
+			},
+			{
+				"id": 115440,
+				"order": 2,
+				"name": "Sydney Sweeney",
+				"profile_path": "/qYiaSl0Eb7G3VaxOg8PxExCFwon.jpg",
+				"character": "Cassie Howard",
+				"gender": 1
+			},
+			{
+				"id": 2034418,
+				"order": 3,
+				"name": "Jacob Elordi",
+				"profile_path": "/qZNRPWCP2c5d0YaYLTzHXU9Rdoe.jpg",
+				"character": "Nate Jacobs",
+				"gender": 2
+			},
+			{
+				"id": 1497557,
+				"order": 4,
+				"name": "Alexa Demie",
+				"profile_path": "/A8jypevyoNHSF2NBRTfdwyjpjX9.jpg",
+				"character": "Maddy Perez",
+				"gender": 1
+			},
+			{
+				"id": 41090,
+				"order": 7,
+				"name": "Maude Apatow",
+				"profile_path": "/sDChuTTJToMA7Repdxrn157YRq3.jpg",
+				"character": "Lexi Howard",
+				"gender": 1
+			},
+			{
+				"id": 58115,
+				"order": 9,
+				"name": "Eric Dane",
+				"profile_path": "/4PsLKBKN4e0zRT2oS4BjE8Xu1un.jpg",
+				"character": "Cal Jacobs",
+				"gender": 2
+			},
+			{
+				"id": 1572541,
+				"order": 15,
+				"name": "Martha Kelly",
+				"profile_path": "/ac7HoARDIHdYNqpzgJBzpmKHXHR.jpg",
+				"character": "Laurie",
+				"gender": 1
+			},
+			{
+				"id": 1585678,
+				"order": 16,
+				"name": "Chloe Cherry",
+				"profile_path": "/czDZr2NO24E6aGGeb7PnLhJRiQR.jpg",
+				"character": "Faye",
+				"gender": 1
+			},
+			{
+				"id": 31164,
+				"order": 17,
+				"name": "Adewale Akinnuoye-Agbaje",
+				"profile_path": "/zdtwVtVmmm7VzYfu8xH7mbuTvrH.jpg",
+				"gender": 2
+			},
+			{
+				"id": 110419,
+				"order": 18,
+				"name": "Toby Wallace",
+				"profile_path": "/asGIAIa5T7pH4KEgwEXYF52MsWf.jpg",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 947,
+				"name": "Hans Zimmer",
+				"profile_path": "/tpQnDeHY15szIXvpnhlprufz4d.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1085294,
+				"name": "Sara E. White",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 75630,
+				"name": "Amy Schmidt",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 75630,
+				"name": "Amy Schmidt",
+				"job": "Unit Production Manager",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 4102256,
+				"name": "Lauren Salvia",
+				"job": "Associate Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 39923,
+				"name": "François Audouy",
+				"profile_path": "/eJRlcrxN6L7vclsSPIX52kfrC6g.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1643717,
+				"name": "Anthony Carlino",
+				"profile_path": "/y9iOJkYgCLcNYVNesQ9DTA6OIZ9.jpg",
+				"job": "Set Decoration",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1347775,
+				"name": "Shannon Kenny",
+				"job": "Script Supervisor",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 2521895,
+				"name": "Natasha Newman-Thomas",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 2049153,
+				"name": "Bryan Kopp",
+				"job": "Assistant Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 2778675,
+				"name": "Tiger Curran",
+				"job": "Assistant Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 6131882,
+				"name": "Sarah Lanflisi",
+				"job": "Costume Supervisor",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 2743760,
+				"name": "Benjamin Bermudez",
+				"profile_path": "/iAKN60BbNtG9buDryOmDWdRCJ44.jpg",
+				"job": "Casting Associate",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 549480,
+				"name": "Jennifer Venditti",
+				"profile_path": "/ymtIVpvQ7zvaPEcw2AivFwScg8y.jpg",
+				"job": "Original Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1046729,
+				"name": "Jessica Kelly",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1685570,
+				"name": "Bret Howe",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5914,
+				"name": "Mary Vernieu",
+				"profile_path": "/z37Cmn0MJdWCSC8ydkyoseiYUYk.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2077657,
+				"name": "Harrison Kreiss",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2484106,
+				"name": "Ashley Levinson",
+				"profile_path": "/cjzXDRd6Rw1jsLlP61ls2BlChZc.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1551525,
+				"name": "Kimberly Kimble",
+				"job": "Hair Department Head",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1809843,
+				"name": "Daphna Levin",
+				"job": "Original Series Creator",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 1159281,
+				"name": "Ron Leshem",
+				"profile_path": "/cL0CQtePOtoZ0GvoA2NtbLeThEY.jpg",
+				"job": "Original Series Creator",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1480630,
+				"name": "Doniella Davy",
+				"job": "Makeup Department Head",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1653896,
+				"name": "Kenneth Yu",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 971868,
+				"name": "Julio Perez IV",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1961251,
+				"name": "Mirit Toovi",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1241902,
+				"name": "Tmira Yardeni",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1809843,
+				"name": "Daphna Levin",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1159281,
+				"name": "Ron Leshem",
+				"profile_path": "/cL0CQtePOtoZ0GvoA2NtbLeThEY.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2058384,
+				"name": "Hadas Mozes Lichtenstein",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2438759,
+				"name": "Adel 'Future' Nur",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 74534,
+				"name": "Kevin Turen",
+				"profile_path": "/fiueO9T2ftAmQCWwEhrIVS7Vyvr.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1590721,
+				"name": "Ravi Nandan",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2881731,
+				"name": "Yoram Mokady",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 96172,
+				"name": "Sam Levinson",
+				"profile_path": "/A6g7dJPNc4yOVQdt3piOFD0Ys54.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 197315,
+				"name": "Drake",
+				"profile_path": "/tE0ZkWBP2rLj8u0NJqmMi1h1kb1.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 83021,
+				"name": "Gary Lennon",
+				"profile_path": "/4MbMlL5ZhBSKK6el0F0QmopKb2R.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1526725,
+				"name": "Michael Carroll",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			}
+		]
+	}
+}
