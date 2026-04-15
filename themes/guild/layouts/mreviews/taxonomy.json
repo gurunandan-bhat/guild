@@ -1,4 +1,4 @@
-{{- $films := slice }}
+{{- $films := dict }}
 {{- range .Pages }}
     {{- $pageMap := (jsonify . ) | transform.Unmarshal }}
     {{- $score := partial "fcg-rating-raw.html" .LinkTitle }}
@@ -7,6 +7,7 @@
     {{- with $posterLink }}
         {{- $pageMap = merge $pageMap (dict "LocalPosterPath" .) }}
     {{- end }}
-    {{- $films = append $pageMap $films }}
+    {{- $key := (md5 .LinkTitle) }}
+    {{- $films = merge $films (dict $key $pageMap) }}
 {{- end }}
 {{- $films | jsonify (dict "prefix" "" "indent" "\t") }}
