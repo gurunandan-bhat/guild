@@ -1,0 +1,259 @@
+{
+	"id": 1416391,
+	"title": "Toaster",
+	"fcg_title": "Toaster",
+	"original_title": "टोस्टर",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		}
+	],
+	"overview": "Murder and chaos erupt when a miser becomes obsessed with a toaster he gave as a wedding gift.",
+	"backdrop_path": "/3gI8gS7YIpmEzUehg3cZVQ62phl.jpg",
+	"poster_path": "/cbYyWHc1dL1bfwEJbaMYDYKgWG2.jpg",
+	"release_date": "2026-04-15",
+	"credits": {
+		"cast": [
+			{
+				"id": 117727,
+				"order": 0,
+				"name": "Rajkummar Rao",
+				"profile_path": "/ttBY7Y8x4NCpXfGS9Tc1NN8ISos.jpg",
+				"character": "Ramakant",
+				"gender": 2
+			},
+			{
+				"id": 1756851,
+				"order": 1,
+				"name": "Sanya Malhotra",
+				"profile_path": "/sQ0VIqGLecfpwYayO05Z7NC32yN.jpg",
+				"character": "Shilpa",
+				"gender": 1
+			},
+			{
+				"id": 1708061,
+				"order": 2,
+				"name": "Abhishek Banerjee",
+				"profile_path": "/cfyRkFBFfodBbNKbsTc8eG9YtVj.jpg",
+				"character": "Glen",
+				"gender": 2
+			},
+			{
+				"id": 142335,
+				"order": 3,
+				"name": "Upendra Limaye",
+				"profile_path": "/vFELR5TiBfc6LkLvI5kC5lpEnHv.jpg",
+				"character": "Inspector Balagode",
+				"gender": 2
+			},
+			{
+				"id": 1276863,
+				"order": 4,
+				"name": "Seema Pahwa",
+				"profile_path": "/jtm1q6oLBzd7C9KIrXlOOcUyzRf.jpg",
+				"character": "D'Souza Aunty",
+				"gender": 1
+			},
+			{
+				"id": 8311,
+				"order": 5,
+				"name": "Farah Khan",
+				"profile_path": "/yfmm3VIGRZ8RDRQ0pjn3Vizw6WC.jpg",
+				"character": "Nandini",
+				"gender": 1
+			},
+			{
+				"id": 87304,
+				"order": 6,
+				"name": "Archana Puran Singh",
+				"profile_path": "/uc6QJNnT8q0wNnZOZi0QW2hE1wq.jpg",
+				"character": "Pherwani Aunty",
+				"gender": 1
+			},
+			{
+				"id": 1148989,
+				"order": 7,
+				"name": "Jitendra Joshi",
+				"profile_path": "/rUtSbkJXDwk3jmLiO0Zt8oNgIMO.jpg",
+				"character": "Amol Amre",
+				"gender": 2
+			},
+			{
+				"id": 1779934,
+				"order": 8,
+				"name": "Pratik Gandhi",
+				"profile_path": "/dM6X5HrC1WKMfk3MwQJk1YFelk9.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1602232,
+				"order": 9,
+				"name": "Patralekhaa",
+				"profile_path": "/guQD3gK8pHlv0WQA9GI25YB2siP.jpg",
+				"gender": 1
+			},
+			{
+				"id": 2505938,
+				"order": 10,
+				"name": "Karamveer Choudhary",
+				"profile_path": "/vugFHHY09rkJ23Nrcv4JviZ0hKr.jpg",
+				"character": "Guruji"
+			},
+			{
+				"id": 1471177,
+				"order": 11,
+				"name": "Vinod Rawat",
+				"character": "Guddu"
+			}
+		],
+		"crew": [
+			{
+				"id": 117727,
+				"name": "Rajkummar Rao",
+				"profile_path": "/ttBY7Y8x4NCpXfGS9Tc1NN8ISos.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1602232,
+				"name": "Patralekhaa",
+				"profile_path": "/guQD3gK8pHlv0WQA9GI25YB2siP.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2154635,
+				"name": "Akshat Ghildial",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 2078532,
+				"name": "Anagh Mukherjee",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 1991820,
+				"name": "Jishnu Bhattacharjee",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 6122682,
+				"name": "Vivek Daschaudary",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1466270,
+				"name": "Chandrashekhar Prajapati",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 2154635,
+				"name": "Akshat Ghildial",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 1488388,
+				"name": "Parveez Shaikh",
+				"job": "Story",
+				"department": "Writing"
+			},
+			{
+				"id": 1488388,
+				"name": "Parveez Shaikh",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 1616622,
+				"name": "Bibin Dev",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1757793,
+				"name": "Anish John",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 1858325,
+				"name": "Aman Pant",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 6123394,
+				"name": "Arjun Iyer",
+				"job": "Music",
+				"department": "Sound"
+			},
+			{
+				"id": 1434492,
+				"name": "Ejaz Gulab",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2259709,
+				"name": "Tarun Bali",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4018378,
+				"name": "Soamaa Goswami",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2118234,
+				"name": "Tushar Jadhav",
+				"job": "Senior Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 1736902,
+				"name": "Sheetal Sharma",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 2051152,
+				"name": "Chinmay Ogale",
+				"job": "Post Producer",
+				"department": "Production"
+			},
+			{
+				"id": 6123397,
+				"name": "Saurabh Yadav",
+				"job": "Post Producer",
+				"department": "Production"
+			},
+			{
+				"id": 6123400,
+				"name": "Deboot Ghosh",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1745013,
+				"name": "Mayur Sharma",
+				"job": "Production Design",
+				"department": "Art"
+			}
+		]
+	}
+}
