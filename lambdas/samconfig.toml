@@ -1,0 +1,38 @@
+# SAM deployment defaults.
+# Run `sam deploy` from the lambdas/ directory — all values below are used
+# automatically so you are not prompted each time.
+#
+# First-time deploy: sam deploy --guided  (writes/updates this file)
+# Subsequent deploys: sam deploy
+
+version = 0.1
+
+[default.global.parameters]
+stack_name = "fcg-admin"
+
+[default.build.parameters]
+cached = true
+parallel = true
+
+[default.deploy.parameters]
+capabilities         = "CAPABILITY_NAMED_IAM"
+confirm_changeset    = true
+resolve_s3           = true
+region               = "us-east-1"
+parameter_overrides  = [
+  "GitHubOwner=fcgreviews",
+  "GitHubRepo=guild",
+  "GitHubPATParam=/fcg/admin/github-pat",
+  "AdminOrigin=https://admin.fcgreviews.com",
+  "AmplifyPreviewUrl=https://preview.fcgreviews.com",
+  # Fill in your Amplify App ID before deploying:
+  # "AmplifyAppId=xxxxxxxxxxxx",
+  # Optional — leave blank to read TMDB key from SSM instead:
+  # "TmdbApiKey=xxxx",
+]
+
+[default.local_start_api.parameters]
+# Used by: sam local start-api
+# Loads env vars from env.json so local runs behave like deployed Lambdas.
+env_vars = "env.json"
+port     = 3001

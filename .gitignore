@@ -1,6 +1,7 @@
 node_modules/
 public/**/*
-!public/mreviews/index.json
+lambdas/env.json
+admin/.env.example
 .DS_Store
 .DS_Store/
 .hugo_build.lock

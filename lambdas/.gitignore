@@ -1,0 +1,9 @@
+# Compiled Lambda binaries
+bootstrap
+*.zip
+
+# SAM build output
+.aws-sam/
+
+# Local env vars (contains secrets — never commit)
+env.json

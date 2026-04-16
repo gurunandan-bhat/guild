@@ -1,0 +1,1 @@
+import{A as e}from"./index-CPeT8Ut-.js";import{a as u,d as a,g as c,s as A,b as f}from"./index-CPeT8Ut-.js";const r=(t,s)=>t.Auth.fetchAuthSession(s),n=t=>r(e,t);export{u as AuthError,a as decodeJWT,n as fetchAuthSession,c as getCurrentUser,A as signInWithRedirect,f as signOut};

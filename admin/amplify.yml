@@ -1,0 +1,17 @@
+version: 1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - cd admin
+        - npm install
+    build:
+      commands:
+        - npm run build
+  artifacts:
+    baseDirectory: admin/dist
+    files:
+      - '**/*'
+  cache:
+    paths:
+      - admin/node_modules/**/*
