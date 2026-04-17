@@ -1,0 +1,343 @@
+{
+	"id": 249765,
+	"name": "Matka King",
+	"fcg_title": "Matka King",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		}
+	],
+	"overview": "In this fictional tale set in 1960s Mumbai, an enterprising cotton trader who craves legitimacy and respect, starts a new gambling game dubbed ‘Matka’, that takes the city by storm and democratizes a terrain previously reserved for the rich and elite.",
+	"backdrop_path": "/ecEnU3seGbNCPYj3c76ePmIZfat.jpg",
+	"poster_path": "/cAWIMbCmzVBi86kEOHKjHZCKGyo.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 1551045,
+				"order": 0,
+				"name": "Vijay Varma",
+				"profile_path": "/SVKmw30OYNFqSZwZ8BCMBZjRtB.jpg",
+				"character": "Brij Bhatti",
+				"gender": 2
+			},
+			{
+				"id": 1192050,
+				"order": 1,
+				"name": "Sai Tamhankar",
+				"profile_path": "/k4fDez6V350WGWk6VOhy2oACQZp.jpg",
+				"gender": 1
+			},
+			{
+				"id": 1246198,
+				"order": 2,
+				"name": "Kritika Kamra",
+				"profile_path": "/uaZwUNow7SCnODvUiCgcIwfe1CQ.jpg",
+				"gender": 1
+			},
+			{
+				"id": 42208,
+				"order": 3,
+				"name": "Gulshan Grover",
+				"profile_path": "/hmGFOgCnYVUpeY1gTc0gx4QUCOF.jpg",
+				"character": "Laljibhai Chaggan",
+				"gender": 2
+			},
+			{
+				"id": 1046748,
+				"order": 4,
+				"name": "Siddharth Jadhav",
+				"profile_path": "/gtPwTPVOTQMludsRSFABqqK2m4r.jpg",
+				"gender": 2
+			},
+			{
+				"id": 2733015,
+				"order": 5,
+				"name": "Bhupendra Jadawat",
+				"profile_path": "/nE7m63dUPe0G9Pp1zZLfAIWoPxN.jpg"
+			},
+			{
+				"id": 984951,
+				"order": 6,
+				"name": "Bharat Jadhav",
+				"profile_path": "/zQDCaqSFNoNmNxgm6prX29ZAR8U.jpg",
+				"gender": 2
+			},
+			{
+				"id": 587090,
+				"order": 7,
+				"name": "Girish Kulkarni",
+				"profile_path": "/mMqLm0Y42cVDvTvGZzSgYW1aYA7.jpg",
+				"gender": 2
+			},
+			{
+				"id": 2349495,
+				"order": 8,
+				"name": "Jamie Lever",
+				"gender": 1
+			},
+			{
+				"id": 101825,
+				"order": 9,
+				"name": "Kishore Kadam",
+				"profile_path": "/r8r20HPAjcwErxEmxmhxXe7Byi4.jpg",
+				"gender": 2
+			},
+			{
+				"id": 130588,
+				"order": 10,
+				"name": "Cyrus Sahukar",
+				"profile_path": "/pbWpYLBK6xlG4OkHXPTJGHFn36f.jpg",
+				"gender": 2
+			},
+			{
+				"id": 4314247,
+				"order": 11,
+				"name": "Sambhaji Tangde"
+			},
+			{
+				"id": 86244,
+				"order": 12,
+				"name": "Ishtiyak Khan",
+				"profile_path": "/c9eG5sZuxLJWg2RuCb0oTYQFRkQ.jpg",
+				"gender": 2
+			},
+			{
+				"id": 3941646,
+				"order": 13,
+				"name": "Sanjiv Jotangia"
+			},
+			{
+				"id": 1427894,
+				"order": 14,
+				"name": "Vineet Kumar Singh",
+				"profile_path": "/8mDoHcQQ82f7FYK8B22VK9DLkLA.jpg",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1265981,
+				"name": "Nagraj Popatrao Manjule",
+				"profile_path": "/zI3EZRn8tHpMzrhCkfk0QX2hDhu.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1265981,
+				"name": "Nagraj Popatrao Manjule",
+				"profile_path": "/zI3EZRn8tHpMzrhCkfk0QX2hDhu.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2797751,
+				"name": "Abhay Koranne",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 233068,
+				"name": "Siddharth Roy Kapur",
+				"profile_path": "/jZbPkiiSPRF9JEsq63eg7YESAlc.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1265981,
+				"name": "Nagraj Popatrao Manjule",
+				"profile_path": "/zI3EZRn8tHpMzrhCkfk0QX2hDhu.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2717122,
+				"name": "Gargi Kulkarni",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 3130389,
+				"name": "Ashish Aryan",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1519956,
+				"name": "Ashwini Sidwani",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3130389,
+				"name": "Ashish Aryan",
+				"job": "Story",
+				"department": "Writing"
+			},
+			{
+				"id": 1662195,
+				"name": "Sudhakar Reddy Yakkanti",
+				"profile_path": "/uXu7J9eofkggyZIHJaWsyOYKEZj.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2926879,
+				"name": "Rahul H. Gandhi",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3411122,
+				"name": "Jinesh Shah",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2345787,
+				"name": "Bharati Kandhari",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4522141,
+				"name": "Ashvin Joshi",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1473713,
+				"name": "Nitin Baid",
+				"profile_path": "/8KrbfRxot42zQBWASBOsPJ7cKGi.jpg",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 6124595,
+				"name": "B. Prasanna",
+				"job": "Music",
+				"department": "Sound"
+			},
+			{
+				"id": 3436984,
+				"name": "Ajay Jayanthi",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 223854,
+				"name": "Amit Trivedi",
+				"profile_path": "/lRewkQ2Smolc0TjNMSycYHnbFil.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3294089,
+				"name": "Parag Chhabra",
+				"job": "Music",
+				"department": "Sound"
+			},
+			{
+				"id": 1991819,
+				"name": "Ketan Sodha",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2408472,
+				"name": "Achint Thakkar",
+				"job": "Music Supervisor",
+				"department": "Sound"
+			},
+			{
+				"id": 3946364,
+				"name": "Parth Pandya",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3165066,
+				"name": "Riyaz Shaikh",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3165068,
+				"name": "Habib Sayed",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1823148,
+				"name": "Priya Suhas",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 3391535,
+				"name": "Priyanka Dubey",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1922464,
+				"name": "Pritam Das",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 1519955,
+				"name": "Arpan Bhukhanwala",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1660657,
+				"name": "Sunil Singh",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 2609953,
+				"name": "Tushar Desai",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 1586806,
+				"name": "Pranam Pansare",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 4137472,
+				"name": "Azaz Memon",
+				"job": "Post Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2553021,
+				"name": "Shilpan Veena Vyas",
+				"job": "Post Producer",
+				"department": "Production"
+			}
+		]
+	}
+}
