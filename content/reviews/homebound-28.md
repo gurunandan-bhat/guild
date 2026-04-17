@@ -1,9 +1,9 @@
 +++
-critics = ["Rohan Naahar"]
+critics = ["Rohan Naahar", "Akhil Arora"]
 date = 2025-10-11T10:03:00+05:30
 draft = false
 mreviews = ["Homebound"]
-scores = [9]
+scores = [9, 10]
 subtitle = "A Spotify Review"
 title = "Homebound"
 +++
