@@ -9,7 +9,7 @@ opening = ""
 publication = ""
 scores = [7]
 source = "https://lehren.com/haq-movie-review-the-right-fight/"
-subtitle = "The Right Fighthaq-4"
+subtitle = "The Right Fight"
 title = "Haq"
 +++
 
