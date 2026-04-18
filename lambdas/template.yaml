@@ -1,4 +1,4 @@
-AWSTemplateFormatVersion: '2010-09-09'
+AWSTemplateFormatVersion: "2010-09-09"
 Transform: AWS::Serverless-2016-10-31
 
 Description: FCG Admin — Lambda functions + HTTP API Gateway
@@ -6,259 +6,256 @@ Description: FCG Admin — Lambda functions + HTTP API Gateway
 # ── Parameters ─────────────────────────────────────────────────────────────────
 # Override any of these at deploy time with --parameter-overrides.
 Parameters:
+    GitHubOwner:
+        Type: String
+        Default: fcgreviews
+        Description: GitHub organisation / owner name
 
-  GitHubOwner:
-    Type: String
-    Default: fcgreviews
-    Description: GitHub organisation / owner name
+    GitHubRepo:
+        Type: String
+        Default: guild
+        Description: GitHub repository name
 
-  GitHubRepo:
-    Type: String
-    Default: guild
-    Description: GitHub repository name
+    GitHubPATParam:
+        Type: String
+        Default: /fcg/admin/github-pat
+        Description: SSM SecureString parameter name that holds the GitHub PAT
 
-  GitHubPATParam:
-    Type: String
-    Default: /fcg/admin/github-pat
-    Description: SSM SecureString parameter name that holds the GitHub PAT
+    AdminOrigin:
+        Type: String
+        Default: https://admin.fcgreviews.com
+        Description: Allowed CORS origin for all Lambda responses
 
-  AdminOrigin:
-    Type: String
-    Default: https://admin.fcgreviews.com
-    Description: Allowed CORS origin for all Lambda responses
+    AmplifyAppId:
+        Type: String
+        Description: Amplify App ID (used by build-status to poll preview builds)
 
-  AmplifyAppId:
-    Type: String
-    Description: Amplify App ID (used by build-status to poll preview builds)
+    AmplifyPreviewUrl:
+        Type: String
+        Default: https://preview.fcgreviews.com
+        Description: Public URL of the Amplify preview branch
 
-  AmplifyPreviewUrl:
-    Type: String
-    Default: https://preview.fcgreviews.com
-    Description: Public URL of the Amplify preview branch
-
-  TmdbApiKey:
-    Type: String
-    Default: ""
-    Description: >
-      TMDB API key injected as an env var.
-      Leave blank to have meta-check read it from SSM (/fcg/admin/tmdb-api-key).
+    TmdbApiKey:
+        Type: String
+        Default: ""
+        Description: >
+            TMDB API key injected as an env var.
+            Leave blank to have meta-check read it from SSM (/fcg/admin/tmdb-api-key).
 
 # ── Globals (applied to every Function unless overridden) ──────────────────────
 Globals:
-  Function:
-    Runtime: provided.al2023
-    Architectures:
-      - x86_64
-    Timeout: 30
-    MemorySize: 128
-    # Every function gets these env vars.
-    Environment:
-      Variables:
-        GITHUB_OWNER: !Ref GitHubOwner
-        GITHUB_REPO:  !Ref GitHubRepo
-        GITHUB_PAT_PARAM: !Ref GitHubPATParam
-        ADMIN_ORIGIN: !Ref AdminOrigin
-  HttpApi:
-    CorsConfiguration:
-      AllowOrigins:
-        - !Ref AdminOrigin
-      AllowHeaders:
-        - Content-Type
-        - Authorization
-      AllowMethods:
-        - GET
-        - POST
-        - OPTIONS
+    Function:
+        Runtime: provided.al2023
+        Architectures:
+            - arm64
+        Timeout: 30
+        MemorySize: 128
+        # Every function gets these env vars.
+        Environment:
+            Variables:
+                GITHUB_OWNER: !Ref GitHubOwner
+                GITHUB_REPO: !Ref GitHubRepo
+                GITHUB_PAT_PARAM: !Ref GitHubPATParam
+                ADMIN_ORIGIN: !Ref AdminOrigin
+    HttpApi:
+        CorsConfiguration:
+            AllowOrigins:
+                - !Ref AdminOrigin
+            AllowHeaders:
+                - Content-Type
+                - Authorization
+            AllowMethods:
+                - GET
+                - POST
+                - OPTIONS
 
 # ── Resources ──────────────────────────────────────────────────────────────────
 Resources:
+    # ── API Gateway ──────────────────────────────────────────────────────────────
+    AdminApi:
+        Type: AWS::Serverless::HttpApi
+        Properties:
+            StageName: live
 
-  # ── API Gateway ──────────────────────────────────────────────────────────────
-  AdminApi:
-    Type: AWS::Serverless::HttpApi
-    Properties:
-      StageName: live
+    # ── Shared IAM role ──────────────────────────────────────────────────────────
+    LambdaExecutionRole:
+        Type: AWS::IAM::Role
+        Properties:
+            RoleName: fcg-admin-lambda-role
+            AssumeRolePolicyDocument:
+                Version: "2012-10-17"
+                Statement:
+                    - Effect: Allow
+                      Principal:
+                          Service: lambda.amazonaws.com
+                      Action: sts:AssumeRole
+            ManagedPolicyArns:
+                # Basic execution: CloudWatch Logs
+                - arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole
+            Policies:
+                - PolicyName: fcg-admin-lambda-policy
+                  PolicyDocument:
+                      Version: "2012-10-17"
+                      Statement:
+                          - Effect: Allow
+                            Action:
+                                - ssm:GetParameter
+                            Resource: arn:aws:ssm:*:*:parameter/fcg/admin/*
+                          - Effect: Allow
+                            Action:
+                                - amplify:ListJobs
+                            Resource: "*"
 
-  # ── Shared IAM role ──────────────────────────────────────────────────────────
-  LambdaExecutionRole:
-    Type: AWS::IAM::Role
-    Properties:
-      RoleName: fcg-admin-lambda-role
-      AssumeRolePolicyDocument:
-        Version: "2012-10-17"
-        Statement:
-          - Effect: Allow
-            Principal:
-              Service: lambda.amazonaws.com
-            Action: sts:AssumeRole
-      ManagedPolicyArns:
-        # Basic execution: CloudWatch Logs
-        - arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole
-      Policies:
-        - PolicyName: fcg-admin-lambda-policy
-          PolicyDocument:
-            Version: "2012-10-17"
-            Statement:
-              - Effect: Allow
-                Action:
-                  - ssm:GetParameter
-                Resource: arn:aws:ssm:*:*:parameter/fcg/admin/*
-              - Effect: Allow
-                Action:
-                  - amplify:ListJobs
-                Resource: "*"
+    # ── commit ───────────────────────────────────────────────────────────────────
+    CommitFunction:
+        Type: AWS::Serverless::Function
+        Properties:
+            FunctionName: fcg-admin-commit
+            CodeUri: cmd/commit/
+            Handler: bootstrap
+            Role: !GetAtt LambdaExecutionRole.Arn
+            Events:
+                Post:
+                    Type: HttpApi
+                    Properties:
+                        ApiId: !Ref AdminApi
+                        Path: /commit
+                        Method: POST
+                Options:
+                    Type: HttpApi
+                    Properties:
+                        ApiId: !Ref AdminApi
+                        Path: /commit
+                        Method: OPTIONS
+        Metadata:
+            BuildMethod: go1.x
 
-  # ── commit ───────────────────────────────────────────────────────────────────
-  CommitFunction:
-    Type: AWS::Serverless::Function
-    Properties:
-      FunctionName: fcg-admin-commit
-      CodeUri: cmd/commit/
-      Handler: bootstrap
-      Role: !GetAtt LambdaExecutionRole.Arn
-      Events:
-        Post:
-          Type: HttpApi
-          Properties:
-            ApiId: !Ref AdminApi
-            Path: /commit
-            Method: POST
-        Options:
-          Type: HttpApi
-          Properties:
-            ApiId: !Ref AdminApi
-            Path: /commit
-            Method: OPTIONS
-    Metadata:
-      BuildMethod: go1.x
+    # ── build-status ─────────────────────────────────────────────────────────────
+    BuildStatusFunction:
+        Type: AWS::Serverless::Function
+        Properties:
+            FunctionName: fcg-admin-build-status
+            CodeUri: cmd/build-status/
+            Handler: bootstrap
+            Role: !GetAtt LambdaExecutionRole.Arn
+            Environment:
+                Variables:
+                    AMPLIFY_APP_ID: !Ref AmplifyAppId
+                    AMPLIFY_PREVIEW_URL: !Ref AmplifyPreviewUrl
+            Events:
+                Get:
+                    Type: HttpApi
+                    Properties:
+                        ApiId: !Ref AdminApi
+                        Path: /build-status
+                        Method: GET
+                Options:
+                    Type: HttpApi
+                    Properties:
+                        ApiId: !Ref AdminApi
+                        Path: /build-status
+                        Method: OPTIONS
+        Metadata:
+            BuildMethod: go1.x
 
-  # ── build-status ─────────────────────────────────────────────────────────────
-  BuildStatusFunction:
-    Type: AWS::Serverless::Function
-    Properties:
-      FunctionName: fcg-admin-build-status
-      CodeUri: cmd/build-status/
-      Handler: bootstrap
-      Role: !GetAtt LambdaExecutionRole.Arn
-      Environment:
-        Variables:
-          AMPLIFY_APP_ID: !Ref AmplifyAppId
-          AMPLIFY_PREVIEW_URL: !Ref AmplifyPreviewUrl
-      Events:
-        Get:
-          Type: HttpApi
-          Properties:
-            ApiId: !Ref AdminApi
-            Path: /build-status
-            Method: GET
-        Options:
-          Type: HttpApi
-          Properties:
-            ApiId: !Ref AdminApi
-            Path: /build-status
-            Method: OPTIONS
-    Metadata:
-      BuildMethod: go1.x
+    # ── meta-check ───────────────────────────────────────────────────────────────
+    MetaCheckFunction:
+        Type: AWS::Serverless::Function
+        Properties:
+            FunctionName: fcg-admin-meta-check
+            CodeUri: cmd/meta-check/
+            Handler: bootstrap
+            Role: !GetAtt LambdaExecutionRole.Arn
+            Environment:
+                Variables:
+                    TMDB_API_KEY: !Ref TmdbApiKey
+            Events:
+                Post:
+                    Type: HttpApi
+                    Properties:
+                        ApiId: !Ref AdminApi
+                        Path: /meta/check
+                        Method: POST
+                Options:
+                    Type: HttpApi
+                    Properties:
+                        ApiId: !Ref AdminApi
+                        Path: /meta/check
+                        Method: OPTIONS
+        Metadata:
+            BuildMethod: go1.x
 
-  # ── meta-check ───────────────────────────────────────────────────────────────
-  MetaCheckFunction:
-    Type: AWS::Serverless::Function
-    Properties:
-      FunctionName: fcg-admin-meta-check
-      CodeUri: cmd/meta-check/
-      Handler: bootstrap
-      Role: !GetAtt LambdaExecutionRole.Arn
-      Environment:
-        Variables:
-          TMDB_API_KEY: !Ref TmdbApiKey
-      Events:
-        Post:
-          Type: HttpApi
-          Properties:
-            ApiId: !Ref AdminApi
-            Path: /meta/check
-            Method: POST
-        Options:
-          Type: HttpApi
-          Properties:
-            ApiId: !Ref AdminApi
-            Path: /meta/check
-            Method: OPTIONS
-    Metadata:
-      BuildMethod: go1.x
+    # ── freescores ───────────────────────────────────────────────────────────────
+    FreescoresFunction:
+        Type: AWS::Serverless::Function
+        Properties:
+            FunctionName: fcg-admin-freescores
+            CodeUri: cmd/freescores/
+            Handler: bootstrap
+            Role: !GetAtt LambdaExecutionRole.Arn
+            Events:
+                Get:
+                    Type: HttpApi
+                    Properties:
+                        ApiId: !Ref AdminApi
+                        Path: /freescores
+                        Method: GET
+                Post:
+                    Type: HttpApi
+                    Properties:
+                        ApiId: !Ref AdminApi
+                        Path: /freescores
+                        Method: POST
+                Options:
+                    Type: HttpApi
+                    Properties:
+                        ApiId: !Ref AdminApi
+                        Path: /freescores
+                        Method: OPTIONS
+        Metadata:
+            BuildMethod: go1.x
 
-  # ── freescores ───────────────────────────────────────────────────────────────
-  FreescoresFunction:
-    Type: AWS::Serverless::Function
-    Properties:
-      FunctionName: fcg-admin-freescores
-      CodeUri: cmd/freescores/
-      Handler: bootstrap
-      Role: !GetAtt LambdaExecutionRole.Arn
-      Events:
-        Get:
-          Type: HttpApi
-          Properties:
-            ApiId: !Ref AdminApi
-            Path: /freescores
-            Method: GET
-        Post:
-          Type: HttpApi
-          Properties:
-            ApiId: !Ref AdminApi
-            Path: /freescores
-            Method: POST
-        Options:
-          Type: HttpApi
-          Properties:
-            ApiId: !Ref AdminApi
-            Path: /freescores
-            Method: OPTIONS
-    Metadata:
-      BuildMethod: go1.x
-
-  # ── merge ────────────────────────────────────────────────────────────────────
-  MergeFunction:
-    Type: AWS::Serverless::Function
-    Properties:
-      FunctionName: fcg-admin-merge
-      CodeUri: cmd/merge/
-      Handler: bootstrap
-      Role: !GetAtt LambdaExecutionRole.Arn
-      Events:
-        Post:
-          Type: HttpApi
-          Properties:
-            ApiId: !Ref AdminApi
-            Path: /merge
-            Method: POST
-        Options:
-          Type: HttpApi
-          Properties:
-            ApiId: !Ref AdminApi
-            Path: /merge
-            Method: OPTIONS
-    Metadata:
-      BuildMethod: go1.x
+    # ── merge ────────────────────────────────────────────────────────────────────
+    MergeFunction:
+        Type: AWS::Serverless::Function
+        Properties:
+            FunctionName: fcg-admin-merge
+            CodeUri: cmd/merge/
+            Handler: bootstrap
+            Role: !GetAtt LambdaExecutionRole.Arn
+            Events:
+                Post:
+                    Type: HttpApi
+                    Properties:
+                        ApiId: !Ref AdminApi
+                        Path: /merge
+                        Method: POST
+                Options:
+                    Type: HttpApi
+                    Properties:
+                        ApiId: !Ref AdminApi
+                        Path: /merge
+                        Method: OPTIONS
+        Metadata:
+            BuildMethod: go1.x
 
 # ── Outputs ────────────────────────────────────────────────────────────────────
 Outputs:
+    ApiEndpoint:
+        Description: HTTP API base URL — set this as VITE_API_BASE_URL in the SPA
+        Value: !Sub "https://${AdminApi}.execute-api.${AWS::Region}.amazonaws.com/live"
 
-  ApiEndpoint:
-    Description: HTTP API base URL — set this as VITE_API_BASE_URL in the SPA
-    Value: !Sub "https://${AdminApi}.execute-api.${AWS::Region}.amazonaws.com/live"
+    CommitFunctionArn:
+        Value: !GetAtt CommitFunction.Arn
 
-  CommitFunctionArn:
-    Value: !GetAtt CommitFunction.Arn
+    BuildStatusFunctionArn:
+        Value: !GetAtt BuildStatusFunction.Arn
 
-  BuildStatusFunctionArn:
-    Value: !GetAtt BuildStatusFunction.Arn
+    MetaCheckFunctionArn:
+        Value: !GetAtt MetaCheckFunction.Arn
 
-  MetaCheckFunctionArn:
-    Value: !GetAtt MetaCheckFunction.Arn
+    FreescoresFunctionArn:
+        Value: !GetAtt FreescoresFunction.Arn
 
-  FreescoresFunctionArn:
-    Value: !GetAtt FreescoresFunction.Arn
-
-  MergeFunctionArn:
-    Value: !GetAtt MergeFunction.Arn
+    MergeFunctionArn:
+        Value: !GetAtt MergeFunction.Arn

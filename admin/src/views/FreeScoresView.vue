@@ -169,7 +169,7 @@ import { useFilmsStore }   from '@/stores/films'
 import { useCriticsStore } from '@/stores/critics'
 
 const API       = import.meta.env.VITE_API_BASE_URL  || ''
-const SITE_BASE = import.meta.env.VITE_SITE_BASE_URL || 'https://www.fcgreviews.com'
+const SITE_BASE = import.meta.env.VITE_SITE_BASE_URL ?? 'https://www.fcgreviews.com'
 
 const EMPTY_ENTRY = () => ({ filmTitle: '', criticName: '', score: '' })
 

@@ -11,6 +11,16 @@ export default defineConfig({
     }
   },
   server: {
-    port: 5173
+    port: 5173,
+    proxy: {
+      '/mreviews': {
+        target: 'https://www.fcgreviews.com',
+        changeOrigin: true
+      },
+      '/critics': {
+        target: 'https://www.fcgreviews.com',
+        changeOrigin: true
+      }
+    }
   }
 })

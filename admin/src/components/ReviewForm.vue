@@ -237,7 +237,7 @@ import { useFilmsStore } from '@/stores/films'
 import { useCriticsStore } from '@/stores/critics'
 import { useStagingStore } from '@/stores/staging'
 
-const SITE_BASE = import.meta.env.VITE_SITE_BASE_URL || 'https://www.fcgreviews.com'
+const SITE_BASE = import.meta.env.VITE_SITE_BASE_URL ?? 'https://www.fcgreviews.com'
 
 const EMPTY_FORM = () => ({
   media: 'print',
@@ -361,6 +361,11 @@ export default {
     async tryAutoDetect() {
       const { filmTitle, criticName } = this.form
       if (!filmTitle.trim() || !criticName.trim()) return
+
+      // Don't fetch if the film isn't in the store — it's a new film
+      // and can't have existing reviews. This also prevents 404s in the
+      // console on every keystroke while the user is still typing.
+      if (!useFilmsStore().filmByTitle(filmTitle)) return
 
       // Derive slug: kebab-case of the film title
       const slug = filmTitle.trim()

@@ -1,6 +1,6 @@
 import { defineStore } from 'pinia'
 
-const SITE_BASE = import.meta.env.VITE_SITE_BASE_URL || 'https://www.fcgreviews.com'
+const SITE_BASE = import.meta.env.VITE_SITE_BASE_URL ?? 'https://www.fcgreviews.com'
 
 export const useCriticsStore = defineStore('critics', {
   state: () => ({

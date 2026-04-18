@@ -1,7 +1,7 @@
 node_modules/
 public/**/*
 lambdas/env.json
-admin/.env.example
+admin/.env.*
 .DS_Store
 .DS_Store/
 .hugo_build.lock
