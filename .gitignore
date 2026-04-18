@@ -1,9 +1,8 @@
 node_modules/
 public/**/*
-!public/mreviews/index.json
 .DS_Store
 .DS_Store/
 .hugo_build.lock
-lambdas/**/*
-admin/**/*
-
+.env.*
+env.json
+lambdas/.aws-sam
