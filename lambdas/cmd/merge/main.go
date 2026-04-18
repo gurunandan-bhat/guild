@@ -6,12 +6,20 @@ package main
 import (
 	"context"
 	"fmt"
+	"os"
 
 	"github.com/aws/aws-lambda-go/lambda"
 
 	"fcg/admin/lambdas/internal/auth"
 	"fcg/admin/lambdas/internal/github"
 )
+
+func previewBranch() string {
+	if b := os.Getenv("PREVIEW_BRANCH"); b != "" {
+		return b
+	}
+	return "preview"
+}
 
 type APIGatewayRequest struct {
 	HTTPMethod string            `json:"httpMethod"`
@@ -31,7 +39,8 @@ func handler(ctx context.Context, req APIGatewayRequest) (auth.Response, error) 
 		return auth.Err(401, err.Error()), nil
 	}
 
-	if err := github.MergeBranch(ctx, "preview", "main", "Merge preview into main"); err != nil {
+	pb := previewBranch()
+	if err := github.MergeBranch(ctx, pb, "main", fmt.Sprintf("Merge %s into main", pb)); err != nil {
 		return auth.Err(500, fmt.Sprintf("merge: %s", err)), nil
 	}
 

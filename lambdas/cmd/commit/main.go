@@ -8,6 +8,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
+	"os"
 	"strings"
 	"time"
 
@@ -17,6 +18,13 @@ import (
 	"fcg/admin/lambdas/internal/github"
 	"fcg/admin/lambdas/internal/markdown"
 )
+
+func previewBranch() string {
+	if b := os.Getenv("PREVIEW_BRANCH"); b != "" {
+		return b
+	}
+	return "preview"
+}
 
 // ── Request / response types ──────────────────────────────────────────────────
 
@@ -59,17 +67,18 @@ func handler(ctx context.Context, req APIGatewayRequest) (auth.Response, error) 
 	if len(body.Reviews) == 0 {
 		return auth.Err(400, "reviews array must not be empty"), nil
 	}
-	if body.Branch != "preview" && body.Branch != "main" {
-		return auth.Err(400, `branch must be "preview" or "main"`), nil
+	pb := previewBranch()
+	if body.Branch != pb && body.Branch != "main" {
+		return auth.Err(400, fmt.Sprintf(`branch must be %q or "main"`, pb)), nil
 	}
 
 	// If targeting preview, reset it to current main HEAD first.
-	if body.Branch == "preview" {
+	if body.Branch == pb {
 		mainSHA, err := github.BranchSHA(ctx, "main")
 		if err != nil {
 			return auth.Err(500, fmt.Sprintf("get main SHA: %s", err)), nil
 		}
-		if err := github.UpsertBranch(ctx, "preview", mainSHA); err != nil {
+		if err := github.UpsertBranch(ctx, pb, mainSHA); err != nil {
 			return auth.Err(500, fmt.Sprintf("reset preview branch: %s", err)), nil
 		}
 	}

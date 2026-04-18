@@ -35,6 +35,11 @@ Parameters:
         Default: https://preview.fcgreviews.com
         Description: Public URL of the Amplify preview branch
 
+    PreviewBranch:
+        Type: String
+        Default: preview
+        Description: Git branch name used for staging previews
+
     TmdbApiKey:
         Type: String
         Default: ""
@@ -57,6 +62,7 @@ Globals:
                 GITHUB_REPO: !Ref GitHubRepo
                 GITHUB_PAT_PARAM: !Ref GitHubPATParam
                 ADMIN_ORIGIN: !Ref AdminOrigin
+                PREVIEW_BRANCH: !Ref PreviewBranch
     HttpApi:
         CorsConfiguration:
             AllowOrigins:

@@ -49,7 +49,10 @@ func handler(ctx context.Context, req APIGatewayRequest) (auth.Response, error) 
 	}
 
 	client := amplify.NewFromConfig(cfg)
-	branch := "preview"
+	branch := os.Getenv("PREVIEW_BRANCH")
+	if branch == "" {
+		branch = "preview"
+	}
 
 	out, err := client.ListJobs(ctx, &amplify.ListJobsInput{
 		AppId:      &appID,

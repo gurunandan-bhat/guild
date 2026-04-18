@@ -8,12 +8,20 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
+	"os"
 
 	"github.com/aws/aws-lambda-go/lambda"
 
 	"fcg/admin/lambdas/internal/auth"
 	"fcg/admin/lambdas/internal/github"
 )
+
+func previewBranch() string {
+	if b := os.Getenv("PREVIEW_BRANCH"); b != "" {
+		return b
+	}
+	return "preview"
+}
 
 const freescoresPath = "data/freescores.json"
 
@@ -77,8 +85,9 @@ func handlePost(ctx context.Context, rawBody string) (auth.Response, error) {
 	if len(b.Scores) == 0 {
 		return auth.Err(400, "scores is required"), nil
 	}
-	if b.Branch != "preview" && b.Branch != "main" {
-		return auth.Err(400, `branch must be "preview" or "main"`), nil
+	pb := previewBranch()
+	if b.Branch != pb && b.Branch != "main" {
+		return auth.Err(400, fmt.Sprintf(`branch must be %q or "main"`, pb)), nil
 	}
 
 	// Validate scores is well-formed JSON and re-marshal with consistent formatting.
