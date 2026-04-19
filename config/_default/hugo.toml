@@ -22,9 +22,15 @@ min      = "0.145.0"
 critic  = 'critics'
 mreview = 'mreviews'
 
+[outputFormats]
+    [outputFormats.meta]
+        mediaType = "application/json"
+        path = "mreviews/meta"
+        isHTML = false
+
 [outputs]
-taxonomy = ['json', 'html']
-term     = ['json', 'html']
+taxonomy = ['html', 'json']
+term     = ['html', 'json', 'meta']
 
 [security.http]
 mediaTypes = ['^audio/mpeg$']
