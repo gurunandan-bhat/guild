@@ -25,7 +25,7 @@ mreview = 'mreviews'
 [outputFormats]
     [outputFormats.meta]
         mediaType = "application/json"
-        path = "mreviews/meta"
+        path = "tmdb-meta"
         isHTML = false
 
 [outputs]
