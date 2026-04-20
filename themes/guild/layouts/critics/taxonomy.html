@@ -18,7 +18,7 @@
                                         {{ .LinkTitle }}
                                     {{ end }}
                                 </h6>
-                                <p>
+                                <p class="fitted-org">
                                     {{ with .Params.organizations }}
                                         {{ delimit . "<br />" | safeHTML }}
                                     {{ end }}
@@ -63,7 +63,7 @@
                                         {{ .LinkTitle }}
                                     {{ end }}
                                 </h6>
-                                <p>
+                                <p class="fitted-org">
                                     {{ with .Params.organizations }}
                                         {{ index . 0 }}
                                     {{ end }}
