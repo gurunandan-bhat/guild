@@ -1,9 +1,9 @@
 // Lambda: POST /meta/check
 //
-// Checks whether TMDB metadata for a film is already cached in the repo at
-// assets/meta/{md5(title)}.json.  If it is, returns the cached data.
-// If not, fetches from TMDB, downloads poster + backdrop images, and commits
-// all three files atomically to main so Hugo has everything it needs.
+// Checks whether TMDB metadata for a film is already cached by hitting the live
+// site's /mreviews/{slug}/index.json endpoint and extracting the Metadata field.
+// If not cached, fetches from TMDB, downloads poster + backdrop images, and
+// commits all three files atomically to main so Hugo has everything it needs.
 package main
 
 import (
@@ -69,12 +69,9 @@ func handler(ctx context.Context, req APIGatewayRequest) (auth.Response, error) 
 
 	jsonPath := fmt.Sprintf("assets/meta/%s.json", markdown.MD5Hex(body.FilmTitle))
 
-	// Check cache first (assets/ is not publicly served — must use GitHub Contents API).
-	if cached, err := github.FileContent(ctx, jsonPath, "main"); err == nil && len(cached) > 0 {
-		var v map[string]any
-		if json.Unmarshal(cached, &v) == nil {
-			return auth.OK(v)
-		}
+	// Check live site cache first — cheaper than the GitHub Contents API.
+	if cached, err := fetchCachedMeta(ctx, body.FilmTitle); err == nil && cached != nil {
+		return auth.OK(cached)
 	}
 
 	// Not cached — resolve API key.
@@ -125,6 +122,46 @@ func handler(ctx context.Context, req APIGatewayRequest) (auth.Response, error) 
 		fmt.Sprintf("Cache TMDB metadata + images: %s", body.FilmTitle), files)
 
 	return auth.OK(meta)
+}
+
+// fetchCachedMeta hits the live site's /mreviews/{slug}/index.json and returns
+// the Metadata field if present, or nil if the film is not yet cached.
+func fetchCachedMeta(ctx context.Context, filmTitle string) (map[string]any, error) {
+	siteBase := os.Getenv("SITE_BASE_URL")
+	if siteBase == "" {
+		siteBase = "https://www.fcgreviews.com"
+	}
+	url := fmt.Sprintf("%s/mreviews/%s/index.json", siteBase, markdown.TitleToSlug(filmTitle))
+
+	req, err := http.NewRequestWithContext(ctx, "GET", url, nil)
+	if err != nil {
+		return nil, err
+	}
+	resp, err := http.DefaultClient.Do(req)
+	if err != nil {
+		return nil, err
+	}
+	defer resp.Body.Close()
+
+	if resp.StatusCode == http.StatusNotFound {
+		return nil, nil
+	}
+	if resp.StatusCode >= 400 {
+		return nil, fmt.Errorf("site cache fetch %d", resp.StatusCode)
+	}
+
+	raw, err := io.ReadAll(resp.Body)
+	if err != nil {
+		return nil, err
+	}
+
+	var wrapper struct {
+		Metadata map[string]any `json:"Metadata"`
+	}
+	if err := json.Unmarshal(raw, &wrapper); err != nil {
+		return nil, err
+	}
+	return wrapper.Metadata, nil
 }
 
 // fetchTMDBMeta calls the TMDB movie or TV endpoint with credits appended

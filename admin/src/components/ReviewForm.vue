@@ -27,9 +27,9 @@
       <button type="button" class="btn-close btn-close ms-auto" @click="resetForm"></button>
     </div>
 
-    <!-- ── Row 1: Critic / Film / Show Type / TMDB ID ──────── -->
+    <!-- ── Row 1: Critic / Publication ─────────────────────── -->
     <div class="row g-2 mb-3">
-      <div class="col-md-3">
+      <div class="col-md-4">
         <label class="form-label fw-semibold">Critic</label>
         <ComboBox
           v-model="form.criticName"
@@ -40,7 +40,15 @@
           @select="onCriticSelect"
         />
       </div>
-      <div class="col-md-4">
+      <div v-if="showPublication" class="col-md-8">
+        <label class="form-label fw-semibold">Publication</label>
+        <input type="text" class="form-control" v-model="form.publication" placeholder="e.g. The Hindu…" />
+      </div>
+    </div>
+
+    <!-- ── Row 2: Film Title / TMDB ID + Movie·TV toggle ────── -->
+    <div class="row g-2 mb-3">
+      <div class="col-md-7">
         <label class="form-label fw-semibold">Film Title</label>
         <ComboBox
           v-model="form.filmTitle"
@@ -52,73 +60,57 @@
           @update:model-value="onFilmInput"
         />
       </div>
-      <div class="col-md-2">
-        <label class="form-label fw-semibold">Type</label>
-        <div class="btn-group w-100" role="group">
-          <input type="radio" class="btn-check" id="show-movie" value="movie" v-model="form.showType" autocomplete="off" />
-          <label class="btn btn-outline-secondary btn-sm" for="show-movie">Movie</label>
-          <input type="radio" class="btn-check" id="show-tv" value="tv" v-model="form.showType" autocomplete="off" />
-          <label class="btn btn-outline-secondary btn-sm" for="show-tv">TV</label>
-        </div>
-      </div>
-      <div class="col-md-3">
+      <div class="col-md-5">
         <label class="form-label fw-semibold">TMDB ID</label>
-        <input
-          type="number"
-          class="form-control"
-          placeholder="e.g. 1396"
-          v-model.number="form.tmdbId"
-          @change="onTmdbIdChange"
-        />
+        <div class="input-group">
+          <input
+            type="number"
+            class="form-control"
+            placeholder="e.g. 1396"
+            v-model.number="form.tmdbId"
+            @change="onTmdbIdChange"
+          />
+          <div class="btn-group" role="group">
+            <input type="radio" class="btn-check" id="show-movie" value="movie" v-model="form.showType" autocomplete="off" />
+            <label class="btn btn-outline-secondary" for="show-movie">Movie</label>
+            <input type="radio" class="btn-check" id="show-tv" value="tv" v-model="form.showType" autocomplete="off" />
+            <label class="btn btn-outline-secondary" for="show-tv">TV</label>
+          </div>
+        </div>
       </div>
     </div>
 
-    <!-- ── Row 2: Subtitle / Opening / Publication / Score ─── -->
+    <!-- ── Row 3: Subtitle ───────────────────────────────────── -->
     <div class="row g-2 mb-3">
-      <div class="col-md-5">
+      <div class="col-12">
         <label class="form-label fw-semibold">Subtitle</label>
         <input type="text" class="form-control" v-model="form.subtitle" placeholder="Review headline…" />
       </div>
-      <div v-if="showOpening" class="col-md-4">
+    </div>
+
+    <!-- ── Row 4: Opening Quote ──────────────────────────────── -->
+    <div v-if="showOpening" class="row g-2 mb-3">
+      <div class="col-12">
         <label class="form-label fw-semibold">Opening Quote</label>
         <input type="text" class="form-control" v-model="form.opening" placeholder="One-line tease…" />
       </div>
-      <div class="col-md-3" :class="showOpening ? 'col-md-3' : 'col-md-4'">
-        <label class="form-label fw-semibold">Score <span class="text-muted fw-normal">(1–10)</span></label>
-        <input
-          type="number"
-          class="form-control"
-          :class="{ 'is-invalid': v.score }"
-          min="1"
-          max="10"
-          v-model.number="form.score"
-        />
-        <div class="invalid-feedback">Enter a score between 1 and 10</div>
-      </div>
     </div>
 
-    <!-- Publication (Print only) -->
-    <div v-if="showPublication" class="row g-2 mb-3">
-      <div class="col-md-5">
-        <label class="form-label fw-semibold">Publication</label>
-        <input type="text" class="form-control" v-model="form.publication" placeholder="e.g. The Hindu…" />
-      </div>
-    </div>
-
-    <!-- ── Row 3: Body / embed + image ──────────────────────── -->
+    <!-- ── Row 5: Body / embed fields ───────────────────────── -->
     <div class="row g-2 mb-3">
 
-      <!-- Print: body text + image upload -->
+      <!-- Print: body text -->
       <template v-if="form.media === 'print'">
-        <div class="col-md-8">
+        <div class="col-12">
           <label class="form-label fw-semibold">Review Body</label>
           <textarea
-            class="form-control review-textarea"
+            class="form-control"
+            rows="6"
             v-model="form.body"
             placeholder="Paste or type the review text…"
           ></textarea>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-6 mt-2">
           <label class="form-label fw-semibold">Review Image</label>
           <input type="file" class="form-control" accept="image/*" @change="onImageChange" />
           <div v-if="imagePreviewUrl" class="mt-2">
@@ -127,15 +119,15 @@
         </div>
       </template>
 
-      <!-- Audio: path + caption + image upload -->
+      <!-- Audio: path + caption + image -->
       <template v-else-if="form.media === 'audio'">
-        <div class="col-md-8">
+        <div class="col-md-6">
           <label class="form-label fw-semibold">Audio File Path</label>
           <input type="text" class="form-control mb-2" v-model="form.audioPath" placeholder="/audio/filename.mp3" />
           <label class="form-label fw-semibold">Caption</label>
           <input type="text" class="form-control" v-model="form.audioCaption" placeholder="Caption text…" />
         </div>
-        <div class="col-md-4">
+        <div class="col-md-6">
           <label class="form-label fw-semibold">Review Image</label>
           <input type="file" class="form-control" accept="image/*" @change="onImageChange" />
           <div v-if="imagePreviewUrl" class="mt-2">
@@ -146,7 +138,7 @@
 
       <!-- Video: YouTube ID -->
       <template v-else-if="form.media === 'video'">
-        <div class="col-md-6">
+        <div class="col-md-8">
           <label class="form-label fw-semibold">YouTube Video ID</label>
           <input type="text" class="form-control" v-model="form.youtubeId" placeholder="e.g. dQw4w9WgXcQ" />
         </div>
@@ -154,7 +146,7 @@
 
       <!-- Spotify: episode ID -->
       <template v-else-if="form.media === 'spotify'">
-        <div class="col-md-6">
+        <div class="col-md-8">
           <label class="form-label fw-semibold">Spotify Episode ID</label>
           <input type="text" class="form-control" v-model="form.spotifyId" placeholder="Spotify episode ID…" />
         </div>
@@ -162,11 +154,23 @@
 
     </div>
 
-    <!-- ── Row 4: Source URL (Print + Video) ────────────────── -->
-    <div v-if="showSource" class="row g-2 mb-4">
-      <div class="col-md-10">
+    <!-- ── Row 6: Source URL + Score ────────────────────────── -->
+    <div class="row g-2 mb-4">
+      <div v-if="showSource" class="col-md-9">
         <label class="form-label fw-semibold">Source URL</label>
         <input type="url" class="form-control" v-model="form.source" placeholder="https://…" />
+      </div>
+      <div class="col-md-3" :class="{ 'ms-auto': !showSource }">
+        <label class="form-label fw-semibold">Score <span class="text-muted fw-normal">(1–10)</span></label>
+        <input
+          type="number"
+          class="form-control"
+          :class="{ 'is-invalid': v.score }"
+          min="1"
+          max="10"
+          v-model.number="form.score"
+        />
+        <div class="invalid-feedback">Enter a score between 1 and 10</div>
       </div>
     </div>
 

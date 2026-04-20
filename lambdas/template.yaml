@@ -40,6 +40,11 @@ Parameters:
         Default: preview
         Description: Git branch name used for staging previews
 
+    SiteBaseUrl:
+        Type: String
+        Default: https://www.fcgreviews.com
+        Description: Public base URL of the live Hugo site (used to check metadata cache)
+
     TmdbApiKey:
         Type: String
         Default: ""
@@ -174,6 +179,7 @@ Resources:
             Role: !GetAtt LambdaExecutionRole.Arn
             Environment:
                 Variables:
+                    SITE_BASE_URL: !Ref SiteBaseUrl
                     TMDB_API_KEY: !Ref TmdbApiKey
             Events:
                 Post:

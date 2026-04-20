@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tabler/core": "^1.0.0",
     "aws-amplify": "^6.16.4",
     "bootstrap": "^5.3.8",
     "bootstrap-icons": "^1.13.1",

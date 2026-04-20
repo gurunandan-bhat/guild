@@ -2,9 +2,9 @@ import { createApp } from 'vue'
 import { createPinia } from 'pinia'
 import piniaPluginPersistedstate from 'pinia-plugin-persistedstate'
 
-import 'bootstrap/dist/css/bootstrap.min.css'
+import '@tabler/core/dist/css/tabler.min.css'
 import 'bootstrap-icons/font/bootstrap-icons.css'
-import 'bootstrap/dist/js/bootstrap.bundle.min.js'
+import '@tabler/core/dist/js/tabler.min.js'
 
 import './assets/style.css'
 import '@/amplifyconfigure.js'
