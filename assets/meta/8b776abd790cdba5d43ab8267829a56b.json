@@ -1,0 +1,287 @@
+{
+	"id": 1290703,
+	"title": "Oru Durooha Saahacharyathil",
+	"fcg_title": "Oru Durooha Saahacharyathil",
+	"original_title": "Oru Durooha Saahacharyathil",
+	"original_language": "ml",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "A government health worker in remote Wayanad cares for his bedridden brother while struggling with personal troubles. His quiet life shatters when an armed fugitive demands shelter as law enforcement closes in.",
+	"backdrop_path": "/kbIP92EPs0yp2GchqC8gSJL23Dm.jpg",
+	"poster_path": "/m5QAeVHpqSedMEvIpbUle6aUn5q.jpg",
+	"release_date": "2026-04-15",
+	"credits": {
+		"cast": [
+			{
+				"id": 997494,
+				"order": 0,
+				"name": "Kunchacko Boban",
+				"profile_path": "/1jdbIaYOBuhPNGS8XCqlzMsb0SV.jpg",
+				"character": "Sethu",
+				"gender": 2
+			},
+			{
+				"id": 1574334,
+				"order": 1,
+				"name": "Dileesh Pothan",
+				"profile_path": "/mXCnvBbRynOYOE3aqGostSvCZ0N.jpg",
+				"character": "Madhu",
+				"gender": 2
+			},
+			{
+				"id": 3303015,
+				"order": 2,
+				"name": "Sajin Gopu",
+				"profile_path": "/l8kpWfPvD7Gzp2LgvRSWVRsrxWd.jpg",
+				"character": "Rajendra Prasad",
+				"gender": 2
+			},
+			{
+				"id": 3216847,
+				"order": 3,
+				"name": "Chidambaram",
+				"profile_path": "/fwRYox7fTSVurHJJnsAQCUJ7Jzt.jpg",
+				"character": "Armiyas",
+				"gender": 2
+			},
+			{
+				"id": 584777,
+				"order": 4,
+				"name": "Jaffer Idukki",
+				"profile_path": "/6kkv7LDD0NIGFTKZyrgGH5KGZpR.jpg",
+				"character": "Jaffer Parakkadi",
+				"gender": 2
+			},
+			{
+				"id": 2127721,
+				"order": 5,
+				"name": "Saranya R Nair",
+				"profile_path": "/qMOrkFcG0BKZOFcIs5CENheFVIz.jpg",
+				"character": "Mini",
+				"gender": 1
+			},
+			{
+				"id": 1198738,
+				"order": 6,
+				"name": "Sudheesh",
+				"profile_path": "/bDVEN345ccxDhcWD47a9qh0a7WH.jpg",
+				"character": "Susidhran",
+				"gender": 2
+			},
+			{
+				"id": 3041802,
+				"order": 7,
+				"name": "Rajesh Madhavan",
+				"profile_path": "/nHeWOa2pDeEhoo4Z730iMuTSeCl.jpg",
+				"character": "Rajesh",
+				"gender": 2
+			},
+			{
+				"id": 581088,
+				"order": 8,
+				"name": "Divya Vishwanath"
+			},
+			{
+				"id": 3423094,
+				"order": 9,
+				"name": "Pooja Mohanraj",
+				"profile_path": "/faUdYQacyEUiNotpzWM4NtH7ozt.jpg",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 2455273,
+				"name": "Ratheesh Balakrishnan Poduval",
+				"profile_path": "/gEmeyBAFY2Illw7O49bDqKxQS6Q.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1066404,
+				"name": "Listin Stephen",
+				"profile_path": "/uDBipXsBEsCPloYCMMNkQzIV3XX.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2455273,
+				"name": "Ratheesh Balakrishnan Poduval",
+				"profile_path": "/gEmeyBAFY2Illw7O49bDqKxQS6Q.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 4766493,
+				"name": "Arjun Sethu",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 997494,
+				"name": "Kunchacko Boban",
+				"profile_path": "/1jdbIaYOBuhPNGS8XCqlzMsb0SV.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2330980,
+				"name": "Justin Stephen",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1545911,
+				"name": "Manoj Kannoth",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 2106857,
+				"name": "Dawn Vincent",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 2465901,
+				"name": "Indulal Kaveed",
+				"job": "Art Designer",
+				"department": "Art"
+			},
+			{
+				"id": 3162397,
+				"name": "Sreejith Sreenivasan",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 1903838,
+				"name": "Vipin V Nair",
+				"job": "Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 2468417,
+				"name": "Naveen P Thomas",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1620968,
+				"name": "Ronex Xavier",
+				"profile_path": "/dG5IaUswrZu99o3xBuhQ57rOlEk.jpg",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 3302934,
+				"name": "Melwy J",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1649673,
+				"name": "Deepak Parameswaram",
+				"job": "Production Controller",
+				"department": "Crew"
+			},
+			{
+				"id": 3037661,
+				"name": "Manju Gopinath",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 3483032,
+				"name": "Premlal Pattazhy",
+				"job": "Still Photographer",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2455273,
+				"name": "Ratheesh Balakrishnan Poduval",
+				"profile_path": "/gEmeyBAFY2Illw7O49bDqKxQS6Q.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4264162,
+				"name": "Joyner Thomas",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 6100463,
+				"name": "Dancing Ninja",
+				"job": "Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 3480277,
+				"name": "Yellowtooths Varun",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 3
+			},
+			{
+				"id": 5671575,
+				"name": "Akhil Yesodharan",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3088940,
+				"name": "Santhosh Krishnan",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5911819,
+				"name": "Vicky Nandhagopal",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 3447751,
+				"name": "Kapil Kapilan",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1470737,
+				"name": "Neha Nair",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 2455273,
+				"name": "Ratheesh Balakrishnan Poduval",
+				"profile_path": "/gEmeyBAFY2Illw7O49bDqKxQS6Q.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			}
+		]
+	}
+}
