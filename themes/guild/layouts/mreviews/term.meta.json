@@ -1,1 +1,2 @@
-{{- . | jsonify (dict "prefix" "" "indent" "\t") }}
+{{- $meta := partial "tmdb-meta.html" .LinkTitle }}
+{{- $meta | jsonify (dict "prefix" "" "indent" "\t") }}
