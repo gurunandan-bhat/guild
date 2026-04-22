@@ -1,8 +1,10 @@
-{{- $critics := slice }}
+{{- $critics := dict }}
 {{- range .Pages }}
-    {{- $reviews := site.Taxonomies.critics.Get .LinkTitle }}
-    {{- $cJson := (jsonify .) | transform.Unmarshal }}
-    {{- $cJson = merge $cJson (dict "ReviewCount" ($reviews | len)) }}
-    {{- $critics = append $critics (slice $cJson) }}
+    {{- $name := .LinkTitle }}
+    {{- $bio := (jsonify .) | transform.Unmarshal }}
+    {{- $reviews := site.Taxonomies.critics.Get $name }}
+    {{- $bio = merge $bio (dict "ReviewCount" ($reviews | len)) }}
+    {{- $hash := md5 $name }}
+    {{- $critics = merge $critics (dict $hash $bio) }}
 {{- end }}
 {{- $critics | jsonify (dict "prefix" "" "indent" "\t") }}

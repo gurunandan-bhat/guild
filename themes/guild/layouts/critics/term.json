@@ -1,7 +1,8 @@
-{{- $reviews := slice }}
+{{- $reviews := dict }}
 {{- range .Pages }}
     {{- $review := (jsonify . | transform.Unmarshal) }}
     {{- $review = merge $review (dict "Publication" (index .Params "publication")) }}
-    {{- $reviews = append $review $reviews }}
+    {{- $hash := md5 .LinkTitle }}
+    {{- $reviews = merge $reviews (dict $hash $review) }}
 {{- end }}
 {{- $reviews | jsonify (dict "prefix" "" "indent" "\t") }}
