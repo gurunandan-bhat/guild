@@ -1,0 +1,275 @@
+{
+	"id": 1481041,
+	"title": "Ginny Wedss Sunny 2",
+	"fcg_title": "Ginny Wedss Sunny 2",
+	"original_title": "गिन्नी वेड्स सन्नी 2",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 10749,
+			"name": "Romance"
+		},
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "A mismatched pair, with a storyline involving a wrestler and a vibrant girl, combining romance, comedy, and drama.",
+	"backdrop_path": "/trE9nNGSgyrSNdHgIiN42CQ12lZ.jpg",
+	"poster_path": "/8lovlbsow4B5KbznLYDNky8usgc.jpg",
+	"release_date": "2026-04-24",
+	"credits": {
+		"cast": [
+			{
+				"id": 1059474,
+				"order": 0,
+				"name": "Avinash Tiwary",
+				"profile_path": "/bJWzCbCHPFui0lgWIRDEattNntn.jpg",
+				"character": "Sunny",
+				"gender": 2
+			},
+			{
+				"id": 3112841,
+				"order": 1,
+				"name": "Medha Shankr",
+				"profile_path": "/aVemlgs6LIf1GzrpTPjyoV14Y2s.jpg",
+				"character": "Ginny / Geetanjali Goenka",
+				"gender": 1
+			},
+			{
+				"id": 85659,
+				"order": 2,
+				"name": "Govind Namdeo",
+				"profile_path": "/4PYvzEHjEXScVjYuiQxVpNpvQ18.jpg",
+				"character": "Ayodhya Prakash",
+				"gender": 2
+			},
+			{
+				"id": 6498,
+				"order": 3,
+				"name": "Lillete Dubey",
+				"profile_path": "/qeAlaycZ3ATHr2P6LV1V5LeC4hV.jpg",
+				"character": "Neelu",
+				"gender": 1
+			},
+			{
+				"id": 2202721,
+				"order": 4,
+				"name": "Vishwanath Chatterjee",
+				"character": "Pintu",
+				"gender": 2
+			},
+			{
+				"id": 657374,
+				"order": 5,
+				"name": "Sudhir Pandey",
+				"profile_path": "/ievuv0Moehpe9QYs5pzWAPobTiz.jpg",
+				"character": "Ram Sevak",
+				"gender": 2
+			},
+			{
+				"id": 1549623,
+				"order": 6,
+				"name": "Nayani Dixit",
+				"character": "Sarika"
+			},
+			{
+				"id": 1319807,
+				"order": 7,
+				"name": "Gopi Bhalla",
+				"profile_path": "/bLJjLfgU02YYcdlZz6uBONnLY6d.jpg",
+				"character": "Sugriv",
+				"gender": 2
+			},
+			{
+				"id": 2523391,
+				"order": 8,
+				"name": "Rohit Chaudhary",
+				"profile_path": "/djzlxqP3hoylxpT8gKsXDuB9hle.jpg",
+				"character": "Rudranarayan D'Costa",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 3260325,
+				"name": "Prashant Jha",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 3260325,
+				"name": "Prashant Jha",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 2518994,
+				"name": "Archit Patel",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 2355778,
+				"name": "Vinod Bachchan",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 85385,
+				"name": "Bunty Nagi",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 2449453,
+				"name": "Sunny Dagar",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3911814,
+				"name": "Daman Soni",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 6129198,
+				"name": "Usman Khan",
+				"job": "Music",
+				"department": "Sound"
+			},
+			{
+				"id": 3263378,
+				"name": "Altamash Faridi",
+				"profile_path": "/ukB1Rcyfe7oWJz0yHIdmW9Tp0nS.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2363590,
+				"name": "Amir Khusrau",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 6129200,
+				"name": "Amaan Noor",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 6129200,
+				"name": "Amaan Noor",
+				"job": "Music",
+				"department": "Sound"
+			},
+			{
+				"id": 6129201,
+				"name": "Heer",
+				"job": "Music",
+				"department": "Sound"
+			},
+			{
+				"id": 6129201,
+				"name": "Heer",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 4435320,
+				"name": "Paradox",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3649960,
+				"name": "Manju Bachchan",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3649958,
+				"name": "Soundarya Bachchan",
+				"job": "Creative Producer",
+				"department": "Writing"
+			},
+			{
+				"id": 1765169,
+				"name": "Rakesh Madhotra",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1965302,
+				"name": "Nidhi Yasha",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5386860,
+				"name": "Sachin Khate",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1668228,
+				"name": "Adil Shaikh",
+				"job": "Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 1810275,
+				"name": "Vikram Dahiya",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 233065,
+				"name": "Kumaar",
+				"profile_path": "/9sHLGuvqvmfbeh9RiaYROVQ2VUy.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4709257,
+				"name": "Devendra Kafir",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 2783444,
+				"name": "Siddhant Kaushal",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 4183216,
+				"name": "Hemanksh Kalsi",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 2616728,
+				"name": "Xavier Joseph",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 4740006,
+				"name": "Umesh Bansal",
+				"job": "Producer",
+				"department": "Production"
+			}
+		]
+	}
+}
