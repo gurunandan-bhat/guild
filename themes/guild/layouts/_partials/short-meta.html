@@ -3,9 +3,13 @@
 {{ $scoreImg := index . "scoreImg" }}
 {{ $score := partial "fcg-rating-raw" $review.LinkTitle }}
 {{ $showCast := index . "showCast" }}
+
 {{ $pageImage := $review.Params.img }}
+
 {{ $languages := hugo.Data.languages.languages }}
-{{ $reviewHref := partial "taxonomy/mreviews/reviewLink-raw.html" $review.LinkTitle }}
+
+{{ $revPage := index site.Taxonomies.mreviews (lower $review.LinkTitle) }}
+{{ $reviewHref := $revPage.Page.RelPermalink }}
 
 {{ $imgLink := partial "backdrop.html" $review }}
 {{ with partialCached "tmdb-meta.html" $review.Title $review.Title }}
