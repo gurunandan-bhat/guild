@@ -1,5 +1,5 @@
 baseURL       = 'https://www.fcgreviews.com'
-languageCode  = 'en-us'
+locale        = 'en_US.UTF-8'
 title         = 'Film Critics Guild Reviews'
 theme         = 'guild'
 summaryLength = 30
