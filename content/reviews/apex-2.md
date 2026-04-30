@@ -5,7 +5,7 @@ draft = false
 mreviews = ["Apex"]
 critics = ['Akhil Arora', 'Rohan Naahar']
 subtitle = "A Spotify Review"
-scores = [4]
+scores = [4, 5]
 +++
 
 {{< spotify id="66nyaHHJXfhuFHUGi7qVtH" height="250" >}}
