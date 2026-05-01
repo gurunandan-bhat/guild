@@ -1,0 +1,632 @@
+{
+	"id": 1314481,
+	"title": "The Devil Wears Prada 2",
+	"fcg_title": "The Devil Wears Prada 2",
+	"original_title": "The Devil Wears Prada 2",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+	"backdrop_path": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
+	"poster_path": "/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
+	"release_date": "2026-04-29",
+	"credits": {
+		"cast": [
+			{
+				"id": 5064,
+				"order": 0,
+				"name": "Meryl Streep",
+				"profile_path": "/g5cVxQBAQ3AXt3LhdBXtbbN47Uc.jpg",
+				"character": "Miranda Priestly",
+				"gender": 1
+			},
+			{
+				"id": 1813,
+				"order": 1,
+				"name": "Anne Hathaway",
+				"profile_path": "/s6tflSD20MGz04ZR2R1lZvhmC4Y.jpg",
+				"character": "Andy Sachs",
+				"gender": 1
+			},
+			{
+				"id": 5081,
+				"order": 2,
+				"name": "Emily Blunt",
+				"profile_path": "/kqsEGTXC1GATSIUVnE8lRggCZPp.jpg",
+				"character": "Emily Charlton",
+				"gender": 1
+			},
+			{
+				"id": 2283,
+				"order": 3,
+				"name": "Stanley Tucci",
+				"profile_path": "/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg",
+				"character": "Nigel Kipling",
+				"gender": 2
+			},
+			{
+				"id": 11181,
+				"order": 4,
+				"name": "Kenneth Branagh",
+				"profile_path": "/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg",
+				"character": "Stuart",
+				"gender": 2
+			},
+			{
+				"id": 15009,
+				"order": 5,
+				"name": "Justin Theroux",
+				"profile_path": "/vnI9L0rXBAw1HeC0Q8hJGeJMGAW.jpg",
+				"character": "Benji Barnes",
+				"gender": 2
+			},
+			{
+				"id": 2223752,
+				"order": 6,
+				"name": "Simone Ashley",
+				"profile_path": "/NoWUSMGBrQrX23XK7eVjHlfaqY.jpg",
+				"character": "Amari",
+				"gender": 1
+			},
+			{
+				"id": 140,
+				"order": 7,
+				"name": "Lucy Liu",
+				"profile_path": "/9nbtjqsx3De7hO2XDtrBQ7M9VCH.jpg",
+				"character": "Sasha Barnes",
+				"gender": 1
+			},
+			{
+				"id": 10580,
+				"order": 8,
+				"name": "Tracie Thoms",
+				"profile_path": "/9PKUJJtqFRbZDhme6uDzIu0mRIE.jpg",
+				"character": "Lily",
+				"gender": 1
+			},
+			{
+				"id": 1192389,
+				"order": 9,
+				"name": "Tibor Feldman",
+				"profile_path": "/b6tVKhCkNWltObwyHpGfBLuaPt6.jpg",
+				"character": "Irv Ravitz",
+				"gender": 2
+			},
+			{
+				"id": 107770,
+				"order": 10,
+				"name": "B.J. Novak",
+				"profile_path": "/o8Xf1khxhKGTz3QAplXD35opRA8.jpg",
+				"character": "Jay Ravitz",
+				"gender": 2
+			},
+			{
+				"id": 221032,
+				"order": 11,
+				"name": "Patrick Brammall",
+				"profile_path": "/cMAcEylNacHwrKAAM7LJheJKa0B.jpg",
+				"character": "Peter",
+				"gender": 2
+			},
+			{
+				"id": 2817558,
+				"order": 12,
+				"name": "Caleb Hearon",
+				"profile_path": "/wsXM7aLnEQ9W5I9mi4k01hMuw0i.jpg",
+				"character": "Charlie",
+				"gender": 2
+			},
+			{
+				"id": 5284719,
+				"order": 13,
+				"name": "Helen J. Shen",
+				"profile_path": "/78gjC8UOesWs56pzlQgZllwTW8R.jpg",
+				"character": "Jin",
+				"gender": 1
+			},
+			{
+				"id": 1453801,
+				"order": 14,
+				"name": "Rachel Bloom",
+				"profile_path": "/hfnU70X7QOdiURFEd1hM7gQIe6J.jpg",
+				"character": "Talia",
+				"gender": 1
+			},
+			{
+				"id": 1224404,
+				"order": 15,
+				"name": "Larry Mitchell",
+				"character": "Mack",
+				"gender": 2
+			},
+			{
+				"id": 5369,
+				"order": 16,
+				"name": "George C. Wolfe",
+				"profile_path": "/kH6xHlBleRUJt0c0AOAsv5DMoib.jpg",
+				"character": "Paul",
+				"gender": 2
+			},
+			{
+				"id": 4761860,
+				"order": 17,
+				"name": "Daniel Liu",
+				"profile_path": "/vUv1baUdbP25xvYcdRq0m0fL8iZ.jpg",
+				"character": "Dirk",
+				"gender": 2
+			},
+			{
+				"id": 2458820,
+				"order": 18,
+				"name": "Pauline Chalamet",
+				"profile_path": "/mVbbrdZJEccGsSWCQtoDXsxi3Ek.jpg",
+				"character": "Ilana",
+				"gender": 1
+			},
+			{
+				"id": 2408001,
+				"order": 19,
+				"name": "Bria Condon",
+				"profile_path": "/cUXiUoG4ATU2K0cKwEtVdgh6qVZ.jpg",
+				"character": "Marta",
+				"gender": 1
+			},
+			{
+				"id": 3400502,
+				"order": 20,
+				"name": "Esco Jouléy",
+				"profile_path": "/fmOilIpT78npW7zajQjOh5amLA8.jpg",
+				"character": "Jenny",
+				"gender": 3
+			},
+			{
+				"id": 2742642,
+				"order": 21,
+				"name": "Rishi Mukherjee",
+				"character": "Sandeep"
+			},
+			{
+				"id": 1422662,
+				"order": 22,
+				"name": "Wes McGee",
+				"profile_path": "/rBRVFFwSX7obgas19rGC1A4tLAx.jpg",
+				"character": "Frank",
+				"gender": 2
+			},
+			{
+				"id": 6178318,
+				"order": 23,
+				"name": "Eloise Ro",
+				"character": "Bronwyn"
+			},
+			{
+				"id": 962381,
+				"order": 24,
+				"name": "Colleen Dengel",
+				"profile_path": "/ttyeIhY9qP1uazzN9LIORCOaTfu.jpg",
+				"character": "Caroline",
+				"gender": 1
+			},
+			{
+				"id": 962382,
+				"order": 25,
+				"name": "Suzanne Dengel",
+				"profile_path": "/nEvneFEEVAGSKE2DSlhpC6YizBA.jpg",
+				"character": "Cassidy",
+				"gender": 1
+			},
+			{
+				"id": 1444791,
+				"order": 26,
+				"name": "Conrad Ricamora",
+				"profile_path": "/75eINvBtaqf2lsXzi7PIU4lo9mE.jpg",
+				"gender": 2
+			},
+			{
+				"id": 2394081,
+				"order": 27,
+				"name": "Kennedy Walsh",
+				"profile_path": "/esgIZTLvaVMynHu4koMJcddnhjP.jpg",
+				"character": "Emily’s Assistant",
+				"gender": 1
+			},
+			{
+				"id": 237405,
+				"order": 28,
+				"name": "Lady Gaga",
+				"profile_path": "/9Y4Pz7AEXhB9qNar2tMsx5EVXML.jpg",
+				"character": "Self",
+				"gender": 1
+			},
+			{
+				"id": 131722,
+				"order": 29,
+				"name": "Ciara",
+				"profile_path": "/4dqxmTgvAMhCfQPCXYW0WNbrvfI.jpg",
+				"gender": 1
+			},
+			{
+				"id": 1218565,
+				"order": 30,
+				"name": "Jenna Bush Hager",
+				"profile_path": "/qvjxbpGHl8R3aUSKex3NLujdeA7.jpg",
+				"gender": 1
+			},
+			{
+				"id": 56367,
+				"order": 31,
+				"name": "Naomi Campbell",
+				"profile_path": "/szSm9TgGVS8clzNQFGyWDfaq6OG.jpg",
+				"character": "Self",
+				"gender": 1
+			},
+			{
+				"id": 1897018,
+				"order": 32,
+				"name": "Doyoung",
+				"profile_path": "/8xLmePk1pmmj0tWTpwFIX4h43xq.jpg",
+				"character": "Self",
+				"gender": 2
+			},
+			{
+				"id": 1252016,
+				"order": 33,
+				"name": "Mun Ka-young",
+				"profile_path": "/sHOzgv3dvHZSDi5ijj5vbYYJwZ4.jpg",
+				"character": "Self",
+				"gender": 1
+			},
+			{
+				"id": 1199514,
+				"order": 34,
+				"name": "Donatella Versace",
+				"profile_path": "/mVnfGSm5oGqnkHcrUsst7xCFAHX.jpg",
+				"character": "Self",
+				"gender": 1
+			},
+			{
+				"id": 10584,
+				"order": 35,
+				"name": "Heidi Klum",
+				"profile_path": "/dITwK1mYprcZ9VX44t0m0at2HIH.jpg",
+				"character": "Self",
+				"gender": 1
+			},
+			{
+				"id": 1319469,
+				"order": 36,
+				"name": "Ronny Chieng",
+				"profile_path": "/nn1y0te102CvakOJ0rSJ7rYPLDF.jpg",
+				"character": "Self",
+				"gender": 2
+			},
+			{
+				"id": 2247352,
+				"order": 37,
+				"name": "Karl-Anthony Towns",
+				"profile_path": "/mJqHQlG5FwxTP8YVsnni9wxEhjx.jpg",
+				"character": "Self",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 10567,
+				"name": "Aline Brosh McKenna",
+				"profile_path": "/7U6a2yhwkxvOkOm9HjfDl0qUmm2.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 5065,
+				"name": "David Frankel",
+				"profile_path": "/ouq2ODK5MbbnCC72B8x29tJpKC7.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 28,
+				"name": "Wendy Finerman",
+				"profile_path": "/hHtIO8eapQ20cP3UfxhjjPnsz23.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1925690,
+				"name": "Christo Morse",
+				"profile_path": "/4NQsf9nezBB4U2b6aA5VYoSR03Q.jpg",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1635162,
+				"name": "Sean Flanigan",
+				"profile_path": "/fPwyDOkYb6UhO8VawfqNxTrYviM.jpg",
+				"job": "Hair Department Head",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1070138,
+				"name": "Nicki Ledermann",
+				"profile_path": "/k1BSZD165iDQpo6XCRTanJ1Cvpj.jpg",
+				"job": "Makeup Department Head",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1347761,
+				"name": "Jessica Lichtner",
+				"job": "Script Supervisor",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 10573,
+				"name": "Florian Ballhaus",
+				"profile_path": "/1q4MGq8PGEoUdBQRUsawBS2dvYU.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 10572,
+				"name": "Theodore Shapiro",
+				"profile_path": "/6tKiHkv6Mlc6yhh8gRN1koovdoI.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2242,
+				"name": "Ellen Lewis",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1594606,
+				"name": "Shayna Markowitz",
+				"job": "Casting",
+				"department": "Production"
+			},
+			{
+				"id": 1094563,
+				"name": "Stephanie Q. Bowen",
+				"job": "Set Decoration",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1973544,
+				"name": "David 'Gus' Gustafson",
+				"job": "Production Supervisor",
+				"department": "Production"
+			},
+			{
+				"id": 17993,
+				"name": "T.J. O'Mara",
+				"job": "Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 2396665,
+				"name": "Tracey Ruggiero",
+				"profile_path": "/mTICXn8w1d1HPNrH9oCgPL05vRr.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 995189,
+				"name": "Thomas Lappin",
+				"job": "\"A\" Camera Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1790345,
+				"name": "Katherine Soares",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects",
+				"gender": 1
+			},
+			{
+				"id": 3160484,
+				"name": "Tim Van Horn",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 10575,
+				"name": "Jess Gonchor",
+				"profile_path": "/y1hqQSKyAX9o96NRaw68ZlCPDwr.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 4868,
+				"name": "Andrew Marcus",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 58716,
+				"name": "Molly Rogers",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1401989,
+				"name": "John S. Moyer",
+				"job": "\"B\" Camera Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1401989,
+				"name": "John S. Moyer",
+				"job": "Steadicam Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1446688,
+				"name": "Andy Day",
+				"job": "Gaffer",
+				"department": "Lighting"
+			},
+			{
+				"id": 237405,
+				"name": "Lady Gaga",
+				"profile_path": "/9Y4Pz7AEXhB9qNar2tMsx5EVXML.jpg",
+				"job": "Songs",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 3557979,
+				"name": "Doechii",
+				"profile_path": "/cFioV7XQJFxCqEygoHmBpVZC7Du.jpg",
+				"job": "Songs",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 10567,
+				"name": "Aline Brosh McKenna",
+				"profile_path": "/7U6a2yhwkxvOkOm9HjfDl0qUmm2.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1124485,
+				"name": "Michael Bederman",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3216234,
+				"name": "Dani Vitale",
+				"job": "Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 2444990,
+				"name": "Roberto Baez",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3587866,
+				"name": "Anastasia Coppola",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1534641,
+				"name": "Jane DiPersio",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1869459,
+				"name": "Etzel Ecleston",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1406578,
+				"name": "Sunday Englis",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 460575,
+				"name": "Michelle Johnson",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 2333715,
+				"name": "Crystal Jurado",
+				"job": "Prosthetic Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1402921,
+				"name": "Donald McInnes",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1402921,
+				"name": "Donald McInnes",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1328146,
+				"name": "Evelyne Noraz",
+				"profile_path": "/vWlfd0cO6zotDVKxFxSJQTFb8yP.jpg",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 2901237,
+				"name": "Denna Olivieri",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1400069,
+				"name": "Angelo Bonanni",
+				"job": "Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 10568,
+				"name": "Lauren Weisberger",
+				"profile_path": "/qU6HYXfiHSvLivtPWSC2ZAoBScv.jpg",
+				"job": "Characters",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 10569,
+				"name": "Karen Rosenfelt",
+				"profile_path": "/oLPdV2FysVgAbIKURSA9SiYPwMJ.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 83655,
+				"name": "Julia Michels",
+				"job": "Music Supervisor",
+				"department": "Sound",
+				"gender": 1
+			}
+		]
+	}
+}
