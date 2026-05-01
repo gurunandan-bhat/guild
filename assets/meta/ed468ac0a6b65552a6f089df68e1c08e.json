@@ -1,0 +1,645 @@
+{
+	"id": 1007757,
+	"title": "Swapped",
+	"fcg_title": "Swapped",
+	"original_title": "Swapped",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 16,
+			"name": "Animation"
+		},
+		{
+			"id": 12,
+			"name": "Adventure"
+		},
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 10751,
+			"name": "Family"
+		},
+		{
+			"id": 14,
+			"name": "Fantasy"
+		}
+	],
+	"overview": "A tiny woodland creature and a majestic bird suddenly swap bodies, forcing them to team up to survive the wildest adventure of their lives.",
+	"backdrop_path": "/r4Tfw8CPeeI4EIHI3wH9qNkycZd.jpg",
+	"poster_path": "/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+	"release_date": "2026-05-01",
+	"credits": {
+		"cast": [
+			{
+				"id": 135651,
+				"order": 0,
+				"name": "Michael B. Jordan",
+				"profile_path": "/sMBpav8cK7t7Nk0yf4tuNOqNUyW.jpg",
+				"character": "Ollie (voice)",
+				"gender": 2
+			},
+			{
+				"id": 36594,
+				"order": 1,
+				"name": "Juno Temple",
+				"profile_path": "/n20TNExAma6q9iVcWtPRxLl7pEc.jpg",
+				"character": "Ivy (voice)",
+				"gender": 1
+			},
+			{
+				"id": 56903,
+				"order": 2,
+				"name": "Tracy Morgan",
+				"profile_path": "/ec0OJVbs6NZKMbS1yiCAJKjeoJf.jpg",
+				"character": "Boogle / Firewolf (voice)",
+				"gender": 2
+			},
+			{
+				"id": 5726,
+				"order": 3,
+				"name": "Cedric the Entertainer",
+				"profile_path": "/s6UrY5uofyxXsU5PydWBoLFReK0.jpg",
+				"character": "Caloo (voice)",
+				"gender": 2
+			},
+			{
+				"id": 95517,
+				"order": 4,
+				"name": "Justina Machado",
+				"profile_path": "/j5FaJXoyhMHlqv1l6TBdt1CH1oO.jpg",
+				"character": "Calli (voice)",
+				"gender": 1
+			},
+			{
+				"id": 41565,
+				"order": 5,
+				"name": "Nate Torrence",
+				"profile_path": "/yT9o149xPygdY0NsF9sNgiQwuru.jpg",
+				"character": "Lodd (voice)",
+				"gender": 2
+			},
+			{
+				"id": 4663666,
+				"order": 6,
+				"name": "Camden Brooks",
+				"profile_path": "/ge9FgIjRERhyylebW2Np9YwkqqR.jpg",
+				"character": "Young Ollie (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1934645,
+				"order": 7,
+				"name": "Tata Vega",
+				"profile_path": "/9SdaK2vly0Gx5yvI5rrTszh31vt.jpg",
+				"character": "Grandma / Mrs. Dung Beetle (voice)",
+				"gender": 1
+			},
+			{
+				"id": 3411764,
+				"order": 8,
+				"name": "Ambika Mod",
+				"profile_path": "/jN9HhFYPNMYIupFt6GzGnHAW88c.jpg",
+				"character": "Violet (voice)",
+				"gender": 1
+			},
+			{
+				"id": 1627501,
+				"order": 9,
+				"name": "Lolly Adefope",
+				"profile_path": "/qPS57Mw1vjydSSfSYoMw8u81waI.jpg",
+				"character": "Lily (voice)",
+				"gender": 1
+			},
+			{
+				"id": 7907,
+				"order": 10,
+				"name": "John Ratzenberger",
+				"profile_path": "/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg",
+				"character": "Elder Javan (voice)",
+				"gender": 2
+			},
+			{
+				"id": 116315,
+				"order": 11,
+				"name": "Kari Wahlgren",
+				"profile_path": "/zOr1RedcTfmntJO0gXxFkyxNBkE.jpg",
+				"character": "Female Pookoo / Nurse Javan (voice)",
+				"gender": 1
+			},
+			{
+				"id": 60279,
+				"order": 12,
+				"name": "Fred Tatasciore",
+				"profile_path": "/7pxLvE4l5mQkGzHLIEwYrc9AMFe.jpg",
+				"character": "Elder Javan 2 / Rock Bear (voice)",
+				"gender": 2
+			},
+			{
+				"id": 6181145,
+				"order": 13,
+				"name": "Zemo Tatasciore",
+				"character": "Wolf Pup (voice)"
+			},
+			{
+				"id": 571220,
+				"order": 14,
+				"name": "David Lodge",
+				"profile_path": "/1SVIavAalm6lwKjuHQoMggHH180.jpg",
+				"character": "Wolf Father (voice)",
+				"gender": 2
+			},
+			{
+				"id": 53401,
+				"order": 15,
+				"name": "Johnny Williams",
+				"profile_path": "/mQNhYK7SCzj6TY6m764ROposuRY.jpg",
+				"character": "Mr. Dung Beetle (voice)",
+				"gender": 2
+			},
+			{
+				"id": 2639875,
+				"order": 16,
+				"name": "Maven Morgan",
+				"character": "Pinecone Hedgehog (voice)",
+				"gender": 1
+			},
+			{
+				"id": 121830,
+				"order": 17,
+				"name": "Nathan Greno",
+				"profile_path": "/eFE9odW9uzWAGomGFmmusxJT1Ee.jpg",
+				"character": "Snake 1 (voice)",
+				"gender": 2
+			},
+			{
+				"id": 61958,
+				"order": 18,
+				"name": "Tim Mertens",
+				"profile_path": "/x8wRcwmplL0i9J1J31SgNulfLVG.jpg",
+				"character": "Snake 2 (voice)",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 121830,
+				"name": "Nathan Greno",
+				"profile_path": "/eFE9odW9uzWAGomGFmmusxJT1Ee.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2016630,
+				"name": "Edwin Rhemrev",
+				"profile_path": "/c0xeG8QI8PySHMHZOdKJu3SxAOb.jpg",
+				"job": "Set Designer",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 29018,
+				"name": "Dana Goldberg",
+				"profile_path": "/AtiT0HTrrrvVVjZgOXpxKxVFyAb.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 969946,
+				"name": "Jason Henkel",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1205986,
+				"name": "Mary Ellen Bauder",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 58433,
+				"name": "David Ellison",
+				"profile_path": "/gaT9cIEJPm7nWxpJyZWMy4Ayv6y.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 7879,
+				"name": "John Lasseter",
+				"profile_path": "/xlrE4VD2VbZCDpaNdWCpH1ZihPS.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1783973,
+				"name": "Siddhartha Khosla",
+				"profile_path": "/mLNa78qVRAUAUNNDcC2UvAVgRHk.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2001507,
+				"name": "Christophe Brejon",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 900,
+				"name": "Christopher Boyes",
+				"profile_path": "/tRNZcb36mHpVcVXsP1KFEEHJVK1.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 900,
+				"name": "Christopher Boyes",
+				"profile_path": "/tRNZcb36mHpVcVXsP1KFEEHJVK1.jpg",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 138618,
+				"name": "Gary Rizzo",
+				"profile_path": "/m8vT9fYRLwM8WPpJiq8QIMBSueQ.jpg",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1556632,
+				"name": "Steve Slanec",
+				"profile_path": "/2WLR6nstCBu1kx2FuxgFIDFSESy.jpg",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1313762,
+				"name": "Christian Magalhaes",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1313763,
+				"name": "Robert Snow",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1492059,
+				"name": "John Whittington",
+				"profile_path": "/oaaQ6BsmryuEeBlfTM7yAqqy874.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1492059,
+				"name": "John Whittington",
+				"profile_path": "/oaaQ6BsmryuEeBlfTM7yAqqy874.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1313762,
+				"name": "Christian Magalhaes",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 121830,
+				"name": "Nathan Greno",
+				"profile_path": "/eFE9odW9uzWAGomGFmmusxJT1Ee.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 61958,
+				"name": "Tim Mertens",
+				"profile_path": "/x8wRcwmplL0i9J1J31SgNulfLVG.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1682270,
+				"name": "Maureen Crowe",
+				"job": "Music Supervisor",
+				"department": "Sound"
+			},
+			{
+				"id": 1510442,
+				"name": "Noëlle Triaureau",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1313763,
+				"name": "Robert Snow",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 214942,
+				"name": "Adam J. Karp",
+				"profile_path": "/jm8QTTIJz34YEfGHbUw8AGC4ax1.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1999742,
+				"name": "Rafael Garrido",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 971858,
+				"name": "Kendelle Hoyer",
+				"job": "Head of Story",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 3467302,
+				"name": "Ray Shenusay",
+				"job": "Head of Story",
+				"department": "Writing"
+			},
+			{
+				"id": 1655977,
+				"name": "Juan Luis Sanchez",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1479520,
+				"name": "Albert Barba Cunill",
+				"job": "Animation Director",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2004278,
+				"name": "Chip Lotierzo",
+				"job": "Animation Director",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2001209,
+				"name": "Julen Santiago",
+				"job": "Animation Director",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 6181138,
+				"name": "Riccardo Pagni",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1461156,
+				"name": "Matt Williames",
+				"job": "Lead Character Designer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2141442,
+				"name": "Gabriel Roy",
+				"job": "CG Supervisor",
+				"department": "Crew"
+			},
+			{
+				"id": 5076180,
+				"name": "Alberto Viqueira Rodríguez",
+				"job": "CG Supervisor",
+				"department": "Crew"
+			},
+			{
+				"id": 2001908,
+				"name": "Gabe Hordos",
+				"job": "Story Artist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 587411,
+				"name": "Tom Owens",
+				"job": "Story Artist",
+				"department": "Writing"
+			},
+			{
+				"id": 15778,
+				"name": "Brian Pimental",
+				"job": "Additional Storyboarding",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 2378662,
+				"name": "Gabriel Lin",
+				"profile_path": "/rqjaVW9wwZO17TSpE44Q4YjIl1Z.jpg",
+				"job": "Additional Storyboarding",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1462624,
+				"name": "David Scott Smith",
+				"profile_path": "/5OEPryuJMKJs23BdLduqr6iC0Wh.jpg",
+				"job": "Story Artist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4137479,
+				"name": "John D. Anderson",
+				"job": "Story Artist",
+				"department": "Writing"
+			},
+			{
+				"id": 3257182,
+				"name": "Anna Lencioni",
+				"job": "Story Artist",
+				"department": "Writing"
+			},
+			{
+				"id": 2972809,
+				"name": "Clarisse Chua",
+				"job": "Story Artist",
+				"department": "Writing"
+			},
+			{
+				"id": 1077830,
+				"name": "Joseph Mateo",
+				"job": "Story Artist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4544276,
+				"name": "Abby Davies",
+				"job": "Story Artist",
+				"department": "Writing"
+			},
+			{
+				"id": 6181165,
+				"name": "Aimée Marsh",
+				"job": "Story Artist",
+				"department": "Writing"
+			},
+			{
+				"id": 2206114,
+				"name": "Ethan Hegge",
+				"job": "Story Artist",
+				"department": "Writing"
+			},
+			{
+				"id": 1463917,
+				"name": "Shawn Palmer",
+				"job": "Story Artist",
+				"department": "Writing"
+			},
+			{
+				"id": 1994834,
+				"name": "Chris Hubbard",
+				"job": "Story Artist",
+				"department": "Writing"
+			},
+			{
+				"id": 2863470,
+				"name": "Julia Gomes Rodrigues",
+				"job": "Story Artist",
+				"department": "Writing"
+			},
+			{
+				"id": 3887246,
+				"name": "Justin Hunt",
+				"job": "Story Artist",
+				"department": "Writing"
+			},
+			{
+				"id": 5076221,
+				"name": "Javier Ledesma Barbolla",
+				"job": "Story Artist",
+				"department": "Writing"
+			},
+			{
+				"id": 6181178,
+				"name": "Kaiyun Yang",
+				"job": "Story Artist",
+				"department": "Writing"
+			},
+			{
+				"id": 3752851,
+				"name": "Rhianna Ostberg",
+				"job": "Story Supervisor",
+				"department": "Writing"
+			},
+			{
+				"id": 3427661,
+				"name": "Kathleen Good",
+				"job": "Story Supervisor",
+				"department": "Writing"
+			},
+			{
+				"id": 963235,
+				"name": "Aurian Redson",
+				"job": "Story Supervisor",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1461389,
+				"name": "Russ Edmonds",
+				"job": "Additional Storyboarding",
+				"department": "Art"
+			},
+			{
+				"id": 2007731,
+				"name": "Stephen B. Moore",
+				"job": "Additional Storyboarding",
+				"department": "Art"
+			},
+			{
+				"id": 3787961,
+				"name": "Eric Elrod",
+				"job": "Additional Storyboarding",
+				"department": "Art"
+			},
+			{
+				"id": 1653765,
+				"name": "Lyndon Ruddy",
+				"job": "Additional Storyboarding",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1546875,
+				"name": "Christopher Flick",
+				"job": "Foley Supervisor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 80827,
+				"name": "Shelley Roden",
+				"job": "Foley Artist",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 8163,
+				"name": "Jana Vance",
+				"job": "Foley Artist",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 11174,
+				"name": "Dennis Leonard",
+				"profile_path": "/bjTCZiReJHogOkHJbz6r1eiiS1d.jpg",
+				"job": "Foley Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3951881,
+				"name": "Faris Hermiz",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1458009,
+				"name": "Erik Smitt",
+				"job": "Other",
+				"department": "Camera"
+			},
+			{
+				"id": 3315080,
+				"name": "Aspen Ramsdell",
+				"job": "Casting Associate",
+				"department": "Production",
+				"gender": 1
+			}
+		]
+	}
+}
