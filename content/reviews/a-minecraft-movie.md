@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-04-04T23:41:09+05:30
-draft = false
+draft = true
 img = "a-minecraft-movie.webp"
 media = "print"
 mreviews = ["A Minecraft Movie"]

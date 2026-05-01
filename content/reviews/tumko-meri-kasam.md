@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-03-22T09:35:00+05:30
-draft = false
+draft = true
 img = "tumko-meri-kasam.webp"
 media = "print"
 mreviews = ["Tumko Meri Kasam"]

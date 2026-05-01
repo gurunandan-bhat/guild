@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-06-13T18:24:41+05:30
-draft = false
+draft = true
 img = "how-to-train-your-dragon-2.webp"
 media = "print"
 mreviews = ["How to Train Your Dragon"]

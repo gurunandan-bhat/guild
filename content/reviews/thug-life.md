@@ -1,7 +1,7 @@
 +++
 critics = ["Rohit Vats"]
 date = 2025-06-05T22:29:37+05:30
-draft = false
+draft = true
 img = "thug-life.png"
 media = "print"
 mreviews = ["Thug Life"]

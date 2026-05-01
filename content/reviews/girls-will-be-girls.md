@@ -1,7 +1,7 @@
 +++
 title = 'Girls Will Be Girls'
 date = 2024-10-23T20:16:55+05:30
-draft = false
+draft = true
 mreviews = ['Girls Will Be Girls']
 critics = ['Sanyukta Thakare']
 subtitle = "Richa Chadha Backed Film Is Where Independent Cinema Meets Commerical"

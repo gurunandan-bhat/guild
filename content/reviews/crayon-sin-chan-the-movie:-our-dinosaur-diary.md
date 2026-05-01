@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-04-26T14:06:56+05:30
-draft = false
+draft = true
 img = "crayon-sin-chan-the-movie-our-dinosaur-diary.webp"
 media = "print"
 mreviews = ["Crayon Sin Chan the Movie: Our Dinosaur Diary"]

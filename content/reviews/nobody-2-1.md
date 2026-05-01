@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-08-23T17:03:37+05:30
-draft = false
+draft = true
 img = "nobody-2-1.webp"
 media = "print"
 mreviews = ["Nobody 2"]

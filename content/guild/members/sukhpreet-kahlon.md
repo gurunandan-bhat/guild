@@ -1,6 +1,6 @@
 +++
 date = 2024-09-25T12:19:31.456619+05:30
-draft = false
+draft = true
 weight = 470
 title = 'Sukhpreet Kahlon'
 organizations = ['Independent Film Critic']

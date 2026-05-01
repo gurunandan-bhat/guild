@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-06-24T18:07:27+05:30
-draft = false
+draft = true
 img = "panchayat-s04-5.webp"
 media = "print"
 mreviews = ["Panchayat S04"]

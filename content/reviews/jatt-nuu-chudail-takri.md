@@ -1,7 +1,7 @@
 +++
 critics = ["Sukhpreet Kahlon"]
 date = 2024-03-15T22:19:12+05:30
-draft = false
+draft = true
 img = "jatt-nuu-chudail-takri.webp"
 media = "print"
 mreviews = ["Jatt Nuu Chudail Takri"]

@@ -1,7 +1,7 @@
 +++
 title = "Sky Force"
 date = 2025-01-23T08:29:23+05:30
-draft = false
+draft = true
 mreviews = ["Sky Force"]
 critics = ['Sanyukta Thakare']
 publication = ''

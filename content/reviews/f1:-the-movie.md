@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-06-26T11:08:52+05:30
-draft = false
+draft = true
 img = "f1-the-movie.webp"
 media = "print"
 mreviews = ["F1: The Movie"]

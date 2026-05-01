@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-04-19T12:14:40+05:30
-draft = false
+draft = true
 img = "kesari-chapter-2-17.webp"
 media = "print"
 mreviews = ["Kesari: Chapter 2"]

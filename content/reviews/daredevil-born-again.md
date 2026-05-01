@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-03-10T22:59:13+05:30
-draft = false
+draft = true
 img = "daredevil-born-again.webp"
 media = "print"
 mreviews = ["Daredevil: Born Again"]

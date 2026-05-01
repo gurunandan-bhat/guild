@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-04-29T17:38:44+05:30
-draft = false
+draft = true
 img = "another-simple-favor-2.webp"
 media = "print"
 mreviews = ["Another Simple Favor"]

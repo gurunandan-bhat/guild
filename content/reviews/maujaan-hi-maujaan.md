@@ -1,7 +1,7 @@
 +++
 critics = ["Sukhpreet Kahlon"]
 date = 2023-10-22T22:22:00+05:30
-draft = false
+draft = true
 img = "maujaan-hi-maujaan.png"
 media = "print"
 mreviews = ["Maujaan Hi Maujaan"]

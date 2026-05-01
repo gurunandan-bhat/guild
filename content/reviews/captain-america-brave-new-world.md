@@ -1,7 +1,7 @@
 +++
 title = "Captain America Brave New World"
 date = 2025-02-15T17:34:32+05:30
-draft = false
+draft = true
 mreviews = ["Captain America Brave New World"]
 critics = ['Sanyukta Thakare']
 publication = ''

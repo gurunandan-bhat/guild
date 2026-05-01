@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-09-05T18:32:37+05:30
-draft = false
+draft = true
 img = "the-conjuring-last-rites.webp"
 media = "print"
 mreviews = ["The Conjuring: Last Rites"]

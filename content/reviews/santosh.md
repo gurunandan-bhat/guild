@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2024-10-23T20:19:26+05:30
-draft = false
+draft = true
 img = "santosh.webp"
 media = "print"
 mreviews = ["Santosh"]

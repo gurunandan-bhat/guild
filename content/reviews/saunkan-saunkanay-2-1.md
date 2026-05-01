@@ -1,7 +1,7 @@
 +++
 critics = ["Sukhpreet Kahlon"]
 date = 2025-05-31T20:05:54+05:30
-draft = false
+draft = true
 img = "saukan-saukanay-2-1.png"
 media = "print"
 mreviews = ["Saunkan Saunkanay 2"]

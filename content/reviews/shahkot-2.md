@@ -1,7 +1,7 @@
 +++
 critics = ["Sukhpreet Kahlon"]
 date = 2024-10-04T09:13:30+05:30
-draft = false
+draft = true
 img = "shahkot-2.webp"
 media = "print"
 mreviews = ["Shahkot"]

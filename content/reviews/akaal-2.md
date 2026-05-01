@@ -1,7 +1,7 @@
 +++
 critics = ["Sukhpreet Kahlon"]
 date = 2025-04-11T23:11:28+05:30
-draft = false
+draft = true
 img = "akaal-2.png"
 media = "print"
 mreviews = ["Akaal"]

@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-08-09T10:15:12+05:30
-draft = false
+draft = true
 img = "mayasabha--rise-of-the-titans-2.webp"
 media = "print"
 mreviews = ["Mayasabha - Rise of the Titans"]

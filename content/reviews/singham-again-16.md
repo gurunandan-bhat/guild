@@ -1,7 +1,7 @@
 +++
 critics = ["Rohit Vats"]
 date = 2024-12-10T18:56:25+05:30
-draft = false
+draft = true
 img = "singham-again-16.png"
 media = "print"
 mreviews = ["Singham Again"]

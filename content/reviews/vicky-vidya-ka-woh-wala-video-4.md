@@ -1,7 +1,7 @@
 +++
 title = 'Vicky Vidya Ka Woh Wala Video'
 date = 2024-10-11T16:05:41+05:30
-draft = false
+draft = true
 mreviews = ['Vicky Vidya Ka Woh Wala Video']
 critics = ['Sanyukta Thakare']
 subtitle = 'Rajkummar Rao, Triptii Dimri’s Parody Can’t Be Saved From Itself'

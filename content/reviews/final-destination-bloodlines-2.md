@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-05-14T23:06:35+05:30
-draft = false
+draft = true
 img = "final-destination-bloodlines-2.webp"
 media = "print"
 mreviews = ["Final Destination Bloodlines"]

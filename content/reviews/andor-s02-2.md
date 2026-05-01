@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-04-26T08:56:34+05:30
-draft = false
+draft = true
 img = "andor-s02-2.webp"
 media = "print"
 mreviews = ["Andor S02"]

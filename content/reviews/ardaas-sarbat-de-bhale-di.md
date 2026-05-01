@@ -1,7 +1,7 @@
 +++
 critics = ["Sukhpreet Kahlon"]
 date = 2024-09-13T19:08:03+05:30
-draft = false
+draft = true
 img = "ardaas-sarbat-de-bhale-di.webp"
 media = "print"
 mreviews = ["Ardaas Sarbat De Bhale Di"]

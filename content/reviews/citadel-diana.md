@@ -1,7 +1,7 @@
 +++
 title = 'Citadel Diana'
 date = 2024-10-11T16:08:53+05:30
-draft = false
+draft = true
 mreviews = ['Citadel Diana']
 critics = ['Sanyukta Thakare']
 subtitle = "Is It Better Than Priyanka Chopra's OG Show?"

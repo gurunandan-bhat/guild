@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-03-10T23:03:51+05:30
-draft = false
+draft = true
 img = "superboys-of-malegaon-9.webp"
 media = "print"
 mreviews = ["Superboys of Malegaon"]

@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-05-01T21:17:58+05:30
-draft = false
+draft = true
 img = "the-bhootnii.webp"
 media = "print"
 mreviews = ["The Bhootnii"]

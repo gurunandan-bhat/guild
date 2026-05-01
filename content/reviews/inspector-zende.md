@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-09-05T18:18:44+05:30
-draft = false
+draft = true
 img = "inspector-zende.webp"
 media = "print"
 mreviews = ["Inspector Zende"]

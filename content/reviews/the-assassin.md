@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-08-15T12:47:01+05:30
-draft = false
+draft = true
 img = "the-assassin.webp"
 media = "print"
 mreviews = ["The Assassin"]

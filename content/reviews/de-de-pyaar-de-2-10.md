@@ -1,7 +1,7 @@
 +++
 critics = ["Rohit Vats"]
 date = 2025-11-14T19:20:48+05:30
-draft = false
+draft = true
 media = "video"
 mreviews = ["De De Pyaar De 2"]
 scores = [6]

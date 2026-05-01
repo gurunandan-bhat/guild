@@ -1,7 +1,7 @@
 +++
 critics = ["Rohit Vats"]
 date = 2024-12-10T18:50:33+05:30
-draft = false
+draft = true
 img = "dont-move.png"
 media = "print"
 mreviews = ["Don't Move"]

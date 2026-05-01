@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-06-26T21:16:06+05:30
-draft = false
+draft = true
 img = "the-bear-s04-2.webp"
 media = "print"
 mreviews = ["The Bear S04"]

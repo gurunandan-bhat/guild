@@ -1,7 +1,7 @@
 +++
 title = 'Fateh'
 date = 2025-01-18T09:14:31+05:30
-draft = false
+draft = true
 mreviews = ['Fateh']
 critics = ['Sanyukta Thakare']
 publication = ''

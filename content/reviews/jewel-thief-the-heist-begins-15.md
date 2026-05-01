@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-04-26T08:51:45+05:30
-draft = false
+draft = true
 img = "jewel-thief-the-heist-begins-15.webp"
 media = "print"
 mreviews = ["Jewel Thief - The Heist Begins"]

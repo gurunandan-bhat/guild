@@ -1,7 +1,7 @@
 +++
 title = "Dhoom Dhaam"
 date = 2025-02-15T17:36:40+05:30
-draft = false
+draft = true
 mreviews = ["Dhoom Dhaam"]
 critics = ['Sanyukta Thakare']
 publication = ''

@@ -1,7 +1,7 @@
 +++
 critics = ["Sukhpreet Kahlon"]
 date = 2024-06-27T22:13:24+05:30
-draft = false
+draft = true
 img = "jatt-and-juliet-3-1.webp"
 media = "print"
 mreviews = ["Jatt and Juliet 3"]

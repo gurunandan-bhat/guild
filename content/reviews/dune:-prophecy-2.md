@@ -1,7 +1,7 @@
 +++
 title = "Dune: Prophecy"
 date = 2024-12-23T08:46:52+05:30
-draft = false
+draft = true
 mreviews = ["Dune: Prophecy"]
 critics = ['Sanyukta Thakare']
 publication = ''

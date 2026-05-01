@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-05-01T15:57:40+05:30
-draft = false
+draft = true
 img = "raid-2-2.webp"
 media = "print"
 mreviews = ["Raid 2"]

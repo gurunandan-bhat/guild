@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-07-31T21:54:00+05:30
-draft = false
+draft = true
 img = "dhadak-2-1.webp"
 media = "print"
 mreviews = ["Dhadak 2"]

@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-08-15T12:44:59+05:30
-draft = false
+draft = true
 img = "tehran-3.webp"
 media = "print"
 mreviews = ["Tehran"]

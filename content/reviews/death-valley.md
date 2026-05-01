@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-06-03T18:18:35+05:30
-draft = false
+draft = true
 img = "death-valley.webp"
 media = "print"
 mreviews = ["Death Valley"]

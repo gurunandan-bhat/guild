@@ -1,7 +1,7 @@
 +++
 title = 'The Shameless'
 date = 2024-10-23T20:22:00+05:30
-draft = false
+draft = true
 mreviews = ['The Shameless']
 critics = ['Sanyukta Thakare']
 subtitle = "Cannes Winner Comes With Radical Performances And Bleak Status Of Indian Women"

@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-03-22T09:37:09+05:30
-draft = false
+draft = true
 img = "snow-white.webp"
 media = "print"
 mreviews = ["Snow White"]

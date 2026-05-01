@@ -1,7 +1,7 @@
 +++
 critics = ["Rohit Vats"]
 date = 2024-12-10T18:46:10+05:30
-draft = false
+draft = true
 img = "tortoise-under-the-earth.png"
 media = "print"
 mreviews = ["Tortoise Under the Earth"]

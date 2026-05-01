@@ -1,7 +1,7 @@
 +++
 critics = ["Sukhpreet Kahlon"]
 date = 2025-07-19T23:19:26+05:30
-draft = false
+draft = true
 img = "sarbala-ji.webp"
 media = "print"
 mreviews = ["Sarbala Ji"]

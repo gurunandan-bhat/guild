@@ -1,7 +1,7 @@
 +++
 title = 'Do Patti'
 date = 2024-10-25T23:44:57+05:30
-draft = false
+draft = true
 mreviews = ['Do Patti']
 critics = ['Sanyukta Thakare']
 subtitle = "Kriti Sanon, Kanika Dhillon Film Sounds Good Only On Paper"

@@ -1,7 +1,7 @@
 +++
 critics = ["Sukhpreet Kahlon"]
 date = 2024-09-27T09:18:16+05:30
-draft = false
+draft = true
 img = "shukrana.webp"
 media = "print"
 mreviews = ["Shukrana"]

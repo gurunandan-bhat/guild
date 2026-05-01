@@ -1,7 +1,7 @@
 +++
 title = 'The Wild Robot'
 date = 2024-10-16T16:03:20+05:30
-draft = false
+draft = true
 mreviews = ['The Wild Robot']
 critics = ['Sanyukta Thakare']
 subtitle = "Best Animated Film Of The Year"

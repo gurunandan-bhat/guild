@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-09-08T22:11:20+05:30
-draft = false
+draft = true
 img = "only-murders-in-the-building-s05-1.webp"
 media = "print"
 mreviews = ["Only Murders in the Building S05"]

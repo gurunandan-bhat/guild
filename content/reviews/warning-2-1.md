@@ -1,7 +1,7 @@
 +++
 critics = ["Sukhpreet Kahlon"]
 date = 2024-02-02T23:29:25+05:30
-draft = false
+draft = true
 img = "warning-2-1.png"
 media = "print"
 mreviews = ["Warning 2"]

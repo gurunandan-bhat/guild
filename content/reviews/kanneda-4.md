@@ -1,7 +1,7 @@
 +++
 critics = ["Rohit Vats"]
 date = 2025-03-21T17:28:55+05:30
-draft = false
+draft = true
 img = "kanneda-4.png"
 media = "print"
 mreviews = ["Kanneda"]

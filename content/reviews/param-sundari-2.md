@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-08-29T19:37:50+05:30
-draft = false
+draft = true
 img = "param-sundari-2.webp"
 media = "print"
 mreviews = ["Param Sundari"]

@@ -1,7 +1,7 @@
 +++
 title = "The Mehta Boys"
 date = 2025-02-07T08:21:00+05:30
-draft = false
+draft = true
 mreviews = ["The Mehta Boys"]
 critics = ['Sanyukta Thakare']
 publication = ''

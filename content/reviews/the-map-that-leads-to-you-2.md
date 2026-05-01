@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-08-23T16:57:06+05:30
-draft = false
+draft = true
 img = "the-map-that-leads-to-you-2.webp"
 media = "print"
 mreviews = ["The Map That Leads to You"]

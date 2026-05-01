@@ -1,6 +1,6 @@
 +++
 date = 2024-09-25T12:19:31.454202+05:30
-draft = false
+draft = true
 weight = 300
 title = 'Rohit Vats'
 organizations = ['Bajarbattu Media']

@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-06-02T18:10:54+05:30
-draft = false
+draft = true
 img = "karate-kid-legends-4.webp"
 media = "print"
 mreviews = ["Karate Kid: Legends"]

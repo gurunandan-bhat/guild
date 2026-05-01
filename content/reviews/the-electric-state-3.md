@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-03-13T09:41:53+05:30
-draft = false
+draft = true
 img = "the-electric-state-3.webp"
 media = "print"
 mreviews = ["The Electric State"]

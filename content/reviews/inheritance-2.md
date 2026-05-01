@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-05-23T14:24:57+05:30
-draft = false
+draft = true
 img = "inheritance-2.webp"
 media = "print"
 mreviews = ["Inheritance"]

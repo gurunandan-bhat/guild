@@ -1,7 +1,7 @@
 +++
 title = "Deva"
 date = 2025-01-31T08:26:46+05:30
-draft = false
+draft = true
 mreviews = ["Deva"]
 critics = ['Sanyukta Thakare']
 publication = ''

@@ -1,7 +1,7 @@
 +++
 critics = ["Rohit Vats"]
 date = 2024-12-10T18:48:26+05:30
-draft = false
+draft = true
 img = "do-patti-18.png"
 media = "print"
 mreviews = ["Do Patti"]

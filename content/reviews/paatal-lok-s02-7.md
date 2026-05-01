@@ -1,7 +1,7 @@
 +++
 critics = ["Rohit Vats"]
 date = 2025-01-20T00:04:57+05:30
-draft = false
+draft = true
 img = "paatal-lok-s02-7.png"
 media = "print"
 mreviews = ["Paatal Lok S02"]

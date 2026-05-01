@@ -1,7 +1,7 @@
 +++
 critics = ["Rohit Vats"]
 date = 2025-05-13T18:17:08+05:30
-draft = false
+draft = true
 img = "the-royals-13.png"
 media = "print"
 mreviews = ["The Royals"]

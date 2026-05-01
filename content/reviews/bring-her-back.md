@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-08-23T17:00:12+05:30
-draft = false
+draft = true
 img = "bring-her-back.webp"
 media = "print"
 mreviews = ["Bring Her Back"]

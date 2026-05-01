@@ -1,7 +1,7 @@
 +++
 title = "Bridget Jones: Mad About the Boy"
 date = 2025-02-15T17:31:35+05:30
-draft = false
+draft = true
 mreviews = ["Bridget Jones: Mad About the Boy"]
 critics = ['Sanyukta Thakare']
 publication = ''

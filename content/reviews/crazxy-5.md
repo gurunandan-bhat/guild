@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-03-10T23:01:30+05:30
-draft = false
+draft = true
 img = "crazxy-5.webp"
 media = "print"
 mreviews = ["Crazxy"]

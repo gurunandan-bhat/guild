@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-06-13T18:39:22+05:30
-draft = false
+draft = true
 img = "the-prosecutor.webp"
 media = "print"
 mreviews = ["The Prosecutor"]

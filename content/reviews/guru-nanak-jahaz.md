@@ -1,7 +1,7 @@
 +++
 critics = ["Sukhpreet Kahlon"]
 date = 2025-05-02T23:00:38+05:30
-draft = false
+draft = true
 img = "guru-nanak-jahaz.png"
 media = "print"
 mreviews = ["Guru Nanak Jahaz"]

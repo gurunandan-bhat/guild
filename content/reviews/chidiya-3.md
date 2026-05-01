@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-05-31T19:52:03+05:30
-draft = false
+draft = true
 img = "chidiya-3.webp"
 media = "print"
 mreviews = ["Chidiya"]
