@@ -1,0 +1,246 @@
+{
+	"id": 283657,
+	"name": "Glory",
+	"fcg_title": "Glory",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 9648,
+			"name": "Mystery"
+		},
+		{
+			"id": 10759,
+			"name": "Action \u0026 Adventure"
+		}
+	],
+	"overview": "In a small-town boxing hub, two brothers investigate a shocking murder while navigating a troubled reunion with their father, a renowned coach.",
+	"backdrop_path": "/o9rD068PXoATK5H5Z3W2sJ4fA60.jpg",
+	"poster_path": "/me0d4WfypZAisvB9teXanEfPVxC.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 1158934,
+				"order": 0,
+				"name": "Divyendu Sharma",
+				"profile_path": "/rGlCCQtOBiNJULfB5w0FXgPPKw0.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1040492,
+				"order": 1,
+				"name": "Pulkit Samrat",
+				"profile_path": "/rS6AGPGqQfyKO3QSOeXZQQAIQgT.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1629321,
+				"order": 2,
+				"name": "Suvinder Vicky",
+				"profile_path": "/6T3Y0jvLMdMw19ShLZvLNHIkaSD.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1421861,
+				"order": 3,
+				"name": "Sayani Gupta",
+				"profile_path": "/ZswP4g0UHDYvZLI2HlWzEcbvEN.jpg",
+				"gender": 1
+			},
+			{
+				"id": 86508,
+				"order": 4,
+				"name": "Ashutosh Rana",
+				"profile_path": "/jFlhAoEP3KGEXO3SXCA4YLM2Goc.jpg",
+				"gender": 2
+			},
+			{
+				"id": 237723,
+				"order": 5,
+				"name": "Jannat Zubair Rahmani",
+				"profile_path": "/b7HBjn0Pfk9noE0xoNGOs9H1LNd.jpg",
+				"gender": 1
+			},
+			{
+				"id": 229123,
+				"order": 6,
+				"name": "Sikandar Kher",
+				"profile_path": "/sULXachczStfQLegNVmxcvuUTWZ.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1974138,
+				"order": 7,
+				"name": "Vishal Vashishtha",
+				"profile_path": "/gxvmaEsTW1HnhnHLZOb7CNQmJIp.jpg",
+				"gender": 2
+			},
+			{
+				"id": 4309122,
+				"order": 8,
+				"name": "Kunal Thakur",
+				"profile_path": "/jN469r2ZQ2fzM88r8ZqJ3szxknL.jpg"
+			},
+			{
+				"id": 2501963,
+				"order": 9,
+				"name": "Kashmira Pardesi",
+				"profile_path": "/3nT10oCJ9xU5Me6UzC3vGdBIlxG.jpg",
+				"gender": 1
+			},
+			{
+				"id": 85656,
+				"order": 10,
+				"name": "Zakir Hussain",
+				"profile_path": "/etiL0ANjzBhTiyvUblZl6vwIog9.jpg",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1491429,
+				"name": "Karan Anshuman",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1491429,
+				"name": "Karan Anshuman",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 4226039,
+				"name": "Mohit Shah",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2829787,
+				"name": "Kanishk Verma",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1491429,
+				"name": "Karan Anshuman",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4608226,
+				"name": "Karmanya Ahuja",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 2051586,
+				"name": "Arif Mir",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1708060,
+				"name": "Nishant Pandey",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2806641,
+				"name": "Vaibhav Vishal",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 2815617,
+				"name": "John Schmidt",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2835272,
+				"name": "Sonam Singh",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 2415804,
+				"name": "Abhijit Gaonkar",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1830337,
+				"name": "Manan Mehta",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 2118197,
+				"name": "Maahir Zaveri",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1708062,
+				"name": "Anmol Ahuja",
+				"job": "Casting Director",
+				"department": "Production"
+			},
+			{
+				"id": 234990,
+				"name": "Brahim Achabbakhe",
+				"profile_path": "/vmvgvldLCBOPASWJbrWcEcvDrAZ.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1756127,
+				"name": "Theia Tekchandaney",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1775463,
+				"name": "John Stewart Eduri",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 1668226,
+				"name": "Vivek Sachidanand",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1640326,
+				"name": "Preetisheel Singh",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 2119242,
+				"name": "Anuj Deshpande",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2051152,
+				"name": "Chinmay Ogale",
+				"job": "Post Producer",
+				"department": "Production"
+			}
+		]
+	}
+}

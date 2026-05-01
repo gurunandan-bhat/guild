@@ -1,0 +1,319 @@
+{
+	"id": 1247165,
+	"title": "Raja Shivaji",
+	"fcg_title": "Raja Shivaji",
+	"original_title": "राजा शिवाजी",
+	"original_language": "mr",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 36,
+			"name": "History"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Chronicles the rise of young Shivaji Bhonsale, who challenged the might of established empires to found the Maratha kingdom and lay the groundwork for 'Swarajya' (self-rule) during a turbulent period of Indian history.",
+	"poster_path": "/hljQF3Ly6PzQe7iaNs9fmFuBYWj.jpg",
+	"release_date": "2026-05-01",
+	"credits": {
+		"cast": [
+			{
+				"id": 84957,
+				"order": 0,
+				"name": "Riteish Deshmukh",
+				"profile_path": "/b4Mwk9dDgMS82269iBX7V1YsOpu.jpg",
+				"character": "Chhatrapati Shivaji Maharaj",
+				"gender": 2
+			},
+			{
+				"id": 85881,
+				"order": 1,
+				"name": "Sanjay Dutt",
+				"profile_path": "/oq4pnvWhl1HxKpp0KVlSfAr3Tiu.jpg",
+				"character": "Afzal Khan",
+				"gender": 2
+			},
+			{
+				"id": 35793,
+				"order": 2,
+				"name": "Abhishek Bachchan",
+				"profile_path": "/cALtfAvfUtS0Luf8MZaSiLfFRwd.jpg",
+				"character": "Sambhaji Shahaji Bhosale",
+				"gender": 2
+			},
+			{
+				"id": 85456,
+				"order": 3,
+				"name": "Mahesh Manjrekar",
+				"profile_path": "/4lFytre6m4SruIUpUIoyNjsMo7F.jpg",
+				"character": "Lakhuji Jadhav",
+				"gender": 2
+			},
+			{
+				"id": 85589,
+				"order": 4,
+				"name": "Sachin Khedekar",
+				"profile_path": "/jRSgXFTDAbAb4RsW9nvNYsdhxWo.jpg",
+				"character": "Dadoji Kondadeo",
+				"gender": 2
+			},
+			{
+				"id": 87358,
+				"order": 5,
+				"name": "Genelia D'Souza",
+				"profile_path": "/q4g6maGv227VuxGQdtNfyJ1SKXR.jpg",
+				"character": "Rani Saibai",
+				"gender": 1
+			},
+			{
+				"id": 35068,
+				"order": 6,
+				"name": "Vidya Balan",
+				"profile_path": "/kKZydReqqovZ0dN3CmqbFS3uyUD.jpg",
+				"character": "Tajul Mukkhidarat Haji Badi Sahiba",
+				"gender": 1
+			},
+			{
+				"id": 119269,
+				"order": 7,
+				"name": "Bhagyashree",
+				"profile_path": "/x1JU9HYF6CSm9G92js53EmA00lS.jpg",
+				"character": "Jijabai",
+				"gender": 1
+			},
+			{
+				"id": 35069,
+				"order": 8,
+				"name": "Fardeen Khan",
+				"profile_path": "/pr3VEjdUTOKSNBFHgwjH9rOT5nC.jpg",
+				"character": "Shah Jahan",
+				"gender": 2
+			},
+			{
+				"id": 1148989,
+				"order": 9,
+				"name": "Jitendra Joshi",
+				"profile_path": "/rUtSbkJXDwk3jmLiO0Zt8oNgIMO.jpg",
+				"gender": 2
+			},
+			{
+				"id": 52773,
+				"order": 10,
+				"name": "Amole Gupte",
+				"profile_path": "/wBGlaN2N16y3Hoco2piGRwhNTX5.jpg",
+				"character": "Mohammed Adil Shah",
+				"gender": 2
+			},
+			{
+				"id": 42802,
+				"order": 11,
+				"name": "Salman Khan",
+				"profile_path": "/n7pKtccmf2jVOz8Qn90q2ThqLge.jpg",
+				"character": "Jeeva Mahala",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 84957,
+				"name": "Riteish Deshmukh",
+				"profile_path": "/b4Mwk9dDgMS82269iBX7V1YsOpu.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 87358,
+				"name": "Genelia D'Souza",
+				"profile_path": "/q4g6maGv227VuxGQdtNfyJ1SKXR.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1658334,
+				"name": "Jyoti Deshpande",
+				"profile_path": "/fpbj5f3Uny0xdyPU8Qt5dMbi1PT.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 84957,
+				"name": "Riteish Deshmukh",
+				"profile_path": "/b4Mwk9dDgMS82269iBX7V1YsOpu.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1755493,
+				"name": "Parvez Shaikh",
+				"job": "Action Director",
+				"department": "Directing"
+			},
+			{
+				"id": 132185,
+				"name": "Dawid Szatarski",
+				"profile_path": "/pyHfVQKcWYZKrJ8TBrFObCcMRL8.jpg",
+				"job": "Action Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 4363843,
+				"name": "Apurva Bhagat",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 2119253,
+				"name": "Nikhil S Kovale",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 231574,
+				"name": "Shashank Tere",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 37236,
+				"name": "Santosh Sivan",
+				"profile_path": "/7COuX4wHedARjHSsMU51rzXD1GP.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2061181,
+				"name": "Ajay Gogavale",
+				"profile_path": "/lzcGuYPJSIopatcL5aNWuUeaZVQ.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1055967,
+				"name": "Atul Gogavale",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3251359,
+				"name": "Prajakt Deshmukh",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 4137022,
+				"name": "Urvashi Saxena",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1775463,
+				"name": "John Stewart Eduri",
+				"job": "Sound",
+				"department": "Sound"
+			},
+			{
+				"id": 6108455,
+				"name": "Nandita Sachdev",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2226632,
+				"name": "Rohan Mapuskar",
+				"job": "Casting Director",
+				"department": "Production"
+			},
+			{
+				"id": 3420518,
+				"name": "Parikshit Lalvani",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 1586803,
+				"name": "Kunal Uday Mehta",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1760309,
+				"name": "Manoshi Nath",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1760310,
+				"name": "Rushi Sharma",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3636231,
+				"name": "Poornima Oak",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1170143,
+				"name": "Remo D'Souza",
+				"profile_path": "/iCCUtRN2ucH8hIRwTr1DKurln7c.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2303084,
+				"name": "Nitin Indulkar",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2057550,
+				"name": "Aalim Hakim",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5665362,
+				"name": "Charul Patil",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 3781218,
+				"name": "Swapnil Ambre",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2149909,
+				"name": "Ashirwad Hadkar",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 6108468,
+				"name": "Pushpndra Dubey",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			}
+		]
+	}
+}
