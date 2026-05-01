@@ -10,4 +10,4 @@ scores = [4, 5]
 
 {{< spotify id="66nyaHHJXfhuFHUGi7qVtH" height="250" >}}
 
-Apex—the new Netflix survival thriller starring Charlize Theron and Taron Egerton—is like an anti-Australia propaganda video paid for by people still traumatised by the 2023 Cricket World Cup final. We discuss Netflix’s dedication to making instantly forgettable movies, its digitally created natural landscapes, and its by-the-numbers plot that has exactly two unexpected twists.
+Apex—the new Netflix survival thriller starring Charlize Theron and Taron Egerton—is like an anti-Australia propaganda video paid for by people still traumatised by the 2003 Cricket World Cup final. We discuss Netflix’s dedication to making instantly forgettable movies, its digitally created natural landscapes, and its by-the-numbers plot that has exactly two unexpected twists.
