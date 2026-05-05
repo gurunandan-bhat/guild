@@ -1,0 +1,281 @@
+{
+	"id": 1576377,
+	"title": "Jetlee",
+	"fcg_title": "Jetlee",
+	"original_title": "జెట్‌లీ",
+	"original_language": "te",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "An attendant on a flight from Dubai to Kochi gets caught up in a dangerous situation.",
+	"backdrop_path": "/xh6ckq6XwAdkN7Z8lHIPT7jMhvT.jpg",
+	"poster_path": "/wNqDTEXvDNNFD1aWYNou4uuDoPq.jpg",
+	"release_date": "2026-05-01",
+	"credits": {
+		"cast": [
+			{
+				"id": 1638503,
+				"order": 0,
+				"name": "Satya",
+				"profile_path": "/fWHqfjiqnORU6R2fqwiJnowujdP.jpg",
+				"gender": 2
+			},
+			{
+				"id": 5267895,
+				"order": 1,
+				"name": "Rhea Singha",
+				"profile_path": "/yQ8MowIb0NsdaAUkeyOakMTe7of.jpg",
+				"character": "Shivani Roy"
+			},
+			{
+				"id": 146147,
+				"order": 2,
+				"name": "Vennela Kishore",
+				"profile_path": "/8a0mcxMPjD4KR15gyE5QmbDeTub.jpg",
+				"gender": 2
+			},
+			{
+				"id": 586625,
+				"order": 3,
+				"name": "Ajay",
+				"profile_path": "/uByCHJa3eaCL0SgFGDYYLlsVggC.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1638514,
+				"order": 4,
+				"name": "Harsha Chemudu",
+				"profile_path": "/be0atwoQTudy7WaVCNwWbQuxjvG.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1543640,
+				"order": 5,
+				"name": "Kabir Duhan Singh",
+				"profile_path": "/lAVAxFARP63oTHMYWpwHrWsXPWa.jpg",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 2489737,
+				"name": "Ritesh Rana",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2225047,
+				"name": "Kaala Bhairava",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2055703,
+				"name": "Chiranjeevi Pedamallu",
+				"profile_path": "/ywaZhxvO0LfPOmdFnle2x2fRftq.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3160261,
+				"name": "Hemalatha Pedamallu",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1648660,
+				"name": "Naveen Yerneni",
+				"profile_path": "/iestiUKLGHblxeQtI0DF5ENCxLW.jpg",
+				"job": "Presenter",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1648659,
+				"name": "Y. Ravi Shankar",
+				"profile_path": "/stZ6Fzi96nUlWyomx7hhXcqBQiX.jpg",
+				"job": "Presenter",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 5815798,
+				"name": "Jeyendhra Aerrola",
+				"job": "Story",
+				"department": "Writing"
+			},
+			{
+				"id": 2489737,
+				"name": "Ritesh Rana",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2489737,
+				"name": "Ritesh Rana",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5815798,
+				"name": "Jeyendhra Aerrola",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 3310467,
+				"name": "Suresh Sarangam",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2160296,
+				"name": "Karthika Srinivas",
+				"profile_path": "/sIG1GLTq0CizSQP15qjHg7GzVw6.jpg",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 5815800,
+				"name": "Teja R",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3458549,
+				"name": "Wing Chun Anji",
+				"job": "Action Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 5439997,
+				"name": "Chukka Vijay Kumar",
+				"job": "Co-Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2489737,
+				"name": "Ritesh Rana",
+				"job": "Dialogue",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5914867,
+				"name": "Ananya Pedamallu",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3280346,
+				"name": "Sai Somayajulu",
+				"profile_path": "/2KWqebPdAQvkOrLvvDbwMVGSbRK.jpg",
+				"job": "Writers' Assistant",
+				"department": "Writing"
+			},
+			{
+				"id": 5914879,
+				"name": "Vikram Ramireddy",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5914880,
+				"name": "Kaushik Raju",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5914882,
+				"name": "Prabhav Karri",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2041624,
+				"name": "Raghunath Kamisetty",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3285138,
+				"name": "P. Syam",
+				"job": "Publicist",
+				"department": "Production"
+			},
+			{
+				"id": 5914887,
+				"name": "Hrishikesh Cheemalamarri",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2200190,
+				"name": "Vamsi Shekar",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 5914888,
+				"name": "Melam Charan Kumar",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 3775949,
+				"name": "Arun Sangameshwar",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 3346973,
+				"name": "Narni Srinivas",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 3280346,
+				"name": "Sai Somayajulu",
+				"profile_path": "/2KWqebPdAQvkOrLvvDbwMVGSbRK.jpg",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 1811922,
+				"name": "Sravana Bhargavi",
+				"profile_path": "/jcozbJhgXANWyPFNGO9xKtu46TI.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 3307646,
+				"name": "Vijay Polaki",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			}
+		]
+	}
+}
