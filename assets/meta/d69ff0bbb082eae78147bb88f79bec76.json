@@ -12,5 +12,43 @@
 	"overview": "When four wide-eyed first-year students enter the world of engineering, they undergo a rude shock as they face the harsh realities of college life.",
 	"backdrop_path": "/qyecRYsEVQ5Pq5Nt0AQ70wl8OOi.jpg",
 	"poster_path": "/o04GVavxTuTWCNrtbllGrQiRvbp.jpg",
-	"credits": {}
+	"credits": {
+		"cast": [
+			{
+				"id": 544987,
+				"order": 0,
+				"name": "Bindu Madhavi",
+				"profile_path": "/k74x48kELHXy5JxRkrJmO3t2Ndu.jpg",
+				"gender": 1
+			},
+			{
+				"id": 5996343,
+				"order": 1,
+				"name": "Sindhu Reddy"
+			},
+			{
+				"id": 6191245,
+				"order": 2,
+				"name": "Anthony Karthik"
+			},
+			{
+				"id": 6191246,
+				"order": 3,
+				"name": "Geeravani Reddy"
+			},
+			{
+				"id": 6191249,
+				"order": 4,
+				"name": "Sai Sriraam Vemparaa"
+			}
+		],
+		"crew": [
+			{
+				"id": 4434447,
+				"name": "Anu Prasad",
+				"job": "Director",
+				"department": "Directing"
+			}
+		]
+	}
 }
