@@ -1,0 +1,109 @@
+{
+	"id": 855297,
+	"title": "Dug Dug",
+	"fcg_title": "Dug Dug",
+	"original_title": "डुग डुग",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 10402,
+			"name": "Music"
+		}
+	],
+	"overview": "Mysterious events in the wake of a freak motorcycle accident sow the seeds of a new religion.",
+	"backdrop_path": "/7olSqubrKWFycRwBv9bu16qHmDb.jpg",
+	"poster_path": "/iMCg4KJXsfrOl5zUya5z3xYc4Qj.jpg",
+	"release_date": "2026-05-08",
+	"credits": {
+		"cast": [
+			{
+				"id": 3176904,
+				"order": 0,
+				"name": "Altaf Khan",
+				"character": "Thakur Sa"
+			},
+			{
+				"id": 3176905,
+				"order": 1,
+				"name": "Gaurav Soni",
+				"character": "Pyare Lal"
+			},
+			{
+				"id": 3176907,
+				"order": 2,
+				"name": "Yogendra Singh",
+				"character": "Badri"
+			},
+			{
+				"id": 3403983,
+				"order": 3,
+				"name": "Durgalal Saini",
+				"character": "Manfool"
+			},
+			{
+				"id": 1938694,
+				"order": 4,
+				"name": "Sarvesh Vyas",
+				"character": "Inspector"
+			}
+		],
+		"crew": [
+			{
+				"id": 3176903,
+				"name": "Ritwik Pareek",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 3403986,
+				"name": "Aditya S Kumar",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1560312,
+				"name": "Bijith Bala",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 3403987,
+				"name": "Prerna Pareek",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3176903,
+				"name": "Ritwik Pareek",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3403991,
+				"name": "Ranjit Singh",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1682058,
+				"name": "Siddharth Dubey",
+				"job": "Sound",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3176903,
+				"name": "Ritwik Pareek",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			}
+		]
+	}
+}
