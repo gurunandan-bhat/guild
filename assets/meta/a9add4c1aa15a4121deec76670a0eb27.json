@@ -1,0 +1,491 @@
+{
+	"id": 1301421,
+	"title": "The Sheep Detectives",
+	"fcg_title": "The Sheep Detectives",
+	"original_title": "The Sheep Detectives",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 10751,
+			"name": "Family"
+		},
+		{
+			"id": 9648,
+			"name": "Mystery"
+		}
+	],
+	"overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
+	"backdrop_path": "/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
+	"poster_path": "/hTirV44jiLh6NqdiB6jtxPsDIoG.jpg",
+	"release_date": "2026-04-30",
+	"credits": {
+		"cast": [
+			{
+				"id": 6968,
+				"order": 0,
+				"name": "Hugh Jackman",
+				"profile_path": "/oX6CpXmnXCHLyqsa4NEed1DZAKx.jpg",
+				"character": "George Hardy",
+				"gender": 2
+			},
+			{
+				"id": 7056,
+				"order": 1,
+				"name": "Emma Thompson",
+				"profile_path": "/zQ0hWHh3tzaOOziPbABQI8s9WCu.jpg",
+				"character": "Lydia Harbottle",
+				"gender": 1
+			},
+			{
+				"id": 85139,
+				"order": 2,
+				"name": "Nicholas Braun",
+				"profile_path": "/b2I6bZptuld3pjlVkYIy4DtMKGg.jpg",
+				"character": "Tim Derry",
+				"gender": 2
+			},
+			{
+				"id": 1425934,
+				"order": 3,
+				"name": "Nicholas Galitzine",
+				"profile_path": "/hG4rH7eBMs117746bBOd8fUa4PA.jpg",
+				"character": "Elliot Matthews",
+				"gender": 2
+			},
+			{
+				"id": 1782117,
+				"order": 4,
+				"name": "Molly Gordon",
+				"profile_path": "/9aetjZLHPK1U9k1fI3svTZYytRL.jpg",
+				"character": "Rebecca Hampstead",
+				"gender": 1
+			},
+			{
+				"id": 1360317,
+				"order": 5,
+				"name": "Hong Chau",
+				"profile_path": "/yGEw6uiSUBo838HkiCARs4BR40y.jpg",
+				"character": "Beth Pennock",
+				"gender": 1
+			},
+			{
+				"id": 1360152,
+				"order": 6,
+				"name": "Tosin Cole",
+				"profile_path": "/8sFFg9Pw2OmAXPr4Lhql8ANzd4e.jpg",
+				"character": "Caleb Merrow",
+				"gender": 2
+			},
+			{
+				"id": 202775,
+				"order": 7,
+				"name": "Kobna Holdbrook-Smith",
+				"profile_path": "/6KNQjNWVdosnKAehV7FHpxQV2dD.jpg",
+				"character": "Reverend Hillcoate",
+				"gender": 2
+			},
+			{
+				"id": 84423,
+				"order": 8,
+				"name": "Conleth Hill",
+				"profile_path": "/rMllryXDXq6NyJfmvakC775M9nR.jpg",
+				"character": "Ham Gilyard",
+				"gender": 2
+			},
+			{
+				"id": 1399747,
+				"order": 9,
+				"name": "Mandeep Dhillon",
+				"profile_path": "/rVlSWINjaCMFWqkHpkjYy3zECka.jpg",
+				"character": "Postwoman Jo",
+				"gender": 1
+			},
+			{
+				"id": 17419,
+				"order": 10,
+				"name": "Bryan Cranston",
+				"profile_path": "/npIIZJGSrcJIJ6yHdmbqO6Jzo5I.jpg",
+				"character": "Sebastian (voice)",
+				"gender": 2
+			},
+			{
+				"id": 15886,
+				"order": 11,
+				"name": "Julia Louis-Dreyfus",
+				"profile_path": "/iEfHQNrVbVFesDPjdySom9nqsFg.jpg",
+				"character": "Lily (voice)",
+				"gender": 1
+			},
+			{
+				"id": 40477,
+				"order": 12,
+				"name": "Chris O'Dowd",
+				"profile_path": "/xhfgliN8DInDVBliPq7JDeKNCvz.jpg",
+				"character": "Mopple (voice)",
+				"gender": 2
+			},
+			{
+				"id": 35705,
+				"order": 13,
+				"name": "Regina Hall",
+				"profile_path": "/jiFZ4xNrvUUZLBHnJu71CvdN4kj.jpg",
+				"character": "Cloud (voice)",
+				"gender": 1
+			},
+			{
+				"id": 2387,
+				"order": 14,
+				"name": "Patrick Stewart",
+				"profile_path": "/ufqtnLh3JJjPbEgxEag3MM5nZyv.jpg",
+				"character": "Sir Ritchfield (voice)",
+				"gender": 2
+			},
+			{
+				"id": 21422,
+				"order": 15,
+				"name": "Brett Goldstein",
+				"profile_path": "/xYdFNE7EkncE8uiPJzT3RrkqcAQ.jpg",
+				"character": "Reggie / Ronnie (voice)",
+				"gender": 2
+			},
+			{
+				"id": 82666,
+				"order": 16,
+				"name": "Rhys Darby",
+				"profile_path": "/9lvTJroJAaAopBQlslx2LOBYJv.jpg",
+				"character": "Wool-Eyes (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1668004,
+				"order": 17,
+				"name": "Bella Ramsey",
+				"profile_path": "/vDbgxc7RYawpB1wK7JDEj62j06H.jpg",
+				"character": "Zora (voice)",
+				"gender": 3
+			},
+			{
+				"id": 35159,
+				"order": 18,
+				"name": "Laraine Newman",
+				"profile_path": "/wlc9dpH0GdWiXBRDzGMuUQcoPKe.jpg",
+				"character": "Fainting Sheep (voice)",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 2238,
+				"name": "Eric Fellner",
+				"profile_path": "/8fEalki5uMWg97FVDk3l2kvf2Dt.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1446624,
+				"name": "Tim Wellspring",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2236,
+				"name": "Tim Bevan",
+				"profile_path": "/nyeqZJr6QVwD3iuLgK5vRgIdcmP.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 107446,
+				"name": "Phil Lord",
+				"profile_path": "/2MagibFHZxky3FmMubyABUnf4lw.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1320090,
+				"name": "Aditya Sood",
+				"profile_path": "/jtL8x7tcNJSF1muFcGSF16K7SUw.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 8023,
+				"name": "Kyle Balda",
+				"profile_path": "/kjf5Thaf8s5vImSN7JUJkW6jKG8.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 11058,
+				"name": "Lindsay Doran",
+				"profile_path": "/yzqIdXR1iv6GQcKeDIk1a9nVFn6.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 35796,
+				"name": "Craig Mazin",
+				"profile_path": "/uEhna6qcMuyU5TP7irpTUZ2ZsZc.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4761345,
+				"name": "Leonie Swann",
+				"profile_path": "/jJucvuRWCWQbPHsXJ2G3qtLWIKf.jpg",
+				"job": "Novel",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 1374341,
+				"name": "George Steel",
+				"profile_path": "/vk2qis8eyTlpHm36Rzp4zTpqprX.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1335159,
+				"name": "Suzie Davies",
+				"profile_path": "/oxF1ivR63u1BWOW9c2gpr3Wp3lE.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1300066,
+				"name": "Rosa Dias",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 16735,
+				"name": "Sharon Martin",
+				"job": "Hair Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 16735,
+				"name": "Sharon Martin",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 969705,
+				"name": "Paul Machliss",
+				"profile_path": "/z53dUMSEHuspGr41KOsH9I3w2qQ.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 2753899,
+				"name": "Graham Page",
+				"profile_path": "/4uvUvf292pDgQspb5NqmFuuyqH9.jpg",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 155267,
+				"name": "Christopher Miller",
+				"profile_path": "/dr2yCgYtmNmO5vzjk9KNbjTpbzO.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1278131,
+				"name": "Paul Kennington",
+				"profile_path": "/zd73bf0gF9ws8jvgrcg1DNNBnxa.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1796987,
+				"name": "Rachael Evelyn",
+				"profile_path": "/89fAPQEyxYBlrmmHBTaV7TKewxb.jpg",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1024844,
+				"name": "Charlotte Dirickx",
+				"profile_path": "/nccg8qvOToFVaMA1Jfzh3wSlsNl.jpg",
+				"job": "Set Decoration",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 223244,
+				"name": "Tania Blunden",
+				"job": "Post Production Supervisor",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 23424,
+				"name": "Lucy Bevan",
+				"profile_path": "/hT17FBbxl9gXD5IdieHKoydRcb4.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1527443,
+				"name": "Emily Brockmann",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2968943,
+				"name": "Katie Brydon",
+				"job": "Casting Associate",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1711027,
+				"name": "Caroline Barclay",
+				"job": "Supervising Art Director",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 4192756,
+				"name": "Dave Bennett",
+				"job": "Executive In Charge Of Production",
+				"department": "Production"
+			},
+			{
+				"id": 4041482,
+				"name": "Nina Rice",
+				"job": "Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 2186530,
+				"name": "Freddie Mason",
+				"profile_path": "/5ZOIsuZv2GMVGQKmQAfE2R32OzF.jpg",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1545995,
+				"name": "Carlos De Carvalho",
+				"job": "Second Unit Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 2476623,
+				"name": "Phil Arntz",
+				"job": "Aerial Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 40737,
+				"name": "Mark Southworth",
+				"profile_path": "/Ak1hp4UEp9jGkWH0f1EkGNg0IXt.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 35796,
+				"name": "Craig Mazin",
+				"profile_path": "/uEhna6qcMuyU5TP7irpTUZ2ZsZc.jpg",
+				"job": "Screenstory",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1908574,
+				"name": "Al LeVine",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 9154,
+				"name": "Martin Walsh",
+				"profile_path": "/eFdV5n5GV01fwNRzrJn299aFUsq.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 2142855,
+				"name": "Adam Broderick",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1452990,
+				"name": "Dean Elliott",
+				"job": "Animation Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1721337,
+				"name": "Josh Simmonds",
+				"profile_path": "/vG9lfya9Ou7FqCp6vHIRvagY23f.jpg",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 23486,
+				"name": "Christophe Beck",
+				"profile_path": "/n3U0OPETTZGTx4mgsrryARKphR4.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2478842,
+				"name": "Oliver Armstrong",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1982006,
+				"name": "Christian Kaestner",
+				"profile_path": "/rNs06ZyebqEXXBf2DX8vxX17rAv.jpg",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1543756,
+				"name": "Mark Webb",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1739315,
+				"name": "Chris Hurtt",
+				"job": "Animation Supervisor",
+				"department": "Visual Effects"
+			}
+		]
+	}
+}
