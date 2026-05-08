@@ -5,7 +5,7 @@ draft = false
 mreviews = ["Dug Dug"]
 critics = ['Rohan Naahar', 'Akhil Arora']
 subtitle = "A Spotify Review"
-scores = [6]
+scores = [6, 6]
 +++
 
 {{< spotify id="6KwIFu9NwVwePuERYbmuGX" height="250" >}}
