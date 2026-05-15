@@ -1,0 +1,663 @@
+{
+	"id": 1437696,
+	"title": "Fatherland",
+	"fcg_title": "Fatherland",
+	"original_title": "Fatherland",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 36,
+			"name": "History"
+		}
+	],
+	"overview": "In 1949, German writer Thomas Mann and his daughter Erika embark on a road trip across a Germany in ruins, from US-dominated Frankfurt to Soviet-controlled Weimar.",
+	"backdrop_path": "/f7plF7QuPfucWQU5DxqkgLp9gFN.jpg",
+	"poster_path": "/nvTclCxmG4wGCAAxKUxW9ytQrzc.jpg",
+	"release_date": "2026-06-19",
+	"credits": {
+		"cast": [
+			{
+				"id": 7152,
+				"order": 0,
+				"name": "Sandra Hüller",
+				"profile_path": "/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg",
+				"character": "Erika Mann",
+				"gender": 1
+			},
+			{
+				"id": 169,
+				"order": 1,
+				"name": "Hanns Zischler",
+				"profile_path": "/7A0smz1O5McRVmddt2oprvMNlxj.jpg",
+				"character": "Thomas Mann",
+				"gender": 2
+			},
+			{
+				"id": 6091,
+				"order": 2,
+				"name": "August Diehl",
+				"profile_path": "/y8rg0tEHhqZr9Z6CExe686ytKF9.jpg",
+				"character": "Klaus Mann",
+				"gender": 2
+			},
+			{
+				"id": 72857,
+				"order": 3,
+				"name": "Anna Madeley",
+				"profile_path": "/AeJzif36VlCz1QqpMhKWnlCugXf.jpg",
+				"character": "Betty Knox",
+				"gender": 1
+			},
+			{
+				"id": 6086,
+				"order": 4,
+				"name": "Devid Striesow",
+				"profile_path": "/dV5Sdfa7ED8gkbof8pWuBfPR7lo.jpg",
+				"character": "Johannes R. Becher",
+				"gender": 2
+			},
+			{
+				"id": 1242987,
+				"order": 5,
+				"name": "David Menkin",
+				"profile_path": "/wRMjAjsSwFk1HDOFNvH2r2nL9mO.jpg",
+				"character": "Arthur Quint",
+				"gender": 2
+			},
+			{
+				"id": 1335455,
+				"order": 6,
+				"name": "Joachim Meyerhoff",
+				"profile_path": "/b5ViVvTgKtJXd2z5zPRPRTfYrOF.jpg",
+				"character": "Gustaf Gründgens",
+				"gender": 2
+			},
+			{
+				"id": 1597840,
+				"order": 7,
+				"name": "Enno Trebs",
+				"profile_path": "/eqMYiGPl2te8OnMNOdxyQKa3zMS.jpg",
+				"character": "Wieland Wagner",
+				"gender": 2
+			},
+			{
+				"id": 105775,
+				"order": 8,
+				"name": "Theo Trebs",
+				"profile_path": "/skAPMfC60KHM17oDlcyq2RhuTuf.jpg",
+				"character": "Wolfgang Wagner",
+				"gender": 2
+			},
+			{
+				"id": 27627,
+				"order": 9,
+				"name": "Waldemar Kobus",
+				"profile_path": "/9CIngBaUFjdkn1JfMAavMyOno9X.jpg",
+				"character": "Mayor of Frankfurt",
+				"gender": 2
+			},
+			{
+				"id": 1521456,
+				"order": 10,
+				"name": "Daniel Wagner",
+				"profile_path": "/vhSjxS4yRKiCTL7OAYQhe3nos0x.jpg",
+				"character": "Sergei Ivanovich Tulpanov",
+				"gender": 2
+			},
+			{
+				"id": 17548,
+				"order": 11,
+				"name": "Fritzi Haberlandt",
+				"profile_path": "/xx2zbZBCNWYBI1oD1QT5WLzQgbC.jpg",
+				"character": "Waitress",
+				"gender": 1
+			},
+			{
+				"id": 24440,
+				"order": 12,
+				"name": "Milan Peschel",
+				"profile_path": "/3E9GchiOTtdEIvZ3AP5cCzXaFNy.jpg",
+				"character": "Armin Schaufelberger",
+				"gender": 2
+			},
+			{
+				"id": 908548,
+				"order": 13,
+				"name": "Joanna Kulig",
+				"profile_path": "/hlRdav6dSvfzyDnSSMooVh9GVxh.jpg",
+				"character": "Singer in a jazz band",
+				"gender": 1
+			},
+			{
+				"id": 4977892,
+				"order": 14,
+				"name": "Christophe Falconnet",
+				"character": "Jacques Ciment"
+			},
+			{
+				"id": 1491513,
+				"order": 15,
+				"name": "David L. Price",
+				"profile_path": "/pbyyByCGrkBogLjrZ7wNeukxibz.jpg",
+				"character": "Walter J. Smith",
+				"gender": 2
+			},
+			{
+				"id": 559682,
+				"order": 16,
+				"name": "Bernd Moss",
+				"profile_path": "/pwrmvbHU1IrzN4jFVGxYmJmfmwJ.jpg",
+				"character": "Brinkbaumer",
+				"gender": 2
+			},
+			{
+				"id": 6186300,
+				"order": 17,
+				"name": "Lisa Natalie Arnold",
+				"character": "Receptionist in Frankfurt"
+			},
+			{
+				"id": 1895818,
+				"order": 18,
+				"name": "Andrzej Kłak",
+				"profile_path": "/8YREyAWFOCMu44SCytZftpKkSLB.jpg",
+				"character": "Barman",
+				"gender": 2
+			},
+			{
+				"id": 6087,
+				"order": 19,
+				"name": "Claudia Geisler-Bading",
+				"profile_path": "/lbWFuZ74lLkOyOldekjvmphCXcI.jpg",
+				"character": "Admirer of Gründgens",
+				"gender": 1
+			},
+			{
+				"id": 4372592,
+				"order": 20,
+				"name": "Matthias Schlette",
+				"character": "Mann's admirer"
+			},
+			{
+				"id": 4345155,
+				"order": 21,
+				"name": "Joerg Sierenberg",
+				"character": "Singer"
+			},
+			{
+				"id": 4547456,
+				"order": 22,
+				"name": "Joerg Giessler",
+				"character": "Singer"
+			},
+			{
+				"id": 1997791,
+				"order": 23,
+				"name": "Vitalii Salii",
+				"profile_path": "/nPDpBb5zX5zPpBOq7J9W9vXgALS.jpg",
+				"character": "Red Army sergeant",
+				"gender": 2
+			},
+			{
+				"id": 6186304,
+				"order": 24,
+				"name": "Dindar Ablemet",
+				"character": "Kyrgyz soldier"
+			},
+			{
+				"id": 4388212,
+				"order": 25,
+				"name": "Kriemhild Hamann",
+				"character": "Receptionist in Weimar"
+			},
+			{
+				"id": 4368367,
+				"order": 26,
+				"name": "Marcin Piejaś",
+				"character": "Hotel Guest"
+			},
+			{
+				"id": 2070757,
+				"order": 27,
+				"name": "Patryk Kabała",
+				"character": "Young Man"
+			},
+			{
+				"id": 6186313,
+				"order": 28,
+				"name": "Tomasz Pala",
+				"character": "Organist"
+			},
+			{
+				"id": 4372515,
+				"order": 29,
+				"name": "Jan Mazurkiewicz",
+				"character": "Organist"
+			},
+			{
+				"id": 5672029,
+				"order": 30,
+				"name": "Eva Dauriac",
+				"character": "French Receptionist"
+			},
+			{
+				"id": 45695,
+				"order": 31,
+				"name": "Charlotte Schwab",
+				"profile_path": "/8HT8wHWE7xlAzM2xWkDxqFpxqle.jpg",
+				"character": "Katia",
+				"gender": 1
+			},
+			{
+				"id": 943463,
+				"order": 32,
+				"name": "Philip Lenkowsky",
+				"profile_path": "/1XXxBOgGrtRyUQahEb0CjTQBv0x.jpg",
+				"character": "Man in hotel and church",
+				"gender": 2
+			},
+			{
+				"id": 6091314,
+				"order": 33,
+				"name": "Giorgio Rayzacher",
+				"character": "Italian journalist"
+			},
+			{
+				"id": 4592225,
+				"order": 34,
+				"name": "Anna Betley-Gębska",
+				"character": "Viola player"
+			},
+			{
+				"id": 4592212,
+				"order": 35,
+				"name": "Andrzej Gębski",
+				"character": "Violin player"
+			},
+			{
+				"id": 4368477,
+				"order": 36,
+				"name": "Joanna Citkowicz-Włodarczyk",
+				"character": "Cellist"
+			},
+			{
+				"id": 2158042,
+				"order": 37,
+				"name": "Marcin Masecki",
+				"profile_path": "/8siWWSrC78seyFl8KcIEtpUrUlN.jpg",
+				"gender": 2
+			},
+			{
+				"id": 4964704,
+				"order": 38,
+				"name": "Mateusz Stankiewicz"
+			},
+			{
+				"id": 4372205,
+				"order": 39,
+				"name": "Ignacy Wendt"
+			},
+			{
+				"id": 6186320,
+				"order": 40,
+				"name": "Ksawery Wójciński"
+			},
+			{
+				"id": 6186322,
+				"order": 41,
+				"name": "Krzysztof Szmańda"
+			}
+		],
+		"crew": [
+			{
+				"id": 221522,
+				"name": "Edward Berger",
+				"profile_path": "/st8iwTbaPHmX0lOiyGFC4sIcA8H.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 64194,
+				"name": "Paweł Pawlikowski",
+				"profile_path": "/vzhGoaJpQrJV8arrz2px7J0yMCF.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1609221,
+				"name": "Łukasz Żal",
+				"profile_path": "/72RPhD7FTCMuwSP3rVJzOxJxWEg.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1814802,
+				"name": "Piotr Wójcik",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 88206,
+				"name": "Katarzyna Sobańska",
+				"profile_path": "/hIfcPGIq7xmYmUrvby8M3BfEOKO.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1398749,
+				"name": "Marcel Sławiński",
+				"profile_path": "/evH2jC4HATcK0XyHcicMN9LAGX.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1398748,
+				"name": "Aleksandra Staszko",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1032318,
+				"name": "Mario Gianani",
+				"profile_path": "/xrmlIYjAuUUZ6kl1RLx66qH1V0l.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1376798,
+				"name": "Lorenzo Mieli",
+				"profile_path": "/rfDdIEbMQhOcuPVCCZDVQk9Wd7S.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 979225,
+				"name": "Ewa Puszczyńska",
+				"profile_path": "/4WSFh0zOBUHpr7DZUN9NU4XGmkj.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 42401,
+				"name": "Jeanne Tremsal",
+				"profile_path": "/5HtKa60U7WEtiZq2TDHuJHPLtsR.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 967604,
+				"name": "Dimitri Rassam",
+				"profile_path": "/x4i2MOnVdKJRXGkeAHr2Htb0xVM.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1356824,
+				"name": "Lorenzo Gangarossa",
+				"profile_path": "/7pQhMuqJ4veH9zpbk0Y7S0KS3XN.jpg",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 64194,
+				"name": "Paweł Pawlikowski",
+				"profile_path": "/vzhGoaJpQrJV8arrz2px7J0yMCF.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 17549,
+				"name": "Hendrik Handloegten",
+				"profile_path": "/krKmenvkf8pYe83qSXILKRt4MLa.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1601556,
+				"name": "Efe Çakarel",
+				"profile_path": "/xUAGiEVwKGTOFDpvms8YopSsH0h.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2158042,
+				"name": "Marcin Masecki",
+				"profile_path": "/8siWWSrC78seyFl8KcIEtpUrUlN.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1451497,
+				"name": "Olivier Père",
+				"profile_path": "/w3e88Dn1Usb6fNKNElkVfJBybla.jpg",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 17084,
+				"name": "Waldemar Pokromski",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 64194,
+				"name": "Paweł Pawlikowski",
+				"profile_path": "/vzhGoaJpQrJV8arrz2px7J0yMCF.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 2544647,
+				"name": "Marcin Kupiecki",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 1281409,
+				"name": "Tarn Willers",
+				"job": "Sound",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 54963,
+				"name": "Lars Ginzel",
+				"profile_path": "/oLij4qZ5TQS9KrugH15sW9O096f.jpg",
+				"job": "Sound",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5747,
+				"name": "Nina Haun",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1317874,
+				"name": "Magdalena Szwarcbart",
+				"job": "Casting",
+				"department": "Production"
+			},
+			{
+				"id": 10969,
+				"name": "Karen Lindsay-Stewart",
+				"profile_path": "/hiteQZS2UcPHxTfVvk2MgufA9EJ.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1427133,
+				"name": "Viola Fügen",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2069435,
+				"name": "Andrea Scarso",
+				"profile_path": "/Atvo4gLMaNgpVlikJvFmSnP621S.jpg",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2267693,
+				"name": "Timo Argillander",
+				"profile_path": "/qrqWKP3smHBJT6xMSbO9W0jT60c.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1829198,
+				"name": "Ognjen Dizdarevic",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2496222,
+				"name": "Ilaria Zazzaro",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1159030,
+				"name": "Luke Rivett",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1291175,
+				"name": "Matthieu Prada",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 6186281,
+				"name": "Julien Delajoux",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 6186283,
+				"name": "Matthias Nicodeme",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2000542,
+				"name": "Tomasz Morawski",
+				"job": "Line Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4157696,
+				"name": "Kacper Lipiński",
+				"job": "Storyboard",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2267634,
+				"name": "Stanisław Cuske",
+				"job": "Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 4368392,
+				"name": "Przemysław Sosnowski",
+				"job": "Gaffer",
+				"department": "Lighting"
+			},
+			{
+				"id": 4206705,
+				"name": "Dariusz Wojas",
+				"job": "Best Boy Grip",
+				"department": "Camera"
+			},
+			{
+				"id": 4272297,
+				"name": "Tomasz Sternicki",
+				"job": "Key Grip",
+				"department": "Camera"
+			},
+			{
+				"id": 1915162,
+				"name": "Michał Herman",
+				"job": "Color Grading",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 4847309,
+				"name": "Piotr Król",
+				"job": "Title Designer",
+				"department": "Art"
+			},
+			{
+				"id": 5947864,
+				"name": "Maria Fill",
+				"job": "Title Designer",
+				"department": "Art"
+			},
+			{
+				"id": 64194,
+				"name": "Paweł Pawlikowski",
+				"profile_path": "/vzhGoaJpQrJV8arrz2px7J0yMCF.jpg",
+				"job": "Music Supervisor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 4642069,
+				"name": "Agata Grzybowska",
+				"job": "Still Photographer",
+				"department": "Camera"
+			},
+			{
+				"id": 2808132,
+				"name": "Wiktor Mentlewicz",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4689205,
+				"name": "Agnieszka Krawczyńska",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 6205578,
+				"name": "Agnieszka Orlińska",
+				"job": "Seamstress",
+				"department": "Costume \u0026 Make-Up"
+			}
+		]
+	}
+}
