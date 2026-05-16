@@ -26,7 +26,7 @@
                 <p class="media-card__label mb-2">
                     {{- partial "inline/new-review-header/critic-links" (dict "critics" $critics "review" $review ) }}
                 </p>
-                <p class="media-card__title fw-bolder">
+                <p class="media-card__title">
                     {{- if $short }}
                         {{ $review.Params.Date.Format "Mon, January 2 2006" }}
                     {{- else }}
