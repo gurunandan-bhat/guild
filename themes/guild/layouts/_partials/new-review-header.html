@@ -66,11 +66,11 @@
     <span class="organization">
         {{ with index $org 0 }}
             |
-            {{ . }}
+            <span class="small fw-bolder text-uppercase">{{ . }}</span>
         {{ end }}
         {{ with $pub }}
             writing for
-            <span class="bolder">{{ . }}</span>
+            <span class="small fw-bolder text-uppercase">{{ . }}</span>
         {{ end }}
     </span>
 {{- end }}
