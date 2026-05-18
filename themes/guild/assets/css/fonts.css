@@ -65,3 +65,22 @@
     font-weight: 900;
     font-style: normal;
 }
+
+
+@font-face {
+  font-family: 'DIN-2014';
+  src: url('/fonts/DIN-2014_Regular.otf') format('otf'), /* Path to your font file */
+       url('/fonts/DIN-2014_Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap; /* Shows fallback font until custom font loads */
+}
+
+@font-face {
+  font-family: 'DIN-2014-Bold';
+  src: url('/fonts/DIN-2014_Bold.otf') format('otf'), /* Path to your font file */
+       url('/fonts/DIN-2014_Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap; /* Shows fallback font until custom font loads */
+}

@@ -62,15 +62,15 @@
     {{- $link := .link }}
     {{- $org := .org }}
     {{- $pub := .pub }}
-    <a href="{{- $link }}">{{ $critic }}</a>
+    <a href="{{- $link }}"><span class="DIN-Bold">{{ $critic }}</span></a>
     <span class="organization">
         {{ with index $org 0 }}
             |
-            <span class="small fw-bolder text-uppercase">{{ . }}</span>
+            <span class="small fw-bolder text-uppercase DIN-Bold">{{ . }}</span>
         {{ end }}
         {{ with $pub }}
             writing for
-            <span class="small fw-bolder text-uppercase">{{ . }}</span>
+            <span class="small fw-bolder text-uppercase DIN-Bold">{{ . }}</span>
         {{ end }}
     </span>
 {{- end }}
