@@ -1,0 +1,291 @@
+{
+	"id": 1431071,
+	"title": "System",
+	"fcg_title": "System",
+	"original_title": "सिस्टम",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "When Neha Rajvansh, a privileged public prosecutor, meets Sarika Rawat, a courtroom stenographer from a humble background, their lives are thrown into upheaval where power defines truth, blurring the system and raising a question of what justice truly means to them.",
+	"backdrop_path": "/bMKKNOZpdQEhLMIdObIrL1P6Q9v.jpg",
+	"poster_path": "/8qrddM5BRcTuqjc9crJY6e3gyE6.jpg",
+	"release_date": "2026-05-22",
+	"credits": {
+		"cast": [
+			{
+				"id": 130958,
+				"order": 0,
+				"name": "Sonakshi Sinha",
+				"profile_path": "/7HaI5owaKzOb6Qdtwifp29uhHk2.jpg",
+				"character": "Neha Rajvansh",
+				"gender": 1
+			},
+			{
+				"id": 147324,
+				"order": 1,
+				"name": "Jyothika",
+				"profile_path": "/9rcFS99kwlSiQdY5Iv9YctJKh1F.jpg",
+				"character": "Sarika Rawat",
+				"gender": 1
+			},
+			{
+				"id": 78751,
+				"order": 2,
+				"name": "Ashutosh Gowariker",
+				"profile_path": "/s48qPtQJVXdwrVfezMIiyowl3eT.jpg",
+				"character": "Ravi Rajvansh",
+				"gender": 2
+			},
+			{
+				"id": 1682080,
+				"order": 3,
+				"name": "Adinath Kothare",
+				"profile_path": "/5mpunA4RSLJhtkYHTB6UMvOfrV5.jpg",
+				"character": "Alok Rajvansh",
+				"gender": 2
+			},
+			{
+				"id": 4160287,
+				"order": 4,
+				"name": "Aashriya Mishra",
+				"character": "Kusum Rawat"
+			},
+			{
+				"id": 1566911,
+				"order": 5,
+				"name": "Gaurav Pandey",
+				"profile_path": "/rH9haKecOQsjMP7BC9XRi1kl5uF.jpg",
+				"character": "Akshay Rao",
+				"gender": 2
+			},
+			{
+				"id": 6193828,
+				"order": 6,
+				"name": "Sayandeep Gupta",
+				"character": "Raghav Shrivastav"
+			},
+			{
+				"id": 2746527,
+				"order": 7,
+				"name": "Preeti Agarwal Mehta"
+			},
+			{
+				"id": 1758521,
+				"order": 8,
+				"name": "Vijayant Kohli",
+				"profile_path": "/dzzewlf0Z5dEkVxu4QkH86xUEx4.jpg",
+				"character": "Vikram Bajral",
+				"gender": 2
+			},
+			{
+				"id": 4442105,
+				"order": 9,
+				"name": "Diwanshu Gambhir",
+				"character": "Juggi"
+			},
+			{
+				"id": 5544258,
+				"order": 10,
+				"name": "Freya Kothari",
+				"character": "Inaaya Kothari"
+			},
+			{
+				"id": 4443704,
+				"order": 11,
+				"name": "Bhupendra Chauhan",
+				"character": "Inspector Rathi"
+			},
+			{
+				"id": 3100635,
+				"order": 12,
+				"name": "Dev Chauhan",
+				"character": "Pramod Mishra"
+			},
+			{
+				"id": 3462330,
+				"order": 13,
+				"name": "Ajay Madhok",
+				"character": "Judge Rajiv Menon"
+			},
+			{
+				"id": 6209712,
+				"order": 14,
+				"name": "Divija Gambhir",
+				"character": "Jhanvi Shenoy"
+			},
+			{
+				"id": 4074870,
+				"order": 15,
+				"name": "Saad Baba",
+				"character": "Adv. Prakash Malhotra"
+			}
+		],
+		"crew": [
+			{
+				"id": 1514227,
+				"name": "Ashwiny Iyer Tiwari",
+				"profile_path": "/b7n68jbzVAN68CJSI8ubERlToli.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 86224,
+				"name": "Harman Baweja",
+				"profile_path": "/j1bekyIXHcZqfAn5GGF2o2uAAau.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1734982,
+				"name": "Pammi Baweja",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2112803,
+				"name": "Smitha Baliga",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1475071,
+				"name": "Arun Sukumar",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 86224,
+				"name": "Harman Baweja",
+				"profile_path": "/j1bekyIXHcZqfAn5GGF2o2uAAau.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1514227,
+				"name": "Ashwiny Iyer Tiwari",
+				"profile_path": "/b7n68jbzVAN68CJSI8ubERlToli.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 5204433,
+				"name": "Tasneem Lokhandwala",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 2154635,
+				"name": "Akshat Ghildial",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 2120173,
+				"name": "Meenakshi Pandey",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2120174,
+				"name": "Abhinandan Patidar",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1549618,
+				"name": "Rangarajan Rambadran",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1790781,
+				"name": "Charu Shree Roy",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 1108802,
+				"name": "Mukesh Chhabra",
+				"profile_path": "/f5XI2wJs2JPcd5FSECsdcnkyOMW.jpg",
+				"job": "Casting Director",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1727702,
+				"name": "Sandeep Meher",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 2278070,
+				"name": "Sanam Ratansi",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2051076,
+				"name": "Allwin Rego",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 2259689,
+				"name": "Sanjay Maurya",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 6123400,
+				"name": "Debdoot Ghosh",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1810275,
+				"name": "Vikram Dahiya",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 2416521,
+				"name": "Praful Pramod Sawant",
+				"job": "Associate Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 3198769,
+				"name": "Ritchie Burton",
+				"job": "Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 6209713,
+				"name": "Harshita Dhalwani",
+				"job": "Production Coordinator",
+				"department": "Production"
+			},
+			{
+				"id": 6209714,
+				"name": "Tanka Prasad Acharya",
+				"job": "Production Coordinator",
+				"department": "Production"
+			},
+			{
+				"id": 6209714,
+				"name": "Tanka Prasad Acharya",
+				"job": "Production Controller",
+				"department": "Crew"
+			}
+		]
+	}
+}

@@ -1,0 +1,419 @@
+{
+	"id": 1401459,
+	"title": "Fjord",
+	"fcg_title": "Fjord",
+	"original_title": "Fjord",
+	"original_language": "ro",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "After the deaths of Mihai’s parents, Mihai and Lisbeth Gheorghiu leave everything behind and move with their children to a remote village in Norway, hoping to rebuild their lives near Lisbeth’s family. There, they grow close to their neighbors, the Halbergs, whose warmth offers the promise of a fresh start. But the fragile peace begins to unravel when the Gheorghius’ young daughter, Elia, arrives at school covered in bruises.",
+	"backdrop_path": "/ronUH8vKXQI8hazM7FJvUZtMAY.jpg",
+	"poster_path": "/ttCNqwbCoHnfbuQyrlMdr4QG6c0.jpg",
+	"release_date": "2026-08-19",
+	"credits": {
+		"cast": [
+			{
+				"id": 60898,
+				"order": 0,
+				"name": "Sebastian Stan",
+				"profile_path": "/v20RLWst39klatsqUgSrwHxhwee.jpg",
+				"character": "Mihai Gheorghiu",
+				"gender": 2
+			},
+			{
+				"id": 1576786,
+				"order": 1,
+				"name": "Renate Reinsve",
+				"profile_path": "/3UZ5yHxW4MQFIeGslfuRH196Rsr.jpg",
+				"character": "Lisbet Gheorghiu",
+				"gender": 1
+			},
+			{
+				"id": 1111176,
+				"order": 2,
+				"name": "Lisa Carlehed",
+				"profile_path": "/r6vxXVZfiTgOHumGRtPTQpXQtKz.jpg",
+				"character": "Mia",
+				"gender": 1
+			},
+			{
+				"id": 79331,
+				"order": 3,
+				"name": "Ellen Dorrit Petersen",
+				"profile_path": "/ynXvnMlMCCn0Uk6AOwRHLQRF9nZ.jpg",
+				"character": "Gunda",
+				"gender": 1
+			},
+			{
+				"id": 1310711,
+				"order": 4,
+				"name": "Lisa Loven Kongsli",
+				"profile_path": "/pm5y6qrZqinsYZW0Rud1DjYU4mP.jpg",
+				"character": "Frida",
+				"gender": 1
+			},
+			{
+				"id": 3580174,
+				"order": 5,
+				"name": "Henrikke Lund Olsen",
+				"profile_path": "/1uGyDvAwm9uyhLtnXtPahhnUYHY.jpg",
+				"character": "Noora",
+				"gender": 1
+			},
+			{
+				"id": 6194923,
+				"order": 6,
+				"name": "Vanessa Ceban",
+				"character": "Elia"
+			},
+			{
+				"id": 2098843,
+				"order": 7,
+				"name": "Giulia Nahmany",
+				"profile_path": "/vHhT80PtKoO7nRQyzATh9GRvehZ.jpg",
+				"character": "Ruth",
+				"gender": 1
+			},
+			{
+				"id": 1822171,
+				"order": 8,
+				"name": "Ingvild Lien",
+				"profile_path": "/xg7KYR32HYf1zJ53RqD6Som9qg4.jpg",
+				"character": "Mathilde",
+				"gender": 1
+			},
+			{
+				"id": 1975316,
+				"order": 9,
+				"name": "Turid Vatne",
+				"profile_path": "/fZGqPuOSoY4DPUhdTqRCBmQd9HN.jpg",
+				"character": "Brita",
+				"gender": 1
+			},
+			{
+				"id": 1178619,
+				"order": 10,
+				"name": "Alin Panc",
+				"profile_path": "/ejcjjoj8AetYJ7mTu5yFUg4hzo7.jpg",
+				"gender": 2
+			},
+			{
+				"id": 2538010,
+				"order": 11,
+				"name": "Emilie Hetland",
+				"gender": 1
+			},
+			{
+				"id": 5799595,
+				"order": 12,
+				"name": "Sofie Vartdal"
+			},
+			{
+				"id": 1113157,
+				"order": 13,
+				"name": "Adrian Titieni",
+				"profile_path": "/cXTDbbmrPXvxrznP2ZAGYzVv1hn.jpg",
+				"character": "Samuel",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 20657,
+				"name": "Cristian Mungiu",
+				"profile_path": "/3ECIvZzvUw4DOdQj797BsqH3bRb.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1554308,
+				"name": "Tudor Vladimir Panduru",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1547389,
+				"name": "Mircea Olteanu",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1791530,
+				"name": "Dyveke Bjørkly Graver",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1556004,
+				"name": "Katrin Pors",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1616248,
+				"name": "Jussi Rantamäki",
+				"profile_path": "/4BC4piZbsMzzc9PXl12Gis78qkx.jpg",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1547388,
+				"name": "Tudor Reu",
+				"profile_path": "/biH6fIvtEcE8sO52lulgF5asstU.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1395761,
+				"name": "Sean Wheelan",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 20657,
+				"name": "Cristian Mungiu",
+				"profile_path": "/3ECIvZzvUw4DOdQj797BsqH3bRb.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2112094,
+				"name": "Marius Winje Brustad",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 2157325,
+				"name": "Kirsi Gum",
+				"profile_path": "/h5nhPg3wKgBsUAEnSFtIHV5CvOb.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1407693,
+				"name": "Florin Niculae",
+				"profile_path": "/4enuNu8RWTsReUWHA5NTD3YNyFh.jpg",
+				"job": "Gaffer",
+				"department": "Lighting"
+			},
+			{
+				"id": 1336934,
+				"name": "Kai Kolstad Rødseth",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 6157,
+				"name": "Kristian Eidnes Andersen",
+				"profile_path": "/1hyr1THoXrGXuviQ5XQfgL7YSpW.jpg",
+				"job": "Sound Engineer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1512666,
+				"name": "Pietu Korhonen",
+				"job": "Sound Engineer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 20657,
+				"name": "Cristian Mungiu",
+				"profile_path": "/3ECIvZzvUw4DOdQj797BsqH3bRb.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2241239,
+				"name": "Andrea Berentsen Ottmar",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2896988,
+				"name": "Vittoria Røkke Passalacqua",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2917109,
+				"name": "Adela Vrinceanu Celebidachi",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1547390,
+				"name": "Adrian Moroca",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1427139,
+				"name": "Kaspar Kaae",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 2896925,
+				"name": "Hannah Chocron Foldøy",
+				"job": "Casting",
+				"department": "Production"
+			},
+			{
+				"id": 4405120,
+				"name": "Ingrid Opdahl",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 4534624,
+				"name": "Synne Rødø",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 1586293,
+				"name": "Gjyljeta Berisha",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4348427,
+				"name": "Emilie Stang",
+				"job": "Second Assistant Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 5178703,
+				"name": "Syver Flem",
+				"job": "Third Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 3124911,
+				"name": "Marius Bardasan",
+				"job": "Leadman",
+				"department": "Art"
+			},
+			{
+				"id": 3245919,
+				"name": "Bianca Micu",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 2898333,
+				"name": "Bogdan Voiculescu",
+				"job": "Graphic Designer",
+				"department": "Art"
+			},
+			{
+				"id": 39966,
+				"name": "Constantin Fleancu",
+				"job": "Production Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2873228,
+				"name": "Juuso Heikkilä",
+				"job": "Foley Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3033426,
+				"name": "Rasmus Pietilä",
+				"job": "Foley Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1831677,
+				"name": "Timo Säilä",
+				"job": "Sound Effects Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 1416980,
+				"name": "Kimmo Vänttinen",
+				"job": "Foley Artist",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1699034,
+				"name": "Cristian Bătrân",
+				"job": "First Assistant Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 2947287,
+				"name": "Sandu Constantin",
+				"job": "Best Boy Grip",
+				"department": "Camera"
+			},
+			{
+				"id": 3714780,
+				"name": "Ochiana Ionuț",
+				"job": "Video Report",
+				"department": "Camera"
+			},
+			{
+				"id": 2517620,
+				"name": "Cătălin Stoica",
+				"job": "Key Grip",
+				"department": "Camera"
+			},
+			{
+				"id": 3179985,
+				"name": "Simona Alecu",
+				"job": "Costume Assistant",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2492100,
+				"name": "Marie Nesset",
+				"job": "Costume Supervisor",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 3673767,
+				"name": "Audun Skarbøvik",
+				"job": "Location Manager",
+				"department": "Production"
+			},
+			{
+				"id": 1586293,
+				"name": "Gjyljeta Berisha",
+				"job": "Script Supervisor",
+				"department": "Directing"
+			},
+			{
+				"id": 1617288,
+				"name": "Simona Pădurețu",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 1
+			}
+		]
+	}
+}
