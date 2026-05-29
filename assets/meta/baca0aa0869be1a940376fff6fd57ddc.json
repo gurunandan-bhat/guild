@@ -1,0 +1,414 @@
+{
+	"id": 1065834,
+	"title": "Kattalan",
+	"fcg_title": "Kattalan",
+	"original_title": "കാട്ടാളൻ",
+	"original_language": "ml",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "Power-hungry forces clash in the Ivory cartel war-a fierce story of control, vengeance, and survival where compassion vanishes and only the ruthless endure.",
+	"backdrop_path": "/wvmfToHjflWab2PHKG1vCqg2Asx.jpg",
+	"poster_path": "/wT6qCmzLhYJ2ZZ4pxXRaTKxt1tu.jpg",
+	"release_date": "2026-05-28",
+	"credits": {
+		"cast": [
+			{
+				"id": 1758913,
+				"order": 0,
+				"name": "Antony Varghese",
+				"profile_path": "/dKRa8ghSXw6J1OTcxMziZh3l1jb.jpg",
+				"character": "Antony Varghese",
+				"gender": 2
+			},
+			{
+				"id": 213428,
+				"order": 1,
+				"name": "Sunil Varma",
+				"profile_path": "/ifmUCkLgpEzbfnRjIw62otrADpI.jpg",
+				"character": "Maari",
+				"gender": 2
+			},
+			{
+				"id": 1974753,
+				"order": 2,
+				"name": "Dushara Vijayan",
+				"profile_path": "/5C5V9qdYil7LVCp8LqctZCEsu1n.jpg",
+				"character": "Lucy",
+				"gender": 1
+			},
+			{
+				"id": 111669,
+				"order": 3,
+				"name": "Jagadish",
+				"profile_path": "/ml3XX5bWPIdHUPvqhW2MYYZ8H7Y.jpg",
+				"character": "Ali",
+				"gender": 2
+			},
+			{
+				"id": 1543640,
+				"order": 4,
+				"name": "Kabir Duhan Singh",
+				"profile_path": "/lAVAxFARP63oTHMYWpwHrWsXPWa.jpg",
+				"character": "Eddy",
+				"gender": 2
+			},
+			{
+				"id": 4555786,
+				"order": 5,
+				"name": "Parth Tiwari",
+				"character": "Roby",
+				"gender": 2
+			},
+			{
+				"id": 2520756,
+				"order": 6,
+				"name": "Raj Tirandasu",
+				"profile_path": "/dnuD0t8xpELhXs4tKZDRdsFureg.jpg",
+				"character": "Maari 95",
+				"gender": 2
+			},
+			{
+				"id": 111668,
+				"order": 7,
+				"name": "Siddique",
+				"profile_path": "/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg",
+				"character": "George D’Peter",
+				"gender": 2
+			},
+			{
+				"id": 1657965,
+				"order": 8,
+				"name": "Anson Paul",
+				"profile_path": "/tuuQTQFh4qMY7EOP9rgVlz0Y57y.jpg",
+				"character": "Stanley",
+				"gender": 2
+			},
+			{
+				"id": 5549653,
+				"order": 9,
+				"name": "Hanan Shaah",
+				"character": "Malik",
+				"gender": 2
+			},
+			{
+				"id": 4646934,
+				"order": 10,
+				"name": "Hipster",
+				"profile_path": "/zUKB1gDZiCLB3u1zEnp8W7UtYCU.jpg",
+				"character": "Alokah",
+				"gender": 2
+			},
+			{
+				"id": 4688825,
+				"order": 11,
+				"name": "Shon Joy",
+				"profile_path": "/v7wESjbvY5cMoR9uEbJoaVfaHDy.jpg",
+				"character": "Mano"
+			},
+			{
+				"id": 6222007,
+				"order": 12,
+				"name": "Sandeep Ravi Raj",
+				"character": "Naadhu"
+			},
+			{
+				"id": 3981230,
+				"order": 13,
+				"name": "Harishankar Narayanan",
+				"character": "SP Nelson Nadar"
+			},
+			{
+				"id": 6222018,
+				"order": 14,
+				"name": "Shanood Ebrahim",
+				"character": "Hakkim"
+			},
+			{
+				"id": 5687351,
+				"order": 15,
+				"name": "Shibin S Raghav",
+				"character": "Marudhu"
+			},
+			{
+				"id": 5995164,
+				"order": 16,
+				"name": "Ajin John",
+				"character": "SI Velraj"
+			},
+			{
+				"id": 2582639,
+				"order": 17,
+				"name": "Deepu G Panicker",
+				"profile_path": "/t5IDXu6csRJuOW4A0SK0AkjMF6T.jpg",
+				"character": "Raghav Chandra IAS"
+			},
+			{
+				"id": 3132478,
+				"order": 18,
+				"name": "Binu Manambur",
+				"character": "Kaiser"
+			},
+			{
+				"id": 2298659,
+				"order": 19,
+				"name": "Arun Sunny",
+				"character": "Dr. Sanjay"
+			},
+			{
+				"id": 5287202,
+				"order": 20,
+				"name": "Vijay Jacob",
+				"character": "Minister Ilavarasu"
+			},
+			{
+				"id": 5367785,
+				"order": 21,
+				"name": "Ali Shifas",
+				"character": "Aadhi"
+			},
+			{
+				"id": 3586788,
+				"order": 22,
+				"name": "Bibin Perumbily",
+				"character": "Eapen Mathew"
+			},
+			{
+				"id": 6193759,
+				"order": 23,
+				"name": "Shaji Shahid",
+				"character": "MLA Ishwar"
+			},
+			{
+				"id": 1993291,
+				"order": 24,
+				"name": "Gilu Joseph",
+				"profile_path": "/znWz6sSXntrBJrncCI2l9uWUaMV.jpg",
+				"character": "Ramla",
+				"gender": 1
+			},
+			{
+				"id": 5788303,
+				"order": 25,
+				"name": "Vedhika Sreekumar",
+				"character": "Sainu"
+			},
+			{
+				"id": 1592411,
+				"order": 26,
+				"name": "Lokesh Kanagaraj",
+				"profile_path": "/yym15SAcSzIe6xzxOWCgDWiSaZN.jpg",
+				"character": "Leo Cabral",
+				"gender": 2
+			},
+			{
+				"id": 1171340,
+				"order": 27,
+				"name": "Alphonse Puthren",
+				"profile_path": "/bizV6LQMKMCEAVzeIh5rEOty7av.jpg",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 5278473,
+				"name": "Paul George",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 3138196,
+				"name": "Shareef Muhammed",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1858210,
+				"name": "Shameer Muhammed",
+				"profile_path": "/7dN5MFUDP0tiZXXLkTlJw5gutGD.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1186681,
+				"name": "Renadive",
+				"profile_path": "/sYiNWJRzqrfym5NBfySGOWNLRVu.jpg",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1667438,
+				"name": "Kaecha Kampakdee",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 4699618,
+				"name": "Sunil das",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1785099,
+				"name": "Dhanya Balakrishnan",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1671023,
+				"name": "M. Sherif",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 4639003,
+				"name": "Amal C Sadhar",
+				"job": "Still Photographer",
+				"department": "Camera"
+			},
+			{
+				"id": 1620968,
+				"name": "Ronex Xavier",
+				"profile_path": "/dG5IaUswrZu99o3xBuhQ57rOlEk.jpg",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 587726,
+				"name": "Unni R.",
+				"job": "Dialogue",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5560991,
+				"name": "Jumana shareef",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3480277,
+				"name": "Yellowtooths Varun",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 3
+			},
+			{
+				"id": 5278473,
+				"name": "Paul George",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 5617313,
+				"name": "Jero Jacob",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 5226597,
+				"name": "Joby Varghese",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 5249023,
+				"name": "Action Sandhosh",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 3086632,
+				"name": "Kishan Mohan",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 3230155,
+				"name": "Suhail Koya",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 2279688,
+				"name": "Vinayak Sasikumar",
+				"profile_path": "/dtpCz8iwP1H0wf0ITc2VSxp2qZZ.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2214180,
+				"name": "Chandru Selvaraj",
+				"job": "Additional Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2446685,
+				"name": "SRIK Varier",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 3025764,
+				"name": "Athira Diljith",
+				"job": "Public Relations",
+				"department": "Crew"
+			},
+			{
+				"id": 1610606,
+				"name": "Vazhoor Jose",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2200190,
+				"name": "Vamsi Shekar",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3421754,
+				"name": "Deepak Parameshwaran",
+				"job": "Production Controller",
+				"department": "Crew"
+			},
+			{
+				"id": 4937402,
+				"name": "Dipil Dev",
+				"job": "Creative Producer",
+				"department": "Writing"
+			},
+			{
+				"id": 2006306,
+				"name": "Ravi Basrur",
+				"profile_path": "/mlHRC8r4J3ZND7w80B59x3WeX1I.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5549653,
+				"name": "Hanan Shaah",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			}
+		]
+	}
+}
