@@ -1,78 +1,53 @@
 {{ define "main" }}
-    <div class="container">
-        <div style="margin-top: 75px;">
-            <div class="row mt-5">
-                <div class="col-lg-4 offset-lg-4 px-3 text-center">
-                    <h2 class="section-head text-center">FCG Search</h2>
-                    <p class="small">
-                        Search our reviews for full or part film titles, cast
-                        member names, directors and even reviewers
-                    </p>
-                    <p class="small text-danger">
-                        To prevent bulk searches by bots, we have a small check
-                        to confirm that you are a real person and not a bot.
-                        Please make sure you get a green "Success" tick before
-                        you hit the Search button
-                    </p>
-                    <form id="search-form" method="post">
-                        <div class="d-flex mb-3">
-                            <input
-                                id="qry"
-                                name="qry"
-                                class="form-control me-2"
-                                placeholder="Your search term here..."
-                                aria-label="Search"
-                                required />
-                            <button
-                                id="submit-search"
-                                class="btn btn-sm btn-outline-success"
-                                type="submit">
-                                Search
-                            </button>
-                        </div>
-                        <div
-                            class="cf-turnstile text-center px-5"
-                            data-sitekey="{{- .Site.Params.turnstileSiteKey -}}"
-                            data-callback="onTurnstileSuccess"
-                            data-error-callback="onTurnstileError"
-                            data-theme="light"
-                            data-size="normal"></div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container small">
-        <div class="row">
-            <div class="col-lg-8 offset-lg-2">
-                <div id="output" class="search-results smaller"></div>
-            </div>
-        </div>
-    </div>
-    {{- $searchEndpoint := .Site.Params.algoliaSearchEndpoint }}
-    {{- $apiKey := .Site.Params.apiKey }}
-    <script
-        src="https://challenges.cloudflare.com/turnstile/v0/api.js"
-        async
-        defer></script>
-    <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
-    {{ with resources.Get "js/search.js" }}
-        {{ $opts := dict
-            "minify" (cond hugo.IsDevelopment false true)
-            "sourceMap" (cond hugo.IsDevelopment "linked" "none")
-            "params" (dict "searchEndpoint" $searchEndpoint "apiKey" $apiKey)
-        }}
-        {{ with . | js.Build $opts }}
-            {{ if hugo.IsDevelopment }}
-                <script src="{{ .RelPermalink }}"></script>
-            {{ else }}
-                {{ with . | fingerprint }}
-                    <script
-                        src="{{ .RelPermalink }}"
-                        integrity="{{ .Data.Integrity }}"
-                        crossorigin="anonymous"></script>
-                {{ end }}
-            {{ end }}
-        {{ end }}
-    {{ end }}
+<div class="container">
+	<div style="margin-top: 75px">
+		<div class="row mt-5">
+			<div class="col-lg-4 offset-lg-4 px-3 text-center">
+				<h2 class="section-head text-center">FCG Search</h2>
+				<p class="small">Search our reviews for full or part film titles, cast member names, directors,language and even reviewers</p>
+				<p class="small text-danger">
+					To prevent bulk searches by bots, we have a small check to confirm that you are a real person and not a bot. Please make sure you get a
+					green "Success" tick before you hit the Search button
+				</p>
+				<form id="search-form" method="post">
+					<div class="d-flex mb-3">
+						<input id="qry" name="qry" class="form-control me-2" placeholder="Your search term here..." aria-label="Search" required />
+						<button id="submit-search" class="btn btn-sm btn-outline-success" type="submit">Search</button>
+					</div>
+					<div
+						class="cf-turnstile text-center px-5"
+						data-sitekey="{{- .Site.Params.turnstileSiteKey -}}"
+						data-callback="onTurnstileSuccess"
+						data-error-callback="onTurnstileError"
+						data-theme="light"
+						data-size="normal"
+					></div>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="container small">
+	<div class="row">
+		<div class="col-lg-8 offset-lg-2">
+			<div id="output" class="search-results smaller"></div>
+		</div>
+	</div>
+</div>
+{{- $searchEndpoint := .Site.Params.algoliaSearchEndpoint }} {{- $apiKey := .Site.Params.apiKey }}
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+<script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
+{{ with resources.Get "js/search.js" }} {{ $opts := dict "minify" (cond hugo.IsDevelopment false true) "sourceMap" (cond hugo.IsDevelopment "linked" "none")
+	"params" (dict "searchEndpoint" $searchEndpoint "apiKey" $apiKey)
+}}
+	{{ with . | js.Build $opts }}
+		{{ if hugo.IsDevelopment }}
+			<script src="{{ .RelPermalink }}"></script>
+		{{ else }}
+			{{ with . | fingerprint }}
+				<script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
+			{{ end }}
+		{{ end }}
+	{{ end }}
+{{ end }}
 {{ end }}
