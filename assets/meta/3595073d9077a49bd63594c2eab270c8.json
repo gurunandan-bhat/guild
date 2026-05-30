@@ -1,0 +1,606 @@
+{
+	"id": 1304313,
+	"title": "Lee Cronin's The Mummy",
+	"fcg_title": "The Mummy",
+	"original_title": "Lee Cronin's The Mummy",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 27,
+			"name": "Horror"
+		},
+		{
+			"id": 9648,
+			"name": "Mystery"
+		}
+	],
+	"overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
+	"backdrop_path": "/xugEpZk9YQ0DIz1aFvH5HGkqpZK.jpg",
+	"poster_path": "/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg",
+	"release_date": "2026-04-15",
+	"credits": {
+		"cast": [
+			{
+				"id": 1007683,
+				"order": 0,
+				"name": "Jack Reynor",
+				"profile_path": "/ti7IuuwBP66kntCCp6t38xzOcT4.jpg",
+				"character": "Charlie Cannon",
+				"gender": 2
+			},
+			{
+				"id": 1425019,
+				"order": 1,
+				"name": "Laia Costa",
+				"profile_path": "/kSbdpHWLlfzvOfZKJ0dgP0ieVL6.jpg",
+				"character": "Larissa Cannon",
+				"gender": 1
+			},
+			{
+				"id": 1952051,
+				"order": 2,
+				"name": "May Calamawy",
+				"profile_path": "/5S3nNkH5p85xK7k7AaXBZ0ouyOR.jpg",
+				"character": "Detective Dalia Zaki",
+				"gender": 1
+			},
+			{
+				"id": 3524429,
+				"order": 3,
+				"name": "Natalie Grace",
+				"profile_path": "/uoJRUulO6A9By4IhNrDdiKevAOj.jpg",
+				"character": "Katie Cannon",
+				"gender": 1
+			},
+			{
+				"id": 2886183,
+				"order": 4,
+				"name": "Shylo Molina",
+				"profile_path": "/rIhBsRY6c7B4ClLOJbc4qEWter1.jpg",
+				"character": "Sebastián Cannon",
+				"gender": 2
+			},
+			{
+				"id": 3768556,
+				"order": 5,
+				"name": "Billie Roy",
+				"profile_path": "/criWuHntMq5c6Duv505NApONwUu.jpg",
+				"character": "Maud Cannon"
+			},
+			{
+				"id": 1029593,
+				"order": 6,
+				"name": "Veronica Falcón",
+				"profile_path": "/8zRSwWfrDnHleSRDtIeHYuAVmFK.jpg",
+				"character": "Carmen Santiago",
+				"gender": 1
+			},
+			{
+				"id": 1743875,
+				"order": 7,
+				"name": "Hayat Kamille",
+				"profile_path": "/ftzaSEGIEn5uLHy8U7uQrXC7SZc.jpg",
+				"character": "The Magician",
+				"gender": 1
+			},
+			{
+				"id": 1850319,
+				"order": 8,
+				"name": "May Elghety",
+				"profile_path": "/dFpkIOfCrUVIASpN5wutX1OaYls.jpg",
+				"character": "Layla Khalil",
+				"gender": 1
+			},
+			{
+				"id": 3543561,
+				"order": 9,
+				"name": "Emily Mitchell",
+				"profile_path": "/ehxuJhPwCo0M84SdD6k6cYsKFfs.jpg",
+				"character": "Young Katie Cannon",
+				"gender": 1
+			},
+			{
+				"id": 1391786,
+				"order": 10,
+				"name": "Husam Chadat",
+				"profile_path": "/7okl24O3qALa87yZ9vo85NZGHWD.jpg",
+				"character": "Detective Ismail",
+				"gender": 2
+			},
+			{
+				"id": 18734,
+				"order": 11,
+				"name": "Tim Seyfi",
+				"profile_path": "/9csZ96eXdjtlxgkpg8X69xboVgD.jpg",
+				"character": "Doctor El-Sayed",
+				"gender": 2
+			},
+			{
+				"id": 205427,
+				"order": 12,
+				"name": "Mark Mitchinson",
+				"profile_path": "/dBnuglswEEKSQk6kxbSd6D1uS5j.jpg",
+				"character": "Professor Bixler",
+				"gender": 2
+			},
+			{
+				"id": 35981,
+				"order": 13,
+				"name": "Gideon Emery",
+				"profile_path": "/o7BHjTmmZ9D5tEK33JHKfB2FQqD.jpg",
+				"character": "Vogel",
+				"gender": 2
+			},
+			{
+				"id": 4957441,
+				"order": 14,
+				"name": "Dean Allen Williams",
+				"profile_path": "/sJWaTLUYg3B3bAVh5oB0kwTP3lg.jpg",
+				"character": "Young Sebastián Cannon"
+			},
+			{
+				"id": 1188529,
+				"order": 15,
+				"name": "Gerald Papasian",
+				"profile_path": "/6mTYVQAC7i6Cdn2NYzxKcd0lJov.jpg",
+				"character": "Omar Farid",
+				"gender": 2
+			},
+			{
+				"id": 6142606,
+				"order": 16,
+				"name": "Hanna Khogali",
+				"profile_path": "/qi0uQorLT79LD2xdh8RL9HUKsCb.jpg",
+				"character": "Nadia Taylor"
+			},
+			{
+				"id": 1377808,
+				"order": 17,
+				"name": "Jamie Doyle",
+				"character": "Pinky"
+			},
+			{
+				"id": 6142616,
+				"order": 18,
+				"name": "Amr Atia",
+				"profile_path": "/gq5ZSkoQwhlYUFqqH6lwenfhD0k.jpg",
+				"character": "Officer Adel Salah",
+				"gender": 2
+			},
+			{
+				"id": 2813548,
+				"order": 19,
+				"name": "Jonny Everett",
+				"profile_path": "/8hO9tpmPw1sTWfXZk1xINf8d9F6.jpg",
+				"character": "Albuquerque Newsreader",
+				"gender": 2
+			},
+			{
+				"id": 1186659,
+				"order": 20,
+				"name": "Lily Sullivan",
+				"profile_path": "/sLjxpxV2JX8k3k9VWoIPrzqlh5J.jpg",
+				"character": "Miss Mills",
+				"gender": 1
+			},
+			{
+				"id": 1074719,
+				"order": 21,
+				"name": "Montserrat Alcoverro",
+				"profile_path": "/cMQFatbVUzgH9inv19OPsgYONlZ.jpg",
+				"character": "Lucia",
+				"gender": 1
+			},
+			{
+				"id": 1631294,
+				"order": 22,
+				"name": "Catalina Botello",
+				"character": "Maria",
+				"gender": 1
+			},
+			{
+				"id": 2081537,
+				"order": 23,
+				"name": "Juan Carlos Montes-Roldán",
+				"character": "The Priest"
+			},
+			{
+				"id": 2081536,
+				"order": 24,
+				"name": "Kian Nagel",
+				"character": "Bicycle Boy"
+			},
+			{
+				"id": 6142646,
+				"order": 25,
+				"name": "Robin Windvogel",
+				"character": "Eager Student"
+			},
+			{
+				"id": 2863913,
+				"order": 26,
+				"name": "Jonathan Gunning",
+				"profile_path": "/zAhGDV1kLUXIf21XWpNPSySLlKT.jpg",
+				"character": "The Eighty-First Mummy",
+				"gender": 2
+			},
+			{
+				"id": 1109796,
+				"order": 27,
+				"name": "Omar El-Saeidi",
+				"profile_path": "/pS0rvIXRjXAISRBAvCORl2NuoAM.jpg",
+				"character": "Gamal Khalil",
+				"gender": 2
+			},
+			{
+				"id": 6142653,
+				"order": 28,
+				"name": "Aisha Laouini",
+				"character": "Young Layla Khalil"
+			},
+			{
+				"id": 6142655,
+				"order": 29,
+				"name": "Arkin Cureklibatir",
+				"character": "Jabari Khalil"
+			},
+			{
+				"id": 5431046,
+				"order": 30,
+				"name": "Safi Mulki",
+				"character": "Tariq Khalil"
+			},
+			{
+				"id": 187776,
+				"order": 31,
+				"name": "Jolly Abraham",
+				"profile_path": "/os5BjL5bns8OGJKqKanSyISAovz.jpg",
+				"character": "Newsreader",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 1398631,
+				"name": "Lee Cronin",
+				"profile_path": "/qRJgpkLTXE1EkmmHvmD4AnvrFap.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1398631,
+				"name": "Lee Cronin",
+				"profile_path": "/qRJgpkLTXE1EkmmHvmD4AnvrFap.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 84348,
+				"name": "Jason Blum",
+				"profile_path": "/oOsdVzSXyj1L1mKN3d2QcF01hkc.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2302448,
+				"name": "Judson Scott",
+				"profile_path": "/8Z0AgsiQ3KAvgnluRTTCXSInnsF.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1800923,
+				"name": "Michael Clear",
+				"profile_path": "/8RftlJWKL5ktLGDHADoAciZGNdP.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2127,
+				"name": "James Wan",
+				"profile_path": "/bNJccMIKzCtYnndcOKniSKCzo5Y.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1398636,
+				"name": "John Keville",
+				"profile_path": "/bKSybRShQ8T97jhGNwgZleEowcT.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 983674,
+				"name": "Macdara Kelleher",
+				"profile_path": "/aX67wsbmLvbz0D1qvFyT0jwhmLw.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3866612,
+				"name": "Alayna Glasthal",
+				"profile_path": "/voDD8RLFx3E2HGLNeC9YgVzebow.jpg",
+				"job": "Executive In Charge Of Production",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1533529,
+				"name": "Sarah Domeier Lindo",
+				"profile_path": "/vpvgNtUfZxLmbAq7SwxEcsb1gXW.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 494,
+				"name": "Terri Taylor",
+				"profile_path": "/jSpPyN8MYCNgUKmCUanuK3BtuZ5.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 132585,
+				"name": "Nick Bassett",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1849720,
+				"name": "Linda Gannon",
+				"job": "Hair Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1484013,
+				"name": "Daire Glynn",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1398631,
+				"name": "Lee Cronin",
+				"profile_path": "/qRJgpkLTXE1EkmmHvmD4AnvrFap.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1396749,
+				"name": "Dave Garbett",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1802505,
+				"name": "Dorothy McDonnell",
+				"job": "Unit Production Manager",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1467580,
+				"name": "Charlie Endean",
+				"job": "Second Unit Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2082463,
+				"name": "Hugh Fox",
+				"job": "Production Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 2059959,
+				"name": "Joanna Eatwell",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 63357,
+				"name": "Stephen McKeon",
+				"profile_path": "/brRqLMgIQdYfl9PlXUfgysZ45Pa.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1155983,
+				"name": "Bryan Shaw",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 2096524,
+				"name": "Russell Bowen",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 3005705,
+				"name": "John Kennedy",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 3997672,
+				"name": "Blake Anderson",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 5938922,
+				"name": "Laura Jones",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 207880,
+				"name": "Nathalie Girard",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 1
+			},
+			{
+				"id": 4445622,
+				"name": "Pete Chiappetta",
+				"profile_path": "/t2gaoeKDpCvzIhVzr7rQrX4gBjn.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4445623,
+				"name": "Andrew Lary",
+				"profile_path": "/cmiInaHyivPOr9OZyOMwDLiiINf.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4445624,
+				"name": "Anthony Tittanegro",
+				"profile_path": "/3KPNXBg7a1jw97234n98weScLmF.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1846729,
+				"name": "Niamh Gale",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 3866612,
+				"name": "Alayna Glasthal",
+				"profile_path": "/voDD8RLFx3E2HGLNeC9YgVzebow.jpg",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2069678,
+				"name": "Jennifer Scudder Trent",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2023793,
+				"name": "Shane McEnroe",
+				"job": "Supervising Art Director",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1441669,
+				"name": "Gary McGinty",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 2023788,
+				"name": "Kevin Downey",
+				"job": "Set Decoration",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1401274,
+				"name": "Liz Byrne",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 229811,
+				"name": "Arjen Tuiten",
+				"profile_path": "/AjqkJWhXaobmbr7VvhRPByz5Naa.jpg",
+				"job": "Prosthetic Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1986811,
+				"name": "Mike Hayes",
+				"job": "Second Unit First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5736921,
+				"name": "Nicola Long",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1283379,
+				"name": "Peter Albrechtsen",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1283379,
+				"name": "Peter Albrechtsen",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1354923,
+				"name": "Garret Farrell",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1354923,
+				"name": "Garret Farrell",
+				"job": "Supervising Dialogue Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1401278,
+				"name": "Brendan Condren",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1569649,
+				"name": "Barry Conroy",
+				"job": "Gaffer",
+				"department": "Lighting"
+			},
+			{
+				"id": 1594163,
+				"name": "Cathal Watters",
+				"job": "Second Unit Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 4223790,
+				"name": "Ella Gale",
+				"job": "Associate Producer",
+				"department": "Production",
+				"gender": 1
+			}
+		]
+	}
+}
