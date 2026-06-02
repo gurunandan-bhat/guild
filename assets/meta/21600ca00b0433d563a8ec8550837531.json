@@ -1,0 +1,553 @@
+{
+	"id": 1340206,
+	"title": "Tuner",
+	"fcg_title": "Tuner",
+	"original_title": "Tuner",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "A talented piano tuner's life is turned upside down when he discovers that his meticulous skills for tuning pianos can equally be applied to cracking safes.",
+	"backdrop_path": "/y04gpYp8rJoUud6vf8okqHIdP4V.jpg",
+	"poster_path": "/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
+	"release_date": "2026-05-11",
+	"credits": {
+		"cast": [
+			{
+				"id": 3477880,
+				"order": 0,
+				"name": "Leo Woodall",
+				"profile_path": "/aurLg09FobKlhY3fNLg2xyiNBaZ.jpg",
+				"character": "Niki White",
+				"gender": 2
+			},
+			{
+				"id": 2378813,
+				"order": 1,
+				"name": "Havana Rose Liu",
+				"profile_path": "/lqdialbfdj5l4KYMSlL4aausMaV.jpg",
+				"character": "Ruthie",
+				"gender": 1
+			},
+			{
+				"id": 1259880,
+				"order": 2,
+				"name": "Lior Raz",
+				"profile_path": "/bl3KLFUQ4Q0zC9lCU4qP1Jf4qHS.jpg",
+				"character": "Uri",
+				"gender": 2
+			},
+			{
+				"id": 41640,
+				"order": 3,
+				"name": "Tovah Feldshuh",
+				"profile_path": "/c0VOkTP88UneW37YOBebtBhMHYF.jpg",
+				"character": "Marla",
+				"gender": 1
+			},
+			{
+				"id": 1003,
+				"order": 4,
+				"name": "Jean Reno",
+				"profile_path": "/mw0EZJYz3kiFq9fNxsML773gotF.jpg",
+				"character": "Marius Maissner",
+				"gender": 2
+			},
+			{
+				"id": 4483,
+				"order": 5,
+				"name": "Dustin Hoffman",
+				"profile_path": "/yxNGnTiou25c3zjppT5dW2eWAve.jpg",
+				"character": "Harry Horowitz",
+				"gender": 2
+			},
+			{
+				"id": 1074677,
+				"order": 6,
+				"name": "Jonnie Park",
+				"profile_path": "/lcIPg223TayLkrDvaizIOwSADQY.jpg",
+				"character": "Sung",
+				"gender": 2
+			},
+			{
+				"id": 88929,
+				"order": 7,
+				"name": "Jean Yoon",
+				"profile_path": "/ce8sXtsy7HNGWG0xqSo4QTaghjM.jpg",
+				"character": "Dr. Madeline Richard",
+				"gender": 1
+			},
+			{
+				"id": 164380,
+				"order": 8,
+				"name": "C.S. Lee",
+				"profile_path": "/cjqzZKv7iCDk2o5Wp2TlhxuQi52.jpg",
+				"character": "Yong",
+				"gender": 2
+			},
+			{
+				"id": 1715727,
+				"order": 9,
+				"name": "Gil Cohen",
+				"profile_path": "/lHZi4fChatE5ul54xaAAWppQ8sR.jpg",
+				"character": "Yoni",
+				"gender": 2
+			},
+			{
+				"id": 5137293,
+				"order": 10,
+				"name": "Nissan Sakira",
+				"character": "Benny"
+			},
+			{
+				"id": 3935420,
+				"order": 11,
+				"name": "Rek Lee",
+				"character": "Jinwoo",
+				"gender": 2
+			},
+			{
+				"id": 15193,
+				"order": 12,
+				"name": "Herbie Hancock",
+				"profile_path": "/xjXWB5vdaiU9wUiOAkQeRY0cwob.jpg",
+				"character": "Herbie Hancock",
+				"gender": 2
+			},
+			{
+				"id": 1118078,
+				"order": 13,
+				"name": "Ellyn Jameson",
+				"profile_path": "/vQgw1yscHN1TaEOCyVXQDqyXuzR.jpg",
+				"character": "Ellyn",
+				"gender": 1
+			},
+			{
+				"id": 141217,
+				"order": 14,
+				"name": "David Reale",
+				"profile_path": "/6Mo33Tpd9Ou7nRjKjZ1iMBc2jq0.jpg",
+				"character": "Travis Conway",
+				"gender": 2
+			},
+			{
+				"id": 1140031,
+				"order": 15,
+				"name": "Earl McLean Jr.",
+				"character": "Mr. Douglas",
+				"gender": 2
+			},
+			{
+				"id": 1182525,
+				"order": 16,
+				"name": "Nicola Correia Damude",
+				"profile_path": "/dXCTl0yKbMzt6sDacI1rrt8lQv3.jpg",
+				"character": "Brownstone Homeowner",
+				"gender": 1
+			},
+			{
+				"id": 90813,
+				"order": 17,
+				"name": "Alisen Down",
+				"profile_path": "/jKf27PDUjzz3rTxbDgC2IGctzik.jpg",
+				"character": "Mansion Homeowner",
+				"gender": 1
+			},
+			{
+				"id": 6246498,
+				"order": 18,
+				"name": "Amy Lee",
+				"character": "Event Planner"
+			},
+			{
+				"id": 5094587,
+				"order": 19,
+				"name": "Graham Knox",
+				"character": "Security Guard"
+			},
+			{
+				"id": 5526711,
+				"order": 20,
+				"name": "Alexandra Verma",
+				"character": "Cashier"
+			},
+			{
+				"id": 1796391,
+				"order": 21,
+				"name": "Abanoub Andraous",
+				"profile_path": "/gORqr1Qfm0vE90OFssGKQUxCmLm.jpg",
+				"character": "Nurse"
+			},
+			{
+				"id": 1667160,
+				"order": 22,
+				"name": "Ty Kostyk",
+				"profile_path": "/qtVvyNZ0EfpV6BHsO4jdZ4Sk4Lv.jpg",
+				"character": "Orderly",
+				"gender": 2
+			},
+			{
+				"id": 2618039,
+				"order": 23,
+				"name": "Dorren Lee",
+				"profile_path": "/ge9mgrsnqAahwbsHJMX5lTuKtOU.jpg",
+				"character": "Maissner Assistant",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 1932822,
+				"name": "Daniel Roher",
+				"profile_path": "/A8A1kXh8X2yPDJcgBZpE1tV7zu3.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 52053,
+				"name": "Robert Ramsey",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4770,
+				"name": "JoAnne Sellar",
+				"profile_path": "/1Z3PwpavLD7aRtaYCGiExwJz1B5.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 18783,
+				"name": "Lila Yacoub",
+				"profile_path": "/32ZcqrWgAjO74trd8tGDdtKagjb.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1293141,
+				"name": "Lowell A. Meyer",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1319609,
+				"name": "Greg O'Bryant",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 933333,
+				"name": "John Buchan",
+				"profile_path": "/ddN6XClbwbiAlONc2FPGW1Q6NZp.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1660711,
+				"name": "Dylan Jury",
+				"profile_path": "/qLiWkJ8jQh3yHkQ8eERSbxmB9OH.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 190936,
+				"name": "Jason Knight",
+				"profile_path": "/h7GzTnXfx73qCdUPylUxeYrNfaZ.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 495,
+				"name": "Debra Zane",
+				"profile_path": "/wiJJU7vSHNsW5HFkz2WX38Wg5xH.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 982879,
+				"name": "Peter Cosco",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1598733,
+				"name": "Andrea Kristof",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 3255351,
+				"name": "Andrew Hill",
+				"job": "Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 1060979,
+				"name": "Sarah Millman",
+				"profile_path": "/QHKw88tCVrCQnwXJOSiFDfUoZ2.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1963289,
+				"name": "Candice Ornstein",
+				"job": "Makeup Department Head",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5137299,
+				"name": "Kerry Vaughan",
+				"job": "Key Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3244489,
+				"name": "Danielle Dmytraszko",
+				"job": "Post Production Supervisor",
+				"department": "Crew"
+			},
+			{
+				"id": 5137301,
+				"name": "David Botros",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 1568825,
+				"name": "Dave Bracken",
+				"job": "Construction Coordinator",
+				"department": "Art"
+			},
+			{
+				"id": 2231845,
+				"name": "Roque Espiritu",
+				"job": "Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 5137305,
+				"name": "Mike Gibbs",
+				"job": "Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 2128122,
+				"name": "Jen Gillespie",
+				"job": "Clearances Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 5137306,
+				"name": "Mathieu Goupil-Lemay",
+				"job": "Painter",
+				"department": "Art"
+			},
+			{
+				"id": 1955803,
+				"name": "Andy Joyce",
+				"job": "Dresser",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5137307,
+				"name": "Chloe Leonard",
+				"job": "Assistant Property Master",
+				"department": "Art"
+			},
+			{
+				"id": 1377881,
+				"name": "Maggie McMichael",
+				"job": "Props",
+				"department": "Art"
+			},
+			{
+				"id": 4577578,
+				"name": "Allan McNerney",
+				"job": "Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 5137309,
+				"name": "Sasha Vojvodic",
+				"job": "Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 2214618,
+				"name": "Adrienne Trent",
+				"job": "On Set Dresser",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1993450,
+				"name": "John Moran",
+				"job": "Graphic Designer",
+				"department": "Art"
+			},
+			{
+				"id": 3420200,
+				"name": "Maya Modzynski",
+				"job": "Art Department Coordinator",
+				"department": "Art"
+			},
+			{
+				"id": 5137322,
+				"name": "Jennifer Celi",
+				"job": "Second Assistant \"B\" Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 5137325,
+				"name": "Daniel Tacchino",
+				"job": "Digital Imaging Technician",
+				"department": "Camera"
+			},
+			{
+				"id": 3230838,
+				"name": "Cindy Lin",
+				"job": "Casting Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 1316159,
+				"name": "Marius de Vries",
+				"profile_path": "/xIMYzb0xd07ZVxr5vmtFwreuxm7.jpg",
+				"job": "Executive Music Producer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1634470,
+				"name": "Steven Gizicki",
+				"job": "Music Supervisor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1913694,
+				"name": "Jenny Mac",
+				"job": "Script Supervisor",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 2156031,
+				"name": "Jonnie Katz",
+				"profile_path": "/gjGtIjW4RL634CvZUYHY05z5ilT.jpg",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 930989,
+				"name": "Will Bates",
+				"profile_path": "/uKnRSTr2bszMh95Z7wZXo36lwou.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1932822,
+				"name": "Daniel Roher",
+				"profile_path": "/A8A1kXh8X2yPDJcgBZpE1tV7zu3.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1080589,
+				"name": "Teddy Schwarzman",
+				"profile_path": "/7apJa3ZEMKRftobSxqa01dxfz7v.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2213707,
+				"name": "Michael Heimler",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 59938,
+				"name": "Noah Segal",
+				"profile_path": "/dSf7zf1dBn44mbOd2XcWTak8Rww.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 986632,
+				"name": "Christina Piovesan",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 4246179,
+				"name": "Courtney L. Cunniff",
+				"profile_path": "/pBcVv29gq5dIaek2lx0foLj0rLz.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1533678,
+				"name": "John Friedberg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 72447,
+				"name": "Andrew Golov",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 52053,
+				"name": "Robert Ramsey",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 64759,
+				"name": "Mary Anne Waterhouse",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1341735,
+				"name": "Johnnie Burn",
+				"profile_path": "/tet4Lh1uEKKwwI18gfAlx5vONLb.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			}
+		]
+	}
+}
