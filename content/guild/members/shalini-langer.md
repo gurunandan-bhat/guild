@@ -5,6 +5,11 @@ weight = 352
 title = 'Shalini Langer'
 organizations = ['Indian Express']
 img = '/images/members/shalini-langer.jpg'
+
+[soc_media]
+twitter = 'https://x.com/shalinilanger'
++++
+
 +++
 
 Shalini Langer is Editor (Planning and Projects) at The Indian Express, where she oversees special reports and forthcoming news events, planning their coverage, presentation, and editorial direction.
