@@ -10,8 +10,6 @@ img = '/images/members/shalini-langer.jpg'
 twitter = 'https://x.com/shalinilanger'
 +++
 
-+++
-
 Shalini Langer is Editor (Planning and Projects) at The Indian Express, where she oversees special reports and forthcoming news events, planning their coverage, presentation, and editorial direction.
 
 A film critic for more than two decades, she has reviewed predominantly Hollywood cinema, while also writing extensively on Indian films. Her passion for both cinema and writing has shaped a distinguished career marked by insightful, independent, and forthright criticism. Known for her unbiased approach and refusal to be swayed by popular opinion, her reviews have earned the respect of both readers and industry peers. Beyond film reviews, Langer frequently writes on the intersection of cinema and society, exploring the ways in which films connect people across cultures and influence everyday life. Her diverse editorial and critical roles inform and enrich her writing, bringing a broad perspective to her work.
