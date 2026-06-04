@@ -1,0 +1,215 @@
+{
+	"id": 1628448,
+	"title": "Maa Behen",
+	"fcg_title": "Maa Behen",
+	"original_title": "Maa Behen",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "In this dark comedy, a woman calls her estranged daughters in the middle of the night with chilling news — there's a dead body in her kitchen.",
+	"backdrop_path": "/aV5YOTVTnO2wYcN2AlNbdgnBYpb.jpg",
+	"poster_path": "/dpQIeEunpgj0C4rngb6OFb4zSd1.jpg",
+	"release_date": "2026-06-04",
+	"credits": {
+		"cast": [
+			{
+				"id": 76232,
+				"order": 0,
+				"name": "Madhuri Dixit",
+				"profile_path": "/8JRQ7bASERlvAIA7mkJYQw4ldS8.jpg",
+				"character": "Rekha",
+				"gender": 1
+			},
+			{
+				"id": 2100209,
+				"order": 1,
+				"name": "Triptii Dimri",
+				"profile_path": "/rGyxSvRhohagcF7lutUUQ2ARD5X.jpg",
+				"character": "Jaya",
+				"gender": 1
+			},
+			{
+				"id": 85882,
+				"order": 2,
+				"name": "Ravi Kishan",
+				"profile_path": "/rkUTRk0tuA98RepP9jhgcCbhHqy.jpg",
+				"character": "Gupta Ji",
+				"gender": 2
+			},
+			{
+				"id": 4207884,
+				"order": 3,
+				"name": "Dharna Durga",
+				"character": "Sushma"
+			},
+			{
+				"id": 1529105,
+				"order": 4,
+				"name": "Jatin Sarna",
+				"profile_path": "/bnKqppKcRxSiEPiq2Fmbriibf5N.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1432496,
+				"order": 5,
+				"name": "Geetanjali Kulkarni",
+				"profile_path": "/mkv3E3JN2iHWBPch93xwmBLAlEh.jpg",
+				"gender": 1
+			},
+			{
+				"id": 130589,
+				"order": 6,
+				"name": "Arunoday Singh",
+				"profile_path": "/tsiGIhjEwfR5SlKNsnl6VjocLoE.jpg",
+				"gender": 2
+			},
+			{
+				"id": 2530031,
+				"order": 7,
+				"name": "Shardul Bhardwaj",
+				"profile_path": "/k9lgOvLqN7hJn56TGUElhXojGkO.jpg"
+			}
+		],
+		"crew": [
+			{
+				"id": 1927085,
+				"name": "Suresh Triveni",
+				"profile_path": "/tGAwHwnkhEiDy4zgjDS1MvdTZqU.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1740420,
+				"name": "Vikram Malhotra",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1927085,
+				"name": "Suresh Triveni",
+				"profile_path": "/tGAwHwnkhEiDy4zgjDS1MvdTZqU.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4137050,
+				"name": "Pooja Tolani",
+				"profile_path": "/ziLBXiFkvShLR9re90se0brQNKf.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 1462556,
+				"name": "Anuj Dhawan",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 4127289,
+				"name": "Eesha Danait",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1927085,
+				"name": "Suresh Triveni",
+				"profile_path": "/tGAwHwnkhEiDy4zgjDS1MvdTZqU.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 223855,
+				"name": "Dipika Kalra",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1911375,
+				"name": "Vijay Ganguly",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3333841,
+				"name": "Akashdeep Sengupta",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 3210250,
+				"name": "Shubham Shirule",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 2149909,
+				"name": "Ashirwad Hadkar",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 1765162,
+				"name": "Ayush Saini",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1755492,
+				"name": "Veera Kapur Ee",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1708062,
+				"name": "Anmol Ahuja",
+				"job": "Casting Director",
+				"department": "Production"
+			},
+			{
+				"id": 4137019,
+				"name": "Subhajit Mukherjee",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 1810275,
+				"name": "Vikram Dahiya",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 1549730,
+				"name": "Mandar Kulkarni",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 2589583,
+				"name": "Ajay Chodanker",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 2051152,
+				"name": "Chinmay Ogale",
+				"job": "Post Producer",
+				"department": "Production"
+			}
+		]
+	}
+}
