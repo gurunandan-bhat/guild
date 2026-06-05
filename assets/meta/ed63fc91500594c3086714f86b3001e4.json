@@ -1,0 +1,68 @@
+{
+	"id": 226560,
+	"name": "Brown",
+	"fcg_title": "Brown",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 9648,
+			"name": "Mystery"
+		}
+	],
+	"overview": "Brown is a recovering alcoholic, who works for Kolkata Police and has to investigate the murder of a young woman from a well-known family.",
+	"poster_path": "/nRXe63wEpuoujZIQ4uMWI0VgmV2.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 76233,
+				"order": 0,
+				"name": "Karisma Kapoor",
+				"profile_path": "/fqSzKXcBzTP0BxWUh3poExOApmd.jpg",
+				"character": "Brown",
+				"gender": 1
+			},
+			{
+				"id": 110102,
+				"order": 1,
+				"name": "Helen",
+				"profile_path": "/tNQWTzBtvDn7fpYrqCW2lekuYhH.jpg",
+				"gender": 1
+			},
+			{
+				"id": 6520,
+				"order": 2,
+				"name": "Soni Razdan",
+				"profile_path": "/yOkPrW9Dnut5FqePGz34PdTpF2s.jpg",
+				"gender": 1
+			},
+			{
+				"id": 2707474,
+				"order": 3,
+				"name": "Surya Sharma",
+				"profile_path": "/qDrADVYJBGAZXvZBh5ZVRO23FAX.jpg"
+			},
+			{
+				"id": 1032611,
+				"order": 4,
+				"name": "K.K. Raina",
+				"profile_path": "/eh2IJNYaawqClxksenUjeHqxey4.jpg",
+				"gender": 2
+			},
+			{
+				"id": 545144,
+				"order": 5,
+				"name": "Jisshu Sengupta",
+				"profile_path": "/6Ha4p2iQOHpnKC1uB4NKJ53kHRi.jpg",
+				"gender": 2
+			}
+		]
+	}
+}
