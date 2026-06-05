@@ -1,0 +1,273 @@
+{
+	"id": 1602337,
+	"title": "Parimala \u0026 Co",
+	"fcg_title": "Parimala and Co",
+	"original_title": "பரிமளா \u0026 கோ",
+	"original_language": "ta",
+	"genres": [
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 35,
+			"name": "Comedy"
+		}
+	],
+	"overview": "A dark comedy centered around a chaotic family whose tangled relationships and unpredictable situations lead to emotionally charged and absurd moments, blending humor with underlying tension and drama.",
+	"backdrop_path": "/hcQ9Kcmc34yYElii4fjFxABQYqq.jpg",
+	"poster_path": "/vN2TOTKin83av7hwYnwAKSd3EG8.jpg",
+	"release_date": "2026-06-05",
+	"credits": {
+		"cast": [
+			{
+				"id": 141704,
+				"order": 0,
+				"name": "Jayaram",
+				"profile_path": "/cc1SfVFctuYH353NgxXNBoAFX2d.jpg",
+				"character": "Parimala",
+				"gender": 2
+			},
+			{
+				"id": 141702,
+				"order": 1,
+				"name": "Urvashi",
+				"profile_path": "/s5q8iDWeZ8lVBtr87kBXS0S326H.jpg",
+				"character": "Suthandhira",
+				"gender": 1
+			},
+			{
+				"id": 3791747,
+				"order": 2,
+				"name": "Sanjana Krishnamoorthy",
+				"profile_path": "/eNYxaRfb8xyj0OoNa46txZhzuWw.jpg",
+				"character": "Parasakthi",
+				"gender": 1
+			},
+			{
+				"id": 3628181,
+				"order": 3,
+				"name": "Ananthika Sanilkumar",
+				"profile_path": "/kseTOgntXALcIiyUbCivxeTDCpG.jpg",
+				"character": "Madhumitha",
+				"gender": 1
+			},
+			{
+				"id": 560039,
+				"order": 4,
+				"name": "Mysskin",
+				"profile_path": "/2g65eG5FBh9oOMAhxpfk5T6um6A.jpg",
+				"character": "Emperumaan",
+				"gender": 2
+			},
+			{
+				"id": 1540764,
+				"order": 5,
+				"name": "Yogi Babu",
+				"profile_path": "/vjUkJ67Bkv47TVHYIcQfQdjDqJw.jpg",
+				"gender": 2
+			},
+			{
+				"id": 2112010,
+				"order": 6,
+				"name": "Sandy",
+				"profile_path": "/hyZHicpeea7dtOBUo7nuCEYXsS2.jpg",
+				"character": "Varghese",
+				"gender": 2
+			},
+			{
+				"id": 1662028,
+				"order": 7,
+				"name": "Santosh Shoban",
+				"profile_path": "/wDyB2jzRlJHtkeevu9IS97m2pAP.jpg",
+				"gender": 2
+			},
+			{
+				"id": 3771640,
+				"order": 8,
+				"name": "G. K. M. Tamil Kumaran",
+				"profile_path": "/oTuWEIQ4r4KE5BsN3S7Ekdv2eta.jpg",
+				"character": "Koviyan",
+				"gender": 2
+			},
+			{
+				"id": 1174161,
+				"order": 9,
+				"name": "Swasika",
+				"profile_path": "/7LWxyKwGH5S1ZwEEjlbBcDUJKk8.jpg",
+				"gender": 1
+			},
+			{
+				"id": 1128068,
+				"order": 10,
+				"name": "Bagavathi Perumal",
+				"profile_path": "/ixK5bTpLOIXc8oJVE1IVMzcJrB2.jpg",
+				"gender": 2
+			},
+			{
+				"id": 585374,
+				"order": 11,
+				"name": "Singampuli",
+				"profile_path": "/aB5dVUeJU64IAatguQgbHHbUZsj.jpg",
+				"gender": 2
+			},
+			{
+				"id": 5246228,
+				"order": 12,
+				"name": "Gayathri Krishnan",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 1052915,
+				"name": "Pandiraj",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1052915,
+				"name": "Pandiraj",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1652019,
+				"name": "Allirajah Subaskaran",
+				"profile_path": "/s2BK7waKkz6Zg33tvnuibnO57bZ.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1209904,
+				"name": "George C. Williams",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2268249,
+				"name": "Prasath Somasekar",
+				"job": "Colorist",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 6181827,
+				"name": "C. Vijay",
+				"job": "Production Controller",
+				"department": "Crew"
+			},
+			{
+				"id": 6181828,
+				"name": "Ramadoss",
+				"job": "Production Controller",
+				"department": "Crew"
+			},
+			{
+				"id": 3286268,
+				"name": "AIM Sathish",
+				"profile_path": "/6FBPOHIBvyaw0DukulMw5jzMOHc.jpg",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1640338,
+				"name": "Poornima Ramaswamy",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 5413063,
+				"name": "K. Nataraj",
+				"job": "Costumer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3332937,
+				"name": "B.R. Venkatesh",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1643495,
+				"name": "M. R. Rajakrishnan",
+				"job": "Sound Engineer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 6095935,
+				"name": "Foxn",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 1669113,
+				"name": "Pradeep E. Ragav",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1652641,
+				"name": "T. Ramalingam",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 4433187,
+				"name": "Kalai Kingson",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 2112010,
+				"name": "Sandy",
+				"profile_path": "/hyZHicpeea7dtOBUo7nuCEYXsS2.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1640252,
+				"name": "Baba Baskar",
+				"profile_path": "/rOge0AewXnEOL7hKFta7PqzqrvE.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 6181845,
+				"name": "Santhosh Kumar",
+				"job": "Music Supervisor",
+				"department": "Sound"
+			},
+			{
+				"id": 6212877,
+				"name": "PJ",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 6212880,
+				"name": "Wayne",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 6212877,
+				"name": "PJ",
+				"job": "Playback Singer",
+				"department": "Sound"
+			}
+		]
+	}
+}

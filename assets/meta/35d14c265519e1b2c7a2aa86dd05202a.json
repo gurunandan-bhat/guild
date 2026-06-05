@@ -1,0 +1,75 @@
+{
+	"id": 90966,
+	"name": "Gullak",
+	"fcg_title": "Gullak S05",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 10751,
+			"name": "Family"
+		}
+	],
+	"overview": "Set in quaint by-lanes in the heart of India, Gullak is a collection of disarming and relatable tales of the Mishra family.",
+	"backdrop_path": "/t0J74zw5N5Ux7CvvBtIHvjnSB4n.jpg",
+	"poster_path": "/yvUFbucJg19kaR1HMNc7FKdEwYl.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 113686,
+				"order": 0,
+				"name": "Jameel Khan",
+				"profile_path": "/cyezX9i1wLduoixoTIi6VID8lGA.jpg",
+				"character": "Santosh Mishra",
+				"gender": 2
+			},
+			{
+				"id": 1432496,
+				"order": 1,
+				"name": "Geetanjali Kulkarni",
+				"profile_path": "/mkv3E3JN2iHWBPch93xwmBLAlEh.jpg",
+				"character": "Shanti Mishra",
+				"gender": 1
+			},
+			{
+				"id": 1078758,
+				"order": 2,
+				"name": "Harsh Mayar",
+				"profile_path": "/gDWe45N6que4Ym5aLQSQUqaITpj.jpg",
+				"character": "Aman Mishra",
+				"gender": 2
+			},
+			{
+				"id": 1963342,
+				"order": 4,
+				"name": "Shivankit Singh Parihar",
+				"profile_path": "/2trIa00z7dWn1FSUIzVAXVH5wXE.jpg",
+				"character": "Gullak (voice)",
+				"gender": 2
+			},
+			{
+				"id": 2163264,
+				"order": 5,
+				"name": "Sunita Rajwar",
+				"profile_path": "/cEhnGiU6arxA4vxZCUspFWDP76F.jpg",
+				"character": "Bittu's Mother",
+				"gender": 1
+			},
+			{
+				"id": 2039294,
+				"order": 6,
+				"name": "Anant Joshi",
+				"profile_path": "/jcYbmTJZolVfFknhulko7i2KHSL.jpg",
+				"character": "Anand \"Annu\" Mishra",
+				"gender": 2
+			}
+		]
+	}
+}
