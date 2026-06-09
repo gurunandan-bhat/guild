@@ -9,7 +9,7 @@ img = '/images/members/srinivasan-r.jpg'
 [soc_media]
 facebook = 'http://facebook.com/srinivas.aravind'
 twitter = 'https://x.com/imnot_srinivas'
-instagram = 'https://www.instagram.com/srinivas_aravind__/'
+instagram = 'https://www.instagram.com/srinivas_aravind'
 +++
 
 Srinivasan R. is a Chennai-based journalist, film critic, and editorial leader with over 14 years of progressive experience across digital media and broadcast journalism. Currently serving as the Chief Digital Content Editor at Ananda Vikatan, he handles content strategy for the website and serves as a jury member for the prestigious Vikatan Cinema Awards.
