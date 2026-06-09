@@ -1,128 +1,128 @@
 {{ define "main" }}
-    {{ $extLinkIcon := index hugo.Data.svgicons.icons "externalLink" | safeHTML }}
-    {{- $red := "\033[0;31m" }}
-    {{- $reset := "\033[0m" }}
-    <div class="container-fluid">
-        <div style="height: 50px;"></div>
-    </div>
-    {{ $fullTitle := "" }}
-    {{ $firstPage := index .Pages 0 }}
-    {{ $fullTitle = $firstPage.Title }}
-    {{ with $firstPage.Params.translatedTitle }}
-        {{ $fullTitle = printf "%s (%s)" $fullTitle . }}
-    {{ end }}
-    <div>
-        {{ $title := .Title }}
-        {{ with partialCached "tmdb-meta.html" $title $title }}
-            {{ $scoreImg := partial "fcg-rating.html" (dict "title" $title "size" "large") }}
-            {{ partial "taxonomy/mreviews/metadata.html" (dict "meta" . "fullTitle" $fullTitle "scoreImg" $scoreImg) }}
-        {{ else }}
-            {{ if hugo.IsDevelopment }}
-                {{ warnf "%smreviews/term: Unable to get global resource %s%s" $red $title $reset }}
-            {{ end }}
-        {{ end }}
-    </div>
+{{ $extLinkIcon := index hugo.Data.svgicons.icons "externalLink" | safeHTML }}
+{{- $red := "\033[0;31m" }}
+{{- $reset := "\033[0m" }}
+<div class="container-fluid">
+	<div style="height: 50px;"></div>
+</div>
+{{ $fullTitle := "" }}
+{{ $firstPage := index .Pages 0 }}
+{{ $fullTitle = $firstPage.Title }}
+{{ with $firstPage.Params.translatedTitle }}
+	{{ $fullTitle = printf "%s (%s)" $fullTitle . }}
+{{ end }}
+<div>
+	{{ $title := .Title }}
+	{{ with partialCached "tmdb-meta.html" $title $title }}
+		{{ $scoreImg := partial "fcg-rating.html" (dict "title" $title "size" "large") }}
+		{{ partial "taxonomy/mreviews/metadata.html" (dict "meta" . "fullTitle" $fullTitle "scoreImg" $scoreImg) }}
+	{{ else }}
+		{{ if hugo.IsDevelopment }}
+			{{ warnf "%smreviews/term: Unable to get global resource %s%s" $red $title $reset }}
+		{{ end }}
+	{{ end }}
+</div>
 
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-10 offset-lg-1">
-                <h2 class="section-head">Guild Reviews</h2>
-            </div>
-            {{ $paginator := .Paginate .Pages 8 }}
-            <div class="d-flex justify-content-center mb-3">
-                {{ template "_internal/pagination.html" . }}
-            </div>
-            {{ range $paginator.Pages }}
-                <div class="row my-4">
-                    {{ if or (eq .Params.media "print") (eq .Params.media "audio") }}
-                        <div class="col-lg-4 offset-lg-1 pb-3">
-                            {{ printf "<!-- Path:  %s -->" .Page | safeHTML }}
-                            {{ $imgPath := printf "images/reviews/%s" .Params.img }}
-                            {{ with resources.Get $imgPath }}
-                                {{ with .Process "webp" }}
-                                    <img
-                                        src="{{ .RelPermalink }}"
-                                        class="img-fluid pt-1"
-                                        alt="Image of scene from the film {{ $fullTitle }}" />
-                                {{ end }}
-                            {{ else }}
-                                {{ if hugo.IsDevelopment }}
-                                    {{ warnf "mreviews/term: Image %s not found" $imgPath }}
-                                {{ end }}
-                            {{ end }}
-                        </div>
-                        <div class="col-lg-6">
-                            <div
-                                class="border border-start-2 border-end-2 border-top-0 border-bottom-0">
-                                <div
-                                    class="border border-3 border-top-0 border-start-0 border-end-0">
-                                    <div class="px-4">
-                                        <h2 class="mb-2">
-                                            {{ .Params.subtitle }}
-                                        </h2>
-                                        {{- partial "new-review-header.html" (dict "review" . "short" true) }}
-                                        {{ with .Params.opening }}
-                                            <p class="author">
-                                                {{ . }}
-                                            </p>
-                                        {{ end }}
-                                        <div class="small">
-                                            {{ .Summary }}
-                                        </div>
-                                        {{ with .Params.source }}
-                                            <p class="small">
-                                                <a
-                                                    href="{{ . }}"
-                                                    target="_blank">
-                                                    {{ $extLinkIcon }}
-                                                    Continue reading &hellip;</a
-                                                >
-                                            </p>
-                                        {{ end }}
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    {{ else }}
-                        <div class="col-lg-6 offset-lg-3">
-                            <div class="mb-5">
-                                <div
-                                    class="border border-start-2 border-end-2 border-top-0 border-bottom-0">
-                                    <div
-                                        class="border border-3 border-top-0 border-start-0 border-end-0">
-                                        <div class="p-2">
-                                            <h2 class="my-3">
-                                                {{ .Params.subtitle }}
-                                            </h2>
-                                            {{- partial "new-review-header.html" (dict "review" . "short" true) }}
-                                            <div class="small">
-                                                {{ .Summary }}
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    {{ end }}
-                </div>
-            {{ end }}
-            <div class="d-flex justify-content-center">
-                {{ template "_internal/pagination.html" . }}
-            </div>
-            {{ $reviews := partial "recent-film-list.html" (dict "maxCount" 4 "section" "reviews") }}
-            <div class="row">
-                <h2 class="section-head">Latest Reviews</h2>
-            </div>
-            <div class="row">
-                {{ range $reviews }}
-                    <div
-                        class="col-lg-3 pe-3"
-                        style="background-color: #ebe4ed;">
-                        {{ $scoreImg := partial "fcg-rating.html" (dict "title" .LinkTitle "size" "medium") }}
-                        {{ partial "short-meta.html" (dict "review" . "type" "short" "scoreImg" $scoreImg) }}
-                    </div>
-                {{ end }}
-            </div>
-        </div>
-    </div>
+<div class="container">
+	<div class="row">
+		<div class="col-lg-10 offset-lg-1">
+			<h2 class="section-head">Guild Reviews</h2>
+		</div>
+		{{ $paginator := .Paginate .Pages 8 }}
+		<div class="d-flex justify-content-center mb-3">
+			{{ template "_internal/pagination.html" . }}
+		</div>
+		{{ range $paginator.Pages }}
+			<div class="row my-4">
+				{{ if or (eq .Params.media "print") (eq .Params.media "audio") }}
+					<div class="col-lg-4 offset-lg-1 pb-3">
+						{{ printf "<!-- Path:  %s -->" .Page | safeHTML }}
+						{{ $imgPath := printf "images/reviews/%s" .Params.img }}
+						{{ with resources.Get $imgPath }}
+							{{ with .Process "webp" }}
+								<img
+									src="{{ .RelPermalink }}"
+									class="img-fluid pt-1"
+									alt="Image of scene from the film {{ $fullTitle }}" />
+							{{ end }}
+						{{ else }}
+							{{ if hugo.IsDevelopment }}
+								{{ warnf "mreviews/term: Image %s not found" $imgPath }}
+							{{ end }}
+						{{ end }}
+					</div>
+					<div class="col-lg-6">
+						<div
+							class="border border-start-2 border-end-2 border-top-0 border-bottom-0">
+							<div
+								class="border border-3 border-top-0 border-start-0 border-end-0">
+								<div class="px-4">
+									<h2 class="mb-2">
+										{{ .Params.subtitle }}
+									</h2>
+									{{- partial "new-review-header.html" (dict "review" . "short" true) }}
+									{{ with .Params.opening }}
+										<p class="opening">
+											{{ . }}
+										</p>
+									{{ end }}
+									<div class="small">
+										{{ .Summary }}
+									</div>
+									{{ with .Params.source }}
+										<p class="small">
+											<a
+												href="{{ . }}"
+												target="_blank">
+												{{ $extLinkIcon }}
+												Continue reading &hellip;</a
+											>
+										</p>
+									{{ end }}
+								</div>
+							</div>
+						</div>
+					</div>
+				{{ else }}
+					<div class="col-lg-6 offset-lg-3">
+						<div class="mb-5">
+							<div
+								class="border border-start-2 border-end-2 border-top-0 border-bottom-0">
+								<div
+									class="border border-3 border-top-0 border-start-0 border-end-0">
+									<div class="p-2">
+										<h2 class="my-3">
+											{{ .Params.subtitle }}
+										</h2>
+										{{- partial "new-review-header.html" (dict "review" . "short" true) }}
+										<div class="small">
+											{{ .Summary }}
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				{{ end }}
+			</div>
+		{{ end }}
+		<div class="d-flex justify-content-center">
+			{{ template "_internal/pagination.html" . }}
+		</div>
+		{{ $reviews := partial "recent-film-list.html" (dict "maxCount" 4 "section" "reviews") }}
+		<div class="row">
+			<h2 class="section-head">Latest Reviews</h2>
+		</div>
+		<div class="row">
+			{{ range $reviews }}
+				<div
+					class="col-lg-3 pe-3"
+					style="background-color: #ebe4ed;">
+					{{ $scoreImg := partial "fcg-rating.html" (dict "title" .LinkTitle "size" "medium") }}
+					{{ partial "short-meta.html" (dict "review" . "type" "short" "scoreImg" $scoreImg) }}
+				</div>
+			{{ end }}
+		</div>
+	</div>
+</div>
 {{ end }}

@@ -67,6 +67,12 @@ h2 {
     color: #757575;
 }
 
+.opening {
+    font-family: "DIN-2014_Bold", sans-serif;
+    font-weight: 500;
+    color: #924c9d;
+}
+
 .pub-date {
     font-family: "Poppins", sans-serif;
     font-weight: 400;
