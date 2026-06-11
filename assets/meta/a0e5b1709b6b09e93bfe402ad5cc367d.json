@@ -1,0 +1,811 @@
+{
+	"id": 1083381,
+	"title": "Backrooms",
+	"fcg_title": "Backrooms",
+	"original_title": "Backrooms",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 27,
+			"name": "Horror"
+		},
+		{
+			"id": 9648,
+			"name": "Mystery"
+		},
+		{
+			"id": 878,
+			"name": "Science Fiction"
+		}
+	],
+	"overview": "A strange doorway appears in the basement of a furniture showroom.",
+	"backdrop_path": "/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
+	"poster_path": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+	"release_date": "2026-05-27",
+	"credits": {
+		"cast": [
+			{
+				"id": 5294,
+				"order": 0,
+				"name": "Chiwetel Ejiofor",
+				"profile_path": "/pbnWjBsze67Fbr3gZAP1ZP407ZU.jpg",
+				"character": "Clark",
+				"gender": 2
+			},
+			{
+				"id": 1576786,
+				"order": 1,
+				"name": "Renate Reinsve",
+				"profile_path": "/q0ljTd4fyFSJKxPgmcrKtdg3HKo.jpg",
+				"character": "Mary",
+				"gender": 1
+			},
+			{
+				"id": 45407,
+				"order": 2,
+				"name": "Mark Duplass",
+				"profile_path": "/lRDf99rAfcdqt8Cqk4LsIT7XSD2.jpg",
+				"character": "Phil",
+				"gender": 2
+			},
+			{
+				"id": 1512452,
+				"order": 3,
+				"name": "Finn Bennett",
+				"profile_path": "/p4ya77nmLlhS2cyPKUZi9zVD4Mu.jpg",
+				"character": "Bobby",
+				"gender": 2
+			},
+			{
+				"id": 1709431,
+				"order": 4,
+				"name": "Lukita Maxwell",
+				"profile_path": "/g5g6XxUAtSdPfsJrSoFkl7vH51d.jpg",
+				"character": "Kat",
+				"gender": 1
+			},
+			{
+				"id": 212934,
+				"order": 5,
+				"name": "Avan Jogia",
+				"profile_path": "/7BX0Lg39bHlgtvWZpszTr1YjTAW.jpg",
+				"character": "Naren Warne",
+				"gender": 2
+			},
+			{
+				"id": 4848549,
+				"order": 6,
+				"name": "Robert Bobroczkyi",
+				"profile_path": "/3SK7NuuBKR5PSJwsQ7HO4qHIM9C.jpg",
+				"character": "Pirate Clark",
+				"gender": 2
+			},
+			{
+				"id": 5725467,
+				"order": 7,
+				"name": "Ember Ambrose",
+				"profile_path": "/w7h6l4ltuWaMYanGgzwyhAHGL2y.jpg",
+				"character": "Young Mary",
+				"gender": 1
+			},
+			{
+				"id": 72482,
+				"order": 8,
+				"name": "Krista Kosonen",
+				"profile_path": "/7iW2mxbxBgV5sX2y0fSY78lewW4.jpg",
+				"character": "Nora",
+				"gender": 1
+			},
+			{
+				"id": 64670,
+				"order": 9,
+				"name": "Philip Granger",
+				"profile_path": "/bkrnrtSiUnumWVpAOy5QDcOePiA.jpg",
+				"character": "Meterman",
+				"gender": 2
+			},
+			{
+				"id": 27136,
+				"order": 10,
+				"name": "Katharine Isabelle",
+				"profile_path": "/c9db3Cq3BQhWXCmVthyGQBN1W95.jpg",
+				"character": "Robin",
+				"gender": 1
+			},
+			{
+				"id": 83424,
+				"order": 11,
+				"name": "Peter New",
+				"profile_path": "/bT71ieZH2qhgxLNTPyorMlVp3PN.jpg",
+				"character": "Big Wayne",
+				"gender": 2
+			},
+			{
+				"id": 1234354,
+				"order": 12,
+				"name": "Sarah Hayward",
+				"profile_path": "/qJUXnOYb9pAyjf8h0Jjp4gbY2w9.jpg",
+				"character": "Nurse",
+				"gender": 1
+			},
+			{
+				"id": 1451352,
+				"order": 13,
+				"name": "Natalie Moon",
+				"profile_path": "/cumEKvK8Nnw4wzJdrnyPoxfBL40.jpg",
+				"character": "Phil's Wife",
+				"gender": 1
+			},
+			{
+				"id": 2443548,
+				"order": 14,
+				"name": "Calix Fraser",
+				"profile_path": "/ddtaOOITYnRQatdxdjsaxnYHHzQ.jpg",
+				"character": "Phil's Child",
+				"gender": 2
+			},
+			{
+				"id": 3261193,
+				"order": 15,
+				"name": "Sawyer Fraser",
+				"profile_path": "/2Zz11ogqWhsofmSAFvHd0oXfUE3.jpg",
+				"character": "Phil's Child",
+				"gender": 2
+			},
+			{
+				"id": 85503,
+				"order": 16,
+				"name": "Patrick Baynham",
+				"profile_path": "/oa7qvjQOVCAiZimvn2uriwPypxe.jpg",
+				"character": "Bearded Still Life",
+				"gender": 2
+			},
+			{
+				"id": 3453836,
+				"order": 17,
+				"name": "Rhiannon Roberts",
+				"profile_path": "/uu8k7wfW82jIrEey2qnyhCozHIV.jpg",
+				"character": "Redheaded Still Life",
+				"gender": 1
+			},
+			{
+				"id": 6250110,
+				"order": 18,
+				"name": "Dana Mahmood",
+				"character": "Archibald Leland Sutter Still Life"
+			},
+			{
+				"id": 6250112,
+				"order": 19,
+				"name": "Matthew Patrick Savage",
+				"character": "Homeless Man"
+			},
+			{
+				"id": 3861547,
+				"order": 20,
+				"name": "Ramona Kim",
+				"character": "Party Attendant Mother",
+				"gender": 1
+			},
+			{
+				"id": 3818265,
+				"order": 21,
+				"name": "Milana Wan",
+				"character": "Party Attendant Daughter",
+				"gender": 1
+			},
+			{
+				"id": 1089919,
+				"order": 22,
+				"name": "Kelly Craig",
+				"profile_path": "/AeXj9nfhm05e0HgIVkPlf3SJVC1.jpg",
+				"character": "Barbara",
+				"gender": 1
+			},
+			{
+				"id": 6250118,
+				"order": 23,
+				"name": "Mel Kostas",
+				"character": "Rival Customer"
+			},
+			{
+				"id": 6274097,
+				"order": 24,
+				"name": "Noah Pierre D.",
+				"character": "Ali (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2474909,
+				"order": 25,
+				"name": "Allison Chassagne",
+				"profile_path": "/5fwcjAVrhLpBpkpAzsJ5po4qW1z.jpg",
+				"character": "Jessica (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 1935493,
+				"order": 26,
+				"name": "Alexandre Kominek",
+				"profile_path": "/traKkqriSgTNpE0dEF7Ehv08ZIf.jpg",
+				"character": "Backrground Performance (uncredited)",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 3688382,
+				"name": "Kane Parsons",
+				"profile_path": "/l4hXiK0NI84l328p6V3DEvDtgFE.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 17825,
+				"name": "Shawn Levy",
+				"profile_path": "/uZ40wDFzxPmzROJl9KxPgEGv9ME.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1718785,
+				"name": "Dan Cohen",
+				"profile_path": "/41OIfhCF9WTknhygke5sUioUe9R.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2302448,
+				"name": "Judson Scott",
+				"profile_path": "/8Z0AgsiQ3KAvgnluRTTCXSInnsF.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 553360,
+				"name": "Christopher White",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1188380,
+				"name": "Dan Levine",
+				"profile_path": "/cc7huBGVPJa7vPF764id5DjorGS.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2127,
+				"name": "James Wan",
+				"profile_path": "/bNJccMIKzCtYnndcOKniSKCzo5Y.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1800923,
+				"name": "Michael Clear",
+				"profile_path": "/8RftlJWKL5ktLGDHADoAciZGNdP.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1371248,
+				"name": "Roberto Patino",
+				"profile_path": "/t2fklnbP8U6D4pOE6hesDOPkHqC.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2077463,
+				"name": "Mica Kayde",
+				"profile_path": "/qDkoCe4GhS2msLIi74Kkkt50lsw.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 3866612,
+				"name": "Alayna Glasthal",
+				"profile_path": "/voDD8RLFx3E2HGLNeC9YgVzebow.jpg",
+				"job": "Executive In Charge Of Production",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1538204,
+				"name": "Wittney Horton",
+				"profile_path": "/vcQSfP2kCGkuVuusDlHbaHNmlJ8.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2274100,
+				"name": "Jeremy Cox",
+				"profile_path": "/4qBmSthrwzhDCERx5h4BI9PjyfM.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2699328,
+				"name": "Kori Adelson",
+				"profile_path": "/rZNo0tIebCoj1v7sVQz2nZcxRf1.jpg",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1926482,
+				"name": "Danny Vermette",
+				"profile_path": "/eycXIE09YnciwwVy4T6csG0scU6.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 2108881,
+				"name": "Trevor Johnston",
+				"job": "Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 2870576,
+				"name": "Eugenio Battaglia",
+				"profile_path": "/bUrvKQZldd1BcH6CwpYu1QJU5Rc.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2870576,
+				"name": "Eugenio Battaglia",
+				"profile_path": "/bUrvKQZldd1BcH6CwpYu1QJU5Rc.jpg",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2870576,
+				"name": "Eugenio Battaglia",
+				"profile_path": "/bUrvKQZldd1BcH6CwpYu1QJU5Rc.jpg",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1205435,
+				"name": "Edo van Breemen",
+				"profile_path": "/uXNfagDjz6FJw2GafZaiblERzEp.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1205437,
+				"name": "Greg Ng",
+				"profile_path": "/lguJU8HURp4x0WtN4moFkC2jmu4.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 3688382,
+				"name": "Kane Parsons",
+				"profile_path": "/l4hXiK0NI84l328p6V3DEvDtgFE.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 4844357,
+				"name": "Robert W. Booth",
+				"job": "Sound Recordist",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3462128,
+				"name": "Kristin Chaar",
+				"job": "Hair Department Head",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5527776,
+				"name": "Zachary Spiegel",
+				"job": "Casting Associate",
+				"department": "Production"
+			},
+			{
+				"id": 4918140,
+				"name": "Jacob Straat",
+				"job": "Location Manager",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1191567,
+				"name": "Natasha Duprey",
+				"job": "Music Supervisor",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 2791351,
+				"name": "Dana Bontempo",
+				"job": "Property Master",
+				"department": "Art"
+			},
+			{
+				"id": 3688382,
+				"name": "Kane Parsons",
+				"profile_path": "/l4hXiK0NI84l328p6V3DEvDtgFE.jpg",
+				"job": "Original Series Creator",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 3688382,
+				"name": "Kane Parsons",
+				"profile_path": "/l4hXiK0NI84l328p6V3DEvDtgFE.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1211214,
+				"name": "Chris Ferguson",
+				"profile_path": "/xcJskqnd2yQvntrBJlK5fJBuJGE.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 90609,
+				"name": "Osgood Perkins",
+				"profile_path": "/sshAqrQ2DV2TUsgBAr1XaYqqxkm.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1926491,
+				"name": "Jesse Savath",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 36427,
+				"name": "Jenno Topping",
+				"profile_path": "/tOti87QZZwyBp1iujzPTib9AwuU.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 266920,
+				"name": "Peter Chernin",
+				"profile_path": "/6c7tilaP8n2bYJB0H6BZyEkd64k.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3603502,
+				"name": "Will Soodik",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1261567,
+				"name": "Giuliana Bertuzzi",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1926485,
+				"name": "Jordan Barber",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5484970,
+				"name": "Jenni DePiero",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 6224432,
+				"name": "Grant Donghia",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1261569,
+				"name": "Andy Levine",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1496822,
+				"name": "Marlaina Mah",
+				"profile_path": "/cMvkgTHNyHF5qt1CXykdJiN71DR.jpg",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 4409323,
+				"name": "Alan Derksen",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1775770,
+				"name": "A. Blair Stevens",
+				"job": "Assistant Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 4096749,
+				"name": "Chloe Bohonos",
+				"job": "Set Decorating Coordinator",
+				"department": "Art"
+			},
+			{
+				"id": 4735284,
+				"name": "Eric Cairns",
+				"job": "Set Decoration Buyer",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 4605861,
+				"name": "Alena Webber",
+				"job": "Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 6248708,
+				"name": "Alexander Jones",
+				"job": "Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 2776964,
+				"name": "Jared Boyce",
+				"job": "Second Unit Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 4844354,
+				"name": "Kail O'Donnell Norton",
+				"job": "Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 5710367,
+				"name": "Cheyanne Reinelt",
+				"job": "Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 2933045,
+				"name": "Bria Rose Wilk",
+				"job": "Script Supervisor",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 2793541,
+				"name": "Jan Hetmer",
+				"job": "Location Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1756726,
+				"name": "Leonardo Harim",
+				"job": "Camera Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 4844357,
+				"name": "Robert W. Booth",
+				"job": "Boom Operator",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2776964,
+				"name": "Jared Boyce",
+				"job": "First Assistant Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 3559575,
+				"name": "John Fleming",
+				"job": "Second Assistant Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 4844370,
+				"name": "Asterios Moutsokapas",
+				"job": "Still Photographer",
+				"department": "Camera"
+			},
+			{
+				"id": 2364464,
+				"name": "Yannie Yu",
+				"job": "Chief Lighting Technician",
+				"department": "Lighting"
+			},
+			{
+				"id": 5710335,
+				"name": "Adrian Dean",
+				"job": "Assistant Chief Lighting Technician",
+				"department": "Lighting"
+			},
+			{
+				"id": 4735319,
+				"name": "Amrit Bawa",
+				"job": "Key Grip",
+				"department": "Camera"
+			},
+			{
+				"id": 4936211,
+				"name": "Madelaine Hermans",
+				"job": "Makeup Department Head",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 2324831,
+				"name": "Werner Pretorius",
+				"job": "Makeup Effects Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1424947,
+				"name": "Jennifer Latour",
+				"job": "Makeup Effects",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 2629811,
+				"name": "Erin Peters",
+				"job": "Makeup Effects",
+				"department": "Crew"
+			},
+			{
+				"id": 1976926,
+				"name": "Bree-Anna Lehto",
+				"job": "Makeup Effects",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 5939378,
+				"name": "Tray Willis",
+				"job": "Makeup Effects",
+				"department": "Crew"
+			},
+			{
+				"id": 1515082,
+				"name": "Caitlin Groves",
+				"job": "Makeup Effects",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1653478,
+				"name": "Sara Huggins",
+				"job": "Makeup Effects",
+				"department": "Crew"
+			},
+			{
+				"id": 3570492,
+				"name": "Edward J. Douglas",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 208675,
+				"name": "Trevor Addie",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1597842,
+				"name": "Gaston Morrison",
+				"profile_path": "/zhX2yH6UqJTXjNvPYsmONnSHwrz.jpg",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 6250667,
+				"name": "Alyson Pickett",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1741935,
+				"name": "Corey Deckler",
+				"job": "Executive In Charge Of Production",
+				"department": "Production"
+			},
+			{
+				"id": 1208091,
+				"name": "Jes Anderson",
+				"profile_path": "/xXm72WZR1HcBPCHCVKkXjgJCb7P.jpg",
+				"job": "Executive In Charge Of Production",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2047329,
+				"name": "Brian Hayashi",
+				"job": "Executive In Charge Of Post Production",
+				"department": "Production"
+			},
+			{
+				"id": 1342013,
+				"name": "Aaron Becker",
+				"job": "Title Designer",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 2926088,
+				"name": "Hsien Lun Su",
+				"job": "Title Designer",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 6254457,
+				"name": "Yedukondalu Ankireddy",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 4335303,
+				"name": "Jawed Ali Khan",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1331163,
+				"name": "Sam Esmail",
+				"profile_path": "/mej39wMtNDsOI5HklLb65QAiM6K.jpg",
+				"job": "Thanks",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 139141,
+				"name": "Micah Bloomberg",
+				"profile_path": "/vLub4SlGZSkwU0CBVETUoAImFU2.jpg",
+				"job": "Thanks",
+				"department": "Crew",
+				"gender": 2
+			}
+		]
+	}
+}
