@@ -3,7 +3,7 @@ env:
     variables:
         DART_SASS_VERSION: 1.97.3
         GO_VERSION: 1.26.4
-        HUGO_VERSION: 0.163.0
+        HUGO_VERSION: 0.163.1
         TZ: Asia/Kolkata
         HUGO_CACHEDIR: ${PWD}/.hugo
         NPM_CONFIG_CACHE: ${PWD}/.npm
