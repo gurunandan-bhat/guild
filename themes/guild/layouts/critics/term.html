@@ -132,9 +132,11 @@
 												(For {{ . }})
 											</p>
 										{{ end }}
-										<h4 class="sub-title">
-											{{ .Params.subtitle }}
-										</h4>
+										{{ with .Params.subtitle }}
+											<h4 class="sub-title">
+												{{ . }}
+											</h4>
+										{{- end }}
 										<p class="pub-date">
 											{{ .Date.Format "Mon, January 2 2006" }}
 										</p>
