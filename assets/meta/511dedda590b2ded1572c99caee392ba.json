@@ -1,0 +1,292 @@
+{
+	"id": 1475803,
+	"title": "Governor",
+	"fcg_title": "Governor",
+	"original_title": "Governor",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "Set against Indias 1990 economic crisis, Governor follows Raman, a reluctant bureaucrat unexpectedly appointed as the Governor of the RBI when the nation stands on the brink of bankruptcy. As inflation rises, fuel runs low, and panic spreads, Raman must navigate political pressure and a collapsing system to prevent the country from falling apart.",
+	"poster_path": "/cdWfUYREo8RXkPxnZLvuG08QJrP.jpg",
+	"release_date": "2026-06-12",
+	"credits": {
+		"cast": [
+			{
+				"id": 35782,
+				"order": 0,
+				"name": "Manoj Bajpayee",
+				"profile_path": "/hBiAldG2BGMVoZUPbvK3FNDSw22.jpg",
+				"character": "A Ramanan",
+				"gender": 2
+			},
+			{
+				"id": 86030,
+				"order": 1,
+				"name": "Adah Sharma",
+				"profile_path": "/7zODp1yRHDyzcUXsi10ouHYY9IV.jpg",
+				"character": "Aditi Sharma",
+				"gender": 1
+			},
+			{
+				"id": 6195986,
+				"order": 2,
+				"name": "Noushad Mohamed Kunju",
+				"character": "CR",
+				"gender": 2
+			},
+			{
+				"id": 229116,
+				"order": 3,
+				"name": "Madhoo",
+				"profile_path": "/bBRTCNgnpNrcZQPC5jodkGPvx5W.jpg",
+				"character": "Vandita",
+				"gender": 1
+			},
+			{
+				"id": 3637592,
+				"order": 4,
+				"name": "John Forbes",
+				"profile_path": "/6lcCfG0LiqgsipsIhgC1idStjRs.jpg",
+				"character": "Marshal",
+				"gender": 2
+			},
+			{
+				"id": 5090820,
+				"order": 5,
+				"name": "Devaang Bagga",
+				"character": "Deepak",
+				"gender": 2
+			},
+			{
+				"id": 2335893,
+				"order": 6,
+				"name": "Paritosh Sand",
+				"profile_path": "/6hzwHFF5Msb7jhzEOWT8ICm5X9m.jpg",
+				"character": "Sharma",
+				"gender": 2
+			},
+			{
+				"id": 1919775,
+				"order": 7,
+				"name": "Krisha Kurup",
+				"profile_path": "/7TTZg0ZHUAQXuLWdTYOLhpbCnmQ.jpg",
+				"character": "Madhavi",
+				"gender": 1
+			},
+			{
+				"id": 1586795,
+				"order": 8,
+				"name": "Jaywant Wadkar",
+				"character": "Peon"
+			},
+			{
+				"id": 3560386,
+				"order": 9,
+				"name": "Sanjay Sonu",
+				"character": "Shekhar"
+			},
+			{
+				"id": 4786586,
+				"order": 10,
+				"name": "Ayushi Jina",
+				"character": "Divya",
+				"gender": 1
+			},
+			{
+				"id": 2268320,
+				"order": 11,
+				"name": "Rajeev Gaursingh",
+				"character": "Sinha"
+			},
+			{
+				"id": 85972,
+				"order": 12,
+				"name": "Kurush Deboo",
+				"profile_path": "/lH8PVl0Ph9xebEwj7vnEsFs7tN4.jpg",
+				"character": "Daruwala",
+				"gender": 2
+			},
+			{
+				"id": 4402811,
+				"order": 13,
+				"name": "Jigar Shah",
+				"character": "Manmohan Singh"
+			}
+		],
+		"crew": [
+			{
+				"id": 88142,
+				"name": "Vipul Amrutlal Shah",
+				"profile_path": "/gH75umEehoYbiohMwz5xzBtgrq6.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 582492,
+				"name": "Chinmay Mandlekar",
+				"profile_path": "/56MoFlRq5yZvBIYfqRxC1WeImA3.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1283012,
+				"name": "Shubendu Bhattacharya",
+				"job": "Story",
+				"department": "Writing"
+			},
+			{
+				"id": 2904798,
+				"name": "Saurabh Bharat",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 4699955,
+				"name": "Ravi Asrani",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 81984,
+				"name": "Javed Akhtar",
+				"profile_path": "/qKnvYtFvox7BhHy2Nx6YbcuSuIB.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1705301,
+				"name": "Aashin A Shah",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3259344,
+				"name": "Ravichand Nallappa",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 88142,
+				"name": "Vipul Amrutlal Shah",
+				"profile_path": "/gH75umEehoYbiohMwz5xzBtgrq6.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 223854,
+				"name": "Amit Trivedi",
+				"profile_path": "/lRewkQ2Smolc0TjNMSycYHnbFil.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1756133,
+				"name": "Vishal Sinha",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1834558,
+				"name": "Ganesh Gangadharan",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 1364352,
+				"name": "Meghna Manchanda Sen",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1139873,
+				"name": "Sanjay Sharma",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1768803,
+				"name": "Mannan Shaah",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 1108802,
+				"name": "Mukesh Chhabra",
+				"profile_path": "/f5XI2wJs2JPcd5FSECsdcnkyOMW.jpg",
+				"job": "Casting Director",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3361391,
+				"name": "Jigar Shah",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3145342,
+				"name": "Varsha Chandanani",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3145343,
+				"name": "Shilpa Makhija",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2041617,
+				"name": "Shrikant Desai",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2041617,
+				"name": "Shrikant Desai",
+				"job": "Prosthetic Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2006417,
+				"name": "Rajesh Choudhary",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1765179,
+				"name": "Himanshu Nanda",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 110193,
+				"name": "Rahul Nanda",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3807579,
+				"name": "Smanoj C.P.K Verma",
+				"job": "Digital Intermediate Colorist",
+				"department": "Editing"
+			}
+		]
+	}
+}
