@@ -1,0 +1,306 @@
+{
+	"id": 284631,
+	"name": "Raakh",
+	"fcg_title": "Raakh",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "When two teenagers vanish, a close-knit family is shattered and the city is left on edge. Determined to uncover the truth, a relentless officer leads a nationwide manhunt that pulls him deep into a world of violence and human depravity.",
+	"backdrop_path": "/hAuYDYBgLJ1qIPoAOM7yOD56uCp.jpg",
+	"poster_path": "/5MbNy94ia4ZLf8OGtSfSjjlxxWN.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 492791,
+				"order": 0,
+				"name": "Ali Fazal",
+				"profile_path": "/lLDmx3RDuMXObASvdFXeUh1GOgd.jpg",
+				"gender": 2
+			},
+			{
+				"id": 35754,
+				"order": 1,
+				"name": "Sonali Bendre",
+				"profile_path": "/4xvVvT9RyLvOa2hQjecIhYuSPjx.jpg",
+				"gender": 1
+			},
+			{
+				"id": 123228,
+				"order": 2,
+				"name": "Aamir Bashir",
+				"profile_path": "/jWvHNzlDwbTyJaShBeXfIKl2QHU.jpg",
+				"gender": 2
+			},
+			{
+				"id": 3569136,
+				"order": 3,
+				"name": "Akash Makhija",
+				"profile_path": "/92vbMxDyHKy4dn4h0mWLYwMASVu.jpg",
+				"gender": 2
+			},
+			{
+				"id": 6075621,
+				"order": 4,
+				"name": "Ramandeep Yadav"
+			},
+			{
+				"id": 2595175,
+				"order": 5,
+				"name": "Anshul Chauhan",
+				"profile_path": "/gkFbpg1tvJa0OkbZRp66xnTQByJ.jpg",
+				"gender": 1
+			},
+			{
+				"id": 110200,
+				"order": 6,
+				"name": "Rakesh Bedi",
+				"profile_path": "/dWLCiA3rqnaFPn9s0bk2MiSq5Mt.jpg",
+				"gender": 2
+			},
+			{
+				"id": 101823,
+				"order": 7,
+				"name": "Dibyendu Bhattacharya",
+				"profile_path": "/uLlGKCL9y5CFBwcAafTDQhupz5h.jpg",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1785016,
+				"name": "Prosit Roy",
+				"profile_path": "/7eBH0Lj6rJJvJXJnNNtYPGt2Qes.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 3531607,
+				"name": "Anusha Nandakumar",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 3531605,
+				"name": "Sandeep Saket",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 3531607,
+				"name": "Anusha Nandakumar",
+				"job": "Co-Director",
+				"department": "Directing"
+			},
+			{
+				"id": 3531605,
+				"name": "Sandeep Saket",
+				"job": "Co-Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1643368,
+				"name": "Deepak Dhar",
+				"profile_path": "/vIJUcUbO0NIsBDVZRFkcuRvGh0i.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3334848,
+				"name": "Rishi Negi",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3823092,
+				"name": "Mrinalini Jain",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3823093,
+				"name": "Shyam Rathi",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 6255611,
+				"name": "Sunanda Gupat Jenna",
+				"job": "Creative Producer",
+				"department": "Writing"
+			},
+			{
+				"id": 2045859,
+				"name": "Antara Banerjee",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1785016,
+				"name": "Prosit Roy",
+				"profile_path": "/7eBH0Lj6rJJvJXJnNNtYPGt2Qes.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2037412,
+				"name": "Naved Farooqui",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2880356,
+				"name": "Deepali Handa",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3531607,
+				"name": "Anusha Nandakumar",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3531605,
+				"name": "Sandeep Saket",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1549642,
+				"name": "Saumyananda Sahi",
+				"profile_path": "/jgo0RK5riRLjahySS9y879bY5mN.jpg",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1186366,
+				"name": "Manas Mittal",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 3531602,
+				"name": "Ayush Trivedi",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 2115531,
+				"name": "Shailaja Sharma",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 3341675,
+				"name": "Jaspal Dogra",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2614124,
+				"name": "Krishan Pratap Singh",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1757793,
+				"name": "Anish John",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 3436984,
+				"name": "Ajay Jayanthi",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 3946364,
+				"name": "Parth Pandya",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2408472,
+				"name": "Achint Thakkar",
+				"job": "Music Supervisor",
+				"department": "Sound"
+			},
+			{
+				"id": 1718140,
+				"name": "Darshan Jalan",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1760323,
+				"name": "Neelanchal Ghosh",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1708703,
+				"name": "Luize Joyce Margaret",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1555211,
+				"name": "Kamlesh U. Shinde",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2048190,
+				"name": "Vaibhav Vishant",
+				"job": "Casting Director",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4523124,
+				"name": "Abdul Salam Ansari",
+				"job": "Action Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4137472,
+				"name": "Azaz Memon",
+				"job": "Post Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1785032,
+				"name": "Shilpan Vyas Tinu",
+				"job": "Post Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4880929,
+				"name": "Himanshu Kamble",
+				"profile_path": "/r3PF0YxF3o4wvEhmmqlOomnZGSZ.jpg",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 1770022,
+				"name": "Sidharth Meer",
+				"job": "Colorist",
+				"department": "Editing",
+				"gender": 2
+			}
+		]
+	}
+}
