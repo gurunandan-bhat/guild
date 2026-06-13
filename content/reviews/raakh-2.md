@@ -7,7 +7,7 @@ critics = ['Rohit Khilnani']
 subtitle = "If you are into crime web series, you will binge watch this one in one go!"
 media = 'video'
 source = 'XXmUMmKaNLU'
-scores = [4.5]
+scores = [9]
 +++
 
 {{< youtube id="XXmUMmKaNLU" loading="lazy" >}}
