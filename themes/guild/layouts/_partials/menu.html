@@ -13,71 +13,71 @@
 {{- $showSearch := .showSearch }}
 {{- $isSearchPage := false }}
 {{- if eq $page.Path "/search" }}
-    {{- $isSearchPage = true }}
+	{{- $isSearchPage = true }}
 {{- end }}
 {{- with index site.Menus $menuID }}
-    <nav class="navbar navbar-dark navbar-expand-lg fixed-top">
-        <div class="container-fluid banner-holder">
-            <a class="navbar-brand" href="/"
-                ><img
-                    src="/images/logo-1x.png"
-                    class="d-inline-block"
-                    alt="Film Critics Guild Reviews Logo" />
-            </a>
-            <button
-                class="navbar-toggler"
-                type="button"
-                data-bs-toggle="collapse"
-                data-bs-target="#navbarNav"
-                aria-controls="navbarNav"
-                aria-expanded="false"
-                aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon fs-6"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ms-auto mb-lg-0 pe-3">
-                    {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
-                    {{ if $showSearch }}
-                        <li class="nav-item px-1">
-                            {{- if $isSearchPage }}
-                                <a
-                                    aria-current="page"
-                                    class="nav-link active"
-                                    href="/search/"
-                                    >Search</a
-                                >
-                            {{- else }}
-                                <a class="nav-link" href="/search/">Search</a>
-                            {{- end }}
-                        </li>
-                    {{ end }}
-                </ul>
-            </div>
-        </div>
-    </nav>
+	<nav class="navbar navbar-dark navbar-expand-lg fixed-top">
+		<div class="container-fluid banner-holder">
+			<a class="navbar-brand" href="/"
+			><img
+					src="/images/logo-1x.png"
+					class="d-inline-block"
+					alt="Film Critics Guild Reviews Logo" />
+			</a>
+			<button
+				class="navbar-toggler"
+				type="button"
+				data-bs-toggle="collapse"
+				data-bs-target="#navbarNav"
+				aria-controls="navbarNav"
+				aria-expanded="false"
+				aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon fs-6"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarNav">
+				<ul class="navbar-nav ms-auto mb-lg-0 pe-3">
+					{{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
+					{{ if $showSearch }}
+						<li class="nav-item px-1">
+							{{- if $isSearchPage }}
+								<a
+									aria-current="page"
+									class="nav-link active"
+									href="/search/"
+								>Search</a
+								>
+							{{- else }}
+								<a class="nav-link" href="/search/">Search</a>
+							{{- end }}
+						</li>
+					{{ end }}
+				</ul>
+			</div>
+		</div>
+	</nav>
 {{- end }}
+{{ partial "shoutout.html" . }}
 {{- define "_partials/inline/menu/walk.html" }}
-    {{- $page := .page }}
-    {{- range .menuEntries }}
-        {{- $linkAttrs := dict "class" "nav-link" "href" .URL }}
-        {{- if or ($page.IsMenuCurrent .Menu .) ($page.HasMenuCurrent .Menu .) }}
-            {{- $linkAttrs = merge $linkAttrs (dict "class" "nav-link active" "aria-current" "page") }}
-        {{- end }}
-        {{- $name := .Name }}
-        <li class="nav-item px-1">
-            <a
-                {{ range $k, $v := $linkAttrs }}
-                    {{- with $v }}
-                        {{ printf " %s=%q" $k $v | safeHTMLAttr }}
-                    {{- end }}
-                {{- end -}}
-                >{{ $name }}</a
-            >
-        </li>
-    {{- end }}
-    <li class="nav-item px-1">
-        <a href="https://filmcriticsguild.com" class="nav-link" target="_blank"
-            >About Us</a
-        >
-    </li>
+{{- $page := .page }}
+{{- range .menuEntries }}
+	{{- $linkAttrs := dict "class" "nav-link" "href" .URL }}
+	{{- if or ($page.IsMenuCurrent .Menu .) ($page.HasMenuCurrent .Menu .) }}
+		{{- $linkAttrs = merge $linkAttrs (dict "class" "nav-link active" "aria-current" "page") }}
+	{{- end }}
+	{{- $name := .Name }}
+	<li class="nav-item px-1">
+		<a
+			{{ range $k, $v := $linkAttrs }}
+				{{- with $v }}
+				{{ printf " %s=%q" $k $v | safeHTMLAttr }}
+				{{- end }}
+			{{- end -}}>{{ $name }}</a
+		>
+	</li>
+{{- end }}
+<li class="nav-item px-1">
+	<a href="https://filmcriticsguild.com" class="nav-link" target="_blank"
+	>About Us</a
+	>
+</li>
 {{- end }}

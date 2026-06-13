@@ -1,8 +1,5 @@
 {{ define "main" }}
 {{ $extLinkIcon := index hugo.Data.svgicons.icons "externalLink" | safeHTML }}
-<div class="container-fluid">
-	<div style="height: 50px;"></div>
-</div>
 <div>
 	{{ partial "taxonomy/critics/metadata.html" .Title }}
 </div>

@@ -2,9 +2,6 @@
 {{ $extLinkIcon := index hugo.Data.svgicons.icons "externalLink" | safeHTML }}
 {{- $red := "\033[0;31m" }}
 {{- $reset := "\033[0m" }}
-<div class="container-fluid">
-	<div style="height: 50px;"></div>
-</div>
 {{ $fullTitle := "" }}
 {{ $firstPage := index .Pages 0 }}
 {{ $fullTitle = $firstPage.Title }}

@@ -1,0 +1,6 @@
+{{ $reviews := len (where site.RegularPages "Section" "reviews") }}
+{{ $critics := len (where site.RegularPages "Section" "guild") }}
+{{ $films := len site.Taxonomies.mreviews }}
+<div class="container-fluid" style="padding-top: 30px;">
+	<p class="shoutout d-flex justify-content-center">{{ $reviews }} Reviews &#x25cf; {{ $films }} Films &#x25cf; {{ $critics }} Top Critics &AMP; Growing</p>
+</div>
