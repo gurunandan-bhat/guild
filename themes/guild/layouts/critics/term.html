@@ -30,10 +30,10 @@
 				{{ end }}
 			{{ end }}
 		{{ end }}
-		<div class="mb-5">
-			{{ if or (eq .Params.media "print") (eq .Params.media "audio") }}
-				<div class="row mb-3">
-					<div class="col-lg-4 offset-lg-1">
+		{{ if or (eq .Params.media "print") (eq .Params.media "audio") }}
+			<div class="row mb-3">
+				<div class="col-lg-4 offset-lg-1">
+					<div class="cast">
 						{{ printf "<!-- Path:  %s -->" .Page | safeHTML }}
 						{{ $imgPath := printf "images/reviews/%s" .Params.img }}
 						{{ $img := resources.Get $imgPath }}
@@ -50,109 +50,104 @@
 								{{ warnf "critics/term: Missing image %s" $imgPath }}
 							{{ end }}
 						{{ end }}
+						<div>
+							{{ partial "cast.html" .Title }}
+						</div>
 					</div>
-					<div class="col-lg-6">
-						<div
-							class="border border-start-2 border-end-2 border-top-0 border-bottom-0">
-							<div
-								class="border border-3 border-top-0 border-start-0 border-end-0">
-								<div class="clearfix px-4">
-									<h2>
-										{{ .Title }}
-										{{ with .Params.translatedTitle }}
-											({{ . }})
-										{{ end }}
-									</h2>
-									<p class="small fw-semibold mb-0">
-										{{ $genres }} ({{ $language }})
-									</p>
-									{{ with .Params.publication }}
-										<p class="author mb-1">
-											(Written for {{ . }})
-										</p>
-									{{ end }}
-									<h4 class="sub-title">
-										{{ .Params.subtitle }}
-									</h4>
-									<div class="ms-2">
-										<p class="pub-date">
-											{{ .Date.Format "Mon, January 2 2006" }}
-										</p>
-										{{ with .Params.opening }}
-											<p class="opening">
-												{{ . }}
-											</p>
-										{{ end }}
-										<div class="small">
-											{{ .Summary }}
-										</div>
-										{{ with .Params.source }}
-											<p class="small float-start">
-												<a
-													href="{{ . }}"
-													target="_blank"
-												>{{ $extLinkIcon }}
-													Continue
-													Reading&hellip;</a
-												>
-											</p>
-										{{ end }}
-									</div>
-									<div class="float-end">
-										{{ partial "taxonomy/mreviews/reviewLink.html" .Title }}
-									</div>
+				</div>
+				<div class="col-lg-6">
+					<div class="clearfix px-4">
+						<h2>
+							{{ .Title }}
+							{{ with .Params.translatedTitle }}
+								({{ . }})
+							{{ end }}
+						</h2>
+						<p class="small fw-semibold mb-0">
+							{{ $genres }} ({{ $language }})
+						</p>
+						{{ with .Params.publication }}
+							<p class="author mb-1">
+								(Written for {{ . }})
+							</p>
+						{{ end }}
+						<h4 class="sub-title">
+							{{ .Params.subtitle }}
+						</h4>
+						<div class="ms-2">
+							<p class="pub-date">
+								{{ .Date.Format "Mon, January 2 2006" }}
+							</p>
+							{{ with .Params.opening }}
+								<p class="opening">
+									{{ . }}
+								</p>
+							{{ end }}
+							<div class="small">
+								{{ .Summary }}
+							</div>
+							{{ with .Params.source }}
+								<p class="small float-start">
+									<a
+										href="{{ . }}"
+										target="_blank"
+									>{{ $extLinkIcon }}
+										Continue
+										Reading&hellip;</a
+									>
+								</p>
+							{{ end }}
+						</div>
+						<div class="float-end">
+							{{ partial "taxonomy/mreviews/reviewLink.html" .Title }}
+						</div>
+					</div>
+				</div>
+			</div>
+		{{ else }}
+			<div class="row">
+				<div class="col-lg-6 offset-lg-3">
+					<div class="mb-2">
+						<div class="m-3">
+							<h2>
+								{{ .Title }}
+								{{ with .Params.translatedTitle }}
+									({{ . }})
+								{{ end }}
+							</h2>
+							<p class="small fw-semibold mb-0">
+								{{ $genres }} ({{ $language }})
+							</p>
+							{{ with .Params.publication }}
+								<p class="pub-date mb-1">
+									(For {{ . }})
+								</p>
+							{{ end }}
+							{{ with .Params.subtitle }}
+								<h4 class="sub-title">
+									{{ . }}
+								</h4>
+							{{- end }}
+							<p class="pub-date">
+								{{ .Date.Format "Mon, January 2 2006" }}
+							</p>
+							<div class="p-2 small">
+								{{ .Summary }}
+							</div>
+							<div>
+								{{ partial "cast.html" .Title }}
+							</div>
+							<div class="clearfix">
+								<div class="float-end py-2">
+									{{ partial "taxonomy/mreviews/reviewLink.html" .Title }}
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
-			{{ else }}
-				<div class="row">
-					<div class="col-lg-6 offset-lg-3">
-						<div class="mb-2">
-							<div
-								class="border border-start-2 border-end-2 border-top-0 border-bottom-0">
-								<div
-									class="border border-3 border-top-0 border-start-0 border-end-0">
-									<div class="m-3">
-										<h2>
-											{{ .Title }}
-											{{ with .Params.translatedTitle }}
-												({{ . }})
-											{{ end }}
-										</h2>
-										<p class="small fw-semibold mb-0">
-											{{ $genres }} ({{ $language }})
-										</p>
-										{{ with .Params.publication }}
-											<p class="pub-date mb-1">
-												(For {{ . }})
-											</p>
-										{{ end }}
-										{{ with .Params.subtitle }}
-											<h4 class="sub-title">
-												{{ . }}
-											</h4>
-										{{- end }}
-										<p class="pub-date">
-											{{ .Date.Format "Mon, January 2 2006" }}
-										</p>
-										<div class="p-2 small">
-											{{ .Summary }}
-										</div>
-										<div class="clearfix">
-											<div class="float-end py-2">
-												{{ partial "taxonomy/mreviews/reviewLink.html" .Title }}
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			{{ end }}
-		</div>
+			</div>
+		{{ end }}
+		<hr class="my-5" />
 	{{ end }}
 	<div class="d-flex justify-content-center">
 		{{ template "_internal/pagination.html" . }}

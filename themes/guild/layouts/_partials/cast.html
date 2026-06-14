@@ -1,0 +1,48 @@
+{{ with partial "tmdb-meta.html" . }}
+	{{ $castList := slice }}
+	{{ with .credits.cast }}
+		{{ $cast := . }}
+		{{ $cS := slice }}
+		{{ range first 10 $cast }}
+			{{ $cS = append (.name) $cS }}
+		{{ end }}
+		{{ $castList = delimit $cS ", " }}
+	{{ end }}
+
+	{{ $crew := .credits.crew }}
+	{{ $director := slice }}
+	{{ $writer := slice }}
+	{{ range $crew }}
+		{{ if eq .job "Director" }}
+			{{ $director = append .name $director }}
+		{{ else if (and (eq .department "Writing") (eq .job "Writer")) }}
+			{{ $writer = append .name $writer }}
+		{{ end }}
+	{{ end }}
+	{{ $all_directors := delimit $director ", " }}
+	{{ $all_writers := delimit $writer ", " }}
+	<div class="row">
+		<div class="col-12">
+			<table class="table table-sm cast mt-2">
+				{{ with $all_directors }}
+					<tr>
+						<th style="text-transform: uppercase; color: #924c9d;">Director:</th>
+						<td>{{ . }}</td>
+					</tr>
+				{{ end }}
+				{{ with $castList }}
+					<tr>
+						<th  style="text-transform: uppercase; color: #924c9d;">Cast:</th>
+						<td>{{ $castList }}</td>
+					</tr>
+				{{ end }}
+				{{ with $all_writers }}
+					<tr>
+						<th  style="text-transform: uppercase; color: #924c9d;">Writer:</th>
+						<td>{{ . }}</td>
+					</tr>
+				{{ end }}
+			</table>
+		</div>
+	</div>
+{{ end }}

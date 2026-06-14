@@ -92,7 +92,7 @@ table.table {
 }
 
 .review-image {
-    padding-top: 3rem;
+    padding-top: 1rem;
 }
 
 .table-custom {
@@ -363,4 +363,10 @@ a.anchor {
 .fitted-org {
     line-height: 1.5;
     height: 2.5rem;
+}
+
+.cast * {
+    font-family: DIN-2014;
+    font-size: 0.9rem;
+    background-color: #f4eef5 !important;
 }
