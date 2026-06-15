@@ -1,0 +1,85 @@
+{{/*
+  layouts/partials/fcg-rating.html
+  Usage: {{ partial "fcg-rating.html" (dict "score" 7.5) }}
+  Score is clamped to [0, 10].
+*/}}
+
+{{- $score := math.Min 10.0 (math.Max 0.0 (float .score)) -}}
+{{- $t := div $score 10.0 -}}
+{{- $arrowX := add 60.0 (mul $t 500.0) -}}
+
+{{/*
+  Gradient stops (matching the SVG linearGradient):
+    0.00 → #2471a3  blue    r=36  g=113 b=163
+    0.30 → #27ae60  green   r=39  g=174 b=96
+    0.55 → #f1c40f  yellow  r=241 g=196 b=15
+    0.78 → #e67e22  orange  r=230 g=126 b=34
+    1.00 → #c0392b  red     r=192 g=57  b=43
+*/}}
+{{- $scoreColor := "#c0392b" -}}
+{{- if le $t 0.30 -}}
+	{{- $f := div $t 0.30 -}}
+	{{- $scoreColor = printf "#%02x%02x%02x"
+		(int (math.Round (add 36.0 (mul $f 3.0))))
+		(int (math.Round (add 113.0 (mul $f 61.0))))
+		(int (math.Round (add 163.0 (mul $f -67.0))))
+	-}}
+{{- else if le $t 0.55 -}}
+	{{- $f := div (sub $t 0.30) 0.25 -}}
+	{{- $scoreColor = printf "#%02x%02x%02x"
+		(int (math.Round (add 39.0 (mul $f 202.0))))
+		(int (math.Round (add 174.0 (mul $f 22.0))))
+		(int (math.Round (add 96.0 (mul $f -81.0))))
+	-}}
+{{- else if le $t 0.78 -}}
+	{{- $f := div (sub $t 0.55) 0.23 -}}
+	{{- $scoreColor = printf "#%02x%02x%02x"
+		(int (math.Round (add 241.0 (mul $f -11.0))))
+		(int (math.Round (add 196.0 (mul $f -70.0))))
+		(int (math.Round (add 15.0 (mul $f 19.0))))
+	-}}
+{{- else -}}
+	{{- $f := div (sub $t 0.78) 0.22 -}}
+	{{- $scoreColor = printf "#%02x%02x%02x"
+		(int (math.Round (add 230.0 (mul $f -38.0))))
+		(int (math.Round (add 126.0 (mul $f -69.0))))
+		(int (math.Round (add 34.0 (mul $f 9.0))))
+	-}}
+{{- end -}}
+
+{{- $label := printf "%g" $score -}}
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 150" width="100%" font-family="DIN-2014, Arial, Helvetica, sans-serif">
+	<defs>
+		<linearGradient id="therm" x1="0" y1="0" x2="1" y2="0">
+			<stop offset="0%"   stop-color="#2471a3"/>
+			<stop offset="30%"  stop-color="#27ae60"/>
+			<stop offset="55%"  stop-color="#f1c40f"/>
+			<stop offset="78%"  stop-color="#e67e22"/>
+			<stop offset="100%" stop-color="#c0392b"/>
+		</linearGradient>
+	</defs>
+
+	<rect width="620" height="160" fill="#f4eef5" rx="8"/>
+	<rect x="60" y="88" width="500" height="20" rx="10" fill="url(#therm)"/>
+	<rect x="62" y="89" width="496" height="8"  rx="8"  fill="#f4eef5" fill-opacity="0.18"/>
+
+	{{ range seq 0 10 -}}
+		{{ $x := printf "%.0f" (add 60.0 (mul (float .) 50.0)) -}}
+		{{ if or (eq . 0) (eq . 10) -}}
+			<line x1="{{ $x }}" y1="108" x2="{{ $x }}" y2="114" stroke="#555" stroke-width="2"   stroke-linecap="round"/>
+		{{- else -}}
+			<line x1="{{ $x }}" y1="108" x2="{{ $x }}" y2="113" stroke="#777" stroke-width="1.5" stroke-linecap="round"/>
+		{{- end }}
+		<text x="{{ $x }}" y="126" text-anchor="middle" font-size="13" fill="#444">{{ . }}</text>
+	{{ end }}
+
+	<g transform="translate({{ printf "%.2f" $arrowX }},0)">
+		<line x1="0" y1="72" x2="0" y2="84" stroke="{{ $scoreColor }}" stroke-width="2.5" stroke-linecap="round"/>
+		<polygon points="0,88 -4,84 4,84" fill="{{ $scoreColor }}"/>
+		<text x="0" y="44" text-anchor="middle" font-size="16" fill="#666">FCG Rating</text>
+		<text x="0" y="67" text-anchor="middle" font-size="16" font-weight="bold">
+			<tspan fill="{{ $scoreColor }}">{{ $label }}</tspan><tspan fill="#c0392b" dx="4">/10</tspan>
+		</text>
+	</g>
+</svg>
