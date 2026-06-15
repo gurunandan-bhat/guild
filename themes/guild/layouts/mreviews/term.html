@@ -88,9 +88,11 @@
 								<div
 									class="border border-3 border-top-0 border-start-0 border-end-0">
 									<div class="p-2">
-										<h2 class="my-3">
-											{{ .Params.subtitle }}
-										</h2>
+										{{- with .Params.subtitle }}
+											<h2 class="my-3">
+												{{ . }}
+											</h2>
+										{{- end }}
 										{{- partial "new-review-header.html" (dict "review" . "short" true) }}
 										<div class="small">
 											{{ .Summary }}
