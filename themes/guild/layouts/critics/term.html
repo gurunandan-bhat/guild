@@ -51,9 +51,6 @@
 								{{ warnf "critics/term: Missing image %s" $imgPath }}
 							{{ end }}
 						{{ end }}
-						{{- if gt $rawRating 0 }}
-							{{- partial "svgfcg-rating.html" (dict "score" (div (float $rawRating) 10)) }}
-						{{- end }}
 						<div>
 							{{ partial "cast.html" .Title }}
 						</div>
@@ -138,9 +135,6 @@
 							<div class="p-2 small">
 								{{ .Summary }}
 							</div>
-							{{- if gt $rawRating 0 }}
-								{{- partial "svgfcg-rating.html" (dict "score" (div (float $rawRating) 10)) }}
-							{{- end }}
 							<div>
 								{{ partial "cast.html" .Title }}
 							</div>
