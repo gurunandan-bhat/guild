@@ -1,0 +1,403 @@
+{
+	"id": 1626170,
+	"title": "Sing Geetham",
+	"fcg_title": "Sing Geetham",
+	"original_title": "సింగ్ గీతం",
+	"original_language": "te",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 10402,
+			"name": "Music"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "In an isolated village, young Prathap seeks opportunity but enters a world of deception. Drawn into uncontrollable forces, he's caught between progress and preservation, testing his beliefs and purpose.",
+	"backdrop_path": "/duGsoRaWy3zXXPZtRdOAgefQXA7.jpg",
+	"poster_path": "/9zKGbrFwu8FweI8xKJMgqnBpE6y.jpg",
+	"release_date": "2026-06-10",
+	"credits": {
+		"cast": [
+			{
+				"id": 4608163,
+				"order": 0,
+				"name": "Ahilya Bamroo",
+				"profile_path": "/cQGwAB8mHUEZ5c49dSrnPwDFP8g.jpg",
+				"character": "Gowri"
+			},
+			{
+				"id": 6183396,
+				"order": 1,
+				"name": "Ayaan",
+				"character": "Prathap"
+			},
+			{
+				"id": 3321524,
+				"order": 2,
+				"name": "Shalini Kondepudi",
+				"profile_path": "/zneTc7m9FEsjaCse8kM8ji8Df2M.jpg",
+				"character": "Renu"
+			},
+			{
+				"id": 580662,
+				"order": 3,
+				"name": "Tulasi",
+				"profile_path": "/oETAXn9y9YZ6yvCZFvzOcHBImr0.jpg",
+				"gender": 1
+			},
+			{
+				"id": 2249477,
+				"order": 4,
+				"name": "Sivannarayana Naripeddi",
+				"profile_path": "/nqG9wFjXEool9NLPRrUsnZbjm72.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1422554,
+				"order": 5,
+				"name": "Banerjee",
+				"profile_path": "/czUUqcEgBmDBNMx0zwIIy2HSZsp.jpg",
+				"gender": 2
+			},
+			{
+				"id": 2049739,
+				"order": 6,
+				"name": "Racha Ravi",
+				"profile_path": "/fA6mnllOYcjKNiEYnlmkc0syenN.jpg",
+				"gender": 2
+			},
+			{
+				"id": 3680843,
+				"order": 7,
+				"name": "Vamshidhar Kosgi Goud",
+				"profile_path": "/qFTeU5nIpZD0z1pX25tibgHWzvq.jpg",
+				"gender": 2
+			},
+			{
+				"id": 5034420,
+				"order": 8,
+				"name": "Agu Stanley Chiedozie"
+			},
+			{
+				"id": 1508809,
+				"order": 9,
+				"name": "Vijay Deverakonda",
+				"profile_path": "/8oVIWyIoFUal8SJFnmCUtkkm1HP.jpg",
+				"character": "Cameo",
+				"gender": 2
+			},
+			{
+				"id": 1532983,
+				"order": 10,
+				"name": "Nivetha Pethuraj",
+				"profile_path": "/8OzmSIrwJ3zg7TGWtpKLLyawzt4.jpg",
+				"character": "Sailaja",
+				"gender": 1
+			},
+			{
+				"id": 1975896,
+				"order": 11,
+				"name": "Anudeep",
+				"profile_path": "/5JUcvDyerQBoGXtSmBo9wuJA5et.jpg",
+				"character": "Subba Rao",
+				"gender": 2
+			},
+			{
+				"id": 1052322,
+				"order": 12,
+				"name": "Rahul Ravindran",
+				"profile_path": "/ejAiUB2QUhiOaGfDPgAM505R5uY.jpg",
+				"character": "Uday",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 584327,
+				"name": "Singeetam Srinivasa Rao",
+				"profile_path": "/rSJD58OQRVnJKBjL1HAXjbr9ew9.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 237681,
+				"name": "Devi Sri Prasad",
+				"profile_path": "/4Be4HLS7qqbVPfKyA3yHvtpObFc.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 584327,
+				"name": "Singeetam Srinivasa Rao",
+				"profile_path": "/rSJD58OQRVnJKBjL1HAXjbr9ew9.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4785111,
+				"name": "Prakeerthi Uppalapaati",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 4075284,
+				"name": "Arvind Mule",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 4785008,
+				"name": "Ankur Sanjeev C",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 2099286,
+				"name": "Sree Mani",
+				"profile_path": "/9zCz1XWtxEZKo3xpBVvHJnIFhlf.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2801312,
+				"name": "Geetha Gowtham",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1508808,
+				"name": "Nag Ashwin",
+				"profile_path": "/497odnRihLzESOdShcXZkNg3UaX.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 6183410,
+				"name": "Shashank Chintalpudi",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 6183414,
+				"name": "Rathna Sreekar",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 6183415,
+				"name": "Rahul V Rajeshwar",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 1501861,
+				"name": "Nanda Kishore",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 3685025,
+				"name": "Gautami Challagulla",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 6183418,
+				"name": "Ajay Kumar Namballa",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2200190,
+				"name": "Vamsi Shekar",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 6183422,
+				"name": "Anil Kumar Lakkamraju",
+				"job": "Production Executive",
+				"department": "Production"
+			},
+			{
+				"id": 6183424,
+				"name": "Manikrishna",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 6183426,
+				"name": "Srinivas Arumilli",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4306907,
+				"name": "Kamala Manohari",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 6183430,
+				"name": "Vamsi Marella",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 6183433,
+				"name": "Trishal V",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 6183435,
+				"name": "Gowrov Rayudu",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 6183437,
+				"name": "V Varma",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 6183438,
+				"name": "Vikram",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 6183439,
+				"name": "Vishwa Swaroop",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 6253200,
+				"name": "Rita Haripriya",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 3321524,
+				"name": "Shalini Kondepudi",
+				"profile_path": "/zneTc7m9FEsjaCse8kM8ji8Df2M.jpg",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 4608163,
+				"name": "Ahilya Bamroo",
+				"profile_path": "/cQGwAB8mHUEZ5c49dSrnPwDFP8g.jpg",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 6183396,
+				"name": "Ayaan",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 4428455,
+				"name": "R.P. Krishaang",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2035060,
+				"name": "Mahesh Achanta",
+				"profile_path": "/2TO7x9It2iSwd3nmWTnyyA7QECR.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2049739,
+				"name": "Racha Ravi",
+				"profile_path": "/fA6mnllOYcjKNiEYnlmkc0syenN.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 6253204,
+				"name": "Suresh Kumar Taddi",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 3554187,
+				"name": "S.P. Abhishek",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 6253206,
+				"name": "Sunandhan Deepak Blue",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 1107215,
+				"name": "Junior Relangi",
+				"profile_path": "/ov0a66Fx6UKAK6KskqpOQPG14wS.jpg",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 6183410,
+				"name": "Shashank Chintalpudi",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 237681,
+				"name": "Devi Sri Prasad",
+				"profile_path": "/4Be4HLS7qqbVPfKyA3yHvtpObFc.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 6253209,
+				"name": "Rathna Sreekar",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 3685025,
+				"name": "Gautami Challagulla",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 6253211,
+				"name": "Siva Narayana",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 6253212,
+				"name": "Chitti Prakash Rao",
+				"job": "Playback Singer",
+				"department": "Sound"
+			}
+		]
+	}
+}
