@@ -9,7 +9,7 @@ subtitle = "Shahid Kapoor, Rashmika Mandanna, Kriti Sanon serve up a misogynisti
 opening = "Cocktail 2 has absolutely nothing to do with the 2012 original, Cocktail, starring Saif Ali Khan, Deepika Padukone and Diana Penty, aside from a remixed song and the returning director, Homi Adajania."
 img = 'cocktail-2-4.webp'
 media = 'print'
-source = "https://thefederal.com/film-reviews/maa-inti-bangaaram-review-samantha-shines-in-a-baasha-template-that-lacks-punches-247288"
+source = "https://thefederal.com/film-reviews/cocktai-2-film-review-bollywood-film-shahid-kapoor-kriti-sanon-rashmika-mandanna-homi-adajania-247233"
 scores = [2]
 +++
 
