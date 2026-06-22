@@ -6,10 +6,10 @@ mreviews = ["Nooru Sami"]
 critics = ['Srinivasa Ramanujam']
 publication = ''
 subtitle = "Swasika elevates an uneven tale of widow remarriage"
-opening = ""
+opening = "Swasika anchors director Sasi’s drama about widow remarriage, but excessive melodrama blunts its emotional impact"
 img = 'nooru-sami.jpeg'
 media = 'print'
-source = "Swasika anchors director Sasi’s drama about widow remarriage, but excessive melodrama blunts its emotional impact"
+source = "https://www.thehindu.com/entertainment/movies/nooru-sami-movie-review-swasika-vijay-antony-sasi-ajay-dhishan-lijomol-jose/article71121296.ece"
 scores = [6]
 +++
 
