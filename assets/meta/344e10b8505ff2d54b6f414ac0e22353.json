@@ -1,0 +1,458 @@
+{
+	"id": 1596008,
+	"title": "Con City",
+	"fcg_title": "Con City",
+	"original_title": "கான் சிட்டி",
+	"original_language": "ta",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 14,
+			"name": "Fantasy"
+		}
+	],
+	"overview": "Follows a struggling family whose lives change when a receipt printer starts generating money after a lightning strike, leading to public chaos when society discovers the money-making machine.",
+	"backdrop_path": "/jzDjIHDknKz9jhTvBF9aSeoax1V.jpg",
+	"poster_path": "/7xLyq9kWQDiyARwYjR4BXwwuv1P.jpg",
+	"release_date": "2026-06-26",
+	"credits": {
+		"cast": [
+			{
+				"id": 2483439,
+				"order": 0,
+				"name": "Arjun Das",
+				"profile_path": "/20RDzfTjpfRHxLYBfnIYXs7vcri.jpg",
+				"character": "Saravana",
+				"gender": 2
+			},
+			{
+				"id": 2236873,
+				"order": 1,
+				"name": "Anna Ben",
+				"profile_path": "/d0vvDEO6MWeRnc6lj1d11TnIt5i.jpg",
+				"character": "Mithra",
+				"gender": 1
+			},
+			{
+				"id": 1540764,
+				"order": 2,
+				"name": "Yogi Babu",
+				"profile_path": "/vjUkJ67Bkv47TVHYIcQfQdjDqJw.jpg",
+				"character": "Jacky",
+				"gender": 2
+			},
+			{
+				"id": 581074,
+				"order": 3,
+				"name": "Vadivukarasi",
+				"profile_path": "/cGfFXJ20h1KECAzSPfo7zURtdqI.jpg",
+				"character": "Janaki",
+				"gender": 1
+			},
+			{
+				"id": 1114589,
+				"order": 4,
+				"name": "Thambi Ramaiah",
+				"profile_path": "/murNGZdySdA7uKgLBeMwOK4wEdg.jpg",
+				"character": "Minister Varadhara",
+				"gender": 2
+			},
+			{
+				"id": 1187402,
+				"order": 5,
+				"name": "Ramesh Thilak",
+				"profile_path": "/cZ5RxGzGA5swW0rZwPhPU0yVNTb.jpg",
+				"character": "Dr. Subramani",
+				"gender": 2
+			},
+			{
+				"id": 969328,
+				"order": 6,
+				"name": "Imman Annachi",
+				"profile_path": "/6VrN0psypcaNoaOYGDgsJ3n2ii8.jpg",
+				"character": "Chutti Anna",
+				"gender": 2
+			},
+			{
+				"id": 1818026,
+				"order": 7,
+				"name": "Bharadwaj Rangan",
+				"character": "Rangan",
+				"gender": 2
+			},
+			{
+				"id": 120950,
+				"order": 8,
+				"name": "Ponvannan",
+				"profile_path": "/yZsFu6ADRnCyrXDzFPt9lZYr0S3.jpg",
+				"character": "Chandrasekar",
+				"gender": 2
+			},
+			{
+				"id": 1779708,
+				"order": 9,
+				"name": "Madhan Kumar Dhakshinamoorthy",
+				"profile_path": "/3czfQIWLli5sci1WU8vy33x0Mmn.jpg",
+				"character": "Arnaa",
+				"gender": 2
+			},
+			{
+				"id": 6105928,
+				"order": 10,
+				"name": "Sathanand",
+				"character": "Satha"
+			},
+			{
+				"id": 4869824,
+				"order": 11,
+				"name": "Raghu Esakki",
+				"character": "Siva",
+				"gender": 2
+			},
+			{
+				"id": 237627,
+				"order": 12,
+				"name": "Radha Ravi",
+				"profile_path": "/tyL3XTRkbJVqyVDIE6dHFmv7R4d.jpg",
+				"character": "Abdul Razak",
+				"gender": 2
+			},
+			{
+				"id": 565865,
+				"order": 13,
+				"name": "VTV Ganesh",
+				"profile_path": "/5JomvpPx6PrExYcZAbHM1MoHjoZ.jpg",
+				"character": "Gangadharan",
+				"gender": 2
+			},
+			{
+				"id": 1124964,
+				"order": 14,
+				"name": "Aruldoss",
+				"profile_path": "/gDMVbi6reJPolJm9qtqYwTWyh4p.jpg",
+				"character": "Gopi",
+				"gender": 2
+			},
+			{
+				"id": 1314904,
+				"order": 15,
+				"name": "Shaji Chen",
+				"profile_path": "/yUzs3zZsjaMjM3SpupkIw82Jp6F.jpg",
+				"character": "MLA Senthil",
+				"gender": 2
+			},
+			{
+				"id": 1625695,
+				"order": 16,
+				"name": "Dheepa Ramanujam",
+				"profile_path": "/wnjAFAKT629yRNLD1Wya7B8wFcL.jpg",
+				"character": "Sudha",
+				"gender": 1
+			},
+			{
+				"id": 4057687,
+				"order": 17,
+				"name": "Nanda Gopal",
+				"profile_path": "/v5PKMA0NzJq2cp1M25s2InGaCcO.jpg",
+				"character": "Inspector Kalyana Sundaram"
+			},
+			{
+				"id": 6052733,
+				"order": 18,
+				"name": "Akhilan",
+				"character": "Jeeva"
+			},
+			{
+				"id": 1327228,
+				"order": 19,
+				"name": "Munnar Ramesh",
+				"profile_path": "/oGP3RCRHcq04l2afoZ8Cce3REqa.jpg",
+				"gender": 2
+			},
+			{
+				"id": 2530144,
+				"order": 20,
+				"name": "Kalki Raja",
+				"profile_path": "/ghejKia8Wufa38bjhJOvfHu9xcW.jpg"
+			},
+			{
+				"id": 1353425,
+				"order": 21,
+				"name": "Lallu Prasath",
+				"profile_path": "/f6TVtddrbG1Qk1brFASrpPehpQh.jpg",
+				"gender": 2
+			},
+			{
+				"id": 3275151,
+				"order": 22,
+				"name": "Sakshi Vaidya",
+				"profile_path": "/mjxptpTIascHLZkcXXHZ3VKKId5.jpg",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 3935947,
+				"name": "Harish Durairaj",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 3935947,
+				"name": "Harish Durairaj",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 2723158,
+				"name": "Arvind Viswanathan",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 967676,
+				"name": "Sean Roldan",
+				"profile_path": "/5AC83RzEXwWiaUomPzKN1FLlUmd.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5711231,
+				"name": "Arul Mosses",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 3627245,
+				"name": "Raj Kamal",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1641717,
+				"name": "G. Suren",
+				"profile_path": "/wkTwT40K7WM3NPazGfqz3GT7HV4.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2446685,
+				"name": "SRIK Varier",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 5835775,
+				"name": "Navaa Rambo Rajkumar",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5249023,
+				"name": "Action Sandhosh",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 2102990,
+				"name": "Mohan Rajan",
+				"profile_path": "/7lLzEzhoW830oZXMznZj1Q2SANn.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2084968,
+				"name": "S. Alagia Koothan",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5327049,
+				"name": "R. Nagarajan",
+				"job": "Production Controller",
+				"department": "Crew"
+			},
+			{
+				"id": 3332948,
+				"name": "Maniyan",
+				"job": "Still Photographer",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 4032034,
+				"name": "Prabha Premkumar",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3935947,
+				"name": "Harish Durairaj",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5948885,
+				"name": "Siddhu Nair",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2187140,
+				"name": "Yuvraaj",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 5327047,
+				"name": "Vijay M. P.",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1786709,
+				"name": "A R Abdul",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 6052712,
+				"name": "Santhosh",
+				"job": "Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 6052716,
+				"name": "Jayasuriya J",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 5291337,
+				"name": "Vijay Prabhu Vijayakumar",
+				"job": "Co-Director",
+				"department": "Directing"
+			},
+			{
+				"id": 6052717,
+				"name": "Santhoshkumar Kuppusamy",
+				"job": "Co-Director",
+				"department": "Directing"
+			},
+			{
+				"id": 6052712,
+				"name": "Santhosh",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 6052720,
+				"name": "Aravind Chandrasekar",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 6052724,
+				"name": "Nirmal Vedhachalam",
+				"job": "Still Photographer",
+				"department": "Camera"
+			},
+			{
+				"id": 4013150,
+				"name": "J. Gautham",
+				"job": "Publicist",
+				"department": "Production"
+			},
+			{
+				"id": 5327047,
+				"name": "Vijay M. P.",
+				"job": "Creative Producer",
+				"department": "Writing"
+			},
+			{
+				"id": 6052725,
+				"name": "Bharath Durairaj",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 6052726,
+				"name": "Arunprajeeth Manoharan",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2289715,
+				"name": "M. Lalitha Sudha",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 6052727,
+				"name": "Kelithee",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 6052714,
+				"name": "Ubasakan",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 6052713,
+				"name": "Sudhir Muthu",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 5327055,
+				"name": "Harihara Tamilselvan",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 6052715,
+				"name": "Gokul Sugumaran",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 5557675,
+				"name": "Sublahshini",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 6146270,
+				"name": "Vangal Pulla Vicky",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 6146271,
+				"name": "Leela",
+				"job": "Playback Singer",
+				"department": "Sound"
+			}
+		]
+	}
+}
