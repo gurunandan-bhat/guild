@@ -3,7 +3,7 @@
 {{ $films := len site.Taxonomies.mreviews }}
 <div class="container-fluid" style="padding-top: 30px;">
 	<p class="shoutout d-flex justify-content-center text-center">
-		{{ $reviews }} Reviews &#x25cf; {{ $films }} Films/Shows &#x25cf; {{ $critics }} Top Critics <br />
+		{{ lang.FormatNumberCustom 0 $reviews "- . ," }} Reviews &#x25cf; {{ lang.FormatNumberCustom 0 $films "- . ," }} Films/Shows &#x25cf; {{ $critics }} Top Critics <br />
 		And Growing!
 	</p>
 </div>
