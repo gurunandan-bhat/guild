@@ -1,0 +1,547 @@
+{
+	"id": 1202033,
+	"title": "Enola Holmes 3",
+	"fcg_title": "Enola Holmes S03",
+	"original_title": "Enola Holmes 3",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 12,
+			"name": "Adventure"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 9648,
+			"name": "Mystery"
+		}
+	],
+	"overview": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
+	"backdrop_path": "/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
+	"poster_path": "/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
+	"release_date": "2026-06-30",
+	"credits": {
+		"cast": [
+			{
+				"id": 1356210,
+				"order": 0,
+				"name": "Millie Bobby Brown",
+				"profile_path": "/kHO7hdNEVuTnQ0OjjrxP1RcAa0e.jpg",
+				"character": "Enola Holmes",
+				"gender": 1
+			},
+			{
+				"id": 73968,
+				"order": 1,
+				"name": "Henry Cavill",
+				"profile_path": "/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg",
+				"character": "Sherlock Holmes",
+				"gender": 2
+			},
+			{
+				"id": 1283,
+				"order": 2,
+				"name": "Helena Bonham Carter",
+				"profile_path": "/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg",
+				"character": "Eudoria Holmes",
+				"gender": 1
+			},
+			{
+				"id": 1558986,
+				"order": 3,
+				"name": "Louis Partridge",
+				"profile_path": "/s6AW7VreXxAjhaHgjg9HV3tRM2T.jpg",
+				"character": "Tewkesbury",
+				"gender": 2
+			},
+			{
+				"id": 1227717,
+				"order": 4,
+				"name": "Himesh Patel",
+				"profile_path": "/qCjfMjUxiAHdVpIMI9YN5MUdn24.jpg",
+				"character": "Dr. Watson",
+				"gender": 2
+			},
+			{
+				"id": 195666,
+				"order": 5,
+				"name": "Sharon Duncan-Brewster",
+				"profile_path": "/gp5h6rOrqBrIGgID4AMd58O6Ow6.jpg",
+				"character": "Moriarty",
+				"gender": 1
+			},
+			{
+				"id": 56103,
+				"order": 6,
+				"name": "Hattie Morahan",
+				"profile_path": "/itM1ugVgSCKpIvnUVORyKNUbWe7.jpg",
+				"character": "Lady Tewkesbury",
+				"gender": 1
+			},
+			{
+				"id": 1531926,
+				"order": 7,
+				"name": "Susan Wokoma",
+				"profile_path": "/puEiaNQZyG2gGfIZCyexbtrcv1F.jpg",
+				"character": "Edith",
+				"gender": 1
+			},
+			{
+				"id": 1516315,
+				"order": 8,
+				"name": "Joe Azzopardi",
+				"profile_path": "/pImRPY1hkIXU7oLZO1znJOdoDDg.jpg",
+				"character": "Mikiel",
+				"gender": 2
+			},
+			{
+				"id": 68535,
+				"order": 9,
+				"name": "Nicholas Aaron",
+				"profile_path": "/rMBLVlFDfOr6ZoU1iHF6QARv9VP.jpg",
+				"character": "Sergeant Nicholas Smith",
+				"gender": 2
+			},
+			{
+				"id": 2897372,
+				"order": 10,
+				"name": "Michela Farrugia",
+				"profile_path": "/kDij1plTwp7tziIWVGDrSQz8rzB.jpg",
+				"character": "Crista",
+				"gender": 1
+			},
+			{
+				"id": 117654,
+				"order": 11,
+				"name": "David Sterne",
+				"profile_path": "/ipvWDt43Md5CHeq4tDq6oucNFl5.jpg",
+				"character": "Coachman Eric",
+				"gender": 2
+			},
+			{
+				"id": 63608,
+				"order": 12,
+				"name": "Jason Watkins",
+				"profile_path": "/jGQOdzZ1sCz7WKtYSROMWv4menu.jpg",
+				"character": "Brigadier Sampson",
+				"gender": 2
+			},
+			{
+				"id": 1402856,
+				"order": 13,
+				"name": "Paul Cawley",
+				"character": "Governor",
+				"gender": 2
+			},
+			{
+				"id": 5530443,
+				"order": 14,
+				"name": "Myron Ellul",
+				"character": "Sergeant Indri",
+				"gender": 2
+			},
+			{
+				"id": 1806331,
+				"order": 15,
+				"name": "Robbie O'Neill",
+				"profile_path": "/yle1fegcksRawo6D4OwAKvNpxMy.jpg",
+				"character": "Corporal Malick",
+				"gender": 2
+			},
+			{
+				"id": 1333739,
+				"order": 16,
+				"name": "Stephen Chance",
+				"profile_path": "/uyrPcJxCP3I34Uqh7VmohjBBKZD.jpg",
+				"character": "Senior Officer",
+				"gender": 2
+			},
+			{
+				"id": 6319796,
+				"order": 17,
+				"name": "Nichollette Yardley-Moore",
+				"character": "Baroness Guildford",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 25167,
+				"name": "Arthur Conan Doyle",
+				"profile_path": "/eF5Kbsi6Agf8yWeq5rHJN4FM6WY.jpg",
+				"job": "Characters",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1356210,
+				"name": "Millie Bobby Brown",
+				"profile_path": "/kHO7hdNEVuTnQ0OjjrxP1RcAa0e.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 191750,
+				"name": "Philip Barantini",
+				"profile_path": "/8v03JkqIDNm6TnaTuCiD929bexm.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 114408,
+				"name": "Mary Parent",
+				"profile_path": "/jTh9ngfGF8DQvKwGM8rXSmfbQTj.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1778183,
+				"name": "Ali Mendes",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 90281,
+				"name": "Alex Garcia",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3837926,
+				"name": "Jake Bongiovi",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2979082,
+				"name": "Isobel Richards",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2498628,
+				"name": "Matthew Lewis",
+				"profile_path": "/1YcA9dXxQ452FZGVSdWGXfqB0DK.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 46284,
+				"name": "Gary Williamson",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 15734,
+				"name": "Consolata Boyle",
+				"profile_path": "/6UwAvvXKsMmvicMnc3n5w4zMjSF.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 5311726,
+				"name": "Sarah Lucas",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 2874813,
+				"name": "Bobbie Edwards",
+				"job": "Assistant Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 40722,
+				"name": "James O'Donnell",
+				"profile_path": "/6Hg9o41zQAA3e0iJkHBbVst40ZF.jpg",
+				"job": "Second Unit Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2151805,
+				"name": "Sam Rook",
+				"job": "Second Unit First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 40722,
+				"name": "James O'Donnell",
+				"profile_path": "/6Hg9o41zQAA3e0iJkHBbVst40ZF.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1359416,
+				"name": "Laura Swift",
+				"profile_path": "/eMYeKkEYIQ2MCdw4puoHWo65xnn.jpg",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1379027,
+				"name": "Tommy Boulding",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1454503,
+				"name": "Sian Wilson",
+				"job": "Hair Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1454503,
+				"name": "Sian Wilson",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 24232,
+				"name": "Hamish Doyne-Ditmas",
+				"job": "Second Unit Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2476623,
+				"name": "Phil Arntz",
+				"job": "Aerial Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 2498626,
+				"name": "Aaron May",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2498627,
+				"name": "David Ridley",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1406759,
+				"name": "Michael Bruce Ellis",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 6246325,
+				"name": "Ashley Mayse",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2096515,
+				"name": "Chris Gooch",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 3879622,
+				"name": "Robert Brown",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 23449,
+				"name": "Michael Dreyer",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 207132,
+				"name": "Jack Thorne",
+				"profile_path": "/siVfYSurwcIrplOc0vP3DiJAVN2.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2364439,
+				"name": "Joshua Grode",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2635,
+				"name": "Shaheen Baig",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 23449,
+				"name": "Michael Dreyer",
+				"job": "Unit Production Manager",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2772723,
+				"name": "Pamela Joyce",
+				"job": "Unit Production Manager",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 6319795,
+				"name": "Charlotte Allen",
+				"job": "Second Assistant Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 9815,
+				"name": "Winston Azzopardi",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3352762,
+				"name": "Nikita Mitchell",
+				"profile_path": "/iiEJr0ajXtex55ABkmTAlW1lx2K.jpg",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 2060667,
+				"name": "Holly Morpeth",
+				"job": "Supervising Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 2837287,
+				"name": "David Tinto",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 3939471,
+				"name": "Chris Straessle",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1465937,
+				"name": "Kira Kemble",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 2376555,
+				"name": "Lee David Brown",
+				"job": "\"B\" Camera Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2376555,
+				"name": "Lee David Brown",
+				"job": "Steadicam Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2988180,
+				"name": "Sean Beasley",
+				"job": "First Assistant \"A\" Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 1924473,
+				"name": "Cameron Browne",
+				"job": "Second Assistant \"A\" Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 2170230,
+				"name": "Luke Jefferson",
+				"job": "First Assistant \"B\" Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 6319797,
+				"name": "Natasha Booluck",
+				"job": "Second Assistant \"B\" Camera",
+				"department": "Camera",
+				"gender": 1
+			},
+			{
+				"id": 6319798,
+				"name": "Adam Rhodes",
+				"job": "Digital Imaging Technician",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2611285,
+				"name": "John L. Wilson",
+				"job": "Still Photographer",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1079092,
+				"name": "Angelica Pressello",
+				"job": "Script Supervisor",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 2676915,
+				"name": "Alice Guillot",
+				"job": "Script Supervisor",
+				"department": "Directing"
+			},
+			{
+				"id": 1606175,
+				"name": "Will Whale",
+				"job": "Production Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 207132,
+				"name": "Jack Thorne",
+				"profile_path": "/siVfYSurwcIrplOc0vP3DiJAVN2.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2145002,
+				"name": "Nancy Springer",
+				"profile_path": "/3Ki2BK1sobI14QtzcvPu31TmkVV.jpg",
+				"job": "Book",
+				"department": "Writing",
+				"gender": 1
+			}
+		]
+	}
+}
