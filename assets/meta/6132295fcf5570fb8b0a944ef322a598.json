@@ -1,0 +1,288 @@
+{
+	"id": 1122030,
+	"title": "Alpha",
+	"fcg_title": "Alpha",
+	"original_title": "ऐल्फा",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "Two fierce female agents tackle dangerous missions in a thrilling world of espionage, as they navigate perilous situations, execute daring stunts, and face unexpected turns in this action-packed adventure.",
+	"backdrop_path": "/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
+	"poster_path": "/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
+	"release_date": "2026-07-02",
+	"credits": {
+		"cast": [
+			{
+				"id": 1108120,
+				"order": 0,
+				"name": "Alia Bhatt",
+				"profile_path": "/RBnTJPegPFLBS4VPsNLbf6iAoD.jpg",
+				"character": "Sita",
+				"gender": 1
+			},
+			{
+				"id": 2518564,
+				"order": 1,
+				"name": "Sharvari",
+				"profile_path": "/jJUl8SJD0GaXeG1JdbQ9QLzSXy.jpg",
+				"gender": 1
+			},
+			{
+				"id": 77235,
+				"order": 2,
+				"name": "Bobby Deol",
+				"profile_path": "/2npVa3PduichY8e7qBiE54m9VVP.jpg",
+				"gender": 2
+			},
+			{
+				"id": 72118,
+				"order": 3,
+				"name": "Anil Kapoor",
+				"profile_path": "/6RcrXGFzO50Tazqc8tbDlzYKvTd.jpg",
+				"character": "Vikrant Kaul",
+				"gender": 2
+			},
+			{
+				"id": 101823,
+				"order": 4,
+				"name": "Dibyendu Bhattacharya",
+				"profile_path": "/uLlGKCL9y5CFBwcAafTDQhupz5h.jpg",
+				"gender": 2
+			},
+			{
+				"id": 85669,
+				"order": 5,
+				"name": "Dia Mirza",
+				"profile_path": "/oJSZlMkIGC1Yr8QxdBLliUjPRSd.jpg",
+				"gender": 1
+			},
+			{
+				"id": 78749,
+				"order": 6,
+				"name": "Hrithik Roshan",
+				"profile_path": "/5O7WrWe84WDFj7td64NVsobtHf3.jpg",
+				"character": "Kabir Dhaliwal",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1836153,
+				"name": "Shiv Rawail",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 35771,
+				"name": "Aditya Chopra",
+				"profile_path": "/eXYKfA6bg12pn9LPrWeRfxYQwcb.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1640319,
+				"name": "Amit Ray",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1640321,
+				"name": "Subrata Chakraborty",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 4214501,
+				"name": "Akshaye Widhani",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4694462,
+				"name": "Soumil Shukla",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 85443,
+				"name": "Shridhar Raghavan",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 233065,
+				"name": "Kumaar",
+				"profile_path": "/9sHLGuvqvmfbeh9RiaYROVQ2VUy.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1147472,
+				"name": "Anvita Dutt",
+				"profile_path": "/ayAdNgOEDktAo0Sp8CVZYeUGSEC.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 1495603,
+				"name": "Kausar Munir",
+				"profile_path": "/7opGgmpEUXFmXJ5JiXnSfqvUNB4.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 69709,
+				"name": "Uday Chopra",
+				"profile_path": "/bHmH00vJNavpf5BgSuBeUSPB9bj.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4248731,
+				"name": "Rishabh Chopra",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2280583,
+				"name": "Padam Bhushan",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1174421,
+				"name": "Aarif Sheikh",
+				"profile_path": "/12aEefwC0vBq0QiV7e7PPt7RCio.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1785033,
+				"name": "Sunil Rodrigues",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 1834558,
+				"name": "Ganesh Gangadharan",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 85057,
+				"name": "Debasish Mishra",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 1544699,
+				"name": "Sanchit Balhara",
+				"profile_path": "/uoT1EOft58kNXQCChW083XDvFSy.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2224392,
+				"name": "Ankit Balhara",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 1708064,
+				"name": "Aki Narula",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2495720,
+				"name": "Natasha Vohra",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5912473,
+				"name": "Deepali Singh Raseen",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5247289,
+				"name": "Gunpreet Kaur Mann",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1911375,
+				"name": "Vijay Ganguly",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1556333,
+				"name": "Bosco Martis",
+				"profile_path": "/yjh5SIwXLh8j4dQgPoE67fIQ8NA.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1364353,
+				"name": "Shanoo Sharma",
+				"profile_path": "/78wQF7xfirzblKvSnx0ljopD8lc.jpg",
+				"job": "Casting Director",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1496036,
+				"name": "Craig Macrae",
+				"profile_path": "/xv4rdbhpi1IUKkHEQb2ktcEdZP4.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 6278851,
+				"name": "Abeer Pandit",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 1758582,
+				"name": "Ishita Moitra",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 3039575,
+				"name": "Rubais",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 6278870,
+				"name": "Rohansh Pandit",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			}
+		]
+	}
+}
