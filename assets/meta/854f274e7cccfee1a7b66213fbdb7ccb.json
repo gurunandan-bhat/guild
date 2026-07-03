@@ -1,0 +1,503 @@
+{
+	"id": 1284465,
+	"title": "The Death of Robin Hood",
+	"fcg_title": "The Death of Robin Hood",
+	"original_title": "The Death of Robin Hood",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 12,
+			"name": "Adventure"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		},
+		{
+			"id": 28,
+			"name": "Action"
+		}
+	],
+	"overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+	"backdrop_path": "/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
+	"poster_path": "/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+	"release_date": "2026-06-18",
+	"credits": {
+		"cast": [
+			{
+				"id": 6968,
+				"order": 0,
+				"name": "Hugh Jackman",
+				"profile_path": "/oX6CpXmnXCHLyqsa4NEed1DZAKx.jpg",
+				"character": "Robin Hood",
+				"gender": 2
+			},
+			{
+				"id": 1388593,
+				"order": 1,
+				"name": "Jodie Comer",
+				"profile_path": "/AfsBpnfw0E2h8NZK4zkFcOjYlEb.jpg",
+				"character": "Sister Brigid",
+				"gender": 1
+			},
+			{
+				"id": 137905,
+				"order": 2,
+				"name": "Bill Skarsgård",
+				"profile_path": "/yGML6E9OtHQ5PFSvxoIj901tvsL.jpg",
+				"character": "Little John",
+				"gender": 2
+			},
+			{
+				"id": 152416,
+				"order": 3,
+				"name": "Murray Bartlett",
+				"profile_path": "/eN20zfcRB2F51bmUbTK9byQCpb9.jpg",
+				"character": "The Leper",
+				"gender": 2
+			},
+			{
+				"id": 1590759,
+				"order": 4,
+				"name": "Noah Jupe",
+				"profile_path": "/xbswZN0SHgeCbyo5GQ0xfZKH3vs.jpg",
+				"character": "Arthur / Godwyn",
+				"gender": 2
+			},
+			{
+				"id": 1303071,
+				"order": 5,
+				"name": "Jade Croot",
+				"profile_path": "/j4DuuFPDdnEcDWFWCyBUuhhHkxg.jpg",
+				"character": "Wainwright",
+				"gender": 1
+			},
+			{
+				"id": 4526195,
+				"order": 6,
+				"name": "Faith Delaney",
+				"profile_path": "/jIKjTzr4dCoybQgNhyREahh9Aym.jpg",
+				"character": "Little Margaret",
+				"gender": 1
+			},
+			{
+				"id": 5396679,
+				"order": 7,
+				"name": "Tabitha Smyth",
+				"profile_path": "/uREVbfIi4rD2W29zWbtzNqIhP4u.jpg",
+				"character": "Sarah",
+				"gender": 1
+			},
+			{
+				"id": 3676238,
+				"order": 8,
+				"name": "Beau Thompson",
+				"profile_path": "/9mGiYt7w8YqsqM6TLoGqYV9SvFY.jpg",
+				"character": "Hob",
+				"gender": 2
+			},
+			{
+				"id": 4633814,
+				"order": 9,
+				"name": "Alfie Lawless",
+				"profile_path": "/761sH9H88m86M3iUuxMJpLQ2GE2.jpg",
+				"character": "Hendrie",
+				"gender": 2
+			},
+			{
+				"id": 3169520,
+				"order": 10,
+				"name": "Asher de Silva",
+				"profile_path": "/fQinMbIfOTCCqtAFuLwMqNoXzYw.jpg",
+				"character": "Moshe",
+				"gender": 2
+			},
+			{
+				"id": 1700997,
+				"order": 11,
+				"name": "Elijah Ungvary",
+				"profile_path": "/fpuW3g10qPuJHrhI4Eu6lC3WsxZ.jpg",
+				"character": "Hairy Kinsman",
+				"gender": 2
+			},
+			{
+				"id": 3466281,
+				"order": 12,
+				"name": "Fintan Shevlin",
+				"character": "Farmhand"
+			},
+			{
+				"id": 6295964,
+				"order": 13,
+				"name": "Katie Breen",
+				"character": "Margaret"
+			},
+			{
+				"id": 1620783,
+				"order": 14,
+				"name": "Michael Hanna",
+				"character": "Second Kill at Farm"
+			},
+			{
+				"id": 3491831,
+				"order": 15,
+				"name": "Andrew McCracken",
+				"character": "Hendrie's Father"
+			},
+			{
+				"id": 19901,
+				"order": 16,
+				"name": "Clive Russell",
+				"profile_path": "/eC37Kmdo5YKNG2MyirCG4tWDxCS.jpg",
+				"character": "Elderfather",
+				"gender": 2
+			},
+			{
+				"id": 5276575,
+				"order": 17,
+				"name": "Amy McElhatton",
+				"character": "Hendrie's Aunt"
+			},
+			{
+				"id": 6295967,
+				"order": 18,
+				"name": "Maeve Connelly",
+				"character": "Hendrie's Great Aunt"
+			},
+			{
+				"id": 230685,
+				"order": 19,
+				"name": "Maggie Hayes",
+				"profile_path": "/zUbNP8rs31cGvDYe81uYXu4fKdi.jpg",
+				"character": "Hendrie's Grandmother",
+				"gender": 1
+			},
+			{
+				"id": 2272527,
+				"order": 20,
+				"name": "Richie Wilson",
+				"profile_path": "/fupLzCf0GkZ36O7BOuMk3swILZg.jpg",
+				"character": "Godwyn Senior",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 2580328,
+				"name": "Michael Sarnoski",
+				"profile_path": "/s2bl2Ct2BNLZjXqxHt7SpYgYzLD.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2580328,
+				"name": "Michael Sarnoski",
+				"profile_path": "/s2bl2Ct2BNLZjXqxHt7SpYgYzLD.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 554,
+				"name": "Aaron Ryder",
+				"profile_path": "/2ReBSLRRFjud0Qp3BfnvLheddBj.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2429311,
+				"name": "Andrew Swett",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4689938,
+				"name": "Alexander Black",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3669816,
+				"name": "Jon Rosenberg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4691915,
+				"name": "Rama Gottumukkala",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2580328,
+				"name": "Michael Sarnoski",
+				"profile_path": "/s2bl2Ct2BNLZjXqxHt7SpYgYzLD.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1476760,
+				"name": "Pat Scola",
+				"profile_path": "/300NTYL5o91NQ2WbpAHvXWKQ1Us.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 33393,
+				"name": "Lorna Marie Mugan",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 5327,
+				"name": "Andrew Mondshein",
+				"profile_path": "/9kq2PWC1ee6OPS7iHNre82PMRqo.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1530218,
+				"name": "Hauke Richter",
+				"job": "Supervising Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 1127472,
+				"name": "Paul Barry",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1430076,
+				"name": "Josh Weston",
+				"job": "Prosthetic Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1437620,
+				"name": "Peta Dunstall",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1437620,
+				"name": "Peta Dunstall",
+				"job": "Hair Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1127472,
+				"name": "Paul Barry",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1408795,
+				"name": "Janine Modder",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2955764,
+				"name": "David Lee",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1635162,
+				"name": "Sean Flanigan",
+				"profile_path": "/fPwyDOkYb6UhO8VawfqNxTrYviM.jpg",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3805986,
+				"name": "Jamie Hegarty",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4046373,
+				"name": "Sheena Kelly",
+				"job": "Second Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5396696,
+				"name": "Daniella Timperley",
+				"job": "Third Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 3090533,
+				"name": "Derek Hehir",
+				"job": "Production Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 141358,
+				"name": "Julian Spencer",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 4372054,
+				"name": "Charlie Rizek",
+				"job": "\"A\" Camera Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 2052490,
+				"name": "Tom Poole",
+				"profile_path": "/voEh227liosq1kj3oWaGpC2l6zT.jpg",
+				"job": "Colorist",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1578092,
+				"name": "Brendan Gunn",
+				"profile_path": "/c3C537RjEqOx1SsgZ3yIRCxcmKi.jpg",
+				"job": "Dialect Coach",
+				"department": "Crew"
+			},
+			{
+				"id": 1575736,
+				"name": "Malcolm Humphreys",
+				"profile_path": "/oVkzEVHDUFYhBBDobBbcMXRb5nN.jpg",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 16363,
+				"name": "Nina Gold",
+				"profile_path": "/emeKuabMDN3C8x8ibby7FNtjRgu.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1533490,
+				"name": "Martin Ware",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5990486,
+				"name": "Jim Ghedi",
+				"profile_path": "/oCmMQggb9GaR2TRUBuDlTgZGIam.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 4667594,
+				"name": "Stephanie Rea",
+				"job": "Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 2125862,
+				"name": "James Mann",
+				"job": "VFX Editor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2061346,
+				"name": "Charles Miller",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2061346,
+				"name": "Charles Miller",
+				"job": "Unit Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 1998244,
+				"name": "Lee Briggs",
+				"profile_path": "/zRvlrS7KkqHPMyRegutjdfIXHm.jpg",
+				"job": "Executive Visual Effects Producer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 4338418,
+				"name": "Jordan Harding",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 6968,
+				"name": "Hugh Jackman",
+				"profile_path": "/oX6CpXmnXCHLyqsa4NEed1DZAKx.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1358216,
+				"name": "Arlen Konopaki",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 8401,
+				"name": "Mark Huffam",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1408795,
+				"name": "Janine Modder",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1722504,
+				"name": "Lee Salevan",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1722504,
+				"name": "Lee Salevan",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2157956,
+				"name": "Luke Ballard",
+				"job": "Compositing Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			}
+		]
+	}
+}
