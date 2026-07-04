@@ -1,0 +1,563 @@
+{
+	"id": 1155818,
+	"title": "Satluj",
+	"fcg_title": "Satluj",
+	"original_title": "ਸਤਲੁਜ",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 36,
+			"name": "History"
+		}
+	],
+	"overview": "Triggered by the search for his missing aunt, human rights activist Jaswant Singh Khalra takes on a broken system in a courageous fight to uncover the conspiracy behind thousands of disappearances and extrajudicial killings during the nadir of Punjab’s period of insurgency.",
+	"backdrop_path": "/h7VptulPVCJUIvWCE2HzXdHljkj.jpg",
+	"poster_path": "/7ia3nAM4q9sBy8g3SVEVgRAcsKd.jpg",
+	"release_date": "2026-07-03",
+	"credits": {
+		"cast": [
+			{
+				"id": 928221,
+				"order": 0,
+				"name": "Diljit Dosanjh",
+				"profile_path": "/xB57LAMYa1q3CaS0TZjgf4d2OaS.jpg",
+				"character": "Jaswant Singh Khalra",
+				"gender": 2
+			},
+			{
+				"id": 52263,
+				"order": 1,
+				"name": "Arjun Rampal",
+				"profile_path": "/1F81WNcVV5cW9O4D5Otk1Y2WHV9.jpg",
+				"character": "Samudra Singh",
+				"gender": 2
+			},
+			{
+				"id": 1629321,
+				"order": 2,
+				"name": "Suvinder Vicky",
+				"profile_path": "/6T3Y0jvLMdMw19ShLZvLNHIkaSD.jpg",
+				"character": "SSP Surjit Singh Sugga",
+				"gender": 2
+			},
+			{
+				"id": 2120753,
+				"order": 3,
+				"name": "Geetika Vidya",
+				"profile_path": "/8vGi0UERPBA5fzkjbIOqLOQfzso.jpg",
+				"character": "Pammi (Paramjit Kaur)",
+				"gender": 1
+			},
+			{
+				"id": 77241,
+				"order": 4,
+				"name": "Kanwaljit Singh",
+				"profile_path": "/pitJUd0ySbOBrGOzLJBJ63fMLaK.jpg",
+				"character": "DGP Inderpal Singh Bitta",
+				"gender": 2
+			},
+			{
+				"id": 2353414,
+				"order": 5,
+				"name": "Saurabh Sachdeva",
+				"profile_path": "/owFhWHeW4fyc7k6ik8uCvYQCXoy.jpg",
+				"character": "Senior Constable Satnam Singh",
+				"gender": 2
+			},
+			{
+				"id": 1867682,
+				"order": 6,
+				"name": "Jagjeet Sandhu",
+				"profile_path": "/3aehzXHbFu12c3H6Gq6tlPrhgm9.jpg",
+				"character": "SPO Kuljit Singh"
+			},
+			{
+				"id": 1197127,
+				"order": 7,
+				"name": "Geeta Agrawal Sharma",
+				"profile_path": "/5Jrwb9zWG2Hjmf8PQLuDmCKnMHG.jpg",
+				"character": "Dr. Geeta Basra",
+				"gender": 1
+			},
+			{
+				"id": 589051,
+				"order": 8,
+				"name": "Amit Dhawan",
+				"character": "DSP Jagpal Singh"
+			},
+			{
+				"id": 6324863,
+				"order": 9,
+				"name": "Vikas Mohla",
+				"character": "SI Harinder Singh"
+			},
+			{
+				"id": 140703,
+				"order": 10,
+				"name": "Vansh Bhardwaj",
+				"character": "Inspector Shivender Singh"
+			},
+			{
+				"id": 2286208,
+				"order": 11,
+				"name": "Ramji Bali",
+				"character": "Inspector Ajay Kumar"
+			},
+			{
+				"id": 6324865,
+				"order": 12,
+				"name": "Akhilesh Dwivedi",
+				"character": "SI Tejinder Singh"
+			},
+			{
+				"id": 6324866,
+				"order": 13,
+				"name": "Amanpreet Singh",
+				"character": "Nihaal Singh"
+			},
+			{
+				"id": 6324867,
+				"order": 14,
+				"name": "Swarleen Kaur",
+				"character": "Kiran"
+			},
+			{
+				"id": 6324868,
+				"order": 15,
+				"name": "Gurindh Singh",
+				"character": "Japp"
+			},
+			{
+				"id": 4944720,
+				"order": 16,
+				"name": "Dally Daljit",
+				"character": "Kartar Singh (Jaswant's Father)"
+			},
+			{
+				"id": 2509543,
+				"order": 17,
+				"name": "Neetha Mohindra",
+				"character": "Mindro (Jaswant's Mother)"
+			},
+			{
+				"id": 964980,
+				"order": 18,
+				"name": "Jyoti Dogra",
+				"character": "Bibi Gurpej Kaur",
+				"gender": 1
+			},
+			{
+				"id": 2443686,
+				"order": 19,
+				"name": "Bhupendra Singh",
+				"character": "Kirpal Singh Bannowal"
+			},
+			{
+				"id": 128734,
+				"order": 20,
+				"name": "Amardeep Jha",
+				"profile_path": "/elvrWT75OcIK45N6rd9KkEM34Pe.jpg",
+				"character": "Satnam's Mother",
+				"gender": 1
+			},
+			{
+				"id": 930045,
+				"order": 21,
+				"name": "Taran Bajaj",
+				"character": "Dilbag Singh"
+			},
+			{
+				"id": 2025683,
+				"order": 22,
+				"name": "Dilawar Sidhu",
+				"character": "Tarn Taran Crematorium Caretaker"
+			},
+			{
+				"id": 122498,
+				"order": 23,
+				"name": "Varun Badola",
+				"profile_path": "/dzSBwofeP4dh3bP8TG6VxkHSjLy.jpg",
+				"character": "Advocate Ravinder Jais",
+				"gender": 2
+			},
+			{
+				"id": 1953692,
+				"order": 24,
+				"name": "Govind Pandey",
+				"profile_path": "/fHusdy0bJrq3VS28f5G8mt8k1sX.jpg",
+				"character": "Rajasthan Sarpanch"
+			},
+			{
+				"id": 2710882,
+				"order": 25,
+				"name": "Vijay Kumar Dogra",
+				"character": "Rajasthan Cop"
+			},
+			{
+				"id": 2541600,
+				"order": 26,
+				"name": "Anjuman Saxena",
+				"profile_path": "/lRlbH3fMAejg9wJlIFI2f0nbg17.jpg",
+				"character": "High Court Judge",
+				"gender": 1
+			},
+			{
+				"id": 593102,
+				"order": 27,
+				"name": "S M Zaheer",
+				"character": "CM Anant Singh",
+				"gender": 2
+			},
+			{
+				"id": 930043,
+				"order": 28,
+				"name": "Anil Charanjeett",
+				"profile_path": "/87RpqSAI3jrhg0g9SXcl6Cj9QLO.jpg",
+				"character": "Sanjiv Singh",
+				"gender": 2
+			},
+			{
+				"id": 2481475,
+				"order": 29,
+				"name": "Lally Gill",
+				"character": "Sugga's Lawyer"
+			},
+			{
+				"id": 3033602,
+				"order": 30,
+				"name": "Corinne Meadors",
+				"profile_path": "/2u8GYwrO1AsQI1ArwoKCCYXWGoQ.jpg",
+				"character": "Canadian MP Colleen Baumier",
+				"gender": 1
+			},
+			{
+				"id": 1197125,
+				"order": 31,
+				"name": "Anuraag Arora",
+				"profile_path": "/tLqQ0RVvU7OXaPMyFI7AWKeaE97.jpg",
+				"character": "Government Official",
+				"gender": 2
+			},
+			{
+				"id": 1359197,
+				"order": 32,
+				"name": "Sukhmani Sadana",
+				"character": "Reporter at CM's Press Conference"
+			},
+			{
+				"id": 1938097,
+				"order": 33,
+				"name": "Amardeep Singh Gill",
+				"character": "MLA Mahinderpal Singh"
+			},
+			{
+				"id": 4121422,
+				"order": 34,
+				"name": "Gaganjeet Singh",
+				"profile_path": "/eS85Uwqd54OYgJ7yds1sc1iPisO.jpg",
+				"character": "Baldev Singh",
+				"gender": 2
+			},
+			{
+				"id": 4040630,
+				"order": 35,
+				"name": "Narendra Sachar",
+				"character": "Supreme Court Judge 1"
+			},
+			{
+				"id": 6324949,
+				"order": 36,
+				"name": "Umesh Kant",
+				"character": "Supreme Court Judge 2"
+			},
+			{
+				"id": 6324950,
+				"order": 37,
+				"name": "Manjeet Billa",
+				"character": "Supreme Court Judge 3"
+			},
+			{
+				"id": 5879806,
+				"order": 38,
+				"name": "Vishal Dahiya",
+				"character": "Aman"
+			},
+			{
+				"id": 1662189,
+				"order": 39,
+				"name": "Emmanuel Singh",
+				"character": "Kehar Singh"
+			},
+			{
+				"id": 3642131,
+				"order": 40,
+				"name": "Mohan Kamboj",
+				"character": "Kehar Singh's Father"
+			},
+			{
+				"id": 53381,
+				"order": 41,
+				"name": "Navtej Singh Johar",
+				"character": "CBI Court Judge"
+			},
+			{
+				"id": 4488816,
+				"order": 42,
+				"name": "Sushil Dahiya",
+				"character": "Defence Lawyer Dahiya"
+			},
+			{
+				"id": 1673782,
+				"order": 43,
+				"name": "Milind Dhaimade",
+				"character": "CBI Chief Bhullar"
+			},
+			{
+				"id": 130111,
+				"order": 44,
+				"name": "Nassar",
+				"profile_path": "/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1536244,
+				"name": "Honey Trehan",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1536244,
+				"name": "Honey Trehan",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 53677,
+				"name": "Ronnie Screwvala",
+				"profile_path": "/yBlADqlWOXWAgDOt3RnBb51JgOu.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 114379,
+				"name": "Abhishek Chaubey",
+				"profile_path": "/r8nPsFdWBw66a1StdAawWAD5TZZ.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4178327,
+				"name": "Utsav Maitra",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 1544565,
+				"name": "Niren Bhatt",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1536244,
+				"name": "Honey Trehan",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 1083289,
+				"name": "K.U. Mohanan",
+				"profile_path": "/u03aeJXkCxXwvOuk35tfkL5YuYI.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2074655,
+				"name": "Pashan Jal",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 37242,
+				"name": "Sreekar Prasad",
+				"profile_path": "/cHpDtVlleMlplodhKmjPCGqaAFS.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 2051069,
+				"name": "Chetana Kowshik",
+				"job": "Supervising Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2045869,
+				"name": "Smriti Jain",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2074647,
+				"name": "Gaurav Mishra",
+				"profile_path": "/ykZkxPEW6T8bAwDoz6MmqRPCVLl.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2074650,
+				"name": "Sonia Kanwar",
+				"job": "Creative Producer",
+				"department": "Writing"
+			},
+			{
+				"id": 3420526,
+				"name": "Sanaya Irani Zohrabi",
+				"job": "Creative Producer",
+				"department": "Writing"
+			},
+			{
+				"id": 2319306,
+				"name": "Maharsh Shah",
+				"job": "Creative Producer",
+				"department": "Writing"
+			},
+			{
+				"id": 3420528,
+				"name": "Hasanain Hooda",
+				"job": "Creative Producer",
+				"department": "Writing"
+			},
+			{
+				"id": 129917,
+				"name": "Marc Marder",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1607566,
+				"name": "Debarpito Saha",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 1645941,
+				"name": "Kunal Sharma",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 3002874,
+				"name": "Garima Mathur",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1744509,
+				"name": "Rohit Chaturvedi",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2071274,
+				"name": "Alok Punjani",
+				"job": "Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1536244,
+				"name": "Honey Trehan",
+				"job": "Casting Director",
+				"department": "Production"
+			},
+			{
+				"id": 930045,
+				"name": "Taran Bajaj",
+				"job": "Casting Director",
+				"department": "Production"
+			},
+			{
+				"id": 2513476,
+				"name": "Harpal Singh Pali",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 1810275,
+				"name": "Vikram Dahiya",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 5189142,
+				"name": "Deepak Chanchal Malhotra",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4138431,
+				"name": "Gaurav Chauhan",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4018378,
+				"name": "Soamaa Goswami",
+				"job": "Prosthetic Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2041607,
+				"name": "Tripathi Ankur",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1723497,
+				"name": "Debajit Changmai",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 5315315,
+				"name": "C.V. Raju",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 2149909,
+				"name": "Ashirwad Hadkar",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 4423132,
+				"name": "Stephen Mascarenhas",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 4423134,
+				"name": "Swapnil Shelar",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			}
+		]
+	}
+}
