@@ -1,0 +1,860 @@
+{
+	"id": 1390382,
+	"title": "Couture",
+	"fcg_title": "Couture",
+	"original_title": "Coutures",
+	"original_language": "fr",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "In the frenzy of Fashion Week, three women cross paths in Paris, grappling with the world's tragedies and the questions of their lives: Maxine, an American film director in her forties, discovers she has cancer; Ada, a young South Sudanese model, escapes a predetermined destiny to be thrust into a deceptive universe and French makeup artist Angèle, a small hand working in the shadows of the catwalks, dreams of escaping her life.",
+	"backdrop_path": "/9GBiwvuJahvlfEQtuGhpS384Ei5.jpg",
+	"poster_path": "/pie2ouNdXYKEMXtF2Kvj0H4LzOr.jpg",
+	"release_date": "2026-02-18",
+	"credits": {
+		"cast": [
+			{
+				"id": 11701,
+				"order": 0,
+				"name": "Angelina Jolie",
+				"profile_path": "/bXNxIKcJ5cNNW8QFrBPWcfTSu9x.jpg",
+				"character": "Maxine Walker",
+				"gender": 1
+			},
+			{
+				"id": 5074766,
+				"order": 1,
+				"name": "Anyier Anei",
+				"profile_path": "/3jjM2S7X13ONA4s45nr2o4HkDZE.jpg",
+				"character": "Ada",
+				"gender": 1
+			},
+			{
+				"id": 1438688,
+				"order": 2,
+				"name": "Ella Rumpf",
+				"profile_path": "/4igT9ZxHs26m6ttyMcZH50NrWgd.jpg",
+				"character": "Angèle",
+				"gender": 1
+			},
+			{
+				"id": 16269,
+				"order": 3,
+				"name": "Louis Garrel",
+				"profile_path": "/iKJ1SL0im6tJVnE777HNLX2kUeG.jpg",
+				"character": "Anton",
+				"gender": 2
+			},
+			{
+				"id": 5443,
+				"order": 4,
+				"name": "Vincent Lindon",
+				"profile_path": "/tjRKMKfsIH7MrqtN7cMPIZubSXa.jpg",
+				"character": "Dr. Laurent Hansen",
+				"gender": 2
+			},
+			{
+				"id": 1144473,
+				"order": 5,
+				"name": "Garance Marillier",
+				"profile_path": "/gPIOhXZDUYE8wDbL5s12H7i6uzK.jpg",
+				"character": "Christine",
+				"gender": 1
+			},
+			{
+				"id": 136170,
+				"order": 6,
+				"name": "Grégoire Colin",
+				"profile_path": "/jtolsceVVsMT1wWi8m8pdtaUE4f.jpg",
+				"character": "Le directeur d'image",
+				"gender": 2
+			},
+			{
+				"id": 9893,
+				"order": 7,
+				"name": "Aurore Clément",
+				"profile_path": "/9vZxPV8LvY1wp32AIm35CZ7WelG.jpg",
+				"character": "Anne",
+				"gender": 1
+			},
+			{
+				"id": 6167159,
+				"order": 8,
+				"name": "Yuliia Ratner",
+				"character": "Julia",
+				"gender": 1
+			},
+			{
+				"id": 6167168,
+				"order": 9,
+				"name": "Mona Tougaard",
+				"character": "Mona",
+				"gender": 1
+			},
+			{
+				"id": 6167174,
+				"order": 10,
+				"name": "Hunter David",
+				"character": "Hunter"
+			},
+			{
+				"id": 23392,
+				"order": 11,
+				"name": "Joana Preiss",
+				"profile_path": "/aP3PslnXvprm0MMcAv8FuVwr3bg.jpg",
+				"character": "Joana",
+				"gender": 1
+			},
+			{
+				"id": 583853,
+				"order": 12,
+				"name": "Finnegan Oldfield",
+				"profile_path": "/mvc8BnamGxAyU4gfe5K7TvgB9OZ.jpg",
+				"character": "Tim",
+				"gender": 2
+			},
+			{
+				"id": 1367236,
+				"order": 13,
+				"name": "Nicolas Avinée",
+				"profile_path": "/dpL7oZ04F1cbdbgMjn21Zw43wNk.jpg",
+				"character": "Assistant Maxine"
+			},
+			{
+				"id": 6167186,
+				"order": 14,
+				"name": "Nina Marker",
+				"character": "Nina",
+				"gender": 1
+			},
+			{
+				"id": 6167199,
+				"order": 15,
+				"name": "Rebekka Eriksen",
+				"character": "Rebekka",
+				"gender": 1
+			},
+			{
+				"id": 6167347,
+				"order": 16,
+				"name": "Aida Atarssa",
+				"profile_path": "/lQao3F8JRJRWIhr5vwHMjkL2hhz.jpg",
+				"character": "Aïda",
+				"gender": 1
+			},
+			{
+				"id": 6167358,
+				"order": 17,
+				"name": "Shuting Yang",
+				"profile_path": "/r39k3d47AgV9CIZTaJAyd6jawSv.jpg",
+				"character": "Shuting",
+				"gender": 1
+			},
+			{
+				"id": 5752354,
+				"order": 18,
+				"name": "Mika Schneider",
+				"profile_path": "/swn29XRWy9yIFdsPZfEFoPQ8WMT.jpg",
+				"character": "Mika",
+				"gender": 1
+			},
+			{
+				"id": 1281819,
+				"order": 19,
+				"name": "Sofia Lesaffre",
+				"profile_path": "/bVdTqCxfemzjv25BFQum8mOYGe1.jpg",
+				"character": "L'Amie Maquilleuse",
+				"gender": 1
+			},
+			{
+				"id": 2987964,
+				"order": 20,
+				"name": "Axel Granberger",
+				"profile_path": "/8U8D5kg49Rx697XyWAhzS3v2JmD.jpg",
+				"character": "Booker"
+			},
+			{
+				"id": 2684756,
+				"order": 21,
+				"name": "François Philippi",
+				"character": "Superviseur SFX Studio",
+				"gender": 2
+			},
+			{
+				"id": 1271847,
+				"order": 22,
+				"name": "Laëtitia Clément",
+				"profile_path": "/y37K7xShORzqgKrpsDsZ3Bnpo0W.jpg",
+				"character": "Infirmière Dr. Hansen",
+				"gender": 1
+			},
+			{
+				"id": 2959332,
+				"order": 23,
+				"name": "Gioele Vettraino",
+				"character": "Photographe italien"
+			},
+			{
+				"id": 1807099,
+				"order": 24,
+				"name": "Pascal Rénéric",
+				"profile_path": "/7gRhYSIcrPAvuvSopoSouAmckEa.jpg",
+				"character": "Coach écriture",
+				"gender": 2
+			},
+			{
+				"id": 2923924,
+				"order": 25,
+				"name": "Thomas Alden",
+				"character": "Chef maquilleur défilé commercial",
+				"gender": 2
+			},
+			{
+				"id": 3624024,
+				"order": 26,
+				"name": "Guillaume Marbeck",
+				"profile_path": "/suv17PmzOl2mPiinr3R3Ag61Q5o.jpg",
+				"character": "Maquilleur défilé commercial",
+				"gender": 2
+			},
+			{
+				"id": 5302129,
+				"order": 27,
+				"name": "Milla Savarese",
+				"character": "Maquilleuse défilé commercial"
+			},
+			{
+				"id": 23399,
+				"order": 28,
+				"name": "Simon Jacquet",
+				"profile_path": "/ghab9Dut0DmrXdmvIu4vEZbpgfr.jpg",
+				"character": "Monteur film Maxime",
+				"gender": 2
+			},
+			{
+				"id": 3598675,
+				"order": 29,
+				"name": "Benoit Lemoine",
+				"character": "Réalisateur control-room"
+			},
+			{
+				"id": 4330063,
+				"order": 30,
+				"name": "Lily Gantelmi d'Ile",
+				"character": "Assistante control-room"
+			},
+			{
+				"id": 3631789,
+				"order": 31,
+				"name": "Maya Persaud",
+				"character": "Assistante acteur américain"
+			},
+			{
+				"id": 3264924,
+				"order": 32,
+				"name": "Adèle Montebourg",
+				"character": "Vendeuse électroménager",
+				"gender": 1
+			},
+			{
+				"id": 6167193,
+				"order": 33,
+				"name": "Moira Hugues",
+				"character": "Eden (voice)",
+				"gender": 1
+			},
+			{
+				"id": 5687160,
+				"order": 34,
+				"name": "Douglas Rand",
+				"character": "Dr. Kazinski (voice)"
+			},
+			{
+				"id": 6432,
+				"order": 35,
+				"name": "Sean Gullette",
+				"profile_path": "/wziMZnskBjMe4Nnt1TaIaky3KMv.jpg",
+				"character": "Ray (voice)",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1051327,
+				"name": "Alice Winocour",
+				"profile_path": "/oSQ6x8Psbrvq2xCbsmtjoaovwG1.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 1414984,
+				"name": "Adruitha Lee",
+				"profile_path": "/rBaJQex09HKKBqh2SQOhjP6gR37.jpg",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1051327,
+				"name": "Alice Winocour",
+				"profile_path": "/oSQ6x8Psbrvq2xCbsmtjoaovwG1.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 54318,
+				"name": "Charles Gillibert",
+				"profile_path": "/gss7U39JPmEC6eRl0EiiKIilSYs.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 15906,
+				"name": "William Horberg",
+				"profile_path": "/jG8rBdoOSO6HyEjMmJb1prmpgBF.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3953700,
+				"name": "Zhang Xin",
+				"profile_path": "/a1qB6B7mWQLwPiGaANKoQN2k6U7.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 4168617,
+				"name": "Bob Xu",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1418991,
+				"name": "André Chemetoff",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1608062,
+				"name": "Florian Sanson",
+				"profile_path": "/3kWrQ8k5LAOpmNcsyfm0C6fGHAf.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 26099,
+				"name": "Pascaline Chavanne",
+				"profile_path": "/3LklRNkZlrcYB0RGg5bdwjEMMtX.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 2284332,
+				"name": "Luc Bricault",
+				"profile_path": "/kfrxRSw1h8ojZZiXTGkxrzQCSzL.jpg",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2421434,
+				"name": "Oscar Crane",
+				"job": "Third Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1242862,
+				"name": "Maddox Jolie",
+				"profile_path": "/fgZUH0QpyeBXPKmwvRMZmFeuP6a.jpg",
+				"job": "Third Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 5194931,
+				"name": "Trayati Drouillette",
+				"job": "Assistant Director Trainee",
+				"department": "Directing"
+			},
+			{
+				"id": 2132535,
+				"name": "Pierre Lagardère",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5114396,
+				"name": "Lola Vieira",
+				"job": "Third Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 3999024,
+				"name": "Marine de Lamarzelle",
+				"job": "Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 1442118,
+				"name": "Alice Leconte",
+				"job": "Assistant Art Director",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 3665945,
+				"name": "Jeanne Lecrivain",
+				"job": "Assistant Set Dresser",
+				"department": "Art"
+			},
+			{
+				"id": 1596558,
+				"name": "Etienne Mercier",
+				"job": "Property Master",
+				"department": "Art"
+			},
+			{
+				"id": 5194933,
+				"name": "Nina Carla Pussieux",
+				"job": "Assistant Property Master",
+				"department": "Art"
+			},
+			{
+				"id": 4371440,
+				"name": "Marilou Cuffini-Fabre",
+				"job": "Sound Assistant",
+				"department": "Sound"
+			},
+			{
+				"id": 1536193,
+				"name": "Séverin Engler",
+				"job": "Boom Operator",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1738865,
+				"name": "Erwan Kerzanet",
+				"job": "Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2684756,
+				"name": "François Philippi",
+				"job": "Special Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 3493038,
+				"name": "Alejandro Asensio",
+				"job": "Second Assistant \"B\" Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 3499676,
+				"name": "Brice Barbier",
+				"job": "Digital Imaging Technician",
+				"department": "Camera"
+			},
+			{
+				"id": 1812064,
+				"name": "Marek Berger",
+				"job": "Electrician",
+				"department": "Lighting",
+				"gender": 2
+			},
+			{
+				"id": 1577908,
+				"name": "Sarah Boutin",
+				"job": "First Assistant \"B\" Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 2239963,
+				"name": "Thomas Burgess",
+				"profile_path": "/fvyZ9559VRsFAcKjgjnAZOxCDRL.jpg",
+				"job": "\"B\" Camera Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 3557199,
+				"name": "Thibault Danjou",
+				"job": "Gaffer",
+				"department": "Lighting"
+			},
+			{
+				"id": 3869198,
+				"name": "Benoît Deconchat",
+				"job": "Grip",
+				"department": "Camera"
+			},
+			{
+				"id": 3240208,
+				"name": "Thomas Duprez",
+				"job": "Electrician",
+				"department": "Lighting"
+			},
+			{
+				"id": 3206682,
+				"name": "Margaux Escourolle",
+				"job": "Second Assistant Camera",
+				"department": "Camera",
+				"gender": 1
+			},
+			{
+				"id": 1691407,
+				"name": "Stéphane Germain",
+				"profile_path": "/lxL6PScG0TBXiO2pEWCkPxXuG4u.jpg",
+				"job": "Key Grip",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 3492843,
+				"name": "Pascal Ghristi",
+				"job": "Grip",
+				"department": "Camera"
+			},
+			{
+				"id": 5131534,
+				"name": "Marie Guedon",
+				"job": "Second Assistant Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 5194935,
+				"name": "Jenna Lennen",
+				"job": "Video Assist Operator",
+				"department": "Crew"
+			},
+			{
+				"id": 3051987,
+				"name": "Vincent Paté",
+				"job": "Second Assistant \"B\" Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 3206689,
+				"name": "Thibault Pihouee",
+				"job": "First Assistant \"C\" Camera",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 3859370,
+				"name": "Pauline Raimbault",
+				"job": "Best Boy Lighting Technician",
+				"department": "Lighting"
+			},
+			{
+				"id": 1796066,
+				"name": "Thierry Ramanana",
+				"job": "Grip",
+				"department": "Camera"
+			},
+			{
+				"id": 2977248,
+				"name": "Vincent Scotet",
+				"job": "First Assistant \"A\" Camera",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2413649,
+				"name": "Felix Terreyre Saint-Cast",
+				"job": "Second Assistant \"A\" Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 4109518,
+				"name": "Pierre Colse",
+				"job": "Extras Casting",
+				"department": "Production"
+			},
+			{
+				"id": 1632360,
+				"name": "Céline Collobert",
+				"job": "Costumer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3499398,
+				"name": "Mahé Longlade-Lesueur",
+				"job": "Costumer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1789146,
+				"name": "Chloé Lesueur",
+				"job": "Assistant Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5194939,
+				"name": "Gaïssiry Sall",
+				"job": "Costumer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3960254,
+				"name": "Laureen Arnou-Sanchez",
+				"job": "Assistant Music Supervisor",
+				"department": "Sound"
+			},
+			{
+				"id": 2467255,
+				"name": "Pierre-Marie Dru",
+				"job": "Music Supervisor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5194940,
+				"name": "Sacha Biessy",
+				"job": "Assistant Script",
+				"department": "Crew"
+			},
+			{
+				"id": 2772460,
+				"name": "Jeanne Fontaine-Sarda",
+				"job": "Script Supervisor",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 1552910,
+				"name": "Pauline Pallier",
+				"job": "Assistant Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 5332170,
+				"name": "Jimmy Rousselle",
+				"job": "Painter",
+				"department": "Art"
+			},
+			{
+				"id": 5332171,
+				"name": "Aurélie Sabatier",
+				"job": "Painter",
+				"department": "Art"
+			},
+			{
+				"id": 1958477,
+				"name": "Marc Lemeslier",
+				"job": "Special Effects Assistant",
+				"department": "Crew"
+			},
+			{
+				"id": 4755231,
+				"name": "Anne Kazemzadegan",
+				"job": "Extras Casting Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 5328809,
+				"name": "Nolwenn Delaveaud",
+				"job": "Location Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 3518573,
+				"name": "Lionel Guerrini",
+				"job": "Location Scout",
+				"department": "Art"
+			},
+			{
+				"id": 3809005,
+				"name": "Yannick Panarotto",
+				"job": "Assistant Location Manager",
+				"department": "Production"
+			},
+			{
+				"id": 2662148,
+				"name": "Emmanuel Desguez",
+				"job": "ADR Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 47819,
+				"name": "Marc Doisne",
+				"profile_path": "/gQbJF08CayRWuCFWhYp3CkhkBtD.jpg",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1605600,
+				"name": "Nicolas Fioraso",
+				"job": "Foley Artist",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2218993,
+				"name": "Julien Martin",
+				"job": "Foley Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1374463,
+				"name": "Caroline Reynaud",
+				"job": "Dialogue Editor",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1793900,
+				"name": "Julien Roig",
+				"profile_path": "/7LMwuy2MBGRcnB8LZ1LNXrWgvyl.jpg",
+				"job": "Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5140983,
+				"name": "Olivier Debert",
+				"job": "CG Artist",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2903538,
+				"name": "Filip Leyman",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 2536114,
+				"name": "Anna von Hausswolff",
+				"profile_path": "/9l8GlNeTfYnCudtIc9PeAamFn2F.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 11701,
+				"name": "Angelina Jolie",
+				"profile_path": "/bXNxIKcJ5cNNW8QFrBPWcfTSu9x.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 10684,
+				"name": "Jonathan King",
+				"profile_path": "/e9eFffw2iamFUWtYmc3YAcJ45ZN.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1620828,
+				"name": "Benjamin Hess",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2284332,
+				"name": "Luc Bricault",
+				"profile_path": "/kfrxRSw1h8ojZZiXTGkxrzQCSzL.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3725402,
+				"name": "Amaury Serieye",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3226470,
+				"name": "Eugénie Deplus",
+				"job": "Post Production Supervisor",
+				"department": "Crew"
+			},
+			{
+				"id": 1510130,
+				"name": "Lilian Corbeille",
+				"profile_path": "/cZVzIwxPyPiRP47HDy9iHMbsg79.jpg",
+				"job": "Co-Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 68822,
+				"name": "Julien Lacheray",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1811641,
+				"name": "Franck-Pascal Alquinet",
+				"job": "Key Hair Stylist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1532779,
+				"name": "Nathalie Tabareau",
+				"job": "Key Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 5963928,
+				"name": "Thomas Mazoyer",
+				"job": "Second Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 4295812,
+				"name": "Colin Philippi",
+				"job": "Special Effects Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 3198092,
+				"name": "Léo Natta",
+				"job": "Digital Compositor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 5963935,
+				"name": "Marion Métais",
+				"job": "Accountant",
+				"department": "Production"
+			},
+			{
+				"id": 1691413,
+				"name": "Géraldine Feraud-Miniconi",
+				"job": "Assistant Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 1863512,
+				"name": "Ségolène Amice Lagny",
+				"job": "Production Coordinator",
+				"department": "Production",
+				"gender": 1
+			}
+		]
+	}
+}
