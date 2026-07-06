@@ -11,4 +11,4 @@ tag = 'rohannaahar'
 twitter = 'https://twitter.com/RohanNaahar'
 +++
 
-Rohan Naahar is based out of New Delhi, India, and has been reviewing films and television shows for over a decade. He has written for the Hindustan Times and currently writes for the Indian Express.
+Rohan Naahar is based out of New Delhi, India, and has been reviewing films and television shows for over a decade. He has written for the Hindustan Times, the Indian Express, Collider, and more.
