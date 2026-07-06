@@ -1,7 +1,7 @@
 {{ $review := index . "review" }}
 {{ $type := index . "type" }}
 {{ $scoreImg := index . "scoreImg" }}
-{{ $score := partial "fcg-rating-raw" $review.LinkTitle }}
+{{ $score := partialCached "fcg-rating-raw.html" $review.LinkTitle $review.LinkTitle }}
 {{ $showCast := index . "showCast" }}
 
 {{ $pageImage := $review.Params.img }}

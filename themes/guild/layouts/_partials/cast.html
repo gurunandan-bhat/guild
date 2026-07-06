@@ -1,4 +1,4 @@
-{{ with partial "tmdb-meta.html" . }}
+{{ with partialCached "tmdb-meta.html" . . }}
 	{{ $castList := slice }}
 	{{ with .credits.cast }}
 		{{ $cast := . }}

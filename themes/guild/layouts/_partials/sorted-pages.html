@@ -2,7 +2,7 @@
 {{ $scoredIndexes := dict }}
 {{ $keys := slice }}
 {{ range $i, $page := $pages }}
-    {{ $key := printf "%03d" (partial "fcg-rating-raw.html" $page.LinkTitle) }}
+    {{ $key := printf "%03d" (partialCached "fcg-rating-raw.html" $page.LinkTitle $page.LinkTitle) }}
     {{ $temp := index $scoredIndexes $key }}
     {{ if not $temp }}
         {{ $keys = append $key $keys }}

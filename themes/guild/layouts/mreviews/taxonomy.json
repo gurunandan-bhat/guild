@@ -2,7 +2,7 @@
 {{- $films := dict }}
 {{- range .Pages }}
 	{{- $pageMap := (jsonify .) | transform.Unmarshal }}
-	{{- $score := partial "fcg-rating-raw.html" .LinkTitle }}
+	{{- $score := partialCached "fcg-rating-raw.html" .LinkTitle .LinkTitle }}
 	{{- $posterLink := partial "poster-link.html" .LinkTitle }}
 	{{- $pageMap = merge $pageMap (dict "AverageScore" (div $score 10.0) "URLPath" (urlize .LinkTitle)) }}
 	{{- with $posterLink }}

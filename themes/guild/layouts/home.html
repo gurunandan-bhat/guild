@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{ $extLinkIcon := index hugo.Data.svgicons.icons "externalLink" | safeHTML }}
-{{ $films := partial "all-films-list.html" "reviews" }}
+{{ $films := partialCached "all-films-list.html" "reviews" "reviews" }}
 {{ $paginator := .Paginate $films 12 }}
 <div>
 	<div id="home-carousel">

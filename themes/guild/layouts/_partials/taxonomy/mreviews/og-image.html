@@ -1,13 +1,13 @@
 {{ $title := . }}
 {{ $imgLink := "" }}
 {{ $bkg := resources.Get "images/og/background.jpg" }}
-{{ with partial "tmdb-meta.html" $title }}
+{{ with partialCached "tmdb-meta.html" $title $title }}
     {{ with .poster_path }}
         {{ with resources.Get (printf "meta/posters%s" .) }}
             {{ $poster := .Process "resize x315" }}
             {{ $ogImage := $bkg.Filter (images.Overlay $poster 0 0) }}
             {{ $logo := resources.Get "images/og/fcgr-1x-logo.png" }}
-            {{ with partial "fcg-rating-raw.html" $title }}
+            {{ with partialCached "fcg-rating-raw.html" $title $title }}
                 {{ $scoreImg := resources.Get (printf "/images/new-scores/%d.png" . ) }}
                 {{ $ogImage = $ogImage.Filter (images.Overlay $scoreImg 320 110) }}
                 {{ $ogImage = $ogImage.Filter (images.Overlay $logo 270 20) }}

@@ -1,6 +1,6 @@
 {{ $page := . }}
 {{ $scoreImg := partial "fcg-rating.html" (dict "title" $page.LinkTitle) }}
-{{ $score := partial "fcg-rating-raw" $page.LinkTitle }}
+{{ $score := partialCached "fcg-rating-raw.html" $page.LinkTitle $page.LinkTitle }}
 
 {{ $pageImage := $page.Params.img }}
 

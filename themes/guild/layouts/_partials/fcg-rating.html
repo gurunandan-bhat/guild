@@ -1,9 +1,8 @@
 {{ $title := index . "title" }}
-{{ $score := partial "fcg-rating-raw" $title }}
+{{ $score := partialCached "fcg-rating-raw.html" $title $title }}
 {{ $path := "" }}
 {{ if gt $score 0 }}
-    {{ $res := resources.Get (printf "/images/new-scores/%s.png" (cast.ToString $score)) }}
-    {{ $path =  $res.RelPermalink }}
+	{{ $res := resources.Get (printf "/images/new-scores/%s.png" (cast.ToString $score)) }}
+	{{ $path = $res.RelPermalink }}
 {{ end }}
-{{ debug.Dump $path }}
 {{ return $path }}

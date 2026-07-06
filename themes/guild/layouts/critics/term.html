@@ -19,7 +19,7 @@
 	{{ range $paginator.Pages }}
 		{{ $genres := "" }}
 		{{ $language := "" }}
-		{{- $rawRating := partial "fcg-rating-raw.html" .Title }}
+		{{- $rawRating := partialCached "fcg-rating-raw.html" .Title .Title }}
 		{{ with partialCached "tmdb-meta.html" .Title .Title }}
 			{{ with index . "genres" }}
 				{{ $gList := apply . "index" "." "name" }}
