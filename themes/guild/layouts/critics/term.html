@@ -153,7 +153,7 @@
 	<div class="d-flex justify-content-center">
 		{{ template "_internal/pagination.html" . }}
 	</div>
-	{{ $reviews := partial "recent-film-list.html" (dict "maxCount" 4 "section" "reviews") }}
+	{{ $reviews := partialCached "recent-film-list.html" nil }}
 	<div class="container">
 		<div class="row">
 			<h2 class="section-head">Latest Reviews</h2>

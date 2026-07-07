@@ -57,7 +57,7 @@
 									<h2 class="mb-2">
 										{{ .Params.subtitle }}
 									</h2>
-									{{- partial "new-review-header.html" (dict "review" . "short" true) }}
+									{{- partial "critic-header.html" (dict "review" . "short" true) }}
 									{{ with .Params.opening }}
 										<p class="opening">
 											{{ . }}
@@ -93,7 +93,7 @@
 												{{ . }}
 											</h2>
 										{{- end }}
-										{{- partial "new-review-header.html" (dict "review" . "short" true) }}
+										{{- partial "critic-header.html" (dict "review" . "short" true) }}
 										<div class="small">
 											{{ .Summary }}
 										</div>
@@ -108,7 +108,7 @@
 		<div class="d-flex justify-content-center">
 			{{ template "_internal/pagination.html" . }}
 		</div>
-		{{ $reviews := partial "recent-film-list.html" (dict "maxCount" 4 "section" "reviews") }}
+		{{ $reviews := partialCached "recent-film-list.html" nil }}
 		<div class="row">
 			<h2 class="section-head">Latest Reviews</h2>
 		</div>

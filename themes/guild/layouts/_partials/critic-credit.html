@@ -1,0 +1,15 @@
+{{- $critic := .critic }}
+{{- $link := .link }}
+{{- $org := .org }}
+{{- $pub := .pub }}
+<a href="{{- $link }}"><span class="DIN-Bold">{{ $critic }}</span></a>
+<span class="organization">
+	{{ with index $org 0 }}
+		|
+		<span class="fw-bolder text-uppercase DIN-Bold">{{ . }}</span>
+	{{ end }}
+	{{ with $pub }}
+		writing for
+		<span class="fw-bolder text-uppercase DIN-Bold">{{ . }}</span>
+	{{ end }}
+</span>

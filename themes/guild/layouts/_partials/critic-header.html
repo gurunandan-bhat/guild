@@ -1,0 +1,61 @@
+{{ $review := .review }}
+{{ $short := .short }}
+{{ $critics := slice }}
+
+{{ with (site.GetPage $review.Path) }}
+	{{ $critics = index .Params.critics }}
+{{ end }}
+<div class="row">
+	<!-- Card 1 -->
+	<div class="col-12">
+		<div class="media-card">
+			{{- $imgPath := "/images/groups/the-long-take.jpeg" }}
+			{{- if eq (len $critics) 1 }}
+				{{ $criticPage := index (where (where site.RegularPages ".Type" "guild") ".Title" (index $critics 0)) 0 }}
+				{{- $imgPath = $criticPage.Params.img }}
+			{{- end }}
+			{{ with resources.Get $imgPath }}
+				{{ with .Resize "60x webp" }}
+					<img
+						src="{{- .RelPermalink }}"
+						alt="Fox in morning light"
+						class="media-card__img rounded-circle" />
+				{{- end }}
+			{{- end }}
+			<div style="overflow: hidden;">
+				<p class="media-card__label mb-2">
+					{{- partial "inline/critic-header/critic-links" (dict "critics" $critics "review" $review) }}
+				</p>
+				<p class="media-card__title">
+					{{- if $short }}
+						{{ $review.Params.Date.Format "Mon, January 2 2006" }}
+					{{- else }}
+						{{ $review.Params.subtitle }}
+					{{- end }}
+				</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+{{- define "_partials/inline/critic-header/critic-links.html" }}
+{{- $critics := .critics }}
+{{- $review := .review }}
+{{- $line := slice }}
+{{- $creditSlice := newScratch }}
+{{- range $critics }}
+	{{ $criticPage := index (where (where site.RegularPages ".Type" "guild") ".Title" .) 0 }}
+	{{ $reviewsPageLink := index site.Taxonomies.critics (lower .) }}
+	{{- $creditSlice.Add "credits" (slice (partialCached "critic-credit.html" (dict
+		"critic" .
+		"link" $reviewsPageLink.Page.RelPermalink
+		"org" $criticPage.Params.organizations
+		"pub" $review.Params.publication
+		)
+		.
+		)
+		)
+	}}
+{{- end }}
+{{ (delimit ($creditSlice.Get "credits") `, ` ` and `) | safeHTML }}
+{{- end }}
