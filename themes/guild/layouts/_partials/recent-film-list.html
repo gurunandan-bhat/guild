@@ -2,10 +2,13 @@
 {{ $section := "reviews" }}
 {{ $titleMap := dict }}
 {{ $reviews := slice }}
-{{ range first 4 (sort (where site.RegularPages "Section" $section) ".Date" "desc") }}
+{{ range (sort (where site.RegularPages "Section" $section) ".Date" "desc") }}
 	{{ $title := .Title }}
 	{{ if (index $titleMap $title) }}{{ continue }}{{ end }}
 	{{ $reviews = append (slice .) $reviews }}
 	{{ $titleMap = merge $titleMap (dict $title 1) }}
+	{{- if eq $maxCount (len $reviews) }}
+		{{- break }}
+	{{- end }}
 {{ end }}
 {{ return $reviews }}
