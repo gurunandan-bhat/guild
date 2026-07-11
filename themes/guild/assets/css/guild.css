@@ -370,3 +370,14 @@ a.anchor {
     font-size: 0.9rem;
     background-color: #f4eef5 !important;
 }
+
+.genre-style {
+    font-family: DIN-2014-Bold;
+    font-size: 1rem;
+}
+
+.synopsis {
+    font-family: DIN-2014;
+    font-size: 15px;
+    line-height: 1.25rem;
+}

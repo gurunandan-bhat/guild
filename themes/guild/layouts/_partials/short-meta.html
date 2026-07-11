@@ -13,141 +13,141 @@
 
 {{ $imgLink := partial "backdrop.html" $review }}
 {{ with partialCached "tmdb-meta.html" $review.Title $review.Title }}
-    <img
-        src="{{ $imgLink }}"
-        class="img-fluid w-100"
-        alt="Image of scene from the film {{ $review.Title }}" />
-    {{ $language := index $languages .original_language }}
-    {{ $genreList := slice }}
-    {{ range .genres }}
-        {{ $genreList = append .name $genreList }}
-    {{ end }}
+	<img
+		src="{{ $imgLink }}"
+		class="img-fluid w-100"
+		alt="Image of scene from the film {{ $review.Title }}" />
+	{{ $language := index $languages .original_language }}
+	{{ $genreList := slice }}
+	{{ range .genres }}
+		{{ $genreList = append .name $genreList }}
+	{{ end }}
 
-    {{ $castList := slice }}
-    {{ with .credits.cast }}
-        {{ $cast := . }}
-        {{ $cS := slice }}
-        {{ range first 10 $cast }}
-            {{ $cS = append (.name) $cS }}
-        {{ end }}
-        {{ $castList = delimit $cS ", " }}
-    {{ end }}
+	{{ $castList := slice }}
+	{{ with .credits.cast }}
+		{{ $cast := . }}
+		{{ $cS := slice }}
+		{{ range first 10 $cast }}
+			{{ $cS = append (.name) $cS }}
+		{{ end }}
+		{{ $castList = delimit $cS ", " }}
+	{{ end }}
 
-    {{ $crew := .credits.crew }}
-    {{ $director := slice }}
-    {{ $writer := slice }}
-    {{ range $crew }}
-        {{ if eq .job "Director" }}
-            {{ $director = append .name $director }}
-        {{ else if (and (eq .department "Writing") (eq .job "Writer")) }}
-            {{ $writer = append .name $writer }}
-        {{ end }}
-    {{ end }}
-    {{ $all_directors := delimit $director ", " }}
-    {{ $all_writers := delimit $writer ", " }}
-    <div class="latest border border-2 border-bottom-0">
-        <div class="row">
-            {{ if $scoreImg }}
-                <div class="col-4 text-center">
-                    {{ with $scoreImg }}
-                        <img
-                            src="{{ . }}"
-                            class="img-fluid d-block mx-auto"
-                            alt="FCG Rating for the film {{ $review.Title }}: {{ $score }}/100" />
-                    {{ end }}
-                </div>
-                <div class="col-8">
-                    <h6 class="pt-2">
-                        <a href="{{ $reviewHref }}">
-                            {{ $review.Title }}
-                            {{ with $review.Params.translatedTitle }}
-                                ({{ . }})
-                            {{ end }}
-                        </a>
-                    </h6>
-                    <p class="fw-bold">
-                        {{ delimit $genreList ", " }}
-                        {{ with $language }}
-                            ({{ $language.english_name }})
-                        {{ end }}
-                    </p>
-                    <p>
-                        {{ if eq $type "short" }}
-                            {{ delimit (first 16 (split .overview " ")) " " }}&hellip;
-                            <a href="{{ $reviewHref }}">(more)</a>
-                        {{ else }}
-                            {{ .overview }}
-                        {{ end }}
-                    </p>
-                </div>
-            {{ else }}
-                <div class="col-lg-10 offset-lg-1">
-                    <h6 class="pt-2">
-                        <a href="{{ $reviewHref }}">
-                            {{ $review.Title }}
-                            {{ with $review.Params.translatedTitle }}
-                                ({{ . }})
-                            {{ end }}
-                        </a>
-                    </h6>
-                    <p class="fw-bold">
-                        {{ delimit $genreList ", " }}
-                        {{ with $language }}
-                            ({{ $language.english_name }})
-                        {{ end }}
-                    </p>
-                    <p>
-                        {{ if eq $type "short" }}
-                            {{ delimit (first 16 (split .overview " ")) " " }}&hellip;
-                            <a href="{{ $reviewHref }}">(more)</a>
-                        {{ else }}
-                            {{ .overview }}
-                        {{ end }}
-                    </p>
-                </div>
-            {{ end }}
-        </div>
-        {{ if $showCast }}
-            <div class="row">
-                <div class="col-lg-10 offset-lg-1">
-                    <p>
-                        {{ with $castList }}
-                            <span class="fw-bolder">Cast:</span>
-                            {{ $castList }}
-                        {{ end }}<br />
-                        {{ with $all_directors }}
-                            <span class="fw-bolder">Director:</span>
-                            {{ . }}
-                        {{ end }}
-                        {{ with $all_writers }}
-                            <br />
-                            <span class="fw-bolder">Writer:</span>
-                            {{ . }}
-                        {{ end }}
-                    </p>
-                </div>
-            </div>
-            <hr class="mt-0 mb-2" />
-        {{ end }}
-        {{ partial "taxonomy/mreviews/reviewLink.html" $review.Title }}
-    </div>
+	{{ $crew := .credits.crew }}
+	{{ $director := slice }}
+	{{ $writer := slice }}
+	{{ range $crew }}
+		{{ if eq .job "Director" }}
+			{{ $director = append .name $director }}
+		{{ else if (and (eq .department "Writing") (eq .job "Writer")) }}
+			{{ $writer = append .name $writer }}
+		{{ end }}
+	{{ end }}
+	{{ $all_directors := delimit $director ", " }}
+	{{ $all_writers := delimit $writer ", " }}
+	<div class="latest border border-2 border-bottom-0">
+		<div class="row mb-2">
+			{{ if $scoreImg }}
+				<div class="col-4 text-center">
+					{{ with $scoreImg }}
+						<img
+							src="{{ . }}"
+							class="img-fluid d-block mx-auto"
+							alt="FCG Rating for the film {{ $review.Title }}: {{ $score }}/100" />
+					{{ end }}
+				</div>
+				<div class="col-8">
+					<h6 class="pt-2">
+						<a href="{{ $reviewHref }}">
+							{{ $review.Title }}
+							{{ with $review.Params.translatedTitle }}
+								({{ . }})
+							{{ end }}
+						</a>
+					</h6>
+					<p class="genre-style">
+						{{ delimit $genreList ", " }}
+						{{ with $language }}
+							({{ $language.english_name }})
+						{{ end }}
+					</p>
+					<p class="synopsis">
+						{{ if eq $type "short" }}
+							{{ delimit (first 16 (split .overview " ")) " " }}&hellip;
+							<a href="{{ $reviewHref }}">(more)</a>
+						{{ else }}
+							{{ .overview }}
+						{{ end }}
+					</p>
+				</div>
+			{{ else }}
+				<div class="col-lg-10 offset-lg-1">
+					<h6 class="pt-2">
+						<a href="{{ $reviewHref }}">
+							{{ $review.Title }}
+							{{ with $review.Params.translatedTitle }}
+								({{ . }})
+							{{ end }}
+						</a>
+					</h6>
+					<p class="genre-style">
+						{{ delimit $genreList ", " }}
+						{{ with $language }}
+							({{ $language.english_name }})
+						{{ end }}
+					</p>
+					<p class="synopsis">
+						{{ if eq $type "short" }}
+							{{ delimit (first 16 (split .overview " ")) " " }}&hellip;
+							<a href="{{ $reviewHref }}">(more)</a>
+						{{ else }}
+							{{ .overview }}
+						{{ end }}
+					</p>
+				</div>
+			{{ end }}
+		</div>
+		{{ if $showCast }}
+			<div class="row">
+				<div class="col-lg-10 offset-lg-1">
+					<p>
+						{{ with $castList }}
+							<span class="fw-bolder">Cast:</span>
+							{{ $castList }}
+						{{ end }}<br />
+						{{ with $all_directors }}
+							<span class="fw-bolder">Director:</span>
+							{{ . }}
+						{{ end }}
+						{{ with $all_writers }}
+							<br />
+							<span class="fw-bolder">Writer:</span>
+							{{ . }}
+						{{ end }}
+					</p>
+				</div>
+			</div>
+			<hr class="mt-0 mb-2" />
+		{{ end }}
+		{{ partial "taxonomy/mreviews/reviewLink.html" $review.Title }}
+	</div>
 {{ else }}
-    {{ with $review.Params.img }}
-        {{ with partial "scaledImage" (printf "images/reviews/%s" .) }}
-            <img
-                src="{{ .RelPermalink }}"
-                class="img-fluid"
-                alt="Image of scene from the film {{ $review.Title }}" />
-        {{ end }}
-        <div class="latest">
-            <h6>
-                {{ $review.Title }}
-                {{ with $review.Params.translatedTitle }}
-                    ({{ . }})
-                {{ end }}
-            </h6>
-            <hr class="mt-0 mb-2" />
-            {{ partial "taxonomy/mreviews/reviewLink.html" $review.Title }}
-        </div>
-    {{ end }}
+	{{ with $review.Params.img }}
+		{{ with partial "scaledImage" (printf "images/reviews/%s" .) }}
+			<img
+				src="{{ .RelPermalink }}"
+				class="img-fluid"
+				alt="Image of scene from the film {{ $review.Title }}" />
+		{{ end }}
+		<div class="latest">
+			<h6>
+				{{ $review.Title }}
+				{{ with $review.Params.translatedTitle }}
+					({{ . }})
+				{{ end }}
+			</h6>
+			<hr class="mt-0 mb-2" />
+			{{ partial "taxonomy/mreviews/reviewLink.html" $review.Title }}
+		</div>
+	{{ end }}
 {{ end }}
