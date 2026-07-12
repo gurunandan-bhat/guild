@@ -1,99 +1,109 @@
 {{ define "main" }}
-    {{ $maxSummary := 24 }}
-    <div class="container">
-        <div class="row" style="margin-top: 80px;">
-            <div class="col-lg-10 offset-lg-1">
-                <h2 class="fw-bold mb-5">Managing Committee</h2>
-                <div class="row">
-                    {{ range where (where site.RegularPages ".Type" "guild") ".Params.board" true }}
-                        {{ $criticPage := index (where $.Pages ".LinkTitle" .LinkTitle) 0 }}
-                        <div class="col-md-3 mb-3">
-                            <div class="latest">
-                                <h6>
-                                    {{ with $criticPage }}
-                                        <a href="{{ $criticPage.RelPermalink }}"
-                                            >{{ .LinkTitle }}</a
-                                        >
-                                    {{ else }}
-                                        {{ .LinkTitle }}
-                                    {{ end }}
-                                </h6>
-                                <p class="fitted-org">
-                                    {{ with .Params.organizations }}
-                                        {{ delimit . "<br />" | safeHTML }}
-                                    {{ end }}
-                                </p>
-                                {{ with resources.Get .Params.img }}
-                                    {{ with .Process "webp" }}
-                                        <img
-                                            src="{{ .RelPermalink }}"
-                                            class="img-fluid w-100"
-                                            alt="FCG Member Reviewer {{ .Title }}" />
-                                    {{ end }}
-                                {{ end }}
-                                <p class="small">
-                                    {{ $summary := .Summary }}
-                                    {{ $fullLength := (split $summary " ") | len }}
-                                    {{ $length := math.Min $fullLength $maxSummary }}
-                                    {{ with $criticPage }}
-                                        {{ (delimit (first $length (split $summary " ")) " ") | safeHTML }}
-                                        <a href="{{ $criticPage.RelPermalink }}"
-                                            >(more &hellip;)</a
-                                        >
-                                    {{ else }}
-                                        {{ $summary }}
-                                    {{ end }}
-                                </p>
-                            </div>
-                        </div>
-                    {{ end }}
-                </div>
-                <div class="row">
-                    <h2 class="fw-bold my-5">FCG Members</h2>
-                    {{ range sort (where (where site.RegularPages ".Type" "guild") ".Params.board" false) "Title" }}
-                        {{ $criticPage := index (where $.Pages ".LinkTitle" .LinkTitle) 0 }}
-                        <div class="col-md-3 mb-3">
-                            <div class="latest">
-                                <h6>
-                                    {{ with $criticPage }}
-                                        <a href="{{ $criticPage.RelPermalink }}"
-                                            >{{ .LinkTitle }}</a
-                                        >
-                                    {{ else }}
-                                        {{ .LinkTitle }}
-                                    {{ end }}
-                                </h6>
-                                <p class="fitted-org">
-                                    {{ with .Params.organizations }}
-                                        {{ index . 0 }}
-                                    {{ end }}
-                                </p>
-                                {{ with resources.Get .Params.img }}
-                                    {{ with .Process "webp" }}
-                                        <img
-                                            src="{{ .RelPermalink }}"
-                                            class="img-fluid w-100"
-                                            alt="FCG Member Reviewer {{ $criticPage.Title }}" />
-                                    {{ end }}
-                                {{ end }}
-                                <p class="small">
-                                    {{ $summary := .Summary }}
-                                    {{ $fullLength := (split $summary " ") | len }}
-                                    {{ $length := math.Min $fullLength $maxSummary }}
-                                    {{ with $criticPage }}
-                                        {{ (delimit (first $length (split $summary " ")) " ") | safeHTML }}
-                                        <a href="{{ $criticPage.RelPermalink }}"
-                                            >(more &hellip;)</a
-                                        >
-                                    {{ else }}
-                                        {{ $summary }}
-                                    {{ end }}
-                                </p>
-                            </div>
-                        </div>
-                    {{ end }}
-                </div>
-            </div>
-        </div>
-    </div>
+{{ $maxSummary := 24 }}
+<div class="container-fluid">
+	{{ with resources.Get "/images/members/guild.png" }}
+		{{ with .Process "webp" }}
+			<img
+				src="{{ .RelPermalink }}"
+				class="img-fluid w-100"
+				alt="FCG Members" />
+		{{ end }}
+	{{ end }}
+</div>
+<div class="container">
+	<div class="row" style="margin-top: 80px;">
+		<div class="col-lg-10 offset-lg-1">
+			<h2 class="fw-bold mb-5">Managing Committee</h2>
+			<div class="row">
+				{{ range where (where site.RegularPages ".Type" "guild") ".Params.board" true }}
+					{{ $criticPage := index (where $.Pages ".LinkTitle" .LinkTitle) 0 }}
+					<div class="col-md-3 mb-3">
+						<div class="latest">
+							<h6>
+								{{ with $criticPage }}
+									<a href="{{ $criticPage.RelPermalink }}"
+									>{{ .LinkTitle }}</a
+									>
+								{{ else }}
+									{{ .LinkTitle }}
+								{{ end }}
+							</h6>
+							<p class="fitted-org">
+								{{ with .Params.organizations }}
+									{{ delimit . "<br />" | safeHTML }}
+								{{ end }}
+							</p>
+							{{ with resources.Get .Params.img }}
+								{{ with .Process "webp" }}
+									<img
+										src="{{ .RelPermalink }}"
+										class="img-fluid w-100"
+										alt="FCG Member Reviewer {{ .Title }}" />
+								{{ end }}
+							{{ end }}
+							<p class="small">
+								{{ $summary := .Summary }}
+								{{ $fullLength := (split $summary " ") | len }}
+								{{ $length := math.Min $fullLength $maxSummary }}
+								{{ with $criticPage }}
+									{{ (delimit (first $length (split $summary " ")) " ") | safeHTML }}
+									<a href="{{ $criticPage.RelPermalink }}"
+									>(more &hellip;)</a
+									>
+								{{ else }}
+									{{ $summary }}
+								{{ end }}
+							</p>
+						</div>
+					</div>
+				{{ end }}
+			</div>
+			<div class="row">
+				<h2 class="fw-bold my-5">FCG Members</h2>
+				{{ range sort (where (where site.RegularPages ".Type" "guild") ".Params.board" false) "Title" }}
+					{{ $criticPage := index (where $.Pages ".LinkTitle" .LinkTitle) 0 }}
+					<div class="col-md-3 mb-3">
+						<div class="latest">
+							<h6>
+								{{ with $criticPage }}
+									<a href="{{ $criticPage.RelPermalink }}"
+									>{{ .LinkTitle }}</a
+									>
+								{{ else }}
+									{{ .LinkTitle }}
+								{{ end }}
+							</h6>
+							<p class="fitted-org">
+								{{ with .Params.organizations }}
+									{{ index . 0 }}
+								{{ end }}
+							</p>
+							{{ with resources.Get .Params.img }}
+								{{ with .Process "webp" }}
+									<img
+										src="{{ .RelPermalink }}"
+										class="img-fluid w-100"
+										alt="FCG Member Reviewer {{ $criticPage.Title }}" />
+								{{ end }}
+							{{ end }}
+							<p class="small">
+								{{ $summary := .Summary }}
+								{{ $fullLength := (split $summary " ") | len }}
+								{{ $length := math.Min $fullLength $maxSummary }}
+								{{ with $criticPage }}
+									{{ (delimit (first $length (split $summary " ")) " ") | safeHTML }}
+									<a href="{{ $criticPage.RelPermalink }}"
+									>(more &hellip;)</a
+									>
+								{{ else }}
+									{{ $summary }}
+								{{ end }}
+							</p>
+						</div>
+					</div>
+				{{ end }}
+			</div>
+		</div>
+	</div>
+</div>
 {{ end }}

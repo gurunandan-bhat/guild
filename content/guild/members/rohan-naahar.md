@@ -4,7 +4,7 @@ draft = false
 weight = 280
 title = 'Rohan Naahar'
 organizations = ['Independent Film Critic']
-img = '/images/members/ROHANNAHAAR221.jpg'
+img = '/images/members/rohan-naahar.jpg'
 tag = 'rohannaahar'
 
 [soc_media]
