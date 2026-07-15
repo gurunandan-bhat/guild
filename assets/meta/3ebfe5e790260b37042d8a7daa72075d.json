@@ -1,0 +1,702 @@
+{
+	"id": 1368337,
+	"title": "The Odyssey",
+	"fcg_title": "The Odyssey",
+	"original_title": "The Odyssey",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 12,
+			"name": "Adventure"
+		},
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 14,
+			"name": "Fantasy"
+		}
+	],
+	"overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+	"backdrop_path": "/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
+	"poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+	"release_date": "2026-07-15",
+	"credits": {
+		"cast": [
+			{
+				"id": 1892,
+				"order": 0,
+				"name": "Matt Damon",
+				"profile_path": "/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg",
+				"character": "Odysseus",
+				"gender": 2
+			},
+			{
+				"id": 1136406,
+				"order": 1,
+				"name": "Tom Holland",
+				"profile_path": "/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg",
+				"character": "Telemachus",
+				"gender": 2
+			},
+			{
+				"id": 1813,
+				"order": 2,
+				"name": "Anne Hathaway",
+				"profile_path": "/g2ozigjyCoSZmMnwo4fyhhJjslM.jpg",
+				"character": "Penelope",
+				"gender": 1
+			},
+			{
+				"id": 11288,
+				"order": 3,
+				"name": "Robert Pattinson",
+				"profile_path": "/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg",
+				"character": "Antinous",
+				"gender": 2
+			},
+			{
+				"id": 1267329,
+				"order": 4,
+				"name": "Lupita Nyong'o",
+				"profile_path": "/mJMpsADPpt0bmXEzs3ywrUiCkpD.jpg",
+				"character": "Helen / Clytemnestra",
+				"gender": 1
+			},
+			{
+				"id": 6885,
+				"order": 5,
+				"name": "Charlize Theron",
+				"profile_path": "/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg",
+				"character": "Calypso",
+				"gender": 1
+			},
+			{
+				"id": 505710,
+				"order": 6,
+				"name": "Zendaya",
+				"profile_path": "/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg",
+				"character": "Athena",
+				"gender": 1
+			},
+			{
+				"id": 227564,
+				"order": 7,
+				"name": "Benny Safdie",
+				"profile_path": "/u10A5DpUYRB1zMF7YoGYcyvhois.jpg",
+				"character": "Agamemnon",
+				"gender": 2
+			},
+			{
+				"id": 19498,
+				"order": 8,
+				"name": "Jon Bernthal",
+				"profile_path": "/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg",
+				"character": "Menelaus",
+				"gender": 2
+			},
+			{
+				"id": 5723,
+				"order": 9,
+				"name": "John Leguizamo",
+				"profile_path": "/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg",
+				"character": "Eumaeus",
+				"gender": 2
+			},
+			{
+				"id": 1227717,
+				"order": 10,
+				"name": "Himesh Patel",
+				"profile_path": "/qCjfMjUxiAHdVpIMI9YN5MUdn24.jpg",
+				"character": "Eurylochus",
+				"gender": 2
+			},
+			{
+				"id": 1137824,
+				"order": 11,
+				"name": "Mia Goth",
+				"profile_path": "/rwko7XVaKFcJH1dtAIIsrgLMzHb.jpg",
+				"character": "Melantho",
+				"gender": 1
+			},
+			{
+				"id": 10884,
+				"order": 12,
+				"name": "Will Yun Lee",
+				"profile_path": "/zR29E2BHrp6PF7bxD6bVq0nDZXm.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1091423,
+				"order": 13,
+				"name": "Jimmy Gonzáles",
+				"profile_path": "/jEJ5TdOeqOJyopKMEc8w9qDtsuN.jpg",
+				"character": "Cepheus",
+				"gender": 2
+			},
+			{
+				"id": 27578,
+				"order": 14,
+				"name": "Elliot Page",
+				"profile_path": "/nXO8DE4biVXY4UDYP0NdIY1zvXS.jpg",
+				"character": "Sinon",
+				"gender": 3
+			},
+			{
+				"id": 58549,
+				"order": 15,
+				"name": "Bill Irwin",
+				"profile_path": "/bAV5qsljgiHQkn3QluB5clVYC13.jpg",
+				"character": "Polyphemus",
+				"gender": 2
+			},
+			{
+				"id": 2206,
+				"order": 16,
+				"name": "Samantha Morton",
+				"profile_path": "/5DOlLIlgxKYzb4Hsm0phrGmYVIq.jpg",
+				"character": "Circe",
+				"gender": 1
+			},
+			{
+				"id": 66525,
+				"order": 17,
+				"name": "Jesse García",
+				"profile_path": "/eyPXWMPoJATwiOW40uJ8Kk1irM7.jpg",
+				"gender": 2
+			},
+			{
+				"id": 21660,
+				"order": 18,
+				"name": "Rafi Gavron",
+				"profile_path": "/avCWoO9fLwEhbT6cvu0TJcSj49g.jpg",
+				"character": "Second Trojan",
+				"gender": 2
+			},
+			{
+				"id": 79795,
+				"order": 19,
+				"name": "Shiloh Fernandez",
+				"profile_path": "/lS3I6nLQ3VxmE6KRmjoXDskDBnn.jpg",
+				"character": "First Trojan",
+				"gender": 2
+			},
+			{
+				"id": 1154054,
+				"order": 20,
+				"name": "Corey Hawkins",
+				"profile_path": "/wRt0Bc0chN5BSjvYzmg2evgqNzp.jpg",
+				"character": "Polybus",
+				"gender": 2
+			},
+			{
+				"id": 224182,
+				"order": 21,
+				"name": "Nick E. Tarabay",
+				"profile_path": "/pY4eOU29ZqGdS858JRLoS5ReiEB.jpg",
+				"gender": 2
+			},
+			{
+				"id": 48530,
+				"order": 22,
+				"name": "Maurice Compte",
+				"profile_path": "/9PFInf2I0kqjAU0CmZhdDWmHfwT.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1998483,
+				"order": 23,
+				"name": "Michael Vlamis",
+				"profile_path": "/aIbvFMzVJYabWECytxu3D0GRfNB.jpg",
+				"gender": 2
+			},
+			{
+				"id": 94958,
+				"order": 24,
+				"name": "Iddo Goldberg",
+				"profile_path": "/dJGHbLmYKxLy87jduKGm5jDtBnR.jpg",
+				"character": "Amphimedon",
+				"gender": 2
+			},
+			{
+				"id": 40039,
+				"order": 25,
+				"name": "Josh Stewart",
+				"profile_path": "/prgoT9fq5Z2ZCGmC1rrSZkq4wH9.jpg",
+				"character": "Antiphates",
+				"gender": 2
+			},
+			{
+				"id": 43858,
+				"order": 26,
+				"name": "Ryan Hurst",
+				"profile_path": "/467wpYYeeDyF4MeoDMuNp4bwgzH.jpg",
+				"character": "Mentor",
+				"gender": 2
+			},
+			{
+				"id": 202930,
+				"order": 27,
+				"name": "Anthony Molinari",
+				"profile_path": "/8Gl1b5Y7QLrdv5vvOwAmJk29joM.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1607522,
+				"order": 28,
+				"name": "Jovan Adepo",
+				"profile_path": "/aJcuEbYru85meNGzM0oSeW3nsd6.jpg",
+				"character": "Elpenor",
+				"gender": 2
+			},
+			{
+				"id": 130253,
+				"order": 29,
+				"name": "Logan Marshall-Green",
+				"profile_path": "/oogXh2Osxw43bfjMVCcCH8SGsUB.jpg",
+				"character": "Melanthius",
+				"gender": 2
+			},
+			{
+				"id": 1736,
+				"order": 30,
+				"name": "James Remar",
+				"profile_path": "/ctMVpFDKKWCty60lLORf3IoJcv9.jpg",
+				"character": "Tiresias",
+				"gender": 2
+			},
+			{
+				"id": 1978406,
+				"order": 31,
+				"name": "Travis Scott",
+				"profile_path": "/eBdm7HQS6lLGg4BocgfoJ5qB9yp.jpg",
+				"character": "Bard",
+				"gender": 2
+			},
+			{
+				"id": 2619207,
+				"order": 32,
+				"name": "Douglas Rouillard",
+				"gender": 2
+			},
+			{
+				"id": 1322312,
+				"order": 33,
+				"name": "Jorge Leon",
+				"profile_path": "/sogpJVsJqRQYgh9JbomIzUwlgII.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1504796,
+				"order": 34,
+				"name": "Andrei Lenart",
+				"profile_path": "/5n1S06vvL7YgurFYfG9QNgRV5yM.jpg",
+				"gender": 2
+			},
+			{
+				"id": 3958548,
+				"order": 35,
+				"name": "Kamden Riley",
+				"gender": 2
+			},
+			{
+				"id": 1900981,
+				"order": 36,
+				"name": "Ryan de Quintal",
+				"profile_path": "/6t61TP6IQuvPnC1OSQNvkOcXD0d.jpg",
+				"gender": 2
+			},
+			{
+				"id": 84706,
+				"order": 37,
+				"name": "Jarreth J. Merz",
+				"profile_path": "/ze8WDEujZmTXdCLcUy0IaymwlcS.jpg",
+				"character": "Leodes",
+				"gender": 2
+			},
+			{
+				"id": 1736940,
+				"order": 38,
+				"name": "Markie Farnsley",
+				"profile_path": "/aMcQPglUqlQsBatgsRy7OdNHsRa.jpg",
+				"gender": 1
+			},
+			{
+				"id": 1914817,
+				"order": 39,
+				"name": "Stephen Murphy",
+				"gender": 2
+			},
+			{
+				"id": 101088,
+				"order": 40,
+				"name": "Matt Lasky",
+				"profile_path": "/gfEcNF5T1V8Mrpu6auGuLwiWrBz.jpg",
+				"gender": 2
+			},
+			{
+				"id": 62500,
+				"order": 41,
+				"name": "Adam Croasdell",
+				"profile_path": "/vTScKZOLq9xPmkbNdOSb5p5kYB8.jpg",
+				"character": "Antinous' Father",
+				"gender": 2
+			},
+			{
+				"id": 111195,
+				"order": 42,
+				"name": "Jamie Harris",
+				"profile_path": "/iqc9RropHWLe2wLCgUHtZZDJ7w.jpg",
+				"character": "Agelus",
+				"gender": 2
+			},
+			{
+				"id": 1008750,
+				"order": 43,
+				"name": "Niko Nicotera",
+				"profile_path": "/ffSAiwXMmvQP1vJuPguLznNpPOI.jpg",
+				"character": "Peisander",
+				"gender": 2
+			},
+			{
+				"id": 78050,
+				"order": 44,
+				"name": "Elyes Gabel",
+				"profile_path": "/z9IqYTYxhVR9ADxaksbPQwiYQns.jpg",
+				"character": "Elatus",
+				"gender": 2
+			},
+			{
+				"id": 543819,
+				"order": 45,
+				"name": "Sean Avery",
+				"profile_path": "/dgr9K0RvbjRdTNb6V2J25QJF68I.jpg",
+				"gender": 2
+			},
+			{
+				"id": 67206,
+				"order": 46,
+				"name": "Andrew Howard",
+				"profile_path": "/kba1JeCUYHufjB933G5xPRhO8lV.jpg",
+				"character": "Polites",
+				"gender": 2
+			},
+			{
+				"id": 1299674,
+				"order": 47,
+				"name": "Ian Casselberry",
+				"profile_path": "/oDaDxzQsiAsE5fMr5HtoGT51Irl.jpg",
+				"gender": 2
+			},
+			{
+				"id": 64343,
+				"order": 48,
+				"name": "John Ales",
+				"profile_path": "/rASQsyvYk1VD8hvo2Pi1Tq3Wwlm.jpg",
+				"character": "Beggar in Ithaca",
+				"gender": 2
+			},
+			{
+				"id": 6342035,
+				"order": 49,
+				"name": "Raimy Lang",
+				"character": "Teenage Antinous"
+			},
+			{
+				"id": 3235164,
+				"order": 50,
+				"name": "Mason Cufari",
+				"profile_path": "/9o9bNDomtugse7iHQtPfVY6S6LM.jpg",
+				"character": "Teenage Sinon",
+				"gender": 2
+			},
+			{
+				"id": 1455911,
+				"order": 51,
+				"name": "Kate Fuglei",
+				"profile_path": "/tm9IbjrFfOe3ueImBuHiBYrRIo2.jpg",
+				"character": "Eurycleia",
+				"gender": 1
+			},
+			{
+				"id": 6342036,
+				"order": 52,
+				"name": "Mickey Shilowich",
+				"character": "Infant Telemachus"
+			},
+			{
+				"id": 6342039,
+				"order": 53,
+				"name": "Katerina Antemel",
+				"character": "Iphigenia"
+			}
+		],
+		"crew": [
+			{
+				"id": 525,
+				"name": "Christopher Nolan",
+				"profile_path": "/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 525,
+				"name": "Christopher Nolan",
+				"profile_path": "/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 525,
+				"name": "Christopher Nolan",
+				"profile_path": "/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 556,
+				"name": "Emma Thomas",
+				"profile_path": "/utc1PS6WVWR5tknzTJqXtnD0kBp.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 928158,
+				"name": "Ludwig Göransson",
+				"profile_path": "/3phYwmonUBcDXZ1DY5kHYjYYoor.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 7735,
+				"name": "Ellen Mirojnick",
+				"profile_path": "/fVldZUbyEG0fHTTzmGp5CeqadCc.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 74401,
+				"name": "Hoyte van Hoytema",
+				"profile_path": "/y2HXvac1oPzciwxfdyWc5syThRk.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1081074,
+				"name": "George Cottle",
+				"profile_path": "/hGvlKt3Zm7rpO6I9RXFRWGmZUw0.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1566280,
+				"name": "Nilo Otero",
+				"profile_path": "/8anaNQUEb1dBy6vXjjUbiGpZJcw.jpg",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 561,
+				"name": "John Papsidera",
+				"profile_path": "/egwEVyrAmdWhtuLqE5fcThZf41E.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1673972,
+				"name": "Jill Beecher",
+				"job": "Conceptual Illustrator",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1386906,
+				"name": "Jonas Kirk",
+				"job": "Construction Coordinator",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 5392456,
+				"name": "Redouane Ouadi",
+				"profile_path": "/jcX3IypFgyHULnb7g7elhbNPsTq.jpg",
+				"job": "Transportation Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 1299194,
+				"name": "Ruth De Jong",
+				"profile_path": "/ln89JmuNbSp9FSqRU9rkDyqH5ez.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1849421,
+				"name": "Samantha Englender",
+				"job": "Supervising Art Director",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1409817,
+				"name": "Gloria Pasqua Casny",
+				"job": "Hair Department Head",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1113553,
+				"name": "Jennifer Lame",
+				"profile_path": "/1Jl596RMknK3XgGidLbeFOleLns.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 1546115,
+				"name": "Willie D. Burton",
+				"profile_path": "/scUZhjN7gsFGquUUBFdrVU34t9y.jpg",
+				"job": "Production Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1357062,
+				"name": "Scott R. Fisher",
+				"profile_path": "/oXMzLqtqjKthG8tAH8t5cWffyp8.jpg",
+				"job": "Special Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 9812,
+				"name": "Homer",
+				"profile_path": "/sa8ZwKAApWurh2QW87miNQcv6iA.jpg",
+				"job": "Poem",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1661944,
+				"name": "Andrew Jackson",
+				"profile_path": "/Ahymx9YXTkPzA9eImHuBZYHZDHZ.jpg",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1155668,
+				"name": "Mike Chambers",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1417828,
+				"name": "Andrew Lockley",
+				"profile_path": "/5K5XTIK5ny3qZAn3SzLWehVRqyL.jpg",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 2010392,
+				"name": "Giacomo Mineo",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 2805670,
+				"name": "Antonella Ferrari",
+				"job": "Executive Visual Effects Producer",
+				"department": "Crew"
+			},
+			{
+				"id": 21984,
+				"name": "Larry Dias",
+				"job": "Set Decoration",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1322015,
+				"name": "Luisa Abel",
+				"profile_path": "/2rp3CxbfaSsYWbdMSK1NXQetLIx.jpg",
+				"job": "Makeup Department Head",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1546028,
+				"name": "Andrew Palmer",
+				"job": "Supervising Art Director",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1463292,
+				"name": "Zack Smith",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1661938,
+				"name": "R. Adam Chambers",
+				"job": "Chief Lighting Technician",
+				"department": "Lighting"
+			},
+			{
+				"id": 1417407,
+				"name": "Thomas Hayslip",
+				"profile_path": "/j0GdUhLhCwu0i8g5uPHArMurQtk.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5957,
+				"name": "Gene Serdena",
+				"profile_path": "/g3btH3Ic5GmIsayXcNFW96EITkE.jpg",
+				"job": "Set Decoration",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1665616,
+				"name": "Matt Curtis",
+				"job": "Title Designer",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 5695123,
+				"name": "Callum Armstrong",
+				"profile_path": "/26TqIBdexRswWsYNrTWn8oJe3yA.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 6348256,
+				"name": "Rosa Fragorapti",
+				"profile_path": "/3dRgliMHYYAw8MKO4J22MobZ6KN.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 1
+			}
+		]
+	}
+}
