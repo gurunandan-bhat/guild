@@ -9,7 +9,7 @@ subtitle = "Rather than embark on new adventure, film sticks to familiar waters"
 opening = "Directed by Thomas Kail and starring Dwayne Johnson, Rena Owen, John Tui, Frankie Adams, Jemaine Clement and Catherine Laga'aia, Moana is handsomely mounted, competently acted and perfectly watchable. Its greatest flaw is its overwhelming redundancy. It offers audiences little that they have not already experienced."
 img = 'moana-3.jpg'
 media = 'print'
-source = "https://thefederal.com/film-reviews/idhayam-murali-review-silly-self-aware-and-surprisingly-fun-249690"
+source = "https://thefederal.com/film-reviews/moana-film-review-english-film-hollywood-disney-dwayne-johnson-thomas-kail-249668"
 scores = [3]
 +++
 
