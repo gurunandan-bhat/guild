@@ -1,6 +1,6 @@
 +++
 title = "I, Nobody"
-date = 2026-07-24T20:23:29+05:30
+date = 2026-07-09T20:23:29+05:30
 draft = false
 mreviews = ["I, Nobody"]
 critics = ['Janani K']
