@@ -1,13 +1,13 @@
 +++
-title = "Uttar De Puttar"
+title = "Uttar Da Puttar"
 date = 2026-07-25T19:39:51+05:30
 draft = false
-mreviews = ["Uttar De Puttar"]
+mreviews = ["Uttar Da Puttar"]
 critics = ['Deepak Dua']
 publication = 'Cineyatra.com'
 subtitle = "साफ-सुथरा मनोरंजन"
 opening = ""
-img = 'uttar-de-puttar.jpg'
+img = 'uttar-da-puttar.jpg'
 media = 'print'
 source = "https://www.cineyatra.com/uttar-da-puttar-movie-review-by-deepak-dua/"
 scores = [5]
