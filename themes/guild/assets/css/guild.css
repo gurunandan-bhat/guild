@@ -157,12 +157,10 @@ a {
 }
 
 h4.sub-title {
-    font-size: 16px;
+    font-size: 20px;
     text-decoration: none;
     font-family: Oswald;
     font-weight: 400;
-    background-color: #ebe4ed;
-    padding: 0.5rem;
     color: #494949;
 }
 

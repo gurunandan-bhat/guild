@@ -73,30 +73,28 @@
 						<h4 class="sub-title">
 							{{ .Params.subtitle }}
 						</h4>
-						<div class="ms-2">
-							<p class="pub-date">
-								{{ .Date.Format "Mon, January 2 2006" }}
+						<p class="pub-date">
+							{{ .Date.Format "Mon, January 2 2006" }}
+						</p>
+						{{ with .Params.opening }}
+							<p class="opening">
+								{{ . }}
 							</p>
-							{{ with .Params.opening }}
-								<p class="opening">
-									{{ . }}
-								</p>
-							{{ end }}
-							<div class="small">
-								{{ .Summary }}
-							</div>
-							{{ with .Params.source }}
-								<p class="small float-start">
-									<a
-										href="{{ . }}"
-										target="_blank"
-									>{{ $extLinkIcon }}
-										Continue
-										Reading&hellip;</a
-									>
-								</p>
-							{{ end }}
+						{{ end }}
+						<div class="small">
+							{{ .Summary }}
 						</div>
+						{{ with .Params.source }}
+							<p class="small float-start">
+								<a
+									href="{{ . }}"
+									target="_blank"
+								>{{ $extLinkIcon }}
+									Continue
+									Reading&hellip;</a
+								>
+							</p>
+						{{ end }}
 						<div class="float-end">
 							{{ partial "taxonomy/mreviews/reviewLink.html" .Title }}
 						</div>
