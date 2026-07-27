@@ -28,9 +28,9 @@
 									{{ .LinkTitle }}
 								{{ end }}
 							</h6>
-							<p class="fitted-org synopsis" >
+							<p class="fitted-org genre-style" >
 								{{ with .Params.organizations }}
-									{{ delimit . "<br />" | safeHTML }}
+									{{ delimit . ", " }}
 								{{ end }}
 							</p>
 							{{ with resources.Get .Params.img }}
@@ -73,9 +73,9 @@
 									{{ .LinkTitle }}
 								{{ end }}
 							</h6>
-							<p class="fitted-org synopsis">
+							<p class="fitted-org genre-style">
 								{{ with .Params.organizations }}
-									{{ index . 0 }}
+									{{ delimit . ", " }}
 								{{ end }}
 							</p>
 							{{ with resources.Get .Params.img }}
