@@ -1,7 +1,7 @@
 +++
 critics = ["Aditya Shrikrishna"]
 date = 2026-02-07T08:28:05+05:30
-draft = true
+draft = false
 img = "tablet.png"
 media = "print"
 mreviews = ["Tablet"]
