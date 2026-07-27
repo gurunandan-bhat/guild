@@ -12,3 +12,5 @@ media = 'print'
 source = "https://www.indiatoday.in/india-today-insight/story/how-kohrra-2-sets-the-gold-standard-on-what-season-twos-should-accomplish-kohrra-2-review-2870964-2026-02-19"
 scores = [8]
 +++
+
+Trust writer-director Sudip Sharma to deliver a binge-worthy follow-up. He has done so already with Paatal Lok Season 2. Now, he shows twice can be good yet again with the Netflix series Kohrra. Set in Punjab, Kohrra Season 2 sees Sharma and writers Gunjit Chopra and Diggi Sisodia deep-dive into a world where socio-economic disparities, patriarchy, trauma, dirty secrets and familial issues abound. The way these myriad issues are presented with zero melodrama and exacting precision is why Kohrra has set the standard in how long-format stories should be told.
