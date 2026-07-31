@@ -1,6 +1,6 @@
 +++
 title = "The Devil's Mouth"
-date = 2026-08-01T00:03:00+05:30
+date = 2026-07-31T23:03:00+05:30
 draft = false
 mreviews = ["The Devil's Mouth"]
 critics = ['Rohan Naahar']
