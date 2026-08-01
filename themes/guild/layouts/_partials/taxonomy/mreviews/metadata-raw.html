@@ -42,7 +42,7 @@
 
 {{- $result = merge $result (dict "Genres" $genreList "Language" $language) }}
 
-{{ $castList := slice }}
+{{ $castList := "" }}
 {{- $maxCastLength := site.Params.maxcastlength }}
 {{ with $metadata.credits.cast }}
     {{ $cast := . }}
