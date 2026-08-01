@@ -55,7 +55,7 @@
 								class="border border-3 border-top-0 border-start-0 border-end-0">
 								<div class="px-4">
 									<h2 class="mb-2">
-										{{ .Params.subtitle }}
+										{{ title .Params.subtitle }}
 									</h2>
 									{{- partial "critic-header.html" (dict "review" . "short" true) }}
 									{{ with .Params.opening }}
@@ -90,7 +90,7 @@
 									<div class="p-2">
 										{{- with .Params.subtitle }}
 											<h2 class="my-3">
-												{{ . }}
+												{{ title . }}
 											</h2>
 										{{- end }}
 										{{- partial "critic-header.html" (dict "review" . "short" true) }}
