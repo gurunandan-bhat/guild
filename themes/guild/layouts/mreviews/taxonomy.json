@@ -1,17 +1,17 @@
-{{ $languages := hugo.Data.languages.languages }}
+{{- $languages := hugo.Data.languages.languages }}
 {{- $films := dict }}
 {{- range .Pages }}
 	{{- $pageMap := (jsonify .) | transform.Unmarshal }}
 	{{- $score := partialCached "fcg-rating-raw.html" .LinkTitle .LinkTitle }}
 	{{- $posterLink := partial "poster-link.html" .LinkTitle }}
-	{{- $pageMap = merge $pageMap (dict "AverageScore" (div $score 10.0) "URLPath" (urlize .LinkTitle)) }}
+	{{- $pageMap = merge $pageMap (dict "AverageScore" (div $score 10.0) "URLPath" (urlize .Path)) }}
 	{{- with $posterLink }}
 		{{- $pageMap = merge $pageMap (dict "LocalPosterPath" .) }}
 	{{- end }}
 	{{- $language := dict }}
 	{{- with partialCached "tmdb-meta.html" .LinkTitle .LinkTitle }}
 		{{- $language = index $languages .original_language }}
-		{{ with $language }}
+		{{- with $language }}
 			{{- $pageMap = merge $pageMap (dict "Language" .english_name) }}
 		{{- end }}
 	{{- end }}
