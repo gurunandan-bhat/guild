@@ -1,6 +1,6 @@
 +++
 title = "Spider-Man: Brand New Day"
-date = 2026-08-03T00:11:06+05:30
+date = 2026-08-01T00:11:06+05:30
 draft = false
 mreviews = ["Spider-Man: Brand New Day"]
 critics = ['Uday Bhatia']
