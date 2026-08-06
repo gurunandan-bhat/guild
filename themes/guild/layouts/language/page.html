@@ -1,0 +1,7 @@
+{{- define "main" }}
+    {{- with .Resources.Get (printf "%s-json" .LinkTitle) }}
+        {{- range sort (transform.Unmarshal .Content) "title" }}
+            <pre>{{- debug.Dump .  }}</pre>
+        {{- end }}
+    {{- end }}
+{{- end }}
