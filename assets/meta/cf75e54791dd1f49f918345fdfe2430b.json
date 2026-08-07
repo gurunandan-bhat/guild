@@ -1,0 +1,369 @@
+{
+	"id": 1479832,
+	"title": "DC",
+	"fcg_title": "DC",
+	"original_title": "டிசி",
+	"original_language": "ta",
+	"genres": [
+		{
+			"id": 10749,
+			"name": "Romance"
+		},
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
+	"backdrop_path": "/7C4M9skkyfWRkvqR8WUx1GOAsRl.jpg",
+	"poster_path": "/yLoLqlnTnlxhz7QeIksaIRMU7Ui.jpg",
+	"release_date": "2026-08-07",
+	"credits": {
+		"cast": [
+			{
+				"id": 1592411,
+				"order": 0,
+				"name": "Lokesh Kanagaraj",
+				"profile_path": "/yym15SAcSzIe6xzxOWCgDWiSaZN.jpg",
+				"character": "Devadas",
+				"gender": 2
+			},
+			{
+				"id": 1267400,
+				"order": 1,
+				"name": "Wamiqa Gabbi",
+				"profile_path": "/tnXTQCsAuKEIodbsEynv2wveR6N.jpg",
+				"character": "Chandra",
+				"gender": 1
+			},
+			{
+				"id": 3791747,
+				"order": 2,
+				"name": "Sanjana Krishnamoorthy",
+				"profile_path": "/eNYxaRfb8xyj0OoNa46txZhzuWw.jpg",
+				"character": "Parvathi",
+				"gender": 1
+			},
+			{
+				"id": 2817008,
+				"order": 3,
+				"name": "Sharath Ravi",
+				"profile_path": "/5hgdkBe06e6xRRTPvQEPcoanC2u.jpg",
+				"gender": 2
+			},
+			{
+				"id": 5222970,
+				"order": 4,
+				"name": "Kobisan Chandrakumar",
+				"character": "Romeo",
+				"gender": 2
+			},
+			{
+				"id": 1540757,
+				"order": 5,
+				"name": "Avinash Raghudevan",
+				"profile_path": "/AuiRkWkzpmZU2P88s1wwcqVDKJV.jpg"
+			},
+			{
+				"id": 585107,
+				"order": 6,
+				"name": "Kasthoori Raja",
+				"profile_path": "/7i5YtjslyQAQrBoEhlWz8G4yqj5.jpg",
+				"gender": 2
+			},
+			{
+				"id": 4900390,
+				"order": 7,
+				"name": "Jawahar Sakthi",
+				"profile_path": "/tujqtpUT92SDeo2AuUJiJGKBfYp.jpg"
+			}
+		],
+		"crew": [
+			{
+				"id": 1642537,
+				"name": "Arun Matheswaran",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1666862,
+				"name": "Kalanithi Maran",
+				"profile_path": "/7zMuusP8W6lEL94C0rqwOGCnd5.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1641720,
+				"name": "Prasanna GK",
+				"profile_path": "/mRUvjFUV0v04KN1v9xs128gq22S.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 584279,
+				"name": "S.Kannan",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 2149823,
+				"name": "Vinoth Sugumaran",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1081464,
+				"name": "Anirudh Ravichander",
+				"profile_path": "/4RqfmPhND0cKe83kCohjCW06Q02.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1643578,
+				"name": "Sachin Sudhakaran",
+				"profile_path": "/uCr5Q0tx3MkVFFQC1XlNCUrRAeq.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1643577,
+				"name": "Hari Haran",
+				"profile_path": "/p8eA1lehNhAsXeYI9o35IOXY7B4.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1643581,
+				"name": "Kabilan Chellaiah",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2214177,
+				"name": "D. Ramesh Kuchirayar",
+				"job": "Production Controller",
+				"department": "Crew"
+			},
+			{
+				"id": 3299517,
+				"name": "K. T. S. Swamynathan",
+				"job": "Production Controller",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 140633,
+				"name": "Mukesh Gautam",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 5788769,
+				"name": "Velu Barath",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5788771,
+				"name": "Salamon Arokeyathas",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5788772,
+				"name": "Akash",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5788773,
+				"name": "Deva",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5788775,
+				"name": "Johnson",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5461480,
+				"name": "Vignesh Ramakrishnan",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2270849,
+				"name": "Sidharth Rajan",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5788777,
+				"name": "Sharath rajan",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5788778,
+				"name": "Akshay M.B",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5788779,
+				"name": "Pranav J",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5788780,
+				"name": "Sree Vatshan",
+				"job": "Assistant Director of Photography",
+				"department": "Art"
+			},
+			{
+				"id": 5788781,
+				"name": "Praveen Selvan",
+				"job": "Assistant Director of Photography",
+				"department": "Art"
+			},
+			{
+				"id": 5788782,
+				"name": "Edison H",
+				"job": "Assistant Director of Photography",
+				"department": "Art"
+			},
+			{
+				"id": 5788785,
+				"name": "Imaadh",
+				"job": "Assistant Director of Photography",
+				"department": "Art"
+			},
+			{
+				"id": 5788783,
+				"name": "Sai balaji",
+				"job": "Assistant Director of Photography",
+				"department": "Art"
+			},
+			{
+				"id": 5788786,
+				"name": "Karthikeyan S",
+				"job": "Assistant Director of Photography",
+				"department": "Art"
+			},
+			{
+				"id": 1642537,
+				"name": "Arun Matheswaran",
+				"job": "Dialogue",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5788807,
+				"name": "Ram Kumar",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 3904065,
+				"name": "Heisenberg",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 1642537,
+				"name": "Arun Matheswaran",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1641624,
+				"name": "Perumal Selvam",
+				"job": "Costumer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2149823,
+				"name": "Vinoth Sugumaran",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 5788815,
+				"name": "Amir",
+				"job": "Still Photographer",
+				"department": "Camera"
+			},
+			{
+				"id": 2995872,
+				"name": "Anshuman Sharma",
+				"job": "Vocals",
+				"department": "Sound"
+			},
+			{
+				"id": 5394950,
+				"name": "Harish Arun M.",
+				"job": "Associate Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 4428437,
+				"name": "Ranga",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 4499223,
+				"name": "Vedan",
+				"profile_path": "/5Cav5DymFGQRrlmTuVpuAPSsWUi.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1642537,
+				"name": "Arun Matheswaran",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5788795,
+				"name": "Arun Ranjan",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 3234738,
+				"name": "Franklin Jacob",
+				"job": "Dialogue",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1642537,
+				"name": "Arun Matheswaran",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			}
+		]
+	}
+}
