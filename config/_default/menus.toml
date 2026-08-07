@@ -9,6 +9,11 @@ pageRef = '/mreviews'
 weight  = 20
 
 [[main]]
+name    = 'All Languages'
+pageRef = '/language'
+weight  = 20
+
+[[main]]
 name    = 'All Critics'
 pageRef = '/critics'
 weight  = 30
