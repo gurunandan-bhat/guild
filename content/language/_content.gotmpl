@@ -27,7 +27,7 @@
     }}
     {{- $.AddPage $page }}
 
-    {{- $jsonContent := dict "mediaType" "text/Plain" "value" (jsonify $metaVal) }}
+    {{- $jsonContent := dict "mediaType" "application/json" "value" (jsonify $metaVal) }}
     {{- $jsonResource := dict 
             "name" (printf "%s-json" $lang)
             "content" $jsonContent
