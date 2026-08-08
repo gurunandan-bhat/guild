@@ -1,0 +1,18 @@
+{{- define "main" }}
+<div class="container-fluid">
+    <img src="/images/language-banner-1.png" class="img-fluid w-100 mb-5" />
+</div>    
+<div class="container">
+        <div class="row">
+            <div class="col-8 offset-2">
+                <div class="row">
+                    {{- range .RegularPages }}
+                        <div class="col mb-5 pb-3 text-center">
+                            <a href="{{ .RelPermalink }}" class="btn btn-success">{{ .LinkTitle }}</a>
+                        </div>
+                    {{- end }}
+                </div>
+            </div>
+        </div>
+    </div>
+{{- end }}

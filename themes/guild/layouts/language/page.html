@@ -1,0 +1,31 @@
+{{- define "main" }}
+    <div class="container-fluid">
+        <img src="/images/language-banner-2.png" class="img-fluid w-100 mb-5" />
+    </div>    
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 offset-lg-1">
+                <h2 class="section-head text-center my-5">Click on a poster to read all reviews of that film</h2>
+                <div class="row">
+                    {{- with .Resources.Get (printf "%s-json" .LinkTitle) }}
+                        {{- range sort (transform.Unmarshal .Content) }}
+                            {{- $poster := (index . "poster_path") }}
+                            {{- $title := (index . "title") }}
+                            {{- $url := printf "/mreviews/%s" (urlize $title) }}
+                            {{- with resources.Get (printf "/meta/posters%s" $poster) }}
+                                <div class="col-lg-2 mb-3 text-center">
+                                    <a href="{{ $url }}">
+                                        <img src="{{ .RelPermalink }}" class="img-fluid w-100 p-1 border mb-1" alt="{{ $title }}" />
+                                    </a>
+                                    <p class="genre-style text-center">
+                                        {{- $title }}
+                                    </p>
+                                </div>
+                            {{- end }}
+                        {{- end }}
+                    {{- end }}
+                </div>
+            </div>
+        </div>
+    </div>
+{{- end }}

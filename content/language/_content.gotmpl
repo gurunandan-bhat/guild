@@ -1,0 +1,37 @@
+{{ $isoLanguages := hugo.Data.languages.languages }}
+{{- $byLanguage := dict }}
+{{- with resources.Match "meta/*.json" }}
+	{{- range . }}
+		{{- $meta := . | transform.Unmarshal }}
+        {{- $lang := "" }}
+        {{- with $meta.original_language }}
+            {{- $lang = (index $isoLanguages .).english_name }}
+            {{- $metaVal := dict "title" $meta.fcg_title "poster_path" $meta.poster_path "backdrop_path" $meta.backdrop_path}}
+            {{- with index $byLanguage $lang }}
+                {{- $newVal := append $metaVal . }}
+                {{- $byLanguage = merge $byLanguage (dict $lang $newVal) }}
+            {{- else }}
+                {{- $byLanguage = merge $byLanguage (dict $lang (slice $metaVal)) }}
+            {{- end }}
+        {{- end }}
+	{{- end }}
+{{- end }}
+
+{{- range $lang, $metaVal := $byLanguage }}
+    {{ $content := dict "mediaType" "text/markdown" "value" $lang }}
+    {{ $page := dict
+        "title" $lang
+        "path" (urlize $lang)
+        "kind" "page"
+        "content" $content
+    }}
+    {{- $.AddPage $page }}
+
+    {{- $jsonContent := dict "mediaType" "application/json" "value" (jsonify $metaVal) }}
+    {{- $jsonResource := dict 
+            "name" (printf "%s-json" $lang)
+            "content" $jsonContent
+            "path" (printf "%s/data.json" $lang)
+    }}
+    {{- $.AddResource $jsonResource }}
+{{- end }}
