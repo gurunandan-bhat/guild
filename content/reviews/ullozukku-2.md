@@ -1,7 +1,7 @@
 +++
 critics = ["Aswathy Gopalakrishnan"]
 date = 2024-10-14T00:38:54+05:30
-draft = true
+draft = false
 img = "ullozhukku-2.png"
 media = "print"
 mreviews = ["Ullozhukku"]

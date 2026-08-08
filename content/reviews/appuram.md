@@ -1,7 +1,7 @@
 +++
 critics = ["Aswathy Gopalakrishnan"]
 date = 2024-12-21T08:12:22+05:30
-draft = true
+draft = false
 img = "appuram.jpg"
 media = "print"
 mreviews = ["Appuram"]

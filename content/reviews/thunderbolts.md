@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-05-01T16:24:51+05:30
-draft = true
+draft = false
 img = "thunderbolts.webp"
 media = "print"
 mreviews = ["Thunderbolts*"]

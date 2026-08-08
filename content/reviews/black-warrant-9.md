@@ -1,7 +1,7 @@
 +++
 critics = ["Rohit Vats"]
 date = 2025-01-14T01:37:51+05:30
-draft = true
+draft = false
 img = "black-warrant-9.png"
 media = "print"
 mreviews = ["Black Warrant"]

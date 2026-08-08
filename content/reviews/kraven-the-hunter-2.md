@@ -1,7 +1,7 @@
 +++
 title = "Kraven the Hunter"
 date = 2025-01-02T08:39:20+05:30
-draft = true
+draft = false
 mreviews = ["Kraven the Hunter"]
 critics = ['Sanyukta Thakare']
 publication = ''

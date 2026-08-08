@@ -27,7 +27,7 @@
 				</div>
 			{{ else }}
 				{{ if hugo.IsDevelopment }}
-					{{ warnf "Reviewer not available for %s" $review.File }}
+					{{ warnf "(New) Reviewer not available for %s" $review.File }}
 				{{ end }}
 			{{ end }}
 			<div

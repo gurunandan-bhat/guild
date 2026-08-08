@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-05-23T14:22:40+05:30
-draft = true
+draft = false
 img = "bhool-chuk-maaf-3.webp"
 media = "print"
 mreviews = ["Bhool Chuk Maaf"]

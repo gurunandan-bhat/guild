@@ -1,7 +1,7 @@
 +++
 title = 'The Apprentice'
 date = 2024-10-17T20:15:13+05:30
-draft = true
+draft = false
 mreviews = ['The Apprentice']
 critics = ['Sanyukta Thakare']
 subtitle = "Sebastian Stan As Donald Trump Is Just The Tip Of The Iceberg"

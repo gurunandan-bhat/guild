@@ -1,7 +1,7 @@
 +++
 title = 'Talmar Romeo Juliet'
 date = 2024-12-17T01:19:28+05:30
-draft = true
+draft = false
 mreviews = ['Talmar Romeo Juliet']
 critics = ['Shamayita Chakraborty']
 publication = ''

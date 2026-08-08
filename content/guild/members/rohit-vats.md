@@ -1,10 +1,11 @@
 +++
 date = 2024-09-25T12:19:31.454202+05:30
-draft = true
+draft = false
 weight = 300
 title = 'Rohit Vats'
-organizations = ['Bajarbattu Media']
-img = '/images/members/Rohit_vats.jpg'
+organizations = ['Bajarbattu Media', 'Former Guild Member']
+img = '/images/members/Rohit_vats.webp'
+archived = true
 
 [soc_media]
 facebook = 'https://www.facebook.com/RohitVats444/'

@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-09-05T18:20:40+05:30
-draft = true
+draft = false
 img = "baghi-4-3.webp"
 media = "print"
 mreviews = ["Baaghi 4"]

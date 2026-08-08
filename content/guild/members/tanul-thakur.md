@@ -1,10 +1,11 @@
 +++
 date = 2024-09-25T12:19:31.456896+05:30
-draft = true
+draft = false
 weight = 490
 title = 'Tanul Thakur'
-organizations = ['Outlook']
-img = '/images/members/Tanul-Thakur.png'
+organizations = ['Outlook', 'Former Guild Member']
+img = '/images/members/Tanul-Thakur.webp'
+archived = true
 
 [soc_media]
 facebook = 'https://www.facebook.com/tanul.thakur'

@@ -1,10 +1,11 @@
 +++
 title = 'Shamayita Chakraborty'
 date = 2024-09-30T14:34:57+05:30
-draft = true
+draft = false
 weight = 355
-organizations = ['Deutsche Welle']
-img = '/images/members/Shamayita.jpg'
+organizations = ['Deutsche Welle', 'Former Guild Member']
+img = '/images/members/Shamayita.webp'
+archived = true
 
 [soc_media]
 instagram = 'https://www.instagram.com/shamayita_see'

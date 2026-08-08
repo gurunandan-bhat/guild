@@ -1,10 +1,11 @@
 +++
 date = 2024-09-25T12:19:31.456619+05:30
-draft = true
+draft = false
 weight = 470
 title = 'Sukhpreet Kahlon'
-organizations = ['Independent Film Critic']
-img = '/images/members/Sukhpreet-Kahlon.png'
+organizations = ['Independent Film Critic', 'Former Guild Member']
+img = '/images/members/Sukhpreet-Kahlon.webp'
+archived = true
 
 [soc_media]
 facebook = 'https://www.facebook.com/sukhpreet.i.kahlon/'

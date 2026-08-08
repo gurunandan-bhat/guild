@@ -1,7 +1,7 @@
 +++
 title = "You're Cordially Invited"
 date = 2025-02-03T08:24:07+05:30
-draft = true
+draft = false
 mreviews = ["You're Cordially Invited"]
 critics = ['Sanyukta Thakare']
 publication = ''

@@ -1,7 +1,7 @@
 +++
 title = 'Kaalratri'
 date = 2024-12-17T01:21:26+05:30
-draft = true
+draft = false
 mreviews = ['Kaalratri']
 critics = ['Shamayita Chakraborty']
 publication = ''

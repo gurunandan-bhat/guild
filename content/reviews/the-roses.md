@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-08-29T19:31:42+05:30
-draft = true
+draft = false
 img = "the-roses.webp"
 media = "print"
 mreviews = ["The Roses"]

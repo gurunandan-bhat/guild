@@ -1,7 +1,7 @@
 +++
 critics = ["Aswathy Gopalakrishnan"]
 date = 2024-02-07T00:02:34+05:30
-draft = true
+draft = false
 img = "mithya.png"
 media = "print"
 mreviews = ["Mithya"]

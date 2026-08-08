@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-03-30T16:51:19+05:30
-draft = true
+draft = false
 img = "sikandar-9.webp"
 media = "print"
 mreviews = ["Sikandar"]

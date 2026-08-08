@@ -1,10 +1,11 @@
 +++
 date = 2024-09-25T12:19:31.453357+05:30
-draft = true
+draft = false
 weight = 240
 title = 'Monika Rawal'
-organizations = ['Independent Film Critic']
-img = '/images/members/Monika Rawal.png'
+organizations = ['Independent Film Critic', 'Former Guild Member']
+img = '/images/members/Monika Rawal.webp'
+archived = true
 
 [soc_media]
 facebook = 'https://www.facebook.com/monika-rawal'

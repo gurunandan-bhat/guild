@@ -1,7 +1,7 @@
 +++
 critics = ["Sukhpreet Kahlon"]
 date = 2024-06-14T22:16:19+05:30
-draft = true
+draft = false
 img = "kudi-haryane-val-di.png"
 media = "print"
 mreviews = ["Kudi Haryane Val Di"]

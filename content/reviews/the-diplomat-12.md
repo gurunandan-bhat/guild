@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-03-13T09:39:25+05:30
-draft = true
+draft = false
 img = "the-diplomat-12.webp"
 media = "print"
 mreviews = ["The Diplomat"]

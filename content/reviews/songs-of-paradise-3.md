@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-08-29T19:33:29+05:30
-draft = true
+draft = false
 img = "songs-of-paradise-3.webp"
 media = "print"
 mreviews = ["Songs of Paradise"]

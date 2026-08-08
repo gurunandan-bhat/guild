@@ -1,7 +1,7 @@
 +++
 critics = ["Rohit Vats"]
 date = 2025-03-01T17:34:10+05:30
-draft = true
+draft = false
 img = "dabba-cartel-7.png"
 media = "print"
 mreviews = ["Dabba Cartel"]

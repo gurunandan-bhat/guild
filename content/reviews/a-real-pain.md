@@ -1,7 +1,7 @@
 +++
 title = 'A Real Pain'
 date = 2025-01-16T09:12:00+05:30
-draft = true
+draft = false
 mreviews = ['A Real Pain']
 critics = ['Sanyukta Thakare']
 publication = ''

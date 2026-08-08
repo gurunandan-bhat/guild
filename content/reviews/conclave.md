@@ -1,7 +1,7 @@
 +++
 title = "Conclave"
 date = 2025-02-07T08:17:57+05:30
-draft = true
+draft = false
 mreviews = ["Conclave"]
 critics = ['Sanyukta Thakare']
 publication = ''

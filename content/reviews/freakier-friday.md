@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-08-09T10:08:34+05:30
-draft = true
+draft = false
 img = "freakier-friday.webp"
 media = "print"
 mreviews = ["Freakier Friday"]

@@ -1,7 +1,7 @@
 +++
 title = 'Singham Again'
 date = 2024-11-10T20:31:55+05:30
-draft = true
+draft = false
 mreviews = ['Singham Again']
 critics = ['Sanyukta Thakare']
 publication = ''

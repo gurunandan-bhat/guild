@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-03-10T22:53:43+05:30
-draft = true
+draft = false
 img = "nadaaniyan-16.webp"
 media = "print"
 mreviews = ["Nadaaniyan"]

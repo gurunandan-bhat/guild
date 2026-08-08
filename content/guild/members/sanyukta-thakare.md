@@ -1,10 +1,11 @@
 +++
 date = 2024-09-25T12:19:31.454924+05:30
-draft = true
+draft = false
 weight = 350
 title = 'Sanyukta Thakare'
-organizations = ['Mashable India']
-img = '/images/members/Sanyukta-Thakare.png'
+organizations = ['Mashable India', 'Former Guild Member']
+img = '/images/members/Sanyukta-Thakare.webp'
+archived = true
 
 [soc_media]
 facebook = 'https://www.facebook.com/@thr4sam'

@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-09-08T22:15:41+05:30
-draft = true
+draft = false
 img = "demon-slayer-infinity-castle.webp"
 media = "print"
 mreviews = ["Demon Slayer: Infinity Castle"]

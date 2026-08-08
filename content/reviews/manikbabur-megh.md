@@ -1,7 +1,7 @@
 +++
 title = 'Manikbabur Megh'
 date = 2024-07-12T13:22:30+05:30
-draft = true
+draft = false
 mreviews = ['Manikbabur Megh']
 critics = ['Shamayita Chakraborty']
 publication = ''

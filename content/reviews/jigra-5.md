@@ -1,7 +1,7 @@
 +++
 title = 'Jigra'
 date = 2024-10-11T22:31:06+05:30
-draft = true
+draft = false
 mreviews = ['Jigra']
 critics = ['Tanul Thakur']
 subtitle = 'The Alia Bhatt-starrer Doesn’t Fire but Fizzle Out'

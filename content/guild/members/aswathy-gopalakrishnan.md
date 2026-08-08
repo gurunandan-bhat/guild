@@ -1,10 +1,11 @@
 +++
 date = 2024-09-25T12:19:31.451066+05:30
-draft = true
+draft = false
 weight = 80
 title = 'Aswathy Gopalakrishnan'
-organizations = ['Indpendent Film Critic']
-img = '/images/members/Aswathy Gopalakrishna.png'
+organizations = ['Indpendent Film Critic', 'Former Guild Member']
+img = '/images/members/Aswathy Gopalakrishna.webp'
+archived = true
 
 [soc_media]
 facebook = 'https://facebook.com/aswathyg'

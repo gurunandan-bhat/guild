@@ -1,7 +1,7 @@
 +++
 critics = ["Aswathy Gopalakrishnan"]
 date = 2024-04-07T00:06:48+05:30
-draft = true
+draft = false
 img = "aadujeevitham.webp"
 media = "print"
 mreviews = ["Aadujeevitham"]

@@ -1,7 +1,7 @@
 +++
 critics = ["Sanyukta Thakare"]
 date = 2025-08-09T10:12:16+05:30
-draft = true
+draft = false
 img = "together.webp"
 media = "print"
 mreviews = ["Together"]
