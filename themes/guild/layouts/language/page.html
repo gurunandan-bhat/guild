@@ -9,7 +9,7 @@
                 <h6 class="genre-style mb-3">CLICK ON THE FILM POSTER TO READ ALL REVIEWS OF THE FILM</h6>
                 <div class="row">
                     {{- with .Resources.Get (printf "%s-json" .LinkTitle) }}
-                        {{- range sort (transform.Unmarshal .Content) }}
+                        {{- range sort (transform.Unmarshal .Content) "title" }}
                             {{- $poster := (index . "poster_path") }}
                             {{- $title := (index . "title") }}
                             {{- $url := printf "/mreviews/%s" (urlize $title) }}
