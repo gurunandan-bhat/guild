@@ -12,7 +12,7 @@
                         {{- range sort (transform.Unmarshal .Content) "title" }}
                             {{- $poster := (index . "poster_path") }}
                             {{- $title := (index . "title") }}
-                            {{- $url := printf "/mreviews/%s" (urlize $title) }}
+                            {{- $url := partialCached "taxonomy/mreviews/raw-reviewLink.html" $title $title }}
                             {{- with resources.Get (printf "/meta/posters%s" $poster) }}
                                 <div class="col-lg-2 mb-3 text-center">
                                     <a href="{{ $url }}">

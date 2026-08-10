@@ -4,9 +4,10 @@
         {{ $revCount := len $value }}
         {{ $map := dict }}
         {{ with index $value 0 }}
-            {{ $mLink := (index (where $.Pages "LinkTitle" .LinkTitle) 0).RelPermalink }}
+            {{- $mTag := index .Page.Params.mreviews 0 }}
+            {{ $mLink := partialCached "taxonomy/mreviews/raw-reviewLink.html"  $mTag $mTag}}
             {{ $imgLink := partial "backdrop.html" . }}
-            {{ $title := index .Page.Params.mreviews 0 }}
+            {{ $title := .Page.LinkTitle }}
             {{ with .Page.Params.translatedTitle }}
                 {{ $title = printf "%s (%s)" $title . }}
             {{ end }}

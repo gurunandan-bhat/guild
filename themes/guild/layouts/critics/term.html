@@ -96,7 +96,8 @@
 							</p>
 						{{ end }}
 						<div class="float-end">
-							{{ partial "taxonomy/mreviews/reviewLink.html" .Title }}
+							{{- $mTag := index .Params.mreviews 0 }}
+							{{ partialCached "taxonomy/mreviews/reviewLink.html" $mTag $mTag }}
 						</div>
 					</div>
 				</div>
@@ -136,7 +137,8 @@
 							</div>
 							<div class="clearfix">
 								<div class="float-end py-2">
-									{{ partial "taxonomy/mreviews/reviewLink.html" .Title }}
+									{{- $mTag := index .Params.mreviews 0 }}
+									{{ partialCached "taxonomy/mreviews/reviewLink.html" $mTag $mTag }}
 								</div>
 							</div>
 						</div>
