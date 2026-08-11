@@ -2,7 +2,7 @@
 title = "Dominic and the Ladies' Purse"
 date = 2025-01-24T13:02:01+05:30
 draft = false
-mreviews = ["Dominic and the Ladies' Purse"]
+mreviews = ["Dominic and the Ladies Purse"]
 critics = ['Sudhir Srinivasan']
 publication = ''
 subtitle = "A gray detective gets his start in this colourful origins film"

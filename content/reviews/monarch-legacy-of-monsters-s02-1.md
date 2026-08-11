@@ -2,7 +2,7 @@
 title = "Monarch: Legacy of Monsters S02"
 date = 2026-02-27T20:35:38+05:30
 draft = false
-mreviews = ["Monarch: Legacy of Monsters S02"]
+mreviews = ["Monarch Legacy of Monsters S02"]
 critics = ['Sonal Pandya']
 publication = ''
 subtitle = "Monsterverse Spinoff Balances New Titan With Family Drama And Lore"

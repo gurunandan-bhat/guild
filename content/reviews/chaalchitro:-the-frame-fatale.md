@@ -2,7 +2,7 @@
 title = 'Chaalchitro: The Frame Fatale'
 date = 2024-12-22T08:56:45+05:30
 draft = false
-mreviews = ['Chaalchitro: The Frame Fatale']
+mreviews = ["Chaalchitro The Frame Fatale"]
 critics = ['Shamayita Chakraborty']
 publication = ''
 subtitle = "Pratim D Gupta comes back to Bengal with a strong plot in a gritty thriller"

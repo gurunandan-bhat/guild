@@ -2,7 +2,7 @@
 title = "Spider-Man: Brand New Day"
 date = 2026-08-01T10:57:11+05:30
 draft = false
-mreviews = ["Spider-Man: Brand New Day"]
+mreviews = ["Spider Man Brand New Day"]
 critics = ['Sachin Chatte']
 publication = ''
 subtitle = "Just Another Day"

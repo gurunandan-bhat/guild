@@ -2,7 +2,7 @@
 title = "Margo's Got Money Troubles"
 date = 2026-04-15T18:07:23+05:30
 draft = false
-mreviews = ["Margo's Got Money Troubles"]
+mreviews = ["Margo s Got Money Troubles"]
 critics = ['Sonal Pandya']
 publication = ''
 subtitle = "Elle Fanning Is Outstanding In Family Drama About Unplanned Pregnancy"

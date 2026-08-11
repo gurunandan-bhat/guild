@@ -2,7 +2,7 @@
 title = "Balan: The Boy"
 date = 2026-06-21T19:45:03+05:30
 draft = false
-mreviews = ["Balan: The Boy"]
+mreviews = ["Balan The Boy"]
 critics = ['Aditya Shrikrishna']
 publication = 'Mint'
 subtitle = "A film of surprises and detours"

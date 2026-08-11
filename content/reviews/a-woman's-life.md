@@ -2,7 +2,7 @@
 title = "A Woman's Life"
 date = 2026-05-15T15:24:59+05:30
 draft = false
-mreviews = ["A Woman's Life"]
+mreviews = ["A Woman s Life"]
 critics = ['Shubhra Gupta']
 publication = ''
 subtitle = "Cannes drama about a 55-year-old surgeon questions Indian cinema"

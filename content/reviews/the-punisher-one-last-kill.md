@@ -2,7 +2,7 @@
 title = "The Punisher: One Last Kill"
 date = 2026-05-15T14:30:51+05:30
 draft = false
-mreviews = ["The Punisher: One Last Kill"]
+mreviews = ["The Punisher One Last Kill"]
 critics = ['Sonal Pandya']
 publication = ''
 subtitle = "Jon Bernthal's Marvel Special Is Violent Interlude Before Spider-Man Brand New Day"

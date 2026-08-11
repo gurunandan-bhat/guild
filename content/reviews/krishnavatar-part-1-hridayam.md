@@ -2,7 +2,7 @@
 title = "Krishnavatar Part 1: Hridayam"
 date = 2026-05-07T19:49:09+05:30
 draft = false
-mreviews = ["Krishnavatar Part 1: Hridayam"]
+mreviews = ["Krishnavatar Part 1 Hridayam"]
 critics = ['Upma Singh']
 publication = ''
 subtitle = "मनमोहक है सत्यभामा के प्रेम में पगी यह कृष्ण लीला"

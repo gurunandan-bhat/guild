@@ -2,7 +2,7 @@
 title = "Balan: The Boy"
 date = 2026-06-23T11:29:32+05:30
 draft = false
-mreviews = ["Balan: The Boy"]
+mreviews = ["Balan The Boy"]
 critics = ['Sudhir Srinivasan']
 subtitle = ""
 media = 'video'

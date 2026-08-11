@@ -2,7 +2,7 @@
 title = "Spider-Man: Brand New Day"
 date = 2026-07-30T00:15:10+05:30
 draft = false
-mreviews = ["Spider-Man: Brand New Day"]
+mreviews = ["Spider Man Brand New Day"]
 critics = ['Rahul Desai']
 publication = 'The Quint'
 subtitle = "An MCU Spectacle That Feels Like a Reboot"

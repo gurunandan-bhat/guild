@@ -2,7 +2,7 @@
 title = 'Yo Yo Honey Singh: Famous'
 date = 2024-12-23T08:16:30+05:30
 draft = false
-mreviews = ['Yo Yo Honey Singh: Famous']
+mreviews = ["Yo Yo Honey Singh Famous"]
 critics = ['Sonal Pandya']
 publication = ''
 subtitle = "Netflix Documentary Is Cursory Exploration Of Singer's Life"

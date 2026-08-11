@@ -2,7 +2,7 @@
 title = "Samay Raina: Still Alive"
 date = 2026-04-19T08:24:04+05:30
 draft = false
-mreviews = ["Samay Raina: Still Alive"]
+mreviews = ["Samay Raina Still Alive"]
 critics = ['Akhil Arora', 'Rohan Naahar']
 subtitle = "A Spotify Review"
 scores = [5]

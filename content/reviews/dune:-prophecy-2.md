@@ -2,7 +2,7 @@
 title = "Dune: Prophecy"
 date = 2024-12-23T08:46:52+05:30
 draft = false
-mreviews = ["Dune: Prophecy"]
+mreviews = ["Dune Prophecy"]
 critics = ['Sanyukta Thakare']
 publication = ''
 subtitle = "Tabu Steals The Show With Her Graceful Performance"

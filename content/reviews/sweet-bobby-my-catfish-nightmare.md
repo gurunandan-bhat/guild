@@ -2,7 +2,7 @@
 title = 'Sweet Bobby: My Catfish Nightmare'
 date = 2024-11-05T14:33:50+05:30
 draft = false
-mreviews = ['Sweet Bobby: My Catfish Nightmare']
+mreviews = ["Sweet Bobby My Catfish Nightmare"]
 critics = ['Priyanka Roy']
 publication = ''
 subtitle = "Sweet Bobby exposes chilling catfish deception."

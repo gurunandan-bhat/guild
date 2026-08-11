@@ -2,7 +2,7 @@
 title = 'Mufasa: The Lion King'
 date = 2024-12-19T11:11:40+05:30
 draft = false
-mreviews = ['Mufasa: The Lion King']
+mreviews = ["Mufasa The Lion King"]
 critics = ['Bharathi Pradhan']
 publication = ''
 subtitle = "Royalty Without A Roar"

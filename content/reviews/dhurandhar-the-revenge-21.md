@@ -2,7 +2,7 @@
 title = "Dhurandhar: The Revenge"
 date = 2026-03-29T23:24:04+05:30
 draft = false
-mreviews = ["Dhurandhar: The Revenge"]
+mreviews = ["Dhurandhar The Revenge"]
 critics = ['Rohan Naahar']
 publication = 'JoySauce.com'
 subtitle = "picks up where its predecessor left off"

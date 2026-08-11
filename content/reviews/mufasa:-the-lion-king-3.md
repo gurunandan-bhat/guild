@@ -2,7 +2,7 @@
 title = 'Mufasa: The Lion King'
 date = 2024-12-21T09:02:25+05:30
 draft = false
-mreviews = ['Mufasa: The Lion King']
+mreviews = ["Mufasa The Lion King"]
 critics = ['Sanyukta Thakare']
 publication = ''
 subtitle = "Shah Rukh Khan's Great But We Want Justice For Taka"

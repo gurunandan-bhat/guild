@@ -2,7 +2,7 @@
 title = "Dhurandhar: The Revenge"
 date = 2026-03-19T20:15:12+05:30
 draft = false
-mreviews = ["Dhurandhar: The Revenge"]
+mreviews = ["Dhurandhar The Revenge"]
 critics = ['Suhani Singh']
 publication = ''
 subtitle = "How Aditya Dhar ups the patriotic act, violence and politics in 'Dhurandhar 2'"

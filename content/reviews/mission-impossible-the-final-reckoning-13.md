@@ -2,7 +2,7 @@
 critics = ["Akhil Arora"]
 date = 2025-05-23T14:11:39+05:30
 draft = false
-mreviews = ["Mission: Impossible - The Final Reckoning"]
+mreviews = ["Mission Impossible The Final Reckoning"]
 scores = [6]
 subtitle = "A Spotify Review"
 title = "Mission: Impossible - The Final Reckoning"

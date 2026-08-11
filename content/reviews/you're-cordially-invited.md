@@ -2,7 +2,7 @@
 title = "You're Cordially Invited"
 date = 2025-02-02T23:02:59+05:30
 draft = false
-mreviews = ["You're Cordially Invited"]
+mreviews = ["You re Cordially Invited"]
 critics = ['Gopinath Rajendran']
 publication = ''
 subtitle = "Wedding woes"

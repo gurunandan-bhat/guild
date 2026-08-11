@@ -2,7 +2,7 @@
 title = "The Great Grand Superhero: Aliens Ka Aagaman"
 date = 2026-05-29T15:33:50+05:30
 draft = false
-mreviews = ["The Great Grand Superhero: Aliens Ka Aagaman"]
+mreviews = ["The Great Grand Superhero Aliens Ka Aagaman"]
 critics = ['Tusshar Sasi']
 publication = ''
 subtitle = "Jackie Shroff-starrer brims with comic-strip energy"

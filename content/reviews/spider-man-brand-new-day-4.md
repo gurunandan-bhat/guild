@@ -2,7 +2,7 @@
 title = "Spider-Man: Brand New Day"
 date = 2026-07-30T20:58:45+05:30
 draft = false
-mreviews = ["Spider-Man: Brand New Day"]
+mreviews = ["Spider Man Brand New Day"]
 critics = ['Shomini Sen']
 publication = ''
 subtitle = "A mature Peter Parker navigates heartbreak, loneliness and new evil"

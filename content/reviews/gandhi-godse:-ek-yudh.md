@@ -2,7 +2,7 @@
 title = "Gandhi Godse: Ek Yudh"
 date = 2025-01-31T08:43:27+05:30
 draft = false
-mreviews = ["Gandhi Godse: Ek Yudh"]
+mreviews = ["Gandhi Godse Ek Yudh"]
 critics = ['Anuj Kumar']
 publication = ''
 subtitle = "A timely dialogue on the idea of India "

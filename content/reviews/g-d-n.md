@@ -2,7 +2,7 @@
 title = "G. D. N."
 date = 2026-08-07T20:26:04+05:30
 draft = false
-mreviews = ["G. D. N."]
+mreviews = ["G D N"]
 critics = ['Janani K']
 publication = ''
 subtitle = "Madhavan's GD Naidu biopic is a glossy highlight reel minus heart"

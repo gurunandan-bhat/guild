@@ -2,7 +2,7 @@
 title = "Dhurandhar: The Revenge"
 date = 2026-03-19T20:09:01+05:30
 draft = false
-mreviews = ["Dhurandhar: The Revenge"]
+mreviews = ["Dhurandhar The Revenge"]
 critics = ['Deepak Dua']
 publication = 'Cineyatra.com'
 subtitle = "अब ज़ख्म देने आया ‘धुरंधर’ (2)"

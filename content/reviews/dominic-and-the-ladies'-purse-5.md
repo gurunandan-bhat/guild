@@ -2,7 +2,7 @@
 title = "Dominic and the Ladies' Purse"
 date = 2025-02-01T18:33:30+05:30
 draft = false
-mreviews = ["Dominic and the Ladies' Purse"]
+mreviews = ["Dominic and the Ladies Purse"]
 critics = ['Srivathsan Nadadhur']
 publication = 'All in a Frame'
 subtitle = ""

@@ -2,7 +2,7 @@
 title = "G. D. N."
 date = 2026-08-08T19:47:53+05:30
 draft = false
-mreviews = ["G. D. N."]
+mreviews = ["G D N"]
 critics = ['Prathyush Parasuraman']
 publication = ''
 subtitle = "Madhavan Stumbles In This Lightweight Drama of A Heavyweight Figure"

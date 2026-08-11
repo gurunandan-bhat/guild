@@ -2,7 +2,7 @@
 title = "Oh! Sukumari"
 date = 2026-07-18T14:23:20+05:30
 draft = false
-mreviews = ["Oh! Sukumari"]
+mreviews = ["Oh Sukumari"]
 critics = ['Sangeetha Devi Dundoo']
 publication = ''
 subtitle = "Thiruveer, Aishwarya Rajesh shine in this rural dramedy"

@@ -2,7 +2,7 @@
 title = "Max, Min & Meowzaki"
 date = 2026-07-25T12:28:25+05:30
 draft = false
-mreviews = ["Max, Min & Meowzaki"]
+mreviews = ["Max Min Meowzaki"]
 critics = ['Anupama Chopra']
 subtitle = "Adil's thoughtful performance and the film's insistent good intentions steer it."
 media = 'video'

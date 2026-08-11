@@ -2,7 +2,7 @@
 title = "Spider-Man: Brand New Day"
 date = 2026-07-30T20:56:55+05:30
 draft = false
-mreviews = ["Spider-Man: Brand New Day"]
+mreviews = ["Spider Man Brand New Day"]
 critics = ['Priyanka Roy']
 publication = ''
 subtitle = "Delivers action and emotion and is a thematic and stylistic step up for the much-loved superhero"

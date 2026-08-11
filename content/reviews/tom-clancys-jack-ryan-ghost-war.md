@@ -2,7 +2,7 @@
 title = "Tom Clancy's Jack Ryan: Ghost War"
 date = 2026-05-22T15:51:21+05:30
 draft = false
-mreviews = ["Tom Clancy's Jack Ryan: Ghost War"]
+mreviews = ["Tom Clancy s Jack Ryan Ghost War"]
 critics = ['Sonal Pandya']
 publication = ''
 subtitle = "John Krasinski Is Back As Everyman Hero In Thriller That Treads Familiar Beats"

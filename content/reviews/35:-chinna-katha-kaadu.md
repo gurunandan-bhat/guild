@@ -2,7 +2,7 @@
 title = '35: Chinna Katha Kaadu'
 date = 2024-12-25T11:30:30+05:30
 draft = false
-mreviews = ['35: Chinna Katha Kaadu']
+mreviews = ["35 Chinna Katha Kaadu"]
 critics = ['Sangeetha Devi Dundoo']
 publication = ''
 subtitle = "Nivetha Thomas and a bunch of children in an uplifting tale of triumph"

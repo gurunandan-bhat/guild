@@ -2,7 +2,7 @@
 title = "Spider-Man: Brand New Day"
 date = 2026-07-30T20:53:41+05:30
 draft = false
-mreviews = ["Spider-Man: Brand New Day"]
+mreviews = ["Spider Man Brand New Day"]
 critics = ['Rohan Naahar']
 publication = 'The Federal'
 subtitle = "Emotional drama among the best moments of this superhero film"

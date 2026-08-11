@@ -2,7 +2,7 @@
 title = "Dhurandhar: The Revenge"
 date = 2026-03-19T11:44:06+05:30
 draft = false
-mreviews = ["Dhurandhar: The Revenge"]
+mreviews = ["Dhurandhar The Revenge"]
 critics = ['Bharathi Pradhan']
 publication = ''
 subtitle = "The Payback Is Bold & Brutal"

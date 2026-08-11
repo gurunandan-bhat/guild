@@ -2,7 +2,7 @@
 title = "The Great Grand Superhero: Aliens Ka Aagaman"
 date = 2026-05-29T15:26:33+05:30
 draft = false
-mreviews = ["The Great Grand Superhero: Aliens Ka Aagaman"]
+mreviews = ["The Great Grand Superhero Aliens Ka Aagaman"]
 critics = ['Rahul Desai']
 publication = ''
 subtitle = "A Delightful Little Ode to the Culture of Storytelling"

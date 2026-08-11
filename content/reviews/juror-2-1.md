@@ -2,7 +2,7 @@
 title = 'Juror #2'
 date = 2024-12-23T14:51:20+05:30
 draft = false
-mreviews = ['Juror #2']
+mreviews = ["Juror 2"]
 critics = ['Priyanka Roy']
 publication = ''
 subtitle = "In the hands of Clint Eastwood, Juror #2 becomes much more than a regular courtroom drama."

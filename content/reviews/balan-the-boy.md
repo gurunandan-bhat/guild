@@ -2,7 +2,7 @@
 title = "Balan: The Boy"
 date = 2026-06-20T09:12:12+05:30
 draft = false
-mreviews = ["Balan: The Boy"]
+mreviews = ["Balan The Boy"]
 critics = ['Vishal Menon']
 publication = ''
 subtitle = "A Childhood that Never was"

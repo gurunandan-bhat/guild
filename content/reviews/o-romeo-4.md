@@ -2,7 +2,7 @@
 title = "O'Romeo"
 date = 2026-02-14T08:23:29+05:30
 draft = false
-mreviews = ["O'Romeo"]
+mreviews = ["O Romeo"]
 critics = ['Rahul Desai']
 publication = ''
 subtitle = "A Curiously Ineffective Vishal Bhardwaj Special"

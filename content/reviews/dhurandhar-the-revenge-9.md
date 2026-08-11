@@ -2,7 +2,7 @@
 title = "Dhurandhar: The Revenge"
 date = 2026-03-19T20:31:11+05:30
 draft = false
-mreviews = ["Dhurandhar: The Revenge"]
+mreviews = ["Dhurandhar The Revenge"]
 critics = ['Ishita Sengupta']
 publication = 'OTT Play'
 subtitle = "Aditya Dhar Dials Up The Rage…& Propaganda"

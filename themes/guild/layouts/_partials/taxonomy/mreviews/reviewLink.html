@@ -1,6 +1,5 @@
-{{/* {{ $revCount := site.Taxonomies.mreviews.Count . }} */}}
 {{ $intLinkIcon := index hugo.Data.svgicons.icons "internalLink" | safeHTML }}
-{{ $link := partial "taxonomy/term-url.html" (dict "taxonomy" "mreviews" "term" . "lookup" false) }}
+{{ $link := relLangURL (printf "/mreviews/%s/" (urlize .)) }}
 <p class="all-link mb-0">
     <a href="{{ $link }}"
         >All FCG reviews of

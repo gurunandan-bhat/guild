@@ -2,7 +2,7 @@
 title = "The Great Grand Superhero: Aliens Ka Aagaman"
 date = 2026-05-30T17:44:56+05:30
 draft = false
-mreviews = ["The Great Grand Superhero: Aliens Ka Aagaman"]
+mreviews = ["The Great Grand Superhero Aliens Ka Aagaman"]
 critics = ['Anuj Kumar']
 publication = ''
 subtitle = "Reclaiming childhood wonder"

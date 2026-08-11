@@ -2,7 +2,7 @@
 title = "The Devil's Mouth"
 date = 2026-07-31T23:03:00+05:30
 draft = false
-mreviews = ["The Devil's Mouth"]
+mreviews = ["The Devil s Mouth"]
 critics = ['Rohan Naahar']
 publication = 'The Federal'
 subtitle = "New Prime Video survival horror leaves you rooting for the shark"

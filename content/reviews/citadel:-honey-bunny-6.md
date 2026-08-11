@@ -2,7 +2,7 @@
 title = 'Citadel: Honey Bunny'
 date = 2024-11-10T12:37:12+05:30
 draft = false
-mreviews = ['Citadel: Honey Bunny']
+mreviews = ["Citadel Honey Bunny"]
 critics = ['Srivathsan Nadadhur']
 publication = 'M9 News'
 subtitle = "Raj-DK’s Average Action Thriller"

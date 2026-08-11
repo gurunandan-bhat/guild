@@ -2,7 +2,7 @@
 title = "Mother's Instinct"
 date = 2025-01-20T20:54:13+05:30
 draft = false
-mreviews = ["Mother's Instinct"]
+mreviews = ["Mother s Instinct"]
 critics = ['Priyanka Roy']
 publication = ''
 subtitle = "Though it unravels in the last act, Mother's Instinct is a pulpy, fairly gripping watch."

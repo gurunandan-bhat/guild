@@ -5,7 +5,7 @@
         {{ $map := dict }}
         {{ with index $value 0 }}
             {{- $mTag := index .Page.Params.mreviews 0 }}
-            {{ $mLink := partialCached "taxonomy/mreviews/raw-reviewLink.html"  $mTag $mTag}}
+            {{ $mLink := relLangURL (printf "/mreviews/%s/" (urlize $mTag)) }}
             {{ $imgLink := partial "backdrop.html" . }}
             {{ $title := .Page.LinkTitle }}
             {{ with .Page.Params.translatedTitle }}

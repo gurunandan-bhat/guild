@@ -2,7 +2,7 @@
 title = "Spider-Man: Brand New Day"
 date = 2026-07-31T19:14:14+05:30
 draft = false
-mreviews = ["Spider-Man: Brand New Day"]
+mreviews = ["Spider Man Brand New Day"]
 critics = ['Tatsam Mukherjee']
 publication = ''
 subtitle = "Locates a Young Person’s Anxiety Within the Franchise Bluster"

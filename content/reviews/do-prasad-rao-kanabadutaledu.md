@@ -2,7 +2,7 @@
 title = "D/O Prasad Rao Kanabadutaledu"
 date = 2026-02-27T08:17:36+05:30
 draft = false
-mreviews = ["D/O Prasad Rao Kanabadutaledu"]
+mreviews = ["D O Prasad Rao Kanabadutaledu"]
 critics = ['Srivathsan Nadadhur']
 publication = 'The Hindu'
 subtitle = "This vigilante thriller confuses pace with nuance"

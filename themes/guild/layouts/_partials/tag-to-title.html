@@ -1,0 +1,3 @@
+{{- $tag := . }}
+{{- $reviews := first 1 (where site.RegularPages ".Params.mreviews" "intersect" (slice $tag)) }}
+{{- return (index $reviews 0).Title }}

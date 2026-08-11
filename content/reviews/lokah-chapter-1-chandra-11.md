@@ -2,7 +2,7 @@
 critics = ["Akhil Arora"]
 date = 2025-11-10T09:45:36+05:30
 draft = false
-mreviews = ["Lokah Chapter 1: Chandra"]
+mreviews = ["Lokah Chapter 1 Chandra"]
 scores = [2]
 subtitle = "A Spotify Review"
 title = "Lokah Chapter 1: Chandra"

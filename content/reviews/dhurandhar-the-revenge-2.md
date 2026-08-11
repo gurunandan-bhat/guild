@@ -2,7 +2,7 @@
 title = "Dhurandhar: The Revenge"
 date = 2026-03-19T11:46:09+05:30
 draft = false
-mreviews = ["Dhurandhar: The Revenge"]
+mreviews = ["Dhurandhar The Revenge"]
 critics = ['Keyur Seta']
 publication = 'The Common Man Speaks'
 subtitle = "Worthy successor to the first film"

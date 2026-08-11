@@ -2,7 +2,7 @@
 title = "Made in India: A Titan Story"
 date = 2026-06-05T09:16:13+05:30
 draft = false
-mreviews = ["Made in India: A Titan Story"]
+mreviews = ["Made in India A Titan Story"]
 critics = ['Shubhra Gupta']
 publication = ''
 subtitle = "Jim Sarbh, Naseeruddin Shah front comfort watch about the making of a watch"

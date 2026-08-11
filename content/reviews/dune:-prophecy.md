@@ -2,7 +2,7 @@
 title = 'Dune: Prophecy'
 date = 2024-11-30T08:09:30+05:30
 draft = false
-mreviews = ['Dune: Prophecy']
+mreviews = ["Dune Prophecy"]
 critics = ['Sonal Pandya']
 publication = ''
 subtitle = "Emily Watson, Olivia Williams' Ambitious Prequel Sci-Fi Series On Control, Power Feels Familiar"

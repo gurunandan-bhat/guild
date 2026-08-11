@@ -2,7 +2,7 @@
 title = "Dhurandhar: The Revenge"
 date = 2026-03-20T00:59:48+05:30
 draft = false
-mreviews = ["Dhurandhar: The Revenge"]
+mreviews = ["Dhurandhar The Revenge"]
 critics = ['Tatsam Mukherjee']
 publication = ''
 subtitle = "A Masterstroke in Pandering to a Nation that Wants to be Misled"

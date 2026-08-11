@@ -2,7 +2,7 @@
 title = 'Self-Portrait as a Coffee Pot'
 date = 2024-11-17T11:21:42+05:30
 draft = false
-mreviews = ['Self-Portrait as a Coffee Pot']
+mreviews = ["Self Portrait as a Coffee Pot"]
 critics = ['Uday Bhatia']
 publication = ''
 subtitle = "Chaos and creation in the studio"

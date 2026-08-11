@@ -2,7 +2,7 @@
 title = "Made in India: A Titan Story"
 date = 2026-06-10T08:21:47+05:30
 draft = false
-mreviews = ["Made in India: A Titan Story"]
+mreviews = ["Made in India A Titan Story"]
 critics = ['Tatsam Mukherjee']
 publication = ''
 subtitle = "Harks Back to a More Idealistic Time in the Country"

@@ -2,7 +2,7 @@
 title = "Dhurandhar: The Revenge"
 date = 2026-03-19T20:20:44+05:30
 draft = false
-mreviews = ["Dhurandhar: The Revenge"]
+mreviews = ["Dhurandhar The Revenge"]
 critics = ['Shubhra Gupta']
 publication = ''
 subtitle = "Ranveer Singh’s 4-hour marathon lacks the ‘mazaa’ of the original despite blood and bazookas"

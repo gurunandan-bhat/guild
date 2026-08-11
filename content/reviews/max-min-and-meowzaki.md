@@ -2,7 +2,7 @@
 title = "Max, Min & Meowzaki"
 date = 2026-07-24T20:41:46+05:30
 draft = false
-mreviews = ["Max, Min & Meowzaki"]
+mreviews = ["Max Min Meowzaki"]
 critics = ['Rahul Desai']
 publication = ''
 subtitle = "Derivative Lives In A Metro"

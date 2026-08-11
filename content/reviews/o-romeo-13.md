@@ -2,7 +2,7 @@
 title = "O'Romeo"
 date = 2026-02-17T19:18:40+05:30
 draft = false
-mreviews = ["O'Romeo"]
+mreviews = ["O Romeo"]
 critics = ['Ishita Sengupta']
 publication = 'OTT Play'
 subtitle = "Vishal Bhardwaj’s Bloody Tale Of Love Has No Heart"

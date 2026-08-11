@@ -2,7 +2,7 @@
 title = "Dominic and the Ladies' Purse"
 date = 2025-01-24T13:04:56+05:30
 draft = false
-mreviews = ["Dominic and the Ladies' Purse"]
+mreviews = ["Dominic and the Ladies Purse"]
 critics = ['S. R. Praveen']
 publication = ''
 subtitle = "Needless flab turns Gautham Menon-Mammootty film into average fare"

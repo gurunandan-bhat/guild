@@ -2,7 +2,7 @@
 title = "Search: The Naina Murder Case"
 date = 2025-10-10T23:40:20+05:30
 draft = false
-mreviews = ["Search: The Naina Murder Case"]
+mreviews = ["Search The Naina Murder Case"]
 critics = ['Ishita Sengupta']
 publication = 'OTT Play'
 subtitle = "As Incurious As They Come"

@@ -2,7 +2,7 @@
 title = "Krishnavatar Part 1: Hridayam"
 date = 2026-05-11T20:42:31+05:30
 draft = false
-mreviews = ["Krishnavatar Part 1: Hridayam"]
+mreviews = ["Krishnavatar Part 1 Hridayam"]
 critics = ['Deepak Dua']
 publication = 'Cineyatra.com'
 subtitle = "प्रेम-रस से सराबोर ‘कृष्णावतारम’"

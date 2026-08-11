@@ -2,7 +2,7 @@
 title = "Spider-Man: Brand New Day"
 date = 2026-07-30T23:05:50+05:30
 draft = false
-mreviews = ["Spider-Man: Brand New Day"]
+mreviews = ["Spider Man Brand New Day"]
 critics = ['Anupama Chopra']
 publication = ''
 subtitle = "Tom Holland’s Most Emotional, Grounded MCU Adventure Yet"

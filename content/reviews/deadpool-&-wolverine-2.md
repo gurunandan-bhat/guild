@@ -2,7 +2,7 @@
 critics = ["Akhil Arora"]
 date = 2024-11-17T16:16:22+05:30
 draft = false
-mreviews = ["Deadpool & Wolverine"]
+mreviews = ["Deadpool Wolverine"]
 scores = [6]
 subtitle = "A Spotify Review"
 title = "Deadpool & Wolverine"

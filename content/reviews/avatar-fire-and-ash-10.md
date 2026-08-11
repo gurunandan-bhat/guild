@@ -2,7 +2,7 @@
 critics = ["Akhil Arora", "Rohan Naahar"]
 date = 2025-12-23T18:27:54+05:30
 draft = false
-mreviews = ["Avatar: Fire and Ash"]
+mreviews = ["Avatar Fire and Ash"]
 scores = [5, 6]
 subtitle = "A Spotify Review"
 title = "Avatar: Fire and Ash"

@@ -2,7 +2,7 @@
 title = 'Apocalypse Z - The Beginning of the End'
 date = 2024-11-06T13:12:30+05:30
 draft = false
-mreviews = ['Apocalypse Z - The Beginning of the End']
+mreviews = ["Apocalypse Z The Beginning of the End"]
 critics = ['Rohan Naahar']
 publication = ''
 subtitle = "The Beginning of the End movie review: Prime Video’s unoriginal zombie thriller compels you to zone out"

@@ -2,7 +2,7 @@
 title = "Taskaree: The Smuggler's Web"
 date = 2026-01-17T02:03:07+05:30
 draft = false
-mreviews = ["Taskaree: The Smuggler's Web"]
+mreviews = ["Taskaree The Smuggler s Web"]
 critics = ['Anuj Kumar']
 publication = ''
 subtitle = "A Neeraj Pandey special that rewards patience"

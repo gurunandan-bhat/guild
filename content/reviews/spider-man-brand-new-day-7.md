@@ -2,7 +2,7 @@
 title = "Spider-Man: Brand New Day"
 date = 2026-07-31T14:34:18+05:30
 draft = false
-mreviews = ["Spider-Man: Brand New Day"]
+mreviews = ["Spider Man Brand New Day"]
 critics = ['Rohit Khilnani']
 publication = 'The Film World'
 subtitle = "Still an enjoyable watch because Spider-Man remains one of the most lovable superheroes ever created"

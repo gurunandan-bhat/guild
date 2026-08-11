@@ -2,7 +2,7 @@
 title = "Dhurandhar: The Revenge"
 date = 2026-03-22T12:48:15+05:30
 draft = false
-mreviews = ["Dhurandhar: The Revenge"]
+mreviews = ["Dhurandhar The Revenge"]
 critics = ['Priyanka Roy']
 publication = ''
 subtitle = "In the testosterone-dominated world of Dhurandhar: The Revenge, women are voiceless, violated or completely absent"

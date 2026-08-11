@@ -2,7 +2,7 @@
 title = "Dhurandhar: The Revenge"
 date = 2026-03-21T10:53:36+05:30
 draft = false
-mreviews = ["Dhurandhar: The Revenge"]
+mreviews = ["Dhurandhar The Revenge"]
 critics = ['Arnab Banerjee']
 publication = 'The Daily Eye'
 subtitle = "SPECTACLE VERSUS SUBSTANCE: A Thunderous Saga That Echoes More Than It Resonates"

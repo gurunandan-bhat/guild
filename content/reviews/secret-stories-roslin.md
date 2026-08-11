@@ -2,7 +2,7 @@
 title = "Secret Stories: Roslin"
 date = 2026-02-28T07:33:53+05:30
 draft = false
-mreviews = ["Secret Stories: Roslin"]
+mreviews = ["Secret Stories Roslin"]
 critics = ['Srivathsan Nadadhur']
 publication = 'M9 News'
 subtitle = "Snail-Paced Thriller With a Solid Climax"

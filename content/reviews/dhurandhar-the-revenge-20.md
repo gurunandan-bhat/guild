@@ -2,7 +2,7 @@
 title = "Dhurandhar: The Revenge"
 date = 2026-03-24T18:02:09+05:30
 draft = false
-mreviews = ["Dhurandhar: The Revenge"]
+mreviews = ["Dhurandhar The Revenge"]
 critics = ['Akhil Arora', 'Rohan Naahar']
 subtitle = "A Spotify Review"
 scores = [1]

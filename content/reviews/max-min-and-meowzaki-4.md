@@ -2,7 +2,7 @@
 title = "Max, Min & Meowzaki"
 date = 2026-07-25T12:35:56+05:30
 draft = false
-mreviews = ["Max, Min & Meowzaki"]
+mreviews = ["Max Min Meowzaki"]
 critics = ['Shubhra Gupta']
 publication = ''
 subtitle = "Adil Hussain holds warm dramedy together"

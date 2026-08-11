@@ -2,7 +2,7 @@
 title = "Krishnavatar Part 1: Hridayam"
 date = 2026-05-07T19:52:50+05:30
 draft = false
-mreviews = ["Krishnavatar Part 1: Hridayam"]
+mreviews = ["Krishnavatar Part 1 Hridayam"]
 critics = ['Bharathi Pradhan']
 publication = ''
 subtitle = "Krishna Consciousness Awakened"

@@ -2,7 +2,7 @@
 title = "Made in India: A Titan Story"
 date = 2026-06-03T21:10:50+05:30
 draft = false
-mreviews = ["Made in India: A Titan Story"]
+mreviews = ["Made in India A Titan Story"]
 critics = ['Sukanya Verma']
 publication = ''
 subtitle = "A Feel-Good Docudrama"

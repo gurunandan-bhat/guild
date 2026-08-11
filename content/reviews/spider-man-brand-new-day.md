@@ -2,7 +2,7 @@
 title = "Spider-Man: Brand New Day"
 date = 2026-07-30T15:07:02+05:30
 draft = false
-mreviews = ["Spider-Man: Brand New Day"]
+mreviews = ["Spider Man Brand New Day"]
 critics = ['Renuka Vyavahare']
 publication = ''
 subtitle = "Tom Holland's Evolution Drives Spider-Man's Most Introspective Chapter Yet"

@@ -2,7 +2,7 @@
 title = "Stranger Things: Tales From '85"
 date = 2026-04-27T12:57:47+05:30
 draft = false
-mreviews = ["Stranger Things: Tales From '85"]
+mreviews = ["Stranger Things Tales From 85"]
 critics = ['Sonal Pandya']
 publication = ''
 subtitle = "Animated Spinoff Returns To Hawkins For Familiar Standalone Adventure"

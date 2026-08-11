@@ -2,7 +2,7 @@
 title = 'Citadel: Honey Bunny'
 date = 2024-11-18T00:40:24+05:30
 draft = false
-mreviews = ['Citadel: Honey Bunny']
+mreviews = ["Citadel Honey Bunny"]
 critics = ['Sonal Pandya']
 publication = ''
 subtitle = "Varun Dhawan, Samantha's Prequel Spy Saga Packs A Solid Punch"

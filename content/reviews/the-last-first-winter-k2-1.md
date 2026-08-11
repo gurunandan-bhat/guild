@@ -2,7 +2,7 @@
 title = "The Last First: Winter K2"
 date = 2026-01-27T14:40:18+05:30
 draft = false
-mreviews = ["The Last First: Winter K2"]
+mreviews = ["The Last First Winter K2"]
 critics = ['Tatsam Mukherjee']
 publication = ''
 subtitle = "Widens the Emotional and Ethical Frame of the Mountaineering Documentary"

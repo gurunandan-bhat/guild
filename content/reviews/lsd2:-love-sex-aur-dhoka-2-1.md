@@ -2,7 +2,7 @@
 critics = ["Akhil Arora"]
 date = 2024-06-16T11:06:01+05:30
 draft = false
-mreviews = ["LSD2: Love, Sex Aur Dhoka 2"]
+mreviews = ["LSD2 Love Sex Aur Dhoka 2"]
 scores = [2]
 subtitle = "A Spotify Review"
 title = "LSD2: Love, Sex Aur Dhoka 2"

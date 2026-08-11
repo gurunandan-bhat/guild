@@ -2,7 +2,7 @@
 title = "Dhurandhar: The Revenge"
 date = 2026-03-20T09:44:08+05:30
 draft = false
-mreviews = ["Dhurandhar: The Revenge"]
+mreviews = ["Dhurandhar The Revenge"]
 critics = ['Sachin Chatte']
 publication = ''
 subtitle = "50 Ways to Kill your Enemy... and Patience"

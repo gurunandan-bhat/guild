@@ -2,7 +2,7 @@
 title = 'Alien: Romulus'
 date = 2024-12-08T21:48:43+05:30
 draft = false
-mreviews = ['Alien: Romulus']
+mreviews = ["Alien Romulus"]
 critics = ['Sachin Chatte']
 publication = ''
 subtitle = "Back to the Basics"

@@ -2,7 +2,7 @@
 title = 'Citadel: Honey Bunny'
 date = 2024-11-07T11:27:10+05:30
 draft = false
-mreviews = ['Citadel: Honey Bunny']
+mreviews = ["Citadel Honey Bunny"]
 critics = ['Priyanka Roy']
 publication = ''
 subtitle = "Citadel: Honey Bunny - Fails to soar."

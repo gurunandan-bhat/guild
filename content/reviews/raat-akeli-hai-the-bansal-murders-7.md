@@ -2,7 +2,7 @@
 critics = ["Rohan Naahar", "Akhil Arora"]
 date = 2025-12-26T18:08:13+05:30
 draft = false
-mreviews = ["Raat Akeli Hai: The Bansal Murders"]
+mreviews = ["Raat Akeli Hai The Bansal Murders"]
 scores = [8, 4]
 subtitle = "A Spotify Review"
 title = "Raat Akeli Hai: The Bansal Murders"

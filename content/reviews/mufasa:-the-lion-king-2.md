@@ -2,7 +2,7 @@
 title = 'Mufasa: The Lion King'
 date = 2024-12-20T12:50:45+05:30
 draft = false
-mreviews = ['Mufasa: The Lion King']
+mreviews = ["Mufasa The Lion King"]
 critics = ['Priyanka Roy']
 publication = ''
 subtitle = "Has its moods and moments but lacks spirit and soul."

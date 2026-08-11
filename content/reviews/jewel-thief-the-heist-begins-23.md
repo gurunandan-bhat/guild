@@ -2,7 +2,7 @@
 critics = ["Akhil Arora"]
 date = 2025-04-29T14:05:05+05:30
 draft = false
-mreviews = ["Jewel Thief - The Heist Begins"]
+mreviews = ["Jewel Thief The Heist Begins"]
 scores = [2]
 subtitle = "A Spotify Review"
 title = "Jewel Thief - The Heist Begins"

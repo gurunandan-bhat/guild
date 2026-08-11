@@ -2,7 +2,7 @@
 title = "Made in India: A Titan Story"
 date = 2026-06-05T09:18:46+05:30
 draft = false
-mreviews = ["Made in India: A Titan Story"]
+mreviews = ["Made in India A Titan Story"]
 critics = ['Rahul Desai']
 publication = ''
 subtitle = "Jim Sarbh, Naseeruddin Shah Drama Well Worth A Watch"

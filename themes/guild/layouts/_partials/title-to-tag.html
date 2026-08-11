@@ -1,0 +1,62 @@
+{{- /*
+  title-to-tag.html — convert an article title into a canonical taxonomy tag.
+
+  Mirrors package tagname (tagname/tagname.go). The two fold tables below are
+  generated from that package's tables by TestGeneratePartialTables, so
+  regenerate them rather than editing by hand if you extend the coverage.
+
+  A canonical tag contains only ASCII alphanumerics separated by single spaces,
+  with no leading or trailing space, and keeps the original letter case:
+
+      "Q&A: What's Next?"  ->  "Q A What s Next"
+      "Naïve Café"         ->  "Naive Cafe"
+
+  Hugo then publishes it at lower(tag with spaces -> hyphens), which is also
+  exactly what `urlize` returns for it.
+
+  Steps:
+    1. Strip Unicode combining marks (\p{Mn}), so NFD input — what macOS
+       filesystems hand you — folds the same way as precomposed NFC input.
+    2. Fold Latin letters to ASCII. Multi-letter cases (Æ, ß, Þ, Œ, Ĳ) first,
+       then the single-letter table. The two sets are disjoint, so order
+       between them is not load-bearing.
+    3. Collapse every run of non-alphanumerics into one space.
+    4. Trim.
+
+  The fold loop is skipped entirely for pure-ASCII titles, which is the common
+  case, so the 180 `replace` calls almost never run.
+
+  ARGUMENT: the title, as a string.
+  RETURNS:  the tag, or "" if nothing folded to an ASCII alphanumeric (e.g. a
+            title in a non-Latin script). Callers should handle "".
+
+  Usage in an archetype (archetypes/reviews.md):
+
+      {{- $title := replace .File.ContentBaseName "-" " " | title -}}
+      ---
+      title: "{{ $title }}"
+      date: {{ .Date }}
+      tags: ["{{ partial "taxonomy/title-to-tag.html" $title }}"]
+      ---
+*/ -}}
+
+{{- $s := . | default "" -}}
+
+{{- if findRE `[^ -~]` $s 1 -}}
+  {{- $s = replaceRE `\p{Mn}` "" $s -}}
+
+  {{- $multi := dict "Æ" "AE" "Þ" "TH" "ß" "ss" "æ" "ae" "þ" "th" "Ĳ" "IJ" "ĳ" "ij" "Œ" "OE" "œ" "oe" -}}
+  {{- range $k, $v := $multi -}}
+    {{- $s = replace $s $k $v -}}
+  {{- end -}}
+
+  {{- $from := split "ÀÁÂÃÄÅĀĂĄàáâãäåāăąÇĆĈĊČçćĉċčÐĎĐðďđÈÉÊËĒĔĖĘĚèéêëēĕėęěĜĞĠĢĝğġģĤĦĥħÌÍÎÏĨĪĬĮİìíîïĩīĭįıĴĵĶķĸĹĻĽĿŁĺļľŀłÑŃŅŇŊñńņňŉŋÒÓÔÕÖØŌŎŐòóôõöøōŏőŔŖŘŕŗřŚŜŞŠśŝşšŢŤŦţťŧÙÚÛÜŨŪŬŮŰŲùúûüũūŭůűųŴŵÝŸŶýÿŷŹŻŽźżž" "" -}}
+  {{- $to := split "AAAAAAAAAaaaaaaaaaCCCCCcccccDDDdddEEEEEEEEEeeeeeeeeeGGGGggggHHhhIIIIIIIIIiiiiiiiiiJjKkkLLLLLlllllNNNNNnnnnnnOOOOOOOOOoooooooooRRRrrrSSSSssssTTTtttUUUUUUUUUUuuuuuuuuuuWwYYYyyyZZZzzz" "" -}}
+  {{- range $i, $c := $from -}}
+    {{- $s = replace $s $c (index $to $i) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $s = replaceRE `[^A-Za-z0-9]+` " " $s -}}
+
+{{- return trim $s " " -}}

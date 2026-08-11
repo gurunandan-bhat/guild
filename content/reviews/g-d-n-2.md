@@ -2,7 +2,7 @@
 title = "G. D. N."
 date = 2026-08-08T18:21:29+05:30
 draft = false
-mreviews = ["G. D. N."]
+mreviews = ["G D N"]
 critics = ['Srivathsan Nadadhur']
 publication = 'The Hindu'
 subtitle = "Madhavan powers an important story that deserved more room to breathe"

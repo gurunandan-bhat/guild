@@ -2,7 +2,7 @@
 title = "I, Nobody"
 date = 2026-07-09T19:28:42+05:30
 draft = false
-mreviews = ["I, Nobody"]
+mreviews = ["I Nobody"]
 critics = ['Prathyush Parasuraman']
 publication = ''
 subtitle = "Prithviraj Stuck In A Squandered Premise"

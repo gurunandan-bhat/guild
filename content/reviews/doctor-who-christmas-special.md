@@ -2,7 +2,7 @@
 title = "Doctor Who: Joy to the World"
 date = 2024-12-26T01:18:22+05:30
 draft = false
-mreviews = ["Doctor Who: Joy to the World"]
+mreviews = ["Doctor Who Joy to the World"]
 critics = ['Sonal Pandya']
 publication = ''
 subtitle = "Ncuti Gatwa, Nicola Coughlan Make Dashing Team To Save Humanity During Holidays"

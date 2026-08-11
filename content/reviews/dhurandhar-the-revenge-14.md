@@ -2,7 +2,7 @@
 title = "Dhurandhar: The Revenge"
 date = 2026-03-20T18:25:45+05:30
 draft = false
-mreviews = ["Dhurandhar: The Revenge"]
+mreviews = ["Dhurandhar The Revenge"]
 critics = ['Suchin Mehrotra']
 publication = 'The Quint'
 subtitle = "A Ranveer Singh Show All the Way"

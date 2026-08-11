@@ -2,7 +2,7 @@
 title = "The Great Grand Superhero: Aliens Ka Aagaman"
 date = 2026-05-29T15:22:09+05:30
 draft = false
-mreviews = ["The Great Grand Superhero: Aliens Ka Aagaman"]
+mreviews = ["The Great Grand Superhero Aliens Ka Aagaman"]
 critics = ['Deepak Dua']
 publication = 'Cineyatra.com'
 subtitle = "एलियन्स का इंतजार करता ‘द ग्रेट ग्रैंड सुपर हीरो’"

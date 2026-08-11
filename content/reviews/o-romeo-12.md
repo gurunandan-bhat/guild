@@ -2,7 +2,7 @@
 title = "O'Romeo"
 date = 2026-02-15T14:51:45+05:30
 draft = false
-mreviews = ["O'Romeo"]
+mreviews = ["O Romeo"]
 critics = ['Tusshar Sasi']
 publication = ''
 subtitle = "A potboiler sans passion and payoff"

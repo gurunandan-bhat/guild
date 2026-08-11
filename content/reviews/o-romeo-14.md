@@ -2,7 +2,7 @@
 title = "O'Romeo"
 date = 2026-02-13T10:37:21+05:30
 draft = false
-mreviews = ["O'Romeo"]
+mreviews = ["O Romeo"]
 critics = ['Uday Bhatia']
 publication = ''
 subtitle = "Violent love story sees Vishal Bhardwaj in mad scientist mode"

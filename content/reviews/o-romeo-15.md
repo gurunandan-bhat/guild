@@ -2,7 +2,7 @@
 title = "O'Romeo"
 date = 2026-02-14T09:30:18+05:30
 draft = false
-mreviews = ["O'Romeo"]
+mreviews = ["O Romeo"]
 critics = ['Anupama Chopra']
 subtitle = "Derails halfway through and never finds its way back"
 media = 'video'

@@ -2,7 +2,7 @@
 title = "Krishnavatar Part 1: Hridayam"
 date = 2026-05-13T09:29:16+05:30
 draft = false
-mreviews = ["Krishnavatar Part 1: Hridayam"]
+mreviews = ["Krishnavatar Part 1 Hridayam"]
 critics = ['Keyur Seta']
 publication = 'The Common Man Speaks'
 subtitle = "Divine spiritual entertainer"

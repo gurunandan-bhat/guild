@@ -2,7 +2,7 @@
 title = "Secret Stories: Roslin"
 date = 2026-03-03T22:48:35+05:30
 draft = false
-mreviews = ["Secret Stories: Roslin"]
+mreviews = ["Secret Stories Roslin"]
 critics = ['Vishal Menon']
 publication = ''
 subtitle = "A Clever Refresh On The Unwanted Visitor Trope"

@@ -2,7 +2,7 @@
 title = "Mr. X"
 date = 2026-04-17T17:09:00+05:30
 draft = false
-mreviews = ["Mr. X"]
+mreviews = ["Mr X"]
 critics = ['Avinash Ramachandran']
 publication = ''
 subtitle = "A campy, confident, but chaotic espionage thriller"
