@@ -1,7 +1,7 @@
 +++
 critics = ["Janani K"]
 date = 2025-09-12T18:33:53+05:30
-draft = true
+draft = false
 img = "blackmail.webp"
 media = "print"
 mreviews = ["Blackmail"]

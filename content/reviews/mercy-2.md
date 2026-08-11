@@ -1,5 +1,5 @@
 +++
-title = "Mercy "
+title = "Mercy"
 date = 2026-04-24T13:30:42+05:30
 draft = true
 mreviews = ["Mercy"]
