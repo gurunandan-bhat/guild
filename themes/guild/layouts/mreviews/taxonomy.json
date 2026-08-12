@@ -4,7 +4,7 @@
 	{{- $pageMap := (jsonify .) | transform.Unmarshal }}
 	{{- $reviewTitle := partialCached "tag-to-title.html" .LinkTitle .LinkTitle }}
 	{{- $score := partialCached "fcg-rating-raw.html" .LinkTitle .LinkTitle  }}
-	{{- $posterLink := partial "poster-link.html" $reviewTitle }}
+	{{- $posterLink := partialCached "poster-link.html" $reviewTitle $reviewTitle }}
 	{{- $pageMap = merge $pageMap (dict "AverageScore" (div $score 10.0) "URLPath" (urlize .Path)) }}
 	{{- with $posterLink }}
 		{{- $pageMap = merge $pageMap (dict "LocalPosterPath" .) }}
