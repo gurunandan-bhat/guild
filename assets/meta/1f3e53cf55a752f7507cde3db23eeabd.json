@@ -1,0 +1,355 @@
+{
+	"id": 1258181,
+	"title": "A Woman's Life",
+	"fcg_title": "A Woman's Life",
+	"original_title": "La vie d'une femme",
+	"original_language": "fr",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 35,
+			"name": "Comedy"
+		}
+	],
+	"overview": "Gabrielle, a dedicated surgeon and head of a hospital department, is stretched thin by the weight of responsibility. There is little time left for her private life: a loving husband and a mother who depends on her care. Yet this is the life she wanted, the life she chose. When a novelist comes to observe her at work for a book, her balance begins to shift.",
+	"backdrop_path": "/5wpgAfHPn5tQyMh9p7WDf62604J.jpg",
+	"poster_path": "/a57hFw1XW0VpnEgc0A9ENmbmEE7.jpg",
+	"release_date": "2026-09-09",
+	"credits": {
+		"cast": [
+			{
+				"id": 19360,
+				"order": 0,
+				"name": "Léa Drucker",
+				"profile_path": "/pWHeXliKhtNw0ATyaXisrXUSCHo.jpg",
+				"character": "Gabrielle",
+				"gender": 1
+			},
+			{
+				"id": 59373,
+				"order": 1,
+				"name": "Mélanie Thierry",
+				"profile_path": "/bNXGy4D6PpDthKjjrzxwTbcHIeT.jpg",
+				"character": "Frida",
+				"gender": 1
+			},
+			{
+				"id": 48576,
+				"order": 2,
+				"name": "Charles Berling",
+				"profile_path": "/2xPeQoFms6hn8fi5wQx3CEjL70Z.jpg",
+				"character": "Henri",
+				"gender": 2
+			},
+			{
+				"id": 228719,
+				"order": 3,
+				"name": "Laurent Capelluto",
+				"profile_path": "/4QzdHAvXJs7TJzjnG2WgzAArld1.jpg",
+				"character": "Kamyar",
+				"gender": 2
+			},
+			{
+				"id": 24393,
+				"order": 4,
+				"name": "Marie-Christine Barrault",
+				"profile_path": "/sVJxEzQupuhk1n2g4HpisKGXSSY.jpg",
+				"character": "Arlette",
+				"gender": 1
+			},
+			{
+				"id": 2370961,
+				"order": 5,
+				"name": "Yumi Narita",
+				"profile_path": "/yYF6AMt616nvGrFiNT3ErkPYEUj.jpg",
+				"character": "Setsuko",
+				"gender": 1
+			},
+			{
+				"id": 2463404,
+				"order": 6,
+				"name": "Suzanne de Baecque",
+				"profile_path": "/cpXmkeor7kgA2bCn6Yhw5DJ0qew.jpg",
+				"gender": 1
+			},
+			{
+				"id": 1112540,
+				"order": 7,
+				"name": "Erri De Luca",
+				"profile_path": "/vktUQ5jmf9Z0dyAXNf3ihWkxOwc.jpg",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1784936,
+				"name": "Charline Bourgeois-Tacquet",
+				"profile_path": "/qimB6IHfhAZdI1cGGODyWPIjIck.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 1784936,
+				"name": "Charline Bourgeois-Tacquet",
+				"profile_path": "/qimB6IHfhAZdI1cGGODyWPIjIck.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 1619058,
+				"name": "Noé Bach",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1567374,
+				"name": "Tatjana Kozar",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 969004,
+				"name": "Jacques-Henri Bronckart",
+				"profile_path": "/qCxqKIVN2OEOfq044rkKIR2F9yh.jpg",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1001671,
+				"name": "Philippe Martin",
+				"profile_path": "/fT9EPKCe0aK0ouZSJmZxT2hf2JH.jpg",
+				"job": "Associate Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1934699,
+				"name": "Clément Pinteaux",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1681515,
+				"name": "Fanny Burdino",
+				"profile_path": "/4bFJKbHhx5KmBiLvjSLGASc2UuG.jpg",
+				"job": "Co-Writer",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 1001672,
+				"name": "David Thion",
+				"profile_path": "/zNkVJbqbecKC0G9ytdviGgAqLI4.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1650259,
+				"name": "Philippe Logie",
+				"profile_path": "/8UmWy9KYlCRnmJ6ExNajmXxmOpJ.jpg",
+				"job": "Associate Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1367029,
+				"name": "Youna De Peretti",
+				"profile_path": "/vWT6sjz4XVXd4JRub86nJH11CbQ.jpg",
+				"job": "Casting Director",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1890250,
+				"name": "Joran Muratori",
+				"job": "Key Hair Stylist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 4188616,
+				"name": "Carole Théodoly",
+				"job": "Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 4089919,
+				"name": "Clotilde Martin",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 1551408,
+				"name": "Lucas Loubaresse",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 3499641,
+				"name": "Clothilde Metral",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5304093,
+				"name": "Clément Danion",
+				"job": "Foley Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 2517564,
+				"name": "Corinne Dubien",
+				"job": "Dialogue Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 3834375,
+				"name": "Timon Krzewski",
+				"job": "ADR Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 1555268,
+				"name": "Valérie Le Docte",
+				"job": "Sound Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 3048517,
+				"name": "Alexis Oscari",
+				"job": "Foley Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5608694,
+				"name": "Valentin Scagliarino",
+				"job": "Sound Assistant",
+				"department": "Sound"
+			},
+			{
+				"id": 1995306,
+				"name": "Luc Thomas",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 76268,
+				"name": "Olivier Thys",
+				"job": "Foley Artist",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 4430207,
+				"name": "Vincent Azais",
+				"job": "Grip",
+				"department": "Camera"
+			},
+			{
+				"id": 4733872,
+				"name": "Emmanuel Brügger",
+				"job": "Electrician",
+				"department": "Lighting"
+			},
+			{
+				"id": 3756821,
+				"name": "Guillaume Colbeau-Justin",
+				"job": "Key Grip",
+				"department": "Camera"
+			},
+			{
+				"id": 5167271,
+				"name": "Samuel Demoly",
+				"job": "Third Assistant Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 3962268,
+				"name": "Anaïs Lesage",
+				"job": "Second Assistant Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 2837043,
+				"name": "Céleste Ougier",
+				"job": "Focus Puller",
+				"department": "Camera"
+			},
+			{
+				"id": 6130451,
+				"name": "Victor Philippe",
+				"job": "Grip",
+				"department": "Camera"
+			},
+			{
+				"id": 1792049,
+				"name": "Guillaume Quilichini",
+				"job": "Steadicam Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1631862,
+				"name": "Olivier Regent",
+				"job": "Gaffer",
+				"department": "Lighting"
+			},
+			{
+				"id": 6066425,
+				"name": "Kieran Trinel",
+				"job": "Lighting Technician",
+				"department": "Lighting"
+			},
+			{
+				"id": 3745989,
+				"name": "Anna Mezencev",
+				"job": "Casting Assistant",
+				"department": "Production"
+			},
+			{
+				"id": 1793907,
+				"name": "Thibault Deboaisne",
+				"profile_path": "/332AtB6rcYnBzK0AFfAlpQbl6RG.jpg",
+				"job": "Music Supervisor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1539407,
+				"name": "Anaïs Sergeant",
+				"job": "Script Supervisor",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 2607290,
+				"name": "Arthur Paux",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 3831840,
+				"name": "Sophie Carion",
+				"job": "Assistant Production Manager",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 6130453,
+				"name": "Leslie Malige",
+				"job": "Accountant",
+				"department": "Production"
+			}
+		]
+	}
+}

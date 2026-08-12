@@ -1,0 +1,76 @@
+{
+	"id": 284794,
+	"title": "Oops Ab Kya",
+	"name": "Oops Ab Kya",
+	"fcg_title": "Oops! Ab Kya",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 9648,
+			"name": "Mystery"
+		}
+	],
+	"overview": "An accident during a medical check-up changes Roohi's life completely, she must face whatever fate has in store for her.",
+	"backdrop_path": "/4rbkBYdWSSpllTqszmNfL4OyAP.jpg",
+	"poster_path": "/unIYYEMkQMa1hVdDoyfwybRfIPl.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 101856,
+				"order": 0,
+				"name": "Shweta Basu Prasad",
+				"profile_path": "/rkYoflrUJ5Y0EAGg3W2vH0D86x8.jpg",
+				"character": "Roohi",
+				"gender": 1
+			},
+			{
+				"id": 4339182,
+				"order": 1,
+				"name": "Vanshika Taparia",
+				"character": "Roohi 16"
+			},
+			{
+				"id": 86086,
+				"order": 2,
+				"name": "Javed Jaffrey",
+				"profile_path": "/5JvPPxLsDEUFy6qDVawM3Itl6NV.jpg",
+				"gender": 2
+			},
+			{
+				"id": 78920,
+				"order": 3,
+				"name": "Sonali Kulkarni",
+				"profile_path": "/aQeM6N2JgGFbI5VoltWhkxw6OQC.jpg",
+				"gender": 1
+			},
+			{
+				"id": 1485520,
+				"order": 4,
+				"name": "Abhay Mahajan",
+				"profile_path": "/hEFEUch95BZMvOS4M0Zipu2fz5J.jpg",
+				"gender": 2
+			},
+			{
+				"id": 2306258,
+				"order": 5,
+				"name": "Aashim Gulati",
+				"profile_path": "/oV9cuWPMf6muiLtjn6FFaYiS8Of.jpg",
+				"gender": 2
+			},
+			{
+				"id": 128735,
+				"order": 6,
+				"name": "Apara Mehta",
+				"gender": 1
+			}
+		]
+	}
+}

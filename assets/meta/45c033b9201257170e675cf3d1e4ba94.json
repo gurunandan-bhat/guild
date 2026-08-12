@@ -1,0 +1,725 @@
+{
+	"id": 1272149,
+	"title": "Bridget Jones: Mad About the Boy",
+	"fcg_title": "Bridget Jones: Mad About the Boy",
+	"original_title": "Bridget Jones: Mad About the Boy",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 10749,
+			"name": "Romance"
+		},
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Bridget Jones finally has some luck in her life; she has a great job as a screenwriter, her family and a new boyfriend; the fact that he's over twenty years her junior isn't the only thing causing problems.",
+	"backdrop_path": "/zwSDvbnN51JqU1ULzPnEc22DkqV.jpg",
+	"poster_path": "/taEVBdVSqYo9YeN3ycw2SosklZL.jpg",
+	"release_date": "2025-02-12",
+	"credits": {
+		"cast": [
+			{
+				"id": 9137,
+				"order": 0,
+				"name": "Renée Zellweger",
+				"profile_path": "/iNnPqkEF0hPWhmWpjyuLuUdbKN8.jpg",
+				"character": "Bridget Jones",
+				"gender": 1
+			},
+			{
+				"id": 5294,
+				"order": 1,
+				"name": "Chiwetel Ejiofor",
+				"profile_path": "/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg",
+				"character": "Scott Walliker",
+				"gender": 2
+			},
+			{
+				"id": 3477880,
+				"order": 2,
+				"name": "Leo Woodall",
+				"profile_path": "/bGRskiP5N2OBP1wcJRVhiYX241.jpg",
+				"character": "Roxby 'Roxster' McDuff",
+				"gender": 2
+			},
+			{
+				"id": 3291,
+				"order": 3,
+				"name": "Hugh Grant",
+				"profile_path": "/hsSfxSHzkKJ6ZKq1Ofngcp7aAnT.jpg",
+				"character": "Daniel Cleaver",
+				"gender": 2
+			},
+			{
+				"id": 388,
+				"order": 4,
+				"name": "Jim Broadbent",
+				"profile_path": "/s7lXYfrsJoGA4vKmyv61SPgABmR.jpg",
+				"character": "Colin Jones",
+				"gender": 2
+			},
+			{
+				"id": 9138,
+				"order": 5,
+				"name": "Gemma Jones",
+				"profile_path": "/qpvLa2bfCEbGI83RwDOyIThibQ6.jpg",
+				"character": "Pamela Jones",
+				"gender": 1
+			},
+			{
+				"id": 5472,
+				"order": 6,
+				"name": "Colin Firth",
+				"profile_path": "/4VBeYEUQbfhnivdkqInM36u5fda.jpg",
+				"character": "Mark Darcy",
+				"gender": 2
+			},
+			{
+				"id": 207384,
+				"order": 7,
+				"name": "Sarah Solemani",
+				"profile_path": "/xwzeUblCcYB9Aexs9ZqdDtZOnZb.jpg",
+				"character": "Miranda",
+				"gender": 1
+			},
+			{
+				"id": 174708,
+				"order": 8,
+				"name": "Josette Simon",
+				"profile_path": "/uLvLGR6a60To8AAlj0C5124d7Xu.jpg",
+				"character": "Talitha",
+				"gender": 1
+			},
+			{
+				"id": 2064124,
+				"order": 9,
+				"name": "Nico Parker",
+				"profile_path": "/bBoVCxTHAgaPvWn31jsx5UDNAzj.jpg",
+				"character": "Chloe",
+				"gender": 1
+			},
+			{
+				"id": 5245070,
+				"order": 10,
+				"name": "Mila Jankovic",
+				"character": "Mabel Darcy"
+			},
+			{
+				"id": 3479581,
+				"order": 11,
+				"name": "Casper Knopf",
+				"profile_path": "/qvOiahoYyjxRflZaCT6Jf6vpsbr.jpg",
+				"character": "Billy Darcy"
+			},
+			{
+				"id": 2044882,
+				"order": 12,
+				"name": "Leila Farzad",
+				"profile_path": "/cjB87g9aZOfmgKBvYhfNCJUM1Kn.jpg",
+				"character": "Nicolette",
+				"gender": 1
+			},
+			{
+				"id": 1834,
+				"order": 13,
+				"name": "Shirley Henderson",
+				"profile_path": "/dxVvLjGNKVMl5lDXXInJ7xWpCvl.jpg",
+				"character": "Jude",
+				"gender": 1
+			},
+			{
+				"id": 9145,
+				"order": 14,
+				"name": "James Callis",
+				"profile_path": "/dLmmQU5hA0J6Jxi20aS8kdN6k3o.jpg",
+				"character": "Tom",
+				"gender": 2
+			},
+			{
+				"id": 9144,
+				"order": 15,
+				"name": "Sally Phillips",
+				"profile_path": "/xLEMZhksdCEO8HUhQLNetkETLdr.jpg",
+				"character": "Shazzer",
+				"gender": 1
+			},
+			{
+				"id": 9139,
+				"order": 16,
+				"name": "Celia Imrie",
+				"profile_path": "/eEtVfESOVnkkdPLYkyQpalEwAwj.jpg",
+				"character": "Una Alconbury",
+				"gender": 1
+			},
+			{
+				"id": 174982,
+				"order": 17,
+				"name": "Neil Pearson",
+				"profile_path": "/sS1WuIU3l6o6QcDIkGdtWK8R3Wn.jpg",
+				"character": "Richard Finch",
+				"gender": 2
+			},
+			{
+				"id": 178614,
+				"order": 18,
+				"name": "Dolly Wells",
+				"profile_path": "/bgrCyJRmQ7nWu4PdOnz6dqDTxqR.jpg",
+				"character": "Woney",
+				"gender": 1
+			},
+			{
+				"id": 42641,
+				"order": 19,
+				"name": "Claire Skinner",
+				"profile_path": "/odJEMUo4utv11ylHLmrOgbhUQHZ.jpg",
+				"character": "Magda",
+				"gender": 1
+			},
+			{
+				"id": 7056,
+				"order": 20,
+				"name": "Emma Thompson",
+				"profile_path": "/xr8Ki3CIqweWWqS5q0kUYdiK6oQ.jpg",
+				"character": "Dr. Rawlings",
+				"gender": 1
+			},
+			{
+				"id": 52848,
+				"order": 21,
+				"name": "Isla Fisher",
+				"profile_path": "/zNKTzzuyMYaCGEZKhwhqV1K8ffo.jpg",
+				"character": "Rebecca",
+				"gender": 1
+			},
+			{
+				"id": 33450,
+				"order": 22,
+				"name": "Joanna Scanlan",
+				"profile_path": "/eznboWYymZjyr7WNJ5L1NEwltgX.jpg",
+				"character": "Cathy",
+				"gender": 1
+			},
+			{
+				"id": 1946195,
+				"order": 23,
+				"name": "Mark Lingwood",
+				"profile_path": "/mHtq9f22ufMNSAz2qjh91E3moAI.jpg",
+				"character": "Cosmo",
+				"gender": 2
+			},
+			{
+				"id": 1216401,
+				"order": 24,
+				"name": "Toby Whithouse",
+				"profile_path": "/4NodpDFSaY2QH65WEbTEjdcKGL6.jpg",
+				"character": "Alistair",
+				"gender": 2
+			},
+			{
+				"id": 1238453,
+				"order": 25,
+				"name": "Ian Midlane",
+				"profile_path": "/s8RmF7am1CwgYwTF8DIPw2fnBB0.jpg",
+				"character": "Paul",
+				"gender": 2
+			},
+			{
+				"id": 4518402,
+				"order": 26,
+				"name": "Elena Rivers",
+				"character": "Geminita"
+			},
+			{
+				"id": 85970,
+				"order": 27,
+				"name": "Neil Edmond",
+				"profile_path": "/vhalEsYFz40hEwlIy6h4MH6jmZQ.jpg",
+				"character": "Jeremy",
+				"gender": 2
+			},
+			{
+				"id": 1509466,
+				"order": 28,
+				"name": "Anat Dychtwald",
+				"profile_path": "/1dwwKP8XtHXE563dRE92HrrvCyn.jpg",
+				"character": "Joanne",
+				"gender": 1
+			},
+			{
+				"id": 3528377,
+				"order": 29,
+				"name": "Penny Stuttaford",
+				"character": "Julia",
+				"gender": 1
+			},
+			{
+				"id": 5245109,
+				"order": 30,
+				"name": "Ben Illis",
+				"character": "Michael"
+			},
+			{
+				"id": 1244467,
+				"order": 31,
+				"name": "James Rawlings",
+				"profile_path": "/byvXw8QWtnwV0pB82Fu78k9pepZ.jpg",
+				"character": "Hugo",
+				"gender": 2
+			},
+			{
+				"id": 4493734,
+				"order": 32,
+				"name": "Ruth Gibson",
+				"character": "Jane"
+			},
+			{
+				"id": 1742654,
+				"order": 33,
+				"name": "Jane Fowler",
+				"profile_path": "/abCPKxFI9X3JuPPuZhwIERFtpBk.jpg",
+				"character": "Henrietta",
+				"gender": 1
+			},
+			{
+				"id": 1229053,
+				"order": 34,
+				"name": "Jeff Mirza",
+				"profile_path": "/xgRKoMFBQGavRT65OBMxcABVe1G.jpg",
+				"character": "Postman",
+				"gender": 2
+			},
+			{
+				"id": 5077021,
+				"order": 35,
+				"name": "Josephine Jones",
+				"character": "Rebecca’s Child 1"
+			},
+			{
+				"id": 5077023,
+				"order": 36,
+				"name": "Lydia Jones",
+				"character": "Rebecca’s Child 2"
+			},
+			{
+				"id": 5245121,
+				"order": 37,
+				"name": "Jasper Ambrose",
+				"character": "Rebecca’s Child 3"
+			},
+			{
+				"id": 1616784,
+				"order": 38,
+				"name": "Ellie White",
+				"profile_path": "/kIc4g1MsL4RZsNtaBFgkQMN96Ul.jpg",
+				"character": "Francesca",
+				"gender": 1
+			},
+			{
+				"id": 4977016,
+				"order": 39,
+				"name": "Roman Coupland-Berryman",
+				"character": "Bikram"
+			},
+			{
+				"id": 549334,
+				"order": 40,
+				"name": "Seb Cardinal",
+				"profile_path": "/ldyZr8k7X3Gd0KkJelrYrXXIM2C.jpg",
+				"character": "Victor Soltani-Watkins",
+				"gender": 2
+			},
+			{
+				"id": 5245125,
+				"order": 41,
+				"name": "Harry Goldsmith",
+				"character": "Atticus Soltani-Watkins"
+			},
+			{
+				"id": 4169971,
+				"order": 42,
+				"name": "Isla Ashworth",
+				"profile_path": "/j6toGnhg5l0Cub0R1YslHA0oXSw.jpg",
+				"character": "Cosmata",
+				"gender": 1
+			},
+			{
+				"id": 1989739,
+				"order": 43,
+				"name": "Laura Bailey",
+				"profile_path": "/zjd8v7YvhIgcXNdGU6DUhIKq0L1.jpg",
+				"character": "Tennis Mum",
+				"gender": 1
+			},
+			{
+				"id": 5245131,
+				"order": 44,
+				"name": "Lin Yap",
+				"character": "Sleek Media Type"
+			},
+			{
+				"id": 3716520,
+				"order": 45,
+				"name": "Rosie Holt",
+				"character": "Lizzie the Office PA"
+			},
+			{
+				"id": 5245134,
+				"order": 46,
+				"name": "Naveed Khan",
+				"character": "Producer"
+			},
+			{
+				"id": 1457457,
+				"order": 47,
+				"name": "Kath Hughes",
+				"profile_path": "/z7SuyPrsinwekH3WKbkwBGs5wAh.jpg",
+				"character": "Valerie (Floor Manager)",
+				"gender": 1
+			},
+			{
+				"id": 3103651,
+				"order": 48,
+				"name": "Oli Green",
+				"profile_path": "/yBi24vR9IztX4XFrlAXPmgHSBAz.jpg",
+				"character": "Russ the Checkout Guy",
+				"gender": 2
+			},
+			{
+				"id": 5245138,
+				"order": 49,
+				"name": "Julie Bartlett",
+				"character": "Chemist"
+			},
+			{
+				"id": 5245143,
+				"order": 50,
+				"name": "Hunter Paul",
+				"character": "Prop Man"
+			},
+			{
+				"id": 1779093,
+				"order": 51,
+				"name": "Daisy Duczmal",
+				"profile_path": "/fLTtnJfhOpjW24A4GLOxGZUMbtb.jpg",
+				"character": "Priscilla",
+				"gender": 1
+			},
+			{
+				"id": 5245146,
+				"order": 52,
+				"name": "Maggie Livermore",
+				"character": "Esmerelda"
+			},
+			{
+				"id": 1264234,
+				"order": 53,
+				"name": "Sebastian Dunn",
+				"profile_path": "/b5so3GVgaC23eJMTDUMvUHrHgeg.jpg",
+				"character": "Binko Carruthers",
+				"gender": 2
+			},
+			{
+				"id": 2329463,
+				"order": 54,
+				"name": "Marina Bye",
+				"profile_path": "/xA0bINVs7wzpZdyn4GBwqQsS8n.jpg",
+				"character": "Nurse",
+				"gender": 1
+			},
+			{
+				"id": 4169965,
+				"order": 55,
+				"name": "Zheng Xi Yong",
+				"profile_path": "/zKJ1HxoIzin6fYtSj2QodXXdeCT.jpg",
+				"character": "Linus",
+				"gender": 2
+			},
+			{
+				"id": 5245159,
+				"order": 56,
+				"name": "Gillian Joseph",
+				"character": "News Reporter"
+			},
+			{
+				"id": 4527614,
+				"order": 57,
+				"name": "Gamal Fahnbulleh",
+				"character": "News Reporter"
+			},
+			{
+				"id": 5245164,
+				"order": 58,
+				"name": "Daniel Heard",
+				"character": "News Reporter"
+			},
+			{
+				"id": 2141394,
+				"order": 59,
+				"name": "Maryam Moshiri",
+				"profile_path": "/xijxIjEGSJUGcGc3dwNweijqybg.jpg",
+				"character": "News Reporter",
+				"gender": 1
+			},
+			{
+				"id": 3935136,
+				"order": 60,
+				"name": "Alessandro Bedetti",
+				"profile_path": "/tQZFWp8d1nKXIuYf66dr0zF9ork.jpg",
+				"character": "Enzo",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 9155,
+				"name": "Helen Fielding",
+				"profile_path": "/uGZ9x0oihKwK5Bem8mfWX3VUFBQ.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 93289,
+				"name": "Abi Morgan",
+				"profile_path": "/hLoVbisHf4lhYu0FfJgXwgopfrI.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 6733,
+				"name": "Dan Mazer",
+				"profile_path": "/AibJrdiVq0nZmSeNAGSrlY0yIi1.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 9155,
+				"name": "Helen Fielding",
+				"profile_path": "/uGZ9x0oihKwK5Bem8mfWX3VUFBQ.jpg",
+				"job": "Novel",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 2236,
+				"name": "Tim Bevan",
+				"profile_path": "/nyeqZJr6QVwD3iuLgK5vRgIdcmP.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2238,
+				"name": "Eric Fellner",
+				"profile_path": "/8fEalki5uMWg97FVDk3l2kvf2Dt.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1403577,
+				"name": "Jo Wallett",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1659949,
+				"name": "Amelia Granger",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1492404,
+				"name": "Sarah-Jane Robinson",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 9155,
+				"name": "Helen Fielding",
+				"profile_path": "/uGZ9x0oihKwK5Bem8mfWX3VUFBQ.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1366450,
+				"name": "Michael Morris",
+				"profile_path": "/2tvHMQ1OcOUxeAMDQPI4cWGwnRo.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1849955,
+				"name": "Molly Emma Rowe",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 4409033,
+				"name": "Erin Millican",
+				"job": "Second Assistant Sound",
+				"department": "Sound"
+			},
+			{
+				"id": 2014534,
+				"name": "Gareth Wingrove",
+				"job": "Special Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1561302,
+				"name": "Gary Hoptrough",
+				"profile_path": "/npTgssCH08YgT6kl27W5zNTBCnI.jpg",
+				"job": "Stunt Driver",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2031514,
+				"name": "Phoebe Robinson-Galvin",
+				"profile_path": "/nA7VqrZaY2ogcEt4890BOddVb08.jpg",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1672937,
+				"name": "Suzie Lavelle",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 1
+			},
+			{
+				"id": 11345,
+				"name": "Mark Day",
+				"profile_path": "/t0UrdnsEF4iKytz5ZuAWoNsgqwW.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 23424,
+				"name": "Lucy Bevan",
+				"profile_path": "/hT17FBbxl9gXD5IdieHKoydRcb4.jpg",
+				"job": "Casting Director",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 77687,
+				"name": "Olivia Grant",
+				"job": "Casting Director",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1685991,
+				"name": "John Casali",
+				"profile_path": "/hkxMw567vpAaWgi45ePJUqBq72l.jpg",
+				"job": "Production Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1430188,
+				"name": "Simon Finney",
+				"job": "\"B\" Camera Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1380002,
+				"name": "Jay Maidment",
+				"profile_path": "/23wYKBGQoBRN219G2uQUCahLLWA.jpg",
+				"job": "Still Photographer",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 9003,
+				"name": "Kave Quinn",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 3735502,
+				"name": "Jelle Rebry",
+				"job": "Assistant Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 2313663,
+				"name": "Zoe Liang",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 40810,
+				"name": "Glenn Freemantle",
+				"profile_path": "/qbPg2w1AoSVrbHJbQUbs9P5jD8y.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 40810,
+				"name": "Glenn Freemantle",
+				"profile_path": "/qbPg2w1AoSVrbHJbQUbs9P5jD8y.jpg",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 58920,
+				"name": "Jamie Edgell",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2160769,
+				"name": "Tom Taylor",
+				"job": "First Assistant \"A\" Camera",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1685996,
+				"name": "Chris Murphy",
+				"job": "Boom Operator",
+				"department": "Sound"
+			},
+			{
+				"id": 233130,
+				"name": "Dustin O'Halloran",
+				"profile_path": "/jUoREoQoh69lfHJ2zSGteV1JobP.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 80535,
+				"name": "Robbie Williams",
+				"profile_path": "/f1zx0gcYjBCo8802WBr3egRcDDl.jpg",
+				"job": "Songs",
+				"department": "Sound",
+				"gender": 2
+			}
+		]
+	}
+}

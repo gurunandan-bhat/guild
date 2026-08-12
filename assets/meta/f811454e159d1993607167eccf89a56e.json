@@ -1,0 +1,60 @@
+{
+	"id": 289123,
+	"name": "Fred and Rose West: A British Horror Story",
+	"fcg_title": "Fred and Rose West: A British Horror Story",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 99,
+			"name": "Documentary"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		}
+	],
+	"overview": "Recently discovered police recordings and first-person accounts tell the story of Fred and Rose West, two of the UK's most prolific murderers.",
+	"backdrop_path": "/kXf0oLGrdKiAhoRJaABAAJiD5hy.jpg",
+	"poster_path": "/dVaLmQxdSoH2MVHPuwDZvx0mha1.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 1930391,
+				"order": 0,
+				"name": "Fred West",
+				"profile_path": "/tzc2sUbubf4cBA0uV32idFJQiqt.jpg",
+				"character": "Self (archive footage)",
+				"gender": 2
+			},
+			{
+				"id": 1930392,
+				"order": 1,
+				"name": "Rose West",
+				"profile_path": "/hh6fHIj9I6AABStjueMPAiVISeD.jpg",
+				"character": "Self (archive footage)",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 1555385,
+				"name": "Dan Chambers",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1240028,
+				"name": "Fiona Stourton",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 5376721,
+				"name": "David Herman",
+				"job": "Producer",
+				"department": "Production"
+			}
+		]
+	}
+}

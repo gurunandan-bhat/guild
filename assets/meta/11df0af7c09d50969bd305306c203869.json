@@ -1,0 +1,201 @@
+{
+	"id": 297171,
+	"name": "Made in India: A Titan Story",
+	"fcg_title": "Made in India: A Titan Story",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "In a market ruled by smuggling and foreign brands, a determined Indian man Xerxes Desai, with the help of his team, dares to build a world-class watch from scratch. Battling rejection, failure, and global humiliation, they transform Titan into a symbol of national pride and innovation.",
+	"backdrop_path": "/dWd1gNBNZG4VrXqev1krjqT40MD.jpg",
+	"poster_path": "/fFr4AFhf8nTW2VGJ15fkeHIyMW5.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 6497,
+				"order": 0,
+				"name": "Naseeruddin Shah",
+				"profile_path": "/lFvGfKypi5NNyUjrsT8Y7ebWc7G.jpg",
+				"character": "JRD Tata",
+				"gender": 2
+			},
+			{
+				"id": 1744502,
+				"order": 1,
+				"name": "Jim Sarbh",
+				"profile_path": "/lJPX2ehRqqtrJOqx5PS9dkSAw7.jpg",
+				"character": "Xerses Desai",
+				"gender": 2
+			},
+			{
+				"id": 1438182,
+				"order": 2,
+				"name": "Vaibhav Tatwawadi",
+				"profile_path": "/pw6IBvvZyEssdfJvtTbq01ta1l.jpg",
+				"character": "Akash Bansal",
+				"gender": 2
+			},
+			{
+				"id": 3010388,
+				"order": 3,
+				"name": "Lakshvir Saran",
+				"character": "Gaurav Dhar"
+			},
+			{
+				"id": 3546164,
+				"order": 4,
+				"name": "Kaveri Seth",
+				"character": "Megha Mhatre"
+			},
+			{
+				"id": 3079719,
+				"order": 5,
+				"name": "Namita Dubey",
+				"profile_path": "/qp3eaXn6YnOt4Cc0fQDDbyBeJnI.jpg",
+				"character": "Rajini Desai",
+				"gender": 1
+			},
+			{
+				"id": 1047716,
+				"order": 6,
+				"name": "Joy Sengupta",
+				"profile_path": "/8flKDQq1uAnK4ZHYIguhee2Pf3h.jpg",
+				"character": "SK Gopalan",
+				"gender": 2
+			},
+			{
+				"id": 1278968,
+				"order": 7,
+				"name": "Ashwath Bhatt",
+				"profile_path": "/hSJyFIy8Mvj59YQlcluhd9Xf97F.jpg",
+				"character": "Shankar Manoharan",
+				"gender": 2
+			},
+			{
+				"id": 101857,
+				"order": 8,
+				"name": "Prateeksha Lonkar",
+				"profile_path": "/5x1bVCrEIjJoCuEVIwXuUFMLKgA.jpg",
+				"character": "Sudha",
+				"gender": 1
+			},
+			{
+				"id": 147706,
+				"order": 9,
+				"name": "Paresh Ganatra",
+				"profile_path": "/cXT8wFugq8lmb09SmVYNhsEQhe2.jpg",
+				"character": "Ravindra / Devendra Naik",
+				"gender": 2
+			},
+			{
+				"id": 2229209,
+				"order": 10,
+				"name": "Viraf Patel",
+				"profile_path": "/PPmfooP4eUBA2GzpBZHOLE2m70.jpg",
+				"character": "Murli Shankar Dalmia",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1247025,
+				"name": "Prabhleen Sandhu",
+				"profile_path": "/btWHhyTcBZxRu0vPqBScG4sm2IQ.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1779940,
+				"name": "Karan Vyas",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 88594,
+				"name": "Robby Grewal",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 6259218,
+				"name": "Kandarp Shroff",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 6259218,
+				"name": "Kandarp Shroff",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 6259221,
+				"name": "Niraj Dasa",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 6259221,
+				"name": "Niraj Dasa",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 1779940,
+				"name": "Karan Vyas",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 1779940,
+				"name": "Karan Vyas",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 5874337,
+				"name": "Sudhir Narayan Sherigar",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 6259235,
+				"name": "Nibedya Samal",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 2489746,
+				"name": "Akash Bundhoo",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 2763969,
+				"name": "Aditya Kapur",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 83595,
+				"name": "Bhushan Kumar",
+				"profile_path": "/luUFnGoGwjwZ5CHAePRIQpAwT5b.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 141882,
+				"name": "Krishan Kumar",
+				"profile_path": "/gw2jzzkdRyIHglwieCiFSQ9cLZZ.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			}
+		]
+	}
+}

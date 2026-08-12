@@ -1,0 +1,542 @@
+{
+	"id": 541671,
+	"title": "Ballerina",
+	"fcg_title": "From the World of John Wick: Ballerina",
+	"original_title": "Ballerina",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		}
+	],
+	"overview": "An assassin trained in the traditions of the Ruska Roma organization sets out to seek revenge after her father's death.",
+	"backdrop_path": "/5IbxcBXZ5EhVAttfNDMPncikudr.jpg",
+	"poster_path": "/mKp4euM5Cv3m2U1Vmby3OGwcD5y.jpg",
+	"release_date": "2025-06-04",
+	"credits": {
+		"cast": [
+			{
+				"id": 224513,
+				"order": 0,
+				"name": "Ana de Armas",
+				"profile_path": "/3vxvsmYLTf4jnr163SUlBIw51ee.jpg",
+				"character": "Eve Macarro",
+				"gender": 1
+			},
+			{
+				"id": 5657,
+				"order": 1,
+				"name": "Anjelica Huston",
+				"profile_path": "/6hnYeHa7Rc1w1MmQ3JsLSIb7yCX.jpg",
+				"character": "The Director",
+				"gender": 1
+			},
+			{
+				"id": 6384,
+				"order": 2,
+				"name": "Keanu Reeves",
+				"profile_path": "/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg",
+				"character": "John Wick",
+				"gender": 2
+			},
+			{
+				"id": 4886,
+				"order": 3,
+				"name": "Norman Reedus",
+				"profile_path": "/ozHPdO5jAt7ozzdZUgyRAMNPSDW.jpg",
+				"character": "Daniel Pine",
+				"gender": 2
+			},
+			{
+				"id": 129101,
+				"order": 4,
+				"name": "Lance Reddick",
+				"profile_path": "/22mVtEXZbpt0J7S0LhIhdkfRrZV.jpg",
+				"character": "Charon",
+				"gender": 2
+			},
+			{
+				"id": 5887,
+				"order": 5,
+				"name": "Catalina Sandino Moreno",
+				"profile_path": "/78V4H40NXJ6dzqFZaEe1fBelw56.jpg",
+				"character": "Lena",
+				"gender": 1
+			},
+			{
+				"id": 6972,
+				"order": 6,
+				"name": "Ian McShane",
+				"profile_path": "/qh9RTLbnr128TZLdGuXwUH9mdBM.jpg",
+				"character": "Winston",
+				"gender": 2
+			},
+			{
+				"id": 5168,
+				"order": 7,
+				"name": "Gabriel Byrne",
+				"profile_path": "/9r9oDGENg92VYYFMkV4C09IUlrb.jpg",
+				"character": "The Chancellor",
+				"gender": 2
+			},
+			{
+				"id": 195666,
+				"order": 8,
+				"name": "Sharon Duncan-Brewster",
+				"profile_path": "/gp5h6rOrqBrIGgID4AMd58O6Ow6.jpg",
+				"character": "Nogi",
+				"gender": 1
+			},
+			{
+				"id": 1464090,
+				"order": 9,
+				"name": "Robert Maaser",
+				"profile_path": "/A1YhyTwttU94AsaA2zktcEeDMmz.jpg",
+				"character": "Dex",
+				"gender": 2
+			},
+			{
+				"id": 1450392,
+				"order": 10,
+				"name": "David Castañeda",
+				"profile_path": "/5ClaQPDoFKBRmQrjuiomq01uSgC.jpg",
+				"character": "Javier",
+				"gender": 2
+			},
+			{
+				"id": 1326874,
+				"order": 11,
+				"name": "Sooyoung Choi",
+				"profile_path": "/ttti8CMjJzevHQFkIubJDDy7YDK.jpg",
+				"character": "Katla Park",
+				"gender": 1
+			},
+			{
+				"id": 1432064,
+				"order": 12,
+				"name": "Abraham Popoola",
+				"profile_path": "/r5mojn6TjWgHefdMCJNiohvY82f.jpg",
+				"character": "Frank",
+				"gender": 2
+			},
+			{
+				"id": 57298,
+				"order": 13,
+				"name": "Anne Parillaud",
+				"profile_path": "/xTIfxPTpBWyFJmbf1hGn0W3KT7l.jpg",
+				"character": "Prague Concierge",
+				"gender": 1
+			},
+			{
+				"id": 1950915,
+				"order": 14,
+				"name": "Marc Cram",
+				"profile_path": "/g8uF2VbAlkSBhu5MB04d5tCdB8z.jpg",
+				"character": "Prague Manager",
+				"gender": 2
+			},
+			{
+				"id": 1179243,
+				"order": 15,
+				"name": "Rila Fukushima",
+				"profile_path": "/raklPPc6AZcDnNrjmJu60FHxI2F.jpg",
+				"character": "Petra",
+				"gender": 1
+			},
+			{
+				"id": 5301,
+				"order": 16,
+				"name": "Waris Ahluwalia",
+				"profile_path": "/moKJF5oJdzp4EV8aUlOcEtlh1Dk.jpg",
+				"character": "The Eye",
+				"gender": 2
+			},
+			{
+				"id": 1215189,
+				"order": 17,
+				"name": "Tracie Bennett",
+				"profile_path": "/v9nwta8uKmDevnRpGhYJpNrr96P.jpg",
+				"character": "Muriel",
+				"gender": 1
+			},
+			{
+				"id": 9452,
+				"order": 18,
+				"name": "Daniel Bernhardt",
+				"profile_path": "/b59qhg5VJOCypx9eMXrXHAjauLd.jpg",
+				"character": "Scarred-Eyed Assassin",
+				"gender": 2
+			},
+			{
+				"id": 77058,
+				"order": 19,
+				"name": "Jung Doo-hong",
+				"profile_path": "/tfI95q7gFlHu2jjUX22nPtnEpLa.jpg",
+				"character": "Il Seong",
+				"gender": 2
+			},
+			{
+				"id": 4872540,
+				"order": 20,
+				"name": "Ava McCarthy",
+				"profile_path": "/9HcCr2p1ofBHPb9uuTNBAsxtj0T.jpg",
+				"character": "Ella",
+				"gender": 1
+			},
+			{
+				"id": 2052200,
+				"order": 21,
+				"name": "Juliet Doherty",
+				"profile_path": "/pKZjcSanPllyEiHe3rac6OfeQ9a.jpg",
+				"character": "Tatiana",
+				"gender": 1
+			},
+			{
+				"id": 4276302,
+				"order": 22,
+				"name": "Victoria Comte",
+				"profile_path": "/wNE7aeHZRgEBUkniojYGJgHs2RJ.jpg",
+				"character": "Young Eve",
+				"gender": 1
+			},
+			{
+				"id": 2832950,
+				"order": 23,
+				"name": "Magdalena Šittová",
+				"profile_path": "/6QDtKNoL6DXwJHpzDrvWG3rKSwa.jpg",
+				"character": "Agnetha the Waitress",
+				"gender": 1
+			},
+			{
+				"id": 2288567,
+				"order": 24,
+				"name": "Anna Schmidtmajerová",
+				"profile_path": "/zvpmLGc5PEPjuRhHbGZdpcQFEH9.jpg",
+				"character": "Hallstatt Mother",
+				"gender": 1
+			},
+			{
+				"id": 5495073,
+				"order": 25,
+				"name": "Emílie Páclová",
+				"profile_path": "/yJX5bhOcGZqdZn6ukJTwDQZOlnc.jpg",
+				"character": "Hallstatt Daughter",
+				"gender": 1
+			},
+			{
+				"id": 1779512,
+				"order": 26,
+				"name": "Jackson Spidell",
+				"profile_path": "/7cozKHcmO4MOOViAMqE4FXd0Bmf.jpg",
+				"character": "Mikel",
+				"gender": 2
+			},
+			{
+				"id": 2563021,
+				"order": 27,
+				"name": "James Beaumont",
+				"profile_path": "/8r0hnzq1U6YJizyM1qEAxB2Oqx7.jpg",
+				"character": "Club Promoter",
+				"gender": 2
+			},
+			{
+				"id": 5495081,
+				"order": 28,
+				"name": "Mirko Marchesi",
+				"profile_path": "/y6D23uYjHKidiWHSrAGskC9bgEQ.jpg",
+				"character": "The Baptist",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1357063,
+				"name": "Darrin Prescott",
+				"profile_path": "/yTN1eNBSos16vWSgajcdxKuOGKw.jpg",
+				"job": "Second Unit Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1665616,
+				"name": "Matt Curtis",
+				"profile_path": "/ijoE4C3RQvaLqaDSxkDiEgpQXNv.jpg",
+				"job": "Title Designer",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 59930,
+				"name": "Jason Ballantine",
+				"profile_path": "/9gl7jGZpFeoepsFmb7Vi6vvFOKr.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 904186,
+				"name": "Romain Lacourbas",
+				"profile_path": "/4wiQQpVymE6YX8Ihilq2z4iAYto.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1076800,
+				"name": "Derek Kolstad",
+				"profile_path": "/mi6jxGxkIPjEKNSu9BquWoFMTZy.jpg",
+				"job": "Characters",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4164736,
+				"name": "Kyle Murillo",
+				"profile_path": "/j6B2XFdlz4JPoauk57a7Gjni1y.jpg",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1717376,
+				"name": "Caleb Spillyards",
+				"profile_path": "/5r7Q82C3g8CCIR2Eew6gc2oWSK2.jpg",
+				"job": "Fight Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2104243,
+				"name": "Shay Hatten",
+				"profile_path": "/hu4OQVq5whk0C6v7B7KHCVUsmUG.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 67759,
+				"name": "Basil Iwanyk",
+				"profile_path": "/pvHAcYM1UC30XMqOSOF7Gc2nmBh.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4868369,
+				"name": "Matej Kricner",
+				"job": "Third Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 3950,
+				"name": "Len Wiseman",
+				"profile_path": "/aXsTPBb6dQ2T3PxLqy2ijf2nxrG.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1932093,
+				"name": "Erica Lee",
+				"profile_path": "/pJwTBgsAUrITBRmi0WIKanwDN5P.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2428599,
+				"name": "Kaley Smalley Romo",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 15221,
+				"name": "Tyler Bates",
+				"profile_path": "/vZiif8NFGpzCw5TWbagXIWygQM1.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1112896,
+				"name": "Joel J. Richard",
+				"profile_path": "/6pJXRVASXKfVUay228DCEd2IVe1.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 40644,
+				"name": "Chad Stahelski",
+				"profile_path": "/eRCryGwKDH4XqUlrdkERmeBWPo8.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1317,
+				"name": "Philip Ivey",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1853409,
+				"name": "Bence Kalmár",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1478558,
+				"name": "Tina Kalivas",
+				"profile_path": "/2E1W4mQkCGQoDjmJ1gd9TtkJ95Y.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1427823,
+				"name": "Graham Johnston",
+				"job": "Hair Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1427823,
+				"name": "Graham Johnston",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 3803029,
+				"name": "Zsuzsanna Dezs",
+				"job": "Key Hair Stylist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1324481,
+				"name": "Stephen M. Kelley",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1635484,
+				"name": "Jaime Leigh McIntosh",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1585753,
+				"name": "Paul Linden",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 4471722,
+				"name": "Joe Greenberg",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1590102,
+				"name": "Jill Bogdanowicz",
+				"job": "Colorist",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 1735559,
+				"name": "Adam Lytle",
+				"profile_path": "/bhctxeo83mnTo9e9jwP1xeGlXYG.jpg",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1941585,
+				"name": "Nicholas Lundgren",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 5488697,
+				"name": "GusoPapi",
+				"profile_path": "/zhdkjv5HWVqIpLEnVHduMHkL4EW.jpg",
+				"job": "Actor's Assistant",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 61360,
+				"name": "Kevan Van Thompson",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 56327,
+				"name": "Louise Rosner-Meyer",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 75708,
+				"name": "John R. Saunders",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 6384,
+				"name": "Keanu Reeves",
+				"profile_path": "/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 224513,
+				"name": "Ana de Armas",
+				"profile_path": "/3vxvsmYLTf4jnr163SUlBIw51ee.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1694606,
+				"name": "Andrew Vernon",
+				"job": "Sound Effects Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 222787,
+				"name": "Petr Čechák",
+				"job": "Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1599171,
+				"name": "Tamás Csaba",
+				"job": "Production Sound Mixer",
+				"department": "Sound"
+			}
+		]
+	}
+}

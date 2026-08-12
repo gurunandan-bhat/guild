@@ -1,0 +1,487 @@
+{
+	"id": 224263,
+	"name": "Stranger Things: Tales from '85",
+	"fcg_title": "Stranger Things: Tales From '85",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 16,
+			"name": "Animation"
+		},
+		{
+			"id": 10765,
+			"name": "Sci-Fi \u0026 Fantasy"
+		},
+		{
+			"id": 9648,
+			"name": "Mystery"
+		},
+		{
+			"id": 10759,
+			"name": "Action \u0026 Adventure"
+		}
+	],
+	"overview": "Winter. Hawkins. 1985. Welcome back to a town crawling with secrets, where beloved heroes are facing fresh mysteries... and an all-new breed of strange.",
+	"backdrop_path": "/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg",
+	"poster_path": "/xyVpiSZNA2fYJUuuagkqiSHJqjr.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 4895462,
+				"order": 0,
+				"name": "Brooklyn Davey Norstedt",
+				"profile_path": "/14WC82gvwj7MI3C2ptGybOqvwEh.jpg",
+				"character": "Eleven (voice)",
+				"gender": 1
+			},
+			{
+				"id": 2444659,
+				"order": 1,
+				"name": "Jolie Hoang-Rappaport",
+				"profile_path": "/3dvi8HLZ9rZw4aZ00rKsncbAErc.jpg",
+				"character": "Max (voice)",
+				"gender": 1
+			},
+			{
+				"id": 3765659,
+				"order": 2,
+				"name": "Luca Diaz",
+				"profile_path": "/aycLbBk6XXkhdJsLLVRn142hHP9.jpg",
+				"character": "Mike (voice)",
+				"gender": 2
+			},
+			{
+				"id": 3122038,
+				"order": 3,
+				"name": "Elisha Williams",
+				"profile_path": "/7ltCBzbbS9uEMA1DQBN1XhZwFSK.jpg",
+				"character": "Lucas (voice)",
+				"gender": 2
+			},
+			{
+				"id": 5801123,
+				"order": 4,
+				"name": "Braxton Quinney",
+				"profile_path": "/rbCpMPzbPKZLJrO2Cm1RiSnz5U3.jpg",
+				"character": "Dustin (voice)",
+				"gender": 2
+			},
+			{
+				"id": 3463959,
+				"order": 5,
+				"name": "Benjamin Plessala",
+				"profile_path": "/z0MzRPtYwviecYYx8zVIoXrxDII.jpg",
+				"character": "Will (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1972166,
+				"order": 6,
+				"name": "Odessa A'zion",
+				"profile_path": "/fGgP2Ik5PbWlDVQNp6SN8oPsu0P.jpg",
+				"character": "Nikki (voice)",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 1247045,
+				"name": "Eric Robles",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1179419,
+				"name": "Matt Duffer",
+				"profile_path": "/kXO5CnSxC0znMAICGxnPeuGP73U.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1179422,
+				"name": "Ross Duffer",
+				"profile_path": "/7wdhSHgMLry5jBKJT1mdLT3BYaZ.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 17825,
+				"name": "Shawn Levy",
+				"profile_path": "/uZ40wDFzxPmzROJl9KxPgEGv9ME.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1718785,
+				"name": "Dan Cohen",
+				"profile_path": "/41OIfhCF9WTknhygke5sUioUe9R.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4020675,
+				"name": "Hilary Leavitt",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2884489,
+				"name": "Ian Graham",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1179419,
+				"name": "Matt Duffer",
+				"profile_path": "/kXO5CnSxC0znMAICGxnPeuGP73U.jpg",
+				"job": "Original Series Creator",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1179422,
+				"name": "Ross Duffer",
+				"profile_path": "/7wdhSHgMLry5jBKJT1mdLT3BYaZ.jpg",
+				"job": "Original Series Creator",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 6162758,
+				"name": "Rachel Richmond",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2387486,
+				"name": "Emily Morris",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1666689,
+				"name": "Paul Dichter",
+				"job": "Consulting Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2057895,
+				"name": "Debbie Steer",
+				"job": "Supervising Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2005385,
+				"name": "Ingrid Johnston",
+				"job": "Supervising Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 3226615,
+				"name": "Ryan Little",
+				"job": "Staff Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1219662,
+				"name": "Dan Milano",
+				"job": "Staff Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2653294,
+				"name": "Alexis Quasarano",
+				"job": "Staff Writer",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 1382166,
+				"name": "Ray Utarnachitt",
+				"job": "Staff Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4893392,
+				"name": "Elise Bradley",
+				"job": "Script Coordinator",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 3692609,
+				"name": "John Deligiannis",
+				"job": "Dialogue Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 1745216,
+				"name": "Ben Gunsberger",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1543201,
+				"name": "Brad Joseph Breeck",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 3517431,
+				"name": "Jason NeSmith",
+				"job": "Main Title Theme Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 1920147,
+				"name": "Brian Parkhurst",
+				"job": "Additional Music",
+				"department": "Crew"
+			},
+			{
+				"id": 111015,
+				"name": "Allison Wood",
+				"profile_path": "/5iVvDw6vPxCWMwbM0dGjWQgyRt7.jpg",
+				"job": "Music Supervisor",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 3010776,
+				"name": "Luke Wilder",
+				"job": "Music Coordinator",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1459223,
+				"name": "Rob McIntyre",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1608223,
+				"name": "Evan Dockter",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 3825296,
+				"name": "Ian Nyeste",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 4994623,
+				"name": "Grace Stensland",
+				"job": "Sound Effects Editor",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1400311,
+				"name": "Sanaa Kelley",
+				"profile_path": "/4lnmz7iG0D6wBtBf0s8pm1AkYyQ.jpg",
+				"job": "Foley Artist",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1417682,
+				"name": "Matt Salib",
+				"job": "Foley Artist",
+				"department": "Sound"
+			},
+			{
+				"id": 1767670,
+				"name": "Jordan McClain",
+				"job": "Foley Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 4241208,
+				"name": "Jacob Salerno",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1311631,
+				"name": "D.J. Lynch",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 1356210,
+				"name": "Millie Bobby Brown",
+				"profile_path": "/kHO7hdNEVuTnQ0OjjrxP1RcAa0e.jpg",
+				"job": "Thanks",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1039011,
+				"name": "Natalia Dyer",
+				"profile_path": "/cQaa3XEiUTgJxp85VeFYFyblJIH.jpg",
+				"job": "Thanks",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 35029,
+				"name": "David Harbour",
+				"profile_path": "/qMFtMWlYVtFVyBoBhX5IoA5sN5a.jpg",
+				"job": "Thanks",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1448222,
+				"name": "Charlie Heaton",
+				"profile_path": "/8Se6WZuvRmoB990bT29OPgVAyBo.jpg",
+				"job": "Thanks",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1467219,
+				"name": "Joe Keery",
+				"profile_path": "/4DrWP7WP1c2XYlmcgfFSma3J9z3.jpg",
+				"job": "Thanks",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1653291,
+				"name": "Gaten Matarazzo",
+				"profile_path": "/qOwnmR5gbOT6ygp17YyLlEKXD38.jpg",
+				"job": "Thanks",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1474123,
+				"name": "Caleb McLaughlin",
+				"profile_path": "/4jVS3EziBn7bf97ErxkW7jsdiLM.jpg",
+				"job": "Thanks",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1920,
+				"name": "Winona Ryder",
+				"profile_path": "/dlffgYbqr1BllWacVLhAFw23nLl.jpg",
+				"job": "Thanks",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1393177,
+				"name": "Noah Schnapp",
+				"profile_path": "/jHS4mG6XW0ZJbMnpseL2reEWpv8.jpg",
+				"job": "Thanks",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1590797,
+				"name": "Sadie Sink",
+				"profile_path": "/cv73PoXUFHzlP3PQwOqfju9SJ28.jpg",
+				"job": "Thanks",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1442069,
+				"name": "Finn Wolfhard",
+				"profile_path": "/a1uynFLYQHij42kWu8yW1SvdJSG.jpg",
+				"job": "Thanks",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 4495597,
+				"name": "Brad Coombs",
+				"job": "Character Designer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 3208921,
+				"name": "Dou Hong",
+				"job": "Character Designer",
+				"department": "Visual Effects",
+				"gender": 1
+			},
+			{
+				"id": 2045362,
+				"name": "Carlos Huante",
+				"job": "Creature Design",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1994926,
+				"name": "Andrew Chesworth",
+				"profile_path": "/rt3exZlw2gRseWme468ssrZVMEk.jpg",
+				"job": "Lead Character Designer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 3583302,
+				"name": "Dean Heezen",
+				"job": "Lead Character Designer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 6162812,
+				"name": "Cal Robinson",
+				"job": "Visual Development",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 6162813,
+				"name": "Alejandro Segui Couzo",
+				"job": "Visual Development",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 6119193,
+				"name": "Benjamin Plouffe",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 3129096,
+				"name": "Cosmin Hrincu",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 2517932,
+				"name": "Jaime Fiestas",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 6162814,
+				"name": "Shweta Rode",
+				"job": "Line Producer",
+				"department": "Production"
+			}
+		]
+	}
+}

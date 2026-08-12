@@ -1,22 +1,22 @@
 {{- $languages := hugo.Data.languages.languages }}
 {{- $films := dict }}
+{{- $kind := .Kind }}
 {{- range .Pages }}
 	{{- $pageMap := (jsonify .) | transform.Unmarshal }}
-	{{- $reviewTitle := partialCached "tag-to-title.html" .LinkTitle .LinkTitle }}
 	{{- $score := partialCached "fcg-rating-raw.html" .LinkTitle .LinkTitle  }}
-	{{- $posterLink := partialCached "poster-link.html" $reviewTitle $reviewTitle }}
+	{{- $posterLink := partialCached "poster-link.html" .LinkTitle .LinkTitle }}
 	{{- $pageMap = merge $pageMap (dict "AverageScore" (div $score 10.0) "URLPath" (urlize .Path)) }}
 	{{- with $posterLink }}
 		{{- $pageMap = merge $pageMap (dict "LocalPosterPath" .) }}
 	{{- end }}
 	{{- $language := dict }}
-	{{- with partialCached "tmdb-meta.html" $reviewTitle $reviewTitle }}
+	{{- with partialCached "tmdb-meta.html" .LinkTitle .LinkTitle }}
 		{{- $language = index $languages .original_language }}
 		{{- with $language }}
-			{{- $pageMap = merge $pageMap (dict "Language" .english_name) }}
+			{{- $pageMap = merge $pageMap (dict "Language" .english_name "Kind" $kind) }}
 		{{- end }}
 	{{- end }}
-	{{- $key := (md5 $reviewTitle) }}
+	{{- $key := (md5 .LinkTitle) }}
 	{{- $films = merge $films (dict $key $pageMap) }}
 {{- end }}
 {{- $films | jsonify (dict "prefix" "" "indent" "\t") }}

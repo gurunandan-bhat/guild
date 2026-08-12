@@ -1,0 +1,387 @@
+{
+	"id": 1126723,
+	"title": "Mr. X",
+	"fcg_title": "Mr. X",
+	"original_title": "Mr. X",
+	"original_language": "ta",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"backdrop_path": "/pHYVsFUjKnYpHmhvTILd3XqXwRM.jpg",
+	"poster_path": "/rUYbwn4I8k0sa2sIJG9JGYM1UCv.jpg",
+	"release_date": "2026-04-17",
+	"credits": {
+		"cast": [
+			{
+				"id": 130109,
+				"order": 0,
+				"name": "Arya",
+				"profile_path": "/tX9cHKPa52Iz8M3dvUFW9uqbqUK.jpg",
+				"character": "Gautham",
+				"gender": 2
+			},
+			{
+				"id": 1126673,
+				"order": 1,
+				"name": "Gautham Ram Karthik",
+				"profile_path": "/co5eWSnnj00z4RsuNB9MjfC4hI8.jpg",
+				"character": "Amaran",
+				"gender": 2
+			},
+			{
+				"id": 1178639,
+				"order": 2,
+				"name": "Manju Warrier",
+				"profile_path": "/7u1WgUHnwIW9mtL6aTdo1cRXmCM.jpg",
+				"gender": 1
+			},
+			{
+				"id": 237683,
+				"order": 3,
+				"name": "R. Sarathkumar",
+				"profile_path": "/x2Bx2mxOvgvRzaLFlpKNGmKYkK2.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1868233,
+				"order": 4,
+				"name": "Anagha",
+				"profile_path": "/in4H8spr8wpa84P35SxAMewCVfr.jpg",
+				"gender": 1
+			},
+			{
+				"id": 1792017,
+				"order": 5,
+				"name": "Athulya Ravi",
+				"profile_path": "/oQwQ37cEGyq8iechiyaRDD4yCpH.jpg",
+				"gender": 1
+			},
+			{
+				"id": 1854883,
+				"order": 6,
+				"name": "Raiza Wilson",
+				"profile_path": "/tKodpjlyU59c30wXA7rrL9Q0Tke.jpg",
+				"gender": 1
+			},
+			{
+				"id": 560038,
+				"order": 7,
+				"name": "Jayaprakash",
+				"profile_path": "/eyYfMqy7NsED7SYrAzaso9ZjLT5.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1306567,
+				"order": 8,
+				"name": "Kaali Venkat",
+				"profile_path": "/w36lwArVQb0lDIJEenBECHqSdpG.jpg",
+				"gender": 2
+			},
+			{
+				"id": 5783638,
+				"order": 9,
+				"name": "Tara Amala Joseph",
+				"profile_path": "/c1ivtl68DOFbfHd3g7PoLa1jfGo.jpg",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 1668705,
+				"name": "Dhibu Ninan Thomas",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3469785,
+				"name": "Manu Anand",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1439810,
+				"name": "Rajeevan",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1641720,
+				"name": "Prasanna GK",
+				"profile_path": "/mRUvjFUV0v04KN1v9xs128gq22S.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 2465901,
+				"name": "Indulal Kaveed",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 2313898,
+				"name": "Uthara Menon",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 3548636,
+				"name": "A. P. Paalpandi",
+				"job": "Production Executive",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1643494,
+				"name": "P. C. Vishnu",
+				"job": "Sound Effects",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2200190,
+				"name": "Vamsi Shekar",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1271647,
+				"name": "Shravanthi Sainath",
+				"profile_path": "/6d5chiLUcVJJ9SXyx8x8UOWXCZR.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1183650,
+				"name": "S. Lakshman Kumar",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2118628,
+				"name": "A. John",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 4061538,
+				"name": "A Venkatesh",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3469785,
+				"name": "Manu Anand",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 3469785,
+				"name": "Manu Anand",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4061480,
+				"name": "Divyanka Anand Shankar",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 3072562,
+				"name": "Raam H. Puthran",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 1514941,
+				"name": "Arul Vincent",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1718128,
+				"name": "B. Sekar",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1472819,
+				"name": "Stunt Silva",
+				"profile_path": "/p6vwbFjAOIAfy6uYKsasZWTItDk.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 5339419,
+				"name": "Sarath Vinu",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2718758,
+				"name": "Jobin Jacob",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1667230,
+				"name": "Tapas Nayak",
+				"profile_path": "/loU9EPzLYirkSP7LlluSjobU8ub.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5339420,
+				"name": "K. Suresh Kumar",
+				"job": "Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1671019,
+				"name": "D. Narendran",
+				"job": "Still Photographer",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 5339423,
+				"name": "Sarumathi Pandiyan",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5339424,
+				"name": "Pavanan",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5339426,
+				"name": "Vinu Karthikeyan",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5339427,
+				"name": "Netto",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5339428,
+				"name": "S. Anoj Aravinth",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5339429,
+				"name": "Santosh",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5339430,
+				"name": "K. Raja",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5339431,
+				"name": "Sathiyaseelan",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5339432,
+				"name": "S. Alagudasan",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5339433,
+				"name": "Harsha Gaikwad",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5339434,
+				"name": "Nelson Gilbert",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5339435,
+				"name": "Mohan Raj",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5339436,
+				"name": "R. Bharatraj",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5339437,
+				"name": "Saai Rithik Kumar",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 3545931,
+				"name": "A. Jaffer Sathik",
+				"job": "Production Manager",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1789208,
+				"name": "S Nagarajan",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 1789211,
+				"name": "N. T. Prathool",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1869829,
+				"name": "Vineet Jain",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2582636,
+				"name": "Praveen K.",
+				"job": "Screenplay",
+				"department": "Writing"
+			}
+		]
+	}
+}

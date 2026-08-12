@@ -1,0 +1,546 @@
+{
+	"id": 1038392,
+	"title": "The Conjuring: Last Rites",
+	"fcg_title": "The Conjuring: Last Rites",
+	"original_title": "The Conjuring: Last Rites",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 27,
+			"name": "Horror"
+		}
+	],
+	"overview": "Paranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront.",
+	"backdrop_path": "/9DYFYhmbXRGsMhfUgXM3VSP9uLX.jpg",
+	"poster_path": "/8XfIKOPmuCZLh5ooK13SPKeybWF.jpg",
+	"release_date": "2025-09-03",
+	"credits": {
+		"cast": [
+			{
+				"id": 21657,
+				"order": 0,
+				"name": "Vera Farmiga",
+				"profile_path": "/5Vs7huBmTKftwlsc2BPAntyaQYj.jpg",
+				"character": "Lorraine Warren",
+				"gender": 1
+			},
+			{
+				"id": 17178,
+				"order": 1,
+				"name": "Patrick Wilson",
+				"profile_path": "/tc1ezEfIY8BhCy85svOUDtpBFPt.jpg",
+				"character": "Ed Warren",
+				"gender": 2
+			},
+			{
+				"id": 3011652,
+				"order": 2,
+				"name": "Mia Tomlinson",
+				"profile_path": "/cBSSODc05j8s8omYfX0Px07AIvr.jpg",
+				"character": "Judy Warren",
+				"gender": 1
+			},
+			{
+				"id": 1452045,
+				"order": 3,
+				"name": "Ben Hardy",
+				"profile_path": "/s8UEIomgY5AaEmPHkcPAScp68Fw.jpg",
+				"character": "Tony Spera",
+				"gender": 2
+			},
+			{
+				"id": 1355139,
+				"order": 4,
+				"name": "Rebecca Calder",
+				"profile_path": "/A43USnarLnfWXDvWimT24cPVfEm.jpg",
+				"character": "Janet Smurl",
+				"gender": 1
+			},
+			{
+				"id": 51120,
+				"order": 5,
+				"name": "Elliot Cowan",
+				"profile_path": "/zxewsfDGYuCqV7gsZjMQct6BXMJ.jpg",
+				"character": "Jack Smurl",
+				"gender": 2
+			},
+			{
+				"id": 979807,
+				"order": 6,
+				"name": "Shannon Kook",
+				"profile_path": "/gBJmrtY2fBFfkQRfosLv2MNWx2J.jpg",
+				"character": "Drew Thomas",
+				"gender": 2
+			},
+			{
+				"id": 80619,
+				"order": 7,
+				"name": "Steve Coulter",
+				"profile_path": "/ng01ren9pCYPIsIwRqC1xHzD5IG.jpg",
+				"character": "Father Gordon",
+				"gender": 2
+			},
+			{
+				"id": 3042998,
+				"order": 8,
+				"name": "Kíla Lord Cassidy",
+				"profile_path": "/7vUPASAuPkgfXzS9DQhOo9uTLJc.jpg",
+				"character": "Heather Smurl",
+				"gender": 1
+			},
+			{
+				"id": 1725276,
+				"order": 9,
+				"name": "Beau Gadsdon",
+				"profile_path": "/bAM9QcpAvlXxhjSFCPfWz2SX4Fh.jpg",
+				"character": "Dawn Smurl",
+				"gender": 1
+			},
+			{
+				"id": 3839198,
+				"order": 10,
+				"name": "Tilly Walker",
+				"profile_path": "/oiRyVNlrUHajGyT1d3Kqj4V6Bdf.jpg",
+				"character": "Carin Smurl",
+				"gender": 1
+			},
+			{
+				"id": 4805160,
+				"order": 11,
+				"name": "Molly Cartwright",
+				"profile_path": "/sOFf57RrJmbknX7wZhIbSnp5gac.jpg",
+				"character": "Shannon Smurl",
+				"gender": 1
+			},
+			{
+				"id": 1477865,
+				"order": 12,
+				"name": "Leigh Jones",
+				"profile_path": "/qelAC52aPC2DtvSIUGRoGifUNRk.jpg",
+				"character": "Abner",
+				"gender": 2
+			},
+			{
+				"id": 222906,
+				"order": 13,
+				"name": "John Brotherton",
+				"profile_path": "/9LX6rRtiCjkTMT30PJh1dg1jx56.jpg",
+				"character": "Brad Hamilton",
+				"gender": 2
+			},
+			{
+				"id": 17476,
+				"order": 14,
+				"name": "Peter Wight",
+				"profile_path": "/wE77RhCuPoE45LrqEfZuAg0KIIp.jpg",
+				"character": "Grandpa Smurl",
+				"gender": 2
+			},
+			{
+				"id": 239494,
+				"order": 15,
+				"name": "Kate Fahy",
+				"profile_path": "/66yNJtngMwfhXFY8R0q9cMGFWg2.jpg",
+				"character": "Grandma Smurl",
+				"gender": 1
+			},
+			{
+				"id": 5420885,
+				"order": 16,
+				"name": "Orion Smith",
+				"profile_path": "/jliOoVAWHrcIVR47w9afcTiCQf6.jpg",
+				"character": "Young Ed Warren",
+				"gender": 2
+			},
+			{
+				"id": 1426494,
+				"order": 17,
+				"name": "Madison Lawlor",
+				"profile_path": "/sXeIgJQ590hLYgnu5z6NO3sKsYw.jpg",
+				"character": "Young Lorraine Warren",
+				"gender": 1
+			},
+			{
+				"id": 1503901,
+				"order": 18,
+				"name": "Guy Oliver-Watts",
+				"character": "Doctor",
+				"gender": 2
+			},
+			{
+				"id": 4889162,
+				"order": 19,
+				"name": "Tomas Bennett",
+				"character": "Lecture Attendee #2",
+				"gender": 2
+			},
+			{
+				"id": 3289537,
+				"order": 20,
+				"name": "Tony Spera",
+				"profile_path": "/r2VrHSz8PBD9yShYaLANgccVM5F.jpg",
+				"character": "Party Guest",
+				"gender": 2
+			},
+			{
+				"id": 3127,
+				"order": 21,
+				"name": "Lili Taylor",
+				"profile_path": "/vWcMUi3QyvCr3QuFbjtwyPx7WtU.jpg",
+				"character": "Caroline Perron",
+				"gender": 1
+			},
+			{
+				"id": 851784,
+				"order": 22,
+				"name": "Mackenzie Foy",
+				"profile_path": "/wzH60SrqWp2XMkBfLgdBhx5EJ82.jpg",
+				"character": "Cindy Perron",
+				"gender": 1
+			},
+			{
+				"id": 1518,
+				"order": 23,
+				"name": "Frances O'Connor",
+				"profile_path": "/tWGMS7DciV43tlxA6UEc2UqxrhL.jpg",
+				"character": "Peggy Hodgson",
+				"gender": 1
+			},
+			{
+				"id": 1330999,
+				"order": 24,
+				"name": "Madison Wolfe",
+				"profile_path": "/eWD11hclW0N6CmXr0VbdgLRSC80.jpg",
+				"character": "Janet Hodgson",
+				"gender": 1
+			},
+			{
+				"id": 2047847,
+				"order": 25,
+				"name": "Julian Hilliard",
+				"profile_path": "/lp1IJliBZb9OFP5KK09HjSGOsau.jpg",
+				"character": "David Glatzel",
+				"gender": 2
+			},
+			{
+				"id": 2127,
+				"order": 26,
+				"name": "James Wan",
+				"profile_path": "/mMYVuGyP74c7sFJHFrc5YPwj4Wd.jpg",
+				"character": "Wedding Guest",
+				"gender": 2
+			},
+			{
+				"id": 5598094,
+				"order": 27,
+				"name": "Judy Warren",
+				"profile_path": "/xH7QsF8NMnbVDn4B4C41G6vDV1Q.jpg",
+				"character": "Party Guest"
+			},
+			{
+				"id": 1975768,
+				"order": 28,
+				"name": "Ed Warren",
+				"profile_path": "/5GlgF1UbfmWwfk6A3bVQINWFbu1.jpg",
+				"character": "Self (archive footage)",
+				"gender": 2
+			},
+			{
+				"id": 1511263,
+				"order": 29,
+				"name": "Lorraine Warren",
+				"profile_path": "/tz4MjdJNJC0S4oHAsGT0rMUmIL9.jpg",
+				"character": "Self (archive footage)",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 2127,
+				"name": "James Wan",
+				"profile_path": "/mMYVuGyP74c7sFJHFrc5YPwj4Wd.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 52259,
+				"name": "Peter Safran",
+				"profile_path": "/p9gR2taQgpt9FI8lMzZJXfOGrPy.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1607672,
+				"name": "Michael Chaves",
+				"profile_path": "/kdY5UWdsLQvlBBkzuiR8upujNtn.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2302448,
+				"name": "Judson Scott",
+				"profile_path": "/8Z0AgsiQ3KAvgnluRTTCXSInnsF.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1800923,
+				"name": "Michael Clear",
+				"profile_path": "/8RftlJWKL5ktLGDHADoAciZGNdP.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3289537,
+				"name": "Tony Spera",
+				"profile_path": "/r2VrHSz8PBD9yShYaLANgccVM5F.jpg",
+				"job": "Production Consultant",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1324816,
+				"name": "Rose Wicksteed",
+				"profile_path": "/R5ZzAvFzgEtdJkRZLfApOlRvg5.jpg",
+				"job": "Casting Director",
+				"department": "Production"
+			},
+			{
+				"id": 2128501,
+				"name": "Sophie Kingston-Smith",
+				"job": "Casting Director",
+				"department": "Production"
+			},
+			{
+				"id": 1565659,
+				"name": "Richard Van Den Bergh",
+				"job": "Special Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 142686,
+				"name": "David Leslie Johnson-McGoldrick",
+				"profile_path": "/4asz1xDkGKMferQ2L9Gexd9CPvs.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2127,
+				"name": "James Wan",
+				"profile_path": "/mMYVuGyP74c7sFJHFrc5YPwj4Wd.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1447961,
+				"name": "Eli Born",
+				"profile_path": "/MqVp7aQ8p63nMiJZUEf37BB1sK.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1430497,
+				"name": "Steven Hall",
+				"job": "Second Unit Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1342013,
+				"name": "Aaron Becker",
+				"job": "Title Designer",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1411673,
+				"name": "Kaush Bharti",
+				"job": "Graphic Designer",
+				"department": "Art"
+			},
+			{
+				"id": 1546028,
+				"name": "Andrew Palmer",
+				"job": "Supervising Art Director",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1616066,
+				"name": "Aoife Warren",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1323295,
+				"name": "Graham Churchyard",
+				"profile_path": "/xxRDb60lI0QX7tdxELT0gnvQtBg.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1970795,
+				"name": "Erin Duffy",
+				"job": "Production Supervisor",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1398085,
+				"name": "David Balfour",
+				"job": "Property Master",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1575769,
+				"name": "Scott Edelstein",
+				"profile_path": "/4Ksj0LB63qFzhDeXcsnaBJ0cEzG.jpg",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1411137,
+				"name": "Jonathan Spencer",
+				"job": "Gaffer",
+				"department": "Lighting",
+				"gender": 2
+			},
+			{
+				"id": 20755,
+				"name": "Natalia Safran",
+				"profile_path": "/3luVtifpeQvF54jEf6NbK2Oz0dE.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 40825,
+				"name": "Benjamin Wallfisch",
+				"profile_path": "/dWcshjk0OUi3stGFFrwZIsYKZfQ.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 22039,
+				"name": "Chad Hayes",
+				"profile_path": "/s1ewD0JLqAjfziMSDkVpL3m19Gh.jpg",
+				"job": "Characters",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 22038,
+				"name": "Carey Hayes",
+				"profile_path": "/gqQfN5CZ0yhDuB3QS0Ov1HcmlSG.jpg",
+				"job": "Characters",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1116283,
+				"name": "John Rickard",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 94543,
+				"name": "Hans Ritter",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 142686,
+				"name": "David Leslie Johnson-McGoldrick",
+				"profile_path": "/4asz1xDkGKMferQ2L9Gexd9CPvs.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 965383,
+				"name": "Elliot Greenberg",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 995462,
+				"name": "Gregory Plotkin",
+				"profile_path": "/sUGMMdWoLobZE4DuaXhLTOPVkby.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1247264,
+				"name": "Ian B. Goldberg",
+				"profile_path": "/kqW80khrwi1j9XmNMApe33pV3GD.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1661846,
+				"name": "Richard Naing",
+				"profile_path": "/kJLAGzfoyZKA7Oon5ltbFWRBQVo.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 142686,
+				"name": "David Leslie Johnson-McGoldrick",
+				"profile_path": "/4asz1xDkGKMferQ2L9Gexd9CPvs.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2193993,
+				"name": "Eric Bruneau",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1607672,
+				"name": "Michael Chaves",
+				"profile_path": "/kdY5UWdsLQvlBBkzuiR8upujNtn.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4445622,
+				"name": "Pete Chiappetta",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4445623,
+				"name": "Andrew Lary",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4445624,
+				"name": "Anthony Tittanegro",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			}
+		]
+	}
+}
