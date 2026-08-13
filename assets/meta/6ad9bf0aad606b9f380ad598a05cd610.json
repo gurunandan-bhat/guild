@@ -1,6 +1,6 @@
 {
 	"id": 290214,
-	"name": "Criminal Justice - A Family Matter",
+	"name": "Criminal Justice: A Family Matter",
 	"fcg_title": "Criminal Justice: A Family Matter",
 	"original_language": "hi",
 	"genres": [
@@ -18,15 +18,15 @@
 		}
 	],
 	"overview": "Attorney Madhav Mishra represents Raj Nagpal, discovered with murdered nurse Roshni Saluja after his child's party. As the trial unfolds, hidden facts emerge, questioning identities.",
-	"backdrop_path": "/k9tUPcwQ96X7SrdPHskCU8TaTBU.jpg",
-	"poster_path": "/pdpvnYAG90wPvQ0NVCyRzfTvPuz.jpg",
+	"backdrop_path": "/eULa8WHAWxwDzAJIsQqH07heBg6.jpg",
+	"poster_path": "/9puBY2DdW3xOynWK5cqH3M2ZwJG.jpg",
 	"credits": {
 		"cast": [
 			{
 				"id": 1179460,
 				"order": 0,
 				"name": "Pankaj Tripathi",
-				"profile_path": "/429hnZC7O6GEDs7DWHdYMI27h8I.jpg",
+				"profile_path": "/f3Vxz0QB7PHeyPcXrfJX14Xkxnu.jpg",
 				"character": "Madhav Mishra",
 				"gender": 2
 			},
@@ -35,6 +35,7 @@
 				"order": 1,
 				"name": "Surveen Chawla",
 				"profile_path": "/anKAtXU9u9DfFma0e2R3C1WGDvX.jpg",
+				"character": "Anju Nagpal",
 				"gender": 1
 			},
 			{
@@ -42,6 +43,7 @@
 				"order": 2,
 				"name": "Mohammed Zeeshan Ayyub",
 				"profile_path": "/cF1j8Vt9YPlOBjy3lfmhuF11dmD.jpg",
+				"character": "Dr. Raj Nagpal",
 				"gender": 2
 			},
 			{
@@ -49,41 +51,211 @@
 				"order": 3,
 				"name": "Mita Vashisht",
 				"profile_path": "/mcnaQTCmuz3lXNotFFdkwCO7FTY.jpg",
-				"gender": 1
-			},
-			{
-				"id": 2337144,
-				"order": 4,
-				"name": "Asha Negi",
-				"profile_path": "/1K6z2jO7mgGIdGsrii30qikVfvV.jpg",
+				"character": "Mandira Mathur",
 				"gender": 1
 			},
 			{
 				"id": 101856,
-				"order": 5,
+				"order": 4,
 				"name": "Shweta Basu Prasad",
-				"profile_path": "/rkYoflrUJ5Y0EAGg3W2vH0D86x8.jpg",
+				"profile_path": "/j1THxhGB0AZyNnhGnVmc81fL0Le.jpg",
+				"character": "Lekha Agastya",
+				"gender": 1
+			},
+			{
+				"id": 2337144,
+				"order": 5,
+				"name": "Asha Negi",
+				"profile_path": "/1K6z2jO7mgGIdGsrii30qikVfvV.jpg",
+				"character": "Roshni Saluja",
 				"gender": 1
 			},
 			{
 				"id": 4515457,
 				"order": 6,
-				"name": "Khushboo Atre"
+				"name": "Khushboo Atre",
+				"profile_path": "/isw5JDR6ITf3BZLSgcis2STAjzl.jpg",
+				"character": "Ratna Mishra",
+				"gender": 1
 			},
 			{
 				"id": 1696240,
 				"order": 7,
 				"name": "Barkha Singh",
 				"profile_path": "/uVgXb8jVrlqZrUzQbRKgnzgw54M.jpg",
+				"character": "Shivani Mathur",
 				"gender": 1
+			},
+			{
+				"id": 5544960,
+				"order": 8,
+				"name": "Aatm Prakash Mishra",
+				"profile_path": "/iOG4REjS4hhEUb1iCLBtQH3ftKJ.jpg",
+				"character": "Deep"
+			},
+			{
+				"id": 1549606,
+				"order": 9,
+				"name": "Kalyanee Mulay",
+				"profile_path": "/rVoIveIayf7eo9nwZuEkwdjQh9C.jpg",
+				"character": "API Gauri Karmakar",
+				"gender": 1
+			},
+			{
+				"id": 4566107,
+				"order": 10,
+				"name": "Khushi Bhardwaj",
+				"profile_path": "/lbbWFJTXijhkbljWIB6sgMJNZZu.jpg",
+				"character": "Ira Nagpal",
+				"gender": 1
+			},
+			{
+				"id": 5560947,
+				"order": 11,
+				"name": "Saahitya Pansare",
+				"character": "ASI Ravi Kumar"
+			},
+			{
+				"id": 2148183,
+				"order": 12,
+				"name": "Sohaila Kapur",
+				"profile_path": "/uDWkSCrtHYyHytM4Wnx2erfRjuo.jpg",
+				"character": "Gurmeet Nagpal"
+			},
+			{
+				"id": 4924665,
+				"order": 13,
+				"name": "Ajeet Singh Palawat",
+				"character": "Sr. Inspector Harsh Pradhan"
 			}
 		],
 		"crew": [
 			{
 				"id": 85445,
 				"name": "Rohan Sippy",
+				"profile_path": "/jwvXdV1laCJJfPJB0S1jhtTtpOG.jpg",
 				"job": "Director",
 				"department": "Directing"
+			},
+			{
+				"id": 2797756,
+				"name": "Murzy Pagdiwala",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 4130105,
+				"name": "Gaurav Aggarwal",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1714260,
+				"name": "Nandini Shrikent",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1714261,
+				"name": "Karan Mally",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3272056,
+				"name": "Harman Wadala",
+				"profile_path": "/zK8VOydszkqFdeTszCGCHJ9V9SJ.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5959379,
+				"name": "Rahul Ved Prakash",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 2306032,
+				"name": "Sandeep Jain",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 2306032,
+				"name": "Sandeep Jain",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 2535142,
+				"name": "Sameer Mishra",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 2535142,
+				"name": "Sameer Mishra",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 2350861,
+				"name": "Anurag Pandey",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 4175996,
+				"name": "Riya Poojary",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 5959381,
+				"name": "Varsha Ramachandran",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 3272056,
+				"name": "Harman Wadala",
+				"profile_path": "/zK8VOydszkqFdeTszCGCHJ9V9SJ.jpg",
+				"job": "Dialogue",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1663222,
+				"name": "Sameer Gogate",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1823139,
+				"name": "Sameer Nair",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2331600,
+				"name": "Deepak Segal",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1432759,
+				"name": "Anirban Sengupta",
+				"job": "Music",
+				"department": "Sound"
+			},
+			{
+				"id": 2797756,
+				"name": "Murzy Pagdiwala",
+				"job": "Cinematography",
+				"department": "Crew"
 			}
 		]
 	}
