@@ -3,7 +3,7 @@
 title = "{{ $title }}"
 date = {{ .Date }}
 draft = false
-mreviews = ["{{ $title }}"]
+mreviews = ["{{ partialCached "title-to-tag.html" $title $title }}"]
 critics = ['']
 subtitle = ""
 media = 'video'
