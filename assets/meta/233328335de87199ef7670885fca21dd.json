@@ -1,0 +1,602 @@
+{
+	"id": 1101383,
+	"title": "The End of Oak Street",
+	"fcg_title": "The End of Oak Street",
+	"original_title": "The End of Oak Street",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 878,
+			"name": "Science Fiction"
+		},
+		{
+			"id": 9648,
+			"name": "Mystery"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+	"backdrop_path": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+	"poster_path": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+	"release_date": "2026-08-12",
+	"credits": {
+		"cast": [
+			{
+				"id": 1813,
+				"order": 0,
+				"name": "Anne Hathaway",
+				"profile_path": "/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg",
+				"character": "Denise Platt",
+				"gender": 1
+			},
+			{
+				"id": 3061,
+				"order": 1,
+				"name": "Ewan McGregor",
+				"profile_path": "/aEmyadfRXTmmR7UW7OXsm5a6smS.jpg",
+				"character": "Greg Platt",
+				"gender": 2
+			},
+			{
+				"id": 1721268,
+				"order": 2,
+				"name": "Christian Convery",
+				"profile_path": "/tOR2tSrvHPVDltE4jBDEva3GNqY.jpg",
+				"character": "Brian Platt",
+				"gender": 2
+			},
+			{
+				"id": 1104567,
+				"order": 3,
+				"name": "Maisy Stella",
+				"profile_path": "/dlnP0Yzbr9EEbVg6M0PQVQ7pwUF.jpg",
+				"character": "Audrey Platt",
+				"gender": 1
+			},
+			{
+				"id": 1900828,
+				"order": 4,
+				"name": "Jordan Alexa Davis",
+				"profile_path": "/itz31u3sG9hAlwuFZ6FWz1KhY1R.jpg",
+				"character": "Jeannette Christiansen",
+				"gender": 1
+			},
+			{
+				"id": 1211946,
+				"order": 5,
+				"name": "P.J. Byrne",
+				"profile_path": "/shniQxLvKNvANyJy3hLG8Oo7fW7.jpg",
+				"character": "Mel Jacobs",
+				"gender": 2
+			},
+			{
+				"id": 1254367,
+				"order": 6,
+				"name": "Bethany Anne Lind",
+				"profile_path": "/d0FjeKbWYhbTzFSimCnC9K1Maza.jpg",
+				"character": "Mary Bagrowski",
+				"gender": 1
+			},
+			{
+				"id": 156511,
+				"order": 7,
+				"name": "Emily Kuroda",
+				"profile_path": "/yaZhAxSsElEaX0az2U6FUBN38ET.jpg",
+				"character": "Mrs. Valcour",
+				"gender": 1
+			},
+			{
+				"id": 1985574,
+				"order": 8,
+				"name": "Denitra Isler",
+				"profile_path": "/gIIubxZEMjZiz9mTtfAlpQETjaw.jpg",
+				"character": "Mae",
+				"gender": 1
+			},
+			{
+				"id": 1488908,
+				"order": 9,
+				"name": "Hudson Meek",
+				"profile_path": "/29S5mIoO18vNbOs0qrLC2XRVNlV.jpg",
+				"character": "Kaden",
+				"gender": 2
+			},
+			{
+				"id": 156395,
+				"order": 10,
+				"name": "Anne Gee Byrd",
+				"profile_path": "/yNqUNepmVQ462yoTnZOWVbudKeG.jpg",
+				"character": "Mrs. Huddleston",
+				"gender": 1
+			},
+			{
+				"id": 4043926,
+				"order": 11,
+				"name": "Michael-Christian Moore",
+				"character": "Ashon"
+			},
+			{
+				"id": 5582587,
+				"order": 12,
+				"name": "Hugo Silver",
+				"character": "Fergus"
+			},
+			{
+				"id": 4019851,
+				"order": 13,
+				"name": "Simms May",
+				"profile_path": "/jfOkBcfi07i4xl9ayjwcOZgerhe.jpg",
+				"character": "Zachery",
+				"gender": 2
+			},
+			{
+				"id": 1935905,
+				"order": 14,
+				"name": "Grayson Thorne Kilpatrick",
+				"profile_path": "/17xq5SJh6GTr9a2nRmDhxH3TUZ7.jpg",
+				"character": "Buddy",
+				"gender": 2
+			},
+			{
+				"id": 4586397,
+				"order": 15,
+				"name": "Johann Mikaiel",
+				"character": "Male Teen #2"
+			},
+			{
+				"id": 2277859,
+				"order": 16,
+				"name": "Savanna Renee",
+				"character": "Female Teen"
+			},
+			{
+				"id": 2557619,
+				"order": 17,
+				"name": "Pilot Bunch",
+				"profile_path": "/uSoUAVnJtIv214gWJ0FRHySPwKp.jpg",
+				"character": "Buddy #2",
+				"gender": 2
+			},
+			{
+				"id": 5582592,
+				"order": 18,
+				"name": "Douglas R. Weiss",
+				"character": "Neighbor"
+			},
+			{
+				"id": 587438,
+				"order": 19,
+				"name": "Chris Coy",
+				"profile_path": "/qM89KmZYCOC9VVUle5OPMP0i5U8.jpg",
+				"gender": 2
+			},
+			{
+				"id": 946356,
+				"order": 20,
+				"name": "Andrea Frankle",
+				"profile_path": "/k1xBQPnsPZNe6lX4Y8lZOVZGJZ8.jpg",
+				"character": "Female Neighbor",
+				"gender": 1
+			},
+			{
+				"id": 6406421,
+				"order": 21,
+				"name": "Walker Russell",
+				"character": "Mason"
+			},
+			{
+				"id": 2101012,
+				"order": 22,
+				"name": "David Alexander Kaplan",
+				"profile_path": "/9TcsDzwifQ1yZ2AAghv32z4lgLp.jpg",
+				"character": "Charles Tucker",
+				"gender": 2
+			},
+			{
+				"id": 3213830,
+				"order": 23,
+				"name": "Christopher A. Martin",
+				"character": "Leon"
+			},
+			{
+				"id": 4220128,
+				"order": 24,
+				"name": "Isabella Aparicio",
+				"character": "Young Family Girl",
+				"gender": 1
+			},
+			{
+				"id": 1456721,
+				"order": 25,
+				"name": "Marian Green",
+				"profile_path": "/zQmlJ1hMRMLjzK78vAjEbxDYuM2.jpg",
+				"character": "Neighbor Woman",
+				"gender": 1
+			},
+			{
+				"id": 2872653,
+				"order": 26,
+				"name": "Scott Deal",
+				"profile_path": "/vHoPRy7kbMbryI4JcnQ7cgZYIxz.jpg",
+				"character": "Older Neighbor",
+				"gender": 2
+			},
+			{
+				"id": 1535243,
+				"order": 27,
+				"name": "Callie McClincy",
+				"profile_path": "/pWSm8nHypY1s0JTnkHOYWIRJenf.jpg",
+				"character": "Katie",
+				"gender": 1
+			},
+			{
+				"id": 5205241,
+				"order": 28,
+				"name": "Scott Andersen",
+				"character": "Neighbor (uncredited)"
+			},
+			{
+				"id": 6406429,
+				"order": 29,
+				"name": "Morgan O. Watkins",
+				"character": "Kelly Wagner (uncredited)"
+			}
+		],
+		"crew": [
+			{
+				"id": 2014297,
+				"name": "Hannah Minghella",
+				"profile_path": "/s5QVlwjbZdCJFIgYN4qBQqvTe7H.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1095252,
+				"name": "Matt Jackson",
+				"profile_path": "/l644nk8NNjv3VCknRDRzV1GpvmK.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 62241,
+				"name": "Jake Weiner",
+				"profile_path": "/jo8DXL0RlSpuiDgYa2mLFKpps99.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 558929,
+				"name": "David Robert Mitchell",
+				"profile_path": "/i0XKqclsHNO8JAD7yNuuUNOUXG3.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 15344,
+				"name": "J.J. Abrams",
+				"profile_path": "/k4IWd2RV5kY1kAL2VgKQwFvnCLP.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 558929,
+				"name": "David Robert Mitchell",
+				"profile_path": "/i0XKqclsHNO8JAD7yNuuUNOUXG3.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 558929,
+				"name": "David Robert Mitchell",
+				"profile_path": "/i0XKqclsHNO8JAD7yNuuUNOUXG3.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 298,
+				"name": "Chris Bender",
+				"profile_path": "/kNgEirIudu5xJfmwc9i9fN8aEJE.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 463602,
+				"name": "Mike Gioulakis",
+				"profile_path": "/y6yNOBCXozSr4RP7hixlvbZW7A6.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 24959,
+				"name": "Maya Shimoguchi",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 2783515,
+				"name": "Riley Flanagan",
+				"profile_path": "/PqFTrK34DGtbdCrZArnlZ3FhJw.jpg",
+				"job": "Second Second Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1106751,
+				"name": "Tommy Harper",
+				"profile_path": "/A1WlNEHBuaYsjIqwCgdqModN7w6.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1560110,
+				"name": "Michael Hatzer",
+				"job": "Digital Intermediate Colorist",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1382498,
+				"name": "Leeann Stonebreaker",
+				"job": "Unit Production Manager",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1382498,
+				"name": "Leeann Stonebreaker",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 20568,
+				"name": "John Axelrad",
+				"profile_path": "/jKincJiu0CEpPoMEo68H5pUyKGE.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 62778,
+				"name": "Mark Bennett",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2147692,
+				"name": "Kim Khoo",
+				"job": "Production Supervisor",
+				"department": "Production"
+			},
+			{
+				"id": 1909595,
+				"name": "Michael Salven",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1909595,
+				"name": "Michael Salven",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1984513,
+				"name": "Ben O'Brien",
+				"job": "Compositing Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1530091,
+				"name": "Mike Massa",
+				"profile_path": "/apGGaTo4D0RyUbguizbwv38OkUW.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1789908,
+				"name": "Robert E. Kay",
+				"job": "Second Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1619090,
+				"name": "Jay Cooper",
+				"profile_path": "/bGfW0hZmKSywI5jMAGjVVqp1SQv.jpg",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 2014518,
+				"name": "Katherine Farrar",
+				"job": "Executive Visual Effects Producer",
+				"department": "Crew"
+			},
+			{
+				"id": 1774220,
+				"name": "Ebrahim Jahromi",
+				"job": "CG Supervisor",
+				"department": "Crew"
+			},
+			{
+				"id": 2066704,
+				"name": "Todd Vaziri",
+				"profile_path": "/HWDcrxza1s1PBkvspURZtxTOXt.jpg",
+				"job": "Compositing Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1657910,
+				"name": "Ryan 'Sparks' Lynch",
+				"job": "Chief Lighting Technician",
+				"department": "Lighting"
+			},
+			{
+				"id": 935494,
+				"name": "Eve Streger",
+				"job": "Casting Associate",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1424897,
+				"name": "Lauren Abiouness",
+				"profile_path": "/9kqR198nmecCC2ha5I3dVecoo3O.jpg",
+				"job": "Supervising Art Director",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1351274,
+				"name": "Missy Parker",
+				"job": "Set Decoration",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 3165992,
+				"name": "Ellen Arden",
+				"job": "Makeup Department Head",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1718188,
+				"name": "Fady Hadid",
+				"job": "Post Production Supervisor",
+				"department": "Crew"
+			},
+			{
+				"id": 1085298,
+				"name": "J.D. Schwalm",
+				"job": "Special Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 4445622,
+				"name": "Pete Chiappetta",
+				"profile_path": "/t2gaoeKDpCvzIhVzr7rQrX4gBjn.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4445623,
+				"name": "Andrew Lary",
+				"profile_path": "/cmiInaHyivPOr9OZyOMwDLiiINf.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4445624,
+				"name": "Anthony Tittanegro",
+				"profile_path": "/3KPNXBg7a1jw97234n98weScLmF.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 108190,
+				"name": "Aron Siegel",
+				"job": "Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1115738,
+				"name": "Robert Stambler",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1395023,
+				"name": "Bill R. Dean",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 85960,
+				"name": "Paula Fairfield",
+				"profile_path": "/rKXrhz7Pg21YPNhzng241FTtb6e.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 158916,
+				"name": "Michael Keller",
+				"profile_path": "/6mBU8xQH2hr5gNk2UyYrNdw5CaU.jpg",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1378697,
+				"name": "Tim LeBlanc",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 15347,
+				"name": "Michael Giacchino",
+				"profile_path": "/xgurVFMLVgtgz9f5bgrrCppm4xq.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1193620,
+				"name": "Erin Benach",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 2276340,
+				"name": "Joanne Lee",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2020977,
+				"name": "Keith Anthony-Brown",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 2005484,
+				"name": "Dan Breckwoldt",
+				"job": "Compositing Supervisor",
+				"department": "Visual Effects"
+			}
+		]
+	}
+}
