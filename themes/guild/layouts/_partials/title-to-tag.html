@@ -59,4 +59,4 @@
 
 {{- $s = replaceRE `[^A-Za-z0-9]+` " " $s -}}
 
-{{- return trim (lower $s) " " -}}
+{{- return trim $s " " -}}
