@@ -1,7 +1,7 @@
 +++
 title = "Pallaburusu"
 date = 2026-08-16T17:52:41+05:30
-draft = true
+draft = false
 mreviews = ["Pallaburusu"]
 critics = ['Sangeetha Devi Dundoo']
 publication = ''
