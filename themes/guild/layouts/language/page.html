@@ -8,21 +8,25 @@
                 <h2 class="section-head text-center my-5">Films in the {{ .LinkTitle }} Language</h2>
                 <h6 class="genre-style mb-3">CLICK ON THE FILM POSTER TO READ ALL REVIEWS OF THE FILM</h6>
                 <div class="row">
+                    {{- $metaMap := dict }}
                     {{- with .Resources.Get (printf "%s-json" .LinkTitle) }}
                         {{- range sort (transform.Unmarshal .Content) "title" }}
-                            {{- $poster := (index . "poster_path") }}
                             {{- $title := (index . "title") }}
-                            {{- $mTag := partialCached "title-to-tag.html" $title $title }}
-                            {{- $url := relLangURL (printf "/mreviews/%s/" (urlize $mTag)) }}
-                            {{- with resources.Get (printf "/meta/posters%s" $poster) }}
-                                <div class="col-lg-2 col-md-3 col-sm-6 mb-3 text-center">
-                                    <a href="{{ $url }}">
-                                        <img src="{{ .RelPermalink }}" class="img-fluid w-100 p-1 border mb-1" alt="{{ $title }}" />
-                                    </a>
-                                    <p class="genre-style text-center">
-                                        {{- $title }}
-                                    </p>
-                                </div>
+                            {{- if not (isset $metaMap $title) }}
+                                {{- $poster := (index . "poster_path") }}
+                                {{- $mTag := partialCached "title-to-tag.html" $title $title }}
+                                {{- $url := relLangURL (printf "/mreviews/%s/" (urlize $mTag)) }}
+                                {{- with resources.Get (printf "/meta/posters%s" $poster) }}
+                                    <div class="col-lg-2 col-md-3 col-sm-6 mb-3 text-center">
+                                        <a href="{{ $url }}">
+                                            <img src="{{ .RelPermalink }}" class="img-fluid w-100 p-1 border mb-1" alt="{{ $title }}" />
+                                        </a>
+                                        <p class="genre-style text-center">
+                                            {{- $title }}
+                                        </p>
+                                    </div>
+                                {{- end }}
+                                {{- $metaMap = merge $metaMap (dict $title 1) }}
                             {{- end }}
                         {{- end }}
                     {{- end }}
