@@ -1,0 +1,269 @@
+{
+	"id": 1481343,
+	"title": "The Devil's Mouth",
+	"fcg_title": "The Devil's Mouth",
+	"original_title": "The Devil's Mouth",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 27,
+			"name": "Horror"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
+	"backdrop_path": "/hwnTaa6eT7c5xxOiJL2NhcVt8qX.jpg",
+	"poster_path": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
+	"release_date": "2026-07-29",
+	"credits": {
+		"cast": [
+			{
+				"id": 221192,
+				"order": 0,
+				"name": "Kathryn Newton",
+				"profile_path": "/26OEa0uS8552sVJakaCEHYvqOao.jpg",
+				"character": "Sara",
+				"gender": 1
+			},
+			{
+				"id": 1452046,
+				"order": 1,
+				"name": "Lana Condor",
+				"profile_path": "/vWn27Fk2GLwH7o9fBG9hBWZI6OR.jpg",
+				"character": "Max",
+				"gender": 1
+			},
+			{
+				"id": 2027704,
+				"order": 2,
+				"name": "Nico Hiraga",
+				"profile_path": "/yd1Hx3C7BTevy3zvyGXUwtwvSft.jpg",
+				"character": "James",
+				"gender": 2
+			},
+			{
+				"id": 1086527,
+				"order": 3,
+				"name": "Gavin Casalegno",
+				"profile_path": "/snYCYm31OniXr024HUcomunYpjV.jpg",
+				"character": "Greg",
+				"gender": 2
+			},
+			{
+				"id": 1979741,
+				"order": 4,
+				"name": "Tommi Rose",
+				"profile_path": "/ffwnOrSD0D35pRaYjpwsAZB2deQ.jpg",
+				"character": "Adrienne",
+				"gender": 1
+			},
+			{
+				"id": 5166476,
+				"order": 5,
+				"name": "Tayme Thapthimthong",
+				"profile_path": "/Aq9AHZ7wSRFbdPZnPOupAAAHUnV.jpg",
+				"character": "Wat",
+				"gender": 2
+			},
+			{
+				"id": 521673,
+				"order": 6,
+				"name": "Sahajak Boonthanakit",
+				"profile_path": "/a36MI02S0f11bJZjBoxkZTsUDAK.jpg",
+				"character": "Captain",
+				"gender": 2
+			},
+			{
+				"id": 4174017,
+				"order": 7,
+				"name": "Harrison Luna",
+				"profile_path": "/4SapY7LbHDHdNPV46uRUOujQJ2n.jpg",
+				"character": "Ryan",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 55075,
+				"name": "Jeff Wadlow",
+				"profile_path": "/8MquRXIWZ7t4YeOMvl68AX5Fb4b.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2954613,
+				"name": "Aja Gabel",
+				"profile_path": "/doOS4ZPjaIXa5H8v3ppncwTEGU9.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 67759,
+				"name": "Basil Iwanyk",
+				"profile_path": "/pvHAcYM1UC30XMqOSOF7Gc2nmBh.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1932093,
+				"name": "Erica Lee",
+				"profile_path": "/pJwTBgsAUrITBRmi0WIKanwDN5P.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 4547299,
+				"name": "Myung Joh Wesner",
+				"profile_path": "/1NiBIoBJDsppiXDxiPPaOnbY6vB.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 19657,
+				"name": "Carsten H.W. Lorenz",
+				"profile_path": "/nZmrzDkCdjv1SlGRY088Tym713L.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 55075,
+				"name": "Jeff Wadlow",
+				"profile_path": "/8MquRXIWZ7t4YeOMvl68AX5Fb4b.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 55075,
+				"name": "Jeff Wadlow",
+				"profile_path": "/8MquRXIWZ7t4YeOMvl68AX5Fb4b.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 16490,
+				"name": "Sean Albertson",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1358568,
+				"name": "James Kniest",
+				"profile_path": "/xGpM8zPxAMAyn1BisQsmv087oBv.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 59811,
+				"name": "Bear McCreary",
+				"profile_path": "/t4Rr2p9Q5ewMgagChxK2JmrcvKx.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 9648,
+				"name": "Alec Hammond",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 2020298,
+				"name": "Warakarn Waruttamangkoon",
+				"job": "Supervising Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 1306225,
+				"name": "Kelli Jones",
+				"profile_path": "/5nLEHXmmyZHZPwewPzmHLbj18kc.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 2642638,
+				"name": "Yann Cuinet",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1456373,
+				"name": "Wesley Sewell",
+				"profile_path": "/3HwGXpYoSfPVyICQrofoI6T5fTW.jpg",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1982002,
+				"name": "Kerry Joseph",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1531524,
+				"name": "Laurent Gillet",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 2383022,
+				"name": "Alan D'Antoni",
+				"profile_path": "/z6sHgC02BzTtfubDksviI2cXrRL.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3493430,
+				"name": "Will Flynn",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 6377722,
+				"name": "Sam Greenberg",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 76481,
+				"name": "Chris Lowenstein",
+				"profile_path": "/wxYoCMzKfueRDL3AMJTcmH5E4Yk.jpg",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 76239,
+				"name": "Garette Ratliff Henson",
+				"profile_path": "/J9R9AU4rAPq9lhOpWdf9uemJuG.jpg",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2869162,
+				"name": "Apinat 'Obb' Siricharoenjit",
+				"job": "Line Producer",
+				"department": "Production"
+			}
+		]
+	}
+}

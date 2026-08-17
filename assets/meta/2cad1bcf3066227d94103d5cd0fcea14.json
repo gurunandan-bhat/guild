@@ -1,0 +1,374 @@
+{
+	"id": 1380291,
+	"title": "Tom Clancy's Jack Ryan: Ghost War",
+	"fcg_title": "Tom Clancy's Jack Ryan: Ghost War",
+	"original_title": "Tom Clancy's Jack Ryan: Ghost War",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins CIA allies Mike November \u0026 James Greer and sharp MI6 officer Emma Marlowe to battle a rogue black-ops unit in a high-stakes, deeply personal fight.",
+	"backdrop_path": "/69KkxROnZoJdQAulnY5B7Gx6D7Z.jpg",
+	"poster_path": "/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg",
+	"release_date": "2026-05-20",
+	"credits": {
+		"cast": [
+			{
+				"id": 17697,
+				"order": 0,
+				"name": "John Krasinski",
+				"profile_path": "/pmVGDb6Yl6OyFcHVGbu1EYNfyFK.jpg",
+				"character": "Jack Ryan",
+				"gender": 2
+			},
+			{
+				"id": 23459,
+				"order": 1,
+				"name": "Sienna Miller",
+				"profile_path": "/ygv1xVsgLlfCG1DJD0cuRmZqM1V.jpg",
+				"character": "Emma Marlowe",
+				"gender": 1
+			},
+			{
+				"id": 17859,
+				"order": 2,
+				"name": "Wendell Pierce",
+				"profile_path": "/r6yKahL6Z8l9aUX5qvWxTmWl8Nm.jpg",
+				"character": "James Greer",
+				"gender": 2
+			},
+			{
+				"id": 50217,
+				"order": 3,
+				"name": "Michael Kelly",
+				"profile_path": "/6MI8HhX1GWbcrWG8DiHffzmqaVm.jpg",
+				"character": "Mike November",
+				"gender": 2
+			},
+			{
+				"id": 66587,
+				"order": 4,
+				"name": "Max Beesley",
+				"profile_path": "/kUBoZ4cMo1i6ojBci0VMznmbn9y.jpg",
+				"character": "Liam Crown",
+				"gender": 2
+			},
+			{
+				"id": 30710,
+				"order": 5,
+				"name": "JJ Feild",
+				"profile_path": "/8YIIH6ebWmIhWWJC3RGe16Z1biK.jpg",
+				"character": "Andrew Spear",
+				"gender": 2
+			},
+			{
+				"id": 80149,
+				"order": 6,
+				"name": "Douglas Hodge",
+				"profile_path": "/tENL3Uxt07Rn21o0y0eolwTnkoZ.jpg",
+				"character": "Nigel Cooke",
+				"gender": 2
+			},
+			{
+				"id": 1660452,
+				"order": 7,
+				"name": "Betty Gabriel",
+				"profile_path": "/n67i3H3VM5quDQfcS591EbotPby.jpg",
+				"character": "Elizabeth Wright",
+				"gender": 1
+			},
+			{
+				"id": 2303015,
+				"order": 8,
+				"name": "Alex Brockdorff",
+				"profile_path": "/8sf9EUU4oLOhIdJKdAPyZ5Psvch.jpg",
+				"character": "Mark Whitaker",
+				"gender": 2
+			},
+			{
+				"id": 6079583,
+				"order": 9,
+				"name": "Mckenna Bridger",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 1215659,
+				"name": "Andrew Bernstein",
+				"profile_path": "/5Q4t7rtpHtp0vfstpQzug1KGZgS.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 4123026,
+				"name": "Aaron Rabin",
+				"profile_path": "/lpljaLDaflDOGoYZiDX5ZO37U0o.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 17697,
+				"name": "John Krasinski",
+				"profile_path": "/pmVGDb6Yl6OyFcHVGbu1EYNfyFK.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1449075,
+				"name": "Allyson Seeger",
+				"profile_path": "/toCiKPDjQfOGPFomYetBid5IzcS.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 54843,
+				"name": "Andrew Form",
+				"profile_path": "/yo3V5C3RUm43NaLhKISU9UIIFjm.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 29018,
+				"name": "Dana Goldberg",
+				"profile_path": "/AtiT0HTrrrvVVjZgOXpxKxVFyAb.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 58433,
+				"name": "David Ellison",
+				"profile_path": "/gaT9cIEJPm7nWxpJyZWMy4Ayv6y.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 161839,
+				"name": "Carlton Cuse",
+				"profile_path": "/40GhFizBF2jwU3tUi5FsxJPzDjt.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 25292,
+				"name": "John J. Kelly",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 38568,
+				"name": "Tom Clancy",
+				"profile_path": "/7q3JpfGJ1XQvzkhiu6fo5SxyT3K.jpg",
+				"job": "Characters",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 17697,
+				"name": "John Krasinski",
+				"profile_path": "/pmVGDb6Yl6OyFcHVGbu1EYNfyFK.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1143001,
+				"name": "Arnau Valls Colomer",
+				"profile_path": "/kmCUhINLaMAR3EgahcACieoDuWq.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 77730,
+				"name": "Elaine Kusmishko",
+				"job": "Supervising Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 75708,
+				"name": "John R. Saunders",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1428470,
+				"name": "Christine Blundell",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 59930,
+				"name": "Jason Ballantine",
+				"profile_path": "/9gl7jGZpFeoepsFmb7Vi6vvFOKr.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 40773,
+				"name": "Gary Dodkin",
+				"job": "Production Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 2346238,
+				"name": "John Street",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 1388897,
+				"name": "Julian Morson",
+				"job": "\"A\" Camera Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1388897,
+				"name": "Julian Morson",
+				"job": "Steadicam Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 197299,
+				"name": "David Tyler",
+				"job": "Gaffer",
+				"department": "Lighting",
+				"gender": 2
+			},
+			{
+				"id": 1027825,
+				"name": "Niall Moroney",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 3025913,
+				"name": "Jackie Yau",
+				"job": "Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 5576040,
+				"name": "Peter Yip",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1704313,
+				"name": "Martin Ivanov",
+				"profile_path": "/fTYcCl9U3ak8j7qfGAeF5q8O5I6.jpg",
+				"job": "Stunt Driver",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1413028,
+				"name": "Lesa Warrener",
+				"job": "Makeup Supervisor",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 4105414,
+				"name": "Susan Cole",
+				"profile_path": "/2bmmmvYikwdTfHRnoJYPSPQ7mMj.jpg",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3162828,
+				"name": "Mona Turnbull",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5641032,
+				"name": "Sarah Jennings",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 5640996,
+				"name": "Carl Illingworth",
+				"profile_path": "/pcpu8rym7jM8mRgqkLh6TSESWKi.jpg",
+				"job": "Daily Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4170826,
+				"name": "Matt Poynter",
+				"job": "Additional Camera",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1227160,
+				"name": "Noah Oppenheim",
+				"profile_path": "/wDAKcj1Rx3xdivFNpozsw02Uhvq.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 17697,
+				"name": "John Krasinski",
+				"profile_path": "/pmVGDb6Yl6OyFcHVGbu1EYNfyFK.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 10851,
+				"name": "Ramin Djawadi",
+				"profile_path": "/wgUxW19nyPnrzj4ViVOpAfmhCdr.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3237289,
+				"name": "William Marriott",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 38568,
+				"name": "Tom Clancy",
+				"profile_path": "/7q3JpfGJ1XQvzkhiu6fo5SxyT3K.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3015586,
+				"name": "Alexa Ginsburg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			}
+		]
+	}
+}
