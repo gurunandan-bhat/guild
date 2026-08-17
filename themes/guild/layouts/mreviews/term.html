@@ -4,13 +4,14 @@
 {{- $reset := "\033[0m" }}
 {{ $firstPage := .GetPage (index .Pages 0).Path }}
 {{ $title := $firstPage.Title }}
+{{- $mTag := index $firstPage.Params.mreviews 0 }}
 {{- $fullTitle := $title }}
 {{ with $firstPage.Params.translatedTitle }}
 	{{ $fullTitle = printf "%s (%s)" $fullTitle . }}
 {{ end }}
 <div>
 	{{ with partialCached "tmdb-meta.html" $title $title }}
-		{{ $scoreImg := partial "fcg-rating.html" (dict "title" $title "size" "large") }}
+		{{ $scoreImg := partial "fcg-rating.html" (dict "title" $mTag "size" "large") }}
 		{{ partial "taxonomy/mreviews/metadata.html" (dict "meta" . "fullTitle" $fullTitle "scoreImg" $scoreImg) }}
 	{{ else }}
 		{{ if hugo.IsDevelopment }}
@@ -113,10 +114,11 @@
 		</div>
 		<div class="row">
 			{{ range $reviews }}
+				{{- $mTag := index .Params.mreviews 0 }}
 				<div
 					class="col-lg-3 pe-3"
 					style="background-color: #ebe4ed;">
-					{{ $scoreImg := partial "fcg-rating.html" (dict "title" .LinkTitle "size" "medium") }}
+					{{ $scoreImg := partial "fcg-rating.html" (dict "title" $mTag "size" "medium") }}
 					{{ partial "short-meta.html" (dict "review" . "type" "short" "scoreImg" $scoreImg) }}
 				</div>
 			{{ end }}

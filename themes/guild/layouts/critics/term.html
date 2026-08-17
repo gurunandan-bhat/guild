@@ -158,10 +158,11 @@
 		</div>
 		<div class="row">
 			{{ range $reviews }}
+				{{- $mTag := index .Params.mreviews 0 }}
 				<div
 					class="col-lg-3 pe-2"
 					style="background-color: #ebe4ed;">
-					{{ $scoreImg := partial "fcg-rating.html" (dict "title" .LinkTitle "size" "medium") }}
+					{{ $scoreImg := partial "fcg-rating.html" (dict "title" $mTag "size" "medium") }}
 					{{ partial "short-meta.html" (dict "review" . "type" "short" "scoreImg" $scoreImg) }}
 				</div>
 			{{ end }}

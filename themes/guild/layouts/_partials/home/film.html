@@ -1,5 +1,6 @@
+{{- $mTag := index .Params.mreviews 0}}
 <div>
-    {{ $scoreImg := partial "fcg-rating.html" (dict "title" .Title "size" "small") }}
+    {{ $scoreImg := partial "fcg-rating.html" (dict "title" $mTag "size" "small") }}
     {{ partial "short-meta.html" (dict "review" . "type" "full" "scoreImg" $scoreImg "showCast" true) }}
 </div>
 {{ $reviews := first 3 (sort (where .Site.RegularPages ".Title" .Title) ".Date" "desc") }}

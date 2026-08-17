@@ -1,13 +1,14 @@
 {{ $review := index . "review" }}
 {{ $type := index . "type" }}
 {{ $scoreImg := index . "scoreImg" }}
-{{ $score := partialCached "fcg-rating-raw.html" $review.LinkTitle $review.LinkTitle }}
+
+{{- $mTag := index $review.Params.mreviews 0 }}
+{{ $score := partialCached "fcg-rating-raw.html" $mTag $mTag }}
 {{ $showCast := index . "showCast" }}
 
 {{ $pageImage := $review.Params.img }}
 
 {{ $languages := hugo.Data.languages.languages }}
-{{- $mTag := index $review.Params.mreviews 0 }}
 {{ $reviewHref := relLangURL (printf "/mreviews/%s/" (urlize $mTag)) }}
 
 {{ $imgLink := partial "backdrop.html" $review }}

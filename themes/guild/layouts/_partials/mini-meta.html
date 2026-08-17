@@ -1,12 +1,13 @@
 {{ $page := . }}
-{{ $scoreImg := partial "fcg-rating.html" (dict "title" $page.LinkTitle) }}
-{{ $score := partialCached "fcg-rating-raw.html" $page.LinkTitle $page.LinkTitle }}
+
+{{- $mTag := (index $page.Params.mreviews 0)}}
+{{ $scoreImg := partial "fcg-rating.html" (dict "title" $mTag) }}
+{{ $score := partialCached "fcg-rating-raw.html" $mTag $mTag }}
 
 {{ $pageImage := $page.Params.img }}
 
 {{ $languages := hugo.Data.languages.languages }}
 
-{{- $mTag := (index $page.Params.mreviews 0)}}
 {{ $reviewLink := relLangURL (printf "/mreviews/%s/" (urlize $mTag)) }}
 
 {{ $imgLink := partial "backdrop.html" $page }}
