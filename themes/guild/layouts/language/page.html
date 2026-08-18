@@ -17,7 +17,7 @@
                                 {{- $mTag := partialCached "title-to-tag.html" $title $title }}
                                 {{- $url := relLangURL (printf "/mreviews/%s/" (urlize $mTag)) }}
                                 {{- with resources.Get (printf "/meta/posters%s" $poster) }}
-                                    <div class="col-lg-2 col-md-3 col-sm-6 mb-3 text-center">
+                                    <div class="col-lg-2 col-md-3 col-6 mb-3 text-center">
                                         <a href="{{ $url }}">
                                             <img src="{{ .RelPermalink }}" class="img-fluid w-100 p-1 border mb-1" alt="{{ $title }}" />
                                         </a>
