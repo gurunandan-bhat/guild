@@ -1,0 +1,243 @@
+{
+	"id": 303351,
+	"name": "Blood Sacrifice",
+	"fcg_title": "Blood Sacrifice",
+	"original_language": "sv",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 9648,
+			"name": "Mystery"
+		}
+	],
+	"overview": "Following the brutal murder of two police officers, a tenacious detective reluctantly joins forces with his estranged ex-cop father to catch the killer.",
+	"backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg",
+	"poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 76555,
+				"order": 0,
+				"name": "Jakob Oftebro",
+				"profile_path": "/ypyMSXwABVXHjTOfpEHW008cw1A.jpg",
+				"character": "Thomas Berg",
+				"gender": 2
+			},
+			{
+				"id": 21193,
+				"order": 1,
+				"name": "Peter Andersson",
+				"profile_path": "/3QrCFAESqlCgwg10KLv1Wre0sKL.jpg",
+				"character": "Alfred Berg",
+				"gender": 2
+			},
+			{
+				"id": 2912393,
+				"order": 2,
+				"name": "Electra Hallman",
+				"profile_path": "/eNNuCL3Z28vzU9Q9TRt7sKPQ4lo.jpg",
+				"character": "Natalie Eklund",
+				"gender": 1
+			},
+			{
+				"id": 2176282,
+				"order": 3,
+				"name": "Alexander Abdallah",
+				"profile_path": "/AqCx9UAHa4vpZ1nx4UyTGz8iwjk.jpg",
+				"character": "John-Jo Persson",
+				"gender": 2
+			},
+			{
+				"id": 64975,
+				"order": 4,
+				"name": "Henrik Norlén",
+				"profile_path": "/eiOu61USG30JqBKq6Axc05IU6yc.jpg",
+				"character": "Max Abrahamsson",
+				"gender": 2
+			},
+			{
+				"id": 1136637,
+				"order": 5,
+				"name": "Lisette Pagler",
+				"profile_path": "/fSsBNRZADMbTv0f7iILcLVt8VtH.jpg",
+				"character": "Charlotte Berg",
+				"gender": 1
+			},
+			{
+				"id": 143391,
+				"order": 6,
+				"name": "Magnus Krepper",
+				"profile_path": "/xFN9sb8S2fjcUtbWvzTxoLH4QUJ.jpg",
+				"character": "Peter Johansson",
+				"gender": 2
+			},
+			{
+				"id": 85386,
+				"order": 7,
+				"name": "Irina Björklund",
+				"profile_path": "/3kHlo4M9TxGpbMQsM8ST4FjH4sp.jpg",
+				"character": "Rebecca Björklund",
+				"gender": 1
+			},
+			{
+				"id": 1640021,
+				"order": 8,
+				"name": "Anders Mossling",
+				"profile_path": "/fH9pvugWOU3n5Er2WXOgUyA4eMG.jpg",
+				"character": "Lucas Lind",
+				"gender": 2
+			},
+			{
+				"id": 4166155,
+				"order": 9,
+				"name": "Anna Maria Käll",
+				"profile_path": "/4YIT91Qzrz9vtqNT4GjmrouFYqw.jpg"
+			}
+		],
+		"crew": [
+			{
+				"id": 6155,
+				"name": "Kristoffer Nyholm",
+				"profile_path": "/bml8u09TW5jj5hvEYiwv9FwQYFL.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1287248,
+				"name": "George Kay",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 6155,
+				"name": "Kristoffer Nyholm",
+				"profile_path": "/bml8u09TW5jj5hvEYiwv9FwQYFL.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1684523,
+				"name": "Willow Grylls",
+				"profile_path": "/oUFlSGeG9NKDs68JzdffSCoDoqe.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 4309481,
+				"name": "Matt Sandford",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3284396,
+				"name": "Johannes Åhlund",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1427999,
+				"name": "Ulf Synnerholm",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2420961,
+				"name": "Aron Levander",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4533438,
+				"name": "Emily Robson",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 3697682,
+				"name": "Ella Hast",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4230557,
+				"name": "Elin Svartengren",
+				"job": "Head of Production",
+				"department": "Production"
+			},
+			{
+				"id": 1178,
+				"name": "Jørgen Johansson",
+				"profile_path": "/qoDhcMUGkfGMqR9UmwXF2eM3Zji.jpg",
+				"job": "Cinematography",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1104932,
+				"name": "Sverrir Kristjánsson",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 4133589,
+				"name": "Pablo Labañino",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 4352234,
+				"name": "Eric Backstrøm",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1077406,
+				"name": "Jeanette Klintberg",
+				"profile_path": "/bNHOSJ4Iw2BuUFI0gd0l2qUvi8A.jpg",
+				"job": "Casting Director",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1887427,
+				"name": "Eugenie Norlin",
+				"job": "Production Designer",
+				"department": "Production"
+			},
+			{
+				"id": 5757951,
+				"name": "Melinda Urbansdotter",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1837050,
+				"name": "Mia Andersson",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1143755,
+				"name": "Ellen Utterström",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			}
+		]
+	}
+}
