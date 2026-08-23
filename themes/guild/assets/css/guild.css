@@ -168,6 +168,7 @@ h4.sub-title {
     font-size: 16px;
     font-family: Oswald;
     color: #924c9d;
+    letter-spacing: 0.016em;
     text-transform: uppercase;
     margin-bottom: 3px;
 }
