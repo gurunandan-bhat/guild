@@ -1,0 +1,410 @@
+{
+	"id": 1185806,
+	"title": "PAW Patrol: The Dino Movie",
+	"fcg_title": "Paw Patrol: The Dino Movie",
+	"original_title": "PAW Patrol: The Dino Movie",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 16,
+			"name": "Animation"
+		},
+		{
+			"id": 12,
+			"name": "Adventure"
+		},
+		{
+			"id": 10751,
+			"name": "Family"
+		},
+		{
+			"id": 14,
+			"name": "Fantasy"
+		},
+		{
+			"id": 35,
+			"name": "Comedy"
+		}
+	],
+	"overview": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
+	"backdrop_path": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+	"poster_path": "/jqxuYbNEaaGJNxmoj2n4vNyehRB.jpg",
+	"release_date": "2026-07-23",
+	"credits": {
+		"cast": [
+			{
+				"id": 3572176,
+				"order": 0,
+				"name": "Carter Young",
+				"profile_path": "/ezkMRnYOjsYXrcwHEJ2JIDWTJJq.jpg",
+				"character": "Marshall (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1172108,
+				"order": 1,
+				"name": "Mckenna Grace",
+				"profile_path": "/sK0CVa56IIpFhCDrcXSTqPWxNbx.jpg",
+				"character": "Skye (voice)",
+				"gender": 1
+			},
+			{
+				"id": 53256,
+				"order": 2,
+				"name": "Terry Crews",
+				"profile_path": "/pxTY4SglLo5hFcMH00MxPeC5u55.jpg",
+				"character": "Alistair Stonewall (voice)",
+				"gender": 2
+			},
+			{
+				"id": 63606,
+				"order": 3,
+				"name": "Meredith MacNeill",
+				"profile_path": "/jcJq5Af7KSleMFVhrla5xbv8TOg.jpg",
+				"character": "Harper Cutlass (voice)",
+				"gender": 1
+			},
+			{
+				"id": 1227611,
+				"order": 4,
+				"name": "Ron Pardo",
+				"profile_path": "/hE4QOBmPqstfmBVXmlcJmsljUMw.jpg",
+				"character": "Mayor Humdinger (voice)",
+				"gender": 2
+			},
+			{
+				"id": 15565,
+				"order": 5,
+				"name": "Jennifer Hudson",
+				"profile_path": "/4wpTUqEjHYjDMj0Fv6BvfjeIS1H.jpg",
+				"character": "Lilian Ledes (voice)",
+				"gender": 1
+			},
+			{
+				"id": 5423400,
+				"order": 6,
+				"name": "Hayden Chemberlen",
+				"character": "Rex (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1183672,
+				"order": 7,
+				"name": "Fortune Feimster",
+				"profile_path": "/9f2p2T61K4pIvKQMLRlow8znkXU.jpg",
+				"character": "Eugenia Bunsen (voice)",
+				"gender": 1
+			},
+			{
+				"id": 1624816,
+				"order": 8,
+				"name": "Jameela Jamil",
+				"profile_path": "/e9RviCItpPoSwD79y4YYlDbIwM6.jpg",
+				"character": "Heidi Pothesis (voice)",
+				"gender": 1
+			},
+			{
+				"id": 3908744,
+				"order": 9,
+				"name": "Rain Janjua",
+				"profile_path": "/39VLLyRP55v9ImeKT50EdCIrZ84.jpg",
+				"character": "Chase (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1218795,
+				"order": 10,
+				"name": "Bill Nye",
+				"profile_path": "/HfEBnQuiCMPjcsONf9FCpnEyJL.jpg",
+				"character": "Dr. Theo Rising (voice)",
+				"gender": 2
+			},
+			{
+				"id": 38406,
+				"order": 11,
+				"name": "Paris Hilton",
+				"profile_path": "/8ywcy0guTGiL6JIPvnFtELMlwuu.jpg",
+				"character": "Nancy (voice)",
+				"gender": 1
+			},
+			{
+				"id": 19767,
+				"order": 12,
+				"name": "Snoop Dogg",
+				"profile_path": "/rbxBK2m6fEq0oHeMoBUMVYkJEdJ.jpg",
+				"character": "Dave (voice)",
+				"gender": 2
+			},
+			{
+				"id": 5423394,
+				"order": 13,
+				"name": "Henry Bolan",
+				"character": "Ryder (voice)"
+			},
+			{
+				"id": 3716163,
+				"order": 14,
+				"name": "Lucien Duncan-Reid",
+				"profile_path": "/sliCDt3gkMHXcXusq72PLLFTbHG.jpg",
+				"character": "Rubble (voice)",
+				"gender": 2
+			},
+			{
+				"id": 5423404,
+				"order": 15,
+				"name": "William Desrosiers",
+				"character": "Rocky (voice)",
+				"gender": 2
+			},
+			{
+				"id": 3890634,
+				"order": 16,
+				"name": "Nylan Parthipan",
+				"profile_path": "/cwAUs4vWfZyn2cHNrGu9tC8W0yK.jpg",
+				"character": "Zuma (voice)",
+				"gender": 2
+			},
+			{
+				"id": 6025559,
+				"order": 17,
+				"name": "Darius Willis",
+				"profile_path": "/1xakiGcC97nguaVLByNd7GqgCkL.jpg",
+				"character": "Dustin (voice)",
+				"gender": 2
+			},
+			{
+				"id": 23680,
+				"order": 18,
+				"name": "Dee Bradley Baker",
+				"profile_path": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg",
+				"character": "Dinosaur Voice Performance (voice)",
+				"gender": 2
+			},
+			{
+				"id": 2135419,
+				"order": 19,
+				"name": "Kamaia Fairburn",
+				"profile_path": "/tfwLOmrueNAebxRxJEZKX3l46l7.jpg",
+				"character": "Delilah (voice)",
+				"gender": 1
+			},
+			{
+				"id": 44191,
+				"order": 20,
+				"name": "Sugith Varughese",
+				"profile_path": "/8fUSgYdPks13YbCkAbRqcZsBpR2.jpg",
+				"character": "Prison Guard (voice)",
+				"gender": 2
+			},
+			{
+				"id": 2767375,
+				"order": 21,
+				"name": "Janet Rose Nguyen",
+				"profile_path": "/vlRJCBR79mcX6r9fkz9o3bR0fkX.jpg",
+				"character": "Diner Patron 1 (voice)",
+				"gender": 1
+			},
+			{
+				"id": 198604,
+				"order": 22,
+				"name": "Carlos Diaz",
+				"profile_path": "/z8EYRAldkGs4yXfHf4NLCkEFPmN.jpg",
+				"character": "Diner Patron 2 (voice)",
+				"gender": 2
+			},
+			{
+				"id": 51037,
+				"order": 23,
+				"name": "Athena Karkanis",
+				"profile_path": "/bxKJJWXfnTfWVpsD5Y5H8g4vFUq.jpg",
+				"character": "Dino Doctor (voice)",
+				"gender": 1
+			},
+			{
+				"id": 60091,
+				"order": 24,
+				"name": "Doug Murray",
+				"profile_path": "/A3QlblmHduyIcMyzNTelkTiIPtw.jpg",
+				"character": "Camera Operator (voice)",
+				"gender": 2
+			},
+			{
+				"id": 116486,
+				"order": 25,
+				"name": "Shauna Black",
+				"profile_path": "/l2EGSzYP5vHaBX5LNMXsKbd6VLk.jpg",
+				"character": "Additional Voices (voice)",
+				"gender": 1
+			},
+			{
+				"id": 51538,
+				"order": 26,
+				"name": "Emma Campbell",
+				"profile_path": "/6bmE3BddsgZVdCFsyBCGlgUAtPR.jpg",
+				"character": "Additional Voices (voice)",
+				"gender": 1
+			},
+			{
+				"id": 4124627,
+				"order": 27,
+				"name": "Nick Dolan",
+				"character": "Additional Voices (voice)",
+				"gender": 2
+			},
+			{
+				"id": 3336737,
+				"order": 28,
+				"name": "Virgilia Griffith",
+				"character": "Addtional Voices (voice)"
+			},
+			{
+				"id": 186491,
+				"order": 29,
+				"name": "Christopher Marren",
+				"profile_path": "/44zkHtvjS2qKcyeMOu11axmxZH8.jpg",
+				"character": "Additional Voices (voice)",
+				"gender": 2
+			},
+			{
+				"id": 6413008,
+				"order": 30,
+				"name": "Mojeane Sadrzadeh",
+				"character": "Additional Voices (voice)"
+			},
+			{
+				"id": 1357223,
+				"order": 31,
+				"name": "Mike Shara",
+				"profile_path": "/tZAGNwrfP1sRGvoYZtaVNvIIXtP.jpg",
+				"character": "Additional Voices (voice)",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 2028228,
+				"name": "Ronnen Harary",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1564601,
+				"name": "Jennifer Dodge",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1098477,
+				"name": "Cal Brunker",
+				"profile_path": "/40FRTywgDa9KwFwHUxkVqeSrESl.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2001300,
+				"name": "Ed Fuller",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1098477,
+				"name": "Cal Brunker",
+				"profile_path": "/40FRTywgDa9KwFwHUxkVqeSrESl.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1098477,
+				"name": "Cal Brunker",
+				"profile_path": "/40FRTywgDa9KwFwHUxkVqeSrESl.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1098478,
+				"name": "Bob Barlen",
+				"profile_path": "/iPLLsU3zt7DDcmsEYGYIkKg4nRB.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1072655,
+				"name": "Laura Clunie",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1229573,
+				"name": "Toni Stevens",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4445622,
+				"name": "Pete Chiappetta",
+				"profile_path": "/t2gaoeKDpCvzIhVzr7rQrX4gBjn.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4445623,
+				"name": "Andrew Lary",
+				"profile_path": "/cmiInaHyivPOr9OZyOMwDLiiINf.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4445624,
+				"name": "Anthony Tittanegro",
+				"profile_path": "/3KPNXBg7a1jw97234n98weScLmF.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1242988,
+				"name": "Keith Chapman",
+				"job": "Characters",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 61843,
+				"name": "Pinar Toprak",
+				"profile_path": "/vSP9i7l963ERJAxJOpKQoUBEoN7.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 24192,
+				"name": "Dave Jordan",
+				"profile_path": "/btzUgkKCllxClxIgLhmhZ1qaPw.jpg",
+				"job": "Music Supervisor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2753113,
+				"name": "Justine von Winterfeldt",
+				"job": "Music Supervisor",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 3010273,
+				"name": "Michael MacAdam",
+				"job": "Head of Story",
+				"department": "Writing"
+			}
+		]
+	}
+}
