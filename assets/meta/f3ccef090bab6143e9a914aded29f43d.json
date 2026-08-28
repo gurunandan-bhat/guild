@@ -1,0 +1,453 @@
+{
+	"id": 1036081,
+	"title": "Khalifa: The Ruler",
+	"fcg_title": "Khalifa: The Ruler",
+	"original_title": "ഖലീഫ: The Ruler",
+	"original_language": "ml",
+	"genres": [
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 28,
+			"name": "Action"
+		}
+	],
+	"overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
+	"backdrop_path": "/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
+	"poster_path": "/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
+	"release_date": "2026-08-20",
+	"credits": {
+		"cast": [
+			{
+				"id": 117690,
+				"order": 0,
+				"name": "Prithviraj Sukumaran",
+				"profile_path": "/1xhG42QU8tMQRTDdP1Ed3y9GRvm.jpg",
+				"character": "Aamir Ali",
+				"gender": 2
+			},
+			{
+				"id": 82732,
+				"order": 1,
+				"name": "Mohanlal",
+				"profile_path": "/wvoBULQimwguAGPOHZ8TDoy7jBJ.jpg",
+				"character": "Mambarakkal Ahmed Ali",
+				"gender": 2
+			},
+			{
+				"id": 85045,
+				"order": 2,
+				"name": "Neil Nitin Mukesh",
+				"profile_path": "/7lfd8WfMc2hOXYpCRFwhjiVZ7fl.jpg",
+				"character": "Harris Basheer",
+				"gender": 2
+			},
+			{
+				"id": 1061913,
+				"order": 3,
+				"name": "Indrans",
+				"profile_path": "/vs5Acy2hJ4dWoM3xRGdnFKdVXzw.jpg",
+				"character": "Hamsa",
+				"gender": 2
+			},
+			{
+				"id": 584910,
+				"order": 4,
+				"name": "Shammi Thilakan",
+				"profile_path": "/7lDFgyfGXbQEFFrbnVA24XaYGW.jpg",
+				"character": "Raghavan",
+				"gender": 2
+			},
+			{
+				"id": 2052174,
+				"order": 5,
+				"name": "Malvika Sharma",
+				"profile_path": "/eHeDO98xywcCpka7CQ3QAj8foGP.jpg",
+				"character": "Fiza",
+				"gender": 1
+			},
+			{
+				"id": 1199187,
+				"order": 6,
+				"name": "Renji Panicker",
+				"profile_path": "/5MGztWs1yxlptGDzeofC2jG7cAm.jpg",
+				"character": "Younus Ali",
+				"gender": 2
+			},
+			{
+				"id": 584915,
+				"order": 7,
+				"name": "Mohini",
+				"profile_path": "/h4P1Nwl5bswA2n2d4gPLJ6k2pV.jpg",
+				"character": "Noorjahan",
+				"gender": 1
+			},
+			{
+				"id": 1608604,
+				"order": 8,
+				"name": "Sanju Sivaram",
+				"profile_path": "/AuLep2bS9iFnt0l4Nzw1H22bf6m.jpg",
+				"character": "Samad",
+				"gender": 2
+			},
+			{
+				"id": 1859065,
+				"order": 9,
+				"name": "Anand Manmadhan",
+				"profile_path": "/xlx9Rmb3NGHNX7VFGD55kskCM04.jpg",
+				"character": "Rahim",
+				"gender": 2
+			},
+			{
+				"id": 1747563,
+				"order": 10,
+				"name": "Shivajith Padmanabhan",
+				"profile_path": "/eEi3Ef32bf1tD0iHu2nrTbIoyoM.jpg",
+				"character": "Vinayakan",
+				"gender": 2
+			},
+			{
+				"id": 6399391,
+				"order": 11,
+				"name": "Kyraa Vasudevan",
+				"character": "Vyshnavi"
+			},
+			{
+				"id": 6399392,
+				"order": 12,
+				"name": "Master Nafash",
+				"character": "Rushin"
+			},
+			{
+				"id": 6397675,
+				"order": 13,
+				"name": "Don Michael",
+				"character": "Vivek"
+			},
+			{
+				"id": 1274873,
+				"order": 14,
+				"name": "Sijoy Varghese",
+				"profile_path": "/vjxFgJUNBlP69bnTUAsoR5Qgggy.jpg",
+				"gender": 2
+			},
+			{
+				"id": 3041307,
+				"order": 15,
+				"name": "P N Sunny",
+				"profile_path": "/aIIidOtvFKEG6fIBMez7gogixTK.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1263974,
+				"order": 16,
+				"name": "Tovino Thomas",
+				"profile_path": "/5JjhHzqPIowouatvKEpzwb9bGRO.jpg",
+				"character": "Iver Alexander",
+				"gender": 2
+			},
+			{
+				"id": 1470729,
+				"order": 17,
+				"name": "Soubin Shahir",
+				"profile_path": "/eFMA1PFOpDtiJ5MlkSAMexvTPsl.jpg",
+				"gender": 2
+			},
+			{
+				"id": 109173,
+				"order": 18,
+				"name": "Suresh Oberoi",
+				"profile_path": "/eU19xoD28bzCImBXNpOQCIbhUZG.jpg",
+				"character": "Seitraj Singh",
+				"gender": 2
+			},
+			{
+				"id": 5036254,
+				"order": 19,
+				"name": "Leya Mammen",
+				"profile_path": "/aEDAvcmdnoGk6Zmj9sE3qE3Or03.jpg",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 1098544,
+				"name": "Vysakh",
+				"profile_path": "/7kJYWmo9yVPXESnO7W4hD1kL9Vf.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1198865,
+				"name": "Jinu Abraham",
+				"profile_path": "/xLv8znq2oSy9B09WmkZhV90P7PP.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2476387,
+				"name": "Sahil Sharma",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1504453,
+				"name": "Jakes Bejoy",
+				"profile_path": "/n1JPfYACCoK6wzXUGITLvw3ku7F.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1198865,
+				"name": "Jinu Abraham",
+				"profile_path": "/xLv8znq2oSy9B09WmkZhV90P7PP.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1071571,
+				"name": "Jomon T. John",
+				"profile_path": "/q8p2iKw928tQ7ssuHx7gsPQQG8N.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1665417,
+				"name": "Mashar Hamsa",
+				"profile_path": "/6oHYQatEazi32URb9yje4gttler.jpg",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 3024792,
+				"name": "Chaman Chakko",
+				"profile_path": "/ikjKUcjLa94yMvW7HVP06MSN9Y.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 1690843,
+				"name": "Yannick Ben",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1676468,
+				"name": "Mohandas",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1469994,
+				"name": "Suresh Divakar",
+				"job": "Co-Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1757786,
+				"name": "Sinat Savier",
+				"job": "Still Photographer",
+				"department": "Camera"
+			},
+			{
+				"id": 2329572,
+				"name": "Amal Chandran",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 2446685,
+				"name": "SRIK Varier",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 5735254,
+				"name": "Jabir Sulaim Devathiyal",
+				"job": "Music",
+				"department": "Sound"
+			},
+			{
+				"id": 5198747,
+				"name": "Aesthetic Kunjamma",
+				"profile_path": "/b72AAeSG8mV6J8SgYvfghPBoegN.jpg",
+				"job": "Publicist",
+				"department": "Production"
+			},
+			{
+				"id": 3025928,
+				"name": "Rinny Diwakar",
+				"job": "Production Controller",
+				"department": "Crew"
+			},
+			{
+				"id": 2035360,
+				"name": "Vinosh Kaimal",
+				"job": "Production Controller",
+				"department": "Crew"
+			},
+			{
+				"id": 4637427,
+				"name": "Viswanath Aravind",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1643495,
+				"name": "M. R. Rajakrishnan",
+				"job": "Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1643578,
+				"name": "Sachin Sudhakaran",
+				"profile_path": "/uCr5Q0tx3MkVFFQC1XlNCUrRAeq.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1643577,
+				"name": "Hari Haran",
+				"profile_path": "/p8eA1lehNhAsXeYI9o35IOXY7B4.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2102970,
+				"name": "Sid Sriram",
+				"profile_path": "/fXTMPvgY0v6gw4zjdL6MP2j00HE.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5586432,
+				"name": "Muthu",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 3131719,
+				"name": "Mohammad Maqbool Mansoor",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1932076,
+				"name": "Shreya Ghoshal",
+				"profile_path": "/rTmgSXriOmd6TyQVFXvf3DctYXQ.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 2445991,
+				"name": "K C Balasarangan",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 2415878,
+				"name": "K. S. Harisankar",
+				"profile_path": "/6v8Om9nh2ujDTiPVmKGpwYNJMmg.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 6405305,
+				"name": "Unmesh Unnikrishnan",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 5452855,
+				"name": "Anila Rajeev",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 1394604,
+				"name": "Rafeeq Ahammed",
+				"profile_path": "/eiCZOjvIYf11ApNe8tLRQZTSz68.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 6082988,
+				"name": "Akhil J Chand",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 5549653,
+				"name": "Hanan Shaah",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 6405307,
+				"name": "Fathima Jabbar",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 2111277,
+				"name": "Chetan D'Souza",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 3025927,
+				"name": "Phoenix Prabhu",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2431540,
+				"name": "Arjun Kallingal",
+				"job": "Still Photographer",
+				"department": "Camera"
+			},
+			{
+				"id": 1640322,
+				"name": "Brinda Gopal",
+				"profile_path": "/fcC4NTNqQZaJtVuFHM9oRUDr97Y.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 4433177,
+				"name": "Sijo Sebastian",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 6415813,
+				"name": "Sreelal Soolapani",
+				"job": "Co-Producer",
+				"department": "Production"
+			}
+		]
+	}
+}
