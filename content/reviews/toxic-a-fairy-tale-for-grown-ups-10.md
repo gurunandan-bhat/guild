@@ -2,7 +2,7 @@
 title = "Toxic: A Fairy Tale for Grown-ups"
 date = 2026-08-27T21:54:33+05:30
 draft = false
-mreviews = ["Toxic a Fairy Tale for Grown-ups"]
+mreviews = ["Toxic a Fairy Tale for Grown Ups"]
 critics = ['Rahul Desai']
 publication = ''
 subtitle = "The Shaky Subversions of 'Toxic': Women Telling Men’s Stories"

@@ -2,7 +2,7 @@
 title = "Toxic: A Fairy Tale for Grown-ups"
 date = 2026-08-27T00:23:08+05:30
 draft = false
-mreviews = ["Toxic a Fairy Tale for Grown-ups"]
+mreviews = ["Toxic a Fairy Tale for Grown Ups"]
 critics = ['Deepak Dua']
 publication = 'Cineyatra.com'
 subtitle = "धांय-धांय धुआं-धुआं ‘टॉक्सिक’"

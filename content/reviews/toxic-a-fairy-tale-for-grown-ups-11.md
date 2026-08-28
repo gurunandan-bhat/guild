@@ -2,7 +2,7 @@
 title = "Toxic: A Fairy Tale for Grown-ups"
 date = 2026-08-27T21:56:23+05:30
 draft = false
-mreviews = ["Toxic a Fairy Tale for Grown-ups"]
+mreviews = ["Toxic a Fairy Tale for Grown Ups"]
 critics = ['Uday Bhatia']
 publication = ''
 subtitle = "Yash's latest can't even provoke properly"

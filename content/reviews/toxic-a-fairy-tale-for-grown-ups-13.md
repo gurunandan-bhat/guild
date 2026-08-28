@@ -2,7 +2,7 @@
 title = "Toxic: A Fairy Tale for Grown-ups"
 date = 2026-08-28T11:58:45+05:30
 draft = false
-mreviews = ["Toxic a Fairy Tale for Grown-ups"]
+mreviews = ["Toxic a Fairy Tale for Grown Ups"]
 critics = ['Sachin Chatte']
 publication = ''
 subtitle = "From bed to worse"
