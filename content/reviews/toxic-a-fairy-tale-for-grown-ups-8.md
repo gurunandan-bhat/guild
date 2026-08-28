@@ -2,7 +2,7 @@
 title = "Toxic: A Fairy Tale for Grown-ups"
 date = 2026-08-27T00:38:44+05:30
 draft = false
-mreviews = ["Toxic A Fairy Tale for Grown-ups"]
+mreviews = ["Toxic a Fairy Tale for Grown-ups"]
 critics = ['Shomini Sen']
 publication = ''
 subtitle = "Yash's high-decibel action drama is a circus of absurdities"

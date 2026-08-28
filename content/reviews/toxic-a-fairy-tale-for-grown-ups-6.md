@@ -2,7 +2,7 @@
 title = "Toxic: A Fairy Tale for Grown-ups"
 date = 2026-08-27T00:34:30+05:30
 draft = false
-mreviews = ["Toxic A Fairy Tale for Grown-ups"]
+mreviews = ["Toxic a Fairy Tale for Grown-ups"]
 critics = ['Sukanya Verma']
 publication = ''
 subtitle = "All Yash, No Glory"

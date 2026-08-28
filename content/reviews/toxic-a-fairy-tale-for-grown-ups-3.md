@@ -2,7 +2,7 @@
 title = "Toxic: A Fairy Tale for Grown-ups"
 date = 2026-08-27T00:21:22+05:30
 draft = false
-mreviews = ["Toxic A Fairy Tale for Grown-ups"]
+mreviews = ["Toxic a Fairy Tale for Grown-ups"]
 critics = ['Anmol Jamwal']
 subtitle = "The Indie Director-Star Nightmare Continues"
 media = 'video'
