@@ -380,3 +380,31 @@ a.anchor {
     font-size: 15px;
     line-height: 1.25rem;
 }
+
+.announce {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #924c9d;
+}
+
+.announce h2 {
+    font-size: 22px;
+}
+
+.announce h3 {
+    font-size: 20px;
+}
+
+.announce h4 {
+    font-size: 18px;
+}
+
+.announce h5 {
+    font-size: 15px;
+}
+
+.announce h6 {
+    font-size: 14px;
+}
