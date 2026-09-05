@@ -1,5 +1,5 @@
 +++
-title = "Toxic a Fairy Tale for Grown-ups"
+title = "Toxic: A Fairy Tale for Grown-ups"
 date = 2026-08-26T12:45:52+05:30
 draft = false
 mreviews = ["Toxic a Fairy Tale for Grown Ups"]
