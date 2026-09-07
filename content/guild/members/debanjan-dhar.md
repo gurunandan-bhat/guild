@@ -12,4 +12,4 @@ twitter = "https://x.com/Debanjandhar3"
 instagram = "https://www.instagram.com/_debanjan_03/"
 +++
 
-Debanjan Dhar is a film critic and journalist with Outlook, devoted to mapping the international film festival circuit. He also takes an avid interest in tracing the contours of South Asian independent cinema. He has been a junior programmer for few fests including Kolkata People's Film Festival and ALT EFF. The two other things jostling for his attention are books and travel. 
+Debanjan Dhar is a film journalist and critic with an avid interest in South Asian independent cinema. His writing has appeared in publications like Outlook, OTTPlay, FIPRESCI-India and Film Companion. As virtual accredited press, he has covered several international film festivals including Rotterdam, Locarno, Sundance, Visions Du Reel, DOK Leipzig, Sheffield DocFest etc. He has also worked as a programmer for film festivals like Kolkata People's Film Festival and ALT EFF.
