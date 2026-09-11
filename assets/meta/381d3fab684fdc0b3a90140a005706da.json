@@ -1,0 +1,612 @@
+{
+	"id": 1140521,
+	"title": "The Magic Faraway Tree",
+	"fcg_title": "The Magic Faraway Tree",
+	"original_title": "The Magic Faraway Tree",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 12,
+			"name": "Adventure"
+		},
+		{
+			"id": 10751,
+			"name": "Family"
+		},
+		{
+			"id": 14,
+			"name": "Fantasy"
+		}
+	],
+	"overview": "A modern family relocates to the countryside where the children discover a magical tree with eccentric residents. They're transported to fantastical lands, rekindling their family bond through adventures.",
+	"backdrop_path": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
+	"poster_path": "/udXvLxC5gAqN8SinemyFBEcHpTf.jpg",
+	"release_date": "2026-03-26",
+	"credits": {
+		"cast": [
+			{
+				"id": 2607591,
+				"order": 0,
+				"name": "Billie Gadsdon",
+				"profile_path": "/3Xs8VgjGNCjFsIGaFcr3lIkYhrd.jpg",
+				"character": "Fran Thompson",
+				"gender": 1
+			},
+			{
+				"id": 1267240,
+				"order": 1,
+				"name": "Nicola Coughlan",
+				"profile_path": "/bhbFv73vlUM0hXlDdAGDrBBb40x.jpg",
+				"character": "Silky",
+				"gender": 1
+			},
+			{
+				"id": 5858357,
+				"order": 2,
+				"name": "Delilah Bennett-Cardy",
+				"profile_path": "/1qPiOcNNuREzA0BoiOgeEzLJnGF.jpg",
+				"character": "Beth Thompson",
+				"gender": 1
+			},
+			{
+				"id": 3717950,
+				"order": 3,
+				"name": "Phoenix Laroche",
+				"profile_path": "/kXl2nB3tNF9XBPvvkUZgwO0AiY3.jpg",
+				"character": "Joe Thompson",
+				"gender": 2
+			},
+			{
+				"id": 43547,
+				"order": 4,
+				"name": "Nonso Anozie",
+				"profile_path": "/5V5EGRRftkAMPAwRP3a0tu0Nlwe.jpg",
+				"character": "Moonface",
+				"gender": 2
+			},
+			{
+				"id": 37625,
+				"order": 5,
+				"name": "Andrew Garfield",
+				"profile_path": "/beO5YvbTjrr5yy8hW26KVDMSr35.jpg",
+				"character": "Tim Thompson",
+				"gender": 2
+			},
+			{
+				"id": 933238,
+				"order": 6,
+				"name": "Rebecca Ferguson",
+				"profile_path": "/ra53cM1aNmdH0aFhj8yBqPOj2fb.jpg",
+				"character": "Dame Snap",
+				"gender": 1
+			},
+			{
+				"id": 120932,
+				"order": 7,
+				"name": "Claire Foy",
+				"profile_path": "/pI1lOswQWZRhc8TKu0MESulw9uF.jpg",
+				"character": "Polly Thompson",
+				"gender": 1
+			},
+			{
+				"id": 1196101,
+				"order": 8,
+				"name": "Jessica Gunning",
+				"profile_path": "/c4nC6usiZdRlw4VkOcHFLXtrPa0.jpg",
+				"character": "Dame Washalot",
+				"gender": 1
+			},
+			{
+				"id": 1308934,
+				"order": 9,
+				"name": "Dustin Demri-Burns",
+				"profile_path": "/m0yBhBOqO9HSvsBxj9JzdPfMf3d.jpg",
+				"character": "Saucepan Man",
+				"gender": 2
+			},
+			{
+				"id": 12094,
+				"order": 10,
+				"name": "Jennifer Saunders",
+				"profile_path": "/pTgxwHcz9L8SNVYvPJS0o0lgHya.jpg",
+				"character": "Grandma",
+				"gender": 1
+			},
+			{
+				"id": 114253,
+				"order": 11,
+				"name": "Simon Farnaby",
+				"profile_path": "/xslxzBfDYYHNFnAMWyjjxFUTlEk.jpg",
+				"character": "Farmer Brian",
+				"gender": 2
+			},
+			{
+				"id": 86477,
+				"order": 12,
+				"name": "Claire Keelan",
+				"profile_path": "/aKNSxAV4vqXi8tg28vrKjsyKACE.jpg",
+				"character": "Bella",
+				"gender": 1
+			},
+			{
+				"id": 31739,
+				"order": 13,
+				"name": "Oliver Chris",
+				"profile_path": "/xTnUMtP5MREaHD86XfJ5mYibawq.jpg",
+				"character": "Mr Watzisname",
+				"gender": 2
+			},
+			{
+				"id": 1624859,
+				"order": 14,
+				"name": "Hiran Abeysekera",
+				"profile_path": "/1AcEoZAsUYtRaZCMHE0p9u1xbIs.jpg",
+				"character": "Angry Pixie",
+				"gender": 2
+			},
+			{
+				"id": 5309,
+				"order": 15,
+				"name": "Judi Dench",
+				"profile_path": "/cpna5VGvAxuKuC31xJPBKy9zbnv.jpg",
+				"character": "The Fridge (voice)",
+				"gender": 1
+			},
+			{
+				"id": 1376880,
+				"order": 16,
+				"name": "Pippa Bennett-Warner",
+				"profile_path": "/715ALI0JYSEVZdoHQiRPij5KK5W.jpg",
+				"character": "Hannah",
+				"gender": 1
+			},
+			{
+				"id": 47712,
+				"order": 17,
+				"name": "Mark Heap",
+				"profile_path": "/kHqwlCSxN0MQY3BxayIL1U55uxS.jpg",
+				"character": "Mr Oom Boom Boom",
+				"gender": 2
+			},
+			{
+				"id": 53519,
+				"order": 18,
+				"name": "Lenny Henry",
+				"profile_path": "/aT5zYMfGI3x4sGtCs9QM4gT0G2h.jpg",
+				"character": "Know All",
+				"gender": 2
+			},
+			{
+				"id": 383,
+				"order": 19,
+				"name": "Michael Palin",
+				"profile_path": "/gWz8S2FEUEm1f3LQrN8cSUjnfhu.jpg",
+				"character": "Know All",
+				"gender": 2
+			},
+			{
+				"id": 57461,
+				"order": 20,
+				"name": "Simon Russell Beale",
+				"profile_path": "/uw0ngaqgT8qXwJqVr353cx1mEdB.jpg",
+				"character": "Know All",
+				"gender": 2
+			},
+			{
+				"id": 1473776,
+				"order": 21,
+				"name": "Tom Meeten",
+				"profile_path": "/rpsCYhYvyrBLuRsE3goG2krna8R.jpg",
+				"character": "Goblin Jeff",
+				"gender": 2
+			},
+			{
+				"id": 178622,
+				"order": 22,
+				"name": "Ramon Tikaram",
+				"profile_path": "/wtBLiI8tzeqPLMB9uswkyFhChva.jpg",
+				"character": "Growing Spell Trader",
+				"gender": 2
+			},
+			{
+				"id": 2526063,
+				"order": 23,
+				"name": "Michael Dapaah",
+				"profile_path": "/2bIk8mPWQI4DCNPykWNuj9ZyqQd.jpg",
+				"character": "Goodie Policeman",
+				"gender": 2
+			},
+			{
+				"id": 6077814,
+				"order": 24,
+				"name": "James Dowell",
+				"profile_path": "/z11cPEQ239PTki52jIAI06I8gVJ.jpg",
+				"character": "Farm Boy"
+			},
+			{
+				"id": 2680268,
+				"order": 25,
+				"name": "Luke Millington-Drake",
+				"profile_path": "/66Bhg96KZt2cSUMXmOf0pHUSCXu.jpg",
+				"character": "Birthday Elf",
+				"gender": 2
+			},
+			{
+				"id": 2626355,
+				"order": 26,
+				"name": "Jos Vantyler",
+				"character": "Birthday Elf",
+				"gender": 2
+			},
+			{
+				"id": 4010273,
+				"order": 27,
+				"name": "Julia Saubier",
+				"character": "Birthday Elf"
+			},
+			{
+				"id": 6105953,
+				"order": 28,
+				"name": "Jean-Luke Worrell",
+				"character": "Birthday Elf"
+			},
+			{
+				"id": 4604180,
+				"order": 29,
+				"name": "Kuhu Agarwal",
+				"character": "Beth’s Friend"
+			},
+			{
+				"id": 1822370,
+				"order": 30,
+				"name": "Andrew Joshi",
+				"profile_path": "/6IzNELJMLi6tjmmoyDuzK8QbVJf.jpg",
+				"character": "Fruit Stall Punch Man",
+				"gender": 2
+			},
+			{
+				"id": 6106734,
+				"order": 31,
+				"name": "Sonny Meo",
+				"character": "Young Tim"
+			},
+			{
+				"id": 81483,
+				"order": 32,
+				"name": "Gary Pillai",
+				"profile_path": "/5spoQG9bekDRTMKtHPJdhxhib29.jpg",
+				"character": "Man from DeCanio",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1117106,
+				"name": "Enid Blyton",
+				"profile_path": "/8wXHyQOI08TBtLsldHdabDwrZND.jpg",
+				"job": "Book",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 34885,
+				"name": "Pippa Harris",
+				"profile_path": "/bEuEMKrqowWIe0iDHtxpo0xfTqX.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1172495,
+				"name": "Ben Gregor",
+				"profile_path": "/v5VJP6pKwGSo5neW2cl8ZiWVL0v.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 57837,
+				"name": "Nicolas Brown",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2195304,
+				"name": "Simon Williams",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1804192,
+				"name": "Joe Simpson",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1022433,
+				"name": "Jane Hooks",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 67157,
+				"name": "Jonathan Bross",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1330723,
+				"name": "Tamara Birkemoe",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1403457,
+				"name": "Danny Perkins",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 114253,
+				"name": "Simon Farnaby",
+				"profile_path": "/xslxzBfDYYHNFnAMWyjjxFUTlEk.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1016178,
+				"name": "Ann Maskrey",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1419220,
+				"name": "Zac Nicholson",
+				"profile_path": "/xJvIpOq0cxWJqe7lmSkJbi6mmtL.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1411137,
+				"name": "Jonathan Spencer",
+				"job": "Gaffer",
+				"department": "Lighting",
+				"gender": 2
+			},
+			{
+				"id": 2530192,
+				"name": "Jules Hindess",
+				"job": "Costume Standby",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 174842,
+				"name": "Isabella Summers",
+				"profile_path": "/9zCTcWj457XpNdYJZGTXsr92sya.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 11226,
+				"name": "Alexandra Walker",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1915705,
+				"name": "Jane Harwood",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1337394,
+				"name": "Hannah Moseley",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 89385,
+				"name": "Hattie Storey",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1032063,
+				"name": "Alison Harvey",
+				"job": "Set Decoration",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 2043550,
+				"name": "Sophia Bowerman",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4105425,
+				"name": "Charlie Butler",
+				"profile_path": "/wzFnsqx11g8tB481ghexFQY8f6Y.jpg",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1459856,
+				"name": "Robb Crafer",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 3652887,
+				"name": "Jean Carlos de Blas",
+				"job": "Wigmaker",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 3652887,
+				"name": "Jean Carlos de Blas",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1827747,
+				"name": "Karen Hartley-Thomas",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1827747,
+				"name": "Karen Hartley-Thomas",
+				"job": "Hairstylist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1635006,
+				"name": "Chris Lyons",
+				"job": "Special Effects Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1411074,
+				"name": "Ray Marston",
+				"job": "Wigmaker",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1430475,
+				"name": "Jon Moore",
+				"job": "Special Effects Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4901761,
+				"name": "Emma Rigby",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 84884,
+				"name": "Matthew E. Chausse",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1328695,
+				"name": "Michael Cornelius",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 6141062,
+				"name": "Melanie Davis",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4872268,
+				"name": "Merrick Stoller",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3761880,
+				"name": "Jacqueline de Croÿ",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4513791,
+				"name": "Andy Wang",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1113,
+				"name": "Lucinda Syson",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1764110,
+				"name": "Natasha Vincent",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1669682,
+				"name": "Gary Dollner",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 4282394,
+				"name": "Francesca Bourne",
+				"job": "Sound",
+				"department": "Sound"
+			},
+			{
+				"id": 1699535,
+				"name": "Zoe Freed",
+				"job": "Foley Artist",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 2053510,
+				"name": "Rebecca Heathcote",
+				"job": "Sound",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1338971,
+				"name": "Glen Gathard",
+				"job": "Sound Supervisor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5115791,
+				"name": "Zoe King",
+				"job": "Foley Artist",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1278131,
+				"name": "Paul Kennington",
+				"profile_path": "/zd73bf0gF9ws8jvgrcg1DNNBnxa.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2847151,
+				"name": "Verity Naughton",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			}
+		]
+	}
+}
