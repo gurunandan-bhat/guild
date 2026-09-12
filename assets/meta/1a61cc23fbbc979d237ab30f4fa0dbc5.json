@@ -1,0 +1,83 @@
+{
+	"id": 69557,
+	"name": "Fauda",
+	"fcg_title": "Fauda S05",
+	"original_language": "he",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 10759,
+			"name": "Action \u0026 Adventure"
+		},
+		{
+			"id": 10768,
+			"name": "War \u0026 Politics"
+		}
+	],
+	"overview": "A top Israeli agent comes out of retirement to hunt for a Palestinian militant he thought he'd killed, setting a chaotic chain of events into motion.",
+	"backdrop_path": "/l7BDJsD2zRYHvu3G7qV1v7q5hoF.jpg",
+	"poster_path": "/bc6XIKP1TrnugYMzIIUz9YCL8VM.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 1259880,
+				"order": 0,
+				"name": "Lior Raz",
+				"profile_path": "/bl3KLFUQ4Q0zC9lCU4qP1Jf4qHS.jpg",
+				"character": "Doron Kavillio",
+				"gender": 2
+			},
+			{
+				"id": 41639,
+				"order": 1,
+				"name": "Netta Garti",
+				"profile_path": "/yAwo4zSpCzMhYiPGxkJBYhnzjRV.jpg",
+				"character": "Gali Kavillio",
+				"gender": 1
+			},
+			{
+				"id": 1937567,
+				"order": 7,
+				"name": "Doron Ben-David",
+				"profile_path": "/bSrRVAKtmu6hOsvvsOTZsqlBZVx.jpg",
+				"character": "Hertzel 'Steve' Pinto",
+				"gender": 2
+			},
+			{
+				"id": 1011142,
+				"order": 8,
+				"name": "Rona-Lee Shimon",
+				"profile_path": "/tsbVNfgRukCyPEVog2bIhcOSJWx.jpg",
+				"character": "Nurit",
+				"gender": 1
+			},
+			{
+				"id": 235131,
+				"order": 10,
+				"name": "Itzik Cohen",
+				"profile_path": "/tfjZLOyLAqbzn0X45mlDrka5YhQ.jpg",
+				"character": "Gabi \"Captain Eyov\"",
+				"gender": 2
+			},
+			{
+				"id": 1750071,
+				"order": 18,
+				"name": "Yaakov Zada-Daniel",
+				"profile_path": "/l24AkJpluGie5xI5SJnAji0W3xU.jpg",
+				"character": "Eli",
+				"gender": 2
+			},
+			{
+				"id": 3687513,
+				"order": 27,
+				"name": "Dan Kadosh",
+				"profile_path": "/sR0MITHu14ckO1Txlm7Ht2n5V6A.jpg",
+				"character": "European Terrorist",
+				"gender": 2
+			}
+		]
+	}
+}
