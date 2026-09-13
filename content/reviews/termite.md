@@ -1,7 +1,7 @@
 +++
 title = "Termite"
 date = 2026-09-12T14:06:39+05:30
-draft = true
+draft = false
 mreviews = ["Termite"]
 critics = ['Rahul Desai']
 publication = ''

@@ -5,14 +5,152 @@
 	"original_title": "Termite",
 	"original_language": "ur",
 	"overview": "Shaunak Sen’s follow-up to the Academy Award–nominated documentary All That Breathes is an evocative drama set in the vibrant neighbourhoods of Old Delhi, where the routined lives of two middle-aged termite exterminators are about to drastically change when one of them receives an unexpected marriage proposal.",
+	"backdrop_path": "/1f9ZEja8HXu91vUNpZOrw5dd6RH.jpg",
+	"poster_path": "/uNShe3V9Tbwb0RfWjVHOZURpv6I.jpg",
 	"release_date": "2026-09-11",
 	"credits": {
+		"cast": [
+			{
+				"id": 2268369,
+				"order": 0,
+				"name": "Faisal Malik",
+				"profile_path": "/eztI7Y1VUqHz7OYZ4ytoyEz0amz.jpg",
+				"character": "Saud",
+				"gender": 2
+			},
+			{
+				"id": 52768,
+				"order": 1,
+				"name": "Vipin Sharma",
+				"profile_path": "/3TZHbQ1Zi3z1B721jwwTKxAMXqI.jpg",
+				"character": "Nadeem",
+				"gender": 2
+			},
+			{
+				"id": 86424,
+				"order": 2,
+				"name": "Shilpa Shukla",
+				"profile_path": "/tSOAtTPNJbIb2Ldp52XgW27exFD.jpg",
+				"character": "Tabassum",
+				"gender": 1
+			},
+			{
+				"id": 2366796,
+				"order": 3,
+				"name": "Valavane Koumarane",
+				"character": "Ajith"
+			},
+			{
+				"id": 6472866,
+				"order": 4,
+				"name": "Imran Khan",
+				"character": "Bulky Man"
+			}
+		],
 		"crew": [
 			{
 				"id": 1549669,
 				"name": "Shaunak Sen",
 				"job": "Director",
 				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1549669,
+				"name": "Shaunak Sen",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1631015,
+				"name": "Ben Bernhard",
+				"job": "Cinematography",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1549642,
+				"name": "Saumyananda Sahi",
+				"profile_path": "/jgo0RK5riRLjahySS9y879bY5mN.jpg",
+				"job": "Cinematography",
+				"department": "Crew"
+			},
+			{
+				"id": 1186366,
+				"name": "Manas Mittal",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 52768,
+				"name": "Vipin Sharma",
+				"profile_path": "/3TZHbQ1Zi3z1B721jwwTKxAMXqI.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2007953,
+				"name": "Pawan Singh",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2926849,
+				"name": "Amit Rai",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4067033,
+				"name": "Dimpy Agrawal",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 6472871,
+				"name": "Meenal Agarwal",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 6472873,
+				"name": "Narayan Krishnaswamy",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4870687,
+				"name": "Aman Mann",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 6472874,
+				"name": "Prashanth Rajagopal",
+				"job": "Supervising Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1662231,
+				"name": "Alokananda Dasgupta",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 2431326,
+				"name": "Devika Dave",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 237698,
+				"name": "Ajay Kumar",
+				"job": "Art Direction",
+				"department": "Art",
 				"gender": 2
 			}
 		]

@@ -7,7 +7,7 @@ critics = ['Suchin Mehrotra']
 subtitle = "Lots to appreciate but little to be absorbed"
 media = 'video'
 source = 'X06PHClscEo'
-scores = []
+scores = [4]
 +++
 
 {{< youtube id="X06PHClscEo" loading="lazy" >}}
