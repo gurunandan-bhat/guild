@@ -1,0 +1,66 @@
+{
+	"id": 334788,
+	"name": "Panchanama",
+	"fcg_title": "Panchanama",
+	"original_language": "te",
+	"genres": [
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 9648,
+			"name": "Mystery"
+		}
+	],
+	"overview": "Police officer Jai Ram refuses to accept his brother Aadi's death as an accident. His investigation leads him to reopen other suspicious death cases involving Aadi, Praveen and Joseph, eventually uncovering a much larger conspiracy connected to a medical syndicate.",
+	"backdrop_path": "/aqN66GF5RdgvuN9I418go527YPE.jpg",
+	"poster_path": "/oUpPFUmje1ViMNLjacXuqcIJ9mD.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 237989,
+				"order": 0,
+				"name": "Bharath Srinivasan",
+				"profile_path": "/aFMbVfpHS9Bd6gnZcgFIKO3Kbr0.jpg",
+				"character": "Jai Ram",
+				"gender": 2
+			},
+			{
+				"id": 585567,
+				"order": 1,
+				"name": "Shivaji Raja",
+				"profile_path": "/uYGakx7oROck3LhhLPeDxG7F0c9.jpg",
+				"character": "Maruthi",
+				"gender": 2
+			},
+			{
+				"id": 6470750,
+				"order": 2,
+				"name": "Medha Reddy",
+				"character": "Dharani"
+			},
+			{
+				"id": 6470752,
+				"order": 3,
+				"name": "Charan Babu",
+				"character": "Aadi"
+			},
+			{
+				"id": 2081713,
+				"order": 4,
+				"name": "V. S. Roopa Lakshmi",
+				"character": "Pushpavalli",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 3883139,
+				"name": "Mohan Srivatsa",
+				"job": "Director",
+				"department": "Directing"
+			}
+		]
+	}
+}
