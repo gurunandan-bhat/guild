@@ -1,0 +1,402 @@
+{
+	"id": 1423191,
+	"title": "Resident Evil",
+	"fcg_title": "Resident Evil",
+	"original_title": "Resident Evil",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 27,
+			"name": "Horror"
+		},
+		{
+			"id": 878,
+			"name": "Science Fiction"
+		},
+		{
+			"id": 12,
+			"name": "Adventure"
+		}
+	],
+	"overview": "A hapless medical courier fights for his life amid an outbreak of a deadly mutagenic virus in an isolated mountain town.",
+	"backdrop_path": "/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
+	"poster_path": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+	"release_date": "2026-09-16",
+	"credits": {
+		"cast": [
+			{
+				"id": 148992,
+				"order": 0,
+				"name": "Austin Abrams",
+				"profile_path": "/5S7ahFPQk4NUh8GTwp8zZlUQNFs.jpg",
+				"character": "Bryan",
+				"gender": 2
+			},
+			{
+				"id": 1838225,
+				"order": 1,
+				"name": "Zach Cherry",
+				"profile_path": "/fT3Wv8ef0Vn0daHWAObCp2Bd4Y.jpg",
+				"character": "Dave",
+				"gender": 2
+			},
+			{
+				"id": 3119545,
+				"order": 2,
+				"name": "Kali Reis",
+				"profile_path": "/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg",
+				"character": "Pauline",
+				"gender": 1
+			},
+			{
+				"id": 1294982,
+				"order": 3,
+				"name": "Paul Walter Hauser",
+				"profile_path": "/hXjjbYg1Ah8mFf5ZcaakyXzDKMx.jpg",
+				"character": "Carl",
+				"gender": 2
+			},
+			{
+				"id": 1169291,
+				"order": 4,
+				"name": "Johnno Wilson",
+				"profile_path": "/eZtBoBE0F7Qb9ZyNpacMOQtmWnM.jpg",
+				"character": "Max",
+				"gender": 2
+			},
+			{
+				"id": 2445714,
+				"order": 5,
+				"name": "Shaun W. Loeser",
+				"profile_path": "/pMV7kzy7OHk4X93uRGbrdvuFgQB.jpg",
+				"character": "Puker"
+			},
+			{
+				"id": 84833,
+				"order": 6,
+				"name": "Zach Cregger",
+				"profile_path": "/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg",
+				"character": "Intercom (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1362996,
+				"order": 7,
+				"name": "Emily Piggford",
+				"profile_path": "/ruijvaNNXzGXqGphQXsoHts1Ovc.jpg",
+				"character": "Dr. Maria Stokes",
+				"gender": 1
+			},
+			{
+				"id": 1221073,
+				"order": 8,
+				"name": "Will Merrick",
+				"profile_path": "/3IVuzHqE8FIBV679o4VGrZInpsE.jpg",
+				"character": "Dave",
+				"gender": 2
+			},
+			{
+				"id": 5848547,
+				"order": 9,
+				"name": "Zoé Bellas",
+				"profile_path": "/3nw4EhStA4IcJQxz4Yevm25u5ov.jpg",
+				"character": "Birdie",
+				"gender": 1
+			},
+			{
+				"id": 1548222,
+				"order": 10,
+				"name": "Chris Lew Kum Hoi",
+				"profile_path": "/7kHYxjhnRErXDRNYaSRemLCx9J7.jpg",
+				"character": "Stanley",
+				"gender": 2
+			},
+			{
+				"id": 225377,
+				"order": 11,
+				"name": "Griffin Newman",
+				"profile_path": "/vRnjx2UGdMhvFn5coYZJLKHVWbq.jpg",
+				"character": "Wade",
+				"gender": 2
+			},
+			{
+				"id": 2832950,
+				"order": 12,
+				"name": "Magdalena Šittová",
+				"profile_path": "/6QDtKNoL6DXwJHpzDrvWG3rKSwa.jpg",
+				"character": "Agatha",
+				"gender": 1
+			},
+			{
+				"id": 183729,
+				"order": 13,
+				"name": "Andrea Miltner",
+				"profile_path": "/oBdyio9RROvtUgauXJH6kE2dWEY.jpg",
+				"character": "Pedestrian",
+				"gender": 1
+			},
+			{
+				"id": 60072,
+				"order": 14,
+				"name": "Sara Paxton",
+				"profile_path": "/atau2a3BlZaTaWSosp4zU7SAFmt.jpg",
+				"character": "Michelle (voice)",
+				"gender": 1
+			},
+			{
+				"id": 231246,
+				"order": 15,
+				"name": "Karel Dobrý",
+				"profile_path": "/mcvTqsqIPTVZiT4saALPljNUQ5B.jpg",
+				"character": "Farmer",
+				"gender": 2
+			},
+			{
+				"id": 2347838,
+				"order": 16,
+				"name": "Devon Deshaun Stewart",
+				"profile_path": "/qZ5BMtEva7XEEdO3BpB9pCPzqMx.jpg",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 84833,
+				"name": "Zach Cregger",
+				"profile_path": "/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 4017,
+				"name": "Robert Kulzer",
+				"profile_path": "/tzQeiYsq9CJIzGSN2nsmez68TM6.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 21036,
+				"name": "Roy Lee",
+				"profile_path": "/7HGbsI8y3TGK8VQhN5rkaXtQnro.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1123422,
+				"name": "Miri Yoon",
+				"profile_path": "/kZZoOpkSvscG4YHAuUJaNGg3WTM.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1098783,
+				"name": "Tom Hammock",
+				"profile_path": "/mCB9AEVpATXxweHESls50ZXYOLo.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 53530,
+				"name": "Sean Guest",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 120,
+				"name": "Dariusz Wolski",
+				"profile_path": "/qnNirhrjkbi6RGdP4FZeljbjzkU.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1691952,
+				"name": "Alessandro Ongaro",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 2457600,
+				"name": "Asad Qizilbash",
+				"profile_path": "/hZdqsU1EmLsPDnW2LElvoRlSaFp.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1058615,
+				"name": "Carter Swan",
+				"profile_path": "/AvLwGyrFlPO0siw3MYH13mOpahI.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1950723,
+				"name": "Jan Petřina",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1360848,
+				"name": "Viktor Prášil",
+				"job": "Production Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1334494,
+				"name": "Martina Ter-Akopowá",
+				"job": "Supervising Art Director",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1721340,
+				"name": "Ludek Vomacka",
+				"job": "Unit Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 2104243,
+				"name": "Shay Hatten",
+				"profile_path": "/hu4OQVq5whk0C6v7B7KHCVUsmUG.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 84833,
+				"name": "Zach Cregger",
+				"profile_path": "/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 84833,
+				"name": "Zach Cregger",
+				"profile_path": "/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 674,
+				"name": "Oliver Berben",
+				"profile_path": "/xzokTXR0FO1LGANvgUDbs4nKem1.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3954,
+				"name": "Richard S. Wright",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3959,
+				"name": "Robert Bernacchi",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 373986,
+				"name": "Brice R. Parker",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 373986,
+				"name": "Brice R. Parker",
+				"job": "Associate Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2504586,
+				"name": "Carolyn Shea",
+				"job": "Visual Effects Production Manager",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1457329,
+				"name": "Kevin Andrew Smith",
+				"profile_path": "/7HDtq3d0uPjmBpJIB7fXtdljQpQ.jpg",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1496396,
+				"name": "Joe Murphy",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1424621,
+				"name": "Eric Reynolds",
+				"job": "Animation Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 6213509,
+				"name": "Janet Walters",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2379291,
+				"name": "Hays Holladay",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 2379292,
+				"name": "Ryan Holladay",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 4425181,
+				"name": "Caroline Fahrer",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1559163,
+				"name": "Nathan Abbot",
+				"job": "Compositing Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1473448,
+				"name": "James Goldman",
+				"job": "\"A\" Camera Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 31516,
+				"name": "Victor Hadida",
+				"profile_path": "/6wk7SIcR3UA5NZ2V1nQeaYG8ByH.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			}
+		]
+	}
+}
