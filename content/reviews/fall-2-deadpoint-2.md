@@ -1,8 +1,8 @@
 +++
-title = "Fall 2"
+title = "Fall 2: Deadpoint"
 date = 2026-09-12T08:56:13+05:30
 draft = false
-mreviews = ["Fall 2"]
+mreviews = ["Fall 2 Deadpoint"]
 critics = ['Shalini Langer']
 publication = ''
 subtitle = "This survival thriller scales the heights, then tumbles"
