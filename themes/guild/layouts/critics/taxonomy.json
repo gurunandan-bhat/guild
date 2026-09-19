@@ -1,10 +1,10 @@
 {{- $critics := dict }}
 {{- range .Pages }}
-    {{- $name := .LinkTitle }}
-    {{- $bio := (jsonify .) | transform.Unmarshal }}
-    {{- $reviews := site.Taxonomies.critics.Get $name }}
-    {{- $bio = merge $bio (dict "ReviewCount" ($reviews | len)) }}
-    {{- $hash := md5 $name }}
-    {{- $critics = merge $critics (dict $hash $bio) }}
+	{{- $name := .LinkTitle }}
+	{{- $bio := (jsonify .) | transform.Unmarshal }}
+	{{- $reviews := site.Taxonomies.critics.Get $name }}
+	{{- $bio = merge $bio (dict "ReviewCount" ($reviews | len)) }}
+	{{- $hash := md5 $name }}
+	{{- $critics = merge $critics (dict $hash $bio) }}
 {{- end }}
 {{- $critics | jsonify (dict "prefix" "" "indent" "\t") }}

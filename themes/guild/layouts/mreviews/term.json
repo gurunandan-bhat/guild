@@ -3,45 +3,46 @@
 
 {{- $reviewers := slice }}
 {{- range .Pages }}
-    {{- $pageMap := (jsonify . ) | transform.Unmarshal }}
-    {{- $critics := slice }}
-    {{- $media := "" }}
-    {{- $source := "" }}
-    {{- $subtitle := "" }}
-    {{- $img := "" }}
-    {{- $score := 0 }}
-    {{- with index .Params "critics" }}
-        {{- $critics = . }}
-        {{- $reviewers = append $reviewers $critics }}
-    {{- end }}
-    {{- with index .Params "source" }}
-        {{- $source = . }}
-    {{- end }}
-    {{- with index .Params "media" }}
-        {{- $media = . }}
-    {{- end }}
-    {{- with index .Params "subtitle" }}
-        {{- $subtitle = . }}
-    {{- end }}
-    {{- with index .Params "img" }}
-        {{- $img = . }}
-    {{- end }}
-    {{- with index .Params "score" }}
-        {{- $score = . }}
-    {{- end }}
-    {{- $pageMap = merge $pageMap (dict
-        "ReviewPath" (urlize .Path)
-        "Params" .Params
-        "Critic" $critics
-        "Media" $media
-        "Source" $source
-        "SubTitle" $subtitle
-        "Summary" nil
-        "Content" .RawContent
-        "Image" $img
-        "Score" $score)
-    }}
-    {{- $reviews = append $pageMap $reviews }}
+	{{- $pageMap := (jsonify .) | transform.Unmarshal }}
+	{{- $critics := slice }}
+	{{- $media := "" }}
+	{{- $source := "" }}
+	{{- $subtitle := "" }}
+	{{- $img := "" }}
+	{{- $score := 0 }}
+	{{- with index .Params "critics" }}
+		{{- $critics = . }}
+		{{- $reviewers = append $reviewers $critics }}
+	{{- end }}
+	{{- with index .Params "source" }}
+		{{- $source = . }}
+	{{- end }}
+	{{- with index .Params "media" }}
+		{{- $media = . }}
+	{{- end }}
+	{{- with index .Params "subtitle" }}
+		{{- $subtitle = . }}
+	{{- end }}
+	{{- with index .Params "img" }}
+		{{- $img = . }}
+	{{- end }}
+	{{- with index .Params "score" }}
+		{{- $score = . }}
+	{{- end }}
+	{{- $pageMap = merge $pageMap (dict
+		"ReviewPath" (urlize .Path)
+		"Params" .Params
+		"Critic" $critics
+		"Media" $media
+		"Source" $source
+		"SubTitle" $subtitle
+		"Summary" nil
+		"Content" .RawContent
+		"Image" $img
+		"Score" $score
+	)
+	}}
+	{{- $reviews = append $pageMap $reviews }}
 {{- end }}
 {{- $metadata := partial "taxonomy/mreviews/metadata-raw.html" $linkTitle }}
 {{- $metadata = merge $metadata (dict "ObjectID" (md5 $linkTitle) "Reviewers" (delimit $reviewers ", ")) }}

@@ -3,7 +3,7 @@
 {{- $kind := .Kind }}
 {{- range .Pages }}
 	{{- $pageMap := (jsonify .) | transform.Unmarshal }}
-	{{- $score := partialCached "fcg-rating-raw.html" .LinkTitle .LinkTitle  }}
+	{{- $score := partialCached "fcg-rating-raw.html" .LinkTitle .LinkTitle }}
 	{{- $posterLink := partialCached "poster-link.html" .LinkTitle .LinkTitle }}
 	{{- $pageMap = merge $pageMap (dict "AverageScore" (div $score 10.0) "URLPath" (urlize .Path)) }}
 	{{- with $posterLink }}
