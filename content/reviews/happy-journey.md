@@ -1,7 +1,7 @@
 +++
 title = "Happy Journey"
 date = 2026-09-18T21:17:59+05:30
-draft = true
+draft = false
 mreviews = ["Happy Journey"]
 critics = ['Srivathsan Nadadhur']
 publication = ''
