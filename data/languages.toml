@@ -11,9 +11,9 @@ english_name = "Avestan"
 iso_639_1 = "ae"
 
 [languages.af]
-name = "Afrikaans"
 english_name = "Afrikaans"
 iso_639_1 = "af"
+name = "Afrikaans"
 
 [languages.ak]
 english_name = "Akan"
@@ -28,9 +28,9 @@ english_name = "Aragonese"
 iso_639_1 = "an"
 
 [languages.ar]
-name = "العربية"
 english_name = "Arabic"
 iso_639_1 = "ar"
+name = "العربية"
 
 [languages.as]
 english_name = "Assamese"
@@ -45,37 +45,37 @@ english_name = "Aymara"
 iso_639_1 = "ay"
 
 [languages.az]
-name = "Azərbaycan"
 english_name = "Azerbaijani"
 iso_639_1 = "az"
+name = "Azərbaycan"
 
 [languages.ba]
 english_name = "Bashkir"
 iso_639_1 = "ba"
 
 [languages.be]
-name = "беларуская мова"
 english_name = "Belarusian"
 iso_639_1 = "be"
+name = "беларуская мова"
 
 [languages.bg]
-name = "български език"
 english_name = "Bulgarian"
 iso_639_1 = "bg"
+name = "български език"
 
 [languages.bi]
 english_name = "Bislama"
 iso_639_1 = "bi"
 
 [languages.bm]
-name = "Bamanankan"
 english_name = "Bambara"
 iso_639_1 = "bm"
+name = "Bamanankan"
 
 [languages.bn]
-name = "বাংলা"
 english_name = "Bengali"
 iso_639_1 = "bn"
+name = "বাংলা"
 
 [languages.bo]
 english_name = "Tibetan"
@@ -86,28 +86,28 @@ english_name = "Breton"
 iso_639_1 = "br"
 
 [languages.bs]
-name = "Bosanski"
 english_name = "Bosnian"
 iso_639_1 = "bs"
+name = "Bosanski"
 
 [languages.ca]
-name = "Català"
 english_name = "Catalan"
 iso_639_1 = "ca"
+name = "Català"
 
 [languages.ce]
 english_name = "Chechen"
 iso_639_1 = "ce"
 
 [languages.ch]
-name = "Finu' Chamorro"
 english_name = "Chamorro"
 iso_639_1 = "ch"
+name = "Finu' Chamorro"
 
 [languages.cn]
-name = "广州话 / 廣州話"
 english_name = "Cantonese"
 iso_639_1 = "cn"
+name = "广州话 / 廣州話"
 
 [languages.co]
 english_name = "Corsican"
@@ -118,9 +118,9 @@ english_name = "Cree"
 iso_639_1 = "cr"
 
 [languages.cs]
-name = "Český"
 english_name = "Czech"
 iso_639_1 = "cs"
+name = "Český"
 
 [languages.cu]
 english_name = "Slavic"
@@ -131,19 +131,19 @@ english_name = "Chuvash"
 iso_639_1 = "cv"
 
 [languages.cy]
-name = "Cymraeg"
 english_name = "Welsh"
 iso_639_1 = "cy"
+name = "Cymraeg"
 
 [languages.da]
-name = "Dansk"
 english_name = "Danish"
 iso_639_1 = "da"
+name = "Dansk"
 
 [languages.de]
-name = "Deutsch"
 english_name = "German"
 iso_639_1 = "de"
+name = "Deutsch"
 
 [languages.dv]
 english_name = "Divehi"
@@ -154,54 +154,54 @@ english_name = "Dzongkha"
 iso_639_1 = "dz"
 
 [languages.ee]
-name = "Èʋegbe"
 english_name = "Ewe"
 iso_639_1 = "ee"
+name = "Èʋegbe"
 
 [languages.el]
-name = "ελληνικά"
 english_name = "Greek"
 iso_639_1 = "el"
+name = "ελληνικά"
 
 [languages.en]
-name = "English"
 english_name = "English"
 iso_639_1 = "en"
+name = "English"
 
 [languages.eo]
-name = "Esperanto"
 english_name = "Esperanto"
 iso_639_1 = "eo"
+name = "Esperanto"
 
 [languages.es]
-name = "Español"
 english_name = "Spanish"
 iso_639_1 = "es"
+name = "Español"
 
 [languages.et]
-name = "Eesti"
 english_name = "Estonian"
 iso_639_1 = "et"
+name = "Eesti"
 
 [languages.eu]
-name = "euskera"
 english_name = "Basque"
 iso_639_1 = "eu"
+name = "euskera"
 
 [languages.fa]
-name = "فارسی"
 english_name = "Persian"
 iso_639_1 = "fa"
+name = "فارسی"
 
 [languages.ff]
-name = "Fulfulde"
 english_name = "Fulah"
 iso_639_1 = "ff"
+name = "Fulfulde"
 
 [languages.fi]
-name = "suomi"
 english_name = "Finnish"
 iso_639_1 = "fi"
+name = "suomi"
 
 [languages.fj]
 english_name = "Fijian"
@@ -212,27 +212,27 @@ english_name = "Faroese"
 iso_639_1 = "fo"
 
 [languages.fr]
-name = "Français"
 english_name = "French"
 iso_639_1 = "fr"
+name = "Français"
 
 [languages.fy]
 english_name = "Frisian"
 iso_639_1 = "fy"
 
 [languages.ga]
-name = "Gaeilge"
 english_name = "Irish"
 iso_639_1 = "ga"
+name = "Gaeilge"
 
 [languages.gd]
 english_name = "Gaelic"
 iso_639_1 = "gd"
 
 [languages.gl]
-name = "Galego"
 english_name = "Galician"
 iso_639_1 = "gl"
+name = "Galego"
 
 [languages.gn]
 english_name = "Guarani"
@@ -247,42 +247,42 @@ english_name = "Manx"
 iso_639_1 = "gv"
 
 [languages.bgc]
-name = "Haryanvi"
 english_name = "Haryanvi"
 iso_639_1 = "bgc"
+name = "Haryanvi"
 
 [languages.ha]
-name = "Hausa"
 english_name = "Hausa"
 iso_639_1 = "ha"
+name = "Hausa"
 
 [languages.he]
-name = "עִבְרִית"
 english_name = "Hebrew"
 iso_639_1 = "he"
+name = "עִבְרִית"
 
 [languages.hi]
-name = "हिन्दी"
 english_name = "Hindi"
 iso_639_1 = "hi"
+name = "हिन्दी"
 
 [languages.ho]
 english_name = "Hiri Motu"
 iso_639_1 = "ho"
 
 [languages.hr]
-name = "Hrvatski"
 english_name = "Croatian"
 iso_639_1 = "hr"
+name = "Hrvatski"
 
 [languages.ht]
 english_name = "Haitian; Haitian Creole"
 iso_639_1 = "ht"
 
 [languages.hu]
-name = "Magyar"
 english_name = "Hungarian"
 iso_639_1 = "hu"
+name = "Magyar"
 
 [languages.hy]
 english_name = "Armenian"
@@ -297,9 +297,9 @@ english_name = "Interlingua"
 iso_639_1 = "ia"
 
 [languages.id]
-name = "Bahasa indonesia"
 english_name = "Indonesian"
 iso_639_1 = "id"
+name = "Bahasa indonesia"
 
 [languages.ie]
 english_name = "Interlingue"
@@ -322,32 +322,32 @@ english_name = "Ido"
 iso_639_1 = "io"
 
 [languages.is]
-name = "Íslenska"
 english_name = "Icelandic"
 iso_639_1 = "is"
+name = "Íslenska"
 
 [languages.it]
-name = "Italiano"
 english_name = "Italian"
 iso_639_1 = "it"
+name = "Italiano"
 
 [languages.iu]
 english_name = "Inuktitut"
 iso_639_1 = "iu"
 
 [languages.ja]
-name = "日本語"
 english_name = "Japanese"
 iso_639_1 = "ja"
+name = "日本語"
 
 [languages.jv]
 english_name = "Javanese"
 iso_639_1 = "jv"
 
 [languages.ka]
-name = "ქართული"
 english_name = "Georgian"
 iso_639_1 = "ka"
+name = "ქართული"
 
 [languages.kg]
 english_name = "Kongo"
@@ -362,9 +362,9 @@ english_name = "Kuanyama"
 iso_639_1 = "kj"
 
 [languages.kk]
-name = "қазақ"
 english_name = "Kazakh"
 iso_639_1 = "kk"
+name = "қазақ"
 
 [languages.kl]
 english_name = "Kalaallisut"
@@ -375,14 +375,14 @@ english_name = "Khmer"
 iso_639_1 = "km"
 
 [languages.kn]
-name = "?????"
 english_name = "Kannada"
 iso_639_1 = "kn"
+name = "?????"
 
 [languages.ko]
-name = "한국어/조선말"
 english_name = "Korean"
 iso_639_1 = "ko"
+name = "한국어/조선말"
 
 [languages.kr]
 english_name = "Kanuri"
@@ -405,14 +405,14 @@ english_name = "Cornish"
 iso_639_1 = "kw"
 
 [languages.ky]
-name = "??????"
 english_name = "Kirghiz"
 iso_639_1 = "ky"
+name = "??????"
 
 [languages.la]
-name = "Latin"
 english_name = "Latin"
 iso_639_1 = "la"
+name = "Latin"
 
 [languages.lb]
 english_name = "Letzeburgesch"
@@ -435,18 +435,18 @@ english_name = "Lao"
 iso_639_1 = "lo"
 
 [languages.lt]
-name = "Lietuvių"
 english_name = "Lithuanian"
 iso_639_1 = "lt"
+name = "Lietuvių"
 
 [languages.lu]
 english_name = "Luba-Katanga"
 iso_639_1 = "lu"
 
 [languages.lv]
-name = "Latviešu"
 english_name = "Latvian"
 iso_639_1 = "lv"
+name = "Latviešu"
 
 [languages.mg]
 english_name = "Malagasy"
@@ -485,14 +485,14 @@ english_name = "Marathi"
 iso_639_1 = "mr"
 
 [languages.ms]
-name = "Bahasa melayu"
 english_name = "Malay"
 iso_639_1 = "ms"
+name = "Bahasa melayu"
 
 [languages.mt]
-name = "Malti"
 english_name = "Maltese"
 iso_639_1 = "mt"
+name = "Malti"
 
 [languages.my]
 english_name = "Burmese"
@@ -503,9 +503,9 @@ english_name = "Nauru"
 iso_639_1 = "na"
 
 [languages.nb]
-name = "Bokmål"
 english_name = "Norwegian Bokmål"
 iso_639_1 = "nb"
+name = "Bokmål"
 
 [languages.nd]
 english_name = "Ndebele"
@@ -520,18 +520,18 @@ english_name = "Ndonga"
 iso_639_1 = "ng"
 
 [languages.nl]
-name = "Nederlands"
 english_name = "Dutch"
 iso_639_1 = "nl"
+name = "Nederlands"
 
 [languages.nn]
 english_name = "Norwegian Nynorsk"
 iso_639_1 = "nn"
 
 [languages.no]
-name = "Norsk"
 english_name = "Norwegian"
 iso_639_1 = "no"
+name = "Norsk"
 
 [languages.nr]
 english_name = "Ndebele"
@@ -566,28 +566,28 @@ english_name = "Ossetian; Ossetic"
 iso_639_1 = "os"
 
 [languages.pa]
-name = "ਪੰਜਾਬੀ"
 english_name = "Punjabi"
 iso_639_1 = "pa"
+name = "ਪੰਜਾਬੀ"
 
 [languages.pi]
 english_name = "Pali"
 iso_639_1 = "pi"
 
 [languages.pl]
-name = "Polski"
 english_name = "Polish"
 iso_639_1 = "pl"
+name = "Polski"
 
 [languages.ps]
-name = "پښتو"
 english_name = "Pushto"
 iso_639_1 = "ps"
+name = "پښتو"
 
 [languages.pt]
-name = "Português"
 english_name = "Portuguese"
 iso_639_1 = "pt"
+name = "Português"
 
 [languages.qu]
 english_name = "Quechua"
@@ -598,24 +598,24 @@ english_name = "Raeto-Romance"
 iso_639_1 = "rm"
 
 [languages.rn]
-name = "Kirundi"
 english_name = "Rundi"
 iso_639_1 = "rn"
+name = "Kirundi"
 
 [languages.ro]
-name = "Română"
 english_name = "Romanian"
 iso_639_1 = "ro"
+name = "Română"
 
 [languages.ru]
-name = "Pусский"
 english_name = "Russian"
 iso_639_1 = "ru"
+name = "Pусский"
 
 [languages.rw]
-name = "Kinyarwanda"
 english_name = "Kinyarwanda"
 iso_639_1 = "rw"
+name = "Kinyarwanda"
 
 [languages.sa]
 english_name = "Sanskrit"
@@ -646,19 +646,19 @@ english_name = "Serbo-Croatian"
 iso_639_1 = "sh"
 
 [languages.si]
-name = "සිංහල"
 english_name = "Sinhalese"
 iso_639_1 = "si"
+name = "සිංහල"
 
 [languages.sk]
-name = "Slovenčina"
 english_name = "Slovak"
 iso_639_1 = "sk"
+name = "Slovenčina"
 
 [languages.sl]
-name = "Slovenščina"
 english_name = "Slovenian"
 iso_639_1 = "sl"
+name = "Slovenščina"
 
 [languages.sm]
 english_name = "Samoan"
@@ -669,19 +669,19 @@ english_name = "Shona"
 iso_639_1 = "sn"
 
 [languages.so]
-name = "Somali"
 english_name = "Somali"
 iso_639_1 = "so"
+name = "Somali"
 
 [languages.sq]
-name = "shqip"
 english_name = "Albanian"
 iso_639_1 = "sq"
+name = "shqip"
 
 [languages.sr]
-name = "Srpski"
 english_name = "Serbian"
 iso_639_1 = "sr"
+name = "Srpski"
 
 [languages.ss]
 english_name = "Swati"
@@ -696,33 +696,33 @@ english_name = "Sundanese"
 iso_639_1 = "su"
 
 [languages.sv]
-name = "svenska"
 english_name = "Swedish"
 iso_639_1 = "sv"
+name = "svenska"
 
 [languages.sw]
-name = "Kiswahili"
 english_name = "Swahili"
 iso_639_1 = "sw"
+name = "Kiswahili"
 
 [languages.ta]
-name = "தமிழ்"
 english_name = "Tamil"
 iso_639_1 = "ta"
+name = "தமிழ்"
 
 [languages.te]
-name = "తెలుగు"
 english_name = "Telugu"
 iso_639_1 = "te"
+name = "తెలుగు"
 
 [languages.tg]
 english_name = "Tajik"
 iso_639_1 = "tg"
 
 [languages.th]
-name = "ภาษาไทย"
 english_name = "Thai"
 iso_639_1 = "th"
+name = "ภาษาไทย"
 
 [languages.ti]
 english_name = "Tigrinya"
@@ -745,9 +745,9 @@ english_name = "Tonga"
 iso_639_1 = "to"
 
 [languages.tr]
-name = "Türkçe"
 english_name = "Turkish"
 iso_639_1 = "tr"
+name = "Türkçe"
 
 [languages.ts]
 english_name = "Tsonga"
@@ -770,28 +770,28 @@ english_name = "Uighur"
 iso_639_1 = "ug"
 
 [languages.uk]
-name = "Український"
 english_name = "Ukrainian"
 iso_639_1 = "uk"
+name = "Український"
 
 [languages.ur]
-name = "اردو"
 english_name = "Urdu"
 iso_639_1 = "ur"
+name = "اردو"
 
 [languages.uz]
-name = "ozbek"
 english_name = "Uzbek"
 iso_639_1 = "uz"
+name = "ozbek"
 
 [languages.ve]
 english_name = "Venda"
 iso_639_1 = "ve"
 
 [languages.vi]
-name = "Tiếng Việt"
 english_name = "Vietnamese"
 iso_639_1 = "vi"
+name = "Tiếng Việt"
 
 [languages.vo]
 english_name = "Volapük"
@@ -802,38 +802,43 @@ english_name = "Walloon"
 iso_639_1 = "wa"
 
 [languages.wo]
-name = "Wolof"
 english_name = "Wolof"
 iso_639_1 = "wo"
+name = "Wolof"
 
 [languages.xh]
 english_name = "Xhosa"
 iso_639_1 = "xh"
 
 [languages.xx]
-name = "No Language"
 english_name = "No Language"
 iso_639_1 = "xx"
+name = "No Language"
 
 [languages.yi]
 english_name = "Yiddish"
 iso_639_1 = "yi"
 
 [languages.yo]
-name = "Èdè Yorùbá"
 english_name = "Yoruba"
 iso_639_1 = "yo"
+name = "Èdè Yorùbá"
 
 [languages.za]
 english_name = "Zhuang"
 iso_639_1 = "za"
 
 [languages.zh]
-name = "普通话"
 english_name = "Mandarin"
 iso_639_1 = "zh"
+name = "普通话"
 
 [languages.zu]
-name = "isiZulu"
 english_name = "Zulu"
 iso_639_1 = "zu"
+name = "isiZulu"
+
+[languages.nbe]
+english_name = "Konyak"
+iso_639_1 = "nbe"
+name = "Konyak"
