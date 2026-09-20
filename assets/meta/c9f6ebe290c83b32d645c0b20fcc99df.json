@@ -1,0 +1,561 @@
+{
+	"id": 1302904,
+	"title": "Practical Magic 2",
+	"fcg_title": "Practical Magic 2",
+	"original_title": "Practical Magic 2",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 10749,
+			"name": "Romance"
+		},
+		{
+			"id": 14,
+			"name": "Fantasy"
+		},
+		{
+			"id": 35,
+			"name": "Comedy"
+		}
+	],
+	"overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+	"backdrop_path": "/wE6syT1vv6W24iLGfhR4kQHnIDN.jpg",
+	"poster_path": "/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+	"release_date": "2026-09-09",
+	"credits": {
+		"cast": [
+			{
+				"id": 18277,
+				"order": 0,
+				"name": "Sandra Bullock",
+				"profile_path": "/4rfjISL3Flx16jfiusXoHbpt87X.jpg",
+				"character": "Sally Owens",
+				"gender": 1
+			},
+			{
+				"id": 2227,
+				"order": 1,
+				"name": "Nicole Kidman",
+				"profile_path": "/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg",
+				"character": "Gillian Owens",
+				"gender": 1
+			},
+			{
+				"id": 125025,
+				"order": 2,
+				"name": "Joey King",
+				"profile_path": "/94c69mPYSK9jFsAEu0OKB7Qs684.jpg",
+				"character": "Kylie Owens",
+				"gender": 1
+			},
+			{
+				"id": 1181313,
+				"order": 3,
+				"name": "Maisie Williams",
+				"profile_path": "/zk1rlBVci2fmnFhMezaPpa4kwZF.jpg",
+				"character": "Antonia Owens",
+				"gender": 1
+			},
+			{
+				"id": 1185997,
+				"order": 4,
+				"name": "Xolo Maridueña",
+				"profile_path": "/tJMI7BpjlhHSMpzSz9e1XxygnKd.jpg",
+				"character": "Gideon",
+				"gender": 2
+			},
+			{
+				"id": 72095,
+				"order": 5,
+				"name": "Lee Pace",
+				"profile_path": "/eeTc0d2AX1vFYVxZ6Qw7qZpg4Tz.jpg",
+				"character": "Ian Wright",
+				"gender": 2
+			},
+			{
+				"id": 1902,
+				"order": 6,
+				"name": "Dianne Wiest",
+				"profile_path": "/p9mfzY68FtEbedOMNB5X4eBShhx.jpg",
+				"character": "Aunt Jet",
+				"gender": 1
+			},
+			{
+				"id": 8893,
+				"order": 7,
+				"name": "Stockard Channing",
+				"profile_path": "/fsk0HkOVKtdcbHfsc99bQvMJep3.jpg",
+				"character": "Aunt Frances",
+				"gender": 1
+			},
+			{
+				"id": 3060978,
+				"order": 8,
+				"name": "Solly McLeod",
+				"profile_path": "/6aMA4kUV1ji4uu3zzBzQ9fwgUDO.jpg",
+				"character": "Thomas Lockland",
+				"gender": 2
+			},
+			{
+				"id": 5639097,
+				"order": 9,
+				"name": "Ema Cavolli",
+				"profile_path": "/mzAXiBoJeY1fA9Nc6KNsKNPfsgO.jpg",
+				"character": "Maria Owens",
+				"gender": 1
+			},
+			{
+				"id": 2158193,
+				"order": 10,
+				"name": "Cassie Bradley",
+				"profile_path": "/u1rqfCyqHMjeOewKuaIaA9D3WqY.jpg",
+				"character": "Hannah Owens",
+				"gender": 1
+			},
+			{
+				"id": 1488078,
+				"order": 11,
+				"name": "Liz Kingsman",
+				"profile_path": "/sNCFfAVWGe4d4SLlUiNWvLk1Vwe.jpg",
+				"character": "Jane",
+				"gender": 1
+			},
+			{
+				"id": 3132378,
+				"order": 12,
+				"name": "Nathan Foad",
+				"profile_path": "/ou9BZuorEW8PJlbz9fMbVhIvxJj.jpg",
+				"character": "Derek",
+				"gender": 2
+			},
+			{
+				"id": 62975,
+				"order": 13,
+				"name": "Katy Wix",
+				"profile_path": "/vVr5KhTeqvxTjgYE1xA6SnfxUuB.jpg",
+				"character": "Paula",
+				"gender": 1
+			},
+			{
+				"id": 163422,
+				"order": 14,
+				"name": "Diana Quick",
+				"profile_path": "/fEpYmTAQcKPUyvt6XsUCsUTv3K4.jpg",
+				"character": "Margaret",
+				"gender": 1
+			},
+			{
+				"id": 5350563,
+				"order": 15,
+				"name": "Ava Galindez",
+				"character": "Laura",
+				"gender": 1
+			},
+			{
+				"id": 6475262,
+				"order": 16,
+				"name": "Scarlett Nasrat",
+				"character": "Young Kylie"
+			},
+			{
+				"id": 6475264,
+				"order": 17,
+				"name": "Harriett Scott",
+				"character": "Young Antonia"
+			},
+			{
+				"id": 1710322,
+				"order": 18,
+				"name": "Amy Bowden",
+				"profile_path": "/vOubMmn1V1ROMHHh29DKnNbpoFc.jpg",
+				"character": "Local Woman"
+			},
+			{
+				"id": 3289470,
+				"order": 19,
+				"name": "Aimée Cassettari",
+				"character": "Local Woman",
+				"gender": 1
+			},
+			{
+				"id": 4516691,
+				"order": 20,
+				"name": "Logan Truter",
+				"character": "Botany Child"
+			},
+			{
+				"id": 6475266,
+				"order": 21,
+				"name": "Naledi Percival",
+				"character": "Botany Child"
+			},
+			{
+				"id": 6475267,
+				"order": 22,
+				"name": "Roman Anderson",
+				"character": "Botany Child"
+			},
+			{
+				"id": 4434705,
+				"order": 23,
+				"name": "Riley Chung",
+				"profile_path": "/9yKaWeYlhnUmit4JN0H2YYgmR50.jpg",
+				"character": "Botany Child",
+				"gender": 1
+			},
+			{
+				"id": 5040473,
+				"order": 24,
+				"name": "Teddy Russell",
+				"character": "Botany Child"
+			},
+			{
+				"id": 2251664,
+				"order": 25,
+				"name": "Emma Bown",
+				"character": "New England Woman"
+			},
+			{
+				"id": 1504937,
+				"order": 26,
+				"name": "Rachel Handshaw",
+				"profile_path": "/8QWc14rdCg60eLKIbnuZchNuU7B.jpg",
+				"character": "Happy Woman",
+				"gender": 1
+			},
+			{
+				"id": 6475274,
+				"order": 27,
+				"name": "Caitlin Mcewan",
+				"character": "Woman Mourner"
+			},
+			{
+				"id": 4708894,
+				"order": 28,
+				"name": "Mariah Baillie",
+				"character": "EMT"
+			},
+			{
+				"id": 1864876,
+				"order": 29,
+				"name": "Richard Rycroft",
+				"profile_path": "/jDwcesUInRsSgDPXQRfQTa5bORM.jpg",
+				"character": "Groundskeeper",
+				"gender": 2
+			},
+			{
+				"id": 6475320,
+				"order": 30,
+				"name": "Anise Senat",
+				"character": "Celebrant"
+			},
+			{
+				"id": 3655971,
+				"order": 31,
+				"name": "Tammy Appenzellar",
+				"character": "Wedding Guest (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 4700526,
+				"order": 32,
+				"name": "Matthew Charlery-Smith",
+				"character": "House Guest (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 5918068,
+				"order": 33,
+				"name": "Stuart Cooke",
+				"character": "Passerby (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 6025651,
+				"order": 34,
+				"name": "R.A. Donnelly",
+				"character": "Wedding Guest (uncredited)"
+			},
+			{
+				"id": 1588173,
+				"order": 35,
+				"name": "Daniel Eghan",
+				"profile_path": "/nTNg1qxJBc2JASmwdOIgVwM0zFB.jpg",
+				"character": "Wedding Guest (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 4609216,
+				"order": 36,
+				"name": "Nigel Finnissy",
+				"profile_path": "/mmw9eeb1E1BggU0erfmJF6W2ysO.jpg",
+				"character": "Airport Passenger (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 5346760,
+				"order": 37,
+				"name": "John Polivka",
+				"character": "Wedding Waiter (uncredited)"
+			}
+		],
+		"crew": [
+			{
+				"id": 1899,
+				"name": "Denise Di Novi",
+				"profile_path": "/svk7TdJqxC194FX5eIFIAPwwPjZ.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 18277,
+				"name": "Sandra Bullock",
+				"profile_path": "/4rfjISL3Flx16jfiusXoHbpt87X.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2227,
+				"name": "Nicole Kidman",
+				"profile_path": "/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1011,
+				"name": "Susanne Bier",
+				"profile_path": "/tVp2J7hMAgJnaXtQojFN3VTVYaY.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 5575,
+				"name": "Akiva Goldsman",
+				"profile_path": "/7dWsuEUrC7AmAzZAeNstZ2zg1M8.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 62256,
+				"name": "Georgia Pritchett",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 2058117,
+				"name": "Steven Morris",
+				"job": "Property Master",
+				"department": "Art"
+			},
+			{
+				"id": 13009,
+				"name": "Alexandra Byrne",
+				"profile_path": "/ovP81iKNHCJjKVxYKa3e3BeAvrV.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 24260,
+				"name": "Claire Pritchard",
+				"profile_path": "/9yoXqLnATg2qzE4DORtYDdGzp6c.jpg",
+				"job": "Hair Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1427823,
+				"name": "Graham Johnston",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 12382,
+				"name": "Simon Duggan",
+				"profile_path": "/oX0zIxuwRnnkI0YXAEaV62BYG32.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 53019,
+				"name": "Tom Burton",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 3458288,
+				"name": "Grant Bailey",
+				"job": "Supervising Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 141358,
+				"name": "Julian Spencer",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 40773,
+				"name": "Gary Dodkin",
+				"job": "Production Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2461341,
+				"name": "Sam Williams",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 2821183,
+				"name": "Graham Ward",
+				"job": "Set Decoration",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 2067781,
+				"name": "Richard Styles",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2624656,
+				"name": "Gianpiero Vannucci",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 141358,
+				"name": "Julian Spencer",
+				"job": "Second Unit Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1373728,
+				"name": "Chuck Finch",
+				"job": "Gaffer",
+				"department": "Lighting",
+				"gender": 2
+			},
+			{
+				"id": 1616202,
+				"name": "Valdemar Winge Leisner",
+				"job": "Second Unit Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1555170,
+				"name": "Roma O'Connor",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects",
+				"gender": 1
+			},
+			{
+				"id": 2593,
+				"name": "Rupert Gregson-Williams",
+				"profile_path": "/5vqYzOAWMAzkkMvnh5ZjCCgM42o.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1665616,
+				"name": "Matt Curtis",
+				"job": "Title Designer",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 940376,
+				"name": "Kelly Marcel",
+				"profile_path": "/9RYRmK55zhJgKrlIpkqqqKHTDG6.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 51680,
+				"name": "Alice Hoffman",
+				"job": "Novel",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 4445622,
+				"name": "Pete Chiappetta",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 51680,
+				"name": "Alice Hoffman",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 47285,
+				"name": "Broderick Johnson",
+				"profile_path": "/lACnKu6Mxx5fGpWLt8qh0oevaQU.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 47286,
+				"name": "Andrew A. Kosove",
+				"profile_path": "/kkH3S2KsRd3XSH91GpeQmr7Raq0.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4445623,
+				"name": "Andrew Lary",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 940376,
+				"name": "Kelly Marcel",
+				"profile_path": "/9RYRmK55zhJgKrlIpkqqqKHTDG6.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1544547,
+				"name": "Donald Sabourin",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4445624,
+				"name": "Anthony Tittanegro",
+				"profile_path": "/3KPNXBg7a1jw97234n98weScLmF.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			}
+		]
+	}
+}

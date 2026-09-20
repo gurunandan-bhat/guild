@@ -1,0 +1,446 @@
+{
+	"id": 977942,
+	"title": "The Uprising",
+	"fcg_title": "The Uprising",
+	"original_title": "The Uprising",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 36,
+			"name": "History"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
+	"backdrop_path": "/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
+	"poster_path": "/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+	"release_date": "2026-09-10",
+	"credits": {
+		"cast": [
+			{
+				"id": 37625,
+				"order": 0,
+				"name": "Andrew Garfield",
+				"profile_path": "/beO5YvbTjrr5yy8hW26KVDMSr35.jpg",
+				"character": "Ploughman",
+				"gender": 2
+			},
+			{
+				"id": 478,
+				"order": 1,
+				"name": "Jamie Bell",
+				"profile_path": "/xAfNYOJYOy5ee9PHbBF8Y6xzZ9I.jpg",
+				"character": "John Ball",
+				"gender": 2
+			},
+			{
+				"id": 8435,
+				"order": 2,
+				"name": "Stephen Dillane",
+				"profile_path": "/qjIa6pXD4Z7nL7nH2LxyHDfxNgC.jpg",
+				"character": "Simon Sudbury",
+				"gender": 2
+			},
+			{
+				"id": 2441,
+				"order": 3,
+				"name": "Tom Hollander",
+				"profile_path": "/cqZiJsImFZ6TaeShRRg49AZ9TyT.jpg",
+				"character": "Sir Robert Hales",
+				"gender": 2
+			},
+			{
+				"id": 1363054,
+				"order": 4,
+				"name": "Cosmo Jarvis",
+				"profile_path": "/1kgghZ558CxZCJip5ufO6BAqUGp.jpg",
+				"character": "Wat Tyler",
+				"gender": 2
+			},
+			{
+				"id": 1356758,
+				"order": 5,
+				"name": "Thomasin McKenzie",
+				"profile_path": "/WOpnEFG5Q8LWxP81MtUrskmVox.jpg",
+				"character": "Alyce",
+				"gender": 1
+			},
+			{
+				"id": 9012,
+				"order": 6,
+				"name": "Jonny Lee Miller",
+				"profile_path": "/otCQdDtnrMvZ5tPC62zLx0SaXeR.jpg",
+				"character": "William Walworth",
+				"gender": 2
+			},
+			{
+				"id": 1945369,
+				"order": 7,
+				"name": "Woody Norman",
+				"profile_path": "/jQlx4bAGAmQfvzEuXw6A9cEmb95.jpg",
+				"character": "King Richard II of England",
+				"gender": 2
+			},
+			{
+				"id": 77795,
+				"order": 8,
+				"name": "Katherine Waterston",
+				"profile_path": "/zaqbXjr5jE1DnEoyAHokUDoCKOM.jpg",
+				"character": "Joan of Kent",
+				"gender": 1
+			},
+			{
+				"id": 25074,
+				"order": 9,
+				"name": "Stanley Townsend",
+				"profile_path": "/ry1kek817WYHOh1npa3ojxmGJcI.jpg",
+				"character": "Robert Bealknap",
+				"gender": 2
+			},
+			{
+				"id": 2388828,
+				"order": 10,
+				"name": "Sky Yang",
+				"profile_path": "/vOkkOgn7CrSHY1pecVr5p8ZHIcB.jpg",
+				"character": "Scribe",
+				"gender": 2
+			},
+			{
+				"id": 2262886,
+				"order": 11,
+				"name": "Dónal Finn",
+				"profile_path": "/4LXCZdrP9OOYQ9PeGGCCBQsyIUP.jpg",
+				"character": "Village Priest",
+				"gender": 2
+			},
+			{
+				"id": 6402488,
+				"order": 12,
+				"name": "Charly Kuschel",
+				"profile_path": "/g2A7pUSMnGggurRI3DJJwnOpYY0.jpg",
+				"character": "The King's Scribe",
+				"gender": 2
+			},
+			{
+				"id": 1919072,
+				"order": 13,
+				"name": "Gerald Tyler",
+				"profile_path": "/nI6FJw3XbbHXRvvGJpChxwonClU.jpg",
+				"character": "Thomas Beauchamp, 12th Earl of Warwick",
+				"gender": 2
+			},
+			{
+				"id": 10701,
+				"order": 14,
+				"name": "Simon Kunz",
+				"profile_path": "/7Kh3IbRU4bmeiH210CgHu9lofo7.jpg",
+				"character": "Sir John Newton",
+				"gender": 2
+			},
+			{
+				"id": 30332,
+				"order": 15,
+				"name": "Mark Redhead",
+				"character": "Lord Peterborough",
+				"gender": 2
+			},
+			{
+				"id": 1753296,
+				"order": 16,
+				"name": "Sam Chapman",
+				"profile_path": "/3ZTn5RjOAMTwmWb5AsnDulRNhl7.jpg",
+				"character": "Tax Collector",
+				"gender": 2
+			},
+			{
+				"id": 6475357,
+				"order": 17,
+				"name": "Scout Worsley",
+				"character": "Tithe Barn Daughter"
+			},
+			{
+				"id": 4237106,
+				"order": 18,
+				"name": "Anthony Webster",
+				"character": "Tithe Barn Father",
+				"gender": 2
+			},
+			{
+				"id": 145071,
+				"order": 19,
+				"name": "Jamie Maclachlan",
+				"profile_path": "/oE0O4BjDMwD4j4EBedS0eOvhcv0.jpg",
+				"character": "Walworth's Lieutenant",
+				"gender": 2
+			},
+			{
+				"id": 1936708,
+				"order": 20,
+				"name": "Anthony Martin",
+				"character": "London Rebel",
+				"gender": 2
+			},
+			{
+				"id": 2381523,
+				"order": 21,
+				"name": "Ben Manning",
+				"profile_path": "/qEMOKGGoqlPBl1tdbuCUHWOH1pj.jpg",
+				"character": "London Rebel"
+			},
+			{
+				"id": 6475359,
+				"order": 22,
+				"name": "Florian Schreiber",
+				"character": "Rebel (uncredited)"
+			},
+			{
+				"id": 6475363,
+				"order": 23,
+				"name": "Olaf Stein",
+				"character": "Oligarch (uncredited)"
+			},
+			{
+				"id": 5414160,
+				"order": 24,
+				"name": "Helena Wigan",
+				"profile_path": "/zOniatiR5zzRbHUm9bgXktmvIMK.jpg",
+				"character": "Rebel (uncredited)"
+			}
+		],
+		"crew": [
+			{
+				"id": 25598,
+				"name": "Paul Greengrass",
+				"profile_path": "/35y15k2QAgLUwXQ9R60DPeftCbB.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 84348,
+				"name": "Jason Blum",
+				"profile_path": "/oOsdVzSXyj1L1mKN3d2QcF01hkc.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 25598,
+				"name": "Paul Greengrass",
+				"profile_path": "/35y15k2QAgLUwXQ9R60DPeftCbB.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 120606,
+				"name": "Gregory Goodman",
+				"profile_path": "/rr5Ta31sevsgqusUXjwzPKAc7x6.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5453578,
+				"name": "Joanna Kaye",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1631516,
+				"name": "Cliff Lanning",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 25598,
+				"name": "Paul Greengrass",
+				"profile_path": "/35y15k2QAgLUwXQ9R60DPeftCbB.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 61095,
+				"name": "Lars Sylvest",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 56664,
+				"name": "Joe Neurauter",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1411042,
+				"name": "Pål Ulvik Rokseth",
+				"profile_path": "/ptSLn7DFnLtBfK3Se0OiF2rxfkP.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 15841,
+				"name": "William Goldenberg",
+				"profile_path": "/eOgoea8HbZt2TfLn0tDNI1TepSN.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 934723,
+				"name": "Nadine Prigge",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 934723,
+				"name": "Nadine Prigge",
+				"job": "Hair Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2153712,
+				"name": "Lee Tailor",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 3501,
+				"name": "Dan Hubbard",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1392635,
+				"name": "Domonkos Párdányi",
+				"profile_path": "/9zTwg9gBZtsfEGizQeIUn09pWf3.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 1453342,
+				"name": "Nikolaj Danielsen",
+				"profile_path": "/77uYH0pQhZ4SNWibnNFB5uDr5qj.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1631516,
+				"name": "Cliff Lanning",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2392416,
+				"name": "Philipp Kreuzer",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3588321,
+				"name": "Chance Wright",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 74441,
+				"name": "Jay Taylor",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 57816,
+				"name": "Kwesi Dickson",
+				"profile_path": "/qZftblpQGEOc15rvCHlrE87B61T.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1658456,
+				"name": "Alastair Burlingham",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2470453,
+				"name": "Gary Raskin",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4890946,
+				"name": "Matt Murphie",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5670600,
+				"name": "Deborah Acoca",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 3455940,
+				"name": "Emily Evans-Thirlwell",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2327113,
+				"name": "Tóth András",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1023809,
+				"name": "Volker Bertelmann",
+				"profile_path": "/6iZPE8RAh3twac8yHYPWRpWWPZ9.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2327114,
+				"name": "Godena-Juhász Attila",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1762210,
+				"name": "Murray Barber",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1376804,
+				"name": "Clare Norman",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			}
+		]
+	}
+}
