@@ -1,7 +1,7 @@
 +++
 title = 'Film Critics Guild Online Masterclass'
 date = 2026-09-05T00:17:32+05:30
-draft = false
+draft = true
 hdrImage = '/masterclass.png'
 +++
 
