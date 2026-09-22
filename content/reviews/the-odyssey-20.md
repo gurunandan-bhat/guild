@@ -3,7 +3,7 @@ title = "The Odyssey"
 date = 2026-08-01T19:03:24+05:30
 draft = false
 mreviews = ["The Odyssey"]
-critics = ['Akhil Arora', 'Rohan Naahar']
+critics = ['Akhil Arora']
 subtitle = "A Spotify Review"
 scores = [8]
 +++

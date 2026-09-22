@@ -3,7 +3,7 @@ title = "Toxic: A Fairy Tale for Grown-ups"
 date = 2026-09-08T17:28:30+05:30
 draft = false
 mreviews = ["Toxic a Fairy Tale for Grown Ups"]
-critics = ['Akhil Arora', 'Rohan Naahar']
+critics = ['Akhil Arora']
 subtitle = "A Spotify Review"
 scores = [0.00001]
 +++

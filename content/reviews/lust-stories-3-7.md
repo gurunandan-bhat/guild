@@ -3,7 +3,7 @@ title = "Lust Stories 3"
 date = 2026-09-18T21:28:39+05:30
 draft = false
 mreviews = ["Lust Stories 3"]
-critics = ['Akhil Arora', 'Rohan Naahar']
+critics = ['Akhil Arora']
 subtitle = "A Spotify Review"
 scores = [4]
 +++

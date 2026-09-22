@@ -3,7 +3,7 @@ title = "Main Vaapas Aaunga"
 date = 2026-08-22T19:00:38+05:30
 draft = false
 mreviews = ["Main Vaapas Aaunga"]
-critics = ['Akhil Arora', "Rohan Naahar"]
+critics = ['Akhil Arora']
 subtitle = "A Spotify Review"
 scores = [4]
 +++
