@@ -1,5 +1,5 @@
 +++
-title = "Shaque Trust No One"
+title = "Shaque: Trust No One"
 date = 2026-09-25T23:39:57+05:30
 draft = false
 mreviews = ["Shaque Trust No One"]
