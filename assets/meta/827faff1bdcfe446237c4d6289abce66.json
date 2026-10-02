@@ -1,0 +1,381 @@
+{
+	"id": 1395215,
+	"title": "Sigma",
+	"fcg_title": "Sigma",
+	"original_title": "சிக்மா",
+	"original_language": "ta",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "A daring treasure hunter throws caution to the wind, outwitting deadly traps and treacherous allies with sheer nerve and cunning.",
+	"backdrop_path": "/usAlt5OOT54Zw6lLS2zLhKUuc2Q.jpg",
+	"poster_path": "/18Lhkc3nf92bY1cacQomXIqihhN.jpg",
+	"release_date": "2026-10-02",
+	"credits": {
+		"cast": [
+			{
+				"id": 1011802,
+				"order": 0,
+				"name": "Sundeep Kishan",
+				"profile_path": "/qUGN6rvwu9Qef3DGenha2pIEpNY.jpg",
+				"gender": 2
+			},
+			{
+				"id": 2997847,
+				"order": 1,
+				"name": "Faria Abdullah",
+				"profile_path": "/gZo1klQKtU2k15eP2Own84aPZom.jpg",
+				"character": "RJ Sam",
+				"gender": 1
+			},
+			{
+				"id": 237968,
+				"order": 2,
+				"name": "Raju Sundaram",
+				"profile_path": "/zNnOzgKlosRdmO4bG8aDMAYEWWs.jpg",
+				"gender": 2
+			},
+			{
+				"id": 85595,
+				"order": 3,
+				"name": "Sampath Raj",
+				"profile_path": "/oQgoihP26Hyg6gMFVpACRAygZli.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1125098,
+				"order": 4,
+				"name": "Shiv Panditt",
+				"profile_path": "/iLBrhlwv7MO1w8fDZoIald1LDHt.jpg",
+				"gender": 2
+			},
+			{
+				"id": 2463153,
+				"order": 5,
+				"name": "Anbu Thasan",
+				"profile_path": "/ycX5zV4CVOoSMnM3wkoOndZHaP7.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1187400,
+				"order": 6,
+				"name": "Yog Jappie",
+				"profile_path": "/ptXD7Ze5ZWqXml1Kju1W73mo2Ey.jpg",
+				"gender": 2
+			},
+			{
+				"id": 2929310,
+				"order": 7,
+				"name": "Magalakshmi Sudarsanan",
+				"profile_path": "/5mVuUjFW8tkM3Ir3BwLXrFS4IgV.jpg",
+				"gender": 1
+			},
+			{
+				"id": 2024271,
+				"order": 8,
+				"name": "Sheela Rajkumar",
+				"profile_path": "/gG4UerKLj8YTrWypCoQM77fLFrs.jpg",
+				"gender": 1
+			},
+			{
+				"id": 5347469,
+				"order": 9,
+				"name": "Kamalesh Jegan",
+				"profile_path": "/hIrgJ8tA9gHZ4xVb7Uyx646xbIO.jpg"
+			},
+			{
+				"id": 5894083,
+				"order": 10,
+				"name": "Kiran Konda"
+			},
+			{
+				"id": 1199984,
+				"order": 11,
+				"name": "Catherine Tresa",
+				"profile_path": "/7RAxooOVqPb8nkhZjyaEC2aj3ij.jpg",
+				"character": "Self",
+				"gender": 1
+			},
+			{
+				"id": 2981121,
+				"order": 12,
+				"name": "Jason Sanjay",
+				"profile_path": "/iTxzmSOxLqewb6XFBVFkWcGQuu0.jpg",
+				"character": "Self",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 2981121,
+				"name": "Jason Sanjay",
+				"profile_path": "/iTxzmSOxLqewb6XFBVFkWcGQuu0.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 222845,
+				"name": "Praveen K. L.",
+				"profile_path": "/kXbykpVSZCS7AhJ6TToGhn636b8.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 5089095,
+				"name": "Sanjeev S",
+				"job": "Co-Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1737324,
+				"name": "Harihara Suthan",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1709656,
+				"name": "Suresh Chandra",
+				"profile_path": "/sG413YVVV0qK0EKNuAtDq4jgMZc.jpg",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1652019,
+				"name": "Allirajah Subaskaran",
+				"profile_path": "/s2BK7waKkz6Zg33tvnuibnO57bZ.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3771640,
+				"name": "G. K. M. Tamil Kumaran",
+				"profile_path": "/oTuWEIQ4r4KE5BsN3S7Ekdv2eta.jpg",
+				"job": "Head of Production",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2981121,
+				"name": "Jason Sanjay",
+				"profile_path": "/iTxzmSOxLqewb6XFBVFkWcGQuu0.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1337232,
+				"name": "Krishnan Vasanth",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 5422207,
+				"name": "Benjamin N.",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1472819,
+				"name": "Stunt Silva",
+				"profile_path": "/p6vwbFjAOIAfy6uYKsasZWTItDk.jpg",
+				"job": "Fight Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3129736,
+				"name": "Subramanian Narayanan",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2460399,
+				"name": "Ananth Kancherla",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4865626,
+				"name": "Abdul A. Nassar",
+				"job": "Public Relations",
+				"department": "Crew"
+			},
+			{
+				"id": 2200190,
+				"name": "Vamsi Shekar",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2102992,
+				"name": "Vivek",
+				"profile_path": "/24f6DLah5ek1nMZzDRdgCpNSYVo.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1265951,
+				"name": "Subu",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 4047866,
+				"name": "B. Jai Ganesh",
+				"job": "Production Controller",
+				"department": "Crew"
+			},
+			{
+				"id": 1641624,
+				"name": "Perumal Selvam",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 4428437,
+				"name": "Ranga",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 5894079,
+				"name": "Kaleel Raja",
+				"job": "Screenplay",
+				"department": "Writing"
+			},
+			{
+				"id": 3984360,
+				"name": "Ajay Ashok",
+				"profile_path": "/tVyQlDWJj3EHSuEzUSJpUCR4cWk.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1737324,
+				"name": "Harihara Suthan",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 5408065,
+				"name": "P. S. Kuppusamy",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 585344,
+				"name": "S. Thaman",
+				"profile_path": "/cR4sAdn5jcRDzyalNNlIKoAURU8.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 585344,
+				"name": "S. Thaman",
+				"profile_path": "/cR4sAdn5jcRDzyalNNlIKoAURU8.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1719956,
+				"name": "Krishnan Subramanian",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 2297896,
+				"name": "Varun Venkataraman",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 6487540,
+				"name": "Smile Tupakeys",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 6487540,
+				"name": "Smile Tupakeys",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 223157,
+				"name": "Yuvan Shankar Raja",
+				"profile_path": "/c5yRT90L2PoREJ9aDTPvAu2uxBJ.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2273314,
+				"name": "Sanjana Divaker Kalmanje",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 967676,
+				"name": "Sean Roldan",
+				"profile_path": "/5AC83RzEXwWiaUomPzKN1FLlUmd.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 6487545,
+				"name": "Sanvi Sudeep",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1123764,
+				"name": "Santhosh Narayanan",
+				"profile_path": "/z8A2tjQFOLjUg17uWroc2TcEviN.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1426679,
+				"name": "Kannadasan",
+				"profile_path": "/fc9goROOiljfTO0BR0bJ6JbDWnu.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5954962,
+				"name": "M. M. Monisha",
+				"job": "Playback Singer",
+				"department": "Sound"
+			}
+		]
+	}
+}
