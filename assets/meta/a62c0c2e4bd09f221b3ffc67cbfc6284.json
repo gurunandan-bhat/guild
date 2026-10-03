@@ -1,0 +1,292 @@
+{
+	"id": 1515692,
+	"title": "Baththa",
+	"fcg_title": "Baththa",
+	"original_title": "பத்தா",
+	"original_language": "ta",
+	"genres": [
+		{
+			"id": 53,
+			"name": "Thriller"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "In 1986 Madras, a timid eight-year-old boy accidentally traps a feared gangster inside a deserted school toilet. As the gangster is forced to confront hunger, loneliness and his own vulnerability, an unlikely bond begins to grow between the two, changing their lives forever.",
+	"backdrop_path": "/lWHobZZO6S6pn7SUMAzzjgMncBI.jpg",
+	"poster_path": "/cWY636zXGECkRHbrqhQdFyP9n69.jpg",
+	"release_date": "2026-10-01",
+	"credits": {
+		"cast": [
+			{
+				"id": 1123766,
+				"order": 0,
+				"name": "Vijay Sethupathi",
+				"profile_path": "/a3HWdfCAbplrvoMNEJCjnkbqqOo.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1620961,
+				"order": 1,
+				"name": "Lijomol Jose",
+				"profile_path": "/vXFBgF6NMON7L4RzZ6B35lOVYOu.jpg",
+				"gender": 1
+			},
+			{
+				"id": 1874536,
+				"order": 2,
+				"name": "Santhy Balachandran",
+				"profile_path": "/gLpx6IM3Ifs6m1tytsc3yc4Lw90.jpg",
+				"gender": 1
+			},
+			{
+				"id": 1817110,
+				"order": 3,
+				"name": "Vishnu Govindan",
+				"profile_path": "/rgb4AI5Xm3ezsspddjSg6PUAep6.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1321729,
+				"order": 4,
+				"name": "Arjun Chidambaram",
+				"profile_path": "/yay74IONzoiC50I2Od5L5a0bcbm.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1655332,
+				"order": 5,
+				"name": "Hari Krishnan",
+				"profile_path": "/2sRRE4rMjDKai32u32oU7IqYvTp.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1289211,
+				"order": 6,
+				"name": "Ajay Ghosh",
+				"profile_path": "/bvexSjSRhZM8ke753Sq1oZf5pxY.jpg",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 1124413,
+				"name": "Balaji Tharaneetharan",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1209903,
+				"name": "Atlee",
+				"profile_path": "/rySt5J2RBOqQutRFXc2kmqQ1i0K.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1124413,
+				"name": "Balaji Tharaneetharan",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5040583,
+				"name": "Sai Abhyankkar",
+				"profile_path": "/qcFxJm7fKOdcpcBpjHwVTP6hGq2.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2224678,
+				"name": "Murad Khetani",
+				"profile_path": "/zGuwHJCpviauewhit8W1eq7EbeL.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5803554,
+				"name": "Alok Jain",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1414644,
+				"name": "Ajit Andhare",
+				"profile_path": "/fATWhhH7OHhV2HILOJCBpmYt0tM.jpg",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1668262,
+				"name": "Selvakumar SK",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2268241,
+				"name": "R. Kalaivanan",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 6406363,
+				"name": "Ashwin Murugan",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1666865,
+				"name": "T. Muthuraj",
+				"profile_path": "/86jGL7jOgLuVf8pUxHtX1sZ2KKZ.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 3379924,
+				"name": "Shruthi Manjari",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3415278,
+				"name": "S Kannan",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1688050,
+				"name": "Stun Siva",
+				"profile_path": "/rTBzBagl6uD6YooliwpL5MU2kyB.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 6467668,
+				"name": "U. Pruthvi",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 6345909,
+				"name": "Kevin Kumar",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 237968,
+				"name": "Raju Sundaram",
+				"profile_path": "/zNnOzgKlosRdmO4bG8aDMAYEWWs.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 6365459,
+				"name": "Karan Karky",
+				"job": "Additional Dialogue",
+				"department": "Crew"
+			},
+			{
+				"id": 2113697,
+				"name": "Karthik Netha",
+				"profile_path": "/mMEtqiG8T67Qgxa9CyYNMzRj6vf.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1410258,
+				"name": "Kunal Rajan",
+				"profile_path": "/q7zrT7jP1isFsYzWoFq58NLHPBe.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2149823,
+				"name": "Vinoth Sugumaran",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 6467680,
+				"name": "V. Lakshmanan",
+				"job": "Production Controller",
+				"department": "Crew"
+			},
+			{
+				"id": 3561583,
+				"name": "H. Monesh",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1671522,
+				"name": "Gopi Prasannaa",
+				"profile_path": "/39FBMhYFkWCyz5akFJoOTWgDQi9.jpg",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1648170,
+				"name": "D Maneksha",
+				"job": "Still Photographer",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 5970332,
+				"name": "Franklin V",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 2553274,
+				"name": "Mohan Ganesan",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2187140,
+				"name": "Yuvraaj",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 5040583,
+				"name": "Sai Abhyankkar",
+				"profile_path": "/qcFxJm7fKOdcpcBpjHwVTP6hGq2.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2081010,
+				"name": "Harini",
+				"profile_path": "/x156VvgMO1opdDB24zDOC0XX8XR.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 6503454,
+				"name": "KK Nagar Gana Jeeva",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			}
+		]
+	}
+}
