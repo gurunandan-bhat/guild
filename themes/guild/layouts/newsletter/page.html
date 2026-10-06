@@ -1,5 +1,4 @@
 {{ define "main" }}
-    {{ $criticPage := index (where .Site.RegularPages ".LinkTitle" (.Params.author)) 0 }}
     <div class="container">
         {{with resources.Get (printf "images/newsletter/%s" .Params.hdrImage) }}
 			{{ with .Process "webp" }}
@@ -15,36 +14,29 @@
         </div>
     </div>
     <div class="container">
-        <h2>FCG Newsletter: Special Feature</h2>
+        <h2 class="mb-5 pb-5">FCG Newsletter: Special Feature</h2>
         <div class="row">
-            <div class="col-lg-3 offset-lg-1">
-                {{- with $criticPage }}
-					{{ with resources.Get .Params.img }}
+            <div class="col-lg-2 col-md-2 offset-lg-2">
+                {{- with .Site.GetPage (printf "/guild/members/%s" .Params.author) }}
+					{{ with resources.Get .Page.Params.img }}
 						{{ with .Process "webp" }}
 							<img
 								src="{{ .RelPermalink }}"
-								class="img-fluid w-100"
+								class="img-fluid w-100 mb-3"
 								alt="FCG Member Reviewer {{ .Title }}" />
 						{{ end }}
 					{{ end }}
-                	<h6>{{ .LinkTitle }}</h6>
-					<p class="fitted-org genre-style" >
+                	<h6 class="genre-style">By {{ .LinkTitle }}
 						{{ with .Params.organizations }}
-							{{ delimit . ", " }}
+							({{- delimit . ", " }})
 						{{ end }}
-					</p>
+                    </h6>
                 {{ end }}
             </div>
-            <div class="col-lg-7">
-                <h3>{{ .Title }}</h3>
+            <div class="col-lg-6 col-md-6">
+                <h2>{{ .Title }}</h2>
+                {{ .Content }}
             </div>
         </div>
     </div>
-
-    {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-    {{ $dateHuman := .Date | time.Format ":date_long" }}
-    <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-    <pre>newsletter/page.html</pre>
-    {{ .Content }}
-    {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 {{ end }}
