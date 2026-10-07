@@ -1,0 +1,272 @@
+{
+	"id": 1422822,
+	"title": "It's a Medical Miracle",
+	"fcg_title": "It's a Medical Miracle",
+	"original_title": "It's a മെഡിക്കൽ മിറാക്കിള്‍",
+	"original_language": "ml",
+	"genres": [
+		{
+			"id": 14,
+			"name": "Fantasy"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "A young man declared brain-dead suddenly awakens with the ability to hear everything. Seeking the nurse whose voice saved him, he's drawn into a dark game of masks, memories, and revenge where every sound may be a clue or a trap.",
+	"backdrop_path": "/566b959427da2b56d9994f008adf611e.jpg",
+	"poster_path": "/ymlqg5qqwzAC74IXi2smf8OZeN7.jpg",
+	"release_date": "2026-09-18",
+	"credits": {
+		"cast": [
+			{
+				"id": 3389588,
+				"order": 0,
+				"name": "Sangeeth Prathap",
+				"profile_path": "/2f7mTmZ1RttbacuADm6vv7xpTAi.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1473469,
+				"order": 1,
+				"name": "Sharafudheen",
+				"profile_path": "/icEHwPLrRp2sAk3gzylO8ar4Hey.jpg",
+				"character": "Sooraj",
+				"gender": 2
+			},
+			{
+				"id": 3719125,
+				"order": 2,
+				"name": "Akhila Bhargavan",
+				"profile_path": "/dGaNyhTvnotJpqxmRLXCqIfKGjC.jpg",
+				"gender": 1
+			},
+			{
+				"id": 1859065,
+				"order": 3,
+				"name": "Anand Manmadhan",
+				"profile_path": "/xlx9Rmb3NGHNX7VFGD55kskCM04.jpg",
+				"gender": 2
+			},
+			{
+				"id": 3616360,
+				"order": 4,
+				"name": "Kiran Peethambaran",
+				"profile_path": "/qbfH2hMSspS1PWVNRQP2xa2buWK.jpg",
+				"gender": 2
+			},
+			{
+				"id": 3147819,
+				"order": 5,
+				"name": "Parvathy Krishna",
+				"profile_path": "/69Y1vWqHkDFlYe92kGNb7fmIMeG.jpg",
+				"gender": 1
+			},
+			{
+				"id": 591095,
+				"order": 6,
+				"name": "Kottayam Nazeer",
+				"profile_path": "/vN0cHxgDIE5DKUeL2F0nmIhTIoZ.jpg",
+				"gender": 2
+			},
+			{
+				"id": 3367945,
+				"order": 7,
+				"name": "Nileen Sandra",
+				"profile_path": "/wNvwgBEofXZT0qAJn61gKenpYC2.jpg",
+				"gender": 1
+			},
+			{
+				"id": 2270804,
+				"order": 8,
+				"name": "Zhinz Shan",
+				"profile_path": "/e2qrMKWAS01rpA2kl89UUz4VyBt.jpg",
+				"gender": 2
+			},
+			{
+				"id": 5883203,
+				"order": 9,
+				"name": "Hezzah Mehak"
+			},
+			{
+				"id": 3528776,
+				"order": 10,
+				"name": "Amith Mohan Rajeswari",
+				"profile_path": "/x64tksObwq5TlKZ2pZmDawMwAq4.jpg",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 3850700,
+				"name": "Shyamin Gireesh",
+				"profile_path": "/konAn9O3OJJ3E3JOfqEYxEM4iF.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 3480277,
+				"name": "Yellowtooths Varun",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 3
+			},
+			{
+				"id": 1756171,
+				"name": "Manoj Poonkunnam",
+				"job": "Production Controller",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3407024,
+				"name": "Akhil Xavier",
+				"job": "Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 3302930,
+				"name": "Nixon George",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 1757786,
+				"name": "Sinat Savier",
+				"job": "Still Photographer",
+				"department": "Camera"
+			},
+			{
+				"id": 3021554,
+				"name": "Arathi Gopal",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1620968,
+				"name": "Ronex Xavier",
+				"profile_path": "/dG5IaUswrZu99o3xBuhQ57rOlEk.jpg",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1999296,
+				"name": "Dr Paul Varghese",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3021548,
+				"name": "Sujith J Nair",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3367945,
+				"name": "Nileen Sandra",
+				"profile_path": "/wNvwgBEofXZT0qAJn61gKenpYC2.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 3367945,
+				"name": "Nileen Sandra",
+				"profile_path": "/wNvwgBEofXZT0qAJn61gKenpYC2.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 3367945,
+				"name": "Nileen Sandra",
+				"profile_path": "/wNvwgBEofXZT0qAJn61gKenpYC2.jpg",
+				"job": "Dialogue",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 2814059,
+				"name": "Rakesh Cherumadam",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 3025536,
+				"name": "Appunni Sajan",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 2146627,
+				"name": "Mujeeb Majeed",
+				"profile_path": "/5LcVwzxVooxau4A6HJ1J7HIsoe9.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 4688839,
+				"name": "Karthik",
+				"profile_path": "/huhRJ74taJXNczUNxLcFca4aibi.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1470726,
+				"name": "Shabareesh Varma",
+				"profile_path": "/dTas79Xjvh1ynA0nZwuIwM1emPl.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 3358929,
+				"name": "Shravan Satya",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 2421049,
+				"name": "Mahesh Mathew",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 3467617,
+				"name": "Shanmuga Pandian M",
+				"job": "Colorist",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 6383243,
+				"name": "Albin Shaji",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 6383245,
+				"name": "Shafeek Muhammed",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 3526547,
+				"name": "Sabari",
+				"job": "Public Relations",
+				"department": "Crew"
+			},
+			{
+				"id": 6460222,
+				"name": "Mubeen muhammed rafi",
+				"job": "Assistant Director",
+				"department": "Directing"
+			}
+		]
+	}
+}
