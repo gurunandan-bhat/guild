@@ -1,0 +1,360 @@
+{
+	"id": 1281331,
+	"title": "The Social Reckoning",
+	"fcg_title": "The Social Reckoning",
+	"original_title": "The Social Reckoning",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 18,
+			"name": "Drama"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+	"backdrop_path": "/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+	"poster_path": "/nZ8cQbjAQHRuSqwxvuYhOfxyhfW.jpg",
+	"release_date": "2026-10-07",
+	"credits": {
+		"cast": [
+			{
+				"id": 1640439,
+				"order": 0,
+				"name": "Mikey Madison",
+				"profile_path": "/AsnCR2gpAvh79ltn3hZRZlAWaQB.jpg",
+				"character": "Frances Haugen",
+				"gender": 1
+			},
+			{
+				"id": 206905,
+				"order": 1,
+				"name": "Jeremy Allen White",
+				"profile_path": "/pXRADDRhprgaQ4Bri44NH3bYeu6.jpg",
+				"character": "Jeff Horwitz",
+				"gender": 2
+			},
+			{
+				"id": 239271,
+				"order": 2,
+				"name": "Jeremy Strong",
+				"profile_path": "/jcMhXWICSi4QjQttJVhFSiKVvpF.jpg",
+				"character": "Mark Zuckerberg",
+				"gender": 2
+			},
+			{
+				"id": 109708,
+				"order": 3,
+				"name": "Bill Burr",
+				"profile_path": "/4U95TX23X97OK9csaKVwzqAjFUV.jpg",
+				"character": "Charlie",
+				"gender": 2
+			},
+			{
+				"id": 134774,
+				"order": 4,
+				"name": "Wunmi Mosaku",
+				"profile_path": "/vp7qDA7cYZj0MDYk1k4wysmznnN.jpg",
+				"character": "Raya",
+				"gender": 1
+			},
+			{
+				"id": 141034,
+				"order": 5,
+				"name": "Billy Magnussen",
+				"profile_path": "/ugyx7Wn2uAWsNlR5eX4yWFsGV2Y.jpg",
+				"character": "Teddy",
+				"gender": 2
+			},
+			{
+				"id": 92572,
+				"order": 6,
+				"name": "Betty Gilpin",
+				"profile_path": "/yZqEwhu8e9GTECjIKLO3zszsiY6.jpg",
+				"character": "Kris",
+				"gender": 1
+			},
+			{
+				"id": 81683,
+				"order": 7,
+				"name": "Gbenga Akinnagbe",
+				"profile_path": "/vFcVgkew7ign5utNWycKvUiBb75.jpg",
+				"gender": 2
+			},
+			{
+				"id": 2307481,
+				"order": 8,
+				"name": "Anna Lambe",
+				"profile_path": "/cKm5ZnAOVc6nD8KAgSDMJdZclYH.jpg",
+				"gender": 1
+			},
+			{
+				"id": 3535989,
+				"order": 9,
+				"name": "Aidan Laprete",
+				"profile_path": "/ipfzLeDycmV9qqpiyN4yzGj8Ure.jpg",
+				"gender": 2
+			},
+			{
+				"id": 4588467,
+				"order": 10,
+				"name": "Kelley Pereira",
+				"profile_path": "/AvlYJ6QXyb0gGmj93jL276mA3Oi.jpg"
+			},
+			{
+				"id": 88928,
+				"order": 11,
+				"name": "Nelson Franklin",
+				"profile_path": "/2YYnTxpFmS5i9qRkb6H4Nxky2px.jpg",
+				"gender": 2
+			},
+			{
+				"id": 117669,
+				"order": 12,
+				"name": "Portia Doubleday",
+				"profile_path": "/6lPDPTlxnFcTJF5dzmmPHVmH8ey.jpg",
+				"gender": 1
+			},
+			{
+				"id": 52801,
+				"order": 13,
+				"name": "Patrick Fischler",
+				"profile_path": "/vVj7GjHL9hOilbKwViXZpnUlbcQ.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1651962,
+				"order": 14,
+				"name": "Joseph Brooks",
+				"profile_path": "/zv1yfTYn5GLWQIInAtg13pPtiPb.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1989176,
+				"order": 15,
+				"name": "Sierra Capri",
+				"profile_path": "/rUXBVCcBUhPzpU06p5Azl3kuO34.jpg",
+				"gender": 1
+			},
+			{
+				"id": 587822,
+				"order": 16,
+				"name": "Tehmina Sunny",
+				"profile_path": "/7VJetNzz5Sx5j2EDEjHqWHTUIdV.jpg",
+				"gender": 1
+			},
+			{
+				"id": 53718,
+				"order": 17,
+				"name": "Erin Boyes",
+				"profile_path": "/xvtkUVuGSK1gFpc39vIWZuXfl0O.jpg",
+				"gender": 1
+			},
+			{
+				"id": 1846295,
+				"order": 18,
+				"name": "Matthew Nelson-Mahood",
+				"profile_path": "/mstQjfNKQCNyRVEechqYvi2VJYO.jpg",
+				"character": "BJ",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 13520,
+				"name": "Aaron Sorkin",
+				"profile_path": "/hGkusztbd1rb23QFAjvpJxKSTAU.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 13520,
+				"name": "Aaron Sorkin",
+				"profile_path": "/hGkusztbd1rb23QFAjvpJxKSTAU.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 13520,
+				"name": "Aaron Sorkin",
+				"profile_path": "/hGkusztbd1rb23QFAjvpJxKSTAU.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 51612,
+				"name": "Todd Black",
+				"profile_path": "/9FlceLtsRtPZRgTjzEMxGuVkVXq.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4474842,
+				"name": "Peter Rice",
+				"profile_path": "/eSsmBBf59xWmn1oAKfXtf3F1vz6.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 28401,
+				"name": "Stuart M. Besser",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 7479,
+				"name": "Jeff Cronenweth",
+				"profile_path": "/93Mn7WPDJjAEVvDv2J39RhzlnEE.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1403411,
+				"name": "Lucas Bielan",
+				"profile_path": "/56HUQZbccqw4pM94lSXqLVMkDyy.jpg",
+				"job": "\"A\" Camera Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1378717,
+				"name": "Stuart Haggerty",
+				"job": "Gaffer",
+				"department": "Lighting",
+				"gender": 2
+			},
+			{
+				"id": 20172,
+				"name": "Susan Lyall",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1441806,
+				"name": "Shannon Gottlieb",
+				"job": "Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 2243,
+				"name": "Jon Hutman",
+				"profile_path": "/wbML5hLhKKXqqbUhWPbjhEhVV95.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 6410,
+				"name": "Francine Maisler",
+				"profile_path": "/j97ggx3P5YRTbXEtPorQq9ge9JH.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2949,
+				"name": "Alexandre Desplat",
+				"profile_path": "/vPsv5UYNLrQkzjOvng1OAAYCTIz.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1963657,
+				"name": "Lauren Lohman",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2372076,
+				"name": "Roger McNamee",
+				"profile_path": "/cYfxRezFb0JriVpoLwEfjg6BgJC.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1257754,
+				"name": "Ellen Goldsmith-Vein",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 47285,
+				"name": "Broderick Johnson",
+				"profile_path": "/lACnKu6Mxx5fGpWLt8qh0oevaQU.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 47286,
+				"name": "Andrew A. Kosove",
+				"profile_path": "/kkH3S2KsRd3XSH91GpeQmr7Raq0.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1413169,
+				"name": "Dennis Sands",
+				"profile_path": "/skUcHaebUMkcGezTxJM5SV7Ygon.jpg",
+				"job": "Scoring Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1933991,
+				"name": "Zabrina Matiru",
+				"job": "Makeup Department Head",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1302181,
+				"name": "Mark Noda",
+				"job": "Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 223247,
+				"name": "Julian Slater",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 223247,
+				"name": "Julian Slater",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1552063,
+				"name": "Susan Boyajian",
+				"profile_path": "/3BLBleHwVCeNNMb6k0Ws8lk3yDv.jpg",
+				"job": "ADR Voice Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 10393,
+				"name": "Alan Baumgarten",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			}
+		]
+	}
+}

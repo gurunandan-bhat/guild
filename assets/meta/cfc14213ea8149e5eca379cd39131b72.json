@@ -1,0 +1,244 @@
+{
+	"id": 1389172,
+	"title": "Reporting Live",
+	"fcg_title": "Reporting Live",
+	"original_title": "रिपोर्टिंग लाइव",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "A young reporter and her reluctant cameraman chase a story, only to get entangled in an illegal sand-mining racket run by a ruthless syndicate.",
+	"backdrop_path": "/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg",
+	"poster_path": "/7Ncfrt43mLLFB8yWcWON8imHr0Q.jpg",
+	"release_date": "2026-10-09",
+	"credits": {
+		"cast": [
+			{
+				"id": 1034471,
+				"order": 0,
+				"name": "Parineeti Chopra",
+				"profile_path": "/DDBuGxqPZOcb2o9bk3ihPQdBn8.jpg",
+				"character": "Sandhya",
+				"gender": 1
+			},
+			{
+				"id": 110292,
+				"order": 1,
+				"name": "Deven Bhojani",
+				"profile_path": "/4gKlQ8QD6BtfachIRAXOxB5vidB.jpg",
+				"character": "Vinod",
+				"gender": 2
+			},
+			{
+				"id": 227849,
+				"order": 2,
+				"name": "Adil Hussain",
+				"profile_path": "/eCWVa1pH7mmz0i9Q0l4VEKs7g6m.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1235143,
+				"order": 3,
+				"name": "Shekhar Suman",
+				"profile_path": "/u6rcpRPOuqV4ONOMt6NGSgyR1w2.jpg",
+				"gender": 2
+			},
+			{
+				"id": 105650,
+				"order": 4,
+				"name": "Amol Palekar",
+				"profile_path": "/kUnejDjArzNVxouIaIj3WxxC83G.jpg",
+				"gender": 2
+			},
+			{
+				"id": 130111,
+				"order": 5,
+				"name": "Nassar",
+				"profile_path": "/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1197127,
+				"order": 6,
+				"name": "Geeta Agrawal Sharma",
+				"profile_path": "/5Jrwb9zWG2Hjmf8PQLuDmCKnMHG.jpg",
+				"gender": 1
+			},
+			{
+				"id": 1093644,
+				"order": 7,
+				"name": "Saswata Chatterjee",
+				"profile_path": "/cVJVLDy7BNzIbFMcJBPOWeN0Kb.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1239665,
+				"order": 8,
+				"name": "Prachee Shah",
+				"profile_path": "/nCiNfb8VCtQ0PcYzIzzdVI5GlRl.jpg",
+				"gender": 1
+			},
+			{
+				"id": 225163,
+				"order": 9,
+				"name": "Pitobash",
+				"profile_path": "/p6BMCwXziu3tiqOfXYbHaS3ZZX1.jpg",
+				"gender": 2
+			},
+			{
+				"id": 130680,
+				"order": 10,
+				"name": "Sameer Kochhar",
+				"profile_path": "/77iaZ0mxIMVWYlwSd9LhcJ5rVOx.jpg",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 3244921,
+				"name": "Joshua Shirsath",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 6511882,
+				"name": "Dhruv Tripathi",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 6511882,
+				"name": "Dhruv Tripathi",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 6511905,
+				"name": "Mihir Jadhav",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 2320818,
+				"name": "Partha Thakur",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1097385,
+				"name": "R. Velraj",
+				"profile_path": "/tZo7n40iNRHkiNXn6ZtEddLJrkc.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 6522590,
+				"name": "Harish Tripathi",
+				"job": "Creative Director",
+				"department": "Art"
+			},
+			{
+				"id": 2600585,
+				"name": "Shyam Salgoankar",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 3469841,
+				"name": "Zubin Balaporia",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1180722,
+				"name": "Vijay Prakash",
+				"profile_path": "/7y8kA6X5l2b8HsNkKlEuCvRXfq.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1966280,
+				"name": "Sanjeev Maurya",
+				"job": "Casting Director",
+				"department": "Production"
+			},
+			{
+				"id": 1896275,
+				"name": "Mandar Nagaonkar",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 6522596,
+				"name": "Aaditya Rawat",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 2483313,
+				"name": "Raj Shekhar",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 1563581,
+				"name": "Tarun Bhandari",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 3145342,
+				"name": "Varsha Chandanani",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3145343,
+				"name": "Shilpa Makhija",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 3728198,
+				"name": "Ramesh Panda",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 6142805,
+				"name": "Paramjeet Singh",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 2609953,
+				"name": "Tushar Desai",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 4556269,
+				"name": "Zubair Ahmed",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 5315315,
+				"name": "C.V. Raju",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound"
+			}
+		]
+	}
+}
