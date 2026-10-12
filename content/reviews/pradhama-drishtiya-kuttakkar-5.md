@@ -1,13 +1,13 @@
 +++
-title = "Pradhama Dhrishtya Kuttakkar"
+title = "Pradhama Drishtiya Kuttakkar"
 date = 2026-09-11T21:16:28+05:30
 draft = false
-mreviews = ["Pradhama Dhrishtya Kuttakkar"]
+mreviews = ["Pradhama Drishtiya Kuttakkar"]
 critics = ['Vishal Menon']
 publication = ''
 subtitle = "A Terrific Reimagination Of The Police Procedural"
 opening = "Director Shahad and his writers, PS Subramanian and Vijesh Thottingal, give us a nerve-wracking hyper-realistic procedural that doesn’t allow us any time to rest."
-img = 'pradhama-dhrishtya-kuttakkar-5.webp'
+img = 'pradhama-drishtiya-kuttakkar-5.webp'
 media = 'print'
 source = "https://www.hollywoodreporterindia.com/reviews/theatrical/pradhama-drishtya-kuttakkar-movie-review-a-terrific-reimagination-of-the-police-procedural"
 scores = [8]

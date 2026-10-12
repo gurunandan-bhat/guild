@@ -1,13 +1,13 @@
 +++
-title = "Pradhama Dhrishtya Kuttakkar"
+title = "Pradhama Drishtiya Kuttakkar"
 date = 2026-09-11T23:37:42+05:30
 draft = false
-mreviews = ["Pradhama Dhrishtya Kuttakkar"]
+mreviews = ["Pradhama Drishtiya Kuttakkar"]
 critics = ['Vignesh Madhu']
 publication = ''
 subtitle = "A riveting battle of wits"
 opening = "Director Shahad crafts a compelling thriller about cops, crime, and a cover-up, with Parvathy and Vijayaraghavan in exemplary form"
-img = 'pradhama-dhrishtya-kuttakkar.webp'
+img = 'pradhama-drishtiya-kuttakkar.webp'
 media = 'print'
 source = "https://www.cinemaexpress.com/malayalam/review/2026/Sep/11/pradhama-drishtya-kuttakkar-movie-review-a-riveting-battle-of-wits"
 scores = [8]

@@ -1,8 +1,8 @@
 +++
-title = "Pradhama Dhrishtya Kuttakkar"
+title = "Pradhama Drishtiya Kuttakkar"
 date = 2026-10-12T15:17:13+05:30
 draft = false
-mreviews = ["Pradhama Dhrishtya Kuttakkar"]
+mreviews = ["Pradhama Drishtiya Kuttakkar"]
 critics = ['Akhil Arora']
 subtitle = "A Spotify Review"
 scores = [4]

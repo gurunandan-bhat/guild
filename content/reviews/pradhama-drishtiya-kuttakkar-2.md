@@ -1,13 +1,13 @@
 +++
-title = "Pradhama Dhrishtya Kuttakkar"
+title = "Pradhama Drishtiya Kuttakkar"
 date = 2026-09-13T15:52:50+05:30
 draft = false
-mreviews = ["Pradhama Dhrishtya Kuttakkar"]
+mreviews = ["Pradhama Drishtiya Kuttakkar"]
 critics = ['Tusshar Sasi']
 publication = ''
 subtitle = "The good, the bad and the guilty"
 opening = ""
-img = 'pradhama-dhrishtya-kuttakkar-2.webp'
+img = 'pradhama-drishtiya-kuttakkar-2.webp'
 media = 'print'
 source = "https://filmysasi.com/pradhama-drishtya-kuttakkar-parvathy-film-review/"
 scores = [7]

@@ -1,13 +1,13 @@
 +++
-title = "Pradhama Dhrishtya Kuttakkar"
+title = "Pradhama Drishtiya Kuttakkar"
 date = 2026-09-14T18:02:18+05:30
 draft = false
-mreviews = ["Pradhama Dhrishtya Kuttakkar"]
+mreviews = ["Pradhama Drishtiya Kuttakkar"]
 critics = ['Aditya Shrikrishna']
 publication = 'Mint'
 subtitle = "Parvathy keeps twisty thriller ticking"
 opening = "A quartet of cops orchestrate a cover-up in Shahad Nilambur’s occasionally thrilling ‘Pradhama Drishtiya Kuttakkar’"
-img = 'pradhama-dhrishtya-kuttakkar-3.webp'
+img = 'pradhama-drishtiya-kuttakkar-3.webp'
 media = 'print'
 source = "https://www.livemint.com/mint-lounge/art-and-culture/pradhama-drishtiya-kuttakkar-film-review-parvathy-thiruvothu-shahad-nilambur-11789296636312.html"
 scores = [6.5]

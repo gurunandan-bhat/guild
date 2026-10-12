@@ -1,13 +1,13 @@
 +++
-title = "Pradhama Dhrishtya Kuttakkar"
+title = "Pradhama Drishtiya Kuttakkar"
 date = 2026-09-15T18:09:47+05:30
 draft = false
-mreviews = ["Pradhama Dhrishtya Kuttakkar"]
+mreviews = ["Pradhama Drishtiya Kuttakkar"]
 critics = ['S. R. Praveen']
 publication = ''
 subtitle = "A taut thriller that rarely has a misstep"
 opening = "Shahad, who debuted with the forgettable coming-of-age drama ‘Prakashan Parakkatte’ (2022), ups his game here by several notches, aided by a taut screenplay"
-img = 'pradhama-dhrishtya-kuttakkar-4.jpg'
+img = 'pradhama-drishtiya-kuttakkar-4.jpg'
 media = 'print'
 source = "https://www.thehindu.com/entertainment/movies/pradhama-drishtiya-kuttakkar-movie-review-a-taut-thriller-that-rarely-has-a-misstep/article71463940.ece"
 scores = [7.5]
