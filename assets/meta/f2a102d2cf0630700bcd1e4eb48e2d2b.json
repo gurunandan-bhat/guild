@@ -1,0 +1,312 @@
+{
+	"id": 1081010,
+	"title": "Prahaar",
+	"fcg_title": "Prahaar: The Untold Story of Ujjwal Nikam",
+	"original_title": "प्रहार",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "Public prosecutor Ujjwal Nikam takes on one of the most high-profile criminal cases in India’s history, leading the prosecution in the trial of Ajmal Kasab following the 26/11 Mumbai terror attacks. As he battles to uncover the truth and secure justice, Nikam must confront the immense personal and professional burden of a case that will define his legacy.",
+	"backdrop_path": "/8S2DXdKY23wfYq4v0awYXov4c8g.jpg",
+	"poster_path": "/g2bZzjWzdPZ5GXrN8dQ8sixant3.jpg",
+	"release_date": "2026-10-16",
+	"credits": {
+		"cast": [
+			{
+				"id": 117727,
+				"order": 0,
+				"name": "Rajkummar Rao",
+				"profile_path": "/ttBY7Y8x4NCpXfGS9Tc1NN8ISos.jpg",
+				"character": "Ujjwal Nikam",
+				"gender": 2
+			},
+			{
+				"id": 1267400,
+				"order": 1,
+				"name": "Wamiqa Gabbi",
+				"profile_path": "/e1CNXkH2scGeoabOTowFJJxX2YF.jpg",
+				"gender": 1
+			},
+			{
+				"id": 973402,
+				"order": 2,
+				"name": "Jaideep Ahlawat",
+				"profile_path": "/uILn4y8EWbMdeu71laMsh8zHY0M.jpg",
+				"gender": 2
+			},
+			{
+				"id": 229123,
+				"order": 3,
+				"name": "Sikandar Kher",
+				"profile_path": "/sULXachczStfQLegNVmxcvuUTWZ.jpg",
+				"gender": 2
+			},
+			{
+				"id": 2248928,
+				"order": 4,
+				"name": "Lalit Prabhakar",
+				"profile_path": "/gdjKrQX2ITPhqFGcWRnEaYq0Wci.jpg",
+				"character": "Ajmal Kasab",
+				"gender": 2
+			},
+			{
+				"id": 130111,
+				"order": 5,
+				"name": "Nassar",
+				"profile_path": "/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg",
+				"gender": 2
+			},
+			{
+				"id": 85684,
+				"order": 6,
+				"name": "Ashish Vidhyarthi",
+				"profile_path": "/iBUUpfHZIfpC5afHrHwcyGTHKQF.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1066398,
+				"order": 7,
+				"name": "Ritwik Sahore",
+				"profile_path": "/cGCkoaJecyQoAbV1NfvmjyPs4Fb.jpg",
+				"gender": 2
+			},
+			{
+				"id": 992742,
+				"order": 8,
+				"name": "Sandeep Kulkarni",
+				"profile_path": "/8zFBxP0soCWSH6vmVXvTRVeuKrR.jpg"
+			}
+		],
+		"crew": [
+			{
+				"id": 102246,
+				"name": "Dinesh Vijan",
+				"profile_path": "/mYKpPjxkGvyCXMhId8HXZKAyePb.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1348503,
+				"name": "Avinash Arun",
+				"profile_path": "/6TGQK6AQ6ufRB8xNWXkB8ZSXbQS.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2239105,
+				"name": "Sumit Roy",
+				"profile_path": "/kUl7pj6gVmTgufQIQI5qKaXe5mR.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5666821,
+				"name": "Vishal Tiwari",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 1348503,
+				"name": "Avinash Arun",
+				"profile_path": "/6TGQK6AQ6ufRB8xNWXkB8ZSXbQS.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2239105,
+				"name": "Sumit Roy",
+				"profile_path": "/kUl7pj6gVmTgufQIQI5qKaXe5mR.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2239105,
+				"name": "Sumit Roy",
+				"profile_path": "/kUl7pj6gVmTgufQIQI5qKaXe5mR.jpg",
+				"job": "Dialogue",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 4536114,
+				"name": "Dushyant Arora",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 1662231,
+				"name": "Alokananda Dasgupta",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 1790781,
+				"name": "Charu Shree Roy",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 1599798,
+				"name": "Amitabh Bhattacharya",
+				"profile_path": "/FsOarFNY9tnqKcs3TI1BFvhIla.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 3951923,
+				"name": "Pooja Prem Patheja",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2255860,
+				"name": "Sharada Karki",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1640326,
+				"name": "Preetisheel Singh",
+				"job": "Prosthetic Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1893017,
+				"name": "Sachin Lovalekar",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1434492,
+				"name": "Ejaz Gulab",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1640321,
+				"name": "Subrata Chakraborty",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 1640319,
+				"name": "Amit Ray",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 2156687,
+				"name": "Vishal Mishra",
+				"profile_path": "/rgTiKOQ016nV05FxiWpvjqurWAC.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2541619,
+				"name": "Emiway Bantai",
+				"job": "Music",
+				"department": "Sound"
+			},
+			{
+				"id": 1757795,
+				"name": "Bigyna Dahal",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 4523148,
+				"name": "Eeshan Vilas Kaushal",
+				"job": "Additional Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 1708062,
+				"name": "Anmol Ahuja",
+				"job": "Casting Director",
+				"department": "Production"
+			},
+			{
+				"id": 2449453,
+				"name": "Sunny Dagar",
+				"job": "Additional Casting",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5712686,
+				"name": "Rajdeep Munendra Gupta",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2266284,
+				"name": "Anand Mishra",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3686450,
+				"name": "Manish Kumar Sharma",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2214290,
+				"name": "Manuja Tyagi",
+				"job": "Script Supervisor",
+				"department": "Directing"
+			},
+			{
+				"id": 2362169,
+				"name": "Nilesh Vishwakarma",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1753481,
+				"name": "Sinoy Joseph",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2266283,
+				"name": "Sanjeev Mishra",
+				"job": "Associate Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4488204,
+				"name": "Shraddha S. Thorat",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2149909,
+				"name": "Ashirwad Hadkar",
+				"job": "Colorist",
+				"department": "Editing"
+			}
+		]
+	}
+}
