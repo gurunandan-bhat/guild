@@ -32,7 +32,7 @@
 	<div class="container">
 		<div class="row mt-5">
 			<div class="col-lg-10 offset-lg-1">
-				<h2 class="section-head">Guild Reviews by Film</h2>
+				<h2 class="d-flex justify-content-between section-head pe-2">Guild Reviews by Film <span class="fs-6">Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}</span></h2>
 				<div class="d-flex justify-content-center">
 					{{ template "_internal/pagination.html" . }}
 				</div>
