@@ -1,0 +1,809 @@
+{
+	"id": 1153576,
+	"title": "Street Fighter",
+	"fcg_title": "Street Fighter",
+	"original_title": "Street Fighter",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 14,
+			"name": "Fantasy"
+		}
+	],
+	"overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+	"backdrop_path": "/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+	"poster_path": "/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+	"release_date": "2026-10-13",
+	"credits": {
+		"cast": [
+			{
+				"id": 1658375,
+				"order": 0,
+				"name": "Andrew Koji",
+				"profile_path": "/oU53nWLQ6wFHzERwSi1fD53LxZB.jpg",
+				"character": "Ryu",
+				"gender": 2
+			},
+			{
+				"id": 1253353,
+				"order": 1,
+				"name": "Noah Centineo",
+				"profile_path": "/p1bcst401RyxfDGykx2iQLI7CV5.jpg",
+				"character": "Ken Masters",
+				"gender": 2
+			},
+			{
+				"id": 3775598,
+				"order": 2,
+				"name": "Callina Liang",
+				"profile_path": "/blJ4iEqMs5oTiKVxUyB9Ky7kNRO.jpg",
+				"character": "Chun-Li",
+				"gender": 1
+			},
+			{
+				"id": 83854,
+				"order": 3,
+				"name": "David Dastmalchian",
+				"profile_path": "/eLafwcpL64CqzwjjSgKpO7Rv4ae.jpg",
+				"character": "M. Bison",
+				"gender": 2
+			},
+			{
+				"id": 2637828,
+				"order": 4,
+				"name": "Mel Jarnson",
+				"profile_path": "/8m0gnlADmLXkMkvSzDR2OhBfsCB.jpg",
+				"character": "Cammy",
+				"gender": 1
+			},
+			{
+				"id": 222912,
+				"order": 5,
+				"name": "Cody Rhodes",
+				"profile_path": "/m9hfLcsQuESprcb7dJUj5lQLWCv.jpg",
+				"character": "Guile",
+				"gender": 2
+			},
+			{
+				"id": 1118194,
+				"order": 6,
+				"name": "Vidyut Jammwal",
+				"profile_path": "/9iBEIKvn1GGzymF3kVPBHtaMkWy.jpg",
+				"character": "Dhalsim",
+				"gender": 2
+			},
+			{
+				"id": 2074238,
+				"order": 7,
+				"name": "Olivier Richters",
+				"profile_path": "/8Zz5WYE1Muc3AX9daxCxgNTRE5.jpg",
+				"character": "Zangief",
+				"gender": 2
+			},
+			{
+				"id": 1880755,
+				"order": 8,
+				"name": "Andrew Schulz",
+				"profile_path": "/fdeYq1EraYvlYM3VmGXjIaSGoTz.jpg",
+				"character": "Dan Hibiki",
+				"gender": 2
+			},
+			{
+				"id": 62644,
+				"order": 9,
+				"name": "50 Cent",
+				"profile_path": "/7VfwFIwBxy7qBUErosWRDQOovl9.jpg",
+				"character": "Balrog",
+				"gender": 2
+			},
+			{
+				"id": 1170011,
+				"order": 10,
+				"name": "Joe Anoa'i",
+				"profile_path": "/6BKc77eAUBQdL9MmgBorBc4SMdE.jpg",
+				"character": "Akuma",
+				"gender": 2
+			},
+			{
+				"id": 1828987,
+				"order": 11,
+				"name": "Rayna Vallandingham",
+				"profile_path": "/hAIWaRWdJB2CIOIpNuEa7Cesjv4.jpg",
+				"character": "Juli",
+				"gender": 1
+			},
+			{
+				"id": 117642,
+				"order": 12,
+				"name": "Jason Momoa",
+				"profile_path": "/3troAR6QbSb6nUFMDu61YCCWLKa.jpg",
+				"character": "Blanka",
+				"gender": 2
+			},
+			{
+				"id": 934159,
+				"order": 13,
+				"name": "Eric Andre",
+				"profile_path": "/e9XlcFnZQiBSQ1vISQVyTOrkIaq.jpg",
+				"character": "Don Sauvage",
+				"gender": 2
+			},
+			{
+				"id": 1281805,
+				"order": 14,
+				"name": "Hirooki Goto",
+				"profile_path": "/uzqLC7AbKClQzcDPHZVRCyxacLx.jpg",
+				"character": "E. Honda",
+				"gender": 2
+			},
+			{
+				"id": 1180698,
+				"order": 15,
+				"name": "Kyle Mooney",
+				"profile_path": "/xywmFOt1OkUGa2Ex2YnmjI6gyd7.jpg",
+				"character": "Marvin",
+				"gender": 2
+			},
+			{
+				"id": 1917297,
+				"order": 16,
+				"name": "Alexander Volkanovski",
+				"profile_path": "/zCEe5Le93whbKXgUikCJ3hFz4Y0.jpg",
+				"character": "Joe",
+				"gender": 2
+			},
+			{
+				"id": 3135936,
+				"order": 17,
+				"name": "Orville Peck",
+				"profile_path": "/oW989m8J8gWGCBDkjplkqQoMob6.jpg",
+				"character": "Vega",
+				"gender": 2
+			},
+			{
+				"id": 3064714,
+				"order": 18,
+				"name": "Antonio Alvarez",
+				"character": "Striker",
+				"gender": 2
+			},
+			{
+				"id": 1061111,
+				"order": 19,
+				"name": "Bill O'Neill",
+				"profile_path": "/k0TZrvjx1Vhvs3Q0KfQ7GuziPn2.jpg",
+				"character": "Scientist",
+				"gender": 2
+			},
+			{
+				"id": 3077073,
+				"order": 20,
+				"name": "Tamara Lee Bailey",
+				"profile_path": "/skIBz8ZdtB0u96FLHK2j1mblLH4.jpg",
+				"character": "Bison Doll",
+				"gender": 1
+			},
+			{
+				"id": 4790942,
+				"order": 21,
+				"name": "Orla Saphron",
+				"profile_path": "/3aGVw16tSUdB2z4vzNWhCU4KljV.jpg",
+				"character": "Bison Doll",
+				"gender": 1
+			},
+			{
+				"id": 1485593,
+				"order": 22,
+				"name": "Kristy Best",
+				"profile_path": "/59SfxmgV30kqIlsgNfYG20EimHu.jpg",
+				"character": "JJ the Reporter",
+				"gender": 1
+			},
+			{
+				"id": 6044882,
+				"order": 23,
+				"name": "Yaz Haddad",
+				"character": "Dimitri the DJ"
+			},
+			{
+				"id": 1424969,
+				"order": 24,
+				"name": "Tim Robards",
+				"character": "Sentry",
+				"gender": 2
+			},
+			{
+				"id": 1024395,
+				"order": 25,
+				"name": "Don Lee",
+				"profile_path": "/xqnARIEzfyr3BalhFBWHmCusLKH.jpg",
+				"character": "Gouken",
+				"gender": 2
+			},
+			{
+				"id": 3617054,
+				"order": 26,
+				"name": "Samantha Allsop",
+				"profile_path": "/8Bxoa9AOX1MH3ez0WqvrwAHmybI.jpg",
+				"character": "Tawny the Dancer",
+				"gender": 1
+			},
+			{
+				"id": 2875829,
+				"order": 27,
+				"name": "Lachlan Power",
+				"profile_path": "/mFI9EIr9RUEIrPMLXTDv98SiQBP.jpg",
+				"character": "Bison Inmate",
+				"gender": 2
+			},
+			{
+				"id": 2610063,
+				"order": 28,
+				"name": "Lannan Eacott",
+				"profile_path": "/f7LrrVNVrjRm3aN9lctqb78rowP.jpg",
+				"character": "Bison Inmate",
+				"gender": 2
+			},
+			{
+				"id": 2070453,
+				"order": 29,
+				"name": "Danny Philippou",
+				"profile_path": "/zzf84gR6R6D5ZJDLY8jQH5tsfDc.jpg",
+				"character": "Self",
+				"gender": 2
+			},
+			{
+				"id": 2070452,
+				"order": 30,
+				"name": "Michael Philippou",
+				"profile_path": "/zpkBlS9F4FGbNxaOQY2AuvL18Q8.jpg",
+				"character": "Self",
+				"gender": 2
+			},
+			{
+				"id": 6553936,
+				"order": 31,
+				"name": "Christian Valle",
+				"character": "El Fuerte",
+				"gender": 2
+			},
+			{
+				"id": 5792072,
+				"order": 32,
+				"name": "Maximilian Miles Christen",
+				"profile_path": "/k7dRRifFikVwwjxZQYnAS9qG7Lx.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1193354,
+				"order": 33,
+				"name": "Justin Wong",
+				"profile_path": "/1z58xzhEHKxoUi3X2XQgHCwMeoD.jpg",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 922344,
+				"name": "Kitao Sakurai",
+				"profile_path": "/9uaITTRb3OOdkV9ujcUTd9f9cp7.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1599958,
+				"name": "Nick Emond",
+				"job": "Production Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 15328,
+				"name": "Kevin Kavanaugh",
+				"profile_path": "/ovTzJdjG7arCadMcnNjiqndiq6M.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 132604,
+				"name": "Andy McLaren",
+				"job": "Supervising Art Director",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 6209,
+				"name": "Kym Barrett",
+				"profile_path": "/cZ3jE9PNY6kiI45kFUOIjeyxPlU.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1683351,
+				"name": "Nick Satriano",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1427715,
+				"name": "Jon Valera",
+				"profile_path": "/BLRKYySRdVpbvcDI8qC2laPRQ3.jpg",
+				"job": "Second Unit Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1427715,
+				"name": "Jon Valera",
+				"profile_path": "/BLRKYySRdVpbvcDI8qC2laPRQ3.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2092717,
+				"name": "Montrice White",
+				"job": "First Assistant Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 959274,
+				"name": "Ken Seng",
+				"profile_path": "/x4zfGuwfjbuChQGPh22SFk4m9Si.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 9346,
+				"name": "Lisa Brennan",
+				"job": "Set Decoration",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 1355541,
+				"name": "Jason Ellson",
+				"job": "\"A\" Camera Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1355541,
+				"name": "Jason Ellson",
+				"job": "Steadicam Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2273992,
+				"name": "Paul Sullivan",
+				"job": "Unit Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 3580730,
+				"name": "Sandra Balej",
+				"profile_path": "/zNJXiUFFDWyfKmLuR1J8drdOR2A.jpg",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 1
+			},
+			{
+				"id": 1437638,
+				"name": "Dalan Musson",
+				"profile_path": "/pMVjJ3aNFc6tqvLO0tQvVLrU75O.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1338249,
+				"name": "Gary Dauberman",
+				"profile_path": "/iQvToa3ShnLoEPMomwNt7SNnOjm.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1355889,
+				"name": "T.J. Fixman",
+				"profile_path": "/dMHXWV0WjuY9yVCKS7kHmZCr1qK.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 922344,
+				"name": "Kitao Sakurai",
+				"profile_path": "/9uaITTRb3OOdkV9ujcUTd9f9cp7.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1325188,
+				"name": "Jennifer Lamphee",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1325188,
+				"name": "Jennifer Lamphee",
+				"job": "Hair Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1828136,
+				"name": "Laura Hutton",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1724246,
+				"name": "Jay Torta",
+				"job": "Second Unit Director of Photography",
+				"department": "Camera"
+			},
+			{
+				"id": 1527926,
+				"name": "Matt Toll",
+				"job": "Additional Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 114408,
+				"name": "Mary Parent",
+				"profile_path": "/jTh9ngfGF8DQvKwGM8rXSmfbQTj.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 17315,
+				"name": "Cale Boyter",
+				"profile_path": "/jeRsKRHuSJcTdciWmkO6LrBULw2.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 117642,
+				"name": "Jason Momoa",
+				"profile_path": "/3troAR6QbSb6nUFMDu61YCCWLKa.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4505380,
+				"name": "Takayuki Nakayama",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 6247807,
+				"name": "Stefan Makhoul",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2271245,
+				"name": "Jay Ashenfelter",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 934720,
+				"name": "Haruhiro Tsujimoto",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 70162,
+				"name": "Kenzo Tsujimoto",
+				"profile_path": "/9jZG8OzOF5eZ2DqLEf0o3Kg1tFC.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1417848,
+				"name": "Jonathan Hook",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 3119247,
+				"name": "Allie Glisch",
+				"job": "Visual Effects Production Manager",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2010415,
+				"name": "Robin Williams",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1394278,
+				"name": "Jay Barton",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1921191,
+				"name": "Robert Schajer",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1717739,
+				"name": "Avi Goodman",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 3076529,
+				"name": "Jeremy Pronk",
+				"job": "CG Supervisor",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2942689,
+				"name": "Attila Szalma",
+				"job": "CG Supervisor",
+				"department": "Crew"
+			},
+			{
+				"id": 1272997,
+				"name": "Leo Birenberg",
+				"profile_path": "/dQ9tGEuLaDDoIxijfiUmdXfogiD.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1433463,
+				"name": "Zach Robinson",
+				"profile_path": "/zp5CKwVNtTJqqmybxDdcJuvQrfD.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1468801,
+				"name": "James Thomas",
+				"profile_path": "/bAqb9coqMI3Iwlv1bQIoz1viHI7.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 3596370,
+				"name": "Delaney Del Vecchio",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 4516247,
+				"name": "Carlos Delgado",
+				"job": "Visual Effects Production Manager",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1452989,
+				"name": "Nicholas Tripodi",
+				"job": "Animation Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1483578,
+				"name": "Andrew Hellen",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 4875536,
+				"name": "Jessica Harrison",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 75523,
+				"name": "Anna Gray",
+				"job": "Makeup Supervisor",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 75523,
+				"name": "Anna Gray",
+				"job": "Hair Supervisor",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1900168,
+				"name": "Anis Cheurfa",
+				"profile_path": "/sToFORAIVPHffNHKcsIYjEISMv0.jpg",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1696981,
+				"name": "Akihiro Haga",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1463668,
+				"name": "Daniel Graham",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1891243,
+				"name": "Erol Ismail",
+				"profile_path": "/m4GoOZsBLRipLNlCKxZQjzicD2S.jpg",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1433401,
+				"name": "Megan Hui",
+				"profile_path": "/4saC8gBCvTk3Iq62KM33Prjxt3X.jpg",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1825885,
+				"name": "Niko Nedyalkov",
+				"profile_path": "/R0Ys1tcymz3TdviRizR4FxGwnI.jpg",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2103390,
+				"name": "Anthony Rinna",
+				"job": "Fight Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2231265,
+				"name": "Inge Sildnik",
+				"profile_path": "/p3SEHGXoQs2z8geULRuTYVWXDOX.jpg",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 3529083,
+				"name": "Tye Wilkie",
+				"job": "Stunt Double",
+				"department": "Crew"
+			},
+			{
+				"id": 3310642,
+				"name": "Mel Eckert",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 2272449,
+				"name": "Hayley Wright",
+				"profile_path": "/4a7LgC3FxQzfCpstqUueHqYDDmd.jpg",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 6498784,
+				"name": "Daniele Clements",
+				"profile_path": "/55VYUGzbVjZrIUjS3oex6HjjU1e.jpg",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1089920,
+				"name": "Tim Connolly",
+				"profile_path": "/h9QAyc5esNHzn2lWUvLozD1LAnx.jpg",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1594495,
+				"name": "Aidan Gillett",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 75131,
+				"name": "Nash Edgerton",
+				"profile_path": "/qaqSjQXRjTyCKChgVtBSHnnWbb9.jpg",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3070048,
+				"name": "Matt Bowden",
+				"profile_path": "/8cWLUI6d5r1tqYACElhMFPlBaj7.jpg",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1856011,
+				"name": "Cameron Brown",
+				"profile_path": "/jLEKQbppMDHeiFX23bxrcmT5dmh.jpg",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2360855,
+				"name": "Andrea Berchtold",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1840496,
+				"name": "Garreth Hadfield",
+				"profile_path": "/7hDnAi2tqm9XZqEVoWRhQzDqc1w.jpg",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1265143,
+				"name": "Tony Lynch",
+				"profile_path": "/v7Bcha9l6gCeoSfj1w51Lko6Tow.jpg",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1401734,
+				"name": "Glenn Suter",
+				"job": "Stunts",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1537471,
+				"name": "Kris Krosskove",
+				"job": "\"A\" Camera Operator",
+				"department": "Camera",
+				"gender": 2
+			}
+		]
+	}
+}
