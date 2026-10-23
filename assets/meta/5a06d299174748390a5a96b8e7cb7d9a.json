@@ -1,0 +1,679 @@
+{
+	"id": 1255833,
+	"title": "Whalefall",
+	"fcg_title": "Whalefall",
+	"original_title": "Whalefall",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
+	"backdrop_path": "/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
+	"poster_path": "/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
+	"release_date": "2026-10-14",
+	"credits": {
+		"cast": [
+			{
+				"id": 148992,
+				"order": 0,
+				"name": "Austin Abrams",
+				"profile_path": "/nvbJNwyhIICUFcS4lhxj9mGvL5z.jpg",
+				"character": "Jay Gardiner",
+				"gender": 2
+			},
+			{
+				"id": 16851,
+				"order": 1,
+				"name": "Josh Brolin",
+				"profile_path": "/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg",
+				"character": "Mitt Gardiner",
+				"gender": 2
+			},
+			{
+				"id": 1951,
+				"order": 2,
+				"name": "Elisabeth Shue",
+				"profile_path": "/1pmjDSLvOuqKW1P2KRPlpFMeUFe.jpg",
+				"character": "Zara Gardiner",
+				"gender": 1
+			},
+			{
+				"id": 40543,
+				"order": 3,
+				"name": "John Ortiz",
+				"profile_path": "/o2SOFI53N6Gv5S3fDEBNbeimbzY.jpg",
+				"character": "Hewey",
+				"gender": 2
+			},
+			{
+				"id": 530618,
+				"order": 4,
+				"name": "Jane Levy",
+				"profile_path": "/iYyWPOOpZgAqZK6IddSaD4R9QW3.jpg",
+				"character": "Eva Gardiner",
+				"gender": 1
+			},
+			{
+				"id": 1568101,
+				"order": 5,
+				"name": "Emily Rudd",
+				"profile_path": "/vVl4ABlqUuh5n1M2B9AOOa9r6kV.jpg",
+				"character": "Nan Gardiner",
+				"gender": 1
+			},
+			{
+				"id": 2356114,
+				"order": 6,
+				"name": "Kamy D. Bruder",
+				"profile_path": "/zClbeBZWyCogpRZz9zRQnBSl5X9.jpg",
+				"character": "Whale Watcher Man",
+				"gender": 2
+			},
+			{
+				"id": 5586848,
+				"order": 7,
+				"name": "Mark Meloro Jr.",
+				"character": "Whale Watcher Man",
+				"gender": 2
+			},
+			{
+				"id": 4232760,
+				"order": 8,
+				"name": "Sam Franich",
+				"character": "Jay at 10"
+			},
+			{
+				"id": 5254327,
+				"order": 9,
+				"name": "Nicholas Gould",
+				"character": "US Coast Guard Petty Officer Third Class Whaley"
+			},
+			{
+				"id": 6556532,
+				"order": 10,
+				"name": "Laurel Lane Bowen",
+				"character": "Cafe Patron"
+			},
+			{
+				"id": 1821369,
+				"order": 11,
+				"name": "Sam Skolnik",
+				"profile_path": "/wTqS6v4AIa1X3T9bNv3dRhpZynW.jpg",
+				"character": "Employee",
+				"gender": 2
+			},
+			{
+				"id": 6035656,
+				"order": 12,
+				"name": "Grayson Paul Solomine",
+				"profile_path": "/6hdRpVJbq1ER0sAqvG4oQ3u5ai2.jpg",
+				"character": "Young Jay",
+				"gender": 2
+			},
+			{
+				"id": 1660435,
+				"order": 13,
+				"name": "Shauna Duggins",
+				"profile_path": "/wlfEakoNbtKGzkcxaI5WYjhYxJK.jpg",
+				"character": "Whale Watcher Joy",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 1673675,
+				"name": "Allan Mandelbaum",
+				"profile_path": "/iGTtEctZQY83NfDnVz03dGfitJh.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1295292,
+				"name": "Brian Duffield",
+				"profile_path": "/sNFeU2PGn8FULqQcqf73sBiL34i.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 6159,
+				"name": "Ron Howard",
+				"profile_path": "/tDKn6gAgvARdQRfuem2JwyNcP3B.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 339,
+				"name": "Brian Grazer",
+				"profile_path": "/rNFUflKlpTEbnWDHd2Of293E4lx.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1626072,
+				"name": "Richard Abate",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1327832,
+				"name": "Will Rowbotham",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 61125,
+				"name": "J.R. Young",
+				"job": "Executive In Charge Of Production",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1295292,
+				"name": "Brian Duffield",
+				"profile_path": "/sNFeU2PGn8FULqQcqf73sBiL34i.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1660435,
+				"name": "Shauna Duggins",
+				"profile_path": "/wlfEakoNbtKGzkcxaI5WYjhYxJK.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1098740,
+				"name": "Joseph Trapanese",
+				"profile_path": "/3jh3094X5Usrsvd0QGMLP7EqwfI.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1155982,
+				"name": "Aaron Morton",
+				"profile_path": "/ejgOlILvDF5NMKrTKPU4HeXOYNW.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 66491,
+				"name": "Ramsey Avery",
+				"profile_path": "/hYpFCBh5nDcgfbjqROw9URwY9SX.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1338157,
+				"name": "Natalie O'Brien",
+				"profile_path": "/jRulVnLQEaZVD6DZ8l6rRoH4rWd.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 75375,
+				"name": "Joel Harlow",
+				"profile_path": "/tC8VpeOUQHkpPintf1Jaao2Igsg.jpg",
+				"job": "Makeup Department Head",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1532735,
+				"name": "Marie Larkin",
+				"job": "Hair Department Head",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1113479,
+				"name": "Douglas C. Merrifield",
+				"profile_path": "/erSl87IA2pl0uSg1Ts1uj2WCXJe.jpg",
+				"job": "Unit Production Manager",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1552062,
+				"name": "Peter J. Devlin",
+				"profile_path": "/6dNnJupK72ZTNej4yZ7hwmcpnfB.jpg",
+				"job": "Sound Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1439094,
+				"name": "Guillaume Rocheron",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 950,
+				"name": "Pietro Scalia",
+				"profile_path": "/cy4XviFjYDwyvfM4aqcxOV96MMq.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 20540,
+				"name": "Randi Hiller",
+				"profile_path": "/bwbjJP1m8vmyz0iKjF8Tq2RoGWh.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2314183,
+				"name": "Rpin Suwannath",
+				"job": "Pre-Visualization Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1113479,
+				"name": "Douglas C. Merrifield",
+				"profile_path": "/erSl87IA2pl0uSg1Ts1uj2WCXJe.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1530712,
+				"name": "Mark Hawker",
+				"job": "Special Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1398970,
+				"name": "David Emmerichs",
+				"job": "\"A\" Camera Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1398970,
+				"name": "David Emmerichs",
+				"job": "Steadicam Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 2348023,
+				"name": "Collin Davis",
+				"job": "\"B\" Camera Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1432613,
+				"name": "Annemarie Griggs",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects",
+				"gender": 1
+			},
+			{
+				"id": 2124403,
+				"name": "Gordon Stotz",
+				"job": "Supervising Art Director",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1338484,
+				"name": "Chris Terhune",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1338484,
+				"name": "Chris Terhune",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1345718,
+				"name": "Jason Blumenfeld",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2613421,
+				"name": "Colin Shen Min Lim",
+				"job": "VFX Editor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1295292,
+				"name": "Brian Duffield",
+				"profile_path": "/sNFeU2PGn8FULqQcqf73sBiL34i.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1050132,
+				"name": "Daniel Kraus",
+				"profile_path": "/puDtVAss5qprwxt9byt2gTTQ3bL.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1050132,
+				"name": "Daniel Kraus",
+				"profile_path": "/puDtVAss5qprwxt9byt2gTTQ3bL.jpg",
+				"job": "Book",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1442156,
+				"name": "David Seager",
+				"profile_path": "/cmKmW4Ei3vCHc52PqFpjzxZmTfr.jpg",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 6317123,
+				"name": "Gabriel Reichle",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 2134405,
+				"name": "Florian Witzel",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1561352,
+				"name": "Matt Shumway",
+				"job": "Animation Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 3131178,
+				"name": "Christopher Marshall",
+				"job": "Animation Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 6690,
+				"name": "Jill Brooks",
+				"job": "Executive Visual Effects Producer",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 2020977,
+				"name": "Keith Anthony-Brown",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 6317125,
+				"name": "Eric Rosengard",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 4776236,
+				"name": "Sunit Saha",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1463541,
+				"name": "Heath Kraynak",
+				"job": "Compositing Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1337040,
+				"name": "Laurens Ehrmann",
+				"profile_path": "/e89r9yOaAm85St8sYHARBjtQDMh.jpg",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1461618,
+				"name": "Harry Bardak",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 5714042,
+				"name": "Audrey Lagnous",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1050132,
+				"name": "Daniel Kraus",
+				"profile_path": "/puDtVAss5qprwxt9byt2gTTQ3bL.jpg",
+				"job": "Novel",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2047173,
+				"name": "Dan Mast",
+				"profile_path": "/jLYJLW8BUTXlbQtlLI7GSKhtDpk.jpg",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2147622,
+				"name": "Cord Walker",
+				"job": "Stunts",
+				"department": "Crew"
+			},
+			{
+				"id": 4622117,
+				"name": "Lauren Danielle Pugh",
+				"job": "Stunt Double",
+				"department": "Crew",
+				"gender": 1
+			},
+			{
+				"id": 1321750,
+				"name": "Kurt D. Lott",
+				"profile_path": "/lPUdu9RkkSy6xLxKRbVMV3Ruh2W.jpg",
+				"job": "Stunts",
+				"department": "Crew"
+			},
+			{
+				"id": 428915,
+				"name": "Jeb Brody",
+				"profile_path": "/pPcnumg2o5Yj8iLArUNUsPyRKac.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1537505,
+				"name": "Daniel Cabeza",
+				"job": "Casting",
+				"department": "Production"
+			},
+			{
+				"id": 2025784,
+				"name": "Gary McMonnies",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 60223,
+				"name": "Michael E. Goldman",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 1352973,
+				"name": "Sarah Swick",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects",
+				"gender": 1
+			},
+			{
+				"id": 2108096,
+				"name": "Ashley Doss",
+				"job": "Visual Effects Production Manager",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 6558040,
+				"name": "Mary Austin",
+				"job": "Visual Effects Production Manager",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 6558041,
+				"name": "Victoria Kilvington",
+				"job": "Visual Effects Production Manager",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1774220,
+				"name": "Ebrahim Jahromi",
+				"job": "CG Supervisor",
+				"department": "Crew"
+			},
+			{
+				"id": 2066709,
+				"name": "Leandro Estebecorena",
+				"job": "CG Supervisor",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1373725,
+				"name": "Matt Middleton",
+				"job": "CG Supervisor",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 6558060,
+				"name": "Sanjeev Das",
+				"job": "CG Supervisor",
+				"department": "Crew"
+			},
+			{
+				"id": 2069321,
+				"name": "Dominik Platen",
+				"job": "Compositing Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 2796899,
+				"name": "Cristiane Maia",
+				"job": "VFX Editor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1547203,
+				"name": "Erik Pampel",
+				"job": "VFX Editor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 6558089,
+				"name": "Nick Swartz",
+				"job": "VFX Editor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 6558090,
+				"name": "Samuel Willing",
+				"job": "VFX Editor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 6558092,
+				"name": "Emily Ager",
+				"job": "Visual Effects Production Assistant",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 6558093,
+				"name": "Emily Murotake",
+				"job": "Visual Effects Production Assistant",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 6558095,
+				"name": "Gabriela Lanza",
+				"job": "Visual Effects Production Assistant",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 3034376,
+				"name": "Priyanka Biswas",
+				"job": "Visual Effects Production Assistant",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 6235545,
+				"name": "Rachel Lobl",
+				"job": "Visual Effects Production Assistant",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 6558096,
+				"name": "Sanika Morajkar",
+				"job": "Visual Effects Production Assistant",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 6558098,
+				"name": "Vipul Mogaveera",
+				"job": "Visual Effects Production Assistant",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 6558099,
+				"name": "Willow Krsnik",
+				"job": "Visual Effects Production Assistant",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 6558100,
+				"name": "Yesi Muñoz",
+				"job": "Visual Effects Production Assistant",
+				"department": "Visual Effects"
+			}
+		]
+	}
+}

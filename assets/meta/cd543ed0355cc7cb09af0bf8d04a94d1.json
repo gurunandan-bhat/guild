@@ -1,0 +1,433 @@
+{
+	"id": 1400940,
+	"title": "Clayface",
+	"fcg_title": "Clayface",
+	"original_title": "Clayface",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 27,
+			"name": "Horror"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		},
+		{
+			"id": 878,
+			"name": "Science Fiction"
+		}
+	],
+	"overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+	"backdrop_path": "/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
+	"poster_path": "/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
+	"release_date": "2026-10-19",
+	"credits": {
+		"cast": [
+			{
+				"id": 1327945,
+				"order": 0,
+				"name": "Tom Rhys Harries",
+				"profile_path": "/hlTqbXt5AKMlVHjroo5UxOw7sGw.jpg",
+				"character": "Matt Hagen / Clayface",
+				"gender": 2
+			},
+			{
+				"id": 1537686,
+				"order": 1,
+				"name": "Naomi Ackie",
+				"profile_path": "/dijwuTAEZUzQtoJfK49S4X80fQw.jpg",
+				"character": "Caitlyn Corr",
+				"gender": 1
+			},
+			{
+				"id": 1665,
+				"order": 2,
+				"name": "Eddie Marsan",
+				"profile_path": "/9atfOgIxhfOKvv2be8HEp6SzOct.jpg",
+				"character": "Frank Fitzpatrick",
+				"gender": 2
+			},
+			{
+				"id": 2978,
+				"order": 3,
+				"name": "Max Minghella",
+				"profile_path": "/AhVDxsOOoAnwwVBL7ZY8W0mGsYJ.jpg",
+				"character": "John Borrelli",
+				"gender": 2
+			},
+			{
+				"id": 93236,
+				"order": 4,
+				"name": "David Dencik",
+				"profile_path": "/q5wLADc6yYd3owxSEG8VKbf7YWV.jpg",
+				"character": "Marcos Jabo",
+				"gender": 2
+			},
+			{
+				"id": 3286781,
+				"order": 5,
+				"name": "Francesca Corney",
+				"profile_path": "/p2B2dYAvl0TMUtbrZxzOdNgBbSE.jpg",
+				"character": "Rosie",
+				"gender": 1
+			},
+			{
+				"id": 4577931,
+				"order": 6,
+				"name": "Ruby Sear",
+				"profile_path": "/hNlLm6NaHPjakDJhPEY1suGcxKi.jpg",
+				"character": "Theresa",
+				"gender": 1
+			},
+			{
+				"id": 1815694,
+				"order": 7,
+				"name": "Wil Coban",
+				"profile_path": "/73REwJckTBMNJoiGIrrGhcCdTqf.jpg",
+				"character": "Bones",
+				"gender": 2
+			},
+			{
+				"id": 1344715,
+				"order": 8,
+				"name": "Joshua James",
+				"profile_path": "/jw1n2Pzi2LJvyu6OkXTHMXPV7Q4.jpg",
+				"character": "Corey Bowery",
+				"gender": 2
+			},
+			{
+				"id": 3551,
+				"order": 9,
+				"name": "Jake Curran",
+				"profile_path": "/pC6ozticiOmovaPpwqKVOMhn0b9.jpg",
+				"character": "Patches",
+				"gender": 2
+			},
+			{
+				"id": 983749,
+				"order": 10,
+				"name": "Nancy Carroll",
+				"profile_path": "/lXTNopDRBsDLTlXTREvuBT3KMIt.jpg",
+				"character": "Hildie Love",
+				"gender": 1
+			},
+			{
+				"id": 2723390,
+				"order": 11,
+				"name": "Olivia-Mai Barrett",
+				"profile_path": "/gWZRzvOnUxZmvdzHuxBvIS0BEJP.jpg",
+				"character": "Niki",
+				"gender": 1
+			},
+			{
+				"id": 963257,
+				"order": 12,
+				"name": "Sonita Henry",
+				"profile_path": "/oIBILFSVqHT2warKlXSPDML3llI.jpg",
+				"gender": 1
+			},
+			{
+				"id": 1542283,
+				"order": 13,
+				"name": "Adam Silver",
+				"profile_path": "/jE3zEMEYflS3adHtF11YqLAwlVI.jpg",
+				"gender": 2
+			},
+			{
+				"id": 47632,
+				"order": 14,
+				"name": "Rob Brydon",
+				"profile_path": "/xoKLZVwzaUgTUEvPX4vymXpC1fU.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1686493,
+				"order": 15,
+				"name": "Joana Ribeiro",
+				"profile_path": "/ipukcmtTCQGJ7LPZuP3YLXbpEbm.jpg",
+				"character": "Mia",
+				"gender": 1
+			},
+			{
+				"id": 6542631,
+				"order": 16,
+				"name": "Emily Florence",
+				"profile_path": "/h7X91zjx3jTIimn6PapkQrJpf1b.jpg"
+			},
+			{
+				"id": 84497,
+				"order": 17,
+				"name": "Aaron Paul",
+				"profile_path": "/8Ac9uuoYwZoYVAIJfRLzzLsGGJn.jpg",
+				"gender": 2
+			},
+			{
+				"id": 30323,
+				"order": 18,
+				"name": "Tim Faraday",
+				"profile_path": "/rsvGQ50FcCJg2yfcZV3mTbgXoYL.jpg",
+				"character": "Limo Driver",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 15218,
+				"name": "James Gunn",
+				"profile_path": "/pnKqZub3IlKYbyH9RRTMDOoqEn0.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 52259,
+				"name": "Peter Safran",
+				"profile_path": "/p9gR2taQgpt9FI8lMzZJXfOGrPy.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 32278,
+				"name": "Matt Reeves",
+				"profile_path": "/5rA459xpMt6IeJG7ZqvhLbSozEH.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4768,
+				"name": "Lynn Harris",
+				"profile_path": "/gDR95fKQ8ZC6D7isveC7mXd0jgU.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 198034,
+				"name": "Bill Finger",
+				"profile_path": "/aU2Wv9QL9qNG0UQosl1MKpp1icV.jpg",
+				"job": "Characters",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 3794,
+				"name": "Bob Kane",
+				"profile_path": "/vuXwrlqaUydA4t5SFVdQkK9KsZL.jpg",
+				"job": "Characters",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1828173,
+				"name": "Chantal Nong Vo",
+				"profile_path": "/zscpdONQxMypmH4tly56PUXj2Jy.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 63306,
+				"name": "James Watkins",
+				"profile_path": "/tZextIeFu04YIBBRjKOQuMyP2O9.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1162217,
+				"name": "Rob Hardy",
+				"profile_path": "/b4Fa1o108wsU8h9IZDHpZyHg2OX.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1372903,
+				"name": "James Price",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 979474,
+				"name": "Keith Madden",
+				"profile_path": "/4Ap09Ntwi0WXWh4eqsAJZQBFqbT.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1349452,
+				"name": "Lars P. Winther",
+				"profile_path": "/JYh9xcd3YdmCYcJ5TuFoo40vOU.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 10949,
+				"name": "Michael Uslan",
+				"profile_path": "/cXiiH0SSk5UHCvHOVAhHX7tNuls.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1985603,
+				"name": "Rafi Crohn",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 6227,
+				"name": "Paul Ritchie",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1114,
+				"name": "Jon Harris",
+				"profile_path": "/danhYU2edlYBsCFfNhGVkFNB7yG.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 551463,
+				"name": "Mike Flanagan",
+				"profile_path": "/sjnAyb7un3eS7THLQQzJBzkv2Yo.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 551463,
+				"name": "Mike Flanagan",
+				"profile_path": "/sjnAyb7un3eS7THLQQzJBzkv2Yo.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 56960,
+				"name": "Hossein Amini",
+				"profile_path": "/rfZt5jKZfOOYgDmVaW6asFall9Z.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 15883,
+				"name": "Angus Bickerton",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 23424,
+				"name": "Lucy Bevan",
+				"profile_path": "/hT17FBbxl9gXD5IdieHKoydRcb4.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1324818,
+				"name": "Adam A. Makin",
+				"job": "Supervising Art Director",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1873463,
+				"name": "Martin Curry",
+				"job": "First Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 40722,
+				"name": "James O'Donnell",
+				"profile_path": "/6Hg9o41zQAA3e0iJkHBbVst40ZF.jpg",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 40722,
+				"name": "James O'Donnell",
+				"profile_path": "/6Hg9o41zQAA3e0iJkHBbVst40ZF.jpg",
+				"job": "Second Unit Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2453024,
+				"name": "Anna Brabbins",
+				"job": "Second Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5232042,
+				"name": "Nikeah Forde",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects",
+				"gender": 1
+			},
+			{
+				"id": 24232,
+				"name": "Hamish Doyne-Ditmas",
+				"job": "Second Unit Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1171004,
+				"name": "Jonny Franklin",
+				"job": "Gaffer",
+				"department": "Lighting",
+				"gender": 2
+			},
+			{
+				"id": 1023809,
+				"name": "Volker Bertelmann",
+				"profile_path": "/6iZPE8RAh3twac8yHYPWRpWWPZ9.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1430123,
+				"name": "Steve Mitchell",
+				"job": "Scenic Artist",
+				"department": "Crew"
+			},
+			{
+				"id": 60472,
+				"name": "Trevor Macy",
+				"profile_path": "/s4fJslI0lf0dag6mqyi2RQt4hTo.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2701286,
+				"name": "Robert Allman",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 4819871,
+				"name": "Wouter Engering",
+				"profile_path": "/ugsijKUl8WIrnHWPico0IlzxV0n.jpg",
+				"job": "Digital Compositor",
+				"department": "Visual Effects"
+			}
+		]
+	}
+}
