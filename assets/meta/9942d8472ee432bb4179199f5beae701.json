@@ -1,0 +1,650 @@
+{
+	"id": 1058424,
+	"title": "Hope",
+	"fcg_title": "Hope",
+	"original_title": "호프",
+	"original_language": "ko",
+	"genres": [
+		{
+			"id": 878,
+			"name": "Science Fiction"
+		},
+		{
+			"id": 9648,
+			"name": "Mystery"
+		},
+		{
+			"id": 28,
+			"name": "Action"
+		}
+	],
+	"overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+	"backdrop_path": "/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
+	"poster_path": "/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
+	"release_date": "2026-07-15",
+	"credits": {
+		"cast": [
+			{
+				"id": 68903,
+				"order": 0,
+				"name": "Hwang Jung-min",
+				"profile_path": "/hKF1uh0iEfuZlBE79CXPw415qyn.jpg",
+				"character": "Go Bum-seok",
+				"gender": 2
+			},
+			{
+				"id": 127564,
+				"order": 1,
+				"name": "Zo In-sung",
+				"profile_path": "/69gbyFI0ET0l0dyjKChlx1Zx269.jpg",
+				"character": "Go Sung-ki",
+				"gender": 2
+			},
+			{
+				"id": 3194501,
+				"order": 2,
+				"name": "Hoyeon",
+				"profile_path": "/AfQFFyGeG9xOQnEJb1Ash1RomkP.jpg",
+				"character": "Lim Sung-ae",
+				"gender": 1
+			},
+			{
+				"id": 227454,
+				"order": 3,
+				"name": "Alicia Vikander",
+				"profile_path": "/lZu8qiTwiQIN96cuptgqMCCaUtg.jpg",
+				"character": "J'aur",
+				"gender": 1
+			},
+			{
+				"id": 17288,
+				"order": 4,
+				"name": "Michael Fassbender",
+				"profile_path": "/xvbnUiB2ZBR3QIt595OzNy657Vw.jpg",
+				"character": "Ma'veyyo",
+				"gender": 2
+			},
+			{
+				"id": 1353827,
+				"order": 5,
+				"name": "Taylor Russell",
+				"profile_path": "/3kW1SvpzyOPPZHxbz7cgR7ilmtQ.jpg",
+				"character": "Ai'dovor",
+				"gender": 1
+			},
+			{
+				"id": 1286537,
+				"order": 6,
+				"name": "Cameron Britton",
+				"profile_path": "/9HFxi8ZnBiby3AQ7tBOPDxXFkCT.jpg",
+				"character": "Va'migere",
+				"gender": 2
+			},
+			{
+				"id": 564847,
+				"order": 7,
+				"name": "Lee Sang-hee",
+				"profile_path": "/wOYFSg20yGe48VFALqGAlrLjFHV.jpg",
+				"character": "Nak-yeon",
+				"gender": 2
+			},
+			{
+				"id": 2370779,
+				"order": 8,
+				"name": "Um Mun-suk",
+				"profile_path": "/niV5OXu1cgKnlIU1Iamp1BVeCdT.jpg",
+				"character": "Yang-bae",
+				"gender": 2
+			},
+			{
+				"id": 1305674,
+				"order": 9,
+				"name": "Im Hyun-sik",
+				"profile_path": "/syQMfT7qchOwKDMXc3vQB57v1ZL.jpg",
+				"character": "Hae-sul",
+				"gender": 2
+			},
+			{
+				"id": 1731537,
+				"order": 10,
+				"name": "Hwang Seok-jeong",
+				"profile_path": "/MEhgvZBDS890lfCSeUwHxWL3Xh.jpg",
+				"character": "Head of Health Center",
+				"gender": 1
+			},
+			{
+				"id": 3214227,
+				"order": 11,
+				"name": "Han Woo-yeol",
+				"profile_path": "/fxiZl6AiNyG1cJSYVC7mSEQTjXK.jpg",
+				"character": "Wan-seob",
+				"gender": 2
+			},
+			{
+				"id": 3963649,
+				"order": 12,
+				"name": "Chyu Kwang-hyun",
+				"profile_path": "/9wyb07dlA5IEGcmvHy61OLLvWuI.jpg",
+				"character": "Byeong-jun",
+				"gender": 2
+			},
+			{
+				"id": 6353520,
+				"order": 13,
+				"name": "Oh Doo-won",
+				"profile_path": "/sF19as2CTDbmU64oUAbILH5KRn4.jpg",
+				"character": "Heung-sik",
+				"gender": 2
+			},
+			{
+				"id": 6353522,
+				"order": 14,
+				"name": "Yoo Jun-hong",
+				"profile_path": "/n4EhRXDStUHZcShb97XmL36g9wA.jpg",
+				"character": "Cheong-san",
+				"gender": 2
+			},
+			{
+				"id": 1497220,
+				"order": 15,
+				"name": "Seo Beom-sik",
+				"profile_path": "/48iqXOCqTXAI3ukXGqBURWqpW0v.jpg",
+				"character": "Hyun-ho",
+				"gender": 2
+			},
+			{
+				"id": 1953628,
+				"order": 16,
+				"name": "Baek Seung-chul",
+				"profile_path": "/6Juim4Wh5SPmyKd0bI1M4RUefEw.jpg",
+				"character": "Gi-young",
+				"gender": 2
+			},
+			{
+				"id": 6370393,
+				"order": 17,
+				"name": "Cho Ji-hoon",
+				"character": "Fisher",
+				"gender": 2
+			},
+			{
+				"id": 6370394,
+				"order": 18,
+				"name": "Kwon Joong",
+				"profile_path": "/rIUCFp16MEx2M4spQvItO1lOhjn.jpg",
+				"character": "Fisher",
+				"gender": 2
+			},
+			{
+				"id": 1444366,
+				"order": 19,
+				"name": "Kim Ki-cheon",
+				"profile_path": "/34MkMMCXwN3GxQGBjmqmYUuXBpo.jpg",
+				"character": "Gi-cheon",
+				"gender": 2
+			},
+			{
+				"id": 557743,
+				"order": 20,
+				"name": "Lee Yong-nyeo",
+				"profile_path": "/jS6PtHgyd6GNepvboyLrtnR8qZp.jpg",
+				"character": "Yong-nyeo",
+				"gender": 1
+			},
+			{
+				"id": 145955,
+				"order": 21,
+				"name": "Min Kyung-jin",
+				"profile_path": "/aBdDqgQRHFeRaOopIrSG8aToE0V.jpg",
+				"character": "Gyeong-jin",
+				"gender": 2
+			},
+			{
+				"id": 1482672,
+				"order": 22,
+				"name": "Yoo Soon-woong",
+				"profile_path": "/aNZ2XP8J7TwxSkJCtUcC0TjJlEZ.jpg",
+				"character": "Sun-woong",
+				"gender": 2
+			},
+			{
+				"id": 3627021,
+				"order": 23,
+				"name": "Jung Jae-won",
+				"profile_path": "/jlONlGxIUKwosb5ktvba88Q6f58.jpg",
+				"character": "Chun-ho",
+				"gender": 2
+			},
+			{
+				"id": 1615319,
+				"order": 24,
+				"name": "Kim Han-jong",
+				"profile_path": "/gpEPTkj74fTJge9W2yFnonTIiKK.jpg",
+				"character": "Deok-gi",
+				"gender": 2
+			},
+			{
+				"id": 1860477,
+				"order": 25,
+				"name": "Jeong Ji-sun",
+				"profile_path": "/gclcebJfbKAESnap8DjB6iM2GNw.jpg",
+				"character": "Gyeong-seok",
+				"gender": 2
+			},
+			{
+				"id": 3496494,
+				"order": 26,
+				"name": "Lee Sang-jin",
+				"profile_path": "/sTTXFUzQ4DoHDXCooeehpM24PiQ.jpg",
+				"character": "Officer Ahn",
+				"gender": 2
+			},
+			{
+				"id": 2478781,
+				"order": 27,
+				"name": "Kim Kyu-baek",
+				"profile_path": "/lx16EMlOb2XNRZHLDMpWVLjplfY.jpg",
+				"character": "Doctor",
+				"gender": 2
+			},
+			{
+				"id": 5549080,
+				"order": 28,
+				"name": "Kil Chang-gyu",
+				"profile_path": "/h7adVbCqf7XpClYbuHwlbMsb3le.jpg",
+				"character": "Chang-gyu",
+				"gender": 2
+			},
+			{
+				"id": 6477863,
+				"order": 29,
+				"name": "Shim Ha-neu-ri",
+				"profile_path": "/bU7Ckxvb98MwtHlXWLtp8059F4p.jpg",
+				"character": "Nurse",
+				"gender": 1
+			},
+			{
+				"id": 4365579,
+				"order": 30,
+				"name": "Park Se-ki",
+				"profile_path": "/uK8DSVKfbdAxJdcFjdzYtZ32PZr.jpg",
+				"character": "Health Center Staff",
+				"gender": 2
+			},
+			{
+				"id": 6477864,
+				"order": 31,
+				"name": "Im So-mi",
+				"character": "Screaming Woman",
+				"gender": 1
+			},
+			{
+				"id": 4251319,
+				"order": 32,
+				"name": "Oh Choong-geun",
+				"profile_path": "/5NTGPSzZTF640JJxjSOAYmlNO0c.jpg",
+				"character": "Blue Truck",
+				"gender": 2
+			},
+			{
+				"id": 6436259,
+				"order": 33,
+				"name": "Agung Bagus",
+				"profile_path": "/iVD3sXOTrpvH8EbajI3gPTtEAJt.jpg",
+				"character": "Survivor (uncredited)",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 75915,
+				"name": "Na Hong-jin",
+				"profile_path": "/hgOX3rbIDfE2JOFlWzrAMsNzWke.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 75915,
+				"name": "Na Hong-jin",
+				"profile_path": "/hgOX3rbIDfE2JOFlWzrAMsNzWke.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 68909,
+				"name": "Hong Kyung-pyo",
+				"profile_path": "/mFl2oMc8UK5Ia4zEsPOgKbN1NMC.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 75915,
+				"name": "Na Hong-jin",
+				"profile_path": "/hgOX3rbIDfE2JOFlWzrAMsNzWke.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1355491,
+				"name": "Kim Sae-mi",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 5601349,
+				"name": "Chae Ji-woong",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1761126,
+				"name": "Michael Abels",
+				"profile_path": "/ggugPV938TZrPS5lRe4qZPvrjZO.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3200582,
+				"name": "Kim Han-joon",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 69388,
+				"name": "Kim Sun-min",
+				"profile_path": "/7ILTSodPDZTcHtbMdVcJNiOQNgY.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 2078584,
+				"name": "Kim Chang-sub",
+				"job": "Supervising Sound Editor",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2159385,
+				"name": "Lee Hwo-kyoung",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 3543974,
+				"name": "Hong Jeong-in",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1554063,
+				"name": "Saerom Kim",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 113075,
+				"name": "Chuck Michael",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2968076,
+				"name": "Park Jin-young",
+				"profile_path": "/2h4BSO87FdI1h9dPla114x0ToTP.jpg",
+				"job": "Digital Intermediate",
+				"department": "Editing",
+				"gender": 1
+			},
+			{
+				"id": 3200605,
+				"name": "Kim Sin-yong",
+				"job": "Production Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 2437373,
+				"name": "Yoo Sang-seob",
+				"profile_path": "/uMpoPa5VpJobLGhOyO54CqrVYhJ.jpg",
+				"job": "Martial Arts Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 2197063,
+				"name": "Kim Seo-young",
+				"profile_path": "/hHVfNMZc1hikOFk6a6mGfTNt2g.jpg",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1293715,
+				"name": "Cho Hee-ran",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 2874107,
+				"name": "Kim Yeong-bok",
+				"job": "Props",
+				"department": "Art"
+			},
+			{
+				"id": 2197563,
+				"name": "Hong Jang-pyo",
+				"job": "Special Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 6018230,
+				"name": "Lee Won-haeng",
+				"job": "Martial Arts Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 2508128,
+				"name": "Daniel Son",
+				"job": "Co-Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4879276,
+				"name": "Kim Yoo-jin",
+				"job": "Co-Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 1094636,
+				"name": "Razvan Gheorghiu",
+				"job": "Stunt Coordinator",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1336511,
+				"name": "Oana Babes",
+				"job": "Production Supervisor",
+				"department": "Production"
+			},
+			{
+				"id": 3055283,
+				"name": "Paul Battle",
+				"profile_path": "/uUoOi7rIinIEpGfmuVUQNBD14it.jpg",
+				"job": "Dialect Coach",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 3509461,
+				"name": "Paul Bourcart",
+				"job": "Weapons Master",
+				"department": "Crew"
+			},
+			{
+				"id": 1764396,
+				"name": "Kevin Senzaki",
+				"profile_path": "/aqUwKJ9jDuOHG6LLTIA6korrLoB.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 6477854,
+				"name": "Choi Na-ri",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 3859185,
+				"name": "Choi Wun-jin",
+				"job": "Grip",
+				"department": "Camera"
+			},
+			{
+				"id": 1294129,
+				"name": "Park Cheong-woo",
+				"job": "Lighting Director",
+				"department": "Lighting"
+			},
+			{
+				"id": 2159407,
+				"name": "Hwang Hyo-kyun",
+				"job": "Special Effects Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 2100270,
+				"name": "Kwak Tae-yong",
+				"job": "Special Effects Makeup Artist",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 6478006,
+				"name": "Kang Hyun-seob",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1781381,
+				"name": "Heebok Lee",
+				"job": "Title Designer",
+				"department": "Art"
+			},
+			{
+				"id": 5458857,
+				"name": "Choi Jae-hee",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4106491,
+				"name": "Hwang Yeon-sung",
+				"job": "Second Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 6253368,
+				"name": "Lee Sang-jin",
+				"job": "Casting Director",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5436646,
+				"name": "Kim Ha-jin",
+				"job": "Casting Director",
+				"department": "Production"
+			},
+			{
+				"id": 4298634,
+				"name": "Kim Dong-ju",
+				"job": "Steadicam Operator",
+				"department": "Camera"
+			},
+			{
+				"id": 2538083,
+				"name": "An Ki-sung",
+				"job": "Foley Artist",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2689542,
+				"name": "Lee Min-seop",
+				"job": "Foley Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 2161251,
+				"name": "Moon Chul-woo",
+				"job": "Sound Effects Editor",
+				"department": "Sound"
+			},
+			{
+				"id": 2092202,
+				"name": "Nicholas Interlandi",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1367493,
+				"name": "John T. Cucci",
+				"job": "Foley Artist",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1338372,
+				"name": "Dan O'Connell",
+				"job": "Foley Artist",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2170515,
+				"name": "Choi Sung-rok",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 6451072,
+				"name": "Mikaela Padilla",
+				"job": "Foley Mixer",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 2127274,
+				"name": "Jack Cucci",
+				"job": "Foley Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 6395201,
+				"name": "Joe Cucci",
+				"job": "Foley Mixer",
+				"department": "Sound",
+				"gender": 2
+			}
+		]
+	}
+}
