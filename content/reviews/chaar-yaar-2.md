@@ -7,7 +7,7 @@ critics = ['Suchin Mehrotra']
 subtitle = "Sprawling ensemble, repetitive plotting and lacklustre heists"
 media = 'video'
 source = 'odbiTuBG1E0'
-scores = []
+scores = [5]
 +++
 
 {{< youtube id="odbiTuBG1E0" loading="lazy" >}}
