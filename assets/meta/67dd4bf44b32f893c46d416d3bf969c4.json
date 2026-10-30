@@ -1,0 +1,665 @@
+{
+	"id": 1228834,
+	"title": "The Fix",
+	"fcg_title": "The Fix",
+	"original_title": "The Fix",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 28,
+			"name": "Action"
+		},
+		{
+			"id": 53,
+			"name": "Thriller"
+		}
+	],
+	"overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
+	"backdrop_path": "/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
+	"poster_path": "/jlP8XDjZN89GrpM3je5Uf8Grqx8.jpg",
+	"release_date": "2026-09-10",
+	"credits": {
+		"cast": [
+			{
+				"id": 69899,
+				"order": 0,
+				"name": "Zachary Levi",
+				"profile_path": "/1W8L3kEMMPF9umT3ZGaNIiCYKfZ.jpg",
+				"character": "Tucker",
+				"gender": 2
+			},
+			{
+				"id": 3896,
+				"order": 1,
+				"name": "Liam Neeson",
+				"profile_path": "/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg",
+				"character": "Larry",
+				"gender": 2
+			},
+			{
+				"id": 51682,
+				"order": 2,
+				"name": "Wes Chatham",
+				"profile_path": "/lFoUyX8FZs3XvUWWItCm2ezvAEs.jpg",
+				"character": "Alex",
+				"gender": 2
+			},
+			{
+				"id": 39389,
+				"order": 3,
+				"name": "Titus Welliver",
+				"profile_path": "/3hTwn7Maktr6ONq1VvfqyRacjiv.jpg",
+				"character": "James",
+				"gender": 2
+			},
+			{
+				"id": 103330,
+				"order": 4,
+				"name": "Navid Negahban",
+				"profile_path": "/pWi5tINf4mDvTYbNKZDJPODYKra.jpg",
+				"character": "Qasim",
+				"gender": 2
+			},
+			{
+				"id": 1257563,
+				"order": 5,
+				"name": "Annet Mahendru",
+				"profile_path": "/zPtC39iSy9bJTgyxZgYOhzmBEu4.jpg",
+				"character": "Sophie",
+				"gender": 1
+			},
+			{
+				"id": 1058027,
+				"order": 6,
+				"name": "Grant Harvey",
+				"profile_path": "/sThJJbhgjQOZNvCkHVO0g3qy78j.jpg",
+				"character": "Matt",
+				"gender": 2
+			},
+			{
+				"id": 1456279,
+				"order": 7,
+				"name": "Augusto Aguilera",
+				"profile_path": "/vxW6iEHbuCcC7eFoQWoBAS7SYjM.jpg",
+				"character": "Bruce",
+				"gender": 2
+			},
+			{
+				"id": 35434,
+				"order": 8,
+				"name": "Numan Acar",
+				"profile_path": "/krAYCiFQGreNOOqtTLX3v6TlHk5.jpg",
+				"character": "Nadir",
+				"gender": 2
+			},
+			{
+				"id": 2114526,
+				"order": 9,
+				"name": "Elnaaz Norouzi",
+				"profile_path": "/gbiXh5zoIKFH1kEPFtuhjfElY5c.jpg",
+				"character": "Zara",
+				"gender": 1
+			},
+			{
+				"id": 1395206,
+				"order": 10,
+				"name": "Oliver Trevena",
+				"profile_path": "/j0ejU7vdE7lRxYKKrhA5aWw1zCT.jpg",
+				"character": "Colonel Wilkes",
+				"gender": 2
+			},
+			{
+				"id": 3075864,
+				"order": 11,
+				"name": "Quincy Isaiah",
+				"profile_path": "/szlTbGRFRTo0Mx9jtwXGqcGrZhP.jpg",
+				"character": "Clay",
+				"gender": 2
+			},
+			{
+				"id": 1972789,
+				"order": 12,
+				"name": "Despina Mirou",
+				"profile_path": "/mjpyxXY6AGH2dbbEIkOtpYCk1rU.jpg",
+				"character": "Katarina",
+				"gender": 1
+			},
+			{
+				"id": 2514314,
+				"order": 13,
+				"name": "Lara Wolf",
+				"profile_path": "/l2nYt7kKmQgUYCmpxY9jiL4LEXO.jpg",
+				"character": "Maryam",
+				"gender": 1
+			},
+			{
+				"id": 1474019,
+				"order": 14,
+				"name": "Jake Choi",
+				"profile_path": "/ftutoBlPWjWVjdT86wBZxLB13kU.jpg",
+				"character": "Charlie",
+				"gender": 2
+			},
+			{
+				"id": 2461357,
+				"order": 15,
+				"name": "Ash Goldeh",
+				"profile_path": "/nZWBdV8LauA3ealoweaXxxTHrGz.jpg",
+				"character": "Samir",
+				"gender": 2
+			},
+			{
+				"id": 3142896,
+				"order": 16,
+				"name": "Major Dodge Jr.",
+				"profile_path": "/wv9GCnJAaEYanuVhbZXHmAk2iiZ.jpg",
+				"character": "Troy",
+				"gender": 2
+			},
+			{
+				"id": 3528976,
+				"order": 17,
+				"name": "K.J. Baker",
+				"profile_path": "/7ruBbiRt8kPjh6y4lqkHAXHMHkl.jpg",
+				"character": "Gina",
+				"gender": 1
+			},
+			{
+				"id": 552966,
+				"order": 18,
+				"name": "Jonathan Rosenthal",
+				"profile_path": "/g7dupw7fKfrFbhAL9gAWbrkBTpU.jpg",
+				"character": "DCOS Jones",
+				"gender": 2
+			},
+			{
+				"id": 5308774,
+				"order": 19,
+				"name": "David Cicci",
+				"character": "Stanfield Turner"
+			},
+			{
+				"id": 6042203,
+				"order": 20,
+				"name": "Patricia Guevara",
+				"character": "Linda"
+			},
+			{
+				"id": 6042204,
+				"order": 21,
+				"name": "Veronica Ginn",
+				"character": "Dinara"
+			},
+			{
+				"id": 5113410,
+				"order": 22,
+				"name": "Tabitha Mixon",
+				"character": "Nurse"
+			},
+			{
+				"id": 6138240,
+				"order": 23,
+				"name": "Sandro Kakhetelidze",
+				"character": "Mehdi",
+				"gender": 2
+			},
+			{
+				"id": 16607,
+				"order": 24,
+				"name": "Alon Aboutboul",
+				"profile_path": "/ja0vix3b43U5whDTYZascbeXlQo.jpg",
+				"character": "Moshe",
+				"gender": 2
+			},
+			{
+				"id": 204755,
+				"order": 25,
+				"name": "Nicole Ansari-Cox",
+				"profile_path": "/Qa4zWGLkDEjedoHbNlMG0e9giq.jpg",
+				"character": "Fariba",
+				"gender": 1
+			},
+			{
+				"id": 4433640,
+				"order": 26,
+				"name": "Jeff Perkins",
+				"profile_path": "/nnwlU0raxgJuZ6Y3wKXPRGcK6yM.jpg",
+				"character": "OTS Officer MIchael Hunt"
+			},
+			{
+				"id": 6475465,
+				"order": 27,
+				"name": "Lavie Moshe",
+				"character": "Pete"
+			},
+			{
+				"id": 6475467,
+				"order": 28,
+				"name": "Tekla Aslani",
+				"character": "Darya"
+			},
+			{
+				"id": 6475471,
+				"order": 29,
+				"name": "Irakli Revazishvili",
+				"character": "Seyyed"
+			},
+			{
+				"id": 6475472,
+				"order": 30,
+				"name": "Deghan Shahrzan",
+				"character": "Reporter"
+			},
+			{
+				"id": 6475473,
+				"order": 31,
+				"name": "Mehrdad Shokri Nasab",
+				"character": "Watchman"
+			},
+			{
+				"id": 6475474,
+				"order": 32,
+				"name": "Matin Asgarpoor",
+				"character": "Tehran Taxi Driver"
+			},
+			{
+				"id": 6475475,
+				"order": 33,
+				"name": "Vakho Chachanidze",
+				"character": "Immigration Agent",
+				"gender": 2
+			},
+			{
+				"id": 6475477,
+				"order": 34,
+				"name": "Mariam Khukhunaishvili",
+				"character": "Activist"
+			},
+			{
+				"id": 4290993,
+				"order": 35,
+				"name": "Veronika Kalandarishvili",
+				"profile_path": "/jdtLPEw4pzcpDioGkTzIlO7ZGK4.jpg",
+				"character": "Activist 2",
+				"gender": 1
+			},
+			{
+				"id": 6475479,
+				"order": 36,
+				"name": "N’Guessan Ahonzy Georges Jocelyn",
+				"character": "Paris Taxi Driver"
+			},
+			{
+				"id": 6475483,
+				"order": 37,
+				"name": "Giorgi Abuladze",
+				"character": "Hamid"
+			},
+			{
+				"id": 6475486,
+				"order": 38,
+				"name": "Sofie Lomjaria",
+				"character": "Hamid's WIfe"
+			},
+			{
+				"id": 2427388,
+				"order": 39,
+				"name": "Andro Chichinadze",
+				"character": "Marine at Secret CIA Gate",
+				"gender": 2
+			},
+			{
+				"id": 6475491,
+				"order": 40,
+				"name": "Levan Sukhitashvili",
+				"character": "IRGC Entrance Guard"
+			},
+			{
+				"id": 2677,
+				"order": 41,
+				"name": "Bahar Soomekh",
+				"profile_path": "/pexK8WSgJFunUFizBlvGEz8ez9U.jpg",
+				"character": "Receptionist Luxury Hotel",
+				"gender": 1
+			},
+			{
+				"id": 2815091,
+				"order": 42,
+				"name": "Janette Luttrell",
+				"character": "Self - Armorer"
+			},
+			{
+				"id": 6475503,
+				"order": 43,
+				"name": "Abigail Wild",
+				"character": "Middle Schooler in Carpool"
+			},
+			{
+				"id": 5549031,
+				"order": 44,
+				"name": "Melissa Cannon",
+				"character": "Marine (uncredited)"
+			},
+			{
+				"id": 1386301,
+				"order": 45,
+				"name": "Rebecca Chulew",
+				"profile_path": "/csHJLrC3AHCO7e9ib7N8tgMf00L.jpg",
+				"character": "CIA Staff (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 2429660,
+				"order": 46,
+				"name": "Adrienne Marie Coins",
+				"character": "Marine (uncredited)"
+			},
+			{
+				"id": 4824856,
+				"order": 47,
+				"name": "Tremayne Cole",
+				"character": "CIA Agent (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 5418582,
+				"order": 48,
+				"name": "Russell C. Gibbs",
+				"character": "CIA agent (uncredited)"
+			},
+			{
+				"id": 2610061,
+				"order": 49,
+				"name": "Stuart Greenwell",
+				"character": "Neighbor (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 2647872,
+				"order": 50,
+				"name": "Joseph Karre",
+				"character": "Marine (uncredited)"
+			},
+			{
+				"id": 3528985,
+				"order": 51,
+				"name": "Hassel Kromer",
+				"character": "CIA agent (uncredited)"
+			},
+			{
+				"id": 5612415,
+				"order": 52,
+				"name": "Alisha 'LeeLah' Moore",
+				"character": "CIA (uncredited)"
+			},
+			{
+				"id": 5922951,
+				"order": 53,
+				"name": "Andreius 'Dreko Tha Prophet' Moore",
+				"character": "Clay Stand-In (uncredited)"
+			},
+			{
+				"id": 6477706,
+				"order": 54,
+				"name": "Merab Natadze",
+				"character": "Taliban (uncredited)"
+			},
+			{
+				"id": 2610050,
+				"order": 55,
+				"name": "Stacy Stephen Purser",
+				"character": "CIA Agent (uncredited)"
+			},
+			{
+				"id": 4335321,
+				"order": 56,
+				"name": "Rhianna Richey",
+				"profile_path": "/7ohLF3vkq2K30WGohW9auUiaQ7D.jpg",
+				"character": "Dead Prostitute (uncredited)",
+				"gender": 1
+			},
+			{
+				"id": 5418579,
+				"order": 57,
+				"name": "Brittany Seals",
+				"character": "College Student (uncredited)"
+			},
+			{
+				"id": 3855670,
+				"order": 58,
+				"name": "Stephen Thaxton",
+				"character": "CIA Agent (uncredited)"
+			},
+			{
+				"id": 5729478,
+				"order": 59,
+				"name": "Johnny Tomsik",
+				"character": "Gun Range Attendee (uncredited)"
+			},
+			{
+				"id": 1956525,
+				"order": 60,
+				"name": "Calvin Williams",
+				"profile_path": "/aeGTmj4qdKlK5N9FcoZ9D8CiBDo.jpg",
+				"character": "Marine (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 6477715,
+				"order": 61,
+				"name": "Erica Stacy Wilson",
+				"character": "CIA Agent (uncredited)"
+			},
+			{
+				"id": 2141493,
+				"order": 62,
+				"name": "Ronnie Yelverton",
+				"character": "Brothel Patron (uncredited)",
+				"gender": 2
+			},
+			{
+				"id": 6247645,
+				"order": 63,
+				"name": "Matteo Zengaro",
+				"profile_path": "/iI2M0kgE5cKEd7KcXbkjo9LiLJv.jpg",
+				"character": "CIA agent (uncredited)"
+			}
+		],
+		"crew": [
+			{
+				"id": 145612,
+				"name": "Guy Moshe",
+				"profile_path": "/cihfkHFJyWxPi7irCNXVh8U7NCs.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 145612,
+				"name": "Guy Moshe",
+				"profile_path": "/cihfkHFJyWxPi7irCNXVh8U7NCs.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1018715,
+				"name": "Mark Bacci",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 1664023,
+				"name": "Bazzel Baz",
+				"profile_path": "/AtPktMAzbsj2zeL2jT3wUlWVKhX.jpg",
+				"job": "Idea",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1664023,
+				"name": "Bazzel Baz",
+				"profile_path": "/AtPktMAzbsj2zeL2jT3wUlWVKhX.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4472963,
+				"name": "Wendy Hinton Sweetmore",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1319608,
+				"name": "Matthew G. Zamias",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 145612,
+				"name": "Guy Moshe",
+				"profile_path": "/cihfkHFJyWxPi7irCNXVh8U7NCs.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4472964,
+				"name": "Harel Kodesh",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 17799,
+				"name": "Marina Grasic",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1139529,
+				"name": "Jai Khanna",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 19689,
+				"name": "Paul Schnee",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 5328,
+				"name": "Kerry Barden",
+				"profile_path": "/yTEw7B4Cjxb3REemAHmCsmBm1U2.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1685556,
+				"name": "Brian Bettwy",
+				"job": "First Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1486817,
+				"name": "Russell Geyser",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 110018,
+				"name": "David Lipper",
+				"profile_path": "/apAgZr1qU5Q99RFR1xCrpZ1CUL9.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1657571,
+				"name": "Justin Oberman",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 935245,
+				"name": "Clay Pecorin",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2926277,
+				"name": "Ryan Donnell Smith",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2926277,
+				"name": "Ryan Donnell Smith",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3335699,
+				"name": "Kevin Weisberg",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2618313,
+				"name": "Ryan Winterstern",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2536266,
+				"name": "Federico Bisozzi",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 2536267,
+				"name": "Davide Tomat",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 6042211,
+				"name": "Sofia Gegeshidze",
+				"job": "Casting",
+				"department": "Production"
+			},
+			{
+				"id": 20464,
+				"name": "Christopher Stull",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 2541307,
+				"name": "Salome Sokhadze",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 4342507,
+				"name": "Oleksandr Seskin",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 5018,
+				"name": "Larry Smith",
+				"profile_path": "/8eiyCRAjHHOHGu253ufhqROZaP7.jpg",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			}
+		]
+	}
+}
