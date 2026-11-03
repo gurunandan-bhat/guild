@@ -1,12 +1,12 @@
 +++
-title = 'Dorothy Art Expression or Statement'
+title = '"Dorothy" - is art just an expression or a statement'
 date = 2026-11-02T20:42:38+05:30
 draft = false
-author = "srinivasan-r"
+author = "Srinivas Arvind"
 authorImage = ""
 section = "Special Feature"
-issue = "October 2026"
-hdrImage = "special-feature-oct-2026.jpg"
+issue = "November 2026"
+hdrImage = "special-feature-nov-2026.jpg"
 +++
 
 When we dust off old canvases, what we see is art that reflects the culture, lifestyle, and political climate of a bygone era. While it gives an important historical insight, it also raises a valid question. Have we truly evolved politically?

@@ -59,6 +59,10 @@ h2 {
     line-height: 1.5;
 }
 
+h2.newsletter {
+    font-size: 22px;
+}
+
 .author {
     font-family: "Poppins", sans-serif;
     font-weight: 600;

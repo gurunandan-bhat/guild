@@ -2,7 +2,7 @@
 title = 'At the Toronto International Film Festival (TIFF)'
 date = 2026-10-06T11:09:01+05:30
 draft = false
-author = "poulomi-das"
+author = "Poulomi Das"
 section = "Special Feature"
 issue = "September 2026"
 hdrImage = "special-feature-sept-2026.jpg"
