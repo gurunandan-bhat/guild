@@ -1,0 +1,505 @@
+{
+	"id": 1402181,
+	"title": "Scene",
+	"fcg_title": "Scene",
+	"original_title": "சீன்",
+	"original_language": "ta",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 80,
+			"name": "Crime"
+		},
+		{
+			"id": 10749,
+			"name": "Romance"
+		},
+		{
+			"id": 28,
+			"name": "Action"
+		}
+	],
+	"overview": "Inbaraj, a police officer, is forced to reopen a case he left unfinished years ago. This time, he must solve it with a chaotic and troublesome team. As they struggle to work together and deal with the twists and turns of the case, the investigation takes them on a chaotic and unpredictable ride.",
+	"backdrop_path": "/zYiUafcGC7JqK01GYbkimBYNaUR.jpg",
+	"poster_path": "/kfc4w3OX8QsFm8f9MPUdmGheNl3.jpg",
+	"release_date": "2026-11-05",
+	"credits": {
+		"cast": [
+			{
+				"id": 85720,
+				"order": 0,
+				"name": "Suriya",
+				"profile_path": "/tgHFBhOfaV0Wck48y8BFhAlVvQx.jpg",
+				"character": "Inbaraj",
+				"gender": 2
+			},
+			{
+				"id": 1171339,
+				"order": 1,
+				"name": "Nazriya Nazim",
+				"profile_path": "/susf8Kyub57hQCIxJB5bt6oj7Qm.jpg",
+				"character": "Maya",
+				"gender": 1
+			},
+			{
+				"id": 3037048,
+				"order": 2,
+				"name": "Naslen",
+				"profile_path": "/8cAVtELGh2ZL5DhyijYBiAQF2Zt.jpg",
+				"character": "Eeswaran",
+				"gender": 2
+			},
+			{
+				"id": 182174,
+				"order": 3,
+				"name": "Lal",
+				"profile_path": "/ds3eeWA56YFeeuWP6WUs1ok58FK.jpg",
+				"character": "Stephen",
+				"gender": 2
+			},
+			{
+				"id": 581072,
+				"order": 4,
+				"name": "Anandaraj",
+				"profile_path": "/gZxzckfurzV0oQOME8b1ATNoMHD.jpg",
+				"character": "Hridayaraj",
+				"gender": 2
+			},
+			{
+				"id": 6307483,
+				"order": 5,
+				"name": "Raj Priyan",
+				"profile_path": "/ss6VaBehRdfWYbELImrxynCXfcF.jpg",
+				"character": "Sibi",
+				"gender": 2
+			},
+			{
+				"id": 1336123,
+				"order": 6,
+				"name": "Gajaraj",
+				"profile_path": "/gCne3VndSODoFuqAfmW4xxizSty.jpg",
+				"character": "Manohar",
+				"gender": 2
+			},
+			{
+				"id": 4547585,
+				"order": 7,
+				"name": "Suresh Mathiyalagan",
+				"profile_path": "/mVyXRlH7XAKDtkKde0ehiUy0MQi.jpg",
+				"character": "Vinoth"
+			},
+			{
+				"id": 1263974,
+				"order": 8,
+				"name": "Tovino Thomas",
+				"profile_path": "/uySCXY4TZxEDcVJD8WOjDQmMHc9.jpg",
+				"character": "Victor",
+				"gender": 2
+			},
+			{
+				"id": 147324,
+				"order": 9,
+				"name": "Jyothika",
+				"profile_path": "/n8JVr2ToMbTz3XsJ7uo95J3hgCj.jpg",
+				"character": "Self",
+				"gender": 1
+			},
+			{
+				"id": 6606496,
+				"order": 10,
+				"name": "Saranya Ar",
+				"profile_path": "/hJjrBRSuRLXmwFATKc5oaRbAi4n.jpg",
+				"character": "Sujatha",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 3550698,
+				"name": "Jithu Madhavan",
+				"profile_path": "/hw3v8VDPlMBdVDweSKH5IcLgdGP.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 3550698,
+				"name": "Jithu Madhavan",
+				"profile_path": "/hw3v8VDPlMBdVDweSKH5IcLgdGP.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 85720,
+				"name": "Suriya",
+				"profile_path": "/tgHFBhOfaV0Wck48y8BFhAlVvQx.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2030820,
+				"name": "Vineeth Augustian",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1665417,
+				"name": "Mashar Hamsa",
+				"profile_path": "/6oHYQatEazi32URb9yje4gttler.jpg",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 147324,
+				"name": "Jyothika",
+				"profile_path": "/n8JVr2ToMbTz3XsJ7uo95J3hgCj.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 2061381,
+				"name": "Ashwini Kale",
+				"profile_path": "/9nHtgYHOpRBzjKEZDWrRrysxE4A.jpg",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 1
+			},
+			{
+				"id": 2155186,
+				"name": "Rohit K. Suresh",
+				"job": "Still Photographer",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1757792,
+				"name": "Sushin Shyam",
+				"profile_path": "/d9gCNGQGmQIfbPl8cDcbVe13AsN.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1620968,
+				"name": "Ronex Xavier",
+				"profile_path": "/dG5IaUswrZu99o3xBuhQ57rOlEk.jpg",
+				"job": "Makeup Artist",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1640807,
+				"name": "Vishnu Govind",
+				"profile_path": "/oiYvJ28otpMyaDypQsynKU5Gutz.jpg",
+				"job": "Sound Designer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2111277,
+				"name": "Chetan D'Souza",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 3025928,
+				"name": "Rinny Diwakar",
+				"job": "Production Controller",
+				"department": "Crew"
+			},
+			{
+				"id": 3296867,
+				"name": "Ajmal Sabu",
+				"profile_path": "/eiF6QZEw0U3zRSdlba4bU5uk2qg.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 5862858,
+				"name": "Shifina Babin Pakker",
+				"job": "Casting Director",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 5862864,
+				"name": "Abhi Easwar",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5862874,
+				"name": "Sunny Amal",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 5862876,
+				"name": "Jithin Gopu",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 4057575,
+				"name": "Vysakh P.V.",
+				"job": "Sound Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 3892684,
+				"name": "Dravid Selvam",
+				"profile_path": "/4sMEDUu0Zv2VGSus4KfnErSt1NW.jpg",
+				"job": "Dialogue",
+				"department": "Writing"
+			},
+			{
+				"id": 6466923,
+				"name": "Jaishree Damodaran",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2286057,
+				"name": "A. Rajesh",
+				"job": "Art Direction",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 6466924,
+				"name": "Arun Appukuttan",
+				"job": "Co-Director",
+				"department": "Directing"
+			},
+			{
+				"id": 1737324,
+				"name": "Harihara Suthan",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 4428437,
+				"name": "Ranga",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 1643581,
+				"name": "Kabilan Chellaiah",
+				"job": "Publicist",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4547585,
+				"name": "Suresh Mathiyalagan",
+				"profile_path": "/mVyXRlH7XAKDtkKde0ehiUy0MQi.jpg",
+				"job": "Assistant Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2375327,
+				"name": "Naveen Nazim",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 6466960,
+				"name": "Arjun Azad",
+				"job": "Associate Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 6181472,
+				"name": "Nivin Raphael",
+				"job": "Executive Music Producer",
+				"department": "Crew"
+			},
+			{
+				"id": 6467008,
+				"name": "Binoy T. Varghese",
+				"job": "Associate Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 5319069,
+				"name": "M. P. Senthel",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3382059,
+				"name": "K. Sridhar Raj",
+				"job": "Production Executive",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1870730,
+				"name": "Naveen Nanjundan",
+				"job": "Creative Producer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 6467016,
+				"name": "P. Karunakaran",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 6467018,
+				"name": "K. Sivakumar",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 4833983,
+				"name": "PRO Sathish",
+				"profile_path": "/rxvvzZNo5N7YCRKZ7o3LTjY2oKC.jpg",
+				"job": "Public Relations",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 6467101,
+				"name": "Vaasi",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 6467110,
+				"name": "Bavathayini Nagarajan",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 6467112,
+				"name": "Asvitha Ram",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 6307483,
+				"name": "Raj Priyan",
+				"profile_path": "/ss6VaBehRdfWYbELImrxynCXfcF.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 6307483,
+				"name": "Raj Priyan",
+				"profile_path": "/ss6VaBehRdfWYbELImrxynCXfcF.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1337182,
+				"name": "Gaana Bala",
+				"profile_path": "/1n3iWwW6Tt6hJ18vucLAvjgGRLo.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 4149211,
+				"name": "Yung Raja",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 4149211,
+				"name": "Yung Raja",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 2273453,
+				"name": "Arivu",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2336764,
+				"name": "Kaber Vasuki",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 2336764,
+				"name": "Kaber Vasuki",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 3456819,
+				"name": "Vijay Narain",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 5579871,
+				"name": "Arun Srinivasan",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 967676,
+				"name": "Sean Roldan",
+				"profile_path": "/5AC83RzEXwWiaUomPzKN1FLlUmd.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 6601713,
+				"name": "Rockzane",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 1123764,
+				"name": "Santhosh Narayanan",
+				"profile_path": "/z8A2tjQFOLjUg17uWroc2TcEviN.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2111230,
+				"name": "V. M. Mahalingam",
+				"profile_path": "/3jmy3HM7Ev9Bw3CaXLmijGAoEUE.jpg",
+				"job": "Playback Singer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 5557675,
+				"name": "Sublahshini",
+				"job": "Playback Singer",
+				"department": "Sound"
+			},
+			{
+				"id": 6604446,
+				"name": "Linto Kurian",
+				"job": "Associate Editor",
+				"department": "Editing"
+			}
+		]
+	}
+}
