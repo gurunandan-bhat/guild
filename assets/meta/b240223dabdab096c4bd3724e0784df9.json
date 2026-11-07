@@ -1,0 +1,469 @@
+{
+	"id": 1117898,
+	"title": "The Cat in the Hat",
+	"fcg_title": "The Cat in the Hat",
+	"original_title": "The Cat in the Hat",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 16,
+			"name": "Animation"
+		},
+		{
+			"id": 14,
+			"name": "Fantasy"
+		},
+		{
+			"id": 12,
+			"name": "Adventure"
+		},
+		{
+			"id": 10751,
+			"name": "Family"
+		},
+		{
+			"id": 35,
+			"name": "Comedy"
+		}
+	],
+	"overview": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
+	"backdrop_path": "/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
+	"poster_path": "/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
+	"release_date": "2026-10-31",
+	"credits": {
+		"cast": [
+			{
+				"id": 19278,
+				"order": 0,
+				"name": "Bill Hader",
+				"profile_path": "/qyT50vQ9PQIEctE1IxDTEsBKstU.jpg",
+				"character": "The Cat in the Hat (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1912381,
+				"order": 1,
+				"name": "Xochitl Gomez",
+				"profile_path": "/q39DOx44YHrGF1h88R9HxRNZS3.jpg",
+				"character": "Gabby (voice)",
+				"gender": 1
+			},
+			{
+				"id": 3516191,
+				"order": 2,
+				"name": "Tiago Martinez",
+				"profile_path": "/hqbi17NIqvNmBhI2KiazHtdpS8j.jpg",
+				"character": "Sebastian (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1488236,
+				"order": 3,
+				"name": "Matt Berry",
+				"profile_path": "/1UCAuXgzQfeANlLnZFVSuq0OFhR.jpg",
+				"character": "Waffles the Fish (voice)",
+				"gender": 2
+			},
+			{
+				"id": 1745988,
+				"order": 4,
+				"name": "Quinta Brunson",
+				"profile_path": "/1oEdBc88XAN3Z9n2pdNvH1XIT71.jpg",
+				"character": "Sherrie (voice)",
+				"gender": 1
+			},
+			{
+				"id": 1564920,
+				"order": 5,
+				"name": "Bowen Yang",
+				"profile_path": "/qzjyaEe7jjLaKSmzQ2dmtcjyCpe.jpg",
+				"character": "Gary (voice)",
+				"gender": 2
+			},
+			{
+				"id": 59174,
+				"order": 6,
+				"name": "America Ferrera",
+				"profile_path": "/7q9uUWnaIjveX8DTU2lcA7mA3dp.jpg",
+				"character": "Carmen (voice)",
+				"gender": 1
+			},
+			{
+				"id": 1226294,
+				"order": 7,
+				"name": "Paula Pell",
+				"profile_path": "/aQZsAcaac2zzLBMhb15O2mrSrpx.jpg",
+				"character": "Patty (voice)",
+				"gender": 1
+			},
+			{
+				"id": 1394997,
+				"order": 8,
+				"name": "Tituss Burgess",
+				"profile_path": "/aSgNPpLPp8Ou1X6qHdSP6Sq7Gju.jpg",
+				"character": "The Psychic Narwhal (voice)",
+				"gender": 2
+			},
+			{
+				"id": 4808,
+				"order": 9,
+				"name": "Giancarlo Esposito",
+				"profile_path": "/MJOo4QZgMAb3y8QzOUDVFQusQZ.jpg",
+				"character": "Mr. Hoogeboom (voice)",
+				"gender": 2
+			},
+			{
+				"id": 4097975,
+				"order": 10,
+				"name": "Ryan Gaffney",
+				"character": "Pig in a Wig (voice)"
+			},
+			{
+				"id": 6603966,
+				"order": 11,
+				"name": "Asha Marie",
+				"character": "Rosie (voice)"
+			},
+			{
+				"id": 6603962,
+				"order": 12,
+				"name": "Mayabella Sage Mccrillis",
+				"character": "Sally (voice)"
+			},
+			{
+				"id": 6603963,
+				"order": 13,
+				"name": "Johnny Haemmerle",
+				"profile_path": "/9uII9oQHZIFHvrrdDMkn2WcqpRM.jpg",
+				"character": "Dick (voice)"
+			},
+			{
+				"id": 3821421,
+				"order": 14,
+				"name": "Robin Åkerstrand",
+				"profile_path": "/xCziO8i9a5ASuYpbdOydHM2fJxs.jpg",
+				"character": "Additional Voices",
+				"gender": 2
+			},
+			{
+				"id": 89599,
+				"order": 15,
+				"name": "Eric Bauza",
+				"profile_path": "/lQl3CAkX5mY49bJUCGozO3wE6u1.jpg",
+				"character": "Additional Voices",
+				"gender": 2
+			},
+			{
+				"id": 84490,
+				"order": 16,
+				"name": "David Kaye",
+				"profile_path": "/izxtFSio5twcVA1oJWPvobxpcZj.jpg",
+				"character": "Additional Voices",
+				"gender": 2
+			},
+			{
+				"id": 30697,
+				"order": 17,
+				"name": "Jim Meskimen",
+				"profile_path": "/18eXUo8DfTwannhq8FOwgVdFs9Y.jpg",
+				"character": "Additional Voices",
+				"gender": 2
+			},
+			{
+				"id": 6603959,
+				"order": 18,
+				"name": "Kasur Mohammed",
+				"character": "Additional Voices"
+			},
+			{
+				"id": 40347,
+				"order": 19,
+				"name": "Dan Molina",
+				"character": "Additional Voices",
+				"gender": 2
+			},
+			{
+				"id": 116316,
+				"order": 20,
+				"name": "Dannah Feinglass Phirman",
+				"profile_path": "/t2SnmEYrHloRBcuCTJ9fsqN447Z.jpg",
+				"character": "Additional Voices (as Dannah Phirman)",
+				"gender": 1
+			},
+			{
+				"id": 2744581,
+				"order": 21,
+				"name": "Eric Wentz",
+				"character": "Additional Voices"
+			}
+		],
+		"crew": [
+			{
+				"id": 1262481,
+				"name": "Alessandro Carloni",
+				"profile_path": "/igd5EphyUtZKveyeLYe4eLTztxd.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1229796,
+				"name": "Erica Rivinoja",
+				"profile_path": "/nOqOMSWIpFkFytBFGzuysk08wxG.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 1229796,
+				"name": "Erica Rivinoja",
+				"profile_path": "/nOqOMSWIpFkFytBFGzuysk08wxG.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 1
+			},
+			{
+				"id": 1262481,
+				"name": "Alessandro Carloni",
+				"profile_path": "/igd5EphyUtZKveyeLYe4eLTztxd.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1543231,
+				"name": "Christopher Barnett",
+				"profile_path": "/dsSlB7X4nOR8dPN6kfHWs07GYEQ.jpg",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 2002545,
+				"name": "Daniela Mazzucato",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3666371,
+				"name": "Susan Brandt",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 19278,
+				"name": "Bill Hader",
+				"profile_path": "/qyT50vQ9PQIEctE1IxDTEsBKstU.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 45398,
+				"name": "Steve Zissis",
+				"profile_path": "/hiaDKTWD9dziiMjSDbCDh7bltDU.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 17610,
+				"name": "Kristy Carlson",
+				"profile_path": "/eOkyPn11geR4YVjdcj9UD3Oiw6q.jpg",
+				"job": "Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 4149035,
+				"name": "Aidan Sugano",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 1341649,
+				"name": "Christopher Scott",
+				"profile_path": "/lns36CGr9csnSvDdDdnji62BUZE.jpg",
+				"job": "Choreographer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 5543117,
+				"name": "Benoît Chieusse",
+				"job": "Compositing Artist",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1351221,
+				"name": "Caroline Goddard",
+				"profile_path": "/4TGhnLsMHLT8TzhghHdit84p15u.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 1
+			},
+			{
+				"id": 929145,
+				"name": "Lorne Balfe",
+				"profile_path": "/ryV3HjdAiFH2VQGQY6yXy4z9Xbk.jpg",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 65705,
+				"name": "Dr. Seuss",
+				"profile_path": "/610hjTL3wQsgXaOPKTJ1bTQzgnG.jpg",
+				"job": "Novel",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 5958,
+				"name": "Hilary Duff",
+				"profile_path": "/2CCWB8ow2S1jxTrajq1YKOubFGN.jpg",
+				"job": "Songs",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 2333051,
+				"name": "Michael Fitzpatrick",
+				"profile_path": "/1XI14bCTRk646BK6yV7NbjmRgQB.jpg",
+				"job": "Songs",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 89564,
+				"name": "Tim Minchin",
+				"profile_path": "/jIf1rJYaoJgB73iGPYu4U6Ce93.jpg",
+				"job": "Songs",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 186605,
+				"name": "Terri Douglas",
+				"profile_path": "/6yRCc5oKalchZuRvVJJbEDNmLEd.jpg",
+				"job": "ADR Voice Casting",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 6521616,
+				"name": "Elissa Gonzales",
+				"job": "Character Designer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1665692,
+				"name": "Javier Benavente",
+				"job": "Production Assistant",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4862778,
+				"name": "Matilda Harris",
+				"job": "Production Coordinator",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 40347,
+				"name": "Dan Molina",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 65673,
+				"name": "Bill Damaschke",
+				"profile_path": "/5MNJnevmsXeFQ7por5fuq1OUd71.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4445622,
+				"name": "Pete Chiappetta",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4445623,
+				"name": "Andrew Lary",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 4445624,
+				"name": "Anthony Tittanegro",
+				"profile_path": "/3KPNXBg7a1jw97234n98weScLmF.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 940376,
+				"name": "Kelly Marcel",
+				"profile_path": "/9RYRmK55zhJgKrlIpkqqqKHTDG6.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			},
+			{
+				"id": 20400,
+				"name": "Tim Story",
+				"profile_path": "/9tixtZ4m2gpfBXPpVS2aFhGZg9D.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1403179,
+				"name": "Alex Timbers",
+				"profile_path": "/83LGBrsxCi2LRLLn31vJPzRR3Al.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 2012818,
+				"name": "Denise L. Rottina",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2928409,
+				"name": "Amos Sussigan",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 6606863,
+				"name": "Scott Seeto",
+				"job": "Art Direction",
+				"department": "Art"
+			},
+			{
+				"id": 2014041,
+				"name": "Johnna Todesco",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2688994,
+				"name": "Dhrubajyoti Shit",
+				"job": "Animation",
+				"department": "Visual Effects"
+			}
+		]
+	}
+}
