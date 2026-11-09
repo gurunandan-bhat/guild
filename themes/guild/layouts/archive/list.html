@@ -1,0 +1,27 @@
+{{- define "main" }}
+<div class="container-fluid">
+	<img src="/images/newsletter-archive-banner.png" class="img-fluid w-100 mb-5" />
+</div>    
+<div class="container">
+	<div class="row">
+		<div class="col-8 offset-2">
+			<div class="row">
+				<p>The Film Critics Guild delivers a monthly newsletter with the top rated films in that period, special features and other articles of interest to its members and general cineastes. Click on any thumbnail below to view the newsletter for that month.</p>
+				<p class="mb-5">The subscription is open to non-members too. If you are not a member of the Guild, you can <a href="https://www.filmcriticsguild.com/newsletter/subscribe" target="_blank">click here</a> to subscribe. The newsletter is mailed once a month.</p>
+				{{- range .RegularPages.ByWeight.Reverse }}
+                    {{- $link := .Params.link }}
+					<div class="col-lg-3 col-md-6 col-sm-12 mb-5 pb-3 text-center">
+						<a href="{{ $link }}" class="btn btn-success">{{ .LinkTitle }}</a>
+                        {{- $title := .LinkTitle }}
+                        {{- with .Params.thumb }}
+                            {{- with resources.Get . }}
+                                <a href="{{- $link }}" target="_blank"><img src="{{ .RelPermalink }}" alt="{{ $title }}" class="img-fluid w-100 mt-3" /></a>
+                            {{- end }}
+                        {{- end }}
+					</div>
+				{{- end }}
+			</div>
+		</div>
+	</div>
+</div>
+{{- end }}
