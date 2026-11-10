@@ -4,16 +4,21 @@ pageRef = '/'
 weight  = 10
 
 [[main]]
-name    = 'All Films'
+name    = 'Films'
 pageRef = '/mreviews'
 weight  = 20
 
 [[main]]
-name    = 'All Languages'
+name    = 'Languages'
 pageRef = '/language'
 weight  = 20
 
 [[main]]
-name    = 'All Critics'
+name    = 'Critics'
 pageRef = '/critics'
 weight  = 30
+
+[[main]]
+name    = 'Newsletter'
+pageRef = '/archive'
+weight  = 40
