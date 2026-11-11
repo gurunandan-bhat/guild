@@ -1,0 +1,153 @@
+{
+	"id": 84773,
+	"name": "The Lord of the Rings: The Rings of Power",
+	"fcg_title": "The Rings of Power S03",
+	"original_language": "en",
+	"genres": [
+		{
+			"id": 10759,
+			"name": "Action \u0026 Adventure"
+		},
+		{
+			"id": 10765,
+			"name": "Sci-Fi \u0026 Fantasy"
+		}
+	],
+	"overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+	"backdrop_path": "/achmETPRJZc9QVXsMPgHwYEyNar.jpg",
+	"poster_path": "/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 1321628,
+				"order": 1,
+				"name": "Morfydd Clark",
+				"profile_path": "/kG1Xg85F9yAggCMquo4XouAOjdo.jpg",
+				"character": "Galadriel",
+				"gender": 1
+			},
+			{
+				"id": 1648346,
+				"order": 3,
+				"name": "Robert Aramayo",
+				"profile_path": "/1wqSZVvB018H2mZbemMSn6gH4zq.jpg",
+				"character": "Elrond",
+				"gender": 2
+			},
+			{
+				"id": 1274938,
+				"order": 5,
+				"name": "Owain Arthur",
+				"profile_path": "/ljqVjVzp9pgcfTTU3oJbKtnd6im.jpg",
+				"character": "Durin IV",
+				"gender": 2
+			},
+			{
+				"id": 2056333,
+				"order": 6,
+				"name": "Sophia Nomvete",
+				"profile_path": "/fRglwdtHHjLGAMIoCkqXwQ9bIfd.jpg",
+				"character": "Disa",
+				"gender": 1
+			},
+			{
+				"id": 2138256,
+				"order": 8,
+				"name": "Markella Kavenagh",
+				"profile_path": "/gHBoS2Ql0ywj6kfkxixqPPryqTQ.jpg",
+				"character": "Elanor 'Nori' Brandyfoot",
+				"gender": 1
+			},
+			{
+				"id": 1100144,
+				"order": 10,
+				"name": "Ismael Cruz Cordova",
+				"profile_path": "/oXcrsQGndk60iFkNB8qFnMHlNzL.jpg",
+				"character": "Arondir",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 29609,
+				"name": "Stuart Kearns",
+				"job": "Supervising Art Director",
+				"department": "Art"
+			},
+			{
+				"id": 2020340,
+				"name": "James Yeoman",
+				"job": "Visual Effects Producer",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 2011442,
+				"name": "Scott Pritchard",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1482841,
+				"name": "Steve Aplin",
+				"profile_path": "/5trC8MSlMmrmOUrv5i2s9w3J7Y8.jpg",
+				"job": "Animation Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 1998244,
+				"name": "Lee Briggs",
+				"profile_path": "/zRvlrS7KkqHPMyRegutjdfIXHm.jpg",
+				"job": "Executive Visual Effects Producer",
+				"department": "Crew",
+				"gender": 2
+			},
+			{
+				"id": 1457306,
+				"name": "Flora Moody",
+				"profile_path": "/f7NBaNHErev8dijQWYUkEDTsTpD.jpg",
+				"job": "Makeup Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1457306,
+				"name": "Flora Moody",
+				"profile_path": "/f7NBaNHErev8dijQWYUkEDTsTpD.jpg",
+				"job": "Hair Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 3076199,
+				"name": "James Manning",
+				"job": "Second Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1621772,
+				"name": "Jason Smith",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 129,
+				"name": "J. R. R. Tolkien",
+				"profile_path": "/U2bwiLRz8HfVXN4JJGpZBVDMRu.jpg",
+				"job": "Novel",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2776198,
+				"name": "Sharon Tal Yguado",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 1
+			}
+		]
+	}
+}
