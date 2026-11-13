@@ -1,0 +1,415 @@
+{
+	"id": 1493572,
+	"title": "Parivarik ManuRanjan",
+	"fcg_title": "Parivarik ManuRanjan",
+	"original_title": "पारिवारिक मनुरंजन",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 10749,
+			"name": "Romance"
+		},
+		{
+			"id": 35,
+			"name": "Comedy"
+		}
+	],
+	"overview": "Ranjan Dubey, Lucknow's most eligible bachelor, finds his search for a bride taking an unexpected turn when Helen, his charming new househelp, walks into his life. With everyone having an opinion on this unlikely duo, will their companionship blossom into love?",
+	"backdrop_path": "/9j9DtcTGSSZJVrimys2emN5kVh3.jpg",
+	"poster_path": "/2gKGkD0pN2Ss9LrHA6tv5hEjHOs.jpg",
+	"release_date": "2026-11-12",
+	"credits": {
+		"cast": [
+			{
+				"id": 1179460,
+				"order": 0,
+				"name": "Pankaj Tripathi",
+				"profile_path": "/429hnZC7O6GEDs7DWHdYMI27h8I.jpg",
+				"character": "Ranjan",
+				"gender": 2
+			},
+			{
+				"id": 88797,
+				"order": 1,
+				"name": "Aditi Rao Hydari",
+				"profile_path": "/916bFZvv5LjB1C3ZuJRrMfvs7oa.jpg",
+				"character": "Helen",
+				"gender": 1
+			},
+			{
+				"id": 230440,
+				"order": 2,
+				"name": "Brijendra Kala",
+				"profile_path": "/wogG1hX0EHzAhnfnGpN3tY3Ch6n.jpg",
+				"character": "Rajaram",
+				"gender": 2
+			},
+			{
+				"id": 2163264,
+				"order": 3,
+				"name": "Sunita Rajwar",
+				"profile_path": "/cEhnGiU6arxA4vxZCUspFWDP76F.jpg",
+				"character": "Tamanna",
+				"gender": 1
+			},
+			{
+				"id": 1758521,
+				"order": 4,
+				"name": "Vijayant Kohli",
+				"profile_path": "/dzzewlf0Z5dEkVxu4QkH86xUEx4.jpg",
+				"character": "Harishankar",
+				"gender": 2
+			},
+			{
+				"id": 86064,
+				"order": 5,
+				"name": "Mukesh Tiwari",
+				"profile_path": "/37GTjltEJHpi1lQmLmHKJYTpxjj.jpg",
+				"character": "Bhoop Singh",
+				"gender": 2
+			},
+			{
+				"id": 2271007,
+				"order": 6,
+				"name": "Neelu Dogra",
+				"character": "Babita"
+			},
+			{
+				"id": 3569137,
+				"order": 7,
+				"name": "Kumar Saurabh",
+				"character": "Chaurasiya"
+			},
+			{
+				"id": 6650776,
+				"order": 8,
+				"name": "Simran Awasthi",
+				"character": "Babli"
+			}
+		],
+		"crew": [
+			{
+				"id": 1616815,
+				"name": "Varun V. Sharma",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 2345486,
+				"name": "Vinod Bhanushali",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1210707,
+				"name": "Himanshu Mehra",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 1561054,
+				"name": "Ali Abbas Zafar",
+				"profile_path": "/o7ZZtjh7MBt0zQXWJtGoRN5tE7G.jpg",
+				"job": "Creative Producer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 3539350,
+				"name": "Kamlesh Bhanushali",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4078978,
+				"name": "Alicia Zafar",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 230440,
+				"name": "Brijendra Kala",
+				"profile_path": "/wogG1hX0EHzAhnfnGpN3tY3Ch6n.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 230440,
+				"name": "Brijendra Kala",
+				"profile_path": "/wogG1hX0EHzAhnfnGpN3tY3Ch6n.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 230440,
+				"name": "Brijendra Kala",
+				"profile_path": "/wogG1hX0EHzAhnfnGpN3tY3Ch6n.jpg",
+				"job": "Dialogue",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1616815,
+				"name": "Varun V. Sharma",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1616815,
+				"name": "Varun V. Sharma",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1561054,
+				"name": "Ali Abbas Zafar",
+				"profile_path": "/o7ZZtjh7MBt0zQXWJtGoRN5tE7G.jpg",
+				"job": "Story",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 1561054,
+				"name": "Ali Abbas Zafar",
+				"profile_path": "/o7ZZtjh7MBt0zQXWJtGoRN5tE7G.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2485405,
+				"name": "Bhavesh Bhanushali",
+				"profile_path": "/oyaU0Jxk8GKH12nAOzRC2KZqhtH.jpg",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4078974,
+				"name": "Kalbe Haider Zaidi",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4078977,
+				"name": "Iffat Ara Zaidi",
+				"job": "Co-Producer",
+				"department": "Production"
+			},
+			{
+				"id": 6648220,
+				"name": "Ekesh Ranadive",
+				"job": "Associate Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2163246,
+				"name": "Anup Singh",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1846522,
+				"name": "Vikram Singh",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 2754879,
+				"name": "Ravin Karde",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 3773775,
+				"name": "Steven Bernard",
+				"job": "Editor",
+				"department": "Editing"
+			},
+			{
+				"id": 1561054,
+				"name": "Ali Abbas Zafar",
+				"profile_path": "/o7ZZtjh7MBt0zQXWJtGoRN5tE7G.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 3027080,
+				"name": "Anuj Garg",
+				"job": "Music",
+				"department": "Sound"
+			},
+			{
+				"id": 1834556,
+				"name": "Shamir Tandon",
+				"job": "Music",
+				"department": "Sound"
+			},
+			{
+				"id": 4545806,
+				"name": "Yash Kapoor",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 3027080,
+				"name": "Anuj Garg",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 2881006,
+				"name": "Niket Pandey",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 2963787,
+				"name": "Nikhat Khan",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 5066327,
+				"name": "Panther",
+				"job": "Lyricist",
+				"department": "Writing"
+			},
+			{
+				"id": 1561054,
+				"name": "Ali Abbas Zafar",
+				"profile_path": "/o7ZZtjh7MBt0zQXWJtGoRN5tE7G.jpg",
+				"job": "Lyricist",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2835301,
+				"name": "Joel Crasto",
+				"job": "Original Music Composer",
+				"department": "Sound"
+			},
+			{
+				"id": 2384395,
+				"name": "Malvika Bajaj",
+				"job": "Costume Design",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 6648261,
+				"name": "Vineet Chauhan",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 1892997,
+				"name": "Chandrakant Sonawane",
+				"job": "Costume Designer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 2
+			},
+			{
+				"id": 1755493,
+				"name": "Parvez Shaikh",
+				"job": "Stunt Coordinator",
+				"department": "Crew"
+			},
+			{
+				"id": 6124279,
+				"name": "Tejaswi Shetty",
+				"job": "Choreographer",
+				"department": "Crew"
+			},
+			{
+				"id": 1785026,
+				"name": "Manas Choudhury",
+				"job": "Location Sound Recordist",
+				"department": "Sound"
+			},
+			{
+				"id": 4515928,
+				"name": "Sher Bahadur Singh",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up"
+			},
+			{
+				"id": 2215836,
+				"name": "Jatin Pawan Girotra",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 6648277,
+				"name": "Vandana Merchant",
+				"job": "Script Supervisor",
+				"department": "Directing"
+			},
+			{
+				"id": 5496670,
+				"name": "Amarpreet Singh",
+				"job": "Line Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4497134,
+				"name": "Mohit Sukhija",
+				"job": "Post Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2074617,
+				"name": "Rahul Purav",
+				"job": "Colorist",
+				"department": "Editing"
+			},
+			{
+				"id": 3131830,
+				"name": "Shashi Gowda",
+				"job": "Head of Production",
+				"department": "Production"
+			},
+			{
+				"id": 5315315,
+				"name": "C.V. Raju",
+				"job": "Sound Re-Recording Mixer",
+				"department": "Sound"
+			},
+			{
+				"id": 2280882,
+				"name": "Ashim Sonowal",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 6378042,
+				"name": "Raghav Puri",
+				"job": "Sound Designer",
+				"department": "Sound"
+			},
+			{
+				"id": 4523126,
+				"name": "Kannan T.",
+				"job": "VFX Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 4442654,
+				"name": "Adri Thakur",
+				"job": "Additional Camera",
+				"department": "Camera"
+			},
+			{
+				"id": 1708062,
+				"name": "Anmol Ahuja",
+				"job": "Casting Director",
+				"department": "Production"
+			}
+		]
+	}
+}
