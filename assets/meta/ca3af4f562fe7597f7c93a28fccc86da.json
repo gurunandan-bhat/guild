@@ -1,0 +1,121 @@
+{
+	"id": 275204,
+	"name": "Dhindora",
+	"fcg_title": "Dhindora 2",
+	"original_language": "hi",
+	"genres": [
+		{
+			"id": 35,
+			"name": "Comedy"
+		},
+		{
+			"id": 18,
+			"name": "Drama"
+		}
+	],
+	"overview": "The story revolves around Bhuvan and his family's everyday lives, when an unexpected purchase leads to a series of events and depicts every common man's larger than life dreams.",
+	"backdrop_path": "/2QsmesFzm5WaP70pRmCbVBzvXDA.jpg",
+	"poster_path": "/cVaqEhiRPtnWzZVNZu9iaJHsoVE.jpg",
+	"credits": {
+		"cast": [
+			{
+				"id": 2336034,
+				"order": 0,
+				"name": "Bhuvan Bam",
+				"profile_path": "/jGMAuxzlfRE2PHUZ9lk94V5HqAV.jpg",
+				"character": "Bhuvan/ Babloo/ Bancho/ Jaanki/ Sameer Fuddi/ Titu/ Detective Mangloo/ Mr. Hola/ Bubbly Sir/ Lakhan Chhatriwala",
+				"gender": 2
+			},
+			{
+				"id": 35756,
+				"order": 9,
+				"name": "Rajpal Yadav",
+				"profile_path": "/aJJAU9EPiiXRsWDuy60mXE8U6lT.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1235179,
+				"order": 10,
+				"name": "Sanjeeda Sheikh",
+				"profile_path": "/rz92hLtWoj1OCCchAZLtZvPwp0o.jpg",
+				"character": "Kavita Mami",
+				"gender": 1
+			}
+		],
+		"crew": [
+			{
+				"id": 1678468,
+				"name": "Abbas Dalal",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 1673370,
+				"name": "Hussain Dalal",
+				"profile_path": "/6V4sNgeLJQ1u8k9MPjVqytKBQWo.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 3197623,
+				"name": "Chetan Dange",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 3638259,
+				"name": "Gopal Dutt",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 3630103,
+				"name": "Shubham Dubey",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 3213302,
+				"name": "Anant Dubey",
+				"job": "Writer",
+				"department": "Writing"
+			},
+			{
+				"id": 3259435,
+				"name": "Rohit Raj",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 3259436,
+				"name": "Arvin Bhandari",
+				"job": "Executive Producer",
+				"department": "Production"
+			},
+			{
+				"id": 4488725,
+				"name": "Sneha Shetty Kohli",
+				"job": "Director",
+				"department": "Directing"
+			},
+			{
+				"id": 2336034,
+				"name": "Bhuvan Bam",
+				"profile_path": "/jGMAuxzlfRE2PHUZ9lk94V5HqAV.jpg",
+				"job": "Screenplay",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 2336034,
+				"name": "Bhuvan Bam",
+				"profile_path": "/jGMAuxzlfRE2PHUZ9lk94V5HqAV.jpg",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			}
+		]
+	}
+}
