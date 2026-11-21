@@ -1,0 +1,560 @@
+{
+	"id": 1381071,
+	"title": "Godzilla Minus Zero",
+	"fcg_title": "Godzilla Minus Zero",
+	"original_title": "ゴジラ-0.0",
+	"original_language": "ja",
+	"genres": [
+		{
+			"id": 878,
+			"name": "Science Fiction"
+		},
+		{
+			"id": 27,
+			"name": "Horror"
+		},
+		{
+			"id": 28,
+			"name": "Action"
+		}
+	],
+	"overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+	"backdrop_path": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+	"poster_path": "/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+	"release_date": "2026-11-03",
+	"credits": {
+		"cast": [
+			{
+				"id": 225730,
+				"order": 0,
+				"name": "Ryunosuke Kamiki",
+				"profile_path": "/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg",
+				"character": "Kōichi Shikishima",
+				"gender": 2
+			},
+			{
+				"id": 1516266,
+				"order": 1,
+				"name": "Minami Hamabe",
+				"profile_path": "/eQN8N2chINckvQDiNqzDXI0v9vN.jpg",
+				"character": "Noriko Shikishima",
+				"gender": 1
+			},
+			{
+				"id": 136191,
+				"order": 2,
+				"name": "Min Tanaka",
+				"profile_path": "/bXmBnejA48Da7LzLdJqTKSVPCwd.jpg",
+				"character": "Kanji Murakami",
+				"gender": 2
+			},
+			{
+				"id": 111691,
+				"order": 3,
+				"name": "Hidetaka Yoshioka",
+				"profile_path": "/xWNS6qStVthhWoxmKDfNS729BjJ.jpg",
+				"character": "Kenji Noda",
+				"gender": 2
+			},
+			{
+				"id": 87637,
+				"order": 4,
+				"name": "Masami Nagasawa",
+				"profile_path": "/yvHhfDOral1DeyBRSzpxsoHz60t.jpg",
+				"character": "Makoto Aoyama",
+				"gender": 1
+			},
+			{
+				"id": 1161474,
+				"order": 5,
+				"name": "Yuki Yamada",
+				"profile_path": "/1oRe8UYddBYzyqAjlSwMTIFgg4K.jpg",
+				"character": "Shiro Mizushima",
+				"gender": 2
+			},
+			{
+				"id": 121716,
+				"order": 6,
+				"name": "Kuranosuke Sasaki",
+				"profile_path": "/lPDKfLKIKDCBdqig3uhYnPjwY5h.jpg",
+				"character": "Seiji Akitsu",
+				"gender": 2
+			},
+			{
+				"id": 2541,
+				"order": 7,
+				"name": "Jun Kunimura",
+				"profile_path": "/zC0GbuXQGPur7i8AkdPUWedmDKz.jpg",
+				"character": "Dr. Ogata",
+				"gender": 2
+			},
+			{
+				"id": 100766,
+				"order": 8,
+				"name": "Sakura Ando",
+				"profile_path": "/k2R2ryEFEuUe2f3Dsd5yH8aRdqV.jpg",
+				"character": "Sumiko Ōta",
+				"gender": 1
+			},
+			{
+				"id": 2430993,
+				"order": 9,
+				"name": "Miou Tanaka",
+				"profile_path": "/4dXKZqcF1K6n6yVAGVVRlsc1RU0.jpg",
+				"character": "Captain Tatsuo Hotta",
+				"gender": 2
+			},
+			{
+				"id": 4389435,
+				"order": 10,
+				"name": "Sae Nagatani",
+				"profile_path": "/tfHWenV2BLQ7qfr6mbHIeFrETFT.jpg",
+				"character": "Akiko Shikishima",
+				"gender": 1
+			},
+			{
+				"id": 111640,
+				"order": 11,
+				"name": "Munetaka Aoki",
+				"profile_path": "/l5GdFPBBz717Kiimyqp5ieaglVo.jpg",
+				"character": "Sosaku Tachibana",
+				"gender": 2
+			},
+			{
+				"id": 2090099,
+				"order": 12,
+				"name": "Kou Maehara",
+				"profile_path": "/fpcOA4a1kJ5lFK8iUaWIEhoenhk.jpg",
+				"character": "Akira Hagiwara",
+				"gender": 2
+			},
+			{
+				"id": 43667,
+				"order": 13,
+				"name": "Kisuke Iida",
+				"profile_path": "/iPz9FYCpT1XdUtBCE7qTiOD9dFx.jpg",
+				"character": "Akio Itagaki",
+				"gender": 2
+			},
+			{
+				"id": 79006,
+				"order": 14,
+				"name": "Kenji Mizuhashi",
+				"profile_path": "/2ydE4b4j3gFmx7kPPrGOuVyM4DX.jpg",
+				"character": "Kunio Tsuruno",
+				"gender": 2
+			},
+			{
+				"id": 1168936,
+				"order": 15,
+				"name": "Eita Okuno",
+				"profile_path": "/fgtXphm3vU3MYulHbmTTObJQQON.jpg",
+				"character": "Heikichi Tokiwa",
+				"gender": 2
+			},
+			{
+				"id": 5397626,
+				"order": 16,
+				"name": "Wes Wing",
+				"character": "Major Harlan Gilbert"
+			},
+			{
+				"id": 77921,
+				"order": 17,
+				"name": "Hideaki Anno",
+				"profile_path": "/AfV9h1RW6uALpx751APdUoX8ONc.jpg",
+				"character": "Man on Train",
+				"gender": 2
+			},
+			{
+				"id": 236539,
+				"order": 18,
+				"name": "Jordan Vogt-Roberts",
+				"profile_path": "/wHySqvxNrI0WEdH3bFPU1nHdY7x.jpg",
+				"character": "US Soldier",
+				"gender": 2
+			},
+			{
+				"id": 56343,
+				"order": 19,
+				"name": "Michael Arias",
+				"profile_path": "/bUIviOV86MUZGJwK55dwrjYRWuV.jpg",
+				"character": "Soldier",
+				"gender": 2
+			},
+			{
+				"id": 991978,
+				"order": 20,
+				"name": "Jake O'Connor",
+				"profile_path": "/1hqeHgDa6QZmXjgfbYs2E03brqn.jpg",
+				"character": "Jenkins"
+			},
+			{
+				"id": 46365,
+				"order": 21,
+				"name": "Yuma Ishigaki",
+				"profile_path": "/xyTh2U2Cm9mVc4wdcCL2jS85cpp.jpg",
+				"character": "Shoji Tanabe",
+				"gender": 2
+			},
+			{
+				"id": 1129848,
+				"order": 22,
+				"name": "Toshihiro Yashiba",
+				"profile_path": "/spZDzLdREY66MMUVzGV7GnOWA1j.jpg",
+				"gender": 2
+			},
+			{
+				"id": 1968939,
+				"order": 23,
+				"name": "Shota Taniguchi",
+				"profile_path": "/2A5yar5CEvd7t9FSLioUazpRdeG.jpg",
+				"gender": 2
+			},
+			{
+				"id": 4344356,
+				"order": 24,
+				"name": "Masayuki Yamada",
+				"gender": 2
+			},
+			{
+				"id": 1102680,
+				"order": 25,
+				"name": "Ippei Sasaki",
+				"profile_path": "/9LSoZVDd6xeAaXJbyg8FTBWEfYu.jpg",
+				"gender": 2
+			},
+			{
+				"id": 4689808,
+				"order": 26,
+				"name": "Shinji Nagashima",
+				"profile_path": "/mrqTCabOBwoCa2SAbjy4TSu9ZrN.jpg",
+				"gender": 2
+			},
+			{
+				"id": 4689814,
+				"order": 27,
+				"name": "Akihiro Yamamoto",
+				"profile_path": "/ciRe2qv6AkbFeMMPIvryDZIoy4r.jpg",
+				"gender": 2
+			},
+			{
+				"id": 4631781,
+				"order": 28,
+				"name": "Hidehiko Yamada",
+				"gender": 2
+			},
+			{
+				"id": 4294829,
+				"order": 29,
+				"name": "Yuki Takao",
+				"profile_path": "/i6WZYK5uHmq0JVGTefgUNzaGjJE.jpg",
+				"gender": 2
+			},
+			{
+				"id": 4689800,
+				"order": 30,
+				"name": "Makoto Matsumoto",
+				"gender": 2
+			},
+			{
+				"id": 4689818,
+				"order": 31,
+				"name": "Atomu Ito",
+				"gender": 2
+			},
+			{
+				"id": 3213098,
+				"order": 32,
+				"name": "Django Yamada",
+				"gender": 2
+			},
+			{
+				"id": 6608905,
+				"order": 33,
+				"name": "Gomesu Horigome"
+			},
+			{
+				"id": 1311485,
+				"order": 34,
+				"name": "Ozuno Nakamura",
+				"profile_path": "/pXmHVdMhyP801KhvMofOxz2zN3h.jpg",
+				"gender": 2
+			},
+			{
+				"id": 3043735,
+				"order": 35,
+				"name": "Keisuke Fujita",
+				"gender": 2
+			},
+			{
+				"id": 4689766,
+				"order": 36,
+				"name": "Ryota Tsuchihashi",
+				"gender": 2
+			},
+			{
+				"id": 4689783,
+				"order": 37,
+				"name": "Shunpeter Sugisaki",
+				"gender": 2
+			},
+			{
+				"id": 4689789,
+				"order": 38,
+				"name": "Yusuke Karita",
+				"gender": 2
+			},
+			{
+				"id": 4515741,
+				"order": 39,
+				"name": "Akio Nakadai",
+				"gender": 2
+			},
+			{
+				"id": 3704269,
+				"order": 40,
+				"name": "Goro Sato",
+				"profile_path": "/mw8POLI7qXtxVKJAVUC6HJQCX7C.jpg",
+				"gender": 2
+			},
+			{
+				"id": 4689319,
+				"order": 41,
+				"name": "Masaichi Wanibuchi",
+				"gender": 2
+			},
+			{
+				"id": 2044227,
+				"order": 42,
+				"name": "Koya Fukuda",
+				"profile_path": "/A7bElkydBLIDTReM0LnVrxV3wJN.jpg",
+				"gender": 2
+			}
+		],
+		"crew": [
+			{
+				"id": 43652,
+				"name": "Takashi Yamazaki",
+				"profile_path": "/uMBvVGGHRupMpnkdveXdWA0oZwC.jpg",
+				"job": "Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 1537405,
+				"name": "Naoki Sato",
+				"job": "Original Music Composer",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 6163300,
+				"name": "Shiori Haba",
+				"job": "Set Decoration",
+				"department": "Art"
+			},
+			{
+				"id": 2257815,
+				"name": "Kazuaki Kishida",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 43652,
+				"name": "Takashi Yamazaki",
+				"profile_path": "/uMBvVGGHRupMpnkdveXdWA0oZwC.jpg",
+				"job": "Writer",
+				"department": "Writing",
+				"gender": 2
+			},
+			{
+				"id": 6537141,
+				"name": "Atsushi ŌTSUKI",
+				"job": "Production Supervisor",
+				"department": "Production"
+			},
+			{
+				"id": 5666730,
+				"name": "Akira Maguchi",
+				"job": "Production Manager",
+				"department": "Production"
+			},
+			{
+				"id": 2159316,
+				"name": "Kohei Adachi",
+				"job": "Assistant Director",
+				"department": "Directing",
+				"gender": 2
+			},
+			{
+				"id": 3114080,
+				"name": "Masahiro Ishiyama",
+				"job": "Colorist",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 2483071,
+				"name": "Natsuko Inoue",
+				"job": "Sound Effects",
+				"department": "Sound",
+				"gender": 1
+			},
+			{
+				"id": 115641,
+				"name": "Ryuji Miyajima",
+				"profile_path": "/6byGshsPfd9mP4ZqbyJW07nnPRq.jpg",
+				"job": "Editor",
+				"department": "Editing",
+				"gender": 2
+			},
+			{
+				"id": 2238639,
+				"name": "Michiyo Miyauchi",
+				"job": "Makeup \u0026 Hair",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 4456574,
+				"name": "Aiko Mizushima",
+				"job": "Costumer",
+				"department": "Costume \u0026 Make-Up",
+				"gender": 1
+			},
+			{
+				"id": 1537408,
+				"name": "Tetsuji Tatsuta",
+				"job": "Decorator",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 6163300,
+				"name": "Shiori Haba",
+				"job": "Decorator",
+				"department": "Art"
+			},
+			{
+				"id": 552535,
+				"name": "Anri Jojo",
+				"job": "Production Design",
+				"department": "Art",
+				"gender": 2
+			},
+			{
+				"id": 5700410,
+				"name": "Wataru Hirai",
+				"job": "Production Design",
+				"department": "Art"
+			},
+			{
+				"id": 3232436,
+				"name": "Hisafumi Takeuchi",
+				"job": "Sound Recordist",
+				"department": "Sound",
+				"gender": 2
+			},
+			{
+				"id": 1403358,
+				"name": "Nariyuki Ueda",
+				"job": "Gaffer",
+				"department": "Lighting",
+				"gender": 2
+			},
+			{
+				"id": 43659,
+				"name": "Kōzō Shibazaki",
+				"job": "Camera Operator",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 4562497,
+				"name": "Hirofumi Sakurai",
+				"job": "Line Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1367199,
+				"name": "Keichiiro Moriya",
+				"job": "Producer",
+				"department": "Production"
+			},
+			{
+				"id": 2161698,
+				"name": "Go Abe",
+				"job": "Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 43659,
+				"name": "Kōzō Shibazaki",
+				"job": "Director of Photography",
+				"department": "Camera",
+				"gender": 2
+			},
+			{
+				"id": 1029281,
+				"name": "Minami Ichikawa",
+				"profile_path": "/hbLwY27J83U0FFTPqYvfFXpBRco.jpg",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 1537404,
+				"name": "Taichi Ueda",
+				"job": "Executive Producer",
+				"department": "Production",
+				"gender": 2
+			},
+			{
+				"id": 43652,
+				"name": "Takashi Yamazaki",
+				"profile_path": "/uMBvVGGHRupMpnkdveXdWA0oZwC.jpg",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 2
+			},
+			{
+				"id": 4839776,
+				"name": "Takayuki Ueki",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 4788498,
+				"name": "Eisin Okubo",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects"
+			},
+			{
+				"id": 1537411,
+				"name": "Kiyoko Shibuya",
+				"profile_path": "/syU4JHh4tCV6huu2aV1WWZlIyQD.jpg",
+				"job": "Visual Effects Supervisor",
+				"department": "Visual Effects",
+				"gender": 1
+			},
+			{
+				"id": 4839814,
+				"name": "Chikako Aho",
+				"job": "Script Supervisor",
+				"department": "Directing"
+			},
+			{
+				"id": 425396,
+				"name": "Akira Ifukube",
+				"profile_path": "/bBc4rGqkN0OBHcw3DRa9jlMvje3.jpg",
+				"job": "Music",
+				"department": "Sound",
+				"gender": 2
+			}
+		]
+	}
+}
